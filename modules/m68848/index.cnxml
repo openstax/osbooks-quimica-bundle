@@ -3,14 +3,14 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68848</md:content-id>
   <md:title>Aldehídos, cetonas, ácidos carboxílicos y ésteres</md:title>
-  <md:abstract><para>Al final de esta sección, podrá:</para>
-<list><item>Describir la estructura y las propiedades de los aldehídos, las cetonas, los ácidos carboxílicos y los ésteres.</item></list></md:abstract>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para>
+<list id="list-00001"><item>Describir la estructura y las propiedades de los aldehídos, las cetonas, los ácidos carboxílicos y los ésteres.</item></list></md:abstract>
   <md:uuid>5b973783-ed86-4363-9600-4e10fd316b90</md:uuid>
 </metadata>
 
 <content>
 <para id="fs-idp53896496">Otra clase de moléculas orgánicas contiene un átomo de carbono conectado a un átomo de oxígeno mediante un doble enlace, comúnmente llamado grupo carbonilo. El carbono trigonal plano del grupo carbonilo se une a otros dos sustituyentes para originar varias subfamilias (aldehídos, cetonas, ácidos carboxílicos y ésteres), las cuales se describen en esta sección.</para>
-<section id="fs-idp48202688"><title>Aldehídos y cetonas</title><para id="fs-idp50721744">Tanto los <term>aldehídos</term> como las <term>cetonas</term> contienen un <term>grupo carbonilo</term>: un grupo funcional con doble enlace carbono-oxígeno. Los nombres de los compuestos aldehídicos y cetónicos se derivan mediante reglas de nomenclatura similares a las de los alcanos y alcoholes, y constan de los sufijos identificadores de clase <emphasis effect="italics">-al</emphasis> y <emphasis effect="italics">-ona</emphasis>, respectivamente.</para>
+<section id="fs-idp48202688"><title>Aldehídos y cetonas</title><para id="fs-idp50721744">Tanto los <term id="term-00001">aldehídos</term> como las <term id="term-00002">cetonas</term> contienen un <term id="term-00003">grupo carbonilo</term>: un grupo funcional con doble enlace carbono-oxígeno. Los nombres de los compuestos aldehídicos y cetónicos se derivan mediante reglas de nomenclatura similares a las de los alcanos y alcoholes, y constan de los sufijos identificadores de clase <emphasis effect="italics">-al</emphasis> y <emphasis effect="italics">-ona</emphasis>, respectivamente.</para>
 <media id="fs-idm18746560" class="scaled-down" alt="Se muestra un átomo de C con guiones a la izquierda y a la derecha. Un átomo de O está doblemente enlazado sobre el átomo de C.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_03_carbonyl_img.jpg"/>
 </media>
@@ -74,7 +74,7 @@ Indique si los átomos de carbono marcados en las tres moléculas aquí están o
 </media>
 <caption>Los ésteres son los que dan el olor que se asocia a diversas plantas y sus frutos.</caption>
 </figure>
-<para id="fs-idp44521216">Tanto los <term>ácidos carboxílicos</term> como los <term>ésteres</term> contienen un grupo carbonilo con un segundo átomo de oxígeno unido al átomo de carbono del grupo carbonilo mediante un enlace simple. En el ácido carboxílico, el segundo átomo de oxígeno también se une a un átomo de hidrógeno. En un éster, el segundo átomo de oxígeno se une a otro átomo de carbono. Los nombres de los ácidos carboxílicos y los ésteres contienen prefijos que denotan las longitudes de las cadenas de carbono en las moléculas y se derivan conforme a reglas de nomenclatura semejantes a las de los ácidos inorgánicos y las sales (vea estos ejemplos).</para>
+<para id="fs-idp44521216">Tanto los <term id="term-00004">ácidos carboxílicos</term> como los <term id="term-00005">ésteres</term> contienen un grupo carbonilo con un segundo átomo de oxígeno unido al átomo de carbono del grupo carbonilo mediante un enlace simple. En el ácido carboxílico, el segundo átomo de oxígeno también se une a un átomo de hidrógeno. En un éster, el segundo átomo de oxígeno se une a otro átomo de carbono. Los nombres de los ácidos carboxílicos y los ésteres contienen prefijos que denotan las longitudes de las cadenas de carbono en las moléculas y se derivan conforme a reglas de nomenclatura semejantes a las de los ácidos inorgánicos y las sales (vea estos ejemplos).</para>
 <media id="fs-idm75981808" class="scaled-down" alt="Se muestran dos estructuras. La primera estructura está marcada como &quot;ácido etanoico&quot; y &quot;ácido acético&quot;. Esta estructura indica un átomo de C al que se enlazan átomos de H por encima, por debajo y a la izquierda. A la derecha, en rojo, hay un grupo enlazado compuesto por un átomo de C al que un átomo de O está doblemente enlazado por encima. A la derecha del átomo de C rojo, se enlaza un átomo de O que tiene un átomo de H unido a su derecha. Ambos átomos de O tienen dos conjuntos de puntos de electrones. La segunda está marcada como &quot;etanoato de metilo&quot; y &quot;acetato de metilo&quot;. Esta estructura indica un átomo de C al que se enlazan átomos de H por encima, por debajo y a la izquierda. En rojo, enlazado a la derecha hay un átomo de C con un átomo de O de doble enlace por encima y un átomo de O de enlace simple a la derecha. A la derecha de este último átomo de O en negro hay otro átomo de C al que se enlazan átomos de H por encima, por debajo y a la derecha. Ambos átomos de O tienen dos pares de puntos de electrones.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_03_CarboxEst2_img.jpg"/>
 </media>

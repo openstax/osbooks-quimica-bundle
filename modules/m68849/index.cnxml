@@ -3,14 +3,14 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68849</md:content-id>
   <md:title>Aminas y amidas</md:title>
-  <md:abstract><para>Al final de esta sección, podrá:</para><list><item>Describir la estructura y las propiedades de una amina.</item>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para><list id="list-00001"><item>Describir la estructura y las propiedades de una amina.</item>
 <item>Describir la estructura y las propiedades de una amida.</item>
 </list></md:abstract>
   <md:uuid>5f6bcc43-ab2c-48ff-8cf0-115f6697f8ce</md:uuid>
 </metadata>
 
 <content>
-<para id="fs-idp88512176"><term>Las aminas</term> son moléculas que contienen enlaces carbono-nitrógeno. El átomo de nitrógeno de una amina tiene un par solitario de electrones y tres enlaces con otros átomos, ya sean de carbono o de hidrógeno. Se utilizan varias nomenclaturas para derivar los nombres de las aminas, pero todas implican el sufijo identificador de clase <emphasis effect="italics">-ina</emphasis>, como se ilustra aquí en algunos ejemplos sencillos:</para>
+<para id="fs-idp88512176"><term id="term-00001">Las aminas</term> son moléculas que contienen enlaces carbono-nitrógeno. El átomo de nitrógeno de una amina tiene un par solitario de electrones y tres enlaces con otros átomos, ya sean de carbono o de hidrógeno. Se utilizan varias nomenclaturas para derivar los nombres de las aminas, pero todas implican el sufijo identificador de clase <emphasis effect="italics">-ina</emphasis>, como se ilustra aquí en algunos ejemplos sencillos:</para>
 <media id="fs-idp22598720" class="scaled-down" alt="Se muestran tres estructuras, cada una con un átomo de N central que tiene un par de puntos de electrones indicados en rojo sobre los átomos de N. La primera estructura está marcada como metilamina. A la izquierda del átomo de N, se enlaza un grupo C H subíndice 3. Los átomos de H están enlazados a la derecha y abajo del átomo central de N. La segunda estructura está marcada como dimetilamina. Esta estructura tiene grupos C H subíndice 3 enlazados a la izquierda y a la derecha del átomo de N y un único átomo de H está enlazado por debajo. La tercera estructura está marcada como trimetilamina, que tiene grupos C H subíndice 3 enlazados a la izquierda, a la derecha y por debajo del átomo central de N.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_04_amines_img.jpg"/>
 </media>
@@ -62,7 +62,7 @@
 <caption>La amapola se utiliza en la producción de opio, un látex vegetal que contiene morfina a partir de la cual pueden sintetizarse otros opiáceos, como la heroína (créditos: Karen Roe).</caption>
 </figure>
 </note>
-<para id="fs-idp60237616">Las <term>amidas</term> son moléculas que contienen átomos de nitrógeno conectados al átomo de carbono de un grupo carbonilo. Al igual que las aminas, se pueden utilizar varias reglas de nomenclatura para designar las amidas, pero todas incluyen el uso del sufijo específico de la clase <emphasis effect="italics">-amida</emphasis>:</para>
+<para id="fs-idp60237616">Las <term id="term-00002">amidas</term> son moléculas que contienen átomos de nitrógeno conectados al átomo de carbono de un grupo carbonilo. Al igual que las aminas, se pueden utilizar varias reglas de nomenclatura para designar las amidas, pero todas incluyen el uso del sufijo específico de la clase <emphasis effect="italics">-amida</emphasis>:</para>
 <media id="fs-idp118957072" class="scaled-down" alt="Esta figura muestra tres estructuras. Se ofrecen dos ejemplos. La estructura básica tiene un átomo de H o un grupo R enlazado a un átomo de C que está doblemente enlazado a un átomo de O. El átomo de O tiene dos conjuntos de puntos de electrones. El átomo de C está enlazado a un átomo de N que a su vez está enlazado a dos grupos R o a dos átomos de H. El átomo de N como un conjunto de puntos de electrones. La siguiente estructura incluye la acetamida, que tiene un átomo de C H subíndice 3 enlazado a un átomo de C con un átomo de O doblemente enlazado. El segundo átomo de C también está enlazado a un átomo de N H subíndice 2. La hexanamida tiene una cadena de hidrocarburos de longitud 6 que incluye todos los enlaces simples. Aquí se muestra la estructura condensada. Al sexto átomo de C en el extremo derecho de la cadena, un átomo de O está doblemente enlazado y un grupo de N H subíndice 2 tiene un enlace simple.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_04_amide1_img.jpg"/>
 </media>

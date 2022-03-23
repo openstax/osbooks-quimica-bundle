@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68804</md:content-id>
   <md:title>pH y pOH</md:title>
-  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para><list id="list-00001">
 <item>Explicar la caracterización de las soluciones acuosas como ácidas, básicas o neutras</item>
 <item>Expresar las concentraciones de iones de hidronio e hidróxido en las escalas de pH y pOH</item>
 <item>Realizar cálculos que relacionen el pH y el pOH</item>
@@ -12,14 +12,14 @@
 </metadata>
 
 <content>
-<para id="fs-idp11137424">Como se ha comentado anteriormente, los iones de hidronio e hidróxido están presentes tanto en el agua pura como en todas las soluciones acuosas, y sus concentraciones son inversamente proporcionales, tal y como determina el producto iónico del agua (<emphasis effect="italics">K</emphasis><sub>w</sub>). Las concentraciones de estos iones en una solución suelen ser determinantes para las propiedades de la misma y el comportamiento químico de sus otros solutos, y se ha desarrollado un vocabulario específico para describir estas concentraciones en términos relativos. Una solución es <term>neutra</term> si contiene concentraciones iguales de iones de hidronio e hidróxido; <term>ácida</term> si contiene una mayor concentración de iones de hidronio que de hidróxido; y <term>básica</term> si contiene una menor concentración de iones de hidronio que de hidróxido.</para>
+<para id="fs-idp11137424">Como se ha comentado anteriormente, los iones de hidronio e hidróxido están presentes tanto en el agua pura como en todas las soluciones acuosas, y sus concentraciones son inversamente proporcionales, tal y como determina el producto iónico del agua (<emphasis effect="italics">K</emphasis><sub>w</sub>). Las concentraciones de estos iones en una solución suelen ser determinantes para las propiedades de la misma y el comportamiento químico de sus otros solutos, y se ha desarrollado un vocabulario específico para describir estas concentraciones en términos relativos. Una solución es <term id="term-00001">neutra</term> si contiene concentraciones iguales de iones de hidronio e hidróxido; <term id="term-00002">ácida</term> si contiene una mayor concentración de iones de hidronio que de hidróxido; y <term id="term-00003">básica</term> si contiene una menor concentración de iones de hidronio que de hidróxido.</para>
 <para id="fs-idm21650320">Un medio habitual para expresar cantidades que pueden abarcar muchos órdenes de magnitud es utilizar una escala logarítmica. Una de estas escalas, muy popular para las concentraciones químicas y las constantes de equilibrio, se basa en la función p, definida como se muestra, donde "X" es la cantidad de interés y "log" es el logaritmo de base 10:</para>
 <equation id="fs-idp27819744" class="unnumbered"><m:math><m:mrow><m:mtext>pX</m:mtext><m:mo>=</m:mo><m:mtext>−log X</m:mtext></m:mrow></m:math></equation>
-<para id="fs-idm40569744">Por lo tanto, el <term>pH</term> de una solución se define como se muestra aquí, donde [H<sub>3</sub>O<sup>+</sup>] es la concentración molar del ion de hidronio en la solución:</para>
+<para id="fs-idm40569744">Por lo tanto, el <term id="term-00004">pH</term> de una solución se define como se muestra aquí, donde [H<sub>3</sub>O<sup>+</sup>] es la concentración molar del ion de hidronio en la solución:</para>
 <equation id="fs-idm104306928" class="unnumbered"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:math></equation>
 <para id="fs-idm112635600">Reordenando esta ecuación para aislar la molaridad del ion de hidronio se obtiene la expresión equivalente:</para>
 <equation id="fs-idm34387328" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−pH</m:mtext></m:mrow></m:msup></m:mrow></m:math></equation>
-<para id="fs-idp55544688">Así mismo, la molaridad del ion de hidróxido puede expresarse como una función p, o <term>pOH</term>:</para>
+<para id="fs-idp55544688">Así mismo, la molaridad del ion de hidróxido puede expresarse como una función p, o <term id="term-00005">pOH</term>:</para>
 <equation id="fs-idp66748048" class="unnumbered"><m:math><m:mrow><m:mtext>pOH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:math></equation>
 <para id="fs-idp67153952">o</para>
 <equation id="fs-idp102994080" class="unnumbered"><m:math><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup></m:mrow><m:mo>]</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−pOH</m:mtext></m:mrow></m:msup></m:mrow></m:math></equation>
@@ -55,7 +55,7 @@
 <tbody>
 <row valign="top">
 <entry align="center">ácida</entry>
-<entry align="center">[H<sub>3</sub>O<sup>+</sup>] &gt; [OH<sup>−</sup>]</entry>
+<entry align="center">[H<sub>3</sub>O<sup>+</sup>] > [OH<sup>−</sup>]</entry>
 <entry align="center">pH &lt; 7</entry>
 </row>
 <row valign="top">
@@ -66,7 +66,7 @@
 <row valign="top">
 <entry align="center">básica</entry>
 <entry align="center">[H<sub>3</sub>O<sup>+</sup>] &lt; [OH<sup>−</sup>]</entry>
-<entry align="center">pH &gt; 7</entry>
+<entry align="center">pH > 7</entry>
 </row>
 </tbody>
 </tgroup>
@@ -157,7 +157,7 @@ La concentración de iones de hidronio del vinagre es de aproximadamente 4 <m:ma
 </figure>
 <section id="fs-idm51820592" class="summary">
 <title>Conceptos clave y resumen</title>
-<para id="fs-idp58752272">Las concentraciones de iones de hidronio e hidróxido en medios acuosos suelen representarse como valores logarítmicos de pH y pOH, respectivamente. A 25 °C, el equilibrio de autoprotólisis para el agua requiere que la suma de pH y pOH sea igual a 14 para cualquier solución acuosa. Las concentraciones relativas de iones de hidronio e hidróxido en una solución definen su estado como ácido ([H<sub>3</sub>O<sup>+</sup>] &gt; [OH<sup>−</sup>]), básico ([H<sub>3</sub>O<sup>+</sup>] &lt; [OH<sup>−</sup>]) o neutro ([H<sub>3</sub>O<sup>+</sup>] = [OH<sup>−</sup>]). A 25 °C, un pH &lt; 7 indica una solución ácida, un pH &gt; 7 una solución básica y un pH = 7 una solución neutra.</para>
+<para id="fs-idp58752272">Las concentraciones de iones de hidronio e hidróxido en medios acuosos suelen representarse como valores logarítmicos de pH y pOH, respectivamente. A 25 °C, el equilibrio de autoprotólisis para el agua requiere que la suma de pH y pOH sea igual a 14 para cualquier solución acuosa. Las concentraciones relativas de iones de hidronio e hidróxido en una solución definen su estado como ácido ([H<sub>3</sub>O<sup>+</sup>] > [OH<sup>−</sup>]), básico ([H<sub>3</sub>O<sup>+</sup>] &lt; [OH<sup>−</sup>]) o neutro ([H<sub>3</sub>O<sup>+</sup>] = [OH<sup>−</sup>]). A 25 °C, un pH &lt; 7 indica una solución ácida, un pH > 7 una solución básica y un pH = 7 una solución neutra.</para>
 </section>
 <section id="fs-idp66998992" class="key-equations">
 <title>Ecuaciones clave</title>
@@ -257,7 +257,7 @@ La concentración de iones de hidronio del vinagre es de aproximadamente 4 <m:ma
 <glossary>
 <definition id="fs-idm64563696">
 <term>ácida</term>
-<meaning id="fs-idm110209904">una solución en la que [H<sub>3</sub>O<sup>+</sup>] &gt; [OH<sup>−</sup>]</meaning>
+<meaning id="fs-idm110209904">una solución en la que [H<sub>3</sub>O<sup>+</sup>] > [OH<sup>−</sup>]</meaning>
 </definition>
 <definition id="fs-idm111671584">
 <term>básica</term>

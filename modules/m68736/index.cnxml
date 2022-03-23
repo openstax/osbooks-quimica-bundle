@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68736</md:content-id>
   <md:title>Introducción</md:title>
-  <md:abstract><list><item>Enlace iónico</item>
+  <md:abstract><list id="list-00001"><item>Enlace iónico</item>
 <item>Enlace covalente</item>
 <item>Símbolos y estructuras de Lewis</item>
 <item>Cargas formales y resonancia</item>
@@ -19,6 +19,6 @@
 </media>
 <caption>Apodadas "buckybolas" o "futboleno", las moléculas de buckminsterfullereno (C<sub>60</sub>) contienen solo átomos de carbono (izquierda) dispuestos para formar un entramado geométrico de hexágonos y pentágonos, similar al patrón de un balón de fútbol (centro). Esta estructura molecular debe su nombre al arquitecto R. Buckminster Fuller, cuyos innovadores diseños combinaban formas geométricas sencillas para crear estructuras grandes y resistentes, como esta cúpula de radar meteorológico cerca de Tucson, Arizona (derecha). (Crédito central: modificación de la obra de "Petey21"/Wikimedia Commons; crédito derecho: modificación de la obra de Bill Morrow).</caption>
 </figure>
-<para id="fs-idp26683312">Desde hace tiempo se sabe que el carbono puro se presenta en diferentes formas (alótropos), como el grafito y los diamantes. Pero no fue hasta 1985 cuando se reconoció una nueva forma de carbono: el buckminsterfullereno. Esta molécula debe su nombre al arquitecto e inventor R. Buckminster <term class="no-emphasis">Fuller</term> (1895–1983), cuyo diseño arquitectónico emblemático era la cúpula geodésica, caracterizada por una estructura de celosía que sostiene una superficie esférica. Las pruebas experimentales revelaron la fórmula, C<sub>60</sub>, y luego los científicos determinaron cómo 60 átomos de carbono podían formar una molécula simétrica y estable. Se guiaron por la teoría de los enlaces (el tema de este capítulo) que explica cómo los átomos individuales se conectan para formar estructuras más complejas.</para>
+<para id="fs-idp26683312">Desde hace tiempo se sabe que el carbono puro se presenta en diferentes formas (alótropos), como el grafito y los diamantes. Pero no fue hasta 1985 cuando se reconoció una nueva forma de carbono: el buckminsterfullereno. Esta molécula debe su nombre al arquitecto e inventor R. Buckminster <term class="no-emphasis" id="term-00001">Fuller</term> (1895–1983), cuyo diseño arquitectónico emblemático era la cúpula geodésica, caracterizada por una estructura de celosía que sostiene una superficie esférica. Las pruebas experimentales revelaron la fórmula, C<sub>60</sub>, y luego los científicos determinaron cómo 60 átomos de carbono podían formar una molécula simétrica y estable. Se guiaron por la teoría de los enlaces (el tema de este capítulo) que explica cómo los átomos individuales se conectan para formar estructuras más complejas.</para>
    </content>
 </document>

@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m71830</md:content-id>
   <md:title>Fuerza de los enlaces iónicos y covalentes</md:title>
-  <md:abstract><para>Al final de esta sección, podrá:</para>
-<list>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para>
+<list id="list-00001">
 <item>Describir la energía de la formación y ruptura de enlaces covalentes e iónicos.</item>
 <item>Utilizar el ciclo de Born-Haber para calcular las energías de red de los compuestos iónicos.</item>
 <item>Utilizar las energías medias de los enlaces covalentes para estimar las entalpías de reacción.</item>
@@ -315,7 +315,7 @@ El alcohol etílico, CH<sub>3</sub>CH<sub>2</sub>OH, fue uno de los primeros pro
 </section>
 <section id="fs-idm34679504">
 <title>Fuerza de enlace iónico y energía de red</title>
-<para id="fs-idm57606496">Un compuesto iónico es estable debido a la atracción electrostática entre sus iones positivos y negativos. La energía de red de un compuesto es una medida de la fuerza de esta atracción. La <term>energía de red (Δ<emphasis effect="italics">H</emphasis><sub>red</sub>)</term> de un compuesto iónico se define como la energía necesaria para separar un mol del sólido en sus iones gaseosos componentes. En el sólido iónico MX, la energía de red es el cambio de entalpía del proceso:</para>
+<para id="fs-idm57606496">Un compuesto iónico es estable debido a la atracción electrostática entre sus iones positivos y negativos. La energía de red de un compuesto es una medida de la fuerza de esta atracción. La <term id="term-00001">energía de red (Δ<emphasis effect="italics">H</emphasis><sub>red</sub>)</term> de un compuesto iónico se define como la energía necesaria para separar un mol del sólido en sus iones gaseosos componentes. En el sólido iónico MX, la energía de red es el cambio de entalpía del proceso:</para>
 <equation class="unnumbered" id="fs-idp69066736"><m:math><m:mrow><m:mtext>MX</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>M</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>X</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>-</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>red</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
 <para id="fs-idm45000976">Tenga en cuenta que estamos utilizando la convención en la que el sólido iónico se separa en iones, por lo que nuestras energías de red serán <emphasis effect="italics">endotérmicas</emphasis> (valores positivos). Algunos textos utilizan la convención equivalente pero opuesta que la energía de red como la energía liberada cuando los iones separados se combinan para formar una red y dando valores negativos (exotérmicos). Por lo tanto, si busca energías de red en otra referencia, asegúrese de comprobar qué definición se utiliza. En ambos casos, una magnitud mayor para la energía de red indica un compuesto iónico más estable. En el cloruro de sodio, Δ<emphasis effect="italics">H</emphasis><sub>red</sub> = 769 kJ. Así, se necesitan 769 kJ para separar un mol de NaCl sólido en iones gaseosos Na<sup>+</sup> y Cl<sup>–</sup>. Cuando un mol de cada uno de los iones gaseosos Na<sup>+</sup> y Cl<sup>–</sup> forman el NaCl sólido, se liberan 769 kJ de calor.</para>
 <para id="fs-idp17453088">La energía de red Δ<emphasis effect="italics">H</emphasis><sub>red</sub> de un cristal iónico puede expresarse mediante la siguiente ecuación (derivada de la ley de Coulomb, que rige las fuerzas entre cargas eléctricas):</para>
@@ -335,7 +335,7 @@ El óxido de zinc, ZnO, es un protector solar muy eficaz. ¿Cómo se compararía
 </note>
 </example>
 </section>
-<section id="fs-idp112167568"><title>El ciclo Born-Haber</title><para id="fs-idp51725632">No es posible medir directamente las energías de la red. Sin embargo, la energía de red puede calcularse utilizando la ecuación dada en la sección anterior o utilizando un ciclo termoquímico. El <term>ciclo de Born-Haber</term> es una aplicación de la ley de Hess que descompone la formación de un sólido iónico en una serie de pasos individuales:</para>
+<section id="fs-idp112167568"><title>El ciclo Born-Haber</title><para id="fs-idp51725632">No es posible medir directamente las energías de la red. Sin embargo, la energía de red puede calcularse utilizando la ecuación dada en la sección anterior o utilizando un ciclo termoquímico. El <term id="term-00002">ciclo de Born-Haber</term> es una aplicación de la ley de Hess que descompone la formación de un sólido iónico en una serie de pasos individuales:</para>
 <list id="fs-idp77725760" list-type="bulleted" bullet-style="bullet">
 <item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> la entalpía estándar de formación del compuesto</item>
 <item><emphasis effect="italics">IE</emphasis>, la energía de ionización del metal</item>

@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68847</md:content-id>
   <md:title>Alcoholes y éteres</md:title>
-  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para><list id="list-00001">
 <item>Describir la estructura y las propiedades de los alcoholes.</item>
 <item>Describir la estructura y las propiedades de los éteres.</item>
 <item>Nombrar y dibujar las estructuras de los alcoholes y éteres.</item>
@@ -16,7 +16,7 @@
 <section id="fs-idm30613248">
 <title>Alcoholes</title>
 <para id="fs-idm66465552">La incorporación de un átomo de oxígeno en moléculas que contienen carbono e hidrógeno da lugar a nuevos grupos funcionales y nuevas familias de compuestos. Cuando el átomo de oxígeno está unido por enlaces simples, la molécula es un alcohol o un éter.</para>
-<para id="fs-idm33604032"><term>Los alcoholes</term> son derivados de los hidrocarburos en los que un grupo –OH sustituye a un átomo de hidrógeno. Aunque todos los alcoholes tienen uno o más grupos funcionales hidroxilo (–OH), no se comportan como las bases, como el NaOH y el KOH. El NaOH y el KOH son compuestos iónicos que contienen iones de OH<sup>-</sup>. Los alcoholes son moléculas covalentes; el grupo –OH de una molécula de alcohol está unido a un átomo de carbono mediante un enlace covalente.</para>
+<para id="fs-idm33604032"><term id="term-00001">Los alcoholes</term> son derivados de los hidrocarburos en los que un grupo –OH sustituye a un átomo de hidrógeno. Aunque todos los alcoholes tienen uno o más grupos funcionales hidroxilo (–OH), no se comportan como las bases, como el NaOH y el KOH. El NaOH y el KOH son compuestos iónicos que contienen iones de OH<sup>-</sup>. Los alcoholes son moléculas covalentes; el grupo –OH de una molécula de alcohol está unido a un átomo de carbono mediante un enlace covalente.</para>
 <para id="fs-idm13274688">El etanol, CH<sub>3</sub>CH<sub>2</sub>OH, también llamado alcohol etílico, es un alcohol especialmente importante para el uso humano. El etanol es el alcohol producido por algunas especies de levadura que se encuentra en el vino, la cerveza y las bebidas destiladas. Desde hace tiempo, el ser humano lo prepara aprovechando los esfuerzos metabólicos de las levaduras en la fermentación de diversos azúcares.</para>
 <media id="fs-idm70402400" class="scaled-down" alt="Esta figura muestra la reacción de la glucosa para producir etanol y C O subíndice 2. La reacción muestra C subíndice 6 H subíndice 12 O subíndice 6 ( a q ) flecha marcada como &quot;levadura&quot; 2 C subíndice 2 H subíndice 5 O H (a q) más 2 C O subíndice 2 ( g ). El O H en etanol se muestra en rojo.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_02_ferment_img.jpg"/>
@@ -53,7 +53,7 @@ Designe la siguiente molécula:</para>
 </section>
 <section id="fs-idm24652464">
 <title>Éteres</title>
-<para id="fs-idp6654240">Los <term>éteres</term> son compuestos que contienen el grupo funcional –O–. Los éteres no tienen ningún sufijo designado como los demás tipos de moléculas que hemos nombrado hasta ahora. En el sistema de la IUPAC, el átomo de oxígeno y la rama de carbono más pequeña se denominan sustituyente alcoxi y el resto de la molécula, cadena base, como en los alcanos. Como se indica en el siguiente compuesto, los símbolos rojos representan el grupo alquilo menor y el átomo de oxígeno, que se denominaría "metoxi". La rama de carbono más grande sería el etano, con lo que la molécula sería metoxietano. Muchos éteres se designan con nombres comunes en lugar de los del sistema de la IUPAC. Para los nombres comunes, las dos ramas conectadas al átomo de oxígeno se designan por separado y van seguidas de "éter". El nombre común del compuesto que aparece en el <link target-id="fs-idm48177328"/> es etilmetil éter:</para>
+<para id="fs-idp6654240">Los <term id="term-00002">éteres</term> son compuestos que contienen el grupo funcional –O–. Los éteres no tienen ningún sufijo designado como los demás tipos de moléculas que hemos nombrado hasta ahora. En el sistema de la IUPAC, el átomo de oxígeno y la rama de carbono más pequeña se denominan sustituyente alcoxi y el resto de la molécula, cadena base, como en los alcanos. Como se indica en el siguiente compuesto, los símbolos rojos representan el grupo alquilo menor y el átomo de oxígeno, que se denominaría "metoxi". La rama de carbono más grande sería el etano, con lo que la molécula sería metoxietano. Muchos éteres se designan con nombres comunes en lugar de los del sistema de la IUPAC. Para los nombres comunes, las dos ramas conectadas al átomo de oxígeno se designan por separado y van seguidas de "éter". El nombre común del compuesto que aparece en el <link target-id="fs-idm48177328"/> es etilmetil éter:</para>
 <media id="fs-idm6486336" class="scaled-down" alt="Se muestra una estructura molecular con un grupo C H subíndice 3 rojo enlazado hacia arriba y a la derecha a un átomo de O en rojo. El átomo de O está enlazado hacia abajo y a la derecha a un grupo C H subíndice 2. El grupo C H subíndice 2 está enlazado hacia arriba y hacia la derecha a un grupo C H subíndice 3.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_02_NameEthers_img.jpg"/>
 </media>

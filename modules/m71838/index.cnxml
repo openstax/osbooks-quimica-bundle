@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m71838</md:content-id>
   <md:title>Catálisis</md:title>
-  <md:abstract><para>Al final de esta sección, podrá:</para>
-<list><item>Explicar la función de un catalizador en términos de mecanismos de reacción y diagramas de energía potencial</item>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para>
+<list id="list-00001"><item>Explicar la función de un catalizador en términos de mecanismos de reacción y diagramas de energía potencial</item>
 <item>Enumerar ejemplos de catálisis en procesos naturales e industriales</item>
 </list></md:abstract>
   <md:uuid>40651eeb-28e7-4577-9bf7-d42282ec6ae5</md:uuid>
@@ -78,7 +78,7 @@ A continuación se muestran los diagramas de reacción de un proceso químico co
 </section>
 <section id="fs-idm65053840">
 <title>Catalizadores homogéneos</title>
-<para id="fs-idm243256336">Un <term>catalizador homogéneo</term> está presente en la misma fase que los reactivos. Interactúa con un reactivo para formar una sustancia intermedia, que luego se descompone o reacciona con otro reactivo en uno o más pasos para regenerar el catalizador original y formar el producto.</para>
+<para id="fs-idm243256336">Un <term id="term-00001">catalizador homogéneo</term> está presente en la misma fase que los reactivos. Interactúa con un reactivo para formar una sustancia intermedia, que luego se descompone o reacciona con otro reactivo en uno o más pasos para regenerar el catalizador original y formar el producto.</para>
 <para id="fs-idm210214480">Como ilustración importante de la catálisis homogénea, consideremos la capa de ozono de la Tierra. El ozono de la atmósfera superior, que protege a la Tierra de la radiación ultravioleta, se forma cuando las moléculas de oxígeno absorben la luz ultravioleta y sufren la reacción:</para>
 <equation class="unnumbered" id="fs-idm276049600"><m:math><m:mrow><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.7em"/><m:mi>h</m:mi><m:mi>v</m:mi><m:mspace width="0.7em"/></m:mrow></m:mover><m:mn>2</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
 <para id="fs-idm291675632">El ozono es una molécula relativamente inestable que se descompone para formar oxígeno diatómico mediante la inversión de esta ecuación. Esta reacción de descomposición es consistente con el siguiente mecanismo de dos pasos:</para>
@@ -90,7 +90,7 @@ A continuación se muestran los diagramas de reacción de un proceso químico co
 <para id="fs-idm251830192">Observe que el NO es un reactivo en el primer paso del mecanismo y un producto en el último paso. Este es otro rasgo característico de un catalizador: Si bien participa en la reacción química, no se consume en ella.</para>
 <note id="fs-idm195911072" class="chemistry chemist-portrait">
 <title>Mario J. Molina</title>
-<para id="fs-idm149608448">El Premio Nobel de Química de 1995 fue compartido por Paul J. Crutzen, Mario J. <term class="no-emphasis">Molina</term> (<link target-id="CNX_Chem_12_07_Molina"/>), y F. Sherwood Rowland "por sus trabajos en química atmosférica, especialmente en lo que se refiere a la formación y descomposición del ozono".<footnote id="fs-idm200652832">"The Nobel Prize in Chemistry 1995", Nobel Prize.org, consultado el 18 de febrero de 2015, http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1995/.</footnote> Molina, de nacionalidad mexicana, realizó la mayor parte de su trabajo en el Instituto Tecnológico de Massachusetts (Massachusetts Institute of Technology, MIT).</para>
+<para id="fs-idm149608448">El Premio Nobel de Química de 1995 fue compartido por Paul J. Crutzen, Mario J. <term class="no-emphasis" id="term-00002">Molina</term> (<link target-id="CNX_Chem_12_07_Molina"/>), y F. Sherwood Rowland "por sus trabajos en química atmosférica, especialmente en lo que se refiere a la formación y descomposición del ozono".<footnote id="fs-idm200652832">"The Nobel Prize in Chemistry 1995", Nobel Prize.org, consultado el 18 de febrero de 2015, http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1995/.</footnote> Molina, de nacionalidad mexicana, realizó la mayor parte de su trabajo en el Instituto Tecnológico de Massachusetts (Massachusetts Institute of Technology, MIT).</para>
 <figure id="CNX_Chem_12_07_Molina">
 <media id="fs-idm190322192" alt="Se muestra una fotografía de Mario Molina. A la derecha de la foto, se muestra una imagen del hemisferio sur de la Tierra con una región circular central en color púrpura con un radio de aproximadamente la mitad de todo el hemisferio. Justo fuera de esta región hay una banda estrecha de color azul real, seguida de una banda exterior fina de color azul turquesa. La mayor parte de la región más externa es verde. Dos bandas pequeñas de color amarillo están presentes en las regiones inferiores de la imagen.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_12_07_Molina.jpg"/>
@@ -123,7 +123,7 @@ A continuación se muestran los diagramas de reacción de un proceso químico co
 </section>
 <section id="fs-idm254642320">
 <title>Catalizadores heterogéneos</title>
-<para id="fs-idm31937584">Un <term>catalizador heterogéneo</term> es un catalizador que está presente en una fase diferente (normalmente un sólido) a la de los reactivos. Estos catalizadores suelen funcionar proporcionando una superficie activa sobre la que puede producirse una reacción. Las reacciones en fase gaseosa y líquida catalizadas por catalizadores heterogéneos se producen en la superficie del catalizador y no en la fase gaseosa o líquida.</para>
+<para id="fs-idm31937584">Un <term id="term-00003">catalizador heterogéneo</term> es un catalizador que está presente en una fase diferente (normalmente un sólido) a la de los reactivos. Estos catalizadores suelen funcionar proporcionando una superficie activa sobre la que puede producirse una reacción. Las reacciones en fase gaseosa y líquida catalizadas por catalizadores heterogéneos se producen en la superficie del catalizador y no en la fase gaseosa o líquida.</para>
 <para id="fs-idm52671504">La catálisis heterogénea suele incluir los siguientes procesos:</para>
 <list id="fs-idm202987392" list-type="enumerated" number-style="arabic">
 <item>Adsorción de los reactivos en la superficie del catalizador</item>

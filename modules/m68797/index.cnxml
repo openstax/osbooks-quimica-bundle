@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68797</md:content-id>
   <md:title>Equilibrio químico</md:title>
-  <md:abstract><para>Al final de esta sección podrá:</para>
-<list>
+  <md:abstract><para id="para-00001">Al final de esta sección podrá:</para>
+<list id="list-00001">
 <item>Describir la naturaleza de los sistemas de equilibrio</item>
 <item>Explicar la naturaleza dinámica de un equilibrio químico</item>
 </list></md:abstract>
@@ -12,7 +12,7 @@
 </metadata>
 
 <content>
-<para id="fs-idp222368384">La convención para escribir ecuaciones químicas consiste en colocar las fórmulas de los reactivos a la izquierda de la flecha de reacción y las fórmulas de los productos a la derecha. Según esta convención, y las definiciones de "reactivo" y "producto", una ecuación química representa la reacción en cuestión como si procediera de izquierda a derecha. Las <term>reacciones reversibles</term>, sin embargo, pueden proceder tanto de manera directa (de izquierda a derecha) como inversa (de derecha a izquierda). Cuando las velocidades de las reacciones directa e inversa son iguales, las concentraciones de las especies de reactivos y de los productos permanecen constantes en el tiempo y el sistema está en <term>equilibrio</term>. Las concentraciones relativas de reactivos y productos en los sistemas en equilibrio varían enormemente; algunos sistemas contienen mayoritariamente productos en el equilibrio, otros contienen mayoritariamente reactivos y otros contienen cantidades apreciables de ambos.</para>
+<para id="fs-idp222368384">La convención para escribir ecuaciones químicas consiste en colocar las fórmulas de los reactivos a la izquierda de la flecha de reacción y las fórmulas de los productos a la derecha. Según esta convención, y las definiciones de "reactivo" y "producto", una ecuación química representa la reacción en cuestión como si procediera de izquierda a derecha. Las <term id="term-00001">reacciones reversibles</term>, sin embargo, pueden proceder tanto de manera directa (de izquierda a derecha) como inversa (de derecha a izquierda). Cuando las velocidades de las reacciones directa e inversa son iguales, las concentraciones de las especies de reactivos y de los productos permanecen constantes en el tiempo y el sistema está en <term id="term-00002">equilibrio</term>. Las concentraciones relativas de reactivos y productos en los sistemas en equilibrio varían enormemente; algunos sistemas contienen mayoritariamente productos en el equilibrio, otros contienen mayoritariamente reactivos y otros contienen cantidades apreciables de ambos.</para>
 <para id="fs-idp3488592">La <link target-id="CNX_Chem_13_01_equilibrium"/> ilustra los conceptos fundamentales del equilibrio utilizando la descomposición reversible del tetróxido de dinitrógeno incoloro para producir dióxido de nitrógeno marrón, una reacción elemental descrita por la ecuación:</para>
 <equation id="fs-idp102698592" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
 <para id="fs-idp239057616">Observe que se utiliza una flecha doble especial para resaltar la naturaleza reversible de la reacción.</para>

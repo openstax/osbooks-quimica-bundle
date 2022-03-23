@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68833</md:content-id>
   <md:title>Incidencia, preparación y compuestos de hidrógeno</md:title>
-  <md:abstract><para>Al final de esta sección, podrá:</para>
-<list>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para>
+<list id="list-00001">
 <item>Describir las propiedades, la preparación y los compuestos del hidrógeno</item>
 </list></md:abstract>
   <md:uuid>04b97d13-490d-4732-8eb9-221fe8062387</md:uuid>
@@ -56,7 +56,7 @@
 <section id="fs-idp76696176">
 <title>Reacciones</title>
 <para id="fs-idp99527488">En condiciones normales, el hidrógeno es relativamente inactivo químicamente, pero cuando se calienta, entra en muchas reacciones químicas.</para>
-<para id="fs-idp151776640">Dos tercios de la producción mundial de hidrógeno se dedican a la fabricación de amoníaco, que es un fertilizante y se utiliza en la fabricación de ácido nítrico. Las grandes cantidades de hidrógeno también son importantes en el proceso de <term>hidrogenación</term>, que se trata en el capítulo de química orgánica.</para>
+<para id="fs-idp151776640">Dos tercios de la producción mundial de hidrógeno se dedican a la fabricación de amoníaco, que es un fertilizante y se utiliza en la fabricación de ácido nítrico. Las grandes cantidades de hidrógeno también son importantes en el proceso de <term id="term-00001">hidrogenación</term>, que se trata en el capítulo de química orgánica.</para>
 <para id="fs-idp268499792">Es posible utilizar el hidrógeno como combustible no contaminante. La reacción del hidrógeno con el oxígeno es una reacción muy exotérmica, que libera 286 kJ de energía por mol de agua formada. El hidrógeno se quema sin explosión en condiciones controladas. El soplete de oxígeno-hidrógeno, debido al elevado calor de combustión del hidrógeno, puede alcanzar temperaturas de hasta 2800 °C. La llama caliente de este soplete es útil para cortar chapas gruesas de muchos metales. El hidrógeno líquido es también un importante combustible para cohetes (<link target-id="CNX_Chem_18_05_LiqHliqO"/>).</para>
 <figure id="CNX_Chem_18_05_LiqHliqO" class="scaled-down">
 <media id="fs-idp117124896" alt="Se muestra el despegue de un cohete.">
@@ -125,7 +125,7 @@
 <title>Compuestos de hidrógeno y nitrógeno</title>
 <para id="fs-idp63169696">El amoníaco, NH<sub>3</sub>, se forma de manera natural cuando cualquier materia orgánica que contenga nitrógeno se descompone en ausencia de aire. La preparación del amoníaco en el laboratorio se realiza mediante la reacción de una sal de amonio con una base fuerte como el hidróxido de sodio. La reacción ácido-base con el ion de amonio débilmente acídico da lugar al amoníaco, ilustrado en la <link target-id="CNX_Chem_18_05_Ammonia"/>. El amoníaco también se forma cuando los nitruros iónicos reaccionan con el agua. El ion de nitruro es una base mucho más fuerte que el ion de hidróxido:</para>
 <equation class="unnumbered" id="fs-idp262858864"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Mg</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>6H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>3Mg</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
-<para id="fs-idp141680832">La producción comercial de amoníaco se realiza mediante la combinación directa de los elementos del <term>proceso de Haber</term>:</para>
+<para id="fs-idp141680832">La producción comercial de amoníaco se realiza mediante la combinación directa de los elementos del <term id="term-00002">proceso de Haber</term>:</para>
 <equation class="unnumbered" id="fs-idp47424384"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mover><m:mtext>⇌</m:mtext><m:mrow><m:mspace width="0.2em"/><m:mtext>catalizador</m:mtext><m:mspace width="0.2em"/></m:mrow></m:mover><m:msub><m:mrow><m:mtext>2NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>−92 kJ</m:mtext></m:mrow></m:math></equation>
 <figure id="CNX_Chem_18_05_Ammonia">
 <media id="fs-idp100427680" alt="Un modelo de barras y esferas muestra un átomo de nitrógeno que tiene un enlace simple con tres átomos de hidrógeno. Hay un par solitario de puntos de electrones que aparece sobre el átomo de nitrógeno.">
@@ -174,7 +174,7 @@
 </section>
 <section id="fs-idm8364256">
 <title>Compuestos de hidrógeno y halógenos</title>
-<para id="fs-idp30119280">Los compuestos binarios que solo contienen hidrógeno y un halógeno son <term>haluros de hidrógeno</term>. A temperatura ambiente, los haluros de hidrógeno puros HF, HCl, HBr y HI son gases.</para>
+<para id="fs-idp30119280">Los compuestos binarios que solo contienen hidrógeno y un halógeno son <term id="term-00003">haluros de hidrógeno</term>. A temperatura ambiente, los haluros de hidrógeno puros HF, HCl, HBr y HI son gases.</para>
 <para id="fs-idp45585904">En general, es posible preparar los haluros mediante las técnicas generales utilizadas para preparar otros ácidos. El flúor, el cloro y el bromo reaccionan directamente con el hidrógeno para formar el haluro de hidrógeno correspondiente. Esta es una reacción comercialmente importante para preparar cloruro de hidrógeno y bromuro de hidrógeno.</para>
 <para id="fs-idp39542256">La reacción ácido-base entre un ácido fuerte no volátil y un haluro metálico dará lugar a un haluro de hidrógeno. El escape del haluro de hidrógeno gaseoso impulsa la reacción hasta su finalización. Por ejemplo, el método habitual para preparar el fluoruro de hidrógeno es calentar una mezcla de fluoruro de calcio, CaF<sub>2</sub>, y ácido sulfúrico concentrado:</para>
 <equation class="unnumbered" id="fs-idp370564368"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CaF</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CaSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>2HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>

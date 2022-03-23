@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68838</md:content-id>
   <md:title>Incidencia, preparación y propiedades del azufre</md:title>
-  <md:abstract><para>Al final de esta sección, podrá:</para>
-<list>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para>
+<list id="list-00001">
 <item>Describir las propiedades, la preparación y los usos del azufre</item>
 </list></md:abstract>
   <md:uuid>03b0d669-3f4e-450d-a7be-1108051b9f47</md:uuid>
@@ -18,7 +18,7 @@
 </media>
 <caption>Los gases volcánicos contienen sulfuro de hidrógeno (crédito: Daniel Julie / Wikimedia Commons).</caption>
 </figure>
-<para id="fs-idm89076784">El <term>proceso de Frasch</term>, ilustrado en la <link target-id="CNX_Chem_18_10_FrachMine"/>, es importante en la extracción de azufre libre de enormes depósitos subterráneos en Texas y Luisiana. El agua sobrecalentada (170 °C y 10 atm de presión) se hace descender por el más externo de los tres tubos concéntricos hasta el depósito subterráneo. El agua caliente derrite el azufre. El tubo más interno conduce el aire comprimido hacia el azufre líquido. El aire obliga al azufre líquido, mezclado con el aire, a subir por el tubo de salida. La transferencia de la mezcla a grandes cubas de decantación permite que el azufre sólido se separe al enfriarse. Este azufre tiene una pureza de entre el 99,5 % y el 99,9 % y no necesita ser purificado para la mayoría de los usos.</para>
+<para id="fs-idm89076784">El <term id="term-00001">proceso de Frasch</term>, ilustrado en la <link target-id="CNX_Chem_18_10_FrachMine"/>, es importante en la extracción de azufre libre de enormes depósitos subterráneos en Texas y Luisiana. El agua sobrecalentada (170 °C y 10 atm de presión) se hace descender por el más externo de los tres tubos concéntricos hasta el depósito subterráneo. El agua caliente derrite el azufre. El tubo más interno conduce el aire comprimido hacia el azufre líquido. El aire obliga al azufre líquido, mezclado con el aire, a subir por el tubo de salida. La transferencia de la mezcla a grandes cubas de decantación permite que el azufre sólido se separe al enfriarse. Este azufre tiene una pureza de entre el 99,5 % y el 99,9 % y no necesita ser purificado para la mayoría de los usos.</para>
 <figure id="CNX_Chem_18_10_FrachMine" class="scaled-down">
 <media id="fs-idm119715872" alt="Se muestra un diagrama en el que un tubo vertical está incrustado en su extremo inferior en un sólido multicapa. La capa superior está marcada como &quot;Suelo&quot; y la inferior como &quot;Depósito de azufre sólido&quot;. Un tubo delgado, que comienza en la parte superior del diagrama, conduce al tubo vertical hasta la parte inferior y está marcado como &quot;Aire comprimido&quot;. En este tubo interior se dibujan flechas hacia la izquierda y luego hacia abajo. Estas flechas giran entonces hacia arriba en la parte inferior del tubo y se dibujan hacia arriba para indicar el flujo de, &quot;Azufre líquido&quot;, desde la parte inferior del diagrama hasta la parte superior fuera del tubo interior. Estas flechas conducen a una cámara en la parte superior derecha del diagrama con flechas hacia la izquierda marcadas como &quot;Azufre, agua y aire&quot;. Un tubo horizontal en el centro derecho del diagrama conduce al tubo exterior y las flechas dibujadas hacia abajo conducen de nuevo a la parte inferior del diagrama. Este tubo está marcado como &quot;Agua sobrecalentada&quot;.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_18_10_FrachMine.jpg"/>

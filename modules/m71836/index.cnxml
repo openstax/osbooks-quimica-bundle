@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m71836</md:content-id>
   <md:title>Cálculos de equilibrio</md:title>
-  <md:abstract><para>Al final de esta sección, podrá:</para><list><item>Identificar los cambios de concentración o presión que se producen para las especies químicas en los sistemas de equilibrio</item>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para><list id="list-00001"><item>Identificar los cambios de concentración o presión que se producen para las especies químicas en los sistemas de equilibrio</item>
 <item>Calcular las concentraciones o presiones de equilibrio y las constantes de equilibrio, utilizando diversas aproximaciones algebraicas.</item>
 <item>Explicar cómo la temperatura afecta a la espontaneidad de algunos procesos</item>
 <item>Relacionar los cambios de energía libre estándar con las constantes de equilibrio</item></list></md:abstract>
@@ -213,7 +213,7 @@ La combustión incompleta del carbono se describe mediante la siguiente ecuació
 <equation id="fs-idm124549040" class="unnumbered"><m:math><m:mrow><m:mtext>2C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
 <para id="fs-idm291788752">¿Cómo depende la espontaneidad de este proceso de la temperatura?</para>
 <para id="fs-idm116939264"><title>Solución</title>
-Los procesos de combustión son exotérmicos (Δ<emphasis effect="italics">H</emphasis> &lt; 0). Esta reacción en particular implica un aumento de la entropía debido al aumento de la cantidad de especies gaseosas que la acompaña (ganancia neta de un mol de gas, Δ<emphasis effect="italics">S</emphasis> &gt; 0). Por lo tanto, la reacción es espontánea (Δ<emphasis effect="italics">G</emphasis> &lt; 0) a todas las temperaturas.</para>
+Los procesos de combustión son exotérmicos (Δ<emphasis effect="italics">H</emphasis> &lt; 0). Esta reacción en particular implica un aumento de la entropía debido al aumento de la cantidad de especies gaseosas que la acompaña (ganancia neta de un mol de gas, Δ<emphasis effect="italics">S</emphasis> > 0). Por lo tanto, la reacción es espontánea (Δ<emphasis effect="italics">G</emphasis> &lt; 0) a todas las temperaturas.</para>
 <para id="fs-idm189692848"><title>Compruebe lo aprendido</title>
 Los populares calentadores de manos químicos generan calor mediante la oxidación del hierro en el aire:</para>
 <equation id="fs-idm247358864" class="unnumbered"><m:math><m:mrow><m:mtext>4Fe</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></equation>
@@ -256,7 +256,7 @@ Utilice la información del <link document="m68865">Apéndice G</link> para esti
 
 
 </section><section id="eip-943"><title>Energía libre y equilibrio</title><para id="fs-idm166739792">El cambio de energía libre de un proceso puede considerarse como una medida de su fuerza impulsora. Un valor negativo de Δ<emphasis effect="italics">G</emphasis> representa una fuerza impulsora para el proceso en la dirección de avance, mientras que un valor positivo representa una fuerza impulsora para el proceso en la dirección inversa. Cuando Δ<emphasis effect="italics">G</emphasis> es cero, las fuerzas impulsoras hacia adelante y hacia atrás son iguales, y el proceso ocurre en ambas direcciones a la misma velocidad (el sistema está en equilibrio).</para>
-<para id="fs-idm189708256">En la sección sobre el equilibrio, se introdujo el <emphasis effect="italics">cociente de reacción</emphasis>, <emphasis effect="italics">Q</emphasis>, como una medida conveniente del estado de un sistema en equilibrio. Recuerde que <emphasis effect="italics">Q</emphasis> es el valor numérico de la expresión de la acción de la masa para el sistema, y que puede utilizar su valor para identificar la dirección en la que procederá una reacción para alcanzar el equilibrio. Cuando <emphasis effect="italics">Q</emphasis> es menor que la constante de equilibrio, <emphasis effect="italics">K</emphasis>, la reacción procederá en dirección hacia adelante hasta que se alcance el equilibrio y <emphasis effect="italics">Q</emphasis> = <emphasis effect="italics">K</emphasis>. Por el contrario, si <emphasis effect="italics">Q</emphasis> &gt; <emphasis effect="italics">K</emphasis>, el proceso procederá en dirección inversa hasta que se alcance el equilibrio.</para><para id="fs-idm39755632">El cambio de energía libre para un proceso que tiene lugar con reactivos y productos presentes en <emphasis effect="italics">condiciones no estándar</emphasis> (presiones distintas de 1 bar; concentraciones distintas de 1 M) se relaciona con el cambio de energía libre estándar, según esta ecuación:</para>
+<para id="fs-idm189708256">En la sección sobre el equilibrio, se introdujo el <emphasis effect="italics">cociente de reacción</emphasis>, <emphasis effect="italics">Q</emphasis>, como una medida conveniente del estado de un sistema en equilibrio. Recuerde que <emphasis effect="italics">Q</emphasis> es el valor numérico de la expresión de la acción de la masa para el sistema, y que puede utilizar su valor para identificar la dirección en la que procederá una reacción para alcanzar el equilibrio. Cuando <emphasis effect="italics">Q</emphasis> es menor que la constante de equilibrio, <emphasis effect="italics">K</emphasis>, la reacción procederá en dirección hacia adelante hasta que se alcance el equilibrio y <emphasis effect="italics">Q</emphasis> = <emphasis effect="italics">K</emphasis>. Por el contrario, si <emphasis effect="italics">Q</emphasis> > <emphasis effect="italics">K</emphasis>, el proceso procederá en dirección inversa hasta que se alcance el equilibrio.</para><para id="fs-idm39755632">El cambio de energía libre para un proceso que tiene lugar con reactivos y productos presentes en <emphasis effect="italics">condiciones no estándar</emphasis> (presiones distintas de 1 bar; concentraciones distintas de 1 M) se relaciona con el cambio de energía libre estándar, según esta ecuación:</para>
 <equation id="fs-idm55093920" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>Q</m:mi></m:mrow></m:math></equation>
 <para id="fs-idm192589168"><emphasis effect="italics">R</emphasis> es la constante de los gases (8,314 J/K mol), <emphasis effect="italics">T</emphasis> es la temperatura kelvin o absoluta y <emphasis effect="italics">Q</emphasis> es el cociente de reacción. Esta ecuación puede utilizarse para predecir la espontaneidad de un proceso bajo cualquier conjunto de condiciones, como se ilustra en la <link target-id="fs-idm192477856"/>.</para>
 <example id="fs-idm192477856">
@@ -295,13 +295,13 @@ Calcule el cambio de energía libre para esta misma reacción a 875 °C en una m
 </thead>
 <tbody>
 <row valign="top">
-<entry align="center">&gt; 1</entry>
+<entry align="center">> 1</entry>
 <entry align="center">&lt; 0</entry>
 <entry align="left">Los productos son más abundantes</entry>
 </row>
 <row valign="top">
 <entry align="center">&lt; 1</entry>
-<entry align="center">&gt; 0</entry>
+<entry align="center">> 0</entry>
 <entry align="left">Los reactivos son más abundantes</entry>
 </row>
 <row valign="top">
