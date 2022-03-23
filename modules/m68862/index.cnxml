@@ -1,0 +1,92 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+
+<title>Constantes físicas fundamentales</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68862</md:content-id>
+  <md:title>Constantes físicas fundamentales</md:title>
+  <md:abstract/>
+  <md:uuid>89acae8f-68fd-4f9e-88e3-e545c290c96c</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table id="fs-idm136825040" class="top-titled" summary="La tabla titulada &quot;Constantes físicas fundamentales&quot; tiene una columna para &quot;Nombre y símbolo&quot; y otra para &quot;Valor&quot;. Para la unidad de masa atómica, el símbolo es a m u, y el valor es 1,6605402 por 10 al superíndice 27 negativo kg. Para el número de Avogadro, el valor es 6,0221367 por 10 al superíndice 23 mol al superíndice 1 negativo. Para la constante de Boltzmann, el símbolo es k en minúscula cursiva, y el valor es 1,380658 por 10 superíndice 23 negativo J K superíndice 1 negativo. Para la relación carga-masa del electrón, el símbolo es e/m en minúscula cursiva subíndice e en minúscula cursiva, y el valor es 1,75881962 por 10 superíndice 11 C kg superíndice negativo. Para la carga del electrón, el símbolo es e en minúscula cursiva, y el valor es 1,60217733 por 10 superíndice 19 negativo C. Para la masa en reposo del electrón, el símbolo es m en minúscula cursiva subíndice e en minúscula cursiva, y el valor es 9,1093897 por 10 superíndice 31 negativo kg. Para la constante de Faraday, el símbolo es F en mayúscula y cursiva, y el valor es 9,6485309 por 10 superíndice 4 C mol superíndice 1 negativo. Para la constante de los gases, el símbolo es R en mayúscula y cursiva, y el valor es 9,6485309 por 10 superíndice 4 C mol superíndice 1 negativo, lo que equivale a 8,314510 J mol superíndice 1K negativo superíndice 1 negativo. Para el volumen molar de un gas ideal, 1 atm, 0 °C, el valor es 22,41409 L mol superíndice 1 negativo. Para el volumen molar de un gas ideal, 1 bar, 0 °C, el valor es 22,71108 L mol superíndice 1 negativo. Para la masa en reposo del neutrón, el símbolo es m en minúscula cursiva subíndice n en minúscula cursiva, y el valor es 1,6749274 por 10 superíndice 27 negativo kg. Para la constante de Planck, el símbolo es h en minúscula cursiva, y el valor es 6,6260755 por 10 superíndice 34 negativo J s. Para la masa en reposo del protón, el símbolo es m en minúscula cursiva subíndice p en minúscula cursiva, y el valor es 1,6726231 por 10 superíndice 27 negativo kg. Para la constante de Rydberg, el símbolo es R en mayúscula, y el valor es 1,0973731534 por 10 superíndice 7 m superíndice 1 negativo es igual a 2,1798736 por 10 superíndice 18 negativo J. Para la velocidad de la luz en el vacío, el símbolo es c en minúscula cursiva, y el valor es 2,99792458 por 10 superíndice 8 m s superíndice 1 negativo.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c2">Constantes físicas fundamentales</entry>
+</row>
+<row valign="middle">
+<entry align="left">Nombre y símbolo</entry>
+<entry align="left">Valor</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">unidad de masa atómica (Atomic Mass Unit, amu o u)</entry>
+<entry align="left">1,6605402 <m:math><m:mo>×</m:mo></m:math> 10<sup>-27</sup> kg</entry>
+</row>
+<row valign="middle">
+<entry align="left">Número de Avogadro</entry>
+<entry align="left">6,02214076 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> mol<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">constante de Boltzmann (<emphasis effect="italics">k</emphasis>)</entry>
+<entry align="left">1,380649 <m:math><m:mo>×</m:mo></m:math> 10<sup>-23</sup> J K<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">cociente carga-masa del electrón (<emphasis effect="italics">e/m<sub>e</sub></emphasis>)</entry>
+<entry align="left">1,75881962 <m:math><m:mo>×</m:mo></m:math> 10<sup>11</sup> C kg<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">unidad fundamental de carga (<emphasis effect="italics">e</emphasis>)</entry>
+<entry align="left">1,602176634 <m:math><m:mo>×</m:mo></m:math> 10<sup>-19</sup> C</entry>
+</row>
+<row valign="middle">
+<entry align="left">masa en reposo del electrón (<emphasis effect="italics">m<sub>e</sub></emphasis>)</entry>
+<entry align="left">9,1093897 <m:math><m:mo>×</m:mo></m:math> 10<sup>-31</sup> kg</entry>
+</row>
+<row valign="middle">
+<entry align="left">constante de Faraday (<emphasis effect="italics">F</emphasis>)</entry>
+<entry align="left">9,6485309 <m:math><m:mo>×</m:mo></m:math> 10<sup>4</sup> C mol<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">constante del gas (<emphasis effect="italics">R</emphasis>)</entry>
+<entry align="left">8,205784 <m:math><m:mo>×</m:mo></m:math> 10<sup>-2</sup> L atm mol<sup>-1</sup> K<sup>-1</sup> = 8,314510 J mol<sup>-1</sup> K<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">volumen molar de un gas ideal, 1 atm, 0 °C</entry>
+<entry align="left">22,41409 L mol<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">volumen molar de un gas ideal, 1 bar, 0 °C</entry>
+<entry align="left">22,71108 L mol<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">masa en reposo del neutrón (<emphasis effect="italics">m<sub>n</sub></emphasis>)</entry>
+<entry align="left">1,6749274 <m:math><m:mo>×</m:mo></m:math> 10<sup>-27</sup> kg</entry>
+</row>
+<row valign="middle">
+<entry align="left">constante de Planck (<emphasis effect="italics">h</emphasis>)</entry>
+<entry align="left">6,62607015 <m:math><m:mo>×</m:mo></m:math> 10<sup>-34</sup> J s</entry>
+</row>
+<row valign="middle">
+<entry align="left">masa en reposo del protón (<emphasis effect="italics">m<sub>p</sub></emphasis>)</entry>
+<entry align="left">1,6726231 <m:math><m:mo>×</m:mo></m:math> 10<sup>-27</sup> kg</entry>
+</row>
+<row valign="middle">
+<entry align="left">constante de Rydberg (R)</entry>
+<entry align="left">1,0973731534 <m:math><m:mo>×</m:mo></m:math> 10<sup>7</sup> m<sup>-1</sup> = 2,1798736 <m:math><m:mo>×</m:mo></m:math> 10<sup>-18</sup> J</entry>
+</row>
+<row valign="middle">
+<entry align="left">velocidad de la luz (en el vacío) (<emphasis effect="italics">c</emphasis>)</entry>
+<entry align="left">2,99792458 <m:math><m:mo>×</m:mo></m:math> 10<sup>8</sup> m s<sup>-1</sup></entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table>   </content>
+</document>

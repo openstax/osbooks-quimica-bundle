@@ -1,0 +1,151 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Usos de los radioisótopos</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68857</md:content-id>
+  <md:title>Usos de los radioisótopos</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Enumerar las aplicaciones comunes de los isótopos radiactivos.</item>
+</list></md:abstract>
+  <md:uuid>15be4435-4470-4cb9-b6ce-fdb871aba9f1</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp54341648">Los isótopos radiactivos tienen las mismas propiedades químicas que los isótopos estables del mismo elemento, pero emiten radiaciones que pueden detectarse. Si sustituimos uno o más átomos por radioisótopos en un compuesto, podemos rastrearlos por sus emisiones radiactivas. Este tipo de compuesto se denomina <term>trazador radiactivo</term> (o <term>etiqueta radiactiva</term>). Los radioisótopos se utilizan para seguir las rutas de las reacciones bioquímicas o para determinar la distribución de una sustancia en un organismo. Asimismo, los trazadores radiactivos se utilizan en muchas aplicaciones médicas, tanto en el diagnóstico como en el tratamiento. Se emplean para medir el desgaste de los motores, analizar la formación geológica alrededor de los pozos de petróleo y mucho más.</para>
+<para id="eip-608">Los radioinmunoensayos (RIA), por ejemplo, se basan en radioisótopos para detectar la presencia o la concentración de determinados antígenos. Esta técnica, desarrollada por Rosalyn Sussman Yalow y Solomon Berson en la década de 1950, es conocida por su extrema sensibilidad, lo que significa que puede detectar y medir cantidades muy pequeñas de una sustancia. Antes de su descubrimiento, la mayoría de las detecciones similares se basaban en cantidades suficientemente grandes para producir resultados visibles. Los RIA revolucionaron y ampliaron campos enteros de estudio, sobre todo la endocrinología, y se utilizan habitualmente en la detección de narcóticos, la detección en bancos de sangre, la detección precoz del cáncer, la medición de hormonas y el diagnóstico de alergias. Gracias a su importante contribución a la medicina, Yalow recibió el Premio Nobel, lo que la convirtió en la segunda mujer galardonada con este premio en el área de medicina.</para><para id="fs-idp247341312">Los radioisótopos han revolucionado la práctica médica (vea el <link document="m68871">Apéndice M</link>), donde se utilizan ampliamente. En Estados Unidos se realizan anualmente más de 10 millones de procedimientos y más de 100 millones de pruebas de medicina nuclear. Cuatro ejemplos típicos de trazadores radiactivos utilizados en medicina son el tecnecio-99 <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msubsup><m:mrow/><m:mn>43</m:mn><m:mn>99</m:mn></m:msubsup><m:mtext>Tc</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math>, el talio-201 <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>81</m:mn></m:mrow><m:mn>201</m:mn></m:msubsup><m:mtext>Tl</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math>, el yodo-131 <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>53</m:mn></m:mrow><m:mn>131</m:mn></m:msubsup><m:mtext>I</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math> y el sodio-24 <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msubsup><m:mrow/><m:mn>11</m:mn><m:mn>24</m:mn></m:msubsup><m:mtext>Na</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math>. Los tejidos dañados del corazón, del hígado y de los pulmones absorben preferentemente ciertos compuestos de tecnecio-99. Tras su inyección, la localización del compuesto de tecnecio, y por tanto del tejido dañado, se determina con la detección de los rayos γ emitidos por el isótopo Tc-99. El talio-201 (<link target-id="CNX_Chem_21_05_Thallium"/>) se concentra en el tejido cardíaco sano, por lo que los dos isótopos, Tc-99 y Tl-201, se utilizan juntos para estudiar el tejido cardíaco. El yodo-131 se concentra en la glándula tiroides, el hígado y algunas partes del cerebro. Por consiguiente, se utiliza para controlar el bocio y tratar las afecciones tiroideas, como la enfermedad de Grave, así como los tumores hepáticos y cerebrales. Las soluciones salinas que contienen compuestos de sodio-24 se inyectan en el torrente sanguíneo para localizar las obstrucciones del flujo sanguíneo.</para><figure id="CNX_Chem_21_05_Thallium">
+<media id="fs-idp42838624" class="scaled-down" alt="Se muestra una foto de dos hombres: uno caminando en una cinta de correr con varios cables conectados a su torso, y el otro recopilando los datos de la presión arterial del primero.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_05_Thallium.jpg"/>
+</media>
+<caption>La administración de talio-201 a un paciente y la posterior realización de la prueba de esfuerzo ofrecen a los profesionales médicos la oportunidad de analizar visualmente la función del corazón y el flujo sanguíneo (créditos: modificación de la obra de "Blue0ctane" / Wikimedia Commons).</caption>
+</figure>
+<para id="fs-idp117263328">Los radioisótopos utilizados en medicina tienen semividas cortas; por ejemplo, el omnipresente Tc-99m tiene una semivida de 6,01 horas. Esto hace que el Tc-99m sea esencialmente imposible de almacenar y prohibitivamente caro de transportar, por lo que se fabrica in situ. Los hospitales y otras instalaciones médicas utilizan el Mo-99 (que se extrae principalmente de los productos de fisión del U-235) para generar Tc-99. El Mo-99 sufre un decaimiento β con una semivida de 66 horas, y el Tc-99 se extrae entonces químicamente (<link target-id="CNX_Chem_21_05_Tc-99"/>). El nucleido padre Mo-99 forma parte de un ion de molibdato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>MoO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>;</m:mo></m:mrow></m:math> cuando decae, forma el ion de pertecnetato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>TcO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math> Estos dos iones solubles en agua se separan por cromatografía en columna, en la que el ion de molibdato de mayor carga se adsorbe en la alúmina de la columna, y el ion de pertecnetato de menor carga pasa por la columna en la solución. Unos cuantos microgramos de Mo-99 producen suficiente Tc-99 para realizar hasta 10.000 pruebas.</para>
+<figure id="CNX_Chem_21_05_Tc-99" class="scaled-down">
+<media id="fs-idp19157312" alt="Se muestran una fotografía y una imagen microscópica, marcadas como &quot;a&quot; y &quot;b&quot;. La foto a muestra la mano de una persona que vierte un líquido claro de una probeta graduada en un tubo de ensayo vertical y cilíndrico. El tubo tiene muchos componentes separados de vidrio y se sujeta con una abrazadera. La imagen b muestra una multitud de pequeños puntos rojos sobre un fondo negro. Los puntos se recogen en cuatro regiones y se dispersan en otras.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_05_Tc-99.jpg"/>
+</media>
+<caption>(a) El primer generador de Tc-99m (alrededor de 1958) se utiliza para separar el Tc-99 del Mo-99. El <m:math><m:mrow><m:msub><m:mrow><m:mtext>MoO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> se retiene por la matriz en la columna, mientras que el <m:math><m:mrow><m:msub><m:mrow><m:mtext>TcO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> pasa y se recoge. (b) En esta exploración del cuello de un paciente con enfermedad de Grave se utilizó Tc-99. El escáner muestra la localización de altas concentraciones de Tc-99 (crédito a: modificación del trabajo del Departamento de Energía; crédito b: modificación del trabajo de "MBq" / Wikimedia Commons).</caption>
+</figure>
+<para id="fs-idp240963344">Los radioisótopos también se utilizan como tratamiento, normalmente en dosis más altas que como trazador. La<term>radioterapia</term> es el uso de radiación potente para dañar el ADN de las células cancerosas, lo que las mata o impide que se dividan (<link target-id="CNX_Chem_21_05_RadTherapy"/>). Un paciente con cáncer puede recibir <term>radioterapia de haz externo</term> administrada por una máquina fuera del cuerpo, o <term>radioterapia interna (braquiterapia)</term> a partir de una sustancia radiactiva que se introduce en el organismo. Tenga en cuenta que la <term>quimioterapia</term> es semejante a la radioterapia interna en el sentido de que el tratamiento oncológico se inyecta en el organismo, pero difiere en que la quimioterapia utiliza sustancias químicas en lugar de radiactivas para eliminar las células cancerosas.</para>
+<figure id="CNX_Chem_21_05_RadTherapy" class="scaled-down">
+<media id="fs-idp151344384" alt="Se muestran dos diagramas marcados como &quot;a&quot; y &quot;b&quot;. El diagrama a muestra a una mujer tumbada en una mesa horizontal que se introduce en una máquina con forma de cúpula. El diagrama b es una vista más cercana de la cabeza y del torso superior de la mujer en la máquina. Se muestra una serie de rayos, marcada como &quot;rayos gama&quot;, que salen de las rendijas de los bordes de la máquina, marcados como &quot;cobalto radiactivo&quot;, y que penetran en su cabeza, marcada como &quot;objetivo&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_05_RadTherapy.jpg"/>
+</media>
+<caption>La viñeta en (a) muestra una máquina de cobalto-60 que se utiliza en el tratamiento oncológico. El diagrama en (b) muestra cómo el pórtico de la máquina de Co-60 gira a través de un arco, para enfocar la radiación en la región objetivo (tumor) y minimizar la cantidad de radiación que pasa por las zonas cercanas.</caption>
+</figure>
+<para id="fs-idp202530192">El cobalto-60 es un radioisótopo sintético que se produce por la activación neutrónica del Co-59, que luego sufre un decaimiento β para formar Ni-60, junto con la emisión de radiación γ. El proceso general es:</para>
+<equation id="fs-idp40314416" class="unnumbered">
+
+  <m:math><m:mrow><m:msubsup><m:mrow/><m:mn>27</m:mn><m:mn>59</m:mn></m:msubsup>
+
+  <m:mtext>Co</m:mtext><m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mn>0</m:mn><m:mn>1</m:mn></m:msubsup>
+
+<m:mtext>n</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mn>27</m:mn><m:mn>60</m:mn></m:msubsup>
+
+<m:mtext>Co</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mn>28</m:mn><m:mn>60</m:mn></m:msubsup>
+
+<m:mtext>Ni</m:mtext><m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mn>0</m:mn></m:mrow></m:msubsup>
+
+<m:mtext>β</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn>
+
+<m:msubsup><m:mrow/><m:mn>0</m:mn><m:mn>0</m:mn></m:msubsup>
+
+<m:mtext>γ</m:mtext></m:mrow></m:math></equation>
+
+<para id="fs-idp130664688">El esquema general de decaimiento de esto se muestra gráficamente en la <link target-id="CNX_Chem_21_05_Co60Decay"/>.</para>
+<figure id="CNX_Chem_21_05_Co60Decay">
+<media id="fs-idp82360800" alt="Un gráfico muestra una línea horizontal en la esquina superior izquierda, marcada como &quot;superíndice 60 subíndice 27 C o&quot; y &quot;5,272 a&quot; con dos flechas hacia la derecha y hacia abajo que parten de esta. Estas flechas están marcadas como &quot;1,48 M e v beta 0,12 signo de porcentaje&quot; y &quot;0,31 M e v beta 99,88 signo de porcentaje&quot;. La parte superior de las dos flechas apunta a una línea horizontal y la inferior, a otra línea horizontal. Entre estas dos líneas horizontales hay una flecha hacia abajo, marcada como &quot;1,1732 M e V gama&quot;. Una cuarta línea horizontal se encuentra en la parte inferior del diagrama, por debajo de la segunda y la tercera línea. Entre esta y la tercera línea horizontal se encuentra una flecha hacia abajo. Está marcada como &quot;1,3325 M e V gama&quot;. Debajo de la última línea horizontal está la marcación &quot;superíndice 60 subíndice 28 N i&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_05_Co60Decay.jpg"/>
+</media>
+<caption>El Co-60 sufre una serie de decaimientos radiactivos. Las emisiones γ se utilizan en la radioterapia.</caption>
+</figure>
+<para id="fs-idp115972800">Los radioisótopos se utilizan de diversas maneras para estudiar los mecanismos de las reacciones químicas en plantas y animales. Entre ellos se encuentran el etiquetado de los fertilizantes en los estudios sobre la absorción de nutrientes por parte de las plantas y el crecimiento de los cultivos, las investigaciones sobre los procesos digestivos y de producción de leche en las vacas, y los estudios sobre el crecimiento y el metabolismo de los animales y de las plantas.</para>
+<para id="fs-idm4363456">Por ejemplo, el radioisótopo C-14 se utilizó para dilucidar los detalles de la fotosíntesis. La reacción general es:</para>
+<equation id="fs-idp161500800" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>6CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>6H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>6O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp103955008">pero el proceso es mucho más complejo, ya que pasa por una serie de pasos en los que se producen diversos compuestos orgánicos. En los estudios sobre la vía de esta reacción, las plantas fueron expuestas a CO<sub>2</sub> con alta concentración de <m:math><m:mrow><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext></m:mrow></m:math>. A intervalos regulares se analizaron las plantas para determinar qué compuestos orgánicos contenían carbono-14 y qué cantidad de cada compuesto estaba presente. A partir de la secuencia temporal en la que aparecieron los compuestos y la cantidad de cada uno de estos en determinados intervalos, los científicos aprendieron más sobre la vía de la reacción.</para>
+<para id="fs-idp7560688">Las aplicaciones comerciales de los materiales radiactivos son igualmente diversas (<link target-id="CNX_Chem_21_05_UsesOfRad"/>). Entre estas se encuentra la determinación del grosor de las películas y de las láminas metálicas delgadas aprovechando el poder de penetración de variados tipos de radiación. Los defectos en los metales que se emplean con fines estructurales se detectan con potentes rayos gama, provenientes del cobalto 60, parecido a la forma en que se utilizan los rayos X para examinar el cuerpo humano. En una forma de control de plagas, las moscas se controlan esterilizando a los machos con radiación γ para que las hembras que se reproduzcan con ellos no produzcan descendencia. Muchos alimentos se conservan mediante radiaciones que matan los microorganismos causantes de la descomposición de los alimentos.</para>
+<figure id="CNX_Chem_21_05_UsesOfRad">
+<media id="fs-idp105478400" alt="Se muestran dos fotografías, marcadas como &quot;a&quot; y &quot;b&quot;. En la foto a, un hombre mira una imagen iluminada en la pared. En la foto b, las fresas en una cinta transportadora caen en una serie de cámaras recolectoras.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_05_UsesOfRad.jpg"/>
+</media>
+<caption>Entre los usos comerciales habituales de la radiación se encuentran: (a) la inspección por rayos X del equipaje en los aeropuertos y (b) la conservación de alimentos (crédito a: modificación de un trabajo del Departamento de Marina; crédito b: modificación de un trabajo del Departamento de Agricultura de los EE. UU.).</caption>
+</figure>
+<para id="fs-idp105479248">El americio-241, un emisor α con semivida de 458 años, se utiliza en cantidades ínfimas en los detectores de humo de tipo ionizante (<link target-id="CNX_Chem_21_05_SmokeAlarm"/>). Las emisiones α de Am-241 ionizan el aire entre dos placas de electrodos en la cámara de ionización. Una batería suministra un potencial que provoca el movimiento de los iones, para generar una pequeña corriente eléctrica. Cuando el humo entra en la cámara, se impide el movimiento de los iones, lo que reduce la conductividad del aire. Esto provoca una caída ostensible en la corriente y acciona una alarma.</para>
+<figure id="CNX_Chem_21_05_SmokeAlarm">
+<media id="fs-idp22507536" alt="Se muestra una fotografía y un diagrama. La fotografía muestra el interior de un detector de humo. Una pieza circular de plástico en la sección inferior del detector está marcada como &quot;alarma&quot;, mientras que un disco metálico en la parte superior izquierda de la foto está marcado como &quot;cámara de ionización&quot;. En la parte superior derecha del detector hay una batería. El diagrama es una vista ampliada de la cámara de ionización. En el interior de la carcasa cilíndrica hay dos placas circulares horizontales, marcadas como &quot;placas metálicas&quot;; la parte superior está marcada con un signo positivo y la inferior, con un signo negativo. Los cables se muestran conectados a las placas y a los terminales de una batería en el exterior de la cámara. Un disco en el fondo de la cámara está marcado como &quot;fuente de americio&quot; y cuatro flechas, marcadas como &quot;partículas alfa&quot;, se dirigen verticalmente desde este disco, a través de un agujero en la placa negativa, y hacia el espacio superior de la cámara. En este espacio se encuentran dos moléculas, con signos positivos, formadas por dos esferas azules y dos moléculas, con signos positivos, formadas por dos esferas rojas, así como dos esferas amarillas con signos negativos y flechas hacia abajo. Once puntos blancos rodean dos de las moléculas a la derecha de la imagen y se marcan como &quot;partículas de humo&quot;. Encima de la parte izquierda de la imagen aparece la frase &quot;No hay humo, las partículas cargadas completan el circuito&quot;, mientras que en una frase encima de la parte derecha de la imagen se lee: &quot;El humo descarga las partículas, el circuito se rompe, la alarma se dispara&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_05_SmokeAlarm.jpg"/>
+</media>
+<caption>Dentro de un detector de humo, el Am-241 emite partículas α que ionizan el aire, para generar una pequeña corriente eléctrica. Durante un incendio, las partículas de humo impiden el flujo de iones, lo que reduce la corriente y se activa la alarma (crédito a: modificación de la obra de "Muffet" / Wikimedia Commons).</caption>
+</figure>
+<section id="fs-idp11200000" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp17699024">Los compuestos conocidos como trazadores radiactivos se emplean para seguir reacciones, rastrear la distribución de una sustancia, diagnosticar y tratar enfermedades y mucho más. Otras sustancias radiactivas sirven para controlar las plagas, visualizar las estructuras, proporcionar avisos de incendio y en infinidad de aplicaciones. En Estados Unidos se realizan cada año cientos de millones de pruebas y procedimientos de medicina nuclear con una gran variedad de radioisótopos de semividas relativamente cortas. La mayoría de estos radioisótopos tienen semividas relativamente cortas; algunas son lo suficientemente cortas como para que el radioisótopo tenga que fabricarse in situ en las instalaciones médicas. La radioterapia consiste en radiación de alta energía para eliminar las células cancerosas al dañar su ADN. La radiación para este tratamiento se administra de forma externa o interna.</para>
+</section>
+<section id="fs-idp96492688" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idp257856896">
+<problem id="fs-idp32410288">
+<para id="fs-idp224609904">¿Cómo se utiliza un nucleido radiactivo para demostrar que el equilibrio:<newline/> <m:math><m:mrow><m:mtext>AgCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math><newline/> es dinámico?</para>
+</problem>
+<solution id="fs-idp45943008">
+<para id="fs-idp26794976">La introducción de Ag<sup>+</sup> o Cl<sup>-</sup> radiactivo en la solución que contiene la reacción indicada, con el consiguiente tiempo de equilibrio, producirá un precipitado radiactivo, inicialmente desprovisto de radiación.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp183594912">
+<problem id="fs-idp44440688">
+<para id="fs-idp3550720">El tecnecio-99m tiene una semivida de 6,01 horas. Si es seguro que un paciente al que se le inyecta tecnecio-99m salga del hospital una vez que el 75 % de la dosis decae, ¿cuándo se le permite salir?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp88874912">
+<problem id="fs-idm3885520">
+<para id="fs-idp146873664">El yodo que penetra en el organismo se almacena en la glándula tiroidea, desde donde se libera para controlar el crecimiento y el metabolismo. La tiroides se visualiza si se inyecta yodo-131 en el organismo. En dosis mayores, el I-133 también se utiliza para tratar el cáncer de tiroides. El I-131 tiene una semivida de 8,70 días y decae por emisión β<sup>-</sup>.</para>
+<para id="fs-idp150733248">(a) Escriba una ecuación para el decaimiento.</para>
+<para id="fs-idp215490544">b) ¿Cuánto tiempo tarda en decaer el 95,0 % de una dosis de I-131?</para>
+</problem>
+<solution id="fs-idp160513440">
+<para id="fs-idp200685328">(a) <m:math><m:mrow><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>53</m:mn></m:mrow><m:mn>133</m:mn></m:msubsup>
+
+<m:mtext>I</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>54</m:mn></m:mrow><m:mn>133</m:mn></m:msubsup>
+
+<m:mtext>Xe</m:mtext><m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup>
+
+<m:mtext>e</m:mtext><m:mo>;</m:mo></m:mrow></m:math> (b) 37,6 días
+
+</para></solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp80557904">
+<term>quimioterapia</term>
+<meaning id="fs-idp45817072">semejante a la radioterapia interna, con la diferencia de que se introducen en el cuerpo sustancias químicas en lugar de radiactivas para eliminar las células cancerosas</meaning>
+</definition>
+<definition id="fs-idp44456896">
+<term>radioterapia de haz externo</term>
+<meaning id="fs-idm15320960">radiación administrada por una máquina fuera del cuerpo</meaning>
+</definition>
+<definition id="fs-idp166135008">
+<term>radioterapia interna</term>
+<meaning id="fs-idm2328432">(también llamada braquiterapia) radiación proveniente de una sustancia radiactiva que se introduce en el organismo para eliminar las células cancerosas</meaning>
+</definition>
+<definition id="fs-idp18406528">
+<term>radioterapia</term>
+<meaning id="fs-idp165195632">radiación de alta energía para dañar el ADN de las células cancerosas, lo que las mata o impide que se dividan</meaning>
+</definition>
+<definition id="fs-idp81777184">
+<term>trazador radioactivo</term>
+<meaning id="fs-idp200475552">(también llamado etiqueta radiactiva) radioisótopo que se utiliza para rastrear o seguir una sustancia a través de sus emisiones radiactivas</meaning>
+</definition>
+</glossary>
+</document>

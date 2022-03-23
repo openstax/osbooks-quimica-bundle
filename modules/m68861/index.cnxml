@@ -1,0 +1,197 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+
+<title>Unidades y factores de conversión</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68861</md:content-id>
+  <md:title>Unidades y factores de conversión</md:title>
+  <md:abstract/>
+  <md:uuid>eeaf98f0-ce83-4e1c-ae20-dd05515645b4</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table class="top-titled" id="fs-idp192584544" summary="La tabla de cuatro columnas y cuatro filas se titula &quot;Unidades de longitud&quot;. Las dos columnas de la izquierda tienen conversiones del sistema métrico al inglés. 1 metro (m) equivale a 39,37 pulgadas (I n.) y a 1,094 yardas (y d). 1 centímetro (c m) equivale a 0,01 metros (exacto, definición). 1 milímetro (m m) equivale a 0,001 metros (exacto, definición). 1 kilómetro (k m) equivale a 1000 metros (exacto, definición). Las dos columnas de la derecha tienen conversiones del sistema inglés al métrico. 1 angstrom (A mayúscula con un signo de grado unido a la parte superior) es igual a 10 centímetros a la octava potencia negativa (exacto, definición) o a 10 metros a la décima potencia negativa (exacto, definición). 1 yarda (y) equivale a 0,9144 metros. 1 pulgada (I n) equivale a 2,54 centímetros (exacto, definición). 1 milla (EE. UU.) equivale a 1,60934 kilómetros.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c4">Unidades de longitud</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry valign="middle" align="left">metro (m)</entry><entry align="left">= 39,37 pulgadas (in.)<newline/>= 1,094 yardas (yd)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">centímetro (cm)</entry><entry valign="middle" align="left">= 0,01 m (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry align="left" valign="middle">milímetro (mm)</entry><entry valign="middle" align="left">= 0,001 m (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">kilómetro (km)</entry><entry valign="middle" align="left">= 1000 m (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">angstrom (Å)</entry><entry valign="middle" align="left">= 10<sup>-8</sup> cm (exacto, definición)<newline/>= 10<sup>-10</sup> m (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">yarda (yd)</entry><entry valign="middle" align="left">= 0,9144 m</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">pulgada (in.)</entry><entry valign="middle" align="left">= 2,54 cm (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">milla (EE. UU.)</entry><entry valign="middle" align="left">= 1,60934 km</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+
+
+<table class="top-titled" id="fs-idp47106160" summary="La tabla de cuatro columnas y tres filas se titula &quot;Unidades de volumen&quot;. Las dos columnas de la izquierda tienen conversiones del sistema métrico al inglés. 1 litro (L) equivale a 0,001 metros cúbicos (exacto, definición), 1000 centímetros cúbicos (exacto, definición) y 1,057 (EE. UU.) cuartos de galón. 1 mililitro (ml) es igual a 0,001 litros (exacto, definición) y a 1 centímetro al cubo (exacto, definición). 1 microlitro (m manuscrita mayúscula en cursiva) es igual a 10 litros a la sexta potencia negativa (exacto, definición) y a 10 centímetros a la tercera potencia negativa al cubo (exacto, definición). Las dos columnas de la derecha tienen conversiones del sistema inglés al métrico. 1 cuarto de galón líquido (EE. UU.) es igual a 32 (EE. UU.) onzas líquidas (exacto, definición), a 0,25 (EE. UU.) galones (exacto, definición) y a 0,9463 litros. 1 cuarto de galón seco equivale a 1,1012 litros. 1 pie cúbico (EE. UU.) equivale a 28,316 litros.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry valign="middle" namest="c1" nameend="c4">Unidades de volumen</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry valign="middle" align="left">litro (L)</entry><entry valign="middle" align="left">= 0,001 m<sup>3</sup> (exacto, definición)<newline/>= 1000 cm<sup>3</sup> (exacto, definición)<newline/>= 1,057 (EE. UU.) cuartos de galón</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">mililitro (mL)</entry><entry valign="middle" align="left">= 0,001 L (exacto, definición)<newline/>= 1 cm<sup>3</sup> (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">microlitro <m:math><m:mrow><m:mtext>(μL)</m:mtext></m:mrow></m:math></entry><entry valign="middle" align="left">= 10<sup>-6</sup> L (exacto, definición)<newline/>= 10<sup>-3</sup> cm<sup>3</sup> (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">cuarto de galón líquido (EE. UU.)</entry><entry valign="middle" align="left">= 32 (EE. UU.) onzas líquidas (exacto, definición)<newline/>= 0,25 (EE. UU.) galón (exacto, definición)<newline/>= 0,9463 L</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">cuarto de galón seco</entry><entry valign="middle" align="left">= 1,1012 L</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">pie cúbico (EE. UU.)</entry><entry valign="middle" align="left">= 28,316 L</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table class="top-titled" id="fs-idp250872512" summary="La tabla de cuatro columnas y cuatro filas se titula &quot;Unidades de masa&quot;. Las conversiones de las dos columnas de la izquierda son las siguientes: 1 gramo (g) equivale a 0,001 kilogramos (exacto, definición). 1 miligramo (m g) equivale a 0,001 gramos (exacto, definición). 1 kilogramo (k g) equivale a 1000 gramos (exacto, definición) y a 2,205 libras. 1 tonelada (métrica) equivale a 1000 kilogramos (exacto, definición) y a 2204,62 libras. Las conversiones de las dos columnas de la derecha son las siguientes: 1 onza (o z) (avoirdupois) equivale a 28,35 gramos. 1 libra (l b) (avoirdupois) equivale a 0,4535924 kilogramos. 1 tonelada (corta) equivale a 2000 libras (exacto, definición) y a 907,185 kilogramos. 1 tonelada (larga) equivale a 2240 libras (exacto, definición) y a 1,016 toneladas métricas.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry valign="middle" namest="c1" nameend="c4">Unidades de masa</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry valign="middle" align="left">gramo (g)</entry>
+<entry valign="middle" align="left">= 0,001 kg (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">miligramo (mg)</entry>
+<entry valign="middle" align="left">= 0,001 g (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">kilogramo (kg)</entry>
+<entry valign="middle" align="left">= 1000 g (exacto, definición)<newline/>= 2,205 lb</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">tonelada (métrica)</entry>
+<entry valign="middle" align="left">=1000 kg (exacto, definición)<newline/>= 2204,62 lb</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">onza (oz)</entry>
+<entry valign="middle" align="left">= 28,35 g</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">libra (lb)</entry>
+<entry valign="middle" align="left">= 0,4535924 kg</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">tonelada (corta)</entry>
+<entry valign="middle" align="left">=2000 lb (exacto, definición)<newline/>= 907,185 kg</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">tonelada (larga)</entry>
+<entry valign="middle" align="left">= 2240 lb (exacto, definición)<newline/>= 1,016 tonelada métrica</entry>
+</row>
+</tbody>
+</tgroup>
+</table><table class="top-titled" id="fs-idp384167568" summary="La tabla de dos columnas y siete filas se titula &quot;Unidades de energía&quot;. Las conversiones son las siguientes: 4,184 julios (J) equivalen a 1 caloría termoquímica (cal). 1 caloría termoquímica (cal) es igual a 4,184 por 10 a la séptima potencia ergs. 1 erg es igual a 10 julios a la séptima potencia negativa (exacto, definición). 1 electronvoltio (eV) equivale a 1,60218 por 10 a la decimonovena potencia negativa julios y a 23,061 k cal mol a la primera potencia negativa. 1 litro de atmósfera equivale a 24,217 calorías y a 101,325 julios (exacto, definición). 1 caloría nutricional (Cal, con &quot;C&quot; mayúscula) equivale a 1000 cal (exacto, definición) y a 4184 julios. 1 unidad térmica británica (British thermal unit, B T U) equivale a 1054,804 julios. B T U es la cantidad de energía necesaria para calentar una libra de agua un grado Fahrenheit. Por lo tanto, la relación exacta de B T U con los julios y otras unidades de energía depende de la temperatura a la que se mide la B T U. 59 grados Fahrenheit (15 grados Celsius) es la temperatura de referencia más utilizada para la definición de B T U en los Estados Unidos. A esta temperatura, el factor de conversión es el que se proporciona en esta tabla.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c4">Unidades de energía</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">4,184 joules (J)</entry>
+<entry align="left">= 1 caloría termoquímica (cal)</entry>
+</row>
+<row valign="middle">
+<entry align="left">1 caloría termoquímica (cal)</entry>
+<entry align="left">= 4,184 <m:math><m:mo>×</m:mo></m:math> 10<sup>7 </sup> erg</entry>
+</row>
+<row valign="middle">
+<entry align="left">erg</entry>
+<entry align="left">= 10<sup>-7</sup> J (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry align="left">electrón-voltio (eV)</entry>
+<entry align="left">= 1,60218 <m:math><m:mo>×</m:mo></m:math> 10<sup>-19</sup> J = 23,061 kcal mol<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">atmósfera litro</entry>
+<entry align="left">= 24,217 cal = 101,325 J (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry align="left">caloría nutricional (Cal)</entry>
+<entry align="left">= 1000 cal (exacto, definición) = 4184 J</entry>
+</row>
+<row valign="middle">
+<entry align="left">Unidad térmica británica (British Thermal Unit, BTU)</entry>
+<entry align="left">= 1054,804 J<footnote id="fs-idp145095088">La BTU es la cantidad de energía necesaria para calentar una libra de agua por un grado Fahrenheit. Por lo tanto, la relación exacta de la BTU con los joules y otras unidades de energía depende de la temperatura a la que se mida. 59 °F (15 °C) es la temperatura de referencia que más se utiliza para la definición de la BTU en los Estados Unidos. A esta temperatura, el factor de conversión es el que se proporciona en esta tabla.</footnote></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table class="top-titled" id="fs-idp115347744" summary="La tabla de dos columnas y cuatro filas se titula &quot;Unidades de presión&quot;. Las conversiones son las siguientes: 1 torr es igual a 1 milímetro de H g (exacto, definición). 1 pascal (P a) equivale a N metros a la segunda potencia negativa (exacto, definición) y a 1 kilogramo m a la primera potencia negativa s a la segunda potencia negativa (exacto, definición). 1 atmósfera (a t m) es igual a 760 m m H g (exacto, definición), a 760 torr (exacto, definición), a 101.321 N m a la segunda potencia negativa (exacto, definición) y a 101.325 P a (exacto, definición). 1 bar es igual a 10 a la quinta potencia P a (exacto, definición), y a diez a la quinta potencia k g m a la primera potencia negativa s a la segunda potencia negativa (exacto, definición).">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry valign="middle" namest="c1" nameend="c4">Unidades de presión</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry valign="middle" align="left">torr</entry>
+<entry valign="middle" align="left">= 1 mm Hg (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">pascal (Pa)</entry>
+<entry valign="middle" align="left">= N m<sup>-2</sup> (exacto, definición)<newline/>= kg m<sup>-1</sup> s<sup>-2</sup> (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">atmósfera (atm)</entry>
+<entry valign="middle" align="left">= 760 mm Hg (exacto, definición)<newline/>= 760 torr (exacto, definición)<newline/>= 101.325 N<sup>-2</sup> (exacto, definición)<newline/>= 101.325 Pa (exacto, definición)</entry>
+</row>
+<row valign="middle">
+<entry valign="middle" align="left">bar</entry>
+<entry valign="middle" align="left">= 10<sup>5</sup> Pa (exacto, definición)<newline/>= 10<sup>5</sup> kg m<sup>-1</sup> s<sup>-2</sup> (exacto, definición)</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>   </content>
+</document>

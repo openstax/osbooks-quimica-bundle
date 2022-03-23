@@ -1,0 +1,1174 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Decaimiento radiactivo</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68854</md:content-id>
+  <md:title>Decaimiento radiactivo</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Reconocer los modos comunes de decaimiento radiactivo.</item>
+<item>Identificar las partículas y energías comunes que intervienen en las reacciones de decaimiento nuclear.</item>
+<item>Escribir y equilibrar las ecuaciones de decaimiento nuclear.</item>
+<item>Calcular los parámetros cinéticos de los procesos de decaimiento, incluida la semivida.</item>
+<item>Describir las técnicas comunes de datación radiométrica.</item>
+</list></md:abstract>
+  <md:uuid>3952d555-bfd0-4527-94d4-17af3703ea9e</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp102942608">Tras el descubrimiento un tanto fortuito de la radiactividad por parte de Becquerel, muchos científicos destacados comenzaron a investigar este nuevo e intrigante fenómeno. Entre ellos se encuentran Marie Curie (la primera mujer en ganar un premio Nobel y la única persona que ha ganado dos premios Nobel en ciencias diferentes: química y física), quien fue la primera en acuñar el término "radiactividad", y Ernest Rutherford (de la fama del experimento de la lámina de oro), quien investigó y bautizó a tres de los tipos más comunes de radiación. A principios del siglo XX se descubrieron muchas sustancias radiactivas, se investigaron y cuantificaron las propiedades de la radiación y se formó una sólida comprensión de la radiación y el decaimiento nuclear.</para>
+<para id="fs-idp202642016">El cambio espontáneo de un nucleido inestable en otro es el <term>decaimiento radiactivo</term>. El nucleido inestable se denomina <term>nucleido padre</term>; el nucleido resultante del decaimiento se conoce como <term>nucleido hija</term>. El nucleido hija puede ser estable o decaer. La radiación que se emite durante el decaimiento radiactivo es tal que el nucleido hija se encuentra más cerca de la banda de estabilidad que el nucleido padre, por lo que la ubicación de un nucleido con respecto a la banda de estabilidad sirve de guía para el tipo de decaimiento que sufrirá (<link target-id="CNX_Chem_21_03_Reaction1"/>).</para>
+<figure id="CNX_Chem_21_03_Reaction1" class="scaled-down">
+<media id="fs-idp2414480" alt="Un diagrama muestra dos esferas compuestas por muchas esferas blancas y verdes más pequeñas conectadas por una flecha que mira hacia la derecha y de la que sale otra flecha que mira hacia abajo. La esfera de la izquierda, marcada como &quot;Núcleo padre de uranio guion 238&quot; tiene dos esferas blancas y dos verdes que están cerca la una de la otra y están delineadas en rojo. Estas dos esferas verdes y dos blancas se muestran cerca de la punta de la flecha orientada hacia abajo y se marcan como &quot;partícula alfa&quot;. La esfera de la derecha, marcada como &quot;núcleo hija de radón-234&quot;, tiene el mismo aspecto que la de la izquierda, pero con un espacio para cuatro esferas más pequeñas delineadas con una línea punteada de color rojo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_Reaction1.jpg"/>
+</media>
+<caption>Un núcleo de uranio-238 (el nucleido padre) sufre un decaimiento α para formar torio-234 (el nucleido hija). La partícula alfa extrae dos protones (verde) y dos neutrones (gris) del núcleo del uranio-238.</caption>
+</figure>
+<note id="fs-idm3582256" class="chemistry link-to-learning">
+<para id="fs-idp131961680">Aunque el decaimiento radiactivo de un núcleo es demasiado pequeño para detectarlo a simple vista, podemos apreciar indirectamente el decaimiento radiactivo en un ambiente denominado “cámara de nubes”. Haga clic <link url="http://openstax.org/l/16cloudchamb">aquí</link> para conocer las cámaras de nubes y ver una interesante demostración de cámaras de nubes del Laboratorio Jefferson.</para>
+</note>
+<section id="fs-idp242071680">
+<title>Tipos de decaimiento radiactivo</title>
+<para id="fs-idp130339440">Los experimentos de Ernest Rutherford sobre la interacción de la radiación con un campo magnético o eléctrico (<link target-id="CNX_Chem_21_03_Radiation"/>) le permitieron determinar que un tipo de radiación consistía en partículas α cargadas positivamente y relativamente masivas; un segundo tipo estaba formado por partículas β cargadas negativamente y mucho menos masivas, y un tercero eran ondas electromagnéticas sin carga, los rayos γ. Ahora sabemos que las partículas α son núcleos de helio de alta energía, las partículas β son electrones de alta energía y la radiación γ compone la radiación electromagnética de alta energía. Clasificamos los diferentes tipos de decaimiento radiactivo según la radiación producida.</para>
+<figure id="CNX_Chem_21_03_Radiation" class="scaled-down">
+<media id="fs-idp137790304" alt="Se muestra un diagrama. Una caja gris en el lado izquierdo del diagrama, marcada como &quot;bloque de plomo&quot;, tiene una cámara ahuecada en el centro en la que se coloca una muestra, marcada como &quot;sustancia radiactiva&quot;. Un rayo azul sale de la muestra, del bloque, y pasa a través de dos placas colocadas horizontalmente que están marcadas como &quot;placas cargadas eléctricamente&quot;. La placa superior está marcada con un signo positivo, mientras que la placa inferior está marcada con un signo negativo. Se muestra que el haz se divide en tres haces al pasar entre las placas; en orden de arriba a abajo, son: rojo, marcado como &quot;rayos beta&quot;, morado, marcado como &quot;rayos gama&quot;, y verde, marcado como &quot;rayos alfa&quot;. Se muestra que los rayos chocan con una placa vertical, marcada como &quot;placa fotográfica&quot;, en el extremo derecho del diagrama.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_Radiation.jpg"/>
+</media>
+<caption>Las partículas alfa, que son atraídas por la placa negativa y desviadas en una cantidad relativamente pequeña, deberán estar cargadas positivamente y ser relativamente macizas. Las partículas beta, que son atraídas por la placa positiva y desviadas una cantidad relativamente grande, deberán estar cargadas negativamente y ser relativamente ligeras. Los rayos gama, que no se ven afectados por el campo eléctrico, deberán estar sin carga.</caption>
+</figure>
+<para id="fs-idm41800032">El <term>decaimiento alfa (α)</term> es la emisión de una partícula α desde el núcleo. Por ejemplo, el polonio 210 sufre un decaimiento α:</para>
+<equation id="fs-idp134926448" class="unnumbered"><m:math><m:mrow><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>84</m:mn></m:mrow><m:mn>210</m:mn></m:msubsup><m:mtext>Po</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>2</m:mn></m:mrow><m:mn>4</m:mn></m:msubsup><m:mtext>He</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>82</m:mn></m:mrow><m:mn>206</m:mn></m:msubsup><m:mtext>Pb</m:mtext>
+
+<m:mspace width="3em"/><m:mtext>o</m:mtext><m:mspace width="3em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>84</m:mn></m:mrow><m:mn>210</m:mn></m:msubsup><m:mtext>Po</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>2</m:mn></m:mrow><m:mn>4</m:mn></m:msubsup><m:mtext>α</m:mtext>
+
+</m:mrow><m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>82</m:mn></m:mrow><m:mn>206</m:mn></m:msubsup><m:mtext>Pb</m:mtext>
+
+</m:mrow></m:math></equation><para id="fs-idp202270256">El decaimiento alfa se produce principalmente en los núcleos pesados (A &gt; 200, Z &gt; 83). Dado que la pérdida de una partícula α da lugar a un nucleido hija con un número de masa cuatro unidades menor y un número atómico dos unidades menor que los del nucleido padre, el nucleido hija tiene un cociente n:p mayor que el nucleido padre. Si el nucleido padre que sufre el decaimiento α se encuentra por debajo de la banda de estabilidad (consulte la <link target-id="CNX_Chem_21_01_BandStable" document="m68851"/>), el nucleido hija se encontrará más cerca de la banda.</para><para id="fs-idm2875904">El <term>decaimiento beta (β)</term> es la emisión de un electrón desde un núcleo. El yodo-131 es un ejemplo de nucleido que sufre un decaimiento β:</para>
+<equation id="fs-idm19827888" class="unnumbered"><m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>53</m:mn></m:mrow><m:mn>131</m:mn></m:msubsup><m:mtext>I</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow><m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>54</m:mn></m:mrow><m:mn>131</m:mn></m:msubsup><m:mtext>Xe</m:mtext>
+
+<m:mspace width="3em"/><m:mtext>o</m:mtext><m:mspace width="3em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>53</m:mn></m:mrow><m:mn>131</m:mn></m:msubsup><m:mtext>I</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>β</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>54</m:mn></m:mrow><m:mn>131</m:mn></m:msubsup><m:mtext>Xe</m:mtext>
+
+</m:mrow></m:math></equation><para id="fs-idp100287120">El decaimiento beta, que puede considerarse como la conversión de un neutrón en un protón y una partícula β, se observa en los nucleidos con un gran cociente n:p. La partícula beta (electrón) emitida procede del núcleo atómico y no es ninguno de los electrones que rodean el núcleo. Estos núcleos se encuentran por encima de la banda de estabilidad. La emisión de un electrón no cambia el número de masa del nucleido, pero sí aumenta el número de sus protones y disminuye el de sus neutrones. En consecuencia, el cociente n:p disminuye, y el nucleido hija se encuentra más cerca de la banda de estabilidad que el nucleido padre.</para>
+<para id="fs-idp8043424">La <term>emisión gama (emisión γ)</term> se observa cuando un nucleido se forma en un estado estimulado y luego decae a su estado básico con la emisión de un rayo γ, un quantum de radiación electromagnética de alta energía. La presencia de un núcleo en estado excitado se indica con un asterisco (*). El cobalto 60 emite radiación γ y se utiliza en muchas aplicaciones, incluido el tratamiento del cáncer:</para>
+<equation id="fs-idp5264576" class="unnumbered"><m:math><m:mrow><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co*</m:mtext>
+
+</m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>0</m:mn></m:mrow><m:mn>0</m:mn></m:msubsup><m:mtext>γ</m:mtext>
+
+</m:mrow><m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
+
+</m:mrow></m:math></equation><para id="fs-idp50313008">No hay ningún cambio en el número de masa ni en el número atómico durante la emisión de un rayo γ, a menos que la emisión γ acompañe a uno de los otros modos de decaimiento.</para>
+<para id="fs-idp18009856">La <term>emisión de positrones (decaimiento β+</term>) es la de un positrón desde el núcleo. El oxígeno-15 es un ejemplo de nucleido que sufre la emisión de positrones:</para>
+<equation id="fs-idm9404976" class="unnumbered"><m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>8</m:mn></m:mrow><m:mn>15</m:mn></m:msubsup><m:mtext>O</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>+1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow><m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>7</m:mn></m:mrow><m:mn>15</m:mn></m:msubsup><m:mtext>N</m:mtext>
+
+<m:mspace width="3em"/><m:mtext>o</m:mtext><m:mspace width="3em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>8</m:mn></m:mrow><m:mn>15</m:mn></m:msubsup><m:mtext>O</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>+1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>β</m:mtext>
+
+</m:mrow><m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>7</m:mn></m:mrow><m:mn>15</m:mn></m:msubsup><m:mtext>N</m:mtext>
+
+</m:mrow></m:math></equation><para id="fs-idp125268336">La emisión de positrones se observa en los nucleidos en los que el cociente n:p es bajo. Estos nucleidos se encuentran por debajo de la banda de estabilidad. El decaimiento de positrones es la conversión de un protón en un neutrón con la emisión de un positrón. El cociente n:p aumenta, y el nucleido hija se encuentra más cerca de la banda de estabilidad que el nucleido padre.</para>
+<para id="fs-idp123320528">La <term>captura de electrones</term> tiene lugar cuando el núcleo de un átomo captura uno de sus electrones internos. Por ejemplo, el potasio-40 sufre la captura de electrones:</para>
+<equation id="fs-idm22074816" class="unnumbered"><m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>19</m:mn></m:mrow><m:mn>40</m:mn></m:msubsup><m:mtext>K</m:mtext>
+
+<m:mo>+</m:mo><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>18</m:mn></m:mrow><m:mn>40</m:mn></m:msubsup><m:mtext>Ar</m:mtext>
+
+</m:mrow></m:math></equation><para id="fs-idm42894208">La captura de electrones tiene lugar cuando un electrón de la capa interna se combina con un protón y se convierte en neutrón. La pérdida de un electrón de la capa interna deja una vacante que ocupará uno de los electrones externos. Al caer el electrón exterior en la vacante, emitirá energía. En la mayoría de los casos, la energía emitida será en forma de rayos X. Al igual que la emisión de positrones, la captura de electrones tiene lugar para los núcleos "ricos en protones" que se encuentran por debajo de la banda de estabilidad. La captura de electrones tiene el mismo efecto sobre el núcleo que la emisión de positrones: el número atómico disminuye en uno y el número de masa no cambia. Esto aumenta el cociente n:p, y el nucleido hija se encuentra más cerca de la banda de estabilidad que el nucleido padre. Difícilmente se puede predecir si hay captura de electrones o emisión de positrones. La elección se debe principalmente a factores cinéticos, por lo que sería el más probable aquel que requiere la menor energía de activación.</para>
+<para id="fs-idp132245344">La <link target-id="CNX_Chem_21_03_RadioDecay"/> resume estos tipos de decaimiento, junto con sus ecuaciones y cambios en los números atómicos y de masa.</para>
+<figure id="CNX_Chem_21_03_RadioDecay">
+<media id="fs-idp47033488" alt="Esta tabla tiene cuatro columnas y seis filas. La primera fila es la del encabezado y marca cada columna: &quot;Tipo&quot;, &quot;Ecuación nuclear&quot;, &quot;Representación&quot; y &quot;Cambio de masa / números atómicos&quot; En la columna &quot;Tipo&quot; están los siguientes elementos: &quot;Decaimiento alfa&quot;, &quot;Decaimiento beta&quot;, &quot;Decaimiento gama&quot;, &quot;Emisión de positrones&quot; y &quot;Captura de electrones&quot;. Bajo la columna &quot;Ecuación nuclear&quot; hay varias ecuaciones. Cada una comienza con el superíndice A apilado sobre el subíndice Z X. Hay un gran espacio y luego las siguientes ecuaciones: &quot;superíndice 4 apilado sobre el subíndice 2 He más superíndice A menos 4 apilado sobre el subíndice Z menos 2 Y&quot;, &quot;superíndice 0 apilado sobre el subíndice negativo 1 e más superíndice A apilado sobre el subíndice Z más 1 Y&quot;, &quot;superíndice 0 apilado sobre el subíndice 0 gama minúscula más superíndice A apilado sobre el subíndice Z Y&quot;, &quot;superíndice 0 apilado sobre el subíndice positivo 1 e más superíndice A apilado sobre el subíndice Y menos 1 Y&quot; y &quot;superíndice 0 apilado sobre el subíndice negativo 1 e más superíndice A apilado sobre el subíndice Y menos 1 Y&quot;. En la columna &quot;Representación&quot; están los cinco diagramas. El primero muestra un grupo de esferas verdes y blancas. Se perfila una sección del cúmulo que contiene dos esferas blancas y dos verdes. Hay una flecha hacia la derecha que apunta a un grupo similar al descrito anteriormente, pero falta la sección delineada. De la flecha se desprende otra flecha que apunta hacia abajo. El pequeño grupo a dos esferas blancas y dos esferas verdes aparecen al final de la flecha. El siguiente diagrama muestra el mismo grupo de esferas blancas y verdes. Se perfila una esfera blanca. Hay una flecha a la derecha hacia un grupo similar, pero falta la esfera blanca. Otra flecha se desprende de la principal y al final aparece una esfera roja con signo negativo. El siguiente diagrama muestra el mismo grupo de esferas blancas y verdes. Toda la esfera está perfilada y marcada como &quot;estado nuclear excitado&quot;. Hay una flecha hacia la derecha que apunta al mismo grupo. No falta ninguna esfera. Fuera de la flecha principal hay otra flecha que apunta a una flecha serpenteante púrpura, que a su vez apunta a una gama minúscula. El siguiente diagrama muestra el mismo grupo de esferas blancas y verdes. Se perfila una esfera verde. Hay una flecha hacia la derecha que lleva a un grupo similar, pero falta la esfera verde. Otra flecha se desprende de la principal y al final aparece una esfera roja con signo positivo. El siguiente diagrama muestra el mismo grupo de esferas blancas y verdes. Se perfila una esfera verde. Hay una flecha hacia la derecha que lleva a un grupo similar, pero falta la esfera verde. De la flecha principal se desprenden otras dos flechas. La primera muestra una esfera dorada con un signo negativo que se une con la flecha orientada hacia la derecha. La segunda apunta a una flecha serpenteante azul marcada como &quot;rayos X&quot;. En la columna &quot;Cambio de masa / números atómicos&quot; están los siguientes elementos: &quot;A: disminución en 4, Z: disminución en 2&quot;, &quot;A: sin cambios, Z: aumento en 1&quot;, &quot;A: sin cambios, Z: sin cambios&quot;, &quot;A: sin cambios, Z: sin cambios&quot;, &quot;A: sin cambios, Z: disminución en 1&quot; y &quot;A: sin cambios, Z: disminución en 1&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_RadioDecay-e619.jpg"/>
+</media>
+<caption>Esta tabla resume el tipo, la ecuación nuclear, la representación y cualquier cambio en la masa o los números atómicos para varios tipos de decaimiento.</caption>
+</figure>
+<note id="fs-idp54313680" class="chemistry everyday-life">
+<title>Tomografía por emisión de positrones (PET)</title>
+<para id="fs-idp214075136">La tomografía por emisión de positrones (Positron Emission Tomography, PET) utiliza la radiación para diagnosticar y hacer seguimiento de las enfermedades, además de supervisar los tratamientos médicos, al revelar cómo funcionan las partes del organismo del paciente (<link target-id="CNX_Chem_21_03_PETScan"/>). Para realizar una PET, se produce un radioisótopo emisor de positrones en un ciclotrón y luego se une a una sustancia que utiliza la parte del cuerpo que se investiga. Este compuesto "marcado", o radiotrazador, se introduce en el paciente (se inyecta por vía intravenosa o se respira en forma de gas), y la forma en que lo utiliza el tejido revela cómo funciona ese órgano u otra zona del cuerpo.</para>
+<figure id="CNX_Chem_21_03_PETScan" class="scaled-down">
+<media id="fs-idp142995312" alt="Se muestran tres imágenes marcadas como &quot;a&quot;, &quot;b&quot; y &quot;c&quot;. La imagen a muestra una máquina con una abertura redonda conectada a una mesa de examen. La imagen b es la exploración médica de la parte superior de la cabeza de una persona y muestra grandes manchas de color amarillo y rojo y otras más pequeñas de color azul, verde y morado. La imagen c también es la exploración médica de la parte superior de la cabeza de una persona, aunque coloreada en su mayor parte en azul y púrpura, con manchas muy pequeñas de rojo y amarillo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_PETScan.jpg"/>
+</media>
+<caption>Un tomógrafo (a) utiliza la radiación para proporcionar una imagen del funcionamiento de una parte del cuerpo del paciente. Las exploraciones que produce se utilizan para obtener imágenes de un cerebro sano (b) o para diagnosticar afecciones médicas como la enfermedad de Alzheimer (c) (crédito a: modificación del trabajo de Jens Maus).</caption>
+</figure>
+<para id="fs-idp13254880">Por ejemplo, el F-18 se produce por bombardeo de protones de <sup>18</sup>O <m:math><m:mrow><m:mo stretchy="false">(</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>8</m:mn></m:mrow><m:mn>18</m:mn></m:msubsup><m:mtext>O</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>p</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>9</m:mn></m:mrow><m:mn>18</m:mn></m:msubsup><m:mtext>F</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>0</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>n</m:mtext>
+
+<m:mo stretchy="false">)</m:mo></m:mrow></m:math> e incorporada a un análogo de la glucosa, denominado fludeoxiglucosa (FDG). La forma en que el organismo utiliza la FDG suministra información de diagnóstico fundamental; por ejemplo, dado que las neoplasias utilizan la glucosa de manera distinta a los tejidos normales, la FDG puede revelar estas neoplasias. El <sup>18</sup>F emite positrones que interactúan con los electrones cercanos, lo que genera una ráfaga de radiación gama. El tomógrafo detecta esta energía y la convierte en una imagen detallada, tridimensional y a colores que muestra el funcionamiento de esa parte del organismo del paciente. Distintos niveles de radiación gama emiten diferentes cantidades de brillo y colores en la imagen, lo que el radiólogo puede interpretar para revelar lo que sucede. Los tomógrafos de emisión de positrones son capaces de detectar cardiopatías, diagnosticar la enfermedad de Alzheimer, indicar la parte del cerebro afectada por la epilepsia, revelar el cáncer, mostrar en qué fase se encuentra y cuánto se ha extendido, y si los tratamientos son eficaces. A diferencia de la imagen de resonancia magnética y los rayos X, que muestran únicamente el aspecto de algo, la gran ventaja de la PET es que muestra cómo funciona algo. En la actualidad, la PET se realiza junto con la tomografía computarizada.</para></note>
+</section>
+<section id="fs-idp89067520">
+<title>Serie de decaimiento radiactivo</title>
+<para id="fs-idp54304864">Los isótopos radiactivos naturales de los elementos más pesados se dividen en cadenas de desintegraciones sucesivas, o decaimientos, y todas las especies de una cadena constituyen una familia radiactiva o <term>serie de decaimiento radiactivo</term>. Tres de estas series abarcan la mayoría de los elementos naturalmente radiactivos de la tabla periódica. Son las series del uranio, de los actínidos y del torio. La del neptunio sería la cuarta serie, que ya no es significativa en la Tierra debido a la corta semivida de las especies implicadas. Cada serie se caracteriza por un nucleido padre (primer miembro), con una semivida prolongada, y una serie de nucleidos hijas que, en última instancia, conducen a un producto final estable, es decir, un nucleido en la banda de estabilidad (<link target-id="CNX_Chem_21_03_DecayS"/>). En las tres series, el producto final es un isótopo estable del plomo. La serie del neptunio, que anteriormente se creía que terminaba con el bismuto-209, termina con el talio-205.</para>
+<figure id="CNX_Chem_21_03_DecayS">
+<media id="fs-idm36645216" alt="Se muestra un gráfico en el que el eje x está marcado como &quot;número de neutrones (n)&quot; y tiene valores de 122 a 148 en incrementos de 2. El eje y se denomina &quot;número atómico&quot; y tiene valores de 80 a 92 en incrementos de 1. En este gráfico se utilizan dos tipos de flechas para conectar los puntos. Las flechas verdes están marcadas como &quot;decaimiento alfa&quot;, mientras que las rojas lo están como &quot;decaimiento beta&quot;. Comenzando en el punto &quot;92, 146&quot; que está marcado como &quot;superíndice 238, U&quot;, una flecha verde conecta este punto con el segundo punto &quot;90, 144&quot; que está marcado como &quot;superíndice 234, T h&quot;. Una flecha roja lo conecta con el tercer punto &quot;91, 143&quot; que está marcado como &quot;superíndice 234, P a&quot;, el cual se conecta con el cuarto punto &quot;92, 142&quot; por una flecha roja y que está marcado como &quot;superíndice 234, U&quot;. Una flecha verde conduce al siguiente punto, &quot;90, 140&quot; que está marcado como &quot;superíndice 230, T h&quot; y está conectado por una flecha verde al sexto punto, &quot;88, 138&quot; que está marcado como &quot;superíndice 226, R a&quot; que, a su vez, se conecta por una flecha verde al séptimo punto &quot;86, 136&quot; que está marcado como &quot;superíndice 222, Ra&quot; El octavo punto, en &quot;84, 134&quot; está marcado como &quot;superíndice 218, P o&quot; y tiene flechas verdes que van hacia este y se alejan de este hasta el noveno punto &quot;82, 132&quot; que está marcado como &quot;superíndice 214, Pb&quot;, que está conectado por una flecha roja al décimo punto, &quot;83, 131&quot; que está marcado como &quot;superíndice 214, B i&quot;. Una flecha roja lleva al undécimo punto &quot;84, 130&quot; que está marcado como &quot;superíndice 214, P o&quot; y una flecha verde lleva al duodécimo punto &quot;82, 128&quot; que está marcado como &quot;superíndice 210, P b&quot;. Una flecha roja lleva al decimotercer punto &quot;83, 127&quot; que está marcado como &quot;superíndice 210, B i&quot; y una flecha roja lleva al decimocuarto punto &quot;84, 126&quot; que está marcado como &quot;superíndice 210, P o&quot;. El punto final está marcado como &quot;82, 124&quot; y &quot;superíndice 206, P b&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_DecayS.jpg"/>
+</media>
+<caption>El uranio-238 se somete a una serie de decaimiento radiactivo que consta de 14 pasos distintos antes de producir plomo-206 estable. Esta serie consta de ocho decaimientos α y seis decaimientos β.</caption>
+</figure>
+</section>
+<section id="fs-idp38328768">
+<title>Semividas radiactivas</title>
+<para id="fs-idp135905344">El decaimiento radiactivo sigue una cinética de primer orden. Dado que las reacciones de primer orden ya se han tratado en detalle en el capítulo de cinética, ahora aplicaremos esos conceptos a las reacciones de decaimiento nuclear. Cada nucleido radiactivo tiene una <term>semivida</term> (<emphasis effect="italics">t</emphasis><sub>1/2</sub>) constante y característica: el tiempo necesario para que la mitad de los átomos de una muestra decaiga. La semivida de un isótopo nos permite determinar cuánto tiempo estará disponible una muestra de un isótopo útil, y cuánto tiempo deberá almacenarse una muestra de un isótopo indeseable o peligroso antes de que decaiga hasta un nivel de radiación lo suficientemente bajo como para que deje de ser un problema.</para>
+<para id="fs-idm89252176">Por ejemplo, el cobalto-60, un isótopo que emite rayos gama y que se utiliza para tratar el cáncer, tiene una semivida de 5,27 años (<link target-id="CNX_Chem_21_03_HalfLife"/>). En una determinada fuente de cobalto-60, dado que la mitad de la <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
+
+</m:mrow></m:math> los núcleos decaen cada 5,27 años, tanto la cantidad de material como la intensidad de la radiación emitida se reducen a la mitad cada 5,27 años. (Observe que, para una sustancia determinada, la intensidad de la radiación que produce es directamente proporcional a la tasa de decaimiento y a la cantidad de la sustancia). Esto es lo que se prevé en un proceso que sigue una cinética de primer orden. Por lo tanto, una fuente de cobalto 60 que se utiliza para el tratamiento del cáncer deberá reemplazarse regularmente para seguir siendo eficaz.</para><figure id="CNX_Chem_21_03_HalfLife">
+<media id="fs-idm8344304" class="scaled-down" alt="Se muestra un gráfico, titulado &quot;Decaimiento del Co-60&quot;, donde el eje x está marcado como “Co-60 restante (%)&quot; y tiene valores de 0 a 100 en incrementos de 25. El eje y está marcado como &quot;número de semividas&quot; y tiene valores de 0 a 5 en incrementos de 1. El primer punto, en &quot;0, 100&quot; tiene un círculo con puntitos cerca de este, marcado como &quot;10 g&quot;. El segundo punto, en &quot;1, 50&quot; tiene un círculo más pequeño, con puntitos cerca de este, marcado como &quot;5 g&quot;. El tercer punto, en &quot;2, 25&quot;, tiene un pequeño círculo con puntitos cerca de este, marcado como &quot;2,5 g&quot;. El cuarto punto, en &quot;3, 12,5&quot;, tiene un círculo diminuto con puntitos cerca de este, marcado como &quot;1,25 g&quot;. El último punto, en &quot;4, 6,35&quot; tiene un círculo diminuto con puntitos cerca de este, marcado como &quot;625 g&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_HalfLife.jpg"/>
+</media>
+<caption>En el caso del cobalto 60, que tiene una semivida de 5,27 años, el 50 % permanece después de 5,27 años (una semivida), el 25 % después de 10,54 años (dos semividas), el 12,5 % después de 15,81 años (tres semividas), etc.</caption>
+</figure>
+<para id="fs-idm84262544">Dado que el decaimiento nuclear sigue una cinética de primer orden, podemos adaptar las relaciones matemáticas que se utilizan en las reacciones químicas de primer orden. Generalmente sustituimos el número de núcleos, <emphasis effect="italics">N</emphasis>, por la concentración. Si la tasa se expresa en decaimientos nucleares por segundo, nos referimos a esta como la actividad de la muestra radiactiva. La tasa de decaimiento radiactivo es:</para>
+<para id="fs-idp16246080">tasa de decaimiento = <emphasis effect="italics">λN</emphasis> con <emphasis effect="italics">λ</emphasis> = la constante de decaimiento del radioisótopo en cuestión.</para>
+<para id="fs-idm22877072">La constante de decaimiento, <emphasis effect="italics">λ</emphasis>, que es la misma que la constante de velocidad que se analiza en el capítulo de cinética. Es posible expresar la constante de decaimiento en términos de semivida, <emphasis effect="italics">t</emphasis><sub>1/2</sub>:</para>
+<equation id="fs-idp219598000" class="unnumbered"><m:math><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>ln 2</m:mtext></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2 </m:mn></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,693</m:mn></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="3em"/><m:mtext>o</m:mtext><m:mspace width="3em"/><m:msub><m:mi>t</m:mi><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2 </m:mn></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>ln 2</m:mtext></m:mrow><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,693</m:mn></m:mrow><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:math></equation>
+<para id="fs-idp20089360">Las ecuaciones de primer orden que relacionan cantidad, <emphasis effect="italics">N</emphasis> y tiempo son:</para>
+<equation id="fs-idm4205984" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>N</m:mi><m:mi>t</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub><m:msup><m:mi>e</m:mi><m:mrow><m:mo>-</m:mo><m:mi>λ</m:mi><m:mi>t</m:mi></m:mrow></m:msup><m:mspace width="3em"/><m:mtext>o</m:mtext><m:mspace width="3em"/><m:mi>t</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>N</m:mi><m:mi>t</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation><para id="fs-idp61393104">donde <emphasis effect="italics">N</emphasis><sub>0</sub> es el número inicial de núcleos o moles del isótopo, y <emphasis effect="italics">N<sub>t</sub></emphasis> es el número de núcleos/moles que quedan en el tiempo <emphasis effect="italics">t</emphasis>. La <link target-id="fs-idp79391408"/> aplica estos cálculos para hallar las tasas de decaimiento radiactivo de determinados nucleidos.</para>
+<example id="fs-idp79391408"><para id="fs-idm1797296"><title>Tasas de decaimiento radiactivo</title><m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
+
+</m:mrow></m:math> decae con una semivida de 5,27 años para generar <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>28</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Ni</m:mtext>
+
+<m:mo>.</m:mo></m:mrow></m:math></para><para id="fs-idp30533728">(a) ¿Cuál es la constante de decaimiento radiactivo del cobalto 60?</para>
+<para id="fs-idp132429920">(b) Calcule la fracción de una muestra del isótopo <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
+
+</m:mrow></m:math> que permanecerá después de 15 años.</para><para id="fs-idp176097216">c) ¿Cuánto tiempo tarda una muestra de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
+
+</m:mrow></m:math> en desintegrarse hasta el punto de que solo quede un 2,0 % de la cantidad original?</para><para id="fs-idm68606544"><title>Solución</title>
+(a) El valor de la constante de velocidad está dado por:</para>
+<equation id="fs-idp17616736" class="unnumbered"><m:math><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>ln 2</m:mtext></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2 </m:mn></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,693</m:mn></m:mrow><m:mrow><m:mn>5,27</m:mn><m:mspace width="0.2em"/><m:mtext>y</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,132</m:mn><m:mspace width="0.2em"/><m:msup><m:mtext>y</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp141655056">(b) La fracción de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
+
+</m:mrow></m:math> que queda después del tiempo <emphasis effect="italics">t</emphasis> está dada por <m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>N</m:mi><m:mi>t</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Reordenando la relación de primer orden <emphasis effect="italics">N<sub>t</sub></emphasis> = <emphasis effect="italics">N</emphasis><sub>0</sub><emphasis effect="italics">e</emphasis><sup>-<emphasis effect="italics">λt</emphasis></sup> para resolver este cociente, produce:</para><equation id="fs-idp16374688" class="unnumbered"><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>N</m:mi><m:mi>t</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:msup><m:mi>e</m:mi><m:mrow><m:mo>-</m:mo><m:mi>λ</m:mi><m:mi>t</m:mi></m:mrow></m:msup><m:mo>=</m:mo><m:msup><m:mi>e</m:mi><m:mrow><m:mo>-</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,132</m:mn><m:mtext>/y</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>15</m:mn><m:mo>×</m:mo><m:mtext>y</m:mtext></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:msup><m:mo>=</m:mo><m:mn>0,138</m:mn></m:mrow></m:math></equation><para id="fs-idm19598048">La fracción de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
+
+</m:mrow></m:math> que quedará después de 15,0 años es de 0,138. Dicho de otro modo, el 13,8 % del <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
+
+</m:mrow></m:math> presente originalmente permanecerá después de 15 años.</para><para id="fs-idp82234704">(c) 2,00 % de la cantidad original de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Co</m:mtext>
+
+</m:mrow></m:math> es igual a 0,0200 <m:math><m:mo>×</m:mo></m:math> <emphasis effect="italics">N</emphasis><sub>0</sub>. Al sustituir esto en la ecuación del tiempo para la cinética de primer orden, tenemos:</para><equation id="fs-idm21044912" class="unnumbered"><m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>N</m:mi><m:mi>t</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>0,132</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>y</m:mtext></m:mrow><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>0,0200</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>29,6</m:mn><m:mspace width="0.2em"/><m:mtext>y</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp7893440"><title>Compruebe lo aprendido</title>El radón-222, <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>86</m:mn></m:mrow><m:mn>222</m:mn></m:msubsup><m:mtext>Rn</m:mtext>
+
+<m:mo>,</m:mo></m:mrow></m:math> tiene una semivida de 3,823 días. ¿Cuánto tiempo tardará una muestra de radón-222 con una masa de 0,750 g en decaer en otros elementos, para que quede solamente 0,100 g?</para><note id="fs-idp123030208">
+<title>Respuesta:</title>
+<para id="fs-idp89371328">11,1 días.</para>
+</note>
+</example>
+<para id="fs-idp76857680">Ya que cada nucleido tiene un número específico de nucleones, un equilibrio particular de repulsión y atracción, y su propio grado de estabilidad, las semividas de los nucleidos radiactivos varían mucho. Por ejemplo: la semivida de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>83</m:mn></m:mrow><m:mn>209</m:mn></m:msubsup><m:mtext>Bi</m:mtext>
+
+</m:mrow></m:math> es 1,9 <m:math><m:mo>×</m:mo></m:math> 10<sup>19</sup> años; <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>94</m:mn></m:mrow><m:mn>239</m:mn></m:msubsup><m:mtext>Ra</m:mtext>
+
+</m:mrow></m:math> es de 24.000 años; <m:math><m:mrow>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>86</m:mn></m:mrow><m:mn>222</m:mn></m:msubsup><m:mtext>Rn</m:mtext></m:mrow></m:math> es de 3,82 días; y el elemento-111 (Rg de roentgenio) es de 1,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup> segundos. Las semividas de una serie de isótopos radiactivos importantes para la medicina se muestran en la <link target-id="fs-idp14399952"/>, y otros se enumeran en el <link document="m68871">Apéndice M</link>.</para><table id="fs-idp14399952" class="top-titled" summary="Esta tabla tiene cuatro columnas y seis filas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Tipo&quot;, &quot;Modo de decaimiento&quot;, &quot; Semivida&quot; y &quot;Usos&quot;. En la columna &quot;Tipo&quot; están los siguientes elementos: &quot;F - 18,&quot; &quot;C o - 60,&quot; &quot;T c - 99 m,&quot; &quot;I - 131&quot; y &quot;T l - 201&quot;. En la columna &quot;Modo de decaimiento&quot; se encuentra lo siguiente: &quot;decaimiento beta minúscula superíndice signo positivo&quot;, &quot;decaimiento beta minúscula, decaimiento gama minúscula&quot;, &quot;decaimiento gama minúscula&quot;, &quot;decaimiento beta minúscula&quot; y &quot;captura de electrones&quot;. En la columna &quot;Semivida&quot; se encuentra lo siguiente: 110. Minutos, 5,27 años, 8,01 horas, 8,02 días y 73 horas. En la columna &quot;Usos&quot; se encuentran los siguientes: exploraciones PET, tratamiento de afecciones, exploraciones de cerebro, pulmón, corazón, hueso, etc., exploraciones y tratamiento de tiroides, exploraciones de corazón y arterias y pruebas de esfuerzo cardíaco.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c4" align="center">Semividas de los isótopos radiactivos que son importantes para la medicina</entry>
+</row>
+<row valign="middle">
+<entry align="left">Tipo<footnote id="fs-idm12349168">La "m" de Tc-99m significa "metaestable", lo que indica que se trata de un estado inestable y de alta energía del Tc-99. Los isótopos metaestables emiten radiación γ para deshacerse del exceso de energía y volverse (más) estables.</footnote></entry>
+<entry align="left">Modo de decaimiento</entry>
+<entry align="left">Semivida</entry>
+<entry align="left">Utiliza</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">F-18</entry>
+<entry align="left">decaimiento β<sup>+</sup></entry>
+<entry align="left">110. minutos</entry>
+<entry align="left">Exploración por PET</entry>
+</row>
+<row valign="middle">
+<entry align="left">Co-60</entry>
+<entry align="left">decaimiento β, decaimiento γ</entry>
+<entry align="left">5,27 años</entry>
+<entry align="left">tratamiento del cáncer</entry>
+</row>
+<row valign="middle">
+<entry align="left">Tc-99m</entry>
+<entry align="left">decaimiento γ</entry>
+<entry align="left">8,01 horas</entry>
+<entry align="left">exploraciones de cerebro, pulmones, corazón, huesos</entry>
+</row>
+<row valign="middle">
+<entry align="left">I-131</entry>
+<entry align="left">decaimiento β</entry>
+<entry align="left">8,02 días</entry>
+<entry align="left">exploraciones de tiroides y tratamiento</entry>
+</row>
+<row valign="middle">
+<entry align="left">Tl-201</entry>
+<entry align="left">captura de electrones</entry>
+<entry align="left">73 horas</entry>
+<entry align="left">exploraciones del corazón y de las arterias; pruebas de esfuerzo cardíaco</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-idp25396560">
+<title>Datación radiométrica</title>
+<para id="fs-idm40273488">Varios radioisótopos tienen semividas y otras propiedades que sirven para "datar" el origen de objetos como artefactos arqueológicos, antiguos organismos vivos o formaciones geológicas. Este proceso es la <term>datación radiométrica</term> y ha sido la causa de muchos descubrimientos científicos revolucionarios sobre la historia geológica de la Tierra, la evolución de la vida y la historia de la civilización humana. Exploraremos algunos de los tipos más comunes de datación radiactiva y cómo funcionan los isótopos particulares de cada tipo.</para>
+<section id="fs-idm78225712">
+<title>Datación radiactiva con carbono 14</title>
+<para id="fs-idm42065648">La radiactividad del carbono 14 proporciona un método para datar objetos que formaron parte de un organismo vivo. Este método de datación radiométrica, que también se denomina <term>datación por radiocarbono</term> o por carbono 14, es exacto para datar sustancias que contienen carbono de hasta unos 30.000 años de antigüedad, y puede proporcionar fechas bastante precisas, hasta un máximo de unos 50.000 años.</para>
+<para id="fs-idp34827216">El carbono natural consta de tres isótopos: <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>,</m:mtext></m:mrow></m:math> que constituye aproximadamente el 99 % del carbono de la Tierra; <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>13</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>,</m:mtext></m:mrow></m:math> alrededor del 1 % del total, y trazas de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mo>.</m:mo></m:mrow></m:math> El carbono 14 se forma en la atmósfera superior por la reacción de los átomos de nitrógeno con los neutrones de los rayos cósmicos en el espacio:</para><equation id="fs-idp25204496" class="unnumbered"><m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>7</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>N</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>0</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>n</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>H</m:mtext>
+
+</m:mrow></m:math></equation><para id="fs-idp25818480">Todos los isótopos del carbono reaccionan con el oxígeno para producir moléculas de CO<sub>2</sub>. El cociente de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math> a <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math> depende del cociente de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>O</m:mtext></m:mrow></m:math> a <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>O</m:mtext></m:mrow></m:math> en la atmósfera. La abundancia natural de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>O</m:mtext></m:mrow></m:math> en la atmósfera es de aproximadamente 1 parte por trillón. Hasta ahora esto ha sido generalmente constante a lo largo del tiempo, como se evidencia en las muestras encontradas de gas atrapadas en el hielo. La incorporación de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math> y <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math> en las plantas es una parte regular del proceso de fotosíntesis, lo que significa que el cociente <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+</m:mrow></m:math> que se encuentra en una planta viva es igual al cociente <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+</m:mrow></m:math> en la atmósfera. No obstante, cuando la planta muere, ya no atrapa carbono a través de la fotosíntesis. Dado que <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+</m:mrow></m:math> es un isótopo estable y no sufre decaimiento radiactivo, su concentración en la planta no cambia. Sin embargo, el carbono-14 decae por emisión β con una semivida de 5730 años:</para><equation id="fs-idp78792240" class="unnumbered"><m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>7</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>N</m:mtext>
+
+<m:mo>+</m:mo><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow></m:mrow></m:math></equation><para id="fs-idm11295264">Por lo tanto, el cociente <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+</m:mrow></m:math> disminuye gradualmente después de la muerte de la planta. La disminución del cociente con el tiempo aporta una medida del tiempo que ha transcurrido desde la muerte de la planta (o de otro organismo que se comió la planta). La <link target-id="CNX_Chem_21_03_CarbonDate"/> representa visualmente este proceso.</para><figure id="CNX_Chem_21_03_CarbonDate">
+<media id="fs-idp78510352" class="scaled-down" alt="Un diagrama muestra una vaca junto a un árbol. En la parte superior izquierda del diagrama, donde se representa el cielo, se muestra una única esfera blanca que se conecta por una flecha hacia abajo a una esfera más grande compuesta por esferas verdes y blancas que está marcada como &quot;superíndice 14, subíndice 7, N&quot;. Esta estructura se conecta a otras tres estructuras mediante una flecha hacia la derecha. Cada una de las tres está compuesta por esferas verdes y blancas y todas tienen flechas que apuntan al suelo. La primera está marcada como “traza, superíndice 14, subíndice 6, C&quot;, la segunda está marcada como &quot;1 %, superíndice 13, subíndice 6, C&quot; y la última está marcada como &quot;99 %, superíndice 12, subíndice 6, C&quot;. Dos flechas orientadas hacia abajo que se funden en una sola conducen desde la vaca y el árbol hasta el suelo y están marcadas como &quot;el organismo muere&quot; y &quot;superíndice 14, subíndice 6, C, comienza el decaimiento&quot;. Una flecha hacia la derecha, marcada en la parte superior como “decaimiento&quot; y en la parte inferior como &quot;tiempo&quot;, va desde allí hasta una marcación de &quot;superíndice 14, subíndice 6, C, barra invertida, superíndice 12, subíndice 6, C, relación disminuida&quot;. Cerca de la copa del árbol hay una flecha hacia abajo con la marcación &quot;superíndice 14, subíndice 6, C, barra invertida, superíndice 12, subíndice 6, C, el cociente es constante en los organismos vivos&quot;, que lleva a la última de las afirmaciones inferiores.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_CarbonDate.jpg"/>
+</media>
+<caption>Junto con el carbono-12 estable, el carbono-14 radiactivo lo absorben las plantas y los animales, y permanece en un nivel constante en su interior mientras están vivos. Después de la muerte, el C-14 decae y el cociente C-14:C-12 en los restos disminuye. La comparación de este cociente con el de C-14:C-12 en los organismos vivos nos permite determinar cuánto tiempo hace que el organismo vivió (y murió).</caption>
+</figure>
+<para id="fs-idm5880176">Por ejemplo, con la semivida de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+</m:mrow></m:math> en 5730 años, si el cociente <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+</m:mrow></m:math> en un objeto de madera encontrado en una excavación arqueológica es la mitad que en un árbol vivo, esto indica que el objeto de madera tiene 5730 años. Pueden obtenerse determinaciones muy exactas de cocientes <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+</m:mrow></m:math> a partir de muestras ínfimas (de hasta un miligramo) con un espectrómetro de masas.</para><note id="fs-idm68267632" class="chemistry link-to-learning">
+<para id="fs-idp134905456">Visite este <link url="http://openstax.org/l/16phetradiom">sitio web</link> para realizar simulaciones de datación radiométrica.</para>
+</note>
+<example id="fs-idm12472048"><para id="fs-idm43395808"><title>Datación por radiocarbono</title>
+Un pequeño trozo de papel (producido a partir de materia vegetal antiguamente viva), extraído de los Manuscritos del Mar Muerto, tiene una actividad de 10,8 desintegraciones por minuto por gramo de carbono. Si la actividad inicial de C-14 era de 13,6 desintegraciones/min/g de C, calcule la edad de los Manuscritos.</para>
+<para id="fs-idp4802464"><title>Solución</title>
+La tasa de decaimiento (número de desintegraciones/minuto/gramo de carbono) es proporcional a la cantidad de C-14 radiactivo que queda en el pergamino, por lo que podemos sustituir las tasas por las cantidades, <emphasis effect="italics">N</emphasis>, en la relación:</para>
+<equation id="fs-idm27840624" class="unnumbered"><m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>N</m:mi><m:mi>t</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>t</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mrow><m:mtext>Tasa</m:mtext></m:mrow><m:mi>t</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mrow><m:mtext>Tasa</m:mtext></m:mrow><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp12237584">donde el subíndice 0 representa el momento en que se cortaron las plantas para hacer el papel, y el subíndice <emphasis effect="italics">t</emphasis> representa el momento actual.</para>
+<para id="fs-idm9913056">La constante de decaimiento se determina a partir de la semivida del C-14 en 5730 años:</para>
+<equation id="fs-idm36556768" class="unnumbered"><m:math><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>ln 2</m:mtext></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2 </m:mn></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,693</m:mn></m:mrow><m:mrow><m:mtext>5730 a</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,21</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>y</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp40647344">Sustituyendo y resolviendo, tenemos:</para>
+<equation id="fs-idm20370432" class="unnumbered"><m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mrow><m:mtext>Tasa</m:mtext></m:mrow><m:mi>t</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mrow><m:mtext>Tasa</m:mtext></m:mrow><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1,21</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>y</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>10,8</m:mn><m:mspace width="0.2em"/><m:mtext>dis/min/g C</m:mtext></m:mrow><m:mrow><m:mn>13,6</m:mn><m:mspace width="0.2em"/><m:mtext>dis/min/g C</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>1910 a</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp18759328">Por lo tanto, los Manuscritos del Mar Muerto tienen aproximadamente 1900 años de antigüedad (<link target-id="CNX_Chem_21_03_DSScrolls"/>).</para>
+<figure id="CNX_Chem_21_03_DSScrolls" class="scaled-down">
+<media id="fs-idm64119536" alt="Se muestra una fotografía de seis páginas escritas de papel con bordes rasgados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_03_DSScrolls.jpg"/>
+</media>
+<caption>La datación por carbono 14 ha demostrado que estas páginas de los Manuscritos del Mar Muerto fueron escritas o copiadas en papel fabricado con plantas que murieron entre el año 100 a.C. y el año 50 d.C.</caption>
+</figure>
+<para id="fs-idp79158784"><title>Compruebe lo aprendido</title>
+Recientemente se han determinado fechas más exactas de los reinados de los antiguos faraones egipcios con plantas que se conservaron en sus tumbas. Las muestras de semillas y materia vegetal de la tumba del rey Tutankamón tienen una tasa de decaimiento del C-14 de 9,07 desintegraciones/min/g de C. ¿Hace cuánto tiempo que culminó su reinado?</para>
+<note id="fs-idp861216">
+<title>Respuesta:</title>
+<para id="fs-idp7472544">hace unos 3350 años, es decir, aproximadamente en el año 1340 a.C.</para>
+</note>
+</example>
+<para id="fs-idp143543968">Se han producido algunos cambios significativos y bien documentados en el cociente <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+</m:mrow></m:math>. La exactitud de la aplicación directa de esta técnica depende de que el cociente <m:math><m:mrow>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+</m:mrow></m:math> en una planta viva sea el mismo ahora que en una época anterior, pero esto no siempre es válido. Debido a la creciente acumulación de moléculas de CO<sub>2</sub> (en gran parte <m:math><m:mrow>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:math> en la atmósfera a causa de la combustión de combustibles fósiles (en la que esencialmente todo el <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+</m:mrow></m:math> ha decaído), el cociente de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+</m:mrow></m:math> en la atmósfera puede estar cambiando. Este aumento por el hombre de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math> en la atmósfera hace que disminuya el cociente <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+</m:mrow></m:math>, lo que a su vez afecta el cociente en los organismos vivos en la Tierra. Sin embargo, afortunadamente podemos utilizar otros datos, como la datación de los árboles mediante el examen de los anillos de crecimiento anual, para calcular los factores de corrección. Con estos factores de corrección, se pueden determinar las fechas exactas. En general, la datación radiactiva funciona apenas durante unas 10 semividas; en consecuencia, el límite de la datación por carbono 14 es de unos 57.000 años.</para></section>
+<section id="fs-idp103641152">
+<title>Datación radiactiva con nucleidos distintos del carbono 14</title>
+<para id="fs-idp55701552">En la datación radiactiva también se utilizan otros nucleidos radiactivos con semividas más prolongadas para datar acontecimientos más antiguos. Por ejemplo, el uranio-238 (que decae en una serie de pasos hasta convertirse en plomo-206) se utiliza para establecer la edad de las rocas (y la edad aproximada de las rocas más antiguas de la Tierra). Dado que el U-238 tiene una semivida de 4.500 millones de años, la mitad del U-238 original tarda ese tiempo en decaer en Pb-206. En una muestra de roca que no contiene cantidades apreciables de Pb-208, el isótopo más abundante del plomo, supondríamos que el plomo no estaba presente cuando se formó la roca. Por consiguiente, al medir y analizar el cociente de U-238:Pb-206, determinamos la edad de la roca. Esto supone que todo el plomo-206 presente proviene del decaimiento del uranio-238. Si hay presencia adicional de plomo-206, lo que se indica por la presencia de otros isótopos de plomo en la muestra, es necesario hacer un ajuste. En la datación por argón potásico se utiliza un método parecido. El K-40 decae por emisión de positrones y capta electrones para formar Ar-40 con una semivida de 1.250 millones de años. Si se tritura una muestra de roca y se mide la cantidad de gas Ar-40 que escapa, la determinación del cociente Ar-40:K-40 arroja la edad de la roca. Otros métodos, como la datación por rubidio-estroncio (el Rb-87 decae en Sr-87, con una semivida de 48.800 millones de años), funcionan según el mismo principio. Para calcular el límite inferior de la edad de la Tierra, los científicos determinan la edad de diversas rocas y minerales, partiendo del supuesto de que la Tierra es más antigua que las rocas y minerales más antiguos de su corteza. Desde 2014, las rocas más antiguas que se conocen en la Tierra son los circones de Jack Hills, en Australia, que, según la datación con uranio y plomo, tienen casi 4.400 millones de años.</para>
+<example id="fs-idp133528864"><para id="fs-idm84298880"><title>Datación radiactiva de rocas</title>
+Una roca ígnea contiene 9,58 <m:math><m:mo>×</m:mo></m:math> 10<sup>-5</sup> g de U-238 y 2,51 <m:math><m:mo>×</m:mo></m:math> 10<sup>-5</sup> g de Pb-206, y cantidades mucho, mucho más pequeñas de Pb-208. Determine el tiempo aproximado en que se formó la roca.</para>
+<para id="fs-idp15526736"><title>Solución</title>
+La muestra de roca contiene muy poco Pb-208, el isótopo más común del plomo, por lo que podemos suponer con seguridad que todo el Pb-206 de la roca se produjo por el decaimiento radiactivo del U-238. Cuando se formó la roca, contenía todo el U-238 que hay en la actualidad, además de algo de U-238 que ha sufrido desde entonces un decaimiento radiactivo.</para>
+<para id="fs-idp16405632">La cantidad actual de U-238 en la roca es:</para>
+<equation id="fs-idp167610144" class="unnumbered"><m:math><m:mrow><m:mn>9,58</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-5</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g U</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol U</m:mtext></m:mrow><m:mrow><m:mn>238</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g U</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>4,03</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-7</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol U</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp25854368">Dado que, cuando un mol de U-238 decae, produce un mol de Pb-206, la cantidad de U-238 que ha sufrido decaimiento radiactivo desde que se formó la roca es:</para>
+<equation id="fs-idp25663280" class="unnumbered"><m:math><m:mrow><m:mn>2,51</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-5</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Pb</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol de Pb</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>206</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Pb</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol U</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol de Pb</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,22</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-7</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol U</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp142687024">Por lo tanto, la cantidad total de U-238 presente originalmente en la roca es:</para>
+<equation id="fs-idp51369808" class="unnumbered"><m:math><m:mrow><m:mn>4,03</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-7</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mo>+</m:mo><m:mn>1,22</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-7</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>5,25</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-7</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol U</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm1352480">El tiempo que ha transcurrido desde que se formó la roca está dado por:</para>
+<equation id="fs-idm43256560" class="unnumbered"><m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>N</m:mi><m:mi>t</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp188052736">donde <emphasis effect="italics">N</emphasis><sub>0</sub> representa la cantidad original de U-238 y <emphasis effect="italics">N<sub>t</sub></emphasis> representa la cantidad actual de U-238.</para>
+<para id="fs-idp178175456">El U-238 decae en Pb-206 con una semivida de 4,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>9</sup> años, por lo que la constante de decaimiento <emphasis effect="italics">λ</emphasis> es:</para>
+<equation id="fs-idp138305008" class="unnumbered"><m:math><m:mrow><m:mi>λ</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>ln 2</m:mtext></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2 </m:mn></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,693</m:mn></m:mrow><m:mrow><m:mn>4,5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>y</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,54</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-10</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>y</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp46289376">Sustituyendo y resolviendo, tenemos:</para>
+<equation id="fs-idp171891856" class="unnumbered"><m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1,54</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-10</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>y</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>4,03</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-7</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol U</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>5,25</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-7</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol U</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>y</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp8533088">En consecuencia, la roca tiene aproximadamente 1.700 millones de años.</para>
+<para id="fs-idp219511184"><title>Compruebe lo aprendido</title>
+Una muestra de roca contiene 6,14 <m:math><m:mo>×</m:mo></m:math> 10<sup>-4</sup> g de Rb-87 y 3,51 <m:math><m:mo>×</m:mo></m:math> 10<sup>-5</sup> g de Sr-87. Calcule la edad de la roca. (La semivida del decaimiento β del Rb-87 es de 4,7 <m:math><m:mo>×</m:mo></m:math> 10<sup>10</sup> años).</para>
+<note id="fs-idp66566112">
+<title>Respuesta:</title>
+<para id="fs-idm14245664">3,7 <m:math><m:mo>×</m:mo></m:math> 10<sup>9</sup> a</para>
+</note>
+</example>
+</section>
+</section>
+<section id="fs-idm64039712" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp119462816">Los núcleos que tienen cocientes n:p inestables sufren un decaimiento radiactivo espontáneo. Los tipos más comunes de radiactividad son el decaimiento α, el decaimiento β, la emisión γ, la emisión de positrones y la captura de electrones. En las reacciones nucleares también intervienen los rayos γ. Además, algunos núcleos decaen por captura de electrones. Cada uno de estos modos de decaimiento conduce a la formación de un nuevo núcleo con un cociente n:p más estable. Algunas sustancias sufren series de decaimiento radiactivo, ya que pasan por varios decaimientos antes de terminar en un isótopo estable. Todos los procesos de decaimiento nuclear siguen una cinética de primer orden, y cada radioisótopo tiene su propia semivida, el tiempo necesario para que la mitad de sus átomos decaiga. Debido a las grandes diferencias de estabilidad entre los núclidos, existe una gama muy amplia de semividas en las sustancias radiactivas. Muchas de estas sustancias tienen aplicaciones útiles en el diagnóstico y el tratamiento médico, en la determinación de la edad de los objetos arqueológicos y geológicos, y más.</para>
+</section>
+<section id="fs-idm2719024" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry>tasa de decaimiento = <emphasis effect="italics">λN</emphasis></entry>
+</row>
+<row><entry><m:math><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2 </m:mn></m:mrow></m:msub><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>ln 2</m:mtext></m:mrow><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,693</m:mn></m:mrow><m:mi>λ</m:mi></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idp25531728" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idp13838752">
+<problem id="fs-idm89930880">
+<para id="fs-idm10223552">¿Cuáles son los tipos de radiación que emiten los núcleos de los elementos radiactivos?</para>
+</problem>
+<solution id="fs-idm24069744">
+<para id="fs-idm33283872">Las partículas α (núcleos de helio), β (electrones), β<sup>+</sup> (positrones) y η (neutrones) pueden emitirse a partir de un elemento radiactivo, todos los cuales son partículas; también pueden emitirse rayos γ.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp81671360">
+<problem id="fs-idp17293680">
+<para id="fs-idm2773856">¿Qué cambios operan en el número atómico y la masa de un núcleo durante cada una de las siguientes situaciones de decaimiento?</para>
+<para id="fs-idp137675104">a) se emite una partícula α</para>
+<para id="fs-idp36662256">b) se emite una partícula β</para>
+<para id="fs-idp5160032">(c) se emite radiación γ</para>
+<para id="fs-idp138318864">d) se emite un positrón</para>
+<para id="fs-idp30872480">(e) se captura un electrón</para>
+</problem>
+</exercise>
+<exercise id="fs-idp50277600">
+<problem id="fs-idp176495056">
+<para id="fs-idp143657184">¿Cuál es el cambio en el núcleo que resulta de las siguientes situaciones de decaimiento?</para>
+<para id="fs-idm43346352">(a) emisión de una partícula β</para>
+<para id="fs-idp177484800">(b) emisión de una partícula β<sup>+</sup></para>
+<para id="fs-idp122950864">(c) captura de un electrón</para>
+</problem>
+<solution id="fs-idp13766608">
+<para id="fs-idm27170272">(a) conversión de un neutrón en un protón: <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>0</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>n</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>p</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mn>+1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+<m:mo>;</m:mo></m:mrow></m:math> (b) conversión de un protón en un neutrón; el positrón tiene la misma masa que un electrón y la misma magnitud de carga positiva, igual a la carga negativa que tiene el electrón; cuando el cociente n:p de un núcleo es demasiado bajo, un protón se convierte en un neutrón con la emisión de un positrón: <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>p</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>0</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>n</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mn>+1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+<m:mo>;</m:mo></m:mrow></m:math> (c) En un núcleo rico en protones, puede absorberse un electrón atómico interno. En términos sencillos, esto cambia un protón en un neutrón: <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>p</m:mtext>
+
+<m:mo>+</m:mo><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>0</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>p</m:mtext>
+
+</m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-idm39924368">
+<problem id="fs-idm27712480">
+<para id="fs-idp190856048">Muchos nucleidos con números atómicos superiores a 83 decaen mediante procesos como la emisión de electrones. Explique la observación de que las emisiones de estos nucleidos inestables también incluyen normalmente partículas α.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp102836704">
+<problem id="fs-idp134914304">
+<para id="fs-idp26162912">¿Por qué la captura de electrones va acompañada de la emisión de rayos X?</para>
+</problem>
+<solution id="fs-idp165043872">
+<para id="fs-idp123519008">El electrón atraído hacia el núcleo se encontraba muy probablemente en el orbital 1<emphasis effect="italics">s</emphasis>. Cuando un electrón cae desde un nivel de energía superior para sustituirlo, la diferencia de energía del electrón sustituto en sus dos niveles de energía se emite como un rayo X.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp1698768">
+<problem id="fs-idp134647152">
+<para id="fs-idp142495840">Explique, en términos de la <link target-id="CNX_Chem_21_01_BandStable" document="m68851"/>, de qué manera los nucleidos pesados inestables (número atómico &gt; 83) se desintegran para formar nucleidos más estables: (a) si están por debajo de la banda de estabilidad, y (b) si están por encima de la banda de estabilidad.</para></problem>
+</exercise>
+<exercise id="fs-idp16009760">
+<problem id="fs-idp17984272">
+<para id="fs-idp201795280">¿Cuál de los siguientes núcleos es más probable que decaiga por emisión de positrones? Explique su elección.</para>
+<para id="fs-idp34995296">(a) cromo-53</para>
+<para id="fs-idp134866720">b) manganeso-51</para>
+<para id="fs-idp1557216">(c) hierro-59</para>
+</problem>
+<solution id="fs-idp12802144">
+<para id="fs-idm8619408">El manganeso-51 es más probable que decaiga por emisión de positrones. El cociente n:p para el Cr-53 es <m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>29</m:mn></m:mrow><m:mrow><m:mn>24</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:math> = 1,21; para el Mn-51, es <m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>26</m:mn></m:mrow><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:math> = 1,04; para el Fe-59, es <m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>33</m:mn></m:mrow><m:mrow><m:mn>26</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:math> = 1,27. El decaimiento de positrones tiene lugar cuando el cociente n:p es bajo. El Mn-51 tiene el cociente n:p más bajo; por ende, es más probable que decaiga por emisión de positrones. Además, <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>24</m:mn></m:mrow><m:mn>53</m:mn></m:msubsup><m:mtext>Cr</m:mtext>
+
+</m:mrow></m:math> es un isótopo estable, y <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>26</m:mn></m:mrow><m:mn>59</m:mn></m:msubsup><m:mtext>Fe</m:mtext>
+
+</m:mrow></m:math> decae por emisión beta.</para></solution>
+</exercise>
+<exercise id="fs-idm82641568"><problem id="fs-idm29154624">
+<para id="fs-idp76332848">Los siguientes núcleos no se encuentran en la banda de estabilidad. ¿Cómo está previsto que decaigan? Explique su respuesta.</para>
+<para id="fs-idp138950912">(a) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>15</m:mn></m:mrow><m:mn>34</m:mn></m:msubsup><m:mtext>P</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idp143538880">(b) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>92</m:mn></m:mrow><m:mn>239</m:mn></m:msubsup><m:mtext>U</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idp134068000">(c) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>20</m:mn></m:mrow><m:mn>38</m:mn></m:msubsup><m:mtext>Ca</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idp137322448">(d) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>3</m:mn></m:msubsup><m:mtext>H</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idp179430752">(e) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>94</m:mn></m:mrow><m:mn>245</m:mn></m:msubsup><m:mtext>Pu</m:mtext>
+
+</m:mrow></m:math></para>
+</problem>
+</exercise><exercise id="fs-idp54341232"><problem id="fs-idp90959696">
+<para id="fs-idm5650336">Los siguientes núcleos no se encuentran en la banda de estabilidad. ¿Cómo está previsto que decaigan?</para>
+<para id="fs-idp92587472">(a) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>15</m:mn></m:mrow><m:mn>28</m:mn></m:msubsup><m:mtext>P</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idm20106176">(b) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>92</m:mn></m:mrow><m:mn>235</m:mn></m:msubsup><m:mtext>U</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idm22275216">(c) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>20</m:mn></m:mrow><m:mn>37</m:mn></m:msubsup><m:mtext>Ca</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idp137311888">(d) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>3</m:mn></m:mrow><m:mn>9</m:mn></m:msubsup><m:mtext>L</m:mtext>
+
+<m:mtext>i</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp137045664">(e) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>96</m:mn></m:mrow><m:mn>245</m:mn></m:msubsup><m:mtext>Cm</m:mtext>
+
+</m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp168862912">
+<para id="fs-idm31409728">(a) decaimiento β; (b) decaimiento α; (c) emisión de positrones; (d) decaimiento β; (e) decaimiento α</para>
+</solution>
+</exercise><exercise id="fs-idp53072816"><problem id="fs-idm6865584">
+<para id="fs-idp10180544">Prediga por cuáles modo(s) de decaimiento radiactivo espontáneo procedería cada uno de los siguientes isótopos inestables:</para>
+<para id="fs-idm24027360">(a) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>2</m:mn></m:mrow><m:mn>6</m:mn></m:msubsup><m:mtext>H</m:mtext>
+
+<m:mtext>e</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp7080592">(b) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>30</m:mn></m:mrow><m:mn>60</m:mn></m:msubsup><m:mtext>Zn</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idm35115440">(c) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>91</m:mn></m:mrow><m:mn>235</m:mn></m:msubsup><m:mtext>Pa</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idm75261408">(d) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>94</m:mn></m:mrow><m:mn>241</m:mn></m:msubsup><m:mtext>Np</m:mtext>
+
+</m:mrow></m:math></para>
+<para id="fs-idp17960336">(e) <sup>18</sup>F</para>
+<para id="fs-idp7359744">(f) <sup>129</sup>Ba</para>
+<para id="fs-idm31917904">(g) <sup>237</sup>Pu</para>
+</problem>
+</exercise><exercise id="fs-idp48794032"><problem id="fs-idp120611040">
+<para id="fs-idp176277168">Escriba una reacción nuclear para cada paso en la formación de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>84</m:mn></m:mrow><m:mn>218</m:mn></m:msubsup><m:mtext>Po</m:mtext>
+
+</m:mrow></m:math> a partir de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>98</m:mn></m:mrow><m:mn>238</m:mn></m:msubsup><m:mtext>U</m:mtext>
+
+<m:mo>,</m:mo></m:mrow></m:math> que procede por una serie de reacciones de decaimiento que implican la emisión escalonada de partículas α, β, β, α, α, α, en ese orden.</para>
+</problem>
+<solution id="fs-idp12554352">
+<para id="fs-idp187827136"><m:math><m:mrow>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>92</m:mn></m:mrow><m:mn>238</m:mn></m:msubsup><m:mtext>U</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>90</m:mn></m:mrow><m:mn>234</m:mn></m:msubsup><m:mtext>Th</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>2 </m:mn></m:mrow><m:mn>4</m:mn></m:msubsup><m:mtext>He</m:mtext>
+
+<m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>90</m:mn></m:mrow><m:mn>234</m:mn></m:msubsup><m:mtext>Th</m:mtext>
+
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>91</m:mn></m:mrow><m:mn>234</m:mn></m:msubsup><m:mtext>Pa</m:mtext>
+
+
+<m:mo>+</m:mo><m:mrow>
+
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+
+</m:mrow><m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>91</m:mn></m:mrow><m:mn>234</m:mn></m:msubsup><m:mtext>Pa</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>92</m:mn></m:mrow><m:mn>234</m:mn></m:msubsup><m:mtext>U</m:mtext>
+
+<m:mo>+</m:mo><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow><m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>92</m:mn></m:mrow><m:mn>234</m:mn></m:msubsup><m:mtext>U</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>90</m:mn></m:mrow><m:mn>230</m:mn></m:msubsup><m:mtext>Th</m:mtext>
+
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>2 </m:mn></m:mrow><m:mn>4</m:mn></m:msubsup><m:mtext>He</m:mtext>
+
+</m:mrow></m:math> <m:math><m:mrow>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>90</m:mn></m:mrow><m:mn>230</m:mn></m:msubsup><m:mtext>Th</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>88</m:mn></m:mrow><m:mn>226</m:mn></m:msubsup><m:mtext>Ra</m:mtext>
+
+<m:mo>+</m:mo>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>2 </m:mn></m:mrow><m:mn>4</m:mn></m:msubsup><m:mtext>He</m:mtext>
+
+
+</m:mrow></m:math> <m:math><m:mrow>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>88</m:mn></m:mrow><m:mn>226</m:mn></m:msubsup><m:mtext>Ra</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>86</m:mn></m:mrow><m:mn>222</m:mn></m:msubsup><m:mtext>Rn</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>2 </m:mn></m:mrow><m:mn>4</m:mn></m:msubsup><m:mtext>He</m:mtext>
+
+<m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>86</m:mn></m:mrow><m:mn>222</m:mn></m:msubsup><m:mtext>Rn</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>84</m:mn></m:mrow><m:mn>218</m:mn></m:msubsup><m:mtext>Po</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>2 </m:mn></m:mrow><m:mn>4</m:mn></m:msubsup><m:mtext>He</m:mtext>
+
+</m:mrow></m:math></para></solution>
+</exercise><exercise id="fs-idp14930000">
+<problem id="fs-idp30511072">
+<para id="fs-idp25125904">Escriba una reacción nuclear para cada paso en la formación de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>82</m:mn></m:mrow><m:mn>208</m:mn></m:msubsup><m:mtext>Pb</m:mtext>
+
+</m:mrow></m:math> a partir de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>90</m:mn></m:mrow><m:mn>228</m:mn></m:msubsup><m:mtext>T</m:mtext>
+
+<m:mtext>h,</m:mtext></m:mrow></m:math> que procede por una serie de reacciones de decaimiento que implican la emisión escalonada de partículas α, α, α, β, β, α, en ese orden.
+
+</para></problem>
+</exercise>
+<exercise id="fs-idp87827184">
+<problem id="fs-idp89910000">
+<para id="fs-idm43525136">Defina el término semivida y ejemplifique.</para>
+</problem>
+<solution id="fs-idp2203040">
+<para id="fs-idp25513776">La semivida es el tiempo necesario para que la mitad de los átomos de una muestra decaigan. Ejemplo (las respuestas pueden variar): Para el C-14, la semivida es de 5770 años. Una muestra de 10 g de C-14 contendría 5 g de C-14 después de 5770 años; una muestra de 0,20 g de C-14 contendría 0,10 g después de 5770 años.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm20282880">
+<problem id="fs-idp137020432">
+<para id="fs-idm37225376">Una muestra de 1,00 <m:math><m:mo>×</m:mo></m:math> 10<sup>-6</sup> g de nobelio, <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>102</m:mn></m:mrow><m:mn>254</m:mn></m:msubsup><m:mtext>No</m:mtext>
+
+<m:mo>,</m:mo></m:mrow></m:math> tiene una semivida de 55 segundos tras su formación. ¿Cuál es el porcentaje de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>102</m:mn></m:mrow><m:mn>254</m:mn></m:msubsup><m:mtext>No</m:mtext>
+
+</m:mrow></m:math> que queda en los siguientes momentos?</para><para id="fs-idp172348128">(a) 5,0 min después de formarse</para>
+<para id="fs-idm38933040">(b) 1,0 h después de formarse</para>
+</problem>
+</exercise>
+<exercise id="fs-idp18159360">
+<problem id="fs-idp18218048">
+<para id="fs-idm3633744">El <sup>239</sup>Pu es un subproducto de los residuos nucleares, con una semivida de 24.000 años. ¿Qué fracción del <sup>239</sup>Pu presente hoy estará presente en 1000 años?</para>
+</problem>
+<solution id="fs-idp144630768">
+<para id="fs-idp213478640"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2 </m:mn></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>0,04</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,973</m:mn></m:mrow></m:math> o el 97,3 %</para>
+</solution>
+</exercise>
+<exercise id="fs-idp160912384">
+<problem id="fs-idm89629664">
+<para id="fs-idm33356592">El isótopo <sup>208</sup>Tl sufre un decaimiento β con una semivida de 3,1 minutos.</para>
+<para id="fs-idp143445632">(a) ¿Cuál isótopo se produce por el decaimiento?</para>
+<para id="fs-idp78376656">(b) ¿Cuánto tiempo tardará en decaer el 99,0 % de una muestra de <sup>208</sup>Tl puro?</para>
+<para id="fs-idp211861968">(c) ¿Qué porcentaje de una muestra de <sup>208</sup>Tl puro permanece sin decaer después de 1,0 h?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp120962800">
+<problem id="fs-idp12289808">
+<para id="fs-idm43874912">Si 1,000 g de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>88</m:mn></m:mrow><m:mn>226</m:mn></m:msubsup><m:mtext>Ra</m:mtext>
+
+
+</m:mrow></m:math> genera 0,0001 mL del gas <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>86</m:mn></m:mrow><m:mn>222</m:mn></m:msubsup><m:mtext>Rn</m:mtext>
+
+</m:mrow></m:math> a una temperatura y presión estándar (Standard Temperature and Pressure, STP) en 24 h, ¿cuál es la semivida del <sup>226</sup>Ra en años?</para></problem>
+<solution id="fs-idm20259744">
+<para id="fs-idp2575712">2 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> a</para>
+</solution>
+</exercise>
+<exercise id="fs-idp22881184">
+<problem id="fs-idp54700000">
+<para id="fs-idp126089680">El isótopo <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>38</m:mn></m:mrow><m:mn>90</m:mn></m:msubsup><m:mtext>Sr</m:mtext>
+
+</m:mrow></m:math> es una de las especies extremadamente peligrosas en los residuos de la generación de energía nuclear. El estroncio en una muestra de 0,500 g disminuye a 0,393 g en 10,0 años. Calcule la semivida.</para></problem>
+</exercise>
+<exercise id="fs-idp20502256">
+<problem id="fs-idp10055504">
+<para id="fs-idp219506992">El tecnecio-99 se utiliza a menudo para evaluar las lesiones en el corazón, el hígado y los pulmones, ya que los tejidos afectados absorben ciertos compuestos de tecnecio. Tiene una semivida de 6,0 h. Calcule la constante de velocidad para el decaimiento de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>43</m:mn></m:mrow><m:mn>99</m:mn></m:msubsup><m:mtext>Tc</m:mtext>
+
+<m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-idp205263888">
+<para id="fs-idp35524320">0,12 h<sup>-1</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp75965808">
+<problem id="fs-idp137910768">
+<para id="fs-idp53369552">¿Cuál es la edad de una piel de primate momificada que contiene un 8,25 % de la cantidad original de <sup>14</sup>C?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp60953824"><problem id="fs-idp54190832">
+<para id="fs-idp125426976">Una muestra de roca contenía 8,23 mg de rubidio-87 y 0,47 mg de estroncio-87.</para>
+<para id="fs-idm22718704">(a) Calcule la edad de la roca si la semivida del decaimiento del rubidio por emisión β es de 4,7 <m:math><m:mo>×</m:mo></m:math> 10<sup>10</sup> a.</para>
+<para id="fs-idp75993408">(b) Si algo de <m:math><m:mrow>
+
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>38</m:mn></m:mrow><m:mn>87</m:mn></m:msubsup><m:mtext>Sr</m:mtext>
+
+</m:mrow></m:math> estuviera inicialmente presente en la roca, ¿la roca sería más nueva, más antigua o tendría la misma edad que la calculada en (a)? Explique su respuesta.</para></problem>
+<solution id="fs-idp172013760">
+<para id="fs-idp58704368">(a) 3.800 millones de años; (b) La roca sería más nueva que la edad calculada en la parte (a). Si el Sr estaba originalmente en la roca, la cantidad producida por el decaimiento radiactivo sería igual a la cantidad actual menos la cantidad inicial. Dado que esta cantidad sería menor que la utilizada para calcular la edad de la roca y la edad es proporcional a la cantidad de Sr, la roca sería más nueva.</para>
+</solution>
+</exercise><exercise id="fs-idm70032656"><problem id="fs-idp138527680">
+<para id="fs-idp133778576">Una investigación de laboratorio señala que una muestra de mineral de uranio contiene 5,37 mg de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>92</m:mn></m:mrow><m:mn>238</m:mn></m:msubsup><m:mtext>U</m:mtext>
+
+</m:mrow></m:math> y 2,52 mg de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>82</m:mn></m:mrow><m:mn>206</m:mn></m:msubsup><m:mtext>Pb</m:mtext>
+
+<m:mo>.</m:mo></m:mrow></m:math> Calcule la edad del mineral. La semivida de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>92</m:mn></m:mrow><m:mn>238</m:mn></m:msubsup><m:mtext>U</m:mtext>
+
+</m:mrow></m:math> es 4,5 <m:math><m:mo>×</m:mo></m:math>10<sup>9</sup> años.</para>
+</problem>
+</exercise><exercise id="fs-idp226288768">
+<problem id="fs-idp25275312">
+<para id="fs-idp165416288">Glenn Seaborg y sus colaboradores detectaron el plutonio en cantidades mínimas en los depósitos naturales de uranio en 1941. Ellos postularon que la fuente de este <sup>239</sup>Pu era la captura de neutrones por núcleos de <sup>238</sup>U. ¿Por qué es improbable que este plutonio haya quedado atrapado en el momento en que se formó el sistema solar hace 4,7 <m:math><m:mo>×</m:mo></m:math> 10<sup>9</sup> años?</para>
+</problem>
+<solution id="fs-idp121553344">
+<para id="fs-idp172871712"><emphasis effect="italics">c</emphasis> = 0. Esto revela que no pudo quedar Pu-239 desde la formación de la Tierra. En consecuencia, el plutonio ahora presente no pudo haberse formado con el uranio.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp172415648"><problem id="fs-idm4562608">
+<para id="fs-idp217024288">Un átomo de <m:math>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mn>7</m:mn></m:msubsup><m:mtext>Be</m:mtext>
+
+</m:math> (masa = 7,0169 u) decae en un átomo <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>3</m:mn></m:mrow><m:mn>7</m:mn></m:msubsup><m:mtext>L</m:mtext>
+
+<m:mtext>i</m:mtext></m:mrow></m:math> (masa = 7,0160 u) por captura de electrones. ¿Cuánta energía (en millones de electronvoltios, MeV) se produce en esta reacción?</para>
+</problem>
+</exercise><exercise id="fs-idp168859936"><problem id="fs-idp76240592">
+<para id="fs-idp71110896">Un átomo de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>5</m:mn></m:mrow><m:mn>8</m:mn></m:msubsup><m:mtext>B</m:mtext>
+
+</m:mrow></m:math> (masa = 8,0246 u) decae en un átomo <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mn>8</m:mn></m:msubsup><m:mtext>B</m:mtext>
+
+</m:mrow></m:math> (masa = 8,0053 u) por pérdida de una partícula β<sup>+</sup> (masa = 0,00055 u) o por captura de electrones. ¿Cuánta energía (en millones de electronvoltios) se genera en esta reacción?</para>
+</problem>
+<solution id="fs-idm24274976">
+<para id="fs-idp103673504">17,5 MeV</para>
+</solution>
+</exercise><exercise id="fs-idp50360016">
+<problem id="fs-idm22835968">
+<para id="fs-idp131958896">Se presume que isótopos como el <sup>26</sup>Al (semivida: 7,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup> años) estuvieron presentes en nuestro sistema solar cuando se formó. Desde entonces, no obstante, han decaído, por lo que ahora reciben el nombre de nucleidos extintos.</para>
+<para id="fs-idp31169120">(a) El <sup>26</sup>Al decae por emisión β<sup>+</sup> o captura de electrones. Escriba las ecuaciones de estas dos transformaciones nucleares.</para>
+<para id="fs-idp179184448">(b) La Tierra se formó hace alrededor de 4,7 <m:math><m:mo>×</m:mo></m:math> 10<sup>9</sup> (4.700 millones) de años. ¿Qué edad tenía la Tierra cuando el 99,999999 % del <sup>26</sup>Al que estaba presente originalmente había decaído?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp92569456">
+<problem id="fs-idp13762432">
+<para id="fs-idm28111776">Escriba una ecuación balanceada para cada una de las siguientes reacciones nucleares:</para>
+<para id="fs-idm52915712">a) el bismuto-212 decae en polonio-212</para>
+<para id="fs-idp90956192">b) el berilio-8 y un positrón se producen por el decaimiento de un núcleo inestable</para>
+<para id="fs-idp18279664">c) el neptunio-239 se forma a partir de la reacción del uranio-238 con un neutrón y luego se convierte espontáneamente en plutonio-239</para>
+<para id="fs-idp138334608">(d) el estroncio-90 decae en itrio-90</para>
+</problem>
+<solution id="fs-idp79201536">
+<para id="fs-idp82217344">(a) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>83</m:mn></m:mrow><m:mn>212</m:mn></m:msubsup><m:mtext>Bi</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>84</m:mn></m:mrow><m:mn>212</m:mn></m:msubsup><m:mtext>Po</m:mtext>
+
+<m:mo>+</m:mo><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow><m:mo>;</m:mo></m:mrow></m:math> (b) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>5</m:mn></m:mrow><m:mn>8</m:mn></m:msubsup><m:mtext>B</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mn>8</m:mn></m:msubsup><m:mtext>B</m:mtext>
+
+<m:mtext>e</m:mtext><m:mo>+</m:mo><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow><m:mo>;</m:mo></m:mrow></m:math> (c) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>92</m:mn></m:mrow><m:mn>238</m:mn></m:msubsup><m:mtext>U</m:mtext>
+
+<m:mo>+</m:mo>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>0</m:mn></m:mrow><m:mn>1</m:mn></m:msubsup><m:mtext>n</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>93</m:mn></m:mrow><m:mn>239</m:mn></m:msubsup><m:mtext>Np</m:mtext>
+
+<m:mo>+</m:mo><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>N</m:mtext>
+
+</m:mrow><m:mtext>p</m:mtext><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>93</m:mn></m:mrow><m:mn>239</m:mn></m:msubsup><m:mtext>Np</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>94</m:mn></m:mrow><m:mn>239</m:mn></m:msubsup><m:mtext>Pu</m:mtext>
+
+<m:mo>+</m:mo><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow><m:mo>;</m:mo></m:mrow></m:math> (d) <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>38</m:mn></m:mrow><m:mn>90</m:mn></m:msubsup><m:mtext>Sr</m:mtext>
+
+<m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mn>39</m:mn></m:mrow><m:mn>90</m:mn></m:msubsup><m:mtext>Y</m:mtext>
+
+<m:mo>+</m:mo><m:mrow>
+
+<m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext>
+
+</m:mrow></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-idm23721392">
+<problem id="fs-idm88394912">
+<para id="fs-idm29139968">Escriba una ecuación balanceada para cada una de las siguientes reacciones nucleares:</para>
+<para id="fs-idp133484688">(a) el mercurio-180 decae en platino-176</para>
+<para id="fs-idp136801104">b) el circonio-90 y un electrón se producen por el decaimiento de un núcleo inestable</para>
+<para id="fs-idp77337360">c) el torio-232 decae y produce una partícula alfa y un núcleo de radio-228, que decae en actinio-228 por decaimiento beta</para>
+<para id="fs-idm29267360">(d) el neón-19 decae en flúor-19</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm27965808">
+<term>decaimiento alfa (α)</term>
+<meaning id="fs-idp17132976">pérdida de una partícula alfa durante el decaimiento radiactivo</meaning>
+</definition>
+<definition id="fs-idp69613952"><term>decaimiento beta (β)</term>
+<meaning id="fs-idm16319536">decaimiento de un neutrón en un protón, que permanece en el núcleo, y un electrón, que se emite como partícula beta</meaning>
+</definition>
+<definition id="fs-idp69591216"><term>nucleido hija</term>
+<meaning id="fs-idm24043936">nucleido producido por el decaimiento radiactivo de otro nucleido; puede ser estable o decaer aún más</meaning>
+</definition>
+<definition id="fs-idm684928"><term>captura de electrones</term>
+<meaning id="fs-idp320659776">combinación de un electrón del núcleo con un protón para producir un neutrón dentro del núcleo</meaning>
+</definition>
+<definition id="fs-idm27366640"><term>emisión gama (γ)</term>
+<meaning id="fs-idm38900320">decaimiento de un nucleido estimulado, acompañada de la emisión de un rayo gama</meaning>
+</definition>
+<definition id="fs-idp172569488"><term>semivida (<emphasis effect="italics">t</emphasis><sub>1/2</sub>)</term>
+<meaning id="fs-idp135395600"> tiempo necesario para que decaiga la mitad de los átomos de una muestra radiactiva</meaning>
+</definition>
+<definition id="fs-idp55578096"><term>nucleido padre</term>
+<meaning id="fs-idm6469536">nucleido inestable que se transforma espontáneamente en otro nucleido (hija)</meaning>
+</definition>
+<definition id="fs-idm24356480"><term>emisión de positrones</term>
+<meaning id="fs-idm28207680">(también llamada decaimiento β<sup>+</sup>) conversión de un protón en un neutrón, que permanece en el núcleo, y un positrón que se emite</meaning>
+</definition>
+<definition id="fs-idp79161920"><term>decaimiento radiactivo</term>
+<meaning id="fs-idp184448864">decaimiento espontáneo de un nucleido inestable en otro nucleido</meaning>
+</definition>
+<definition id="fs-idp172690976"><term>serie de decaimiento radiactivo</term>
+<meaning id="fs-idp17883712">cadenas de decaimientos sucesivos (decaimientos radiactivos) que finalmente conducen a un producto final estable</meaning>
+</definition>
+<definition id="fs-idp10803760"><term>datación por radiocarbono</term>
+<meaning id="fs-idp179707392">medio extremadamente exacto para datar objetos de 30.000 a 50.000 años de antigüedad, que se derivaron de materia que alguna vez estuvo viva; se obtiene al calcular el cociente de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+
+</m:mrow></m:math> en el objeto frente al cociente de <m:math><m:mrow>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+<m:mtext>:</m:mtext><m:mspace width="0.2em"/>
+
+<m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext>
+
+</m:mrow></m:math> en la atmósfera actual</meaning>
+</definition>
+<definition id="fs-idp171940160"><term>datación radiométrica</term>
+<meaning id="fs-idp138702208">uso de radioisótopos y sus propiedades para datar la formación de objetos como artefactos arqueológicos, antiguos organismos vivos o formaciones geológicas</meaning>
+</definition>
+</glossary>
+</document>

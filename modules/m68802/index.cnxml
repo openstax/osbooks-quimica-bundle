@@ -1,0 +1,26 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introducción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68802</md:content-id>
+  <md:title>Introducción</md:title>
+  <md:abstract><list>
+<item>Ácidos y Bases de Brønsted-Lowry</item>
+<item>pH y pOH</item>
+<item>Fuerza relativa de los ácidos y las bases</item>
+<item>Hidrólisis de soluciones salinas</item>
+<item>Ácidos polipróticos</item>
+<item>Tampones</item>
+<item>Valoraciones ácido-base</item>
+</list></md:abstract>
+  <md:uuid>4abeb29f-5f24-4945-8beb-2c9c56c8d9bc</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_14_00_Sinkhole" class="splash">
+<media id="fs-idp47373024" alt="Se muestra una fotografía de un estanque formado en un sumidero. Capas de piedra caliza con árboles y arbustos rodean el agua verde y turbia del estanque.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_00_Sinkhole.jpg"/>
+</media>
+<caption>Los sumideros como este son el resultado de las reacciones entre las aguas subterráneas ácidas y las formaciones rocosas básicas, como la piedra caliza. (crédito: modificación del trabajo de Emil Kehnel).</caption>
+</figure>
+<para id="fs-idp162964256">El agua líquida es esencial para la vida en nuestro planeta y la química en la que intervienen los iones característicos del agua, H<sup>+</sup> y OH<sup>-</sup>, se encuentra ampliamente en la naturaleza y en la sociedad. Como se introdujo en otro capítulo de este texto, la química ácido-base implica la transferencia de iones de hidrógeno desde los donantes (ácidos) a los aceptores (bases). Estas reacciones de transferencia de H+ son reversibles, y los equilibrios establecidos por los sistemas ácido-base son aspectos esenciales de fenómenos que van desde la formación de sumideros (<link target-id="CNX_Chem_14_00_Sinkhole"/>) hasta el transporte de oxígeno en el cuerpo humano. En este capítulo se profundizará en la química ácido-base haciendo hincapié en los aspectos de equilibrio de esta importante clase de reacciones.</para>   </content>
+</document>

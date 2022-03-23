@@ -1,0 +1,364 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Teoría de colisiones</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68793</md:content-id>
+  <md:title>Teoría de colisiones</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list><item>Utilizar los postulados de la teoría de colisiones para explicar los efectos del estado físico, la temperatura y la concentración en las velocidades de reacción</item>
+<item>Definir los conceptos de energía de activación y estado de transición</item>
+<item>Utilizar la ecuación de Arrhenius en los cálculos que relacionan las constantes de velocidad con la temperatura</item></list></md:abstract>
+  <md:uuid>c63c9485-0971-4fce-a831-9d1b2ace526a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm107951360">No debe sorprendernos que los átomos, las moléculas o los iones deban colisionar para poder reaccionar entre sí. Los átomos deben estar cerca unos de otros para formar enlaces químicos. Esta sencilla premisa es la base de una teoría muy potente que explica muchas observaciones relativas a la cinética química, incluidos los factores que afectan a la velocidad de reacción.</para>
+<para id="fs-idm148062976">La <term>teoría de colisiones</term> se basa en los siguientes postulados:</para>
+<list id="fs-idm90348816" list-type="enumerated" number-style="arabic">
+<item><para id="fs-idm136564352">La velocidad de una reacción es proporcional a la velocidad de colisión de los reactivos:</para>
+<equation class="unnumbered" id="fs-idm98497056"><m:math><m:mrow><m:mtext>velocidad de reacción</m:mtext><m:mspace width="0.2em"/><m:mo>∝</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo>N.º de</m:mo><m:mspace width="0.2em"/><m:mtext>colisiones</m:mtext></m:mrow><m:mrow><m:mtext>tiempo</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation></item>
+<item><para id="fs-idm124479808">Las especies que reaccionan deben chocar en una orientación que permita el contacto entre los átomos que se unirán en el producto.</para></item>
+<item><para id="fs-idm122867808">La colisión debe producirse con la energía adecuada para permitir la penetración mutua de las capas de valencia de las especies que reaccionan de modo que los electrones puedan reorganizarse y formar nuevos enlaces (y nuevas especies químicas).</para></item>
+</list>
+<para id="fs-idm60879872">Podemos ver la importancia de los dos factores físicos señalados en los postulados 2 y 3, la orientación y la energía de las colisiones, cuando consideramos la reacción del monóxido de carbono con el oxígeno:</para>
+<equation class="unnumbered" id="fs-idm160481344"><m:math><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>CO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp29940560">El monóxido de carbono es un contaminante producido por la combustión de combustibles de hidrocarburos. Para reducir este contaminante, los automóviles disponen de convertidores catalíticos que utilizan un catalizador para llevar a cabo esta reacción. También es una reacción secundaria de la combustión de la pólvora que da lugar al fogonazo de muchas armas de fuego. Si el monóxido de carbono y el oxígeno están presentes en cantidades suficientes, la reacción se producirá a temperatura y presión altas.</para>
+<para id="fs-idm121786272">El primer paso en la reacción en fase gaseosa entre el monóxido de carbono y el oxígeno es una colisión entre las dos moléculas:</para>
+<equation class="unnumbered" id="fs-idm53948736"><m:math><m:mrow><m:mtext>CO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>O(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm34761136">Aunque hay muchas orientaciones posibles que las dos moléculas pueden tener entre sí, considere las dos presentadas en la <link target-id="CNX_Chem_12_05_COandO2"/>. En el primer caso, el lado del oxígeno de la molécula de monóxido de carbono choca con la molécula de oxígeno. En el segundo caso, el lado del carbono de la molécula de monóxido de carbono choca con la molécula de oxígeno. El segundo caso es claramente más probable que dé lugar a la formación de dióxido de carbono, que tiene un átomo de carbono central unido a dos átomos de oxígeno <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>O</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> Este es un ejemplo bastante sencillo de lo importante que es la orientación de la colisión para crear el producto deseado de la reacción.</para>
+<figure id="CNX_Chem_12_05_COandO2" class="scaled-down">
+<media id="fs-idm101946976" alt="Se muestra un diagrama que ilustra dos posibles colisiones entre C O y O subíndice 2. En el diagrama, los átomos de oxígeno se representan como esferas rojas y los de carbono como esferas negras. El diagrama está dividido en las mitades superior e inferior por una línea horizontal discontinua. En la parte superior izquierda, se muestra una molécula de C O que choca con una molécula de O subíndice 2 de forma que el átomo de O de la molécula de C O está en el punto de colisión. Alrededor de esta colisión hay una mezcla de moléculas de C O y O subíndice 2 de diferentes tamaños. En la zona superior central de la figura, dos átomos de O separados se muestran como esferas rojas con la etiqueta &quot;Oxígeno a oxígeno&quot; debajo. En la parte superior derecha está escrito &quot;Sin reacción&quot;. Del mismo modo, en la parte inferior izquierda del diagrama, se muestra una molécula de C O que choca con una molécula de O subíndice 2, de forma que el átomo de C de la molécula de C O se encuentra en el punto de colisión. Alrededor de esta colisión hay una mezcla de moléculas de C O y O subíndice 2 de diferentes tamaños. En la zona central inferior de la figura, se muestran una esfera negra y otra roja con la etiqueta &quot;Carbono a oxígeno&quot; debajo de ellas. En la parte inferior derecha se puede leer &quot;Más formación de C O subíndice 2&quot; y se muestran tres modelos de C O subíndice 2 compuestos cada uno por una sola esfera negra central y dos esferas rojas en disposición lineal.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_05_COandO2.jpg"/>
+</media>
+<caption>Se ilustran dos colisiones que pueden tener lugar entre las moléculas de monóxido de carbono y de oxígeno. La orientación de las moléculas que chocan determina en parte que se produzca una reacción entre las dos moléculas.</caption>
+</figure>
+<para id="fs-idm58992896">Si la colisión se produce con la orientación correcta, todavía no hay garantía de que la reacción proceda a formar dióxido de carbono. Además de una orientación adecuada, la colisión debe producirse con la energía suficiente para dar lugar a la formación de productos. Cuando las especies de reactivos chocan con la orientación correcta y la energía adecuada, se combinan para formar una especie inestable llamada <term>complejo activado</term> o <term>estado de transición</term>. Estas especies tienen una vida muy corta y suelen ser indetectables por la mayoría de los instrumentos analíticos. En algunos casos, se han utilizado mediciones espectrales sofisticadas para observar los estados de transición.</para>
+<para id="fs-idm207258608">La teoría de colisiones explica por qué la mayoría de las velocidades de reacción aumentan a medida que aumentan las concentraciones. Al aumentar la concentración de cualquier sustancia que reaccione, aumentan las posibilidades de colisión entre las moléculas porque hay más moléculas por unidad de volumen. Más colisiones significan una velocidad de reacción más rápida, suponiendo que la energía de las colisiones sea adecuada.</para>
+<section id="fs-idm122484320">
+<title>Energía de activación y ecuación de Arrhenius</title>
+<para id="fs-idm102149680">La energía mínima necesaria para formar un producto durante una colisión entre reactivos se denomina <term>energía de activación (<emphasis effect="italics">E</emphasis><sub>a</sub>)</term>. La comparación de esta energía con la energía cinética proporcionada por las moléculas reaccionantes en colisión es un factor primordial que afecta a la velocidad de una reacción química. Si la energía de activación es mucho mayor que la energía cinética media de las moléculas, la reacción se producirá lentamente, ya que solo unas pocas moléculas que se mueven rápidamente tendrán suficiente energía para reaccionar. Si la energía de activación es mucho menor que la energía cinética media de las moléculas, una gran fracción de moléculas tendrá la energía adecuada y la reacción procederá rápidamente.</para>
+<para id="fs-idm3588352">La <link target-id="CNX_Chem_12_05_RCooDgm"/> muestra cómo cambia la energía de un sistema químico al sufrir una reacción que convierte los reactivos en productos según la ecuación</para>
+<equation class="unnumbered" id="fs-idm156839952"><m:math><m:mrow><m:mi>A</m:mi><m:mo>+</m:mo><m:mi>B</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>C</m:mi><m:mo>+</m:mo><m:mi>D</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm92123120">Estos <term>diagramas de reacción</term> se utilizan ampliamente en la cinética química para ilustrar diversas propiedades de la reacción de interés. Viendo el diagrama de izquierda a derecha, el sistema comprende inicialmente solo reactivos, <emphasis effect="italics">A</emphasis> + <emphasis effect="italics">B</emphasis>. Las moléculas de reactivos con suficiente energía pueden colisionar para formar un complejo activado de alta energía o estado de transición. El estado de transición inestable puede decaer posteriormente para dar lugar a productos estables, <emphasis effect="italics">C</emphasis> + <emphasis effect="italics">D</emphasis>. El diagrama representa la energía de activación de la reacción, <emphasis effect="italics">E<sub>a</sub></emphasis>, como la diferencia de energía entre los reactivos y el estado de transición. Utilizando una energía específica, la <emphasis effect="italics">entalpía</emphasis> (vea el capítulo sobre termoquímica), el cambio de entalpía de la reacción, Δ<emphasis effect="italics">H</emphasis>, se estima como la diferencia de energía entre los reactivos y los productos. En este caso, la reacción es exotérmica (Δ<emphasis effect="italics">H</emphasis> &lt; 0) ya que produce una disminución de la entalpía del sistema.</para>
+<figure id="CNX_Chem_12_05_RCooDgm" class="scaled-down"><media id="fs-idp10189104" alt="Se muestra un gráfico con la etiqueta &quot;Alcance de la reacción&quot; en el eje x y la etiqueta &quot;Energía&quot; en el eje y. Sobre el eje x, una parte de la curva está etiquetada como &quot;A más B&quot;. Desde el extremo derecho de esta región, la curva cóncava descendente continúa hacia arriba hasta alcanzar un máximo cerca de la altura del eje y. El pico de esta curva está etiquetado como &quot;Estado de transición&quot;. Una flecha de doble cara se extiende desde una línea horizontal roja discontinua que se origina en el eje y en un punto final común con la curva hasta el pico de la curva. Esta flecha está marcada como &quot;E subíndice a&quot;. Se traza un segundo segmento de línea discontinua roja horizontal desde el extremo derecho de la curva negra hacia la izquierda hasta el eje vertical en un nivel significativamente inferior al extremo inicial de la curva etiquetada como &quot;A más B&quot;. El extremo de la curva que se comparte con este segmento está etiquetado como &quot;C más D&quot;. La curva, que inicialmente era discontinua, continúa como una curva sólida desde el máximo hasta su punto final en el lado derecho del diagrama. Se muestra una segunda flecha de doble cara. Esta flecha se extiende entre las dos líneas horizontales discontinuas y está etiquetada como &quot;delta mayúscula H&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_05_RCooDgm.jpg"/>
+</media>
+<caption>Diagrama de la reacción exotérmica <m:math><m:mrow><m:mi>A</m:mi><m:mo>+</m:mo><m:mi>B</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>C</m:mi><m:mo>+</m:mo><m:mi>D</m:mi><m:mo>.</m:mo></m:mrow></m:math></caption></figure><para id="fs-idm93458160">La <term>ecuación de Arrhenius</term> relaciona la energía de activación y la constante de velocidad, <emphasis effect="italics">k</emphasis>, para muchas reacciones químicas:</para>
+<equation class="unnumbered" id="fs-idm62676240"><m:math><m:mrow><m:mi>k</m:mi><m:mo>=</m:mo><m:mi>A</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mtext>-</m:mtext><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub><m:mtext>/</m:mtext><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp69522176">En esta ecuación, <emphasis effect="italics">R</emphasis> es la constante de gas ideal, que tiene un valor de 8,314 J/mol/K, T es la temperatura en la escala Kelvin, <emphasis effect="italics">E</emphasis><sub>a</sub> es la energía de activación en joules por mol, <emphasis effect="italics">e</emphasis> es la constante 2,7183 y <emphasis effect="italics">A</emphasis> es una constante llamada <term>factor de frecuencia</term> que está relacionada con la frecuencia de las colisiones y la orientación de las moléculas que reaccionan.</para>
+<para id="fs-idm378964576">Los postulados de la teoría de las colisiones se acomodan muy bien a la ecuación de Arrhenius. El factor de frecuencia, <emphasis effect="italics">A</emphasis>, refleja en qué medida las condiciones de reacción favorecen las colisiones correctamente orientadas entre las moléculas de los reactivos. Una mayor probabilidad de colisiones orientadas efectivamente da lugar a valores mayores de <emphasis effect="italics">A</emphasis> y a velocidades de reacción más rápidas.</para>
+<para id="fs-idm493145248">El término exponencial, <emphasis effect="italics">e<sup>−Ea/RT</sup></emphasis>, describe el efecto de la energía de activación sobre la velocidad de reacción. Según la teoría cinética molecular (vea el capítulo sobre los gases), la temperatura de la materia es una medida de la energía cinética media de los átomos o moléculas que la componen. La distribución de energías entre las moléculas que componen una muestra de materia a cualquier temperatura se describe mediante el gráfico que se muestra en la <link target-id="CNX_Chem_12_05_SuccessR"/>(<emphasis>a</emphasis>). Dos áreas sombreadas bajo la curva representan el número de moléculas que poseen la energía adecuada (<emphasis effect="italics">RT</emphasis>) para superar las barreras de activación (<emphasis effect="italics">E<sub>a</sub></emphasis>). Una energía de activación más baja da lugar a una mayor fracción de moléculas adecuadamente energizadas y a una reacción más rápida.</para><para id="fs-idm494984112">El término exponencial también describe el efecto de la temperatura en la velocidad de reacción. Una mayor temperatura representa una fracción correspondientemente mayor de moléculas que poseen suficiente energía (<emphasis effect="italics">RT</emphasis>) para superar la barrera de activación (<emphasis effect="italics">E<sub>a</sub></emphasis>), como se muestra en la <link target-id="CNX_Chem_12_05_SuccessR"/>(<emphasis>b</emphasis>). De este modo se obtiene un valor mayor de la constante de velocidad y una velocidad de reacción correspondientemente más rápida.</para><figure id="CNX_Chem_12_05_SuccessR" class="scaled-down">
+<media id="fs-idm214984320" alt="Se muestran dos gráficos, cada uno etiquetado con &quot;Energía cinética&quot; en el eje x y con &quot;Fracción de moléculas&quot; en el eje y. Cada uno de ellos contiene una curva con sesgo positivo indicada en rojo que comienza en el origen y se acerca al eje x en el lado derecho del gráfico. En a, una región pequeña bajo el extremo derecho de la curva está sombreada de naranja. Una flecha señala hacia abajo desde la parte superior de la curva hasta el extremo izquierdo de esta región, donde comienza el sombreado. Esta flecha está etiquetada como &quot;Mayor energía de activación, E subíndice a&quot;. En b, aparece la misma curva roja y se dibuja una segunda curva en negro. También tiene un sesgo positivo, pero alcanza un valor máximo más bajo y adquiere un aspecto más amplio en comparación con la curva en rojo. En este gráfico, la curva roja está etiquetada como &quot;T subíndice 1&quot; y la curva negra como &quot;T subíndice 2&quot;. En el espacio abierto de la parte superior derecha del gráfico aparece la etiqueta &quot;T subíndice 1 menor que T subíndice 2&quot;. Al igual que en el primer gráfico, la región bajo las curvas del extremo derecho está sombreada de color naranja y una flecha hacia abajo etiquetada como &quot;E subíndice a&quot; apunta el extremo izquierdo de esta región sombreada.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_05_SuccessR.jpg"/>
+</media>
+<caption>Distribuciones de energía molecular que muestran el número de moléculas con energías que superan (a) dos energías de activación diferentes a una temperatura dada, y (b) una energía de activación dada a dos temperaturas diferentes.</caption>
+</figure>
+<para id="fs-idm217118448">Un enfoque conveniente para determinar <emphasis effect="italics">E</emphasis><sub>a</sub> para una reacción implica la medición de <emphasis effect="italics">k</emphasis> a dos o más temperaturas diferentes y el uso de una versión alternativa de la ecuación de Arrhenius que toma la forma de una ecuación lineal</para><equation class="unnumbered" id="fs-idm197895136"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>k</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>-</m:mtext><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>A</m:mi></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mi>y</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>m</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm161357136">Un gráfico de ln <emphasis effect="italics">k</emphasis> versus <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow></m:math> es lineal con una pendiente igual a <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>-</m:mtext><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac></m:mrow></m:math> y una intersección en <emphasis effect="italics">y</emphasis> igual a ln <emphasis effect="italics">A</emphasis>.</para>
+<example id="fs-idm160727824">
+<para id="fs-idp108035392"><title>Determinación de <emphasis effect="italics">E</emphasis><sub>a</sub></title>
+A continuación se muestra la variación de la constante de velocidad con la temperatura para la descomposición de HI(<emphasis effect="italics">g</emphasis>) en H<sub>2</sub>(<emphasis effect="italics">g</emphasis>) e I<sub>2</sub>(<emphasis effect="italics">g</emphasis>). ¿Cuál es la energía de activación de la reacción?</para>
+<equation class="unnumbered" id="fs-idm205868496"><m:math><m:mrow><m:mtext>2HI(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<table id="fs-idm125968016" summary="La tabla tiene dos columnas y seis filas. La primera columna está marcada como &quot;T ( K )&quot; y la segunda como &quot;k ( L / mol / s )&quot;. En la primera columna están los números: 555, 575, 645, 700 y 781. En la segunda columna están los números: 3,52 por diez al 7 negativo, 1,22 por diez al 6 negativo, 8,59 por diez al 5 negativo, 1,16 por diez al 3 negativo y 3,95 por diez al 2 negativo." class="unnumbered">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry align="left"><emphasis effect="italics">T</emphasis> (K)</entry>
+<entry align="left"><emphasis effect="italics">k</emphasis> (L/mol/s)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">555</entry>
+<entry align="left">3,52 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">575</entry>
+<entry align="left">1,22 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">645</entry>
+<entry align="left">8,59 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">700</entry>
+<entry align="left">1,16 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">781</entry>
+<entry align="left">3,95 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm178775392"><title>Solución</title>
+Utilice los datos proporcionados para obtener los valores de <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow></m:math> e ln <emphasis effect="italics">k</emphasis>:</para>
+<table id="fs-idp10812288" summary="La tabla tiene dos columnas y seis filas. La primera fila está marcada como &quot;1 sobre T ( K superíndice negativo 1 )&quot; y &quot;l n k&quot;. En la primera columna están los números: 1,80 por diez al 3 negativo, 1,74 por diez al 3 negativo, 1,55 por diez al 3 negativo, 1,43 por diez al 3 negativo y 1,28 por diez al 3 negativo. En la segunda columna están los números: 14,860 negativo, 13,617 negativo, 9,362 negativo, 6,759 negativo y 3,231 negativo." class="unnumbered">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>T</m:mtext></m:mfrac><m:mspace width="0.4em"/><m:mo stretchy="false">(</m:mo><m:msup><m:mtext>K</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo></m:mrow></m:math></entry>
+<entry align="left">ln <emphasis effect="italics">k</emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">1,80 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+<entry align="left">-14,860</entry>
+</row>
+<row valign="middle">
+<entry align="left">1,74 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+<entry align="left">-13,617</entry>
+</row>
+<row valign="middle">
+<entry align="left">1,55 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+<entry align="left">-9,362</entry>
+</row>
+<row valign="middle">
+<entry align="left">1,43 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+<entry align="left">-6,759</entry>
+</row>
+<row valign="middle">
+<entry align="left">1,28 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+<entry align="left">-3,231</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm197951232">La <link target-id="CNX_Chem_12_05_ArrhPlot"/> es un gráfico de ln <emphasis effect="italics">k</emphasis> versus <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> En la práctica, la ecuación de la línea (pendiente e intersección en <emphasis effect="italics">y</emphasis>) que mejor se ajusta a estos puntos de datos trazados se obtendría mediante un proceso estadístico llamado regresión. Esto es útil para la mayoría de los datos experimentales porque rara vez se encuentra un ajuste perfecto de cada punto de datos con la línea. Para los datos de este caso, el ajuste es casi perfecto y la pendiente puede estimarse utilizando dos de los pares de datos proporcionados. El uso de los primeros y últimos puntos de datos permite estimar la pendiente.</para>
+<figure id="CNX_Chem_12_05_ArrhPlot" class="scaled-down">
+<media id="fs-idp9885216" alt="Se muestra un gráfico etiquetado como &quot;1 dividido entre T (K superíndice negativo 1)&quot; en el eje x e &quot;ln k&quot; en el eje y. El eje horizontal tiene marcas a 1,4 por 10 superíndice negativo 3, 1,6 por 10 superíndice negativo 3 y 1,8 por 10 superíndice negativo 3. El eje y muestra marcas a intervalos de 2 desde negativo 14 hasta negativo 2. Se dibuja una línea de tendencia lineal decreciente a través de cinco puntos en las coordenadas: (1,28 por 10 superíndice negativo 3, negativo 3,231), (1,43 por 10 superíndice negativo 3, negativo 6,759), (1,55 por 10 superíndice negativo 3, negativo 9,362), (1,74 por 10 superíndice negativo 3, negativo 13,617) y (1,80 por 10 superíndice negativo 3, negativo 14,860). Se traza una línea vertical discontinua desde un punto justo a la izquierda del punto de datos más cercano al eje y. Del mismo modo, se traza una línea horizontal discontinua desde un punto justo por encima del punto de datos más cercano al eje x. Estas líneas discontinuas se cruzan para formar un triángulo rectángulo con un cateto vertical etiquetado como &quot;delta mayúscula ln k&quot; y un cateto horizontal etiquetado como &quot;delta mayúscula 1 dividido entre T&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_05_ArrhPlot.jpg"/>
+</media>
+<caption>Este gráfico muestra la relación lineal entre ln <emphasis effect="italics">k</emphasis> y <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow></m:math> para la reacción <m:math><m:mrow><m:mtext>2HI</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math> según la ecuación de Arrhenius.</caption>
+</figure>
+<equation class="unnumbered" id="fs-idm185373632"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>Pendiente</m:mtext></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>k</m:mi><m:mo stretchy="false">).</m:mo></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>-14,860</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>-3,231</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,80</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,28</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>-11,629</m:mn></m:mrow><m:mrow><m:mn>0,52</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mn>-2,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mo>-</m:mo><m:mfrac><m:mrow><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>−pendiente</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>R</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mo stretchy="false">(</m:mo><m:mn>-2,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>8,314 J mol</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>1,8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>J</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>mol</m:mtext><m:mn>-1</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>o</m:mtext><m:mspace width="0.2em"/><m:mn>180</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>mol</m:mtext><m:mn>-1</m:mn></m:msup></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm158222928">Enfoque alternativo: Un enfoque más conveniente consiste en deducir la energía de activación a partir de las mediciones de la constante de velocidad a solo dos temperaturas. En este enfoque, la ecuación de Arrhenius se reordena a una forma conveniente de dos puntos:</para>
+<equation class="unnumbered" id="fs-idm43403824"><m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>k</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>–</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm47402880">Reordenando esta ecuación para aislar la energía de activación se obtiene:</para>
+<equation class="unnumbered" id="fs-idm153647280"><m:math><m:mrow><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mtext>-</m:mtext><m:mi>R</m:mi><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>k</m:mi><m:mn>2 </m:mn></m:msub><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>k</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm208269280">En esta ecuación se pueden sustituir dos pares de datos cualesquiera, por ejemplo, la primera y la última entrada de la tabla de datos anterior:</para>
+<equation class="unnumbered" id="fs-idm152804224"><m:math><m:mrow><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mn>-8,314</m:mn><m:mspace width="0.2em"/><m:mtext>J</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>-3,231</m:mn><m:mo>-</m:mo><m:mo stretchy="false">(</m:mo><m:mn>-14,860</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>1,28</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mn>1,80</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm101188896">y el resultado es <emphasis effect="italics">E</emphasis><sub>a</sub><emphasis effect="italics"/> = 1,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup> J mol<sup>−1</sup> o 180 kJ mol<sup>−1</sup></para>
+<para id="fs-idm65968064">Este enfoque da el mismo resultado que el enfoque gráfico más riguroso utilizado anteriormente, como era de esperar. En la práctica, el enfoque gráfico suele proporcionar resultados más fiables cuando se trabaja con datos experimentales reales.</para>
+<para id="fs-idm90823520"><title>Compruebe lo aprendido</title>
+La constante de velocidad de descomposición del N<sub>2</sub>O<sub>5</sub> en NO y O<sub>2</sub> en la fase gaseosa es de 1,66 L/mol/s a 650 K y de 7,39 L/mol/s a 700 K:</para>
+<equation class="unnumbered" id="fs-idm184015216"><m:math><m:mrow><m:msub><m:mrow><m:mtext>2N</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm93319152">Suponiendo que la cinética de esta reacción es consistente con la ecuación de Arrhenius, calcule la energía de activación para esta descomposición.</para>
+<note id="fs-idp70913968"><title>Respuesta:</title>
+<para id="fs-idm147992368">1,1 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup> J mol<sup>−1</sup> o 110 kJ mol<sup>−1</sup></para>
+</note>
+</example>
+</section>
+<section id="fs-idm92128240" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm197754848">Las reacciones químicas suelen requerir colisiones entre las especies de reactivos. Estas colisiones de los reactivos deben tener una orientación adecuada y una energía suficiente para dar lugar a la formación de productos. La teoría de colisiones ofrece una explicación sencilla pero eficaz del efecto de muchos parámetros experimentales sobre las velocidades de reacción. La ecuación de Arrhenius describe la relación entre la constante de velocidad de una reacción, la energía de activación, la temperatura y la dependencia de la orientación de la colisión.</para>
+</section>
+<section id="fs-idp2946768" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mi>k</m:mi><m:mo>=</m:mo><m:mi>A</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mtext>-</m:mtext><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub><m:mtext>/</m:mtext><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:msup></m:mrow></m:math></entry>
+</row>
+<row><entry>Los términos <m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>k</m:mi><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>-</m:mtext><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>A</m:mi></m:mrow></m:math></entry>
+</row>
+<row><entry>Los términos <m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>k</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>–</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idm193786736" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idp801808">
+<problem id="fs-idm111422448">
+<para id="fs-idm138313152">Las reacciones químicas se producen cuando los reactivos chocan. ¿Cuáles son los dos factores que pueden impedir que una colisión produzca una reacción química?</para>
+</problem>
+<solution id="fs-idm141111568">
+<para id="fs-idm120309360">Es posible que los reactivos se muevan con demasiada lentitud como para tener suficiente energía cinética para superar la energía de activación de la reacción, o que la orientación de las moléculas al chocar impida que se produzca la reacción.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm147445136">
+<problem id="fs-idm196665952">
+<para id="fs-idm80456160">Cuando cada colisión entre reactivos da lugar a una reacción, ¿qué determina la velocidad a la que se produce la reacción?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm141471856">
+<problem id="fs-idm117247392">
+<para id="fs-idm166625232">¿Qué es la energía de activación de una reacción y cómo se relaciona esta energía con el complejo activado de la reacción?</para>
+</problem>
+<solution id="fs-idm59730304">
+<para id="fs-idm218647200">La energía de activación es la cantidad mínima de energía necesaria para formar el complejo activado en una reacción. Suele expresarse como la energía necesaria para formar un mol de complejo activado.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm190953584">
+<problem id="fs-idm226629184">
+<para id="fs-idm157823696">Explique la relación entre la velocidad de una reacción y su energía de activación.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm162997840">
+<problem id="fs-idm111355312">
+<para id="fs-idm200002080">Describa cómo pueden utilizarse los métodos gráficos para determinar la energía de activación de una reacción a partir de una serie de datos que incluyen la velocidad de reacción a distintas temperaturas.</para>
+</problem>
+<solution id="fs-idm197529248">
+<para id="fs-idp8882000">Después de hallar <emphasis effect="italics">k</emphasis> a varias temperaturas diferentes, un gráfico de ln <emphasis effect="italics">k</emphasis> versus <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> da una línea recta con la pendiente <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>-</m:mtext><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac></m:mrow></m:math> a partir de la cual se puede determinar <emphasis effect="italics">E</emphasis><sub>a</sub>.</para></solution>
+</exercise>
+<exercise id="fs-idm122581792">
+<problem id="fs-idm96856672">
+<para id="fs-idp66405264">¿Cómo afecta el aumento de la temperatura a la velocidad de reacción? Explique este efecto en términos de la teoría de colisiones de la velocidad de reacción.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm166001648">
+<problem id="fs-idm112163216">
+<para id="fs-idm148748368">La velocidad de una determinada reacción se duplica por cada 10 °C de aumento de la temperatura.</para>
+<para id="fs-idm89923680">(a) ¿Cuánto más rápido se produce la reacción a 45 °C que a 25 °C?</para>
+<para id="fs-idp8809520">(b) ¿Cuánto más rápido se produce la reacción a 95 °C que a 25 °C?</para>
+</problem>
+<solution id="fs-idm124864272">
+<para id="fs-idm162680736">(a) 4 veces más rápido (b) 128 veces más rápido</para>
+</solution>
+</exercise>
+<exercise id="fs-idm67340288">
+<problem id="fs-idm132914128">
+<para id="fs-idm128098912">En un experimento, una muestra de NaClO<sub>3</sub> se descompuso en un 90% en 48 min. ¿Cuánto tiempo habría tardado aproximadamente esta descomposición si la muestra se hubiera calentado 20 °C más? (Pista: Supongamos que la velocidad se duplica por cada 10 °C de aumento de la temperatura).</para></problem>
+</exercise>
+<exercise id="fs-idm128511072">
+<problem id="fs-idm146373568">
+<para id="fs-idm217872032">La constante de velocidad a 325 °C para la reacción de descomposición <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mn>2</m:mn><m:mtext>C</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub></m:mrow></m:math> es 6,1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−8</sup> s<sup>−1</sup>, y la energía de activación es de 261 kJ por mol de C<sub>4</sub>H<sub>8</sub>. Determine el factor de frecuencia de la reacción.</para>
+</problem>
+<solution id="fs-idm207232976">
+<para id="fs-idm183272112"><m:math><m:mrow><m:mn>3,9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idm129065792">
+<problem id="fs-idm151360688">
+<para id="fs-idm149341008">La constante de velocidad para la descomposición del acetaldehído, CH<sub>3</sub>CHO, en metano, CH<sub>4</sub>, y monóxido de carbono, CO, en la fase gaseosa es de 1,1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup> L mol<sup>−1</sup> s<sup>−1</sup> a 703 K y 4,95 L mol<sup>−1</sup> s<sup>−1</sup> a 865 K. Determine la energía de activación para esta descomposición.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm131383728">
+<problem id="fs-idp9104560">
+<para id="fs-idp9104816">Un nivel elevado de la enzima fosfatasa alcalina (FA) en el suero humano es una indicación de un posible trastorno hepático u óseo. El nivel de la enzima FA en suero es tan bajo que es muy difícil de medir directamente. Sin embargo, la enzima FA cataliza una serie de reacciones, y su concentración relativa puede determinarse midiendo la velocidad de una de estas reacciones en condiciones controladas. Una de estas reacciones es la conversión del p-nitrofenilfosfato (pNPP) en ion de p-nitrofenol (pNP) e ion de fosfato. El control de la temperatura durante el ensayo es muy importante; la velocidad de la reacción aumenta 1,47 veces si la temperatura cambia de 30 °C a 37 °C. ¿Cuál es la energía de activación para la conversión catalizada por la enzima FA de pNPP en pNP y fosfato?</para></problem>
+<solution id="fs-idm91586224">
+<para id="fs-idm91585968">43,0 kJ/mol</para>
+</solution>
+</exercise>
+<exercise id="fs-idm3600240">
+<problem id="fs-idm167826112">
+<para id="fs-idm167825856">En términos de la teoría de colisiones, ¿con cuál de los siguientes elementos es proporcional la velocidad de una reacción química?</para>
+<para id="fs-idm59720032">(a) el cambio de energía libre por segundo</para>
+<para id="fs-idm54796736">b) el cambio de temperatura por segundo</para>
+<para id="fs-idm154039232">c) el número de colisiones por segundo</para>
+<para id="fs-idm154038848">d) el número de moléculas del producto</para>
+</problem>
+</exercise>
+<exercise id="fs-idm58458096">
+<problem id="fs-idm93524944">
+<para id="fs-idm93524688">El yoduro de hidrógeno, HI, se descompone en la fase gaseosa para producir hidrógeno, H<sub>2</sub>, y yodo, I<sub>2</sub>. El valor de la constante de velocidad, <emphasis effect="italics">k</emphasis>, para la reacción se midió a varias temperaturas diferentes y a continuación se muestran los datos:<newline/>
+<table id="fs-idm124800496" summary="Esta tabla tiene dos columnas y cinco filas. La primera columna está marcada como &quot;Temperatura ( K )&quot; y la segunda como &quot;k ( M superíndice 1 s negativo superíndice 1 negativo )&quot;. En la primera columna están los números: 555, 575, 645, y 700. En la segunda columna están los números: 6,23 por diez al 7 negativo, 2,42 por diez al 6 negativo, 1,44 por diez al 4 negativo y 2,01 por diez al 3 negativo." class="unnumbered">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry align="left">Temperatura (K)</entry>
+<entry align="left"><emphasis effect="italics">k</emphasis> (L mol<sup>−1</sup> s<sup>−1</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">555</entry>
+<entry align="left">6,23 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">575</entry>
+<entry align="left">2,42 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">645</entry>
+<entry align="left">1,44 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">700</entry>
+<entry align="left">2,01 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+<para id="fs-idm134024464">¿Cuál es el valor de la energía de activación (en kJ/mol) para esta reacción?</para>
+</problem>
+<solution id="fs-idp826800">
+<para id="fs-idm124657264">177 kJ/mol</para>
+</solution>
+</exercise>
+<exercise id="fs-idm166518032">
+<problem id="fs-idm166517776">
+<para id="fs-idm93329056">El elemento Co existe en dos estados de oxidación, Co(II) y Co(III), y los iones forman muchos complejos. Se midió la velocidad de reducción de uno de los complejos de Co(III) por Fe(II) en agua. Determine la energía de activación de la reacción a partir de los siguientes datos:<newline/>
+<table id="fs-idm163198896" summary="Esta tabla contiene dos columnas y tres filas. La primera fila es una fila de encabezado, y marca cada columna como &quot;T ( K )&quot; y &quot;k ( s superíndice 1 negativo )&quot;. En la primera columna están los números 293 y 298. En la segunda columna están los números 0,054 y 0,100." class="unnumbered">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry align="left"><emphasis effect="italics">T</emphasis> (K)</entry>
+<entry align="left"><emphasis effect="italics">k</emphasis> (s<sup>−1</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">293</entry>
+<entry align="left">0,054</entry>
+</row>
+<row valign="middle">
+<entry align="left">298</entry>
+<entry align="left">0,100</entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+</problem>
+</exercise>
+<exercise id="fs-idm167771040">
+<problem id="fs-idm167770784">
+<para id="fs-idm65384176">La hidrólisis del azúcar sacarosa a los azúcares glucosa y fructosa,<newline/> <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>22</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>11</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>6</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>6</m:mn></m:msub></m:mrow></m:math></para>
+<para id="fs-idm106774224">sigue una ley de velocidad de primer orden para la desaparición de la sacarosa: velocidad = <emphasis effect="italics">k</emphasis>[C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>] (los productos de la reacción, la glucosa y la fructosa, tienen las mismas fórmulas moleculares pero difieren en la disposición de los átomos en sus moléculas).</para>
+<para id="fs-idm1605904">(a) En solución neutra, <emphasis effect="italics">k</emphasis> = 2,1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−11</sup> s<sup>−1</sup> a 27 °C y 8,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−11</sup> s<sup>−1</sup> a 37 °C. Determine la energía de activación, el factor de frecuencia y la constante de velocidad para esta ecuación a 47 °C (suponiendo que la cinética sigue siendo coherente con la ecuación de Arrhenius a esta temperatura).</para>
+<para id="fs-idm94994288">b) Cuando una solución de sacarosa con una concentración inicial de 0,150 <emphasis effect="italics">M</emphasis> alcanza el equilibrio, la concentración de sacarosa es de 1,65 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup> <emphasis effect="italics">M</emphasis>. ¿Cuánto tardará la solución en alcanzar el equilibrio a 27 °C en ausencia de un catalizador? Como la concentración de sacarosa en el equilibrio es tan baja, suponga que la reacción es irreversible.</para>
+<para id="fs-idm124435200">(c) ¿Por qué suponer que la reacción es irreversible simplifica el cálculo de la parte (b)?</para>
+</problem>
+<solution id="fs-idm112508016">
+<para id="fs-idm112507760"><emphasis effect="italics">E</emphasis><sub>a</sub> = 108 kJ; <emphasis effect="italics">A</emphasis> = 2,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>8</sup> s<sup>−1</sup>; <emphasis effect="italics">k</emphasis> = 3,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−10</sup> s<sup>−1</sup>; (b) 1,81 <m:math><m:mo>×</m:mo></m:math> 10<sup>8</sup> h o 7,6 <m:math><m:mo>×</m:mo></m:math> 10<sup>6</sup> día; (c) Asumir que la reacción es irreversible simplifica el cálculo porque no tenemos que tener en cuenta ningún reactivo que, habiéndose convertido en producto, vuelva al estado original.</para></solution>
+</exercise>
+<exercise id="fs-idp179196768">
+<problem id="fs-idm100372752">
+<para id="fs-idm100372496">Utilice la <link url="http://openstax.org/l/16PHETreaction">simulación interactiva de velocidades y reacciones de PhET</link> para simular un sistema. En la pestaña "Colisión única" (Single collision) de la aplicación de simulación, active "Ver gráfico de energía" (Energy view) presionando el icono "+". Seleccione la primera reacción <m:math><m:mrow><m:mi>A</m:mi><m:mo>+</m:mo><m:mi>B</m:mi><m:mi>C</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>A</m:mi><m:mi>B</m:mi><m:mo>+</m:mo><m:mi>C</m:mi></m:mrow></m:math> (A es amarillo, B es púrpura y C es azul marino). Utilizando la opción por defecto "tiro recto" (straight shot), pruebe lanzar el átomo <emphasis effect="italics">A</emphasis> con distintas cantidades de energía. ¿Qué cambia cuando la línea de Energía Total en el lanzamiento está por debajo del estado de transición de la línea de Energía Potencial? ¿Por qué? ¿Qué ocurre cuando está por encima del estado de transición? ¿Por qué?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp11390128">
+<problem id="fs-idp11390384">
+<para id="fs-idp46127280">Utilice la <link url="http://openstax.org/l/16PHETreaction">simulación interactiva de velocidades y reacciones de PhET</link> para simular un sistema. En la pestaña "Colisión única" (Single collision) de la aplicación de simulación, active "Ver gráfico de energía" (Energy view) presionando el icono "+". Seleccione la primera reacción <m:math><m:mrow><m:mi>A</m:mi><m:mo>+</m:mo><m:mi>B</m:mi><m:mi>C</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>A</m:mi><m:mi>B</m:mi><m:mo>+</m:mo><m:mi>C</m:mi></m:mrow></m:math> (A es amarillo, B es púrpura y C es azul marino). Utilizando la opción de "tiro en ángulo", pruebe lanzar el átomo <emphasis effect="italics">A</emphasis> con ángulos variables, pero con más energía total que el estado de transición. ¿Qué ocurre cuando el átomo <emphasis effect="italics">A</emphasis> choca con la molécula <emphasis effect="italics">BC</emphasis> desde diferentes direcciones? ¿Por qué?</para>
+</problem>
+<solution id="fs-idm206557376">
+<para id="fs-idm206557120">El átomo <emphasis effect="italics">A</emphasis> tiene suficiente energía para reaccionar con <emphasis effect="italics">BC</emphasis>; sin embargo, los diferentes ángulos con los que rebota en <emphasis effect="italics">BC</emphasis> sin reaccionar indican que la orientación de la molécula es una parte importante de la cinética de reacción y determina si se producirá una reacción.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm89472432"><term>complejo activado</term><meaning id="fs-idm162202432">(también, estado de transición) combinación inestable de especies de reactivos que se forma durante una reacción química</meaning></definition>
+<definition id="fs-idm162201904"><term>energía de activación (<emphasis effect="italics">E</emphasis><sub>a</sub>)</term>
+<meaning id="fs-idm187159968">energía mínima necesaria para que se produzca una reacción</meaning></definition>
+<definition id="fs-idm187159584"><term>ecuación de Arrhenius</term>
+<meaning id="fs-idm101549248">relación matemática entre la constante de velocidad de una reacción, la energía de activación y la temperatura</meaning></definition>
+<definition id="fs-idm101548864"><term>teoría de colisiones</term>
+<meaning id="fs-idm206488960">modelo que hace hincapié en la energía y la orientación de las colisiones moleculares para explicar y predecir la cinética de las reacciones</meaning></definition>
+<definition id="fs-idm206488448"><term>factor de frecuencia (<emphasis effect="italics">A</emphasis>)</term>
+<meaning id="fs-idp8915568">constante de proporcionalidad en la ecuación de Arrhenius relacionada con el número relativo de colisiones que tienen una orientación capaz de conducir a la formación de productos</meaning></definition>
+<definition id="fs-idm355773584"><term>diagrama de reacción</term><meaning id="fs-idm338728240">se utiliza en la cinética química para ilustrar diversas propiedades de una reacción</meaning></definition>
+</glossary>
+</document>

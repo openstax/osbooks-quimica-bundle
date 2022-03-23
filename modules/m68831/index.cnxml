@@ -1,0 +1,321 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Estructura y propiedades generales de los metaloides</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68831</md:content-id>
+  <md:title>Estructura y propiedades generales de los metaloides</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Describir la preparación general, las propiedades y los usos de los metaloides</item>
+<item>Describir la preparación, las propiedades y los compuestos del boro y el silicio</item>
+</list></md:abstract>
+  <md:uuid>204b5ad5-26eb-46d5-8e6c-3c224a904235</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp17717312">Una serie de seis elementos llamados metaloides separa los metales de los no metales en la tabla periódica. Los metaloides son el boro, el silicio, el germanio, el arsénico, el antimonio y el telurio. Estos elementos parecen metálicos; sin embargo, no conducen la electricidad tan bien como los metales, por lo que son semiconductores. Son semiconductores porque sus electrones están más unidos a sus núcleos que los de los conductores metálicos. Su comportamiento químico se sitúa entre el de los metales y el de los no metales. Por ejemplo, los metaloides puros forman cristales covalentes como los no metales, pero al igual que éstos, no suelen formar aniones monoatómicos. Este comportamiento intermedio se debe en parte a sus valores intermedios de electronegatividad. En esta sección, discutiremos brevemente el comportamiento químico de los metaloides y trataremos con más detalle dos de estos elementos: el boro y el silicio.</para>
+<para id="fs-idp189496896">El metaloide boro presenta muchas similitudes con su vecino el carbono y su vecino diagonal el silicio. Los tres elementos forman compuestos covalentes. Sin embargo, el boro tiene una clara diferencia, ya que su estructura electrónica externa 2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>1</sup> le da un electrón de valencia menos de los orbitales de valencia que tiene. Aunque el boro presenta un estado de oxidación de 3+ en la mayoría de sus compuestos estables, esta deficiencia de electrones proporciona al boro la capacidad de formar otros estados de oxidación, a veces fraccionados, que se dan, por ejemplo, en los hidruros de boro.</para>
+<para id="fs-idp63064256">El silicio tiene la configuración de electrones 3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>2</sup> de la capa de valencia, y suele formar estructuras tetraédricas en las que está hibridado <emphasis effect="italics">sp</emphasis><sup>3</sup> con un estado de oxidación formal de 4+. Las principales diferencias entre la química del carbono y del silicio se deben a la fuerza relativa del enlace carbono-carbono, a la capacidad del carbono de formar enlaces estables consigo mismo y a la presencia de orbitales de valencia 3<emphasis effect="italics">d</emphasis> vacíos en el silicio. Los orbitales <emphasis effect="italics">d</emphasis> vacíos del silicio y el orbital <emphasis effect="italics">p</emphasis> vacío del boro permiten que los compuestos tetraédricos de silicio y los compuestos trigonales planos de boro actúen como ácidos de Lewis. El carbono, en cambio, no tiene orbitales capa de valencia disponibles; los compuestos tetraédricos de carbono no pueden actuar como ácidos de Lewis. El germanio es muy similar al silicio en su comportamiento químico.</para>
+<para id="fs-idp125396304">El arsénico y el antimonio generalmente forman compuestos en los que se muestra un estado de oxidación de 3+ o 5+; sin embargo, el arsénico puede formar arseniuros con un estado de oxidación de 3-. Estos elementos solo se deslustran ligeramente en aire seco, pero se oxidan fácilmente cuando se calientan.</para>
+<para id="fs-idp421952">El telurio se combina directamente con la mayoría de los elementos. Los compuestos de telurio más estables son los telururos (sales de Te<sup>2</sup>) formados con metales activos y lantánidos, y los compuestos con oxígeno, flúor y cloro, en los que el telurio presenta normalmente un estado de oxidación 2+ o 4+. Aunque se conocen compuestos de telurio(VI) (por ejemplo, TeF<sub>6</sub>), existe una marcada resistencia a la oxidación hasta este estado de oxidación máximo del grupo.</para>
+<section id="fs-idp249805056">
+<title>Estructuras de los metaloides</title>
+<para id="fs-idm34751888">El enlace covalente es la clave de las estructuras cristalinas de los metaloides. En este sentido, estos elementos se asemejan a los no metales en su comportamiento.</para>
+<para id="fs-idp235228864">El silicio elemental, el germanio, el arsénico, el antimonio y el telurio son sólidos brillantes de aspecto metálico. El silicio y el germanio cristalizan con una estructura de diamante. Cada átomo dentro del cristal tiene enlaces covalentes con cuatro átomos vecinos en las esquinas de un tetraedro regular. Los monocristales de silicio y germanio son moléculas gigantes y tridimensionales. Existen varios alótropos del arsénico, siendo los más estables los que tienen forma de capa y contienen láminas plegadas de átomos de arsénico. Cada átomo de arsénico forma enlaces covalentes con otros tres átomos dentro de la lámina. La estructura cristalina del antimonio es similar a la del arsénico, ambas mostradas en la <link target-id="CNX_Chem_18_03_Structures"/>. Las estructuras del arsénico y el antimonio son similares a la del grafito, que se trata más adelante en este capítulo. El telurio forma cristales que contienen infinitas cadenas espirales de átomos de telurio. Cada átomo de la cadena se enlaza a otros dos átomos.</para>
+<note id="fs-idp121376784" class="chemistry link-to-learning">
+<para id="fs-idm35582272">Explore la estructura cristalina del <link url="http://openstax.org/l/16crystal">diamante cúbico</link>.</para>
+</note>
+<figure id="CNX_Chem_18_03_Structures">
+<media id="fs-idm27167568" alt="Se muestran cuatro imágenes marcadas como &quot;a&quot;, &quot;b&quot;, &quot;c&quot; y &quot;d&quot;. Las imágenes a y b muestran átomos que están unidos por enlaces simples dispuestos en capas en zigzag. La imagen c muestra átomos que están unidos por enlace simple en hexágonos que forman láminas. Estas láminas se muestran superpuestas una sobre otra. La imagen d muestra átomos que están unidos por enlace simple individualmente en cadenas con giros.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Structures.jpg"/>
+</media>
+<caption>(a) El arsénico y (b) el antimonio tienen una estructura en capas similar a la del (c) grafito, salvo que las capas son plegadas en lugar de planas. (d) El telurio elemental forma cadenas en espiral.</caption>
+</figure>
+<para id="fs-idp12608576">El boro cristalino puro es transparente. Los cristales consisten en icosaedros, como se muestra en la <link target-id="CNX_Chem_18_03_BIcosahed"/>, con un átomo de boro en cada esquina. En la forma más común del boro, los icosaedros se empaquetan de forma similar al empaquetamiento cúbico más cercano de las esferas. Todos los enlaces boro-boro dentro de cada icosaedro son idénticos y tienen una longitud de aproximadamente 176 pm. En las diferentes formas de boro, hay diferentes disposiciones y conexiones entre los icosaedros.</para>
+<figure id="CNX_Chem_18_03_BIcosahed" class="scaled-down">
+<media id="fs-idp340430608" alt="Una imagen muestra un grupo de átomos, cada uno de ellos marcado como &quot;B&quot;, conectados con enlaces simples en una forma simétrica de veinte lados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_BIcosahed.jpg"/>
+</media>
+<caption>Un icosaedro es una forma sólida y simétrica con 20 caras, cada una de las cuales es un triángulo equilátero. Las caras se encuentran en 12 esquinas.</caption>
+</figure>
+<para id="fs-idp125392768">El nombre de silicio deriva de la palabra latina <emphasis effect="italics">silex</emphasis>, que significa sílex. El metaloide silicio forma fácilmente compuestos que contienen enlaces Si-O-Si, que tienen una importancia capital en el mundo mineral. Esta capacidad de enlace contrasta con el carbono no metálico, cuya capacidad de formar enlaces carbono-carbono le confiere una importancia primordial en el mundo vegetal y animal.</para>
+</section>
+<section id="fs-idm27196048">
+<title>Presencia, preparación y compuestos de boro y silicio</title>
+<para id="fs-idp70329680">El boro constituye menos del 0,001 % en peso de la corteza terrestre. En la naturaleza, solo se da en compuestos con oxígeno. El boro está ampliamente distribuido en las regiones volcánicas en forma de ácido bórico, B(OH)<sub>3</sub>, y en las regiones lacustres secas, incluidas las áreas desérticas de California, en forma de boratos y sales de oxiácidos de boro, como el bórax, Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>⋅10H<sub>2</sub>O.</para>
+<para id="fs-idp96845840">El boro elemental es químicamente inerte a temperatura ambiente, reaccionando solo con flúor y oxígeno para formar trifluoruro de boro, BF<sub>3</sub>, y óxido bórico, B<sub>2</sub>O<sub>3</sub>, respectivamente. A temperaturas más altas, el boro reacciona con todos los no metales, excepto el telurio y los gases nobles, y con casi todos los metales; se oxida aB<sub>2</sub>O<sub>3</sub> cuando se calienta con ácido nítrico o ácido sulfúrico concentrado. El boro no reacciona con los ácidos no oxidantes. Muchos compuestos de boro reaccionan fácilmente con el agua para producir ácido bórico, B(OH)<sub>3</sub> (a veces escrito como H<sub>3</sub>BO<sub>3</sub>)).</para>
+<para id="fs-idp120612224">La reducción del óxido bórico con el polvo de magnesio forma boro (con una pureza del 95 al 98,5 %) en forma de polvo amorfo de color marrón:</para>
+<equation class="unnumbered" id="fs-idp30766032"><m:math><m:mrow><m:msub><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>3Mg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2B</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>3MgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp204527824">Una sustancia <term>amorfa</term> es un material que parece ser un sólido, pero no tiene un orden de largo alcance como un verdadero sólido. El tratamiento con ácido clorhídrico elimina el óxido de magnesio. La purificación posterior del boro comienza con la conversión del boro impuro en tricloruro de boro. El siguiente paso es calentar una mezcla de tricloruro de boro e hidrógeno:</para>
+<equation class="unnumbered" id="fs-idm91488"><m:math><m:mrow><m:msub><m:mrow><m:mtext>2BCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.5em"/><m:mn>1.500</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext><m:mspace width="0.5em"/></m:mrow></m:mover><m:mspace width="0.2em"/><m:mtext>2B</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>6HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>253,7 kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp112457184">El silicio constituye casi una cuarta parte de la masa de la corteza terrestre, solo superado por el oxígeno. La corteza está compuesta casi en su totalidad por minerales en los que los átomos de silicio están en el centro del tetraedro de silicio-oxígeno, que se conectan de diversas maneras para producir, entre otras cosas, cadenas, capas y estructuras tridimensionales. Estos minerales constituyen la mayor parte de las rocas, suelos y arcillas más comunes. Además, materiales como los ladrillos, la cerámica y los vidrios contienen compuestos de silicio.</para>
+<para id="fs-idp27647072">Es posible producir silicio mediante la reducción a alta temperatura del dióxido de silicio con fuertes agentes reductores, como el carbono y el magnesio:</para>
+<equation class="unnumbered" id="fs-idm50570016"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr/><m:mtr><m:mtd><m:msub><m:mtext>SiO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>2C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.4em"/><m:mtext>Δ</m:mtext><m:mspace width="0.4em"/></m:mrow></m:mover><m:mspace width="0.2em"/><m:mtext>Si</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>2CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>SiO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>2Mg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.4em"/><m:mtext>Δ</m:mtext><m:mspace width="0.4em"/></m:mrow></m:mover><m:mspace width="0.2em"/><m:mtext>Si</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>2MgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm43188096">El silicio extremadamente puro es necesario para la fabricación de dispositivos electrónicos semiconductores. Este proceso comienza con la conversión del silicio impuro en tetrahaluros de silicio, o silano (SiH<sub>4</sub>), seguido de una descomposición a altas temperaturas. El refinamiento por zonas, ilustrado en la <link target-id="CNX_Chem_18_03_SiPurif"/>, completa la purificación. En este método, se calienta una varilla de silicio en un extremo mediante una fuente de calor que produce una fina sección transversal de silicio fundido. Al bajar lentamente la varilla a través de la fuente de calor, la zona fundida se desplaza de un extremo a otro de la varilla. A medida que esta fina región fundida se desplaza, las impurezas del silicio se disuelven en el silicio líquido y se desplazan con la región fundida. Al final, las impurezas se desplazan a un extremo de la varilla, que se corta.</para>
+<figure id="CNX_Chem_18_03_SiPurif" class="scaled-down">
+<media id="fs-idp87854400" alt="Se muestra un diagrama de un tubo largo y vertical. El lateral está cortado para mostrar un tubo de vidrio en su interior. En la parte superior del tubo de vidrio hay una sección más oscura marcada como &quot;Silicio impuro&quot;, mientras que hacia la mitad del tubo hay una sección más clara marcada como &quot;Silicio fundido&quot;, y el fondo del tubo contiene una sustancia blanca marcada como &quot;Silicio puro&quot;. En el fondo del tubo se dibuja una flecha hacia abajo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_SiPurif.jpg"/>
+</media>
+<caption>Un aparato de refinado por zonas utilizado para purificar el silicio.</caption>
+</figure>
+<para id="fs-idm29187152">Este silicio altamente purificado, que no contiene más de una parte de impureza por millón de partes de silicio, es el elemento más importante de la industria informática. El silicio puro es necesario en los dispositivos electrónicos semiconductores, como los transistores, los chips de computadora y las celdas solares.</para>
+<para id="fs-idm38894288">Al igual que algunos metales, la pasivación del silicio se produce por la formación de una película muy fina de óxido (principalmente dióxido de silicio, SiO<sub>2</sub>). El dióxido de silicio es soluble en bases acuosas calientes, por lo que las bases fuertes destruyen la pasivación. La eliminación de la capa de pasivación permite que la base disuelva el silicio, formando hidrógeno gaseoso y aniones de silicato. Por ejemplo:</para>
+<equation class="unnumbered" id="fs-idp306866064"><m:math><m:mrow><m:mtext>Si</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>4−</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp112356272">El silicio reacciona con los halógenos a altas temperaturas, formando tetrahaluros volátiles, como el SiF<sub>4</sub>.</para>
+<para id="fs-idp120941520">A diferencia del carbono, el silicio no forma fácilmente dobles o triples enlaces. Los compuestos de silicio de fórmula general SiX<sub>4</sub>, donde X es un grupo altamente electronegativo, pueden actuar como ácidos de Lewis para formar silicio de seis coordenadas. Por ejemplo, el tetrafluoruro de silicio, SiF<sub>4</sub>, reacciona con el fluoruro de sodio para producir Na<sub>2</sub>[SiF<sub>6</sub>], que contiene el ion octaédrico <m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>[</m:mo> <m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub></m:mrow> <m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> en el que el silicio está hibridado<emphasis effect="italics"> sp</emphasis><sup>3</sup><emphasis effect="italics">d</emphasis><sup>2</sup>:</para>
+<equation class="unnumbered" id="fs-idp219248048"><m:math><m:mrow><m:mtext>2NaF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp28729488">El antimonio reacciona fácilmente con cantidades estequiométricas de flúor, cloro, bromo o yodo, produciendo trihaluros o, con exceso de flúor o cloro, formando los pentahaluros SbF<sub>5</sub> y SbCl<sub>5</sub>. Dependiendo de la estequiometría, forma sulfuro de antimonio(III), Sb<sub>2</sub>S<sub>3</sub>, o sulfuro de antimonio(V) cuando se calienta con azufre. Como era de esperar, la naturaleza metálica del elemento es mayor que la del arsénico, que se encuentra inmediatamente por encima de él en el grupo 15.</para>
+<section id="fs-idp39834912">
+<title>Haluros de boro y silicio</title>
+<para id="fs-idp29251536">Los trihaluros de boro (BF<sub>3</sub>, BCl<sub>3</sub>, BBr<sub>3</sub> y BI<sub>3</sub>) pueden prepararse por reacción directa de los elementos. Estas moléculas no polares contienen boro con hibridación <emphasis effect="italics">sp</emphasis><sup>2</sup> y una geometría molecular trigonal plana. Los compuestos de fluoruro y cloruro son gases incoloros, el bromuro es un líquido y el yoduro es un sólido cristalino blanco.</para>
+<para id="fs-idp20855552">Exceptuando el trifluoruro de boro, los trihaluros de boro se hidrolizan fácilmente en agua para formar ácido bórico y el correspondiente ácido hidrohalico. El tricloruro de boro reacciona según la ecuación:</para>
+<equation class="unnumbered" id="fs-idp99815200"><m:math><m:mrow><m:msub><m:mrow><m:mtext>BCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mtext>(OH)</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>3HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp67676992">El trifluoruro de boro reacciona con el ácido fluorhídrico, para producir una solución de ácido fluorobórico, HBF<sub>4</sub>:</para>
+<equation class="unnumbered" id="fs-idp73493616"><m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm52704">En esta reacción, la molécula de BF<sub>3</sub> actúa como ácido de Lewis (aceptor de pares de electrones) y acepta un par de electrones de un ion de fluoruro:</para>
+<media id="fs-idp60354928" alt="se dibujan dos estructuras de Lewis conectadas por una flecha hacia la derecha. La estructura de la izquierda muestra un átomo de boro rodeado por cuatro átomos de flúor, cada uno con cuatro pares solitarios de electrones. El átomo de flúor de la izquierda tiene un símbolo positivo y otro negativo dibujados al lado. La segunda imagen es igual que la primera, salvo que faltan los signos positivo y negativo y toda la estructura está rodeada de paréntesis. Hay un signo negativo fuera y superíndice de los corchetes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_BLewisAcid_img.jpg"/>
+</media>
+<para id="fs-idp124888224">Se han preparado todos los tetrahaluros de silicio, SiX<sub>4</sub>. El tetracloruro de silicio puede prepararse por cloración directa a temperaturas elevadas o por calentamiento del dióxido de silicio con cloro y carbono:</para>
+<equation class="unnumbered" id="fs-idp144955120"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>2C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="0.4em"/><m:mtext>Δ</m:mtext><m:mspace width="0.4em"/></m:mrow></m:mover><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SiCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>2CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp138257392">El tetracloruro de silicio es una molécula tetraédrica covalente, que es un líquido no polar, de bajo punto de ebullición (57 °C) e incoloro.</para>
+<para id="fs-idp15153872">Es posible preparar tetrafluoruro de silicio mediante la reacción del dióxido de silicio con ácido fluorhídrico:</para>
+<equation class="unnumbered" id="fs-idp26130592"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>4HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>-191,2 kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp1989488">El ácido fluorhídrico es el único ácido común que reacciona con el dióxido de silicio o los silicatos. Esta reacción se produce porque el enlace silicio-flúor es el único enlace que forma el silicio que es más fuerte que el enlace silicio-oxígeno. Por esta razón, es posible almacenar todos los ácidos comunes, excepto el ácido fluorhídrico, en recipientes de vidrio.</para>
+<para id="fs-idm18263392">Exceptuando el tetrafluoruro de silicio, los haluros de silicio son extremadamente sensibles al agua. Al exponerse al agua, el SiCl<sub>4</sub> reacciona rápidamente con los grupos de hidróxido, sustituyendo los cuatro átomos de cloro para producir ácido ortosilícico inestable, Si(OH)<sub>4</sub> o H<sub>4</sub>SiO<sub>4</sub>, que se descompone lentamente en SiO<sub>2</sub>.</para>
+</section>
+<section id="fs-idp46544496">
+<title>Óxidos de boro y silicio y sus derivados</title>
+<para id="fs-idp51369216">El boro arde a 700 °C en el oxígeno, formando óxido bórico, B<sub>2</sub>O<sub>3</sub>. El óxido bórico es necesario para la producción de vidrio de borosilicato resistente al calor, como el que se muestra en la <link target-id="CNX_Chem_18_02_Glass"/> y de ciertos vidrios ópticos. El óxido bórico se disuelve en agua caliente para formar ácido bórico, B(OH)<sub>3</sub>:</para>
+<equation class="unnumbered" id="fs-idp275317776"><m:math><m:mrow><m:msub><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2B</m:mtext><m:msub><m:mrow><m:mtext>(OH)</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<figure id="CNX_Chem_18_02_Glass" class="scaled-down">
+<media id="fs-idp236200768" alt="Se muestra una foto de vasos de precipitados, matraces y probetas graduadas. Cada pieza de cristalería contiene un líquido de diferente color.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_02_Glass.jpg"/>
+</media>
+<caption>La cristalería de laboratorio, como Pyrex y Kimax, está hecha de vidrio de borosilicato porque no se rompe al calentarse. La inclusión de boratos en el vidrio ayuda a mediar los efectos de la expansión y la contracción térmica. Esto reduce la probabilidad de que se produzca un choque térmico, que hace que el vidrio de silicato se agriete al calentarse o enfriarse rápidamente (crédito: "Tweenk" / Wikimedia Commons).</caption>
+</figure>
+<para id="fs-idp122478912">El átomo de boro en el B(OH)<sub>3</sub> está hibridado <emphasis effect="italics">sp</emphasis><sup>2</sup> y se encuentra en el centro de un triángulo equilátero con átomos de oxígeno en las esquinas. En el B(OH)<sub>3</sub> sólido, el enlace de hidrógeno mantiene unidas estas unidades triangulares. El ácido bórico, mostrado en la <link target-id="CNX_Chem_18_02_Boricacid_img"/>, es un ácido muy débil que no actúa como donante de protones sino como ácido de Lewis, aceptando un par de electrones no compartidos de la base de Lewis OH<sup>-</sup>:</para>
+<equation class="unnumbered" id="fs-idp28519200"><m:math><m:mrow><m:mtext>B</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mn>5,8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-10</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<figure id="CNX_Chem_18_02_Boricacid_img">
+<media id="fs-idp80715904" alt="Una estructura de Lewis muestra un átomo de boro unido por enlace simple a tres átomos de oxígeno, cada uno de los cuales está unido por enlace simple a un átomo de hidrógeno. Los átomos de oxígeno están dispuestos en ángulos iguales alrededor del átomo de boro y cada ángulo está marcado como &quot;120 grados&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_02_Boricacid_img.jpg"/>
+</media>
+<caption>El ácido bórico tiene una estructura planar con tres grupos -OH repartidos equitativamente en ángulos de 120° entre sí.</caption>
+</figure>
+<para id="fs-idm19131184">El calentamiento del ácido bórico a 100 °C hace que las moléculas de agua se separen entre pares de grupos -OH adyacentes para formar el ácido metabórico, HBO<sub>2</sub>. A unos 150 °C, se forman enlaces B-O-B adicionales que conectan los grupos BO<sub>3</sub> con átomos de oxígeno compartidos para formar el ácido tetrabórico, H<sub>2</sub>B<sub>4</sub>O<sub>7</sub>. La pérdida total de agua, a temperaturas aún más elevadas, da lugar al óxido bórico.</para>
+<para id="fs-idp204424928">Los <term>boratos</term> son sales de los oxiácidos del boro. Los boratos son el resultado de las reacciones de una base con un oxiácido o de la fusión de ácido bórico u óxido bórico con un óxido o hidróxido metálico. Los aniones borato van desde el simple trigonal plano <m:math><m:mrow><m:msub><m:mrow><m:mtext>BO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math> a especies complejas que contienen cadenas y anillos de átomos de boro de tres y cuatro coordenadas. Las estructuras de los aniones que se encuentran en el aB<sub>2</sub>O<sub>4</sub>, K[B<sub>5</sub>O<sub>6</sub>(OH)<sub>4</sub>]⋅2H<sub>2</sub>O (comúnmente escrito KB<sub>5</sub>O<sub>8</sub>⋅4H<sub>2</sub>O) y el Na<sub>2</sub>[B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub>]⋅8H<sub>2</sub>O (comúnmente escrito Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>⋅10H<sub>2</sub>O) se muestran en la <link target-id="CNX_Chem_18_03_BorateAnio"/>. Comercialmente, el borato más importante es el bórax, Na<sub>2</sub>[B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub>]⋅8H<sub>2</sub>O, que es un componente importante de algunos detergentes para ropa. La mayor parte del suministro de bórax procede directamente de lagos secos, como el lago Searles en California, o se prepara a partir de la kernita, Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>⋅4H<sub>2</sub>O.</para>
+<figure id="CNX_Chem_18_03_BorateAnio">
+<media id="fs-idp89373536" alt="Se muestran tres estructuras de Lewis marcadas como &quot;a&quot;, &quot;b&quot; y &quot;c&quot;. La estructura a muestra un átomo de boro unido por enlace simple a dos átomos de oxígeno. Un átomo de oxígeno tiene carga negativa y el otro está unido por enlace simple a un segundo átomo de boro. Este átomo de boro está unido por enlace simple a átomos de oxígeno, al igual que el primero, para crear una cadena repetitiva de estas unidades. Los dos primeros átomos de boro y sus átomos de oxígeno adjuntos están rodeados por un recuadro de línea punteada y marcados, &quot;unidad de B subíndice 2 O subíndice 4 superíndice 2 signo negativo&quot; La estructura b muestra dos estructuras anulares hexagonales, unidas en el centro por un átomo de boro. Cada anillo está formado por átomos de boro y oxígeno alternados, con cuatro grupos hidroxilos situados en las esquinas superiores e inferiores de toda la estructura. Los corchetes y el signo negativo en superíndice rodean la estructura. La estructura c muestra una estructura de anillo de ocho lados formada por átomos de boro y oxígeno alternados. Cada átomo de boro está unido a un grupo hidroxilo y un átomo de oxígeno está unido por enlace simple al primer y tercer átomo de boro. Este átomo de oxígeno se encuentra en el centro del anillo. Toda la estructura está rodeada de corchetes y tiene en superíndice 2 signo negativo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_BorateAnio.jpg"/>
+</media>
+<caption>Los aniones borato son (a) CaB<sub>2</sub>O<sub>4</sub>, (b) KB<sub>5</sub>O<sub>8</sub>⋅4H<sub>2</sub>O, y (c) Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>⋅10H<sub>2</sub>O. El anión en el CaB<sub>2</sub>O<sub>4</sub> es una cadena "infinita".</caption>
+</figure>
+<para id="fs-idp209528992">El dióxido de silicio, la sílice, se presenta tanto en forma cristalina como amorfa. La forma cristalina habitual del dióxido de silicio es el cuarzo, un sólido duro, quebradizo, transparente e incoloro. Es útil de muchas maneras: en decoraciones arquitectónicas, en joyas semipreciosas y en el control de la frecuencia en transmisores de radio. La sílice adopta muchas formas cristalinas, o <term>polimorfos</term>, en la naturaleza. Trazas de Fe<sup>3+</sup> en el cuarzo dan a la amatista su característico color púrpura. El término <emphasis effect="italics">cuarzo</emphasis> también se utiliza para artículos como tubos y lentes que se fabrican con sílice amorfa. El ópalo es una forma natural de sílice amorfa.</para>
+<para id="fs-idp71398624">El contraste en la estructura y las propiedades físicas entre el dióxido de silicio y el dióxido de carbono es interesante, como se ilustra en la <link target-id="CNX_Chem_18_03_CO2vsSiO2"/>. El dióxido de carbono sólido (hielo seco) contiene moléculas individuales de CO<sub>2</sub> con cada uno de los dos átomos de oxígeno unidos al átomo de carbono por dobles enlaces. Fuerzas intermoleculares muy débiles mantienen las moléculas unidas en el cristal. La volatilidad del hielo seco refleja estas fuerzas débiles entre las moléculas. En cambio, el dióxido de silicio es un sólido de red covalente. En el dióxido de silicio, cada átomo de silicio se une a cuatro átomos de oxígeno mediante enlaces simples dirigidos hacia las esquinas de un tetraedro regular, y los tetraedros de SiO<sub>4</sub> comparten átomos de oxígeno. Esta disposición da lugar a una red tridimensional y continua de silicio-oxígeno. Un cristal de cuarzo es una macromolécula de dióxido de silicio. La diferencia entre estos dos compuestos es la capacidad de los elementos del grupo 14 para formar fuertes enlaces π. Los elementos del segundo periodo, como el carbono, forman enlaces π muy fuertes, por lo que el dióxido de carbono forma pequeñas moléculas con fuertes dobles enlaces. Los elementos por debajo del segundo periodo, como el silicio, no forman enlaces π tan fácilmente como los elementos del segundo periodo, y cuando se forman, los enlaces π son más débiles que los formados por los elementos del segundo periodo. Por esta razón, el dióxido de silicio no contiene enlaces π sino solo enlaces σ.</para>
+<figure id="CNX_Chem_18_03_CO2vsSiO2" class="scaled-down">
+<media id="fs-idp119649632" alt="Se muestran dos imágenes y dos fotos marcadas como &quot;a&quot; y &quot;b&quot;. La imagen a muestra un modelo de bolas y palos de un átomo de carbono unido por enlace simple a dos átomos de oxígeno. El modelo de bolas y palos está marcado como &quot;C O subíndice 2&quot;. Encima de este modelo hay una foto de hielo seco en un tarro de cristal con un líquido claro. El hielo seco se está sublimando. La foto está marcada como &quot;hielo seco&quot;. La imagen b muestra cuatro estructuras anulares conectadas formadas por átomos de silicio y oxígeno alternados y unidos por enlace simple entre sí. El modelo está marcado como &quot;S i O subíndice 2&quot;. Encima del modelo hay una foto etiquetada como &quot;cuarzo&quot;. Muestra un cristal sólido.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_CO2vsSiO2.jpg"/>
+</media>
+<caption>Dado que el carbono tiende a formar dobles y triples enlaces y el silicio no, (a) el dióxido de carbono es una molécula discreta con dos dobles enlaces C=O y (b) el dióxido de silicio es una red infinita de átomos de oxígeno que hacen de puente entre los átomos de silicio y cada átomo de silicio posee cuatro enlaces simples Si-O (crédito foto a: modificación del trabajo de Erica Gerdes; crédito foto b: modificación del trabajo de Didier Descouens).</caption>
+</figure>
+<para id="fs-idm309152">A 1600 °C, el cuarzo se funde para dar lugar a un líquido viscoso. Cuando el líquido se enfría, no cristaliza fácilmente, sino que suele sobreenfriarse y formar un vidrio, también llamado sílice. Los tetraedros de SiO<sub>4</sub> de la sílice vítrea tienen una disposición aleatoria característica de los líquidos superenfriados, y el vidrio tiene algunas propiedades muy útiles. La sílice es muy transparente a la luz visible y ultravioleta. Por ello, es importante en la fabricación de lámparas que emiten radiación rica en luz ultravioleta y en ciertos instrumentos ópticos que funcionan con luz ultravioleta. El coeficiente de dilatación del vidrio de sílice es muy bajo, por lo que los cambios rápidos de temperatura no provocan su fractura. CorningWare y otros utensilios de cocina de cerámica contienen sílice amorfa.</para>
+<para id="fs-idp13738608">Los <term>silicatos</term> son sales que contienen aniones compuestos de silicio y oxígeno. En casi todos los silicatos, los átomos de silicio con hibridación <emphasis effect="italics">sp</emphasis><sup>3</sup> se encuentran en los centros de los tetraedros con oxígeno en las esquinas. Hay una variación en la relación silicio-oxígeno que se produce porque los tetraedros de silicio-oxígeno pueden existir como unidades discretas e independientes o pueden compartir átomos de oxígeno en las esquinas de diversas maneras. Además, la presencia de una variedad de cationes da lugar al gran número de minerales de silicato.</para>
+<para id="fs-idp23643168">Muchas cerámicas están compuestas por silicatos. Al incluir pequeñas cantidades de otros compuestos, es posible modificar las propiedades físicas de los materiales de silicato para producir cerámicas con características útiles.</para>
+</section>
+</section>
+<section id="fs-idp128607136" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp222483968">Los elementos boro, silicio, germanio, arsénico, antimonio y telurio separan los metales de los no metales en la tabla periódica. Estos elementos, llamados metaloides o a veces semimetales, presentan propiedades características tanto de los metales como de los no metales. Las estructuras de estos elementos son similares en muchos aspectos a las de los no metales, pero los elementos son semiconductores eléctricos.</para>
+</section>
+<section id="fs-idp29962656" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idp16930624">
+<problem id="fs-idp65412560">
+<para id="fs-idp3211696">Indique la hibridación del metaloide y la geometría molecular para cada uno de los siguientes compuestos o iones. Puede revisar los capítulos sobre enlace químico y enlace covalente avanzado para ver ejemplos relevantes.</para>
+<para id="fs-idp194546480">(a) GeH<sub>4</sub></para>
+<para id="fs-idp242773360">(b) SbF<sub>3</sub></para>
+<para id="fs-idm34368576">(c) Te(OH)<sub>6</sub></para>
+<para id="fs-idp210169744">(d) H<sub>2</sub>Te</para>
+<para id="fs-idp208832688">(e) GeF<sub>2</sub></para>
+<para id="fs-idm16344560">(f) TeCl<sub>4</sub></para>
+<para id="fs-idp2132912">(g) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp87997536">(h) SbCl<sub>5</sub></para>
+<para id="fs-idp96125920">(i) TeF<sub>6</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp187127952">
+<problem id="fs-idp28147888">
+<para id="fs-idp187106320">Escriba una estructura de Lewis para cada una de las siguientes moléculas o iones. Quizás quiera repasar el capítulo sobre enlace químico.</para>
+<para id="fs-idp16376768">(a) H<sub>3</sub>BPH<sub>3</sub></para>
+<para id="fs-idp78441920">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></para>
+<para id="fs-idp135377104">(c) BBr<sub>3</sub></para>
+<para id="fs-idm26374944">(d) B(CH<sub>3</sub>)<sub>3</sub></para>
+<para id="fs-idp5993104">(e) B(OH)<sub>3</sub></para>
+</problem>
+<solution id="fs-idm737712">
+<para id="fs-idm26929120">(a) H<sub>3</sub>BPH<sub>3</sub>:<newline/>
+<media id="fs-idm25603392" alt="Esta estructura de Lewis está compuesta por un átomo de boro unido por enlace simple a un átomo de fósforo. Cada uno de estos átomos está unido por enlace simple a tres átomos de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2a_img.jpg"/>
+</media><newline/> (b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>:</m:mo></m:mrow></m:math><newline/>
+<media id="fs-idp28628720" alt="Esta estructura de Lewis está compuesta por un átomo de boro unido por enlace simple a cuatro átomos de flúor, cada uno de los cuales tiene tres pares solitarios de electrones. La estructura está rodeada de corchetes y el signo negativo aparece como superíndice fuera de los corchetes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2b_img.jpg"/>
+</media><newline/> (c) BBr<sub>3</sub>:<newline/>
+<media id="fs-idp121981728" alt="Esta estructura de Lewis está compuesta por un átomo de boro unido por enlace simple a tres átomos de bromo, cada uno de los cuales tiene tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2c_img.jpg"/>
+</media><newline/> (d) B(CH<sub>3</sub>)<sub>3</sub>:<newline/>
+<media id="fs-idm25910080" alt="Esta estructura de Lewis se compone de un átomo de boro unido por enlace simple a tres átomos de carbono, cada uno de los cuales está unido por enlace a tres átomos de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2d_img.jpg"/>
+</media><newline/> (e) B(OH)<sub>3</sub>:<newline/>
+<media id="fs-idp252097136" alt="Esta estructura de Lewis se compone de un átomo de boro que está unido por enlace simple a tres átomos de oxígeno, cada uno de los cuales tiene dos pares solitarios de electrones. Cada átomo de oxígeno está unido por enlace simple a un átomo de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_18_03_Exercise2e_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp53586384">
+<problem id="fs-idp121062560">
+<para id="fs-idp194645376">Describa la hibridación del boro y la estructura molecular sobre el boro en cada uno de los siguientes:</para>
+<para id="fs-idp119620096">(a) H<sub>3</sub>BPH<sub>3</sub></para>
+<para id="fs-idm60477568">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></para>
+<para id="fs-idp121068640">(c) BBr<sub>3</sub></para>
+<para id="fs-idm116416256">(d) B(CH<sub>3</sub>)<sub>3</sub></para>
+<para id="fs-idm30852912">(e) B(OH)<sub>3</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idm42816224">
+<problem id="fs-idp86819424">
+<para id="fs-idp30962384">Utilizando solo la tabla periódica, escriba la configuración de electrones completa del silicio, incluyendo los orbitales vacíos en la capa de valencia. Quizás quiera repasar el capítulo sobre la estructura de electrones.</para>
+</problem>
+<solution id="fs-idp55549312">
+<para id="fs-idp58106064">1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>2</sup>3<emphasis effect="italics">d</emphasis><sup>0</sup>.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20024944">
+<problem id="fs-idp213844176">
+<para id="fs-idm97259088">Escriba una estructura de Lewis para cada una de las siguientes moléculas e iones:</para>
+<para id="fs-idp208683456">(a) (CH<sub>3</sub>)<sub>3</sub>SiH</para>
+<para id="fs-idp60130832">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>4−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp226254192">(c) Si<sub>2</sub>H<sub>6</sub></para>
+<para id="fs-idp43127200">(d) Si(OH)<sub>4</sub></para>
+<para id="fs-idp84969040">(e) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp50725056">
+<problem id="fs-idp82123984">
+<para id="fs-idp67558496">Describa la hibridación del silicio y la estructura molecular de las siguientes moléculas e iones:</para>
+<para id="fs-idp69779632">(a) (CH<sub>3</sub>)<sub>3</sub>SiH</para>
+<para id="fs-idp25416864">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>4−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp49172912">(c) Si<sub>2</sub>H<sub>6</sub></para>
+<para id="fs-idm16365616">(d) Si(OH)<sub>4</sub></para>
+<para id="fs-idp183591056">(e) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp25496864">
+<para id="fs-idp69392464">(a) (CH<sub>3</sub>)<sub>3</sub>SiH: enlace <emphasis effect="italics">sp</emphasis><sup>3</sup> sobre el Si; la estructura es tetraédrica; (b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>4−</m:mtext></m:msup><m:mo>:</m:mo></m:mrow></m:math> enlace <emphasis effect="italics">sp</emphasis><sup>3</sup> sobre el Si; la estructura es tetraédrica; (c) Si<sub>2</sub>H<sub>6</sub>: enlace <emphasis effect="italics">sp</emphasis><sup>3</sup> sobre cada Si; la estructura es lineal a lo largo del enlace Si-Si; (d) Si(OH)<sub>4</sub>: enlace <emphasis effect="italics">sp</emphasis><sup>3</sup> sobre el Si; la estructura es tetraédrica; (e) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup><m:mo>:</m:mo></m:mrow></m:math> enlace <emphasis effect="italics">sp</emphasis><sup>3</sup><emphasis effect="italics">d</emphasis><sup>2</sup> sobre el Si; la estructura es octaédrica</para>
+</solution>
+</exercise>
+<exercise id="fs-idp46618224">
+<problem id="fs-idm2945376">
+<para id="fs-idp57647952">Describa la hibridación y el enlace de un átomo de silicio en el silicio elemental.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp51747488">
+<problem id="fs-idm27096784">
+<para id="fs-idp48764576">Clasifique cada una de las siguientes moléculas como polares o no polares. Quizás quiera repasar el capítulo sobre enlace químico.</para>
+<para id="fs-idm17550416">(a) SiH<sub>4</sub></para>
+<para id="fs-idp208975968">(b) Si<sub>2</sub>H<sub>6</sub></para>
+<para id="fs-idm16332608">(c) SiCl<sub>3</sub>H</para>
+<para id="fs-idp90524096">(d) SiF<sub>4</sub></para>
+<para id="fs-idm26941744">(e) SiCl<sub>2</sub>F<sub>2</sub></para>
+</problem>
+<solution id="fs-idp110299456">
+<para id="fs-idp203974784">(a) no polar; (b) no polar; (c) polar; (d) no polar; (e) polar</para>
+</solution>
+</exercise>
+<exercise id="fs-idp26638608">
+<problem id="fs-idp208831632">
+<para id="fs-idp30605024">El silicio reacciona con el azufre a temperaturas elevadas. Si 0,0923 g de silicio reaccionan con el azufre para dar 0,3030 g de sulfuro de silicio, determine la fórmula empírica del sulfuro de silicio.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp54395392">
+<problem id="fs-idp138684896">
+<para id="fs-idp29293456">Nombre cada uno de los siguientes compuestos:</para>
+<para id="fs-idm27836992">(a) TeO<sub>2</sub></para>
+<para id="fs-idp19010304">(b) Sb<sub>2</sub>S<sub>3</sub></para>
+<para id="fs-idp2483680">(c) GeF<sub>4</sub></para>
+<para id="fs-idp499584">(d) SiH<sub>4</sub></para>
+<para id="fs-idp14901040">(e) GeH<sub>4</sub></para>
+</problem>
+<solution id="fs-idm49957488">
+<para id="fs-idp210135392">(a) dióxido de teluro u óxido de teluro(IV); (b) sulfuro de antimonio(III); (c) fluoruro de germanio(IV); (d) hidruro de silano o de silicio(IV); (e) hidruro de germanio(IV)</para>
+</solution>
+</exercise>
+<exercise id="fs-idm40238272">
+<problem id="fs-idp137987408">
+<para id="fs-idm97571584">Escriba una ecuación balanceada para la reacción del boro elemental con cada uno de los siguientes elementos (la mayoría de estas reacciones requieren alta temperatura):</para>
+<para id="fs-idm48654448">(a) F<sub>2</sub></para>
+<para id="fs-idm34339104">(b) O<sub>2</sub></para>
+<para id="fs-idp19358848">(c) S</para>
+<para id="fs-idp27801680">(d) Se</para>
+<para id="fs-idp84345808">(e) Br<sub>2</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp194759200">
+<problem id="fs-idm36663888">
+<para id="fs-idm62850640">¿Por qué el boro está limitado a un número de coordinación máximo de cuatro en sus compuestos?</para>
+</problem>
+<solution id="fs-idm17675584">
+<para id="fs-idp90428208">El boro solo dispone de orbitales <emphasis effect="italics">s</emphasis> y <emphasis effect="italics">p</emphasis>, que pueden albergar un máximo de cuatro pares de electrones. A diferencia del silicio, el boro no dispone de orbitales <emphasis effect="italics">d</emphasis>.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm26980560">
+<problem id="fs-idp138331408">
+<para id="fs-idp92504224">Escriba la fórmula para cada uno de los siguientes compuestos:</para>
+<para id="fs-idp13777136">a) dióxido de silicio</para>
+<para id="fs-idp176669248">b) tetrayoduro de silicio</para>
+<para id="fs-idp120538992">c) silano</para>
+<para id="fs-idm11164048">d) carburo de silicio</para>
+<para id="fs-idp114681504">e) siliciuro de magnesio</para>
+</problem>
+</exercise>
+<exercise id="fs-idp50984592">
+<problem id="fs-idp189120768">
+<para id="fs-idp23402592">A partir de los datos del <link document="m68865">Apéndice G</link>, determine el cambio de entalpía estándar y el cambio de energía libre estándar para cada una de las siguientes reacciones:</para>
+<para id="fs-idp203481632">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>3HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm38966592">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>3HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm15187984">(c) <m:math><m:mrow><m:msub><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>6H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2B</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>6H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm22185504">
+<para id="fs-idp258684208">(a) Δ<emphasis effect="italics">H</emphasis>° = 87 kJ; Δ<emphasis effect="italics">G</emphasis>° = 44 kJ; (b) Δ<emphasis effect="italics">H</emphasis>° = -109,9 kJ; Δ<emphasis effect="italics">G°</emphasis> = -154,7 kJ; (c) Δ<emphasis effect="italics">H</emphasis>° = -510 kJ; Δ<emphasis effect="italics">G</emphasis>° = -601,5 kJ</para>
+</solution>
+</exercise>
+<exercise id="fs-idp421376">
+<problem id="fs-idm9258256">
+<para id="fs-idp52675584">Un hidruro de silicio preparado por la reacción de Mg<sub>2</sub>Si con ácido ejerció una presión de 306 torr a 26 °C en un bulbo con un volumen de 57,0 mL. Si la masa del hidruro era de 0,0861 g, ¿cuál es su masa molecular? ¿Cuál es la fórmula molecular del hidruro?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm48610704">
+<problem id="fs-idp18976640">
+<para id="fs-idm10763856">Supongamos que descubre un diamante completamente encerrado en una roca de silicato. ¿Cómo se puede liberar químicamente el diamante sin dañarlo?</para>
+</problem>
+<solution id="fs-idp92148192">
+<para id="fs-idp142206176">Una solución suave de ácido fluorhídrico disolvería el silicato y no dañaría el diamante.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp50657904">
+<term>amorfo</term>
+<meaning id="fs-idp241558336">material sólido como un vidrio que no tiene un componente de repetición regular en su estructura tridimensional; un sólido pero no un cristal</meaning>
+</definition>
+<definition id="fs-idp42336592">
+<term>borato</term>
+<meaning id="fs-idp122324176">compuesto que contiene enlaces de boro-oxígeno, normalmente con racimos o cadenas como parte de la estructura química</meaning>
+</definition>
+<definition id="fs-idp20554272">
+<term>polimorfo</term>
+<meaning id="fs-idp51271984">variación de la estructura cristalina que da lugar a diferentes propiedades físicas del compuesto resultante</meaning>
+</definition>
+<definition id="fs-idp17081184">
+<term>silicato</term>
+<meaning id="fs-idp356029440">compuesto que contiene enlaces silicio-oxígeno, con tetraedros de silicato conectados en anillos, láminas o redes tridimensionales, dependiendo de los otros elementos que intervienen en la formación de los compuestos</meaning>
+</definition>
+</glossary>
+</document>

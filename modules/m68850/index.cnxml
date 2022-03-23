@@ -1,0 +1,28 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introducción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68850</md:content-id>
+  <md:title>Introducción</md:title>
+  <md:abstract><list>
+<item>Estructura y estabilidad nuclear</item>
+<item>Ecuaciones nucleares</item>
+<item>Decaimiento radiactivo</item>
+<item>Transmutación y energía nuclear</item>
+<item>Usos de los radioisótopos</item>
+<item>Efectos biológicos de la radiación</item>
+</list></md:abstract>
+  <md:uuid>242a0400-57dd-4b92-a971-19ed2c94b9c6</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_21_00_NuclearMed" class="splash">
+<media id="fs-idm8172160" alt="Una imagen muestra cuatro conjuntos de cuadros médicos. La primera corresponde al torso y los brazos de un esqueleto humano con sombreado morado en las regiones musculares. La segunda es un conjunto de cuatro imágenes: la de arriba a la izquierda, marcada como &quot;Fumador&quot;, muestra una imagen ovalada que es azul en el borde exterior, verde a medida que se avanza hacia el interior y roja brillante cerca del centro, mientras que la de arriba a la derecha, marcada como &quot;No fumador&quot;, muestra una imagen ovalada que está sombreada en verde brillante en su mayor parte y en rojo brillante cerca del centro. La imagen inferior izquierda de las cuatro, marcada como &quot;Alcohólico&quot;, es ovalada azul casi en su totalidad con dos pequeños puntos rojos de borde amarillo cerca de la sección superior central. La imagen inferior derecha, marcada como &quot;Normal&quot;, tiene un aspecto muy similar a la inferior izquierda, pero las regiones rojas son un poco más grandes. La última imagen muestra dos exploraciones de un torso humano de lado. La exploración de la izquierda tiene tres zonas blanco-amarillentas brillantes: una en la garganta, otra en el pecho y otra en la cabeza. La exploración de la derecha es igual que la de la izquierda, salvo que las regiones brillantes son más tenues y los órganos internos están más definidos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_21_00_NuclearMed.jpg"/>
+</media>
+<caption>La química nuclear es la base de muchos métodos diagnósticos y terapéuticos útiles en medicina, como estas tomografías por emisión de positrones (Positron Emission Tomography, PET). La tomografía PET / computarizada de la izquierda muestra la actividad muscular. Las exploraciones cerebrales del centro muestran diferencias químicas en la señalización de la dopamina en los cerebros de adictos y no adictos. Las imágenes de la derecha muestran una aplicación oncológica de la PET para identificar metástasis en los ganglios linfáticos.</caption>
+</figure>
+<para id="fs-idp145142544">Las reacciones químicas que hemos considerado en los capítulos anteriores implican cambios en la estructura <emphasis effect="italics">electrónica</emphasis> de las especies implicadas, es decir, la disposición de los electrones alrededor de los átomos, iones o moléculas. La estructura <emphasis effect="italics">nuclear</emphasis>, es decir, el número de protones y neutrones en los núcleos de los átomos implicados, no cambia durante las reacciones químicas.</para>
+<para id="fs-idp209834320">En este capítulo se introducirá el tema de la química nuclear, que comenzó con el descubrimiento de la radiactividad en 1896 por el físico francés Antoine Becquerel y que ha adquirido mayor importancia durante los siglos XX y XXI, al sentar las bases de diversas tecnologías relacionadas con la energía, la medicina, la geología y muchas otras áreas.</para>
+   </content>
+</document>
