@@ -1,0 +1,192 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Las primeras ideas de la teoría atómica</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68685</md:content-id>
+  <md:title>Las primeras ideas de la teoría atómica</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Enunciar los postulados de la teoría atómica de Dalton. </item>
+<item>Utilizar los postulados de la teoría atómica de Dalton para explicar las leyes de las proporciones definidas y múltiples.</item>
+</list></md:abstract>
+  <md:uuid>3c9c47d2-06f5-42b3-ba17-2248cc3dd7a9</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp22389648">La primera discusión registrada sobre la estructura básica de la materia proviene de los antiguos filósofos griegos, los científicos de su época. En el siglo V a.C., Leucipo y Demócrito sostenían que toda la materia estaba compuesta por partículas pequeñas y finitas que llamaban <emphasis effect="italics">átomos</emphasis>, término derivado de la palabra griega "indivisible". Pensaron en los átomos como partículas móviles que diferían en forma y tamaño, y que podían unirse. Más tarde, Aristóteles y otros llegaron a la conclusión de que la materia estaba formada por diversas combinaciones de los cuatro “elementos”: fuego, tierra, aire y agua, y podía dividirse infinitamente. Curiosamente, estos filósofos pensaban en los átomos y los "elementos" como conceptos filosóficos, pero aparentemente nunca se plantearon realizar experimentos para comprobar sus ideas.</para>
+<para id="fs-idp136823072">La visión aristotélica de la composición de la materia se mantuvo durante más de dos mil años, hasta que el maestro de escuela inglés John Dalton contribuyó a revolucionar la química con su hipótesis de que el comportamiento de la materia podía explicarse mediante una teoría atómica. Publicada por primera vez en 1807, muchas de las hipótesis de Dalton sobre las características microscópicas de la materia siguen siendo válidas en la teoría atómica moderna. Estos son los postulados de la <term>teoría atómica de Dalton</term>.</para>
+<list id="fs-idp28280144" list-type="enumerated" number-style="arabic">
+<item>La materia está compuesta por partículas extremadamente pequeñas llamadas átomos. Un <term class="no-emphasis">átomo</term> es la unidad más pequeña de un elemento que puede participar en un cambio químico.</item>
+<item>Un <term class="no-emphasis">elemento</term> está formado por un solo tipo de átomo, que tiene una masa característica del elemento y que es la misma para todos los átomos de ese elemento (<link target-id="CNX_Chem_02_01_Dalton1"/>). Una muestra macroscópica de un elemento contiene un número increíblemente grande de átomos, todos los cuales tienen propiedades químicas idénticas.
+<figure id="CNX_Chem_02_01_Dalton1" class="scaled-down">
+<media id="fs-idm67856816" alt="La imagen de la izquierda muestra una fotografía de una pila de monedas de un centavo. La imagen de la derecha señala un área de uno de los centavos, que está formado por muchos átomos de cobre con forma de esfera. Los átomos están densamente organizados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton1.jpg"/>
+</media>
+<caption>Un centavo de cobre anterior a 1982 (izquierda) contiene aproximadamente 3 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>22</sup> átomos de cobre (varias docenas se representan como esferas marrones a la derecha), cada uno de los cuales tiene las mismas propiedades químicas (créditos: modificación del trabajo de "slgckgc”/Flickr).</caption>
+</figure></item>
+<item>Los átomos de un elemento difieren en propiedades de los átomos de todos los demás elementos.</item>
+<item>Un compuesto está formado por átomos de dos o más elementos combinados en una pequeña proporción de números enteros. En un determinado compuesto, el número de átomos de cada uno de sus elementos está siempre presente en la misma proporción (<link target-id="CNX_Chem_02_01_Dalton2"/>).
+<figure id="CNX_Chem_02_01_Dalton2" class="scaled-down">
+<media id="fs-idp25149184" alt="La imagen de la izquierda muestra un contenedor con un compuesto negro en polvo. La imagen de la derecha muestra la estructura molecular del polvo, que contiene átomos de cobre agrupados con un número igual de átomos de oxígeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton2.jpg"/>
+</media>
+<caption>El óxido de cobre(II), un compuesto negro y pulverulento, resulta de la combinación de dos tipos de átomos, cobre (esferas marrones) y oxígeno (esferas rojas), en una proporción de 1:1 (créditos: modificación de la obra de "Chemicalinterest"/Wikimedia Commons).</caption>
+</figure></item>
+<item>Los átomos no se crean ni se destruyen durante un cambio químico, sino que se reordenan para dar lugar a sustancias diferentes de las presentes antes del cambio (<link target-id="CNX_Chem_02_01_Dalton3"/>).
+<figure id="CNX_Chem_02_01_Dalton3" class="scaled-down">
+<media id="fs-idm75378992" alt="La botella tapada de la izquierda contiene cobre y oxígeno. Hay un aviso que muestra que el cobre está formado por muchos átomos en forma de esfera. Los átomos están densamente organizados. El espacio abierto de la botella contiene gas oxígeno, que está formado por pares de átomos de oxígeno unidas y espaciadas uniformemente. La botella tapada de la derecha muestra el compuesto de óxido de cobre dos, que es una sustancia negra y pulverulenta. Un aviso desde el polvo muestra una molécula de óxido de cobre dos, que contiene átomos de cobre agrupados con un número igual de átomos de oxígeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton3.jpg"/>
+</media>
+<caption>Cuando los elementos cobre (un sólido brillante de color marrón rojizo, mostrado aquí como esferas marrones) y oxígeno (un gas claro e incoloro, mostrado aquí como esferas rojas) reaccionan, sus átomos se reordenan para formar un compuesto que contiene cobre y oxígeno (un sólido negro en polvo) (créditos de cobre: modificación del trabajo de http://images-of-elements.com/copper.php).</caption>
+</figure></item>
+</list>
+<para id="fs-idp64032864">La teoría atómica de Dalton ofrece una explicación microscópica de las numerosas propiedades macroscópicas de la materia de las que ha aprendido. Por ejemplo, si un elemento como el cobre está formado por un solo tipo de átomos, no puede descomponerse en sustancias más simples, es decir, en sustancias compuestas por menos tipos de átomos. Y si los átomos no se crean ni se destruyen durante un cambio químico, entonces la masa total de materia presente cuando la materia cambia de un tipo a otro permanecerá constante (ley de conservación de la materia).</para>
+<example id="fs-idp23171216">
+<para id="fs-idm69166560">
+<title>Prueba de la teoría atómica de Dalton</title>
+En el siguiente dibujo, las esferas verdes representan átomos de un determinado elemento. Las esferas moradas representan átomos de otro elemento. Si las esferas se tocan, forman parte de una unidad de un compuesto. ¿El siguiente cambio químico representado por estos símbolos viola alguna de las ideas de la teoría atómica de Dalton? Si es así, ¿cuál?</para>
+<media id="fs-idp71137024" alt="Esta ecuación muestra que los materiales de partida de la reacción son dos esferas verdes enlazadas, que se combinan con dos esferas púrpuras más pequeñas enlazadas. El producto del cambio es una esfera púrpura que se une a una esfera verde." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton6_img.jpg"/>
+</media>
+<para id="fs-idm4192784">
+<title>Solución</title>
+Los materiales de partida consisten en dos esferas verdes y dos esferas púrpura. Los productos consisten en una sola esfera verde y una esfera púrpura. Esto viola el postulado de Dalton de que los átomos no se crean ni se destruyen durante un cambio químico, sino que simplemente se redistribuyen. (En este caso, los átomos parecen haber sido destruidos)</para>
+<para id="fs-idp39901584">
+<title>Compruebe lo aprendido</title>
+En el siguiente dibujo, las esferas verdes representan átomos de un determinado elemento. Las esferas moradas representan átomos de otro elemento. Si las esferas se tocan, forman parte de una unidad de un compuesto. ¿El siguiente cambio químico representado por estos símbolos viola alguna de las ideas de la teoría atómica de Dalton? Si es así, ¿cuál?</para>
+<media id="fs-idp149298560" alt="Esta ecuación muestra que los materiales de partida de la reacción son dos conjuntos de esferas verdes enlazadas que se combinan con dos esferas púrpuras más pequeñas enlazadas. Los productos del cambio son dos moléculas que contienen una esfera púrpura cada una enlazada entre dos esferas verdes." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton8_img.jpg"/>
+</media>
+<note id="fs-idm55003792">
+<title>Respuesta:</title>
+<para id="fs-idp136824288">Los materiales de partida consisten en cuatro esferas verdes y dos esferas púrpura. Los productos consisten en cuatro esferas verdes y dos esferas púrpura. Esto no viola ninguno de los postulados de Dalton: Los átomos no se crean ni se destruyen, sino que se redistribuyen en pequeñas proporciones de números enteros.</para>
+</note>
+</example>
+<para id="fs-idp28034944">Dalton conocía los experimentos del químico francés Joseph Proust, quien demostró que <emphasis effect="italics">todas las muestras de un compuesto puro contienen los mismos elementos en la misma proporción en masa</emphasis>. Esta afirmación se conoce como la <term>ley de las proporciones definidas</term> o la <term>ley de la composición constante</term>. La sugerencia de que el número de átomos de los elementos de un determinado compuesto existe siempre en la misma proporción es coherente con estas observaciones. Por ejemplo, cuando se analizan diferentes muestras de isooctano (un componente de la gasolina y uno de los estándares utilizados en el sistema de octanaje), se encuentra que tienen una relación de masa de carbono a hidrógeno de 5,33:1, como se muestra en la <link target-id="fs-idp114534448"/>.</para>
+<table id="fs-idp114534448" class="top-titled" summary="Esta tabla muestra la cantidad de carbono e hidrógeno que hay en las muestras A, B y C, así como la relación de masas de cada una. La muestra A contiene 14,82 gramos de carbono y 2,78 gramos de hidrógeno. Su relación de masa es, por tanto, de 14,82 gramos de carbono sobre 2,78 gramos de hidrógeno. Esta relación equivale a 5,33 gramos de carbono sobre 1,00 gramo de hidrógeno. La muestra B contiene 22,33 gramos de carbono y 4,19 gramos de hidrógeno. Su relación de masa es de 22,3 gramos de carbono sobre 4,19 gramos de hidrógeno, lo que equivale a 5,33 gramos de carbono sobre 1,00 gramo de hidrógeno. La muestra C contiene 19,40 gramos de carbono y 3,64 gramos de hidrógeno. Su relación de masa es de 19,40 gramos de carbono sobre 3,63 gramos de hidrógeno, lo que equivale a 5,33 gramos de carbono sobre 1,00 gramo de hidrógeno.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Composición constante del isooctano</entry>
+</row>
+<row valign="top">
+<entry align="left">Muestra</entry><entry align="left">Carbono</entry><entry align="left">Hidrógeno</entry><entry align="left">Relación de masa</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="center">A</entry><entry align="center">14,82 g</entry><entry align="center">2,78 g</entry><entry align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>14,82 g de carbono</m:mtext></m:mrow><m:mrow><m:mtext>2,78 g de hidrógeno</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>5,33 g de carbono</m:mtext></m:mrow><m:mrow><m:mtext>1,00 g de hidrógeno</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row valign="top">
+<entry align="center">B</entry><entry align="center">22,33 g</entry><entry align="center">4,19 g</entry><entry align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>22,33 g de carbono</m:mtext></m:mrow><m:mrow><m:mtext>4,19 g de hidrógeno</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>5,33 g de carbono</m:mtext></m:mrow><m:mrow><m:mtext>1,00 g de hidrógeno</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row valign="top">
+<entry align="center">C</entry><entry align="center">19,40 g</entry><entry align="center">3,64 g</entry><entry align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>19,40 g de carbono</m:mtext></m:mrow><m:mrow><m:mtext>3,63 g de hidrógeno</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>5,33 g de carbono</m:mtext></m:mrow><m:mrow><m:mtext>1,00 g de hidrógeno</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp149501712">Cabe destacar que, aunque todas las muestras de un determinado compuesto tengan la misma relación de masas, lo contrario no es cierto en general. Es decir, las muestras que tienen la misma relación de masa no son necesariamente la misma sustancia. Por ejemplo, hay muchos compuestos, además del isooctano, que también tienen una relación de masas de carbono a hidrógeno de 5,33:1,00.</para>
+<para id="fs-idp113358288">Dalton también utilizó los datos de Proust, así como los resultados de sus propios experimentos, para formular otra ley interesante. La <term>ley de las proporciones múltiples</term> establece que <emphasis effect="italics">cuando dos elementos reaccionan para formar más de un compuesto, una masa fija de un elemento reaccionará con masas del otro elemento en una relación de números enteros y sencillos</emphasis>. Por ejemplo, el cobre y el cloro pueden formar un sólido verde y cristalino con una relación de masas de 0,558 g de cloro por 1 g de cobre, así como un sólido cristalino marrón con una relación de masas de 1,116 g de cloro por 1 g de cobre. Estas relaciones por sí mismas pueden no parecer especialmente interesantes o informativas; sin embargo, si tomamos una relación de estas proporciones obtenemos un resultado útil y posiblemente sorprendente: una relación de números enteros y sencillos.</para>
+<equation id="fs-idp92779296" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mtext>1,116 g Cl</m:mtext></m:mrow><m:mrow><m:mtext>1 g de Cu</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>0,558 g Cl</m:mtext></m:mrow><m:mrow><m:mtext>1 g de Cu</m:mtext></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>2 </m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp35032848">Esta relación de 2 a 1 significa que el compuesto marrón tiene el doble de cantidad de cloro por cantidad de cobre que el compuesto verde.</para>
+<para id="fs-idm113441696">Esto puede explicarse mediante la teoría atómica si la relación cobre-cloro en el compuesto marrón es de 1 átomo de cobre por 2 átomos de cloro, y la relación en el compuesto verde es de 1 átomo de cobre por 1 átomo de cloro. La relación de los átomos de cloro (y, por lo tanto, la relación de sus masas) es por consiguiente de 2 a 1 (<link target-id="CNX_Chem_02_01_MultProp"/>).</para>
+<figure id="CNX_Chem_02_01_MultProp" class="scaled-down">
+<media id="fs-idp111881472" alt="La figura A muestra un montón de polvo verde. Un aviso muestra que el polvo verde está formado por una red de átomos de cobre intercalados con átomos de cloro. Los átomos tienen un código de color marrón para el cobre y verde para el cloro. El número de átomos de cobre es igual al número de átomos de cloro en la molécula. La figura B muestra un montón de polvo marrón. Un aviso muestra que el polvo marrón también está formado por átomos de cobre y cloro, de forma similar a la molécula mostrada en la figura A. Sin embargo, parece que hay dos átomos de cloro por cada átomo de cobre en esta molécula. Los átomos de cobre de la figura B se enlazan tanto a los átomos de cloro como a los otros átomos de cobre. Los átomos de cobre de la figura A solo se unen a los átomos de cloro.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_MultProp.jpg"/>
+</media>
+<caption>En comparación con el compuesto de cobre y cloro de (a), donde el cobre está representado por esferas marrones y el cloro por esferas verdes, el compuesto de cobre y cloro de (b) tiene el doble de átomos de cloro por cada átomo de cobre (créditos a: modificación de la obra de "Benjah-bmm27"/Wikimedia Commons; créditos b: modificación de la obra de "Walkerma"/Wikimedia Commons).</caption>
+</figure>
+<example id="fs-idp28025040">
+<para id="fs-idp31315072">
+<title>Leyes de las proporciones definidas y múltiples</title>
+Se analiza una muestra del compuesto A (un gas claro e incoloro) y se encuentra que contiene 4,27 g de carbono y 5,69 g de oxígeno. Se analiza una muestra del compuesto B (también un gas claro e incoloro) y se encuentra que contiene 5,19 g de carbono y 13,84 g de oxígeno. ¿Son estos datos un ejemplo de la ley de las proporciones definidas, de la ley de las proporciones múltiples o de ninguna de ellas? ¿Qué le dicen estos datos sobre las sustancias A y B?</para>
+<para id="fs-idm71104640"><title>Solución</title>En el compuesto A, la relación de masas entre el oxígeno y el carbono es:<newline/>
+<equation id="fs-idm27225408" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>1,33 g de O</m:mtext></m:mrow><m:mrow><m:mtext>1 g de C</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation></para><para id="fs-idp26443712">En el compuesto B, la relación de masas entre el oxígeno y el carbono es:<newline/>
+<equation id="fs-idm193212704" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>2,67 g de O</m:mtext></m:mrow><m:mrow><m:mtext>1 g de C</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation></para><para id="fs-idp25964592">La relación de estas proporciones es:<newline/>
+<equation id="fs-idm53123280" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mtext>1,33 g de O</m:mtext></m:mrow><m:mrow><m:mtext>1 g de C</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>2,67 g de O</m:mtext></m:mrow><m:mrow><m:mtext>1 g de C</m:mtext></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2 </m:mn></m:mfrac></m:mrow></m:math></equation></para>
+<para id="fs-idm85625680">Esto apoya la ley de las proporciones múltiples. Esto significa que A y B son compuestos diferentes, teniendo A la mitad de oxígeno por cantidad de carbono (o el doble de carbono por cantidad de oxígeno) que B. Un posible par de compuestos que se ajustaría a esta relación sería A = CO y B =CO<sub>2</sub>.</para><para id="fs-idp13365184">
+<title>Compruebe lo aprendido</title>
+Se analiza una muestra del compuesto X (un líquido claro, incoloro y combustible con un olor perceptible) y se encuentra que contiene 14,13 g de carbono y 2,96 g de hidrógeno. Se analiza una muestra del compuesto Y (un líquido claro, incoloro y combustible con un olor perceptible que es ligeramente diferente del olor de X) y se encuentra que contiene 19,91 g de carbono y 3,34 g de hidrógeno. ¿Son estos datos un ejemplo de la ley de las proporciones definidas, de la ley de las proporciones múltiples o de ninguna de ellas? ¿Qué le dicen estos datos sobre las sustancias “X” y “Y”?</para>
+<note id="fs-idp90686448">
+<title>Respuesta:</title>
+<para id="fs-idp130268400">En el compuesto X, la relación de masas entre el carbono y el hidrógeno es <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>14,13 g de C</m:mtext></m:mrow><m:mrow><m:mtext>2,96 g de H</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> En el compuesto Y, la relación de masas entre el carbono y el hidrógeno es <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>19,91 g de C</m:mtext></m:mrow><m:mrow><m:mtext>3,34 g de H</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> La relación de estas proporciones es <m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mtext>14,13 g de C</m:mtext></m:mrow><m:mrow><m:mtext>2,96 g de H</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>19,91 g de C</m:mtext></m:mrow><m:mrow><m:mtext>3,34 g de H</m:mtext></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>4,77 g C/g H</m:mtext></m:mrow><m:mrow><m:mtext>5,96 g C/g H</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,800</m:mn><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Esta pequeña relación de números enteros apoya la ley de las proporciones múltiples. Esto significa que X y Y son compuestos diferentes.</para>
+</note>
+</example>
+<section id="fs-idp7570768" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm8092064">Los antiguos griegos propusieron que la materia está formada por partículas extremadamente pequeñas llamadas átomos. Dalton postuló que cada elemento tiene un tipo de átomo característico que difiere en sus propiedades de los átomos de todos los demás elementos, y que los átomos de diferentes elementos pueden combinarse en proporciones fijas, sencillas y enteras para formar compuestos. Las muestras de un determinado compuesto tienen todas las mismas proporciones elementales en masa. Cuando dos elementos forman compuestos diferentes, una masa determinada de un elemento se combina con masas del otro elemento en una relación de números enteros sencilla. Durante cualquier cambio químico, los átomos no se crean ni se destruyen.</para>
+</section>
+<section id="fs-idm51563888" class="exercises">
+<title>Ejercicios de Química del final del capítulo</title>
+<exercise id="fs-idp69222896">
+<problem id="fs-idm56556832">
+<para id="fs-idm80213408">En el siguiente dibujo, las esferas verdes representan átomos de un determinado elemento. Las esferas moradas representan átomos de otro elemento. Si las esferas de diferentes elementos se tocan, forman parte de una sola unidad de un compuesto. El siguiente cambio químico representado por estas esferas puede violar una de las ideas de la teoría atómica de Dalton. ¿Cuál?<newline/></para>
+<media id="fs-idp159684336" alt="Esta ecuación contiene los materiales de partida de una sola esfera verde más dos esferas púrpuras más pequeñas enlazadas entre sí. Al sumar los materiales de partida, los productos del cambio son una esfera púrpura enlazada a una esfera verde y una esfera púrpura enlazada a una esfera verde." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_01_Dalton10_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idm51350640"><para id="fs-idp159650544">Los materiales de partida consisten en una esfera verde y dos esferas púrpura. Los productos consisten en dos esferas verdes y dos esferas púrpura. Esto viola el postulado de Dalton de que los átomos no se crean durante un cambio químico, sino que simplemente se redistribuyen.</para></solution>
+</exercise>
+<exercise id="fs-idp28065472">
+<problem id="fs-idp130270640">
+<para id="fs-idp88764640">¿Qué postulado de la teoría de Dalton es coherente con la siguiente observación relativa a los pesos de los reactivos y los productos? Cuando se calientan 100 gramos de carbonato de calcio sólido, se producen 44 gramos de dióxido de carbono y 56 gramos de óxido de calcio.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm83132240">
+<problem id="fs-idp124557504">
+<para id="fs-idm69044608">Identifique qué postulado de la teoría de Dalton es violado por las siguientes observaciones: 59,95 % de una muestra de dióxido de titanio es titanio; el 60,10 % de otra muestra de dióxido de titanio es titanio.</para>
+</problem>
+<solution id="fs-idp140553984"><para id="fs-idp110196432">Esta afirmación viola el cuarto postulado de Dalton: En un compuesto dado, el número de átomos de cada tipo (y por tanto también el porcentaje) tiene siempre la misma relación.</para></solution>
+</exercise>
+<exercise id="fs-idp146757152">
+<problem id="fs-idm73587216">
+<para id="fs-idp38338048">Se analizan muestras del compuesto X, Y y Z, y los resultados se muestran aquí.</para>
+<table id="fs-idp22296752" class="unnumbered" summary="Esta tabla tiene una columna &quot;descripción&quot;, una columna &quot;masa de carbono&quot; y una columna &quot;masa de hidrógeno&quot; para los compuestos X, Y y Z. El compuesto X es un líquido claro e incoloro con un fuerte olor. Su masa de carbono es de 1,776 gramos, y su masa de hidrógeno es de 0,148 gramos. El compuesto Y también es un líquido transparente e incoloro de olor fuerte. Su masa de carbono es de 1,974 gramos, y su masa de hidrógeno es de 0,329 gramos. El compuesto Z también es un líquido transparente e incoloro de olor fuerte. Su masa de carbono es de 7,812 gramos y su masa de hidrógeno es de 0,651 g.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="left">Compuesto</entry><entry align="center">Descripción</entry><entry align="center">Masa de carbono</entry><entry align="center">Masa de hidrógeno</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">X</entry><entry align="center">líquido claro, incoloro, con fuerte olor</entry><entry align="center">1,776 g</entry><entry align="center">0,148 g</entry>
+</row>
+<row valign="top">
+<entry align="left">Y</entry><entry align="center">líquido claro, incoloro, con fuerte olor</entry><entry align="center">1,974 g</entry><entry align="center">0,329 g</entry>
+</row>
+<row valign="top">
+<entry align="left">Z</entry><entry align="center">líquido claro, incoloro, con fuerte olor</entry><entry align="center">7,812 g</entry><entry align="center">0,651 g</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm32094368">¿Proporcionan estos datos ejemplos de la ley de las proporciones definidas, de la ley de las proporciones múltiples, de ninguna de ellas o de ambas? ¿Qué le dicen estos datos sobre los compuestos X, Y y Z?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idp110829184">
+<term>teoría atómica de Dalton</term>
+<meaning id="fs-idp62055392">conjunto de postulados que establecieron las propiedades fundamentales de los átomos</meaning>
+</definition>
+<definition id="fs-idm56716560">
+<term>ley de composición constante</term>
+<meaning id="fs-idp176800224">(también, ley de las proporciones definidas) todas las muestras de un compuesto puro contienen los mismos elementos en las mismas proporciones en masa</meaning>
+</definition>
+<definition id="fs-idp76336256">
+<term>ley de las proporciones definidas</term>
+<meaning id="fs-idm122211552">(también, ley de composición constante) todas las muestras de un compuesto puro contienen los mismos elementos en las mismas proporciones en masa</meaning>
+</definition>
+<definition id="fs-idp47442976">
+<term>ley de las proporciones múltiples</term>
+<meaning id="fs-idm76569024">cuando dos elementos reaccionan para formar más de un compuesto, una masa fija de un elemento reacciona con masas del otro elemento en una proporción de números enteros sencillos</meaning>
+</definition>
+</glossary>
+</document>

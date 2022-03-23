@@ -1,0 +1,26 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introducción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71825</md:content-id>
+  <md:title>Introducción</md:title>
+  <md:abstract><list><item>Teoría de enlace de valencia</item>
+<item>Orbitales atómicos híbridos</item>
+<item>Enlaces múltiples</item>
+<item>Teoría de los orbitales moleculares</item></list></md:abstract>
+  <md:uuid>5ed46911-a4b7-4944-b746-f224f5031db4</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_08_00_LiqO2" class="splash">
+<media id="fs-idp76967904" alt="Se muestra una jarra que vierte oxígeno líquido a través del hueco entre dos imanes, donde ha formado un disco sólido. Un cuadro con leyenda cerca del chorro de oxígeno líquido muestra una imagen de seis pares de esferas, separadas unas de otras. Otro cuadro con leyenda cerca del disco sólido muestra diez pares de esferas mucho más cercanas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_00_LiqO2.jpg"/>
+</media>
+<caption>Las moléculas de oxígeno se orientan al azar la mayor parte del tiempo, como se muestra en la vista superior ampliada. Sin embargo, cuando vertemos oxígeno líquido a través de un imán, las moléculas se alinean con el campo magnético y la atracción les permite permanecer suspendidas entre los polos del imán, donde el campo magnético es más fuerte. Otras moléculas diatómicas (como el N<sub>2</sub>) pasan por delante del imán. La explicación detallada del enlace descrito en este capítulo nos permite entender este fenómeno. (Crédito: modificación del trabajo del Jefferson Lab).</caption>
+</figure>
+<para id="fs-idp262340496">Hemos examinado las ideas básicas del enlace, mostrando que los átomos comparten electrones para formar moléculas con estructuras de Lewis estables y que podemos predecir las formas de esas moléculas mediante la teoría de repulsión de pares de electrones de la capa de valencia (VSEPR). Estas ideas proporcionan un importante punto de partida para entender el enlace químico. Pero estos modelos a veces se quedan cortos en su capacidad para predecir el comportamiento de las sustancias reales. ¿Cómo podemos conciliar las geometrías de los orbitales atómicos <emphasis effect="italics">s, p,</emphasis> y <emphasis effect="italics">d</emphasis> con las formas moleculares que muestran ángulos como 120° y 109,5°? Además, sabemos que los electrones y el comportamiento magnético están relacionados a través de los campos electromagnéticos. Tanto el N<sub>2</sub> como el O<sub>2</sub> tienen estructuras Lewis bastante similares que contienen pares solitarios de electrones.</para>
+<media id="fs-idp82346208" alt="Se muestran dos diagramas de Lewis. El diagrama de la izquierda muestra dos átomos de nitrógeno, representados por la letra N conectada por tres líneas y con un par solitario de electrones en cada extremo de la estructura. El diagrama de la derecha muestra dos átomos de oxígeno, representados por la letra O, conectados por dos líneas. Dos pares de electrones rodean cada oxígeno hacia la parte superior y los extremos de la estructura.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_00_N2O2Lewis_img.jpg"/>
+</media>
+<para id="fs-idm1216176">Sin embargo, el oxígeno muestra un comportamiento magnético muy diferente al del nitrógeno. Podemos verter nitrógeno líquido a través de un campo magnético sin que se produzcan interacciones visibles, mientras que el oxígeno líquido (mostrado en la <link target-id="CNX_Chem_08_00_LiqO2"/>) es atraído por el imán y flota en el campo magnético. Necesitamos entender los conceptos adicionales de la teoría del enlace de valencia, la hibridación de orbitales y la teoría de orbitales moleculares para comprender estas observaciones.</para>
+ </content>
+</document>

@@ -1,0 +1,411 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Compuestos iónicos y moleculares</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68696</md:content-id>
+  <md:title>Compuestos iónicos y moleculares</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Definir los compuestos iónicos y moleculares (covalentes).</item>
+<item>Predecir el tipo de compuesto que se forma a partir de los elementos en función de su ubicación en la tabla periódica.</item>
+<item>Determinar las fórmulas de los compuestos iónicos simples.</item>
+</list></md:abstract>
+  <md:uuid>f1c0d0db-2d56-4a2f-b6cb-2bf649278669</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp207102304">En las reacciones químicas ordinarias, el núcleo de cada átomo (y, por lo tanto, la identidad del elemento) permanece inalterado. Sin embargo, los electrones pueden añadirse a los átomos por transferencia desde otros átomos, perderse por transferencia a otros átomos o compartirse con otros átomos. La transferencia y el intercambio de electrones entre los átomos rigen la química de los elementos. Durante la formación de algunos compuestos, los átomos ganan o pierden electrones y forman partículas cargadas eléctricamente llamadas iones (<link target-id="CNX_Chem_02_06_NaCation"/>).</para>
+<figure id="CNX_Chem_02_06_NaCation"><media id="fs-idp93507216" alt="La figura A muestra un átomo de sodio, N a, cuyo núcleo contiene 11 protones y 12 neutrones. La nube de electrones que rodea al átomo contiene 11 electrones. La figura B muestra un ion sodio, N un signo positivo en superíndice. Su núcleo contiene 11 protones y 12 neutrones. La nube de electrones del ion contiene 10 electrones y es más pequeña que la del átomo de sodio de la figura A.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_06_NaCation.jpg"/>
+</media>
+<caption>(a) Un átomo de sodio (Na) tiene el mismo número de protones y de electrones (11) y no tiene carga. (b) Un catión de sodio (Na<sup>+</sup>) ha perdido un electrón, por lo que tiene un protón más (11) que electrones (10), lo que le confiere una carga global positiva, señalada con un signo positivo en superíndice.</caption></figure>
+<para id="fs-idp286908208">Puede utilizar la tabla periódica para predecir si un átomo formará un anión o un catión, y a menudo se puede predecir la carga del ion resultante. Los átomos de muchos metales del grupo principal pierden suficientes electrones para dejarlos con el mismo número de electrones que un átomo del gas noble anterior. Por ejemplo, un átomo de un metal alcalino (grupo 1) pierde un electrón y forma un catión con carga 1+; un metal alcalinotérreo (grupo 2) pierde dos electrones y forma un catión con carga 2+, y así sucesivamente. Por ejemplo, un átomo de calcio neutro, con 20 protones y 20 electrones, pierde fácilmente dos electrones. El resultado es un catión con 20 protones, 18 electrones y una carga 2+. Tiene el mismo número de electrones que los átomos del gas noble anterior, el argón, y se simboliza como Ca<sup>2+</sup>. El nombre de un ion metálico es el mismo que el del átomo metálico del que se forma, por lo que el Ca<sup>2+</sup> se llama ion calcio.</para>
+<para id="fs-idp20416832">Cuando los átomos de los elementos no metálicos forman iones, generalmente ganan suficientes electrones para tener el mismo número de electrones que un átomo del siguiente gas noble de la tabla periódica. Los átomos del grupo 17 ganan un electrón y forman aniones con carga 1-; los átomos del grupo 16 ganan dos electrones y forman iones con carga 2-, y así sucesivamente. Por ejemplo, el átomo neutro de bromo, con 35 protones y 35 electrones, puede ganar un electrón para disponer de 36 electrones. El resultado es un anión con 35 protones, 36 electrones y una carga de 1-. Tiene el mismo número de electrones que los átomos del siguiente gas noble, el criptón, y se simboliza como Br<sup>-</sup>. (En un capítulo posterior de este texto se ofrece una discusión de la teoría que apoya el estatus favorecido de los números de electrones de los gases nobles reflejados en estas reglas de predicción para la formación de iones).</para>
+<para id="fs-idp244942144">Observe la utilidad de la tabla periódica para predecir la formación y la carga probable de los iones (<link target-id="CNX_Chem_02_06_IonCharges"/>). Al desplazarse del extremo izquierdo al derecho en la tabla periódica, los elementos del grupo principal tienden a formar cationes con una carga igual al número de grupo. Es decir, los elementos del grupo 1 forman iones 1+; los del grupo 2, iones 2+, y así sucesivamente. Al desplazarse del extremo derecho al izquierdo en la tabla periódica, los elementos suelen formar aniones con una carga negativa igual al número de grupos desplazados a la izquierda de los gases nobles. Por ejemplo, los elementos del grupo 17 (un grupo a la izquierda de los gases nobles) forman iones 1-; los elementos del grupo 16 (dos grupos a la izquierda) forman iones 2-, y así sucesivamente. Esta tendencia puede servir de guía en muchos casos, pero su valor predictivo disminuye cuando se avanza hacia el centro de la tabla periódica. De hecho, los metales de transición y algunos otros metales suelen presentar cargas variables que no son predecibles por su ubicación en la tabla. Por ejemplo, el cobre puede formar iones con una carga 1+ o 2+, y el hierro puede formar iones con una carga 2+ o 3+.</para>
+<figure id="CNX_Chem_02_06_IonCharges">
+<media id="fs-idp341206448" alt="El grupo uno de la tabla periódica contiene a L i superíndice signo positivo en el periodo 2, N a superíndice signo positivo en el periodo 3, K superíndice signo positivo en el periodo 4, R b superíndice signo positivo en el periodo 5, C s superíndice signo positivo en el periodo 6 y F r superíndice signo positivo en el periodo 7. El grupo dos contiene B e superíndice 2 signo positivo en el periodo 2, M g superíndice 2 signo positivo en el periodo 3, C superíndice 2 signo positivo en el periodo 4, S r superíndice 2 signo positivo en el periodo 5, B a superíndice 2 signo positivo en el periodo 6 y R a superíndice 2 signo positivo en el periodo 7. El grupo seis contiene C r superíndice 3 signo positivo y el C r superíndice 6 signo positivo en el periodo 4. El grupo siete contiene M n superíndice 2 signo positivo en el periodo 4. El grupo ocho contiene F e superíndice 2 signo positivo y el F e superíndice 3 signo positivo en el periodo 4. El grupo nueve contiene C o superíndice 2 signo positivo en el periodo 4. El grupo diez contiene N i superíndice 2 signo positivo en el periodo 4, y P t superíndice 2 signo positivo en el periodo 6. El grupo 11 contiene C U superíndice signo positivo y C U superíndice 2 signo positivo en el periodo 4, A g superíndice signo positivo en el periodo 5, y A u superíndice signo positivo y A u superíndice 3 signo positivo el en el periodo 6. El grupo 12 contiene Z n superíndice 2 signo positivo en el periodo 4, C d superíndice 2 signo positivo en el periodo 5, y H g subíndice 2, superíndice 2 signo positivo y H g superíndice 2 signo positivo en el periodo 6. El grupo 13 contiene A l superíndice 3 signo positivo en el periodo 3. El grupo 14 contiene C 4 superíndice signo negativo en el periodo 2. El grupo 15 contiene N superíndice 3 signo negativo en el periodo 2, P superíndice 3 signo negativo en el periodo 3, y A s superíndice 3 signo negativo en el periodo 4. El grupo 16 contiene O superíndice 2 signo negativo en el periodo 2, S superíndice 2 signo negativo en el periodo 3, S e superíndice 2 signo negativo en el periodo 4 y T e superíndice 2 signo negativo en el periodo 5. El grupo 17 contiene F superíndice signo negativo en el periodo 2, C l superíndice signo negativo en el periodo 3, B r superíndice signo negativo en el periodo 4, I superíndice signo negativo en el periodo 5 y A t superíndice signo negativo en el periodo 6. El grupo 18 contiene H e en el periodo 1, N e en el periodo 2, A r en el periodo 3, K r en el periodo 4, X e en el periodo 5 y R n en el periodo 6.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_06_IonCharges.jpg"/>
+</media>
+<caption>Algunos elementos presentan un patrón regular de carga iónica cuando forman iones.</caption>
+</figure>
+<example id="fs-idm11079584">
+<para id="fs-idp203962032"><title>Composición de los iones</title>
+Un ion que se encuentra en algunos compuestos utilizados como antitranspirantes contiene 13 protones y 10 electrones. ¿Cuál es su símbolo?</para>
+<para id="fs-idp232924112"><title>Solución</title>
+Como el número de protones no cambia cuando un átomo forma un ion, el número atómico del elemento debe ser 13. Saber esto nos permite utilizar la tabla periódica para identificar el elemento como Al (aluminio). El átomo de Al ha perdido tres electrones y, por lo tanto, tiene tres cargas positivas más (13) que electrones (10). Se trata del catión aluminio, Al<sup>3+</sup>.</para>
+<para id="fs-idp120794800"><title>Compruebe lo aprendido</title>
+Indique el símbolo y el nombre del ion con 34 protones y 36 electrones.</para>
+<note id="fs-idp105511808"><title>Respuesta:</title>
+<para id="fs-idp2161376">Se<sup>2-</sup>, el ion seleniuro</para></note>
+</example>
+<example id="fs-idp51588352">
+<para id="fs-idp141681312"><title>Formación de iones</title>
+El magnesio y el nitrógeno reaccionan para formar un compuesto iónico. Prediga cuál forma un anión, cuál forma un catión y las cargas de cada ion. Escriba el símbolo de cada ion y nómbrelos.</para>
+<para id="fs-idp196671632"><title>Solución</title>
+La posición del magnesio en la tabla periódica (grupo 2) nos indica que es un metal. Los metales forman iones positivos (cationes). Un átomo de magnesio debe perder dos electrones para tener el mismo número de electrones que un átomo del anterior gas noble, el neón. Por lo tanto, un átomo de magnesio formará un catión con dos electrones menos que protones y una carga de 2+. El símbolo del ion es Mg<sup>2+</sup>, y se denomina ion magnesio.</para>
+<para id="fs-idp64788416">La posición del nitrógeno en la tabla periódica (grupo 15) revela que es un no metal. Los no metales forman iones negativos (aniones). Un átomo de nitrógeno debe ganar tres electrones para tener el mismo número de electrones que un átomo del siguiente gas noble, el neón. Por lo tanto, un átomo de nitrógeno formará un anión con tres electrones más que protones y una carga de 3-. El símbolo del ion es N<sup>3-</sup>, y se denomina ion nitruro.</para>
+<para id="fs-idp96722272"><title>Compruebe lo aprendido</title>
+El aluminio y el carbono reaccionan para formar un compuesto iónico. Prediga cuál forma un anión, cuál forma un catión y las cargas de cada ion. Escriba el símbolo de cada ion y nómbrelos.</para>
+<note id="fs-idp16846528">
+<title>Respuesta:</title>
+<para id="fs-idp194881696">El Al formará un catión con una carga de 3+: Al<sup>3+</sup>, un ion aluminio. El carbono formará un anión con una carga de 4-: C<sup>4−</sup>, un ion carburo.</para>
+</note>
+</example>
+<para id="fs-idp9416320">Los iones de los que hemos hablado hasta ahora se llaman <term>iones monoatómicos</term>, es decir, son iones formados por un solo átomo. También encontramos muchos <term>iones poliatómicos</term>. Estos iones, que actúan como unidades discretas, son moléculas cargadas eléctricamente (un grupo de átomos enlazados con una carga global). Algunos de los iones poliatómicos más importantes se enumeran en la <link target-id="fs-idp278664880"/>. <term>Los oxianiones</term> son iones poliatómicos que contienen uno o más átomos de oxígeno. A estas alturas de su estudio de la química, debería memorizar los nombres, fórmulas y cargas de los iones poliatómicos más comunes. Como los utilizará repetidamente, pronto se le harán familiares.</para>
+<table id="fs-idp278664880" class="top-titled" summary="Esta tabla tiene tres columnas marcadas como &quot;cargo&quot;, &quot;nombre&quot; y &quot;fórmula&quot;. El amonio tiene una carga de 1 positivo y la fórmula N H subíndice 4 superíndice signo más. El acetato tiene una carga de 1 negativo y la fórmula C subíndice 2 H subíndice 3 O subíndice 2 superíndice signo negativo. El cianuro tiene una carga de 1 negativo, y la fórmula C N superíndice signo negativo. El hidróxido tiene una carga de 1 negativo y la fórmula O H superíndice signo negativo. El nitrato tiene una carga de 1 negativo y la fórmula N O subíndice 3 superíndice signo negativo. El nitrito tiene una carga de 1 negativo y la fórmula N O subíndice 2 superíndice signo negativo. El perclorato tiene una carga de 1 negativo y la fórmula C l O subíndice 4 superíndice signo negativo. El clorato tiene una carga de 1 negativo y la fórmula C l O subíndice 3 superíndice signo negativo. El clorito tiene una carga de 1 negativo y la fórmula C l O subíndice 2 superíndice signo negativo. El hipoclorito tiene una carga de 1 negativo y la fórmula C l O superíndice signo negativo. El permanganato tiene una carga de 1 negativo y la fórmula M n O subíndice 4 superíndice signo negativo. El carbonato de hidrógeno, o bicarbonato, tiene una carga de 1 negativo y la fórmula H C O subíndice 3 superíndice signo negativo. El carbonato tiene una carga de 2 negativo y la fórmula C O subíndice 3 superíndice 2 signo negativo. El peróxido tiene una carga de 2 negativo y la fórmula O subíndice 2 superíndice 2 signo negativo. El sulfato de hidrógeno, o bisulfato, tiene una carga de 1 negativo y la fórmula H S O subíndice 4 superíndice signo negativo. El sulfato tiene una carga de 2 negativo y la fórmula S O subíndice 4 superíndice 2 signo negativo. El sulfito tiene una carga de 2 negativo y la fórmula S O subíndice 3 superíndice 2 signo negativo. El fosfato de dihidrógeno tiene una carga de 1 negativo y la fórmula H subíndice 2 P O subíndice 4 superíndice signo negativo. El fosfato de hidrógeno tiene una carga de 2 negativo y la fórmula H P O subíndice 4 superíndice 2 signo negativo. El fosfato tiene una carga de 3 negativo y la fórmula P O subíndice 4 superíndice 3 signo negativo."><tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Iones poliatómicos comunes</entry>
+</row>
+
+<row>
+<entry align="left">Nombre</entry>
+<entry align="left">Fórmula</entry>
+<entry align="left">Ácido relacionado</entry>
+<entry align="left">Fórmula</entry>
+</row>
+</thead>
+<tbody>
+
+<row>
+<entry align="left">amonio</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+
+<row>
+<entry align="left">hidronio</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>H</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+
+
+<row>
+<entry align="left">peróxido</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>2-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+
+<row>
+<entry align="left">hidróxido</entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mo> </m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+
+<row>
+<entry align="left">acetato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>COO</m:mtext><m:mn> </m:mn></m:msup></m:mrow></m:math></entry>
+<entry align="left">ácido acético</entry>
+<entry align="left">CH<sub>3</sub>COOH</entry>
+</row>
+
+<row>
+<entry align="left">cianuro</entry>
+<entry align="left">CN<sup>-</sup></entry>
+<entry align="left">ácido cianhídrico</entry>
+<entry align="left">HCN</entry>
+</row>
+
+<row>
+<entry align="left">azida</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo> </m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">ácido hidrazoico</entry>
+<entry align="left">HN<sub>3</sub></entry>
+</row>
+
+<row>
+<entry align="left">carbonato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>2-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">ácido carbónico</entry>
+<entry align="left">H<sub>2</sub>CO<sub>3</sub></entry>
+</row>
+
+<row>
+<entry align="left">bicarbonato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>HCO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo> </m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+
+<row>
+<entry align="left">nitrato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">ácido nítrico</entry>
+<entry align="left">HNO<sub>3</sub></entry>
+</row>
+
+<row>
+<entry align="left">nitrito</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">ácido nitroso</entry>
+<entry align="left">HNO<sub>2</sub></entry>
+</row>
+
+<row>
+<entry align="left">sulfato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>2−</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">ácido sulfúrico</entry>
+<entry align="left">H<sub>2</sub>SO<sub>4</sub></entry></row>
+
+<row>
+<entry align="left">sulfato de hidrógeno</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+
+<row>
+<entry align="left">sulfito</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>2−</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">ácido sulfuroso</entry>
+<entry align="left">H<sub>2</sub>SO<sub>3</sub></entry>
+</row>
+
+<row>
+<entry align="left">sulfito de hidrógeno</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HSO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+
+<row>
+<entry align="left">fosfato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">ácido fosfórico</entry>
+<entry align="left">H<sub>3</sub>PO<sub>4</sub></entry>
+</row>
+
+<row>
+<entry align="left">fosfato de hidrógeno</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HPO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math>
+</entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+
+<row>
+<entry align="left">fosfato de dihidrógeno</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"/>
+<entry align="left"/>
+</row>
+
+<row>
+<entry align="left">perclorato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">ácido perclórico</entry>
+<entry align="left">HClO<sub>4</sub></entry>
+</row>
+
+<row>
+<entry align="left">clorato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+</entry>
+<entry align="left">ácido clórico</entry>
+<entry align="left">HClO<sub>3</sub></entry>
+</row>
+
+<row>
+<entry align="left">clorito</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+</entry>
+<entry align="left">ácido clorhídrico</entry>
+<entry align="left">HClO<sub>2</sub></entry>
+</row>
+
+<row>
+<entry align="left">hipoclorito</entry>
+<entry align="left">ClO<sup>-</sup></entry>
+<entry align="left">ácido hipocloroso</entry>
+<entry align="left">HClO</entry>
+</row>
+
+<row>
+<entry align="left">cromato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CrO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>2−</m:mo></m:msup></m:mrow></m:math>
+</entry>
+<entry align="left">ácido crómico</entry>
+<entry align="left">H<sub>2</sub>CrO<sub>4</sub></entry>
+</row>
+
+<row>
+<entry align="left">dicromato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>O</m:mtext></m:mrow><m:mn>7</m:mn></m:msub><m:msup><m:mrow/><m:mo>2−</m:mo></m:msup></m:mrow></m:math>
+</entry>
+<entry align="left">ácido dicrómico</entry>
+<entry align="left">H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub></entry>
+</row>
+
+<row>
+<entry align="left">permanganato</entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+</entry>
+<entry align="left">ácido permangánico</entry>
+<entry align="left">HMnO<sub>4</sub></entry>
+</row>
+</tbody>
+
+
+</tgroup></table><para id="fs-idp210658336">Tenga en cuenta que existe un sistema para nombrar algunos iones poliatómicos; <emphasis effect="italics">-ato</emphasis> e <emphasis effect="italics">-ito</emphasis> son sufijos que designan iones poliatómicos que contienen más o menos átomos de oxígeno. <emphasis effect="italics">Per-</emphasis> (abreviatura de "hiper") e <emphasis effect="italics">hipo-</emphasis> (que significa "bajo") son prefijos que significan más átomos de oxígeno que <emphasis effect="italics">-ato</emphasis> y menos átomos de oxígeno que <emphasis effect="italics">-ito</emphasis>, respectivamente. Por ejemplo, el perclorato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> el clorato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> el clorito es <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math> y el hipoclorito es ClO<sup>-</sup>. Por desgracia, el número de átomos de oxígeno que corresponde a un sufijo o prefijo determinado no es coherente; por ejemplo, el nitrato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math> mientras que el sulfato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> Esto se tratará con más detalle en el próximo módulo sobre nomenclatura.</para><para id="fs-idm10305952">La naturaleza de las fuerzas de atracción que mantienen unidos a los átomos o iones dentro de un compuesto es la base para clasificar el enlace químico. Cuando se transfieren electrones y se forman iones, se producen <term>enlaces iónicos</term>. Los enlaces iónicos son fuerzas electrostáticas de atracción, es decir, las fuerzas de atracción experimentadas entre objetos de carga eléctrica opuesta (en este caso, cationes y aniones). Cuando se "comparten" electrones y se forman moléculas, se producen <term>enlaces covalentes</term>. Los enlaces covalentes son las fuerzas de atracción entre los núcleos cargados positivamente de los átomos enlazados y uno o más pares de electrones que se encuentran entre los átomos. Los compuestos se clasifican como iónicos o moleculares (covalentes) en función de los enlaces presentes en ellos.</para>
+<section id="fs-idp133128304" type="H2">
+<title>Compuestos iónicos</title>
+<para id="fs-idp15116752">Cuando un elemento compuesto por átomos que pierden fácilmente electrones (un metal) reacciona con un elemento compuesto por átomos que ganan fácilmente electrones (un no metal), suele producirse una transferencia de electrones que da lugar a iones. El compuesto formado por esta transferencia se estabiliza por las atracciones electrostáticas (enlaces iónicos) entre los iones de carga opuesta presentes en el compuesto. Por ejemplo, cuando cada átomo de sodio en una muestra de sodio metálico (grupo 1) cede un electrón para formar un catión de sodio, Na<sup>+</sup>, y cada átomo de cloro en una muestra de cloro gaseoso (grupo 17) acepta un electrón para formar un anión de cloruro, Cl<sup>-</sup>, el compuesto resultante, NaCl, está formado por iones de sodio e iones de cloruro en la proporción de un ion Na<sup>+</sup> por cada ion Cl<sup>-</sup>. Del mismo modo, cada átomo de calcio (grupo 2) puede ceder dos electrones y transferir uno a cada uno de los dos átomos de cloro para formar CaCl<sub>2</sub>, que está compuesto por iones Ca<sup>2+</sup> y Cl<sup>-</sup> en la proporción de un ion Ca<sup>2+</sup> por dos iones Cl<sup>-</sup>.</para>
+<para id="fs-idp21794832">Un compuesto que contiene iones y se mantiene unido por enlaces iónicos se llama <term>compuesto iónico</term>. La tabla periódica puede ayudarnos a reconocer muchos de los compuestos que son iónicos: Cuando un metal se combina con uno o más no metales, el compuesto suele ser iónico. Esta pauta funciona bien para predecir la formación de compuestos iónicos para la mayoría de los compuestos que se encuentran típicamente en un curso de introducción a la química. Sin embargo, no siempre es cierto (por ejemplo, el cloruro de aluminio, AlCl<sub>3</sub>, no es iónico).</para>
+<para id="fs-idp56020048">A menudo se pueden reconocer los compuestos iónicos por sus propiedades. Los compuestos iónicos son sólidos que suelen fundirse a altas temperaturas y hervir a temperaturas aún más altas. Por ejemplo, el cloruro de sodio se funde a 801 °C y hierve a 1413 °C. (Como comparación, el compuesto molecular agua se funde a 0 °C y hierve a 100 °C) En forma sólida, un compuesto iónico no es conductor de electricidad porque sus iones no pueden fluir (la "electricidad" es el flujo de partículas cargadas). Sin embargo, cuando está fundido, puede conducir la electricidad porque sus iones pueden moverse libremente por el líquido (<link target-id="CNX_Chem_02_06_NaClMolten"/>).</para>
+<figure id="CNX_Chem_02_06_NaClMolten" class="scaled-down">
+<media id="fs-idp140154533591136" alt="Esta figura muestra tres fotos conectadas por flechas hacia la derecha. La primera muestra una bombilla como parte de un complejo equipo de montaje de laboratorio. La bombilla no está encendida. La segunda foto muestra una sustancia que se calienta o se pone al fuego. La tercera muestra de nuevo la bombilla encendida.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_06_NaClMolten.jpg"/>
+</media>
+<caption>El cloruro de sodio se funde a 801 °C y conduce la electricidad cuando está fundido (créditos: modificación del trabajo de Mark Blaser y Matt Evans).</caption>
+</figure>
+</section>
+<note id="fs-idp13886976" class="chemistry link-to-learning">
+<para id="fs-idp196719024">Observe este <link url="http://openstax.org/l/16moltensalt">video</link> para ver cómo una mezcla de sales se funde y conduce electricidad.</para>
+</note>
+<para id="fs-idp91827520">En todo compuesto iónico, el número total de cargas positivas de los cationes es igual al número total de cargas negativas de los aniones. Así, los compuestos iónicos son eléctricamente neutros en su conjunto, aunque contengan iones positivos y negativos. Podemos utilizar esta observación para ayudarnos a escribir la fórmula de un compuesto iónico. La fórmula de un compuesto iónico debe tener una proporción de iones tal que los números de cargas positivas y negativas sean iguales.</para>
+<example id="fs-idp75448432">
+<para id="fs-idp187459888"><title>Predicción de la fórmula de un compuesto iónico</title>
+La piedra preciosa zafiro (<link target-id="CNX_Chem_02_06_Sapphire"/>) es principalmente un compuesto de aluminio y oxígeno que contiene cationes de aluminio, Al<sup>3+</sup>, y aniones de oxígeno, O<sup>2-</sup>. ¿Cuál es la fórmula de este compuesto?</para>
+<figure id="CNX_Chem_02_06_Sapphire" class="scaled-down"><media id="fs-idp108680656" alt="Esta es una fotografía de un anillo con un zafiro engastado.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_06_Sapphire.jpg"/>
+</media>
+<caption>Aunque el óxido de aluminio puro es incoloro, las trazas de hierro y titanio dan al zafiro azul su color característico (créditos: modificación del trabajo de Stanislav Doronenko).</caption>
+</figure>
+<para id="fs-idp467312"><title>Solución</title>
+Como el compuesto iónico debe ser eléctricamente neutro, debe tener el mismo número de cargas positivas y negativas. Dos iones de aluminio, cada uno con una carga de 3+, nos darían seis cargas positivas, y tres iones de óxido, cada uno con una carga de 2-, nos darían seis cargas negativas. La fórmula sería Al<sub>2</sub>O<sub>3</sub>.</para>
+<para id="fs-idp219965392"><title>Compruebe lo aprendido</title>
+Prediga la fórmula del compuesto iónico formado entre el catión sodio, Na<sup>+</sup>, y el anión sulfuro, S<sup>2-</sup>.</para>
+<note id="fs-idp58394736"><title>Respuesta:</title>
+<para id="fs-idp104312384">Na<sub>2</sub>S</para>
+</note>
+</example>
+<para id="fs-idp270413408">Muchos compuestos iónicos contienen iones poliatómicos (<link target-id="fs-idp278664880"/>) como el catión, el anión o ambos. Al igual que los compuestos iónicos simples, estos compuestos también deben ser eléctricamente neutros, por lo que sus fórmulas pueden predecirse tratando los iones poliatómicos como unidades discretas. Utilizamos paréntesis en una fórmula para indicar un grupo de átomos que se comportan como una unidad. Por ejemplo, la fórmula del fosfato de calcio, uno de los minerales de nuestros huesos, es Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>. Esta fórmula indica que hay tres iones de calcio (Ca<sup>2+</sup>) por cada dos de grupos de fosfato <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math>. Los grupos <m:math><m:mrow><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math> son unidades discretas, cada una de ellas formada por un átomo de fósforo y cuatro de oxígeno, y con una carga global de 3-. El compuesto es eléctricamente neutro, y su fórmula muestra un recuento total de tres átomos de Ca, dos de P y ocho de O.</para>
+<example id="fs-idp2219712">
+<para id="fs-idp179991104"><title>Predicción de la fórmula de un compuesto con un anión poliatómico</title>
+El polvo de hornear contiene dihidrógeno fosfato de calcio, un compuesto iónico formado por los iones Ca<sup>2+</sup> y <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>.</m:mo></m:mrow></m:math> ¿Cuál es la fórmula de este compuesto?</para><para id="fs-idm24805888"><title>Solución</title>
+Las cargas positivas y negativas deben balancearse, y este compuesto iónico debe ser eléctricamente neutro. Por lo tanto, debemos tener dos cargas negativas para balancear la carga 2+ del ion calcio. Esto requiere una proporción de un ion Ca<sup>2+</sup> por cada dos iones <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math>. Para designarlo, encerramos la fórmula del ion fosfato dihidrógeno entre paréntesis y añadimos un subíndice 2. La fórmula es Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>.</para>
+<para id="fs-idp187565648"><title>Compruebe lo aprendido</title>
+Prediga la fórmula del compuesto iónico formado entre el ion litio y el ion peróxido, <m:math><m:mrow><m:msub><m:mrow><m:mtext>O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>2−</m:mo></m:msup></m:mrow></m:math> (Pista: Utilice la tabla periódica para predecir el signo y la carga del ion litio).</para>
+<note id="fs-idp186698128"><title>Respuesta:</title>
+<para id="fs-idp19956160">Li<sub>2</sub>O<sub>2</sub></para>
+</note>
+</example>
+<para id="fs-idp288769312">Dado que un compuesto iónico no está formado por moléculas individuales y discretas, no puede simbolizarse adecuadamente mediante una fórmula <emphasis effect="italics">molecular</emphasis>. En cambio, los compuestos iónicos deben simbolizarse mediante una fórmula que indique el <emphasis effect="italics">número relativo</emphasis> de sus iones constituyentes. Para los compuestos que solo contienen iones monoatómicos (como el NaCl) y para muchos compuestos que contienen iones poliatómicos (como el CaSO<sub>4</sub>), estas fórmulas son solo las fórmulas empíricas introducidas anteriormente en este capítulo. Sin embargo, las fórmulas de algunos compuestos iónicos que contienen iones poliatómicos no son fórmulas empíricas. Por ejemplo, el compuesto iónico oxalato de sodio está formado por iones Na<sup>+</sup> y <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> combinados en una proporción de 2:1, y su fórmula se escribe como Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub>. Los subíndices de esta fórmula no son los números enteros más pequeños posibles, ya que cada uno puede dividirse entre 2 para obtener la fórmula empírica, NaCO<sub>2</sub>. Sin embargo, esta no es la fórmula aceptada para el oxalato de sodio, ya que no representa con exactitud el anión poliatómico del compuesto, <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para><section id="fs-idp9143792" type="H2">
+<title>Compuestos moleculares</title>
+<para id="fs-idp264000688">Muchos compuestos no contienen iones, sino que están formados únicamente por moléculas discretas y neutras. Estos <term>compuestos moleculares</term> (compuestos covalentes) resultan cuando los átomos comparten, en lugar de transferir (ganar o perder), electrones. El enlace covalente es un concepto importante y extenso en química, y se tratará con bastante detalle en un capítulo posterior de este texto. A menudo podemos identificar los compuestos moleculares en función de sus propiedades físicas. En condiciones normales, los compuestos moleculares suelen existir como gases, líquidos de bajo punto de ebullición y sólidos de bajo punto de fusión, aunque existen muchas excepciones importantes.</para>
+<para id="fs-idp207026896">Mientras que los compuestos iónicos suelen formarse cuando se combinan un metal y un no metal, los compuestos covalentes suelen formarse por una combinación de no metales. Por lo tanto, la tabla periódica puede ayudarnos a reconocer muchos de los compuestos que son covalentes. Aunque en este punto de nuestro estudio de la química podemos utilizar las posiciones de los elementos de un compuesto en la tabla periódica para predecir si es iónico o covalente, se debes ser consciente de que se trata de un enfoque muy simplista que no tiene en cuenta una serie de excepciones interesantes. Existen matices entre los compuestos iónicos y los moleculares, de los que aprenderá más adelante.</para>
+<example id="fs-idp411086368">
+<para id="fs-idm2822016"><title>Predecir el tipo de enlace en los compuestos</title>
+Prediga si los siguientes compuestos son iónicos o moleculares:</para>
+<para id="fs-idp130747360">(a) KI, el compuesto utilizado como fuente de yodo en la sal de mesa</para>
+<para id="fs-idp286925488">b) H<sub>2</sub>O<sub>2</sub>, el peróxido de hidrógeno del blanqueador y desinfectante</para>
+<para id="fs-idp77042592">(c) CHCl<sub>3</sub>, el anestésico cloroformo</para>
+<para id="fs-idp214730704">(d) Li<sub>2</sub>CO<sub>3</sub>, una fuente de litio en los antidepresivos</para>
+<para id="fs-idp173975248"><title>Solución</title>
+(a) El potasio (grupo 1) es un metal, y el yodo (grupo 17) es un no metal; se predice que el KI es iónico.</para>
+<para id="fs-idp13443888">(b) El hidrógeno (grupo 1) es un no metal, y el oxígeno (grupo 16) es un no metal; se predice que el H<sub>2</sub>O<sub>2</sub> es molecular.</para>
+<para id="fs-idp135354672">(c) El carbono (grupo 14) es un no metal, el hidrógeno (grupo 1) es un no metal y el cloro (grupo 17) es un no metal; se predice que CHCl<sub>3</sub> es molecular.</para>
+<para id="fs-idp187587072">(d) El litio (grupo 1) es un metal, y el carbonato es un ion poliatómico; se predice que el Li<sub>2</sub>CO<sub>3</sub> es iónico.</para><para id="fs-idp4808832"><title>Compruebe lo aprendido</title>
+Según la tabla periódica, prediga si los siguientes compuestos son iónicos o covalentes:</para>
+<para id="fs-idp288779408">(a) SO<sub>2</sub></para>
+<para id="fs-idp132796640">(b) CaF<sub>2</sub></para>
+<para id="fs-idp202359456">(c) N<sub>2</sub>H<sub>4</sub></para>
+<para id="fs-idp65172768">(d) Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></para>
+<note id="fs-idp102788640"><title>Respuesta:</title>
+<para id="fs-idm16446416">a) molecular; b) iónico; c) molecular; d) iónico</para>
+</note>
+</example>
+</section>
+<section id="fs-idp184156752" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp122679888">Los metales (especialmente los de los grupos 1 y 2) tienden a perder el número de electrones que los dejaría con el mismo número de electrones que el gas noble anterior en la tabla periódica. De este modo, se forma un ion con carga positiva. Del mismo modo, los no metales (especialmente los de los grupos 16 y 17 y, en menor medida, los del grupo 15) pueden ganar el número de electrones necesario para proporcionar a los átomos el mismo número de electrones que en el siguiente gas noble de la tabla periódica. Por tanto, los no metales tienden a formar iones negativos. Los iones con carga positiva se llaman cationes y los de carga negativa, aniones. Los iones pueden ser monoatómicos (contienen un solo átomo) o poliatómicos (contienen más de un átomo).</para><para id="fs-idp57422256">Los compuestos que contienen iones se llaman compuestos iónicos. Los compuestos iónicos se forman generalmente a partir de metales y no metales. Los compuestos que no contienen iones, sino que están formados por átomos fuertemente unidos en moléculas (grupos de átomos sin carga que se comportan como una sola unidad), se llaman compuestos covalentes. Los compuestos covalentes suelen formarse a partir de dos no metales.</para>
+</section>
+<section id="fs-idp22868752" class="exercises">
+<title>Ejercicios de Química del final del capítulo</title>
+<exercise id="fs-idp298677568">
+<problem id="fs-idp16592128">
+<para id="fs-idm58721440">Según la tabla periódica, prediga si los siguientes cloruros son iónicos o covalentes: KCl, NCl<sub>3</sub>, ICl, MgCl<sub>2</sub>, PCl<sub>5</sub>, y CCl<sub>4</sub>.</para>
+</problem>
+<solution id="fs-idp129483232"><para id="fs-idm4134080">Iónico: KCl, MgCl<sub>2</sub>; Covalente: NCl<sub>3</sub>, ICl, PCl<sub>5</sub>, CCl<sub>4</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp44267360">
+<problem id="fs-idp65122256">
+<para id="fs-idp119855136">Según la tabla periódica, prediga si los siguientes cloruros son iónicos o covalentes: SiCl<sub>4</sub>, PCl<sub>3</sub>, CaCl<sub>2</sub>, CsCl, CuCl<sub>2</sub>, y CrCl<sub>3</sub>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp221295264">
+<problem id="fs-idp278674944">
+<para id="fs-idp95603488">Para cada uno de los siguientes compuestos, indique si es iónico o covalente. Si es iónico, escriba los símbolos de los iones implicados:</para>
+<para id="fs-idp63096544">(a) NF<sub>3</sub></para>
+<para id="fs-idp175705168">(b) BaO</para><para id="fs-idp210482672">(c) (NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub></para>
+<para id="fs-idm16898128">(d) Sr(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub></para>
+<para id="fs-idp523680">(e) IBr</para>
+<para id="fs-idp18583904">(f) Na<sub>2</sub>O</para>
+</problem>
+<solution id="fs-idm3993968"><para id="fs-idp108175056">(a) covalente; (b) iónico, Ba<sup>2+</sup>, O<sup>2-</sup>; (c) iónico, <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>;</m:mo></m:mrow></m:math> (d) iónico, Sr<sup>2+</sup>, <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>;</m:mo></m:mrow></m:math> (e) covalente; (f) iónico, Na<sup>+</sup>, O<sup>2-</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp4856416">
+<problem id="fs-idp164870384">
+<para id="fs-idp133547504">Para cada uno de los siguientes compuestos, indique si es iónico o covalente, y si es iónico, escriba los símbolos de los iones implicados:</para>
+<para id="fs-idm6279264">(a) KClO<sub>4</sub></para>
+<para id="fs-idp14607760">(b) Mg(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>2</sub></para><para id="fs-idp273174928">(c) H<sub>2</sub>S</para>
+<para id="fs-idp187691872">(d) Ag<sub>2</sub>S</para>
+<para id="fs-idp267108208">(e) N<sub>2</sub>Cl<sub>4</sub></para>
+<para id="fs-idp232955488">(f) Co(NO<sub>3</sub>)<sub>2</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp178456496">
+<problem id="fs-idp286835936">
+<para id="fs-idp114930880">Para cada uno de los siguientes pares de iones, escriba la fórmula del compuesto que formarán:</para><para id="fs-idp93671712">(a) Ca<sup>2+</sup>, S<sup>2-</sup></para>
+<para id="fs-idp65603120">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp433808032">(c) Al<sup>3+</sup>, Br<sup>-</sup></para>
+<para id="fs-idp95434032">(d) Na<sup>+</sup>, <m:math><m:mrow><m:msub><m:mrow><m:mtext>HPO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp106885728">(e) Mg<sup>2+</sup>, <m:math><m:mrow><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp3249008"><para id="fs-idp411135344">(a) CaS; (b) (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>; (c) AlBr<sub>3</sub>; (d) Na<sub>2</sub>HPO<sub>4</sub>; (e) Mg<sub>3</sub> (PO<sub>4</sub>)<sub>2</sub></para></solution>
+</exercise>
+<exercise id="fs-idp286976176">
+<problem id="fs-idp65459664">
+<para id="fs-idp56590528">Para cada uno de los siguientes pares de iones, escriba la fórmula del compuesto que formarán:</para><para id="fs-idp101562960">(a) K<sup>+</sup>, O<sup>2-</sup></para>
+<para id="fs-idp236810896">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp62582192">(c) Al<sup>3+</sup>, O<sup>2-</sup></para>
+<para id="fs-idp19798176">(d) Na<sup>+</sup>, <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp143769280">(e) Ba<sup>2+</sup>, <m:math><m:mrow><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idp97231552">
+<term>enlace covalente</term><meaning id="fs-idm13051792">fuerza de atracción entre los núcleos de los átomos de una molécula y los pares de electrones entre los átomos</meaning>
+</definition>
+<definition id="fs-idp184530720">
+<term>compuesto covalente</term><meaning id="fs-idp67206656">(también, compuesto molecular) compuesto de moléculas formadas por átomos de dos o más elementos diferentes</meaning>
+</definition>
+<definition id="fs-idp160949776">
+<term>enlace iónico</term><meaning id="fs-idp211325568">fuerzas electrostáticas de atracción entre los iones de carga opuesta de un compuesto iónico</meaning>
+</definition>
+<definition id="fs-idp182712496">
+<term>compuesto iónico</term><meaning id="fs-idp175594000">compuesto formado por cationes y aniones combinados en proporciones, dando lugar a una sustancia eléctricamente neutra</meaning>
+</definition>
+<definition id="fs-idp93864192">
+<term>compuesto molecular</term><meaning id="fs-idp92675792">(también, compuesto covalente) compuesto de moléculas formadas por átomos de dos o más elementos diferentes</meaning>
+</definition>
+<definition id="fs-idp136404896">
+<term>ion monoatómico</term><meaning id="fs-idp37602752">ion compuesto por un solo átomo </meaning>
+</definition>
+<definition id="fs-idp484916992">
+<term>oxianión</term><meaning id="fs-idm7350544">anión poliatómico compuesto por un átomo central unido a átomos de oxígeno</meaning>
+</definition>
+<definition id="fs-idp93746160">
+<term>ion poliatómico</term><meaning id="fs-idp84705728">ion compuesto por más de un átomo</meaning>
+</definition>
+</glossary>
+</document>

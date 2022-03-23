@@ -1,0 +1,387 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Presión del gas</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68750</md:content-id>
+  <md:title>Presión del gas</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list><item>Definir la propiedad de la presión</item>
+<item>Definir y convertir entre las unidades de medidas de presión.</item>
+<item>Describir el funcionamiento de las herramientas habituales para medir la presión del gas.</item>
+<item>Calcular la presión a partir de los datos del manómetro.</item></list></md:abstract>
+  <md:uuid>b4305959-0bef-4283-8145-f9184c9652d3</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm2965936">La atmósfera terrestre ejerce una presión, como cualquier otro gas. Aunque normalmente no notamos la presión atmosférica, somos sensibles a los cambios de presión, por ejemplo, cuando los oídos "se tapan" durante el despegue y el aterrizaje al volar, o cuando se bucea bajo el agua. La presión de los gases se debe a la fuerza que ejercen las moléculas de gas al chocar con las superficies de los objetos (<link target-id="CNX_Chem_09_01_Pressure1"/>). Aunque la fuerza de cada colisión es muy pequeña, cualquier superficie de área apreciable experimenta un gran número de colisiones en poco tiempo, lo que puede generar una gran presión. De hecho, la presión normal del aire es lo suficientemente fuerte como para aplastar un recipiente de metal cuando no se equilibra con una presión igual del interior del recipiente.</para>
+<figure id="CNX_Chem_09_01_Pressure1" class="scaled-down">
+<media id="fs-idp16369520" alt="La parte izquierda de esta figura muestra un gráfico de la tierra con un prisma rectangular invertido que se extiende desde un punto de la misma. Cerca de la parte superior de la imagen, el rótulo &quot;columna de pulgadas cuadradas de moléculas de aire&quot; se conecta al prisma con un segmento de línea. Esta marca también se conecta con un segmento de línea a una flecha que apunta hacia abajo en el lado derecho de la figura. Debajo de la flecha hay un círculo rojo marcado como &quot;presión atmosférica&quot;. Un estrecho rectángulo con un borde de línea discontinua se extiende desde la parte inferior de la flecha verticalmente a través del círculo. Justo debajo de este rectángulo, en el borde inferior del círculo, hay una mano con el pulgar apoyado en un tablero. El pulgar está conectado con un segmento de línea a la marca &quot;14,7 libras de presión en 1 pulgada cuadrada&quot;. El círculo rojo está situado encima del pulgar.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Pressure1.jpg"/>
+</media>
+<caption>La atmósfera sobre nosotros ejerce una gran presión sobre los objetos en la superficie de la tierra, aproximadamente igual al peso de una bola de bolos presionando sobre un área del tamaño de la uña de un pulgar humano.</caption>
+</figure>
+<note id="fs-idm5657392" class="chemistry link-to-learning">
+<para id="fs-idp139792368">Un <link url="http://openstax.org/l/16atmospressur1">ejemplo</link> dramático de la presión atmosférica es este video corto, que muestra la implosión de un vagón cisterna de ferrocarril al disminuir su presión interna.</para>
+<para id="fs-idm26057840">Se explica brevemente una <link url="http://openstax.org/l/16atmospressur2">demostración</link> a menor escala de este fenómeno.</para>
+</note>
+<para id="fs-idm5227120">La presión atmosférica está causada por el peso de la columna de moléculas de aire en la atmósfera sobre un objeto, como el vagón cisterna. A nivel del mar, esta presión es aproximadamente la misma que ejerce un elefante africano adulto de pie sobre un felpudo, o la típica bola de bolos apoyada en la uña del pulgar. Pueden parecer cantidades enormes, y lo son, pero la vida en la Tierra ha evolucionado bajo esa presión atmosférica. Si realmente se posa una bola de bolos en la uña del pulgar, la presión que se experimenta es<emphasis effect="italics"> el doble</emphasis> de la habitual, y la sensación es desagradable.</para>
+<para id="fs-idp26888784">En general, la <term>presión</term> se define como la fuerza ejercida sobre una superficie determinada <m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>F</m:mi><m:mi>A</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Tenga en cuenta que la presión es directamente proporcional a la fuerza e inversamente proporcional al área. Así pues, la presión puede incrementarse aumentando la cantidad de fuerza o disminuyendo el área sobre la que se aplica; la presión puede reducirse disminuyendo la fuerza o aumentando el área.</para>
+<para id="fs-idm32668544">Apliquemos este concepto para determinar qué ejerce una mayor presión en la <link target-id="CNX_Chem_09_01_Pressure2"/>: ¿el elefante o el patinador artístico? Un gran elefante africano puede pesar 7 toneladas, apoyado en cuatro patas, cada una de las cuales tiene un diámetro de aproximadamente 1,5 pies (área de la huella de 250 in<sup>2</sup>), por lo que la presión ejercida por cada pie es de aproximadamente 14 lb/pulg<sup>2</sup>:</para>
+<equation id="fs-idm100445488" class="unnumbered"><m:math><m:mrow><m:mtext>presión por pie de elefante</m:mtext><m:mo>=</m:mo><m:mtext>14.000</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>lb</m:mtext></m:mrow><m:mrow><m:mtext>elefante</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 elefante</m:mtext></m:mrow><m:mrow><m:mtext>4 pies</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 pie</m:mtext></m:mrow><m:mrow><m:mn>250</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>in</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>14</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>lb/in</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp79686656">El patinador artístico pesa unas 120 libras, apoyado en dos cuchillas de patín, cada una con un área de unas 2 pulgadas<sup>2</sup>, por lo que la presión ejercida por cada cuchilla es de unas 30 libras/pulgada<sup>2</sup>:</para>
+<equation id="fs-idm181738992" class="unnumbered"><m:math><m:mrow><m:mtext>presión por la cuchilla del patín</m:mtext><m:mo>=</m:mo><m:mn>120</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>lb</m:mtext></m:mrow><m:mrow><m:mtext>patinador</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 patinador</m:mtext></m:mrow><m:mrow><m:mtext>2 cuchillas</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 cuchilla</m:mtext></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>in</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>30</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>lb/in</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm101012528">Aunque el elefante es más de cien veces más pesado que el patinador, ejerce menos de la mitad de la presión. Por otro lado, si el patinador se quita los patines y se coloca con los pies descalzos (o con calzado normal) sobre el hielo, la mayor superficie sobre la que se aplica su peso reduce en gran medida la presión ejercida:</para><equation id="fs-idp9821216" class="unnumbered"><m:math><m:mrow><m:mtext>presión por pie humano</m:mtext><m:mo>=</m:mo><m:mn>120</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>lb</m:mtext></m:mrow><m:mrow><m:mtext>patinador</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 patinador</m:mtext></m:mrow><m:mrow><m:mtext>2 pies</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 pie</m:mtext></m:mrow><m:mrow><m:mn>30</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>in</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>lb/in</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+<figure id="CNX_Chem_09_01_Pressure2" class="scaled-down"><media id="fs-idp170647376" alt="Esta figura incluye dos fotografías. La figura a es una foto de un gran elefante gris sobre un terreno herboso color arena. La figura b es una foto de una patinadora artística con su patín derecho sobre el hielo, la parte superior del torso bajada, los brazos extendidos hacia arriba por detrás del pecho y la pierna izquierda extendida hacia arriba por detrás.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Pressure2.jpg"/>
+</media>
+
+<caption>Aunque (a) el peso de un elefante es grande y crea una fuerza muy grande sobre el suelo, (b) el patinador artístico ejerce una presión mucho mayor sobre el hielo debido a la pequeña área superficial de sus patines (créditos a: modificación del trabajo de Guido da Rozze; créditos b: modificación del trabajo de Ryosuke Yagi).</caption></figure><para id="fs-idm10039728">La unidad de presión del SI es el <term>pascal (Pa)</term>, con 1 Pa = 1 N/m<sup>2</sup>, donde N es el newton, una unidad de fuerza definida como 1 kg m/s<sup>2</sup>. Un pascal es una presión pequeña; en muchos casos, es más conveniente utilizar unidades de kilopascal (1 kPa = 1000 Pa) o <term>bar</term> (1 bar = 100.000 Pa). En Estados Unidos, la presión suele medirse en libras de fuerza sobre un área de una pulgada cuadrada -libras<term>por pulgada cuadrada (psi)</term>-, por ejemplo, en los neumáticos de los automóviles. La presión también puede medirse utilizando la unidad <term>atmósfera (atm)</term>, que originalmente representaba la presión atmosférica media a nivel del mar en la latitud aproximada de París (45°). La <link target-id="fs-idp189967312"/> proporciona información sobre estas y otras unidades comunes para la medición de la presión.</para>
+<table id="fs-idp189967312" class="top-titled" summary="Esta tabla tiene dos columnas y 10 filas. La primera fila es una fila de encabezado, y marca las columnas como &quot;Nombre y abreviatura de la unidad&quot; y &quot;Definición o relación con otra unidad&quot;. El primer nombre y abreviatura de la unidad es pascal, y se abrevia como P a. La definición o relación con otra unidad es 1 P a igual a N sobre m al cuadrado y recomendada I U P A C unidad. El siguiente nombre de unidad es kilopascal, y se abrevia como k P a. La definición o relación con otra unidad es que 1 k P a es igual a 1000 P a. El siguiente nombre de unidad es libras por pulgada cuadrada, y se abrevia como p s i. La definición o relación con otra unidad es la presión del aire a nivel del mar es aproximadamente 14,7 p s i. El siguiente nombre de unidad es atmósfera, y se abrevia como a t m. La definición o relación con otra unidad es 1 a t m es igual a 101.325 P a y la presión atmosférica a nivel del mar es aproximadamente un a t m. El siguiente nombre de unidad es bar, y se abrevia como bar o b. La definición o relación con otra unidad es 1 bar equivale a 100.000 P a exactamente y se utiliza habitualmente en meteorología. El siguiente nombre de unidad es milibar, y se abrevia como m b a r o m b. La definición o relación con otra unidad es 1000 m b a r equivalen a un bar. El siguiente nombre de unidad es pulgadas de mercurio, y se abrevia como i n punto, H g. La definición o relación con otra unidad es una i n punto H g es igual a 3386 P a y es utilizada por la industria de la aviación y también algunos informes meteorológicos. La siguiente unidad es el torr. La definición o relación con otra unidad es 1 torr equivale a 1 sobre 760 a t m y lleva el nombre de Evangelista Torricelli, inventor del barómetro. El último nombre de la unidad es milímetros de mercurio, y se abrevia como m m H g. La definición o relación con otra unidad es 1 m m H g es aproximadamente 1 torr.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry namest="c1" nameend="c2" align="center">Unidades de presión</entry>
+</row>
+<row valign="top">
+<entry align="left">Nombre y abreviatura de la unidad</entry>
+<entry align="left">Definición o relación con otra unidad</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">pascal (Pa)</entry>
+<entry align="left">1 Pa = 1 N/m<sup>2</sup><newline/>unidad IUPAC recomendada</entry>
+</row>
+<row valign="top">
+<entry align="left">kilopascal (kPa)</entry>
+<entry align="left">1 kPa = 1000 Pa</entry>
+</row>
+<row valign="top">
+<entry align="left">libras por pulgada cuadrada (psi)</entry>
+<entry align="left">la presión del aire a nivel del mar es de ~14,7 psi</entry>
+</row>
+<row valign="top">
+<entry align="left">atmósfera (atm)</entry>
+<entry align="left"> 1 atm = 101.325 Pa = 760 torr<newline/>la presión del aire a nivel del mar es de ~1 atm</entry>
+</row>
+<row valign="top">
+<entry align="left">bar (bar, o b)</entry>
+<entry align="left">1 bar = 100.000 Pa (exactamente)<newline/>utilizado habitualmente en meteorología</entry>
+</row>
+<row valign="top">
+<entry align="left">milibar (mbar, o mb)</entry>
+<entry align="left">1000 mbar = 1 bar</entry>
+</row>
+<row valign="top">
+<entry align="left">pulgadas de mercurio (in. Hg)</entry>
+<entry align="left">1 in Hg = 3386 Pa<newline/>utilizado por la industria de la aviación, también en algunos informes meteorológicos</entry>
+</row>
+<row valign="top">
+<entry align="left">torr</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>1 torr</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mtext>1</m:mtext><m:mrow><m:mtext>760</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mrow></m:math><newline/>nombre de Evangelista Torricelli, inventor del barómetro</entry>
+</row>
+<row valign="top">
+<entry align="left">milímetros de mercurio (mm Hg)</entry>
+<entry align="left">1 mm Hg ~1 torr</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="fs-idp156787120">
+<para id="fs-idm55125200"><title>Conversión de unidades de presión</title>
+El Servicio Meteorológico Nacional de Estados Unidos informa de la presión tanto en pulgadas de Hg como en milibares. Convertir una presión de 29,2 pulg. Hg en:</para>
+<para id="fs-idp142663424">(a) torr</para>
+<para id="fs-idp6847648">b) atm</para>
+<para id="fs-idm78213376">(c) kPa</para>
+<para id="fs-idp62713296">(d) mbar</para>
+<para id="fs-idp32588880"><title>Solución</title>
+Se trata de un problema de conversión de unidades. Las relaciones entre las distintas unidades de presión se indican en la <link target-id="fs-idp189967312"/>.</para>
+<para id="fs-idm19510112">(a) <m:math><m:mrow><m:mn>29,2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>in Hg</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>25,4</m:mtext><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mm</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>in</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/>
+
+<m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 torr</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mm Hg</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/>
+
+<m:mo>=</m:mo><m:mtext>742 torr</m:mtext></m:mrow></m:math></para><para id="fs-idm103224224">(b) <m:math><m:mrow><m:mn>742</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>torr</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 atm</m:mtext></m:mrow><m:mrow><m:mn>760</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>torr</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,976 atm</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp28156048">(c) <m:math><m:mrow><m:mn>742</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>torr</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>101,325 kPa</m:mtext></m:mrow><m:mrow><m:mn>760</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>torr</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>98,9 kPa</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm86928016">(d) <m:math><m:mrow><m:mn>98,9</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>kPa</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>Pa</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>kPa</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>bar</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>100.000</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>Pa</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1000 mbar</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>bar</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>989 mbar</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm28185008"><title>Compruebe lo aprendido</title>
+La presión barométrica típica en Kansas City es de 740 torr. ¿Cuál es esta presión en atmósferas, en milímetros de mercurio, en kilopascales y en bar?</para>
+<note id="fs-idm54955856">
+<title>Respuesta:</title>
+<para id="fs-idp131216672">0,974 atm; 740 mm Hg; 98,7 kPa; 0,987 bar</para>
+</note>
+</example>
+<para id="fs-idm69336128">Podemos medir la presión atmosférica, la fuerza que ejerce la atmósfera sobre la superficie terrestre, con un <term>barómetro</term> (<link target-id="CNX_Chem_09_01_Barometer"/>). Un barómetro es un tubo de vidrio que se cierra por un extremo, se llena con un líquido no volátil, como el mercurio, y luego se invierte y se sumerge en un recipiente con ese líquido. La atmósfera ejerce presión sobre el líquido fuera del tubo, la columna de líquido ejerce presión dentro del tubo y la presión en la superficie del líquido es la misma dentro y fuera del tubo. La altura del líquido en el tubo es, por tanto, proporcional a la presión ejercida por la atmósfera.</para>
+<figure id="CNX_Chem_09_01_Barometer" class="scaled-down">
+<media id="fs-idm35593680" alt="Esta figura muestra dos barómetros. El barómetro de la izquierda contiene un depósito poco profundo, o recipiente abierto, de mercurio. Un tubo estrecho se extiende hacia arriba desde el depósito por encima del mismo y está sellado en la parte superior. A la derecha, se muestra un segundo montaje similar con un depósito lleno de agua. Los segmentos de línea conectan la marca &quot;vacío&quot; con la parte superior de los dos tubos estrechos. El tubo de la izquierda muestra el mercurio del depósito extendiéndose en una columna hacia arriba en el tubo estrecho. Del mismo modo, el tubo de la derecha muestra el agua del depósito que se extiende hacia arriba en el tubo estrecho relacionado. Las flechas de doble punta se extienden desde la superficie de cada líquido en el depósito hasta la parte superior del líquido en cada tubo. Una columna o barra estrecha se extiende desde la superficie del depósito hasta la misma altura. Esta barra está marcada como &quot;presión atmosférica&quot;. El nivel del agua en su tubo es significativamente más alto que el nivel de mercurio en su tubo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Barometer.jpg"/>
+</media>
+<caption>En un barómetro, la altura, <emphasis effect="italics">h</emphasis>, de la columna de líquido se utiliza como medida de la presión atmosférica. El uso de mercurio líquido muy denso (izquierda) permite la construcción de barómetros de tamaño razonable, mientras que el uso de agua (derecha) requeriría un barómetro de más de 30 pies de altura.</caption>
+</figure>
+<para id="fs-idm79676464">Si el líquido es agua, la presión atmosférica normal soportará una columna de agua de más de 10 metros de altura, lo que es bastante inconveniente para hacer (y leer) un barómetro. Como el mercurio (Hg) es unas 13,6 veces más denso que el agua, un barómetro de mercurio solo necesita <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>13,6</m:mn></m:mrow></m:mfrac></m:mrow></m:math> tan alto como un barómetro de agua, un tamaño más adecuado. La presión atmosférica estándar de 1 atm a nivel del mar (101.325 Pa) corresponde a una columna de mercurio de unos 760 mm (29,92 in.) de altura. El <term>torr</term> era originalmente una unidad igual a un milímetro de mercurio, pero ya no se corresponde exactamente. La presión ejercida por un fluido debido a la gravedad se conoce como <term>presión hidrostática</term>, <emphasis effect="italics">p</emphasis>:</para>
+<equation id="fs-idm35258720" class="unnumbered"><m:math><m:mrow><m:mi>p</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mi>ρ</m:mi><m:mi>g</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm61000288">donde <emphasis effect="italics">h</emphasis> es la altura del fluido, <emphasis effect="italics">ρ</emphasis> es la densidad del fluido y <emphasis effect="italics">g</emphasis> es la aceleración debida a la gravedad.</para>
+<example id="fs-idm5509408">
+<para id="fs-idm124424064"><title>Cálculo de la presión barométrica</title>
+Muestre el cálculo que apoya la afirmación de que la presión atmosférica cerca del nivel del mar corresponde a la presión ejercida por una columna de mercurio de unos 760 mm de altura. La densidad del mercurio = 13,6 g/cm<sup>3</sup>.</para>
+<para id="fs-idm64631536"><title>Solución</title>La presión hidrostática viene dada por <emphasis effect="italics">p</emphasis> = <emphasis effect="italics">hρg</emphasis>, con <emphasis effect="italics">h</emphasis> = 760 mm, <emphasis effect="italics">ρ</emphasis> = 13,6 g/cm<sup>3</sup> y <emphasis effect="italics">g</emphasis> = 9,81 m/s<sup>2</sup>. Introduciendo estos valores en la ecuación y realizando las conversiones de unidades necesarias obtendremos el valor que buscamos. (Nota: Esperamos encontrar una presión de ~101.325 Pa.)</para><equation id="fs-idm207611040" class="unnumbered"><m:math><m:mrow><m:mn>101.325</m:mn><m:mspace width="0.2em"/><m:mi>N</m:mi><m:msup><m:mrow><m:mtext>/m</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>101.325</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msup><m:mrow><m:mtext>kg·m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mtext>m</m:mtext><m:mn>2 </m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>101.325</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>kg</m:mtext></m:mrow><m:mrow><m:msup><m:mrow><m:mtext>m·s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<equation id="fs-idm149736288" class="unnumbered">Los términos <m:math><m:mrow><m:mi>p</m:mi><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>760 mm</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 m</m:mtext></m:mrow><m:mrow><m:mtext>1000 mm</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>13,6 g</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 kg</m:mtext></m:mrow><m:mrow><m:mtext>1000 g</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo> <m:mrow> <m:mtext>100 cm</m:mtext></m:mrow> <m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo> <m:mrow> <m:mtext>1 m</m:mtext></m:mrow> <m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>9,81 m</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mn>2 </m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math> grandes.</equation>
+<equation id="fs-idm112352528" class="unnumbered">Los términos <m:math><m:mrow><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>0,760 m</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>13.600</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>kg/m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9,81</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1,01</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>kg/ms</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>1,01</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mi>N</m:mi><m:mtext>/m</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+<equation id="fs-idm93676560" class="unnumbered">Los términos <m:math><m:mrow><m:mo>=</m:mo><m:mn>1,01</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>Pa</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp70400640"><title>Compruebe lo aprendido</title>
+Calcule la altura de una columna de agua a 25 °C que corresponde a la presión atmosférica normal. La densidad del agua a esta temperatura es de 1,0 g/cm<sup>3</sup>.</para>
+<note id="fs-idp73341600">
+<title>Respuesta:</title>
+<para id="fs-idp2146864">10,3 m</para>
+</note>
+</example>
+<para id="fs-idp189718992">Un <term>manómetro</term> es un dispositivo similar a un barómetro que puede utilizarse para medir la presión de un gas atrapado en un recipiente. Un manómetro de extremo cerrado es un tubo en forma de U con un brazo cerrado, un brazo que se conecta al gas que se va a medir y un líquido no volátil (normalmente mercurio) en medio. Al igual que en un barómetro, la distancia entre los niveles de líquido en los dos brazos del tubo (<emphasis effect="italics">h</emphasis> en el diagrama) es proporcional a la presión del gas en el recipiente. Un manómetro de extremo abierto (<link target-id="CNX_Chem_09_01_Manometer"/>) es lo mismo que un manómetro de extremo cerrado, pero uno de sus brazos está abierto a la atmósfera. En este caso, la distancia entre los niveles de líquido corresponde a la diferencia de presión entre el gas del recipiente y la atmósfera.</para>
+<figure id="CNX_Chem_09_01_Manometer" class="scaled-down">
+<media id="fs-idm5598960" alt="Se muestran tres diagramas de manómetros. Cada manómetro consta de un recipiente esférico de color rosa lleno de gas a la izquierda que está conectado a un tubo sellado en forma de U mediante una válvula a la derecha. La parte superior de la U se alinea con la esfera llena de gas y la U, que se extiende por debajo, contiene mercurio. El primer manómetro tiene un tubo sellado. El extremo sellado de la parte superior derecha en el diagrama está marcado como &quot;extremo cerrado&quot; y &quot;vacío&quot;. El nivel de mercurio es más alto en el lado derecho del tubo que en el izquierdo. La diferencia de altura se denomina &quot;h&quot;. Debajo de esta ilustración del manómetro aparece la marca P subíndice gas signo de igualdad h rho g. El segundo manómetro tiene un tubo de extremo abierto, que se marca como &quot;extremo abierto&quot;. En esta apertura en la parte superior derecha del diagrama se encuentra la marca P subíndice atm. El nivel de mercurio es más alto en el lado izquierdo del tubo que en el derecho. Esta diferencia de altura se denomina &quot;h&quot;. Debajo de esta ilustración del manómetro aparece la marca P subíndice gas signo de igualdad P subíndice atm signo negativo h rho g. El tercer manómetro tiene un tubo abierto y es similar al segundo manómetro, salvo que el nivel de mercurio es más alto en el lado derecho del tubo que en el izquierdo. Esta diferencia de altura se denomina &quot;h&quot;. Debajo de esta ilustración del manómetro aparece la marca P subíndice gas signo de igualdad P subíndice a m signo positivo h rho g.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Manometer.jpg"/>
+</media>
+<caption>Un manómetro puede utilizarse para medir la presión de un gas. La (diferencia de) altura entre los niveles de líquido (<emphasis effect="italics">h</emphasis>) es una medida de la presión. Se suele utilizar el mercurio por su gran densidad.</caption>
+</figure>
+<example id="fs-idm31201088">
+<para id="fs-idp5332928"><title>Cálculo de la presión con un manómetro de extremo cerrado</title>
+La presión de una muestra de gas se mide con un manómetro de extremo cerrado, como se muestra a la derecha. El líquido del manómetro es mercurio. Determine la presión del gas en:</para>
+<para id="fs-idp161989312">(a) torr</para>
+<para id="fs-idp16104736">(b) Pa</para>
+<para id="fs-idm85992448">(c) bar</para>
+<media id="fs-idp141827632" class="scaled-down" alt="Se muestra un diagrama de un manómetro de extremo cerrado. En la parte superior izquierda hay un recipiente esférico marcado como &quot;gas&quot;. Este recipiente está conectado mediante una válvula a un tubo en forma de U que está marcado como &quot;extremo cerrado&quot; en el extremo superior derecho. El contenedor y una parte del tubo que le sigue están sombreados en rosa. La parte inferior del tubo en forma de U está sombreada en gris y la altura de la región gris es mayor en el lado derecho que en el izquierdo. La diferencia de altura entre el lado izquierdo y el derecho es de 26,4 c m, que se indica con segmentos de líneas horizontales y flechas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Manometer1_img.jpg"/>
+</media>
+<para id="fs-idm79648128"><title>Solución</title>
+La presión del gas es igual a una columna de mercurio de 26,4 cm de altura. (La presión en la línea horizontal inferior es igual en ambos lados del tubo. La presión de la izquierda se debe al gas y la de la derecha a los 26,4 cm Hg, o sea, al mercurio). Podríamos utilizar la ecuación <emphasis effect="italics">p</emphasis> = <emphasis effect="italics">hρg</emphasis> como en el <link target-id="fs-idm5509408"/>, pero es más sencillo convertir entre unidades utilizando la <link target-id="fs-idp189967312"/>.</para>
+<para id="fs-idm79108064">(a) <m:math><m:mrow><m:mn>26,4</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>cm Hg</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>10</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mm Hg</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>cm Hg</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 torr</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mm Hg</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>264 torr</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp62655904">(b) <m:math><m:mrow><m:mn>264</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>torr</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>atm</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>760</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>torr</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>101.325 Pa</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>atm</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>35.200 Pa</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp2045200">(c) <m:math><m:mrow><m:mn>35</m:mn><m:mtext>,200</m:mtext><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>Pa</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 bar</m:mtext></m:mrow><m:mrow><m:mn>100.000</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>Pa</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,352 bar</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp37894320"><title>Compruebe lo aprendido</title>
+La presión de una muestra de gas se mide con un manómetro de extremo cerrado. El líquido del manómetro es mercurio. Determine la presión del gas en:</para>
+<para id="fs-idp38024128">(a) torr</para>
+<para id="fs-idp16117232">(b) Pa</para>
+<para id="fs-idp127919232">(c) bar</para>
+<media id="fs-idp26163024" class="scaled-down" alt="Se muestra un diagrama de un manómetro de extremo cerrado. En la parte superior izquierda hay un recipiente esférico marcado como &quot;gas&quot;. Este recipiente está conectado mediante una válvula a un tubo en forma de U que está marcado como &quot;extremo cerrado&quot; en el extremo superior derecho. El contenedor y una parte del tubo que le sigue están sombreados en rosa. La parte inferior del tubo en forma de U está sombreada en gris y la altura de la región gris es mayor en el lado derecho que en el izquierdo. La diferencia de altura de 6,0 i n se indica con segmentos de líneas horizontales y flechas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Manometer2_img.jpg"/>
+</media>
+<note id="fs-idm70430576">
+<title>Respuesta:</title>
+<para id="fs-idm8669760">(a) ~150 torr; (b) ~20.000 Pa; (c) ~0,20 bar</para>
+</note>
+</example>
+<example id="fs-idm76587328">
+<para id="fs-idm12992864"><title>Cálculo de la presión con un manómetro de extremo abierto</title>
+La presión de una muestra de gas se mide a nivel del mar con un manómetro de Hg (mercurio) de extremo abierto, como se muestra a la derecha. Determine la presión del gas en:</para>
+<para id="fs-idp141807120">(a) mm Hg</para>
+<para id="fs-idm91216192">b) atm</para>
+<para id="fs-idm29337808">(c) kPa</para>
+<media id="fs-idp16540528" class="scaled-down" alt="Se muestra un diagrama de un manómetro de extremo opuesto. En la parte superior izquierda hay un recipiente esférico marcado como &quot;gas&quot;. Este recipiente está conectado mediante una válvula a un tubo en forma de U que está marcado como &quot;extremo abierto&quot; en el extremo superior derecho. El contenedor y una parte del tubo que le sigue están sombreados en rosa. La parte inferior del tubo en forma de U está sombreada en gris y la altura de la región gris es mayor en el lado derecho que en el izquierdo. La diferencia de altura de 13,7 c m se indica con segmentos de líneas horizontales y flechas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Manometer3_img.jpg"/>
+</media>
+<para id="fs-idp6251232"><title>Solución</title>
+La presión del gas es igual a la presión hidrostática debida a una columna de mercurio de 13,7 cm de altura más la presión de la atmósfera a nivel del mar. (La presión en la línea horizontal inferior es igual en ambos lados del tubo. La presión de la izquierda se debe al gas y la de la derecha a los 13,7 cm de Hg más la presión atmosférica).</para>
+<para id="fs-idp139076928">(a) En mm Hg, esto es: 137 mm Hg + 760 mm Hg = 897 mm Hg</para>
+<para id="fs-idm20839232">(b) <m:math><m:mrow><m:mn>897</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mm Hg</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 atm</m:mtext></m:mrow><m:mrow><m:mn>760</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mm Hg</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>1,18 atm</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp8049056">(c) <m:math><m:mrow><m:mn>1,18</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>atm</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>101,325 kPa</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>atm</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1,20</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>kPa</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm24876576"><title>Compruebe lo aprendido</title>
+La presión de una muestra de gas se mide a nivel del mar con un manómetro de Hg abierto, como se muestra a la derecha. Determine la presión del gas en:</para>
+<para id="fs-idp30718048">(a) mm Hg</para>
+<para id="fs-idm5192960">b) atm</para>
+<para id="fs-idp18503824">(c) kPa</para>
+<media id="fs-idm34584432" class="scaled-down" alt="Se muestra un diagrama de un manómetro de extremo abierto. En la parte superior izquierda hay un recipiente esférico marcado como &quot;gas&quot;. Este recipiente está conectado mediante una válvula a un tubo en forma de U que está marcado como &quot;extremo abierto&quot; en el extremo superior derecho. El contenedor y una parte del tubo que le sigue están sombreados en rosa. La parte inferior del tubo en forma de U está sombreada en gris y la altura de la región gris es mayor en el lado izquierdo que en el derecho. La diferencia de altura de 4,63 i n se indica con segmentos de líneas horizontales y flechas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_manometer4_img.jpg"/>
+</media>
+<note id="fs-idp173017200">
+<title>Respuesta:</title>
+<para id="fs-idp154771664">(a) 642 mm Hg; (b) 0,845 atm; (c) 85,6 kPa</para>
+</note>
+</example>
+<note id="fs-idp183412160" class="chemistry everyday-life">
+<title>Medición de la presión arterial</title>
+<para id="fs-idm61054480">La presión arterial se mide con un aparato llamado esfigmomanómetro (en griego <emphasis effect="italics">sphygmos</emphasis> = "pulso"). Consiste en un manguito inflable para restringir el flujo sanguíneo, un manómetro para medir la presión y un método para determinar cuándo comienza el flujo sanguíneo y cuándo se ve impedido (<link target-id="CNX_Chem_09_01_Spygmo"/>). Desde su invención en 1881, ha sido un dispositivo médico esencial. Hay muchos tipos de esfigmomanómetros: los manuales, que requieren un estetoscopio y son utilizados por los profesionales de la medicina; los de mercurio, que se emplean cuando se requiere mayor precisión; los mecánicos, menos precisos; y los digitales, que pueden utilizarse con poca capacitación pero que tienen limitaciones. Cuando se utiliza un esfigmomanómetro, el manguito se coloca alrededor de la parte superior del brazo y se infla hasta que el flujo sanguíneo está completamente bloqueado, y luego se suelta lentamente. Cuando el corazón late, la sangre que pasa por las arterias provoca un aumento de la presión. Este aumento de presión en el que se inicia el flujo sanguíneo es la <emphasis effect="italics">presión sistólica, la</emphasis>presión máxima del ciclo cardíaco. Cuando la presión del manguito es igual a la presión arterial sistólica, la sangre pasa por el manguito, creando sonidos audibles que pueden escucharse con un estetoscopio. A continuación, se produce una disminución de la presión cuando los ventrículos del corazón se preparan para otro latido. A medida que la presión del manguito disminuye, finalmente deja de oírse el sonido; se trata de la <emphasis effect="italics">presión diastólica, la</emphasis>presión más baja (fase de reposo) del ciclo cardíaco. Las unidades de presión arterial de un esfigmomanómetro están en términos de milímetros de mercurio (mm Hg).</para>
+<figure id="CNX_Chem_09_01_Spygmo" class="scaled-down">
+<media id="fs-idm50439776" alt="Esta figura incluye dos fotografías. La primera foto muestra a un hombre joven colocando un manguito de presión arterial en la parte superior del brazo de una mujer joven. La segunda foto muestra un esfigmomanómetro típico, que incluye un manguito de presión arterial negro, un tubo, una bomba y un manómetro.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Spygmo.jpg"/>
+</media>
+<caption>(a) Un técnico médico se prepara para medir la presión arterial de un paciente con un esfigmomanómetro. (b) Un esfigmomanómetro típico utiliza una pera de goma con válvula para inflar el manguito y un medidor de diafragma para medir la presión. (Crédito a: modificación del trabajo del sargento mayor Jeffrey Allen).</caption>
+</figure>
+</note>
+<note id="fs-idm96003696" class="chemistry sciences-interconnect">
+<title>Meteorología, climatología y ciencias atmosféricas</title>
+<para id="fs-idm77491200">A lo largo de los siglos, la gente ha observado las nubes, los vientos y las precipitaciones, tratando de discernir patrones y hacer predicciones: cuándo es mejor plantar y cosechar; si es seguro emprender un viaje por mar; y mucho más. Ahora nos enfrentamos a complejos retos relacionados con el clima y la atmósfera que tendrán un gran impacto en nuestra civilización y el ecosistema. Varias disciplinas científicas utilizan los principios químicos para ayudarnos a comprender mejor el tiempo, la atmósfera y el clima. Se trata de la meteorología, la climatología y la ciencia atmosférica. La meteorología es el estudio de la atmósfera, los fenómenos atmosféricos y los efectos atmosféricos en el clima de la Tierra. Los meteorólogos tratan de entender y predecir el tiempo a corto plazo, lo que puede salvar vidas y beneficiar a la economía. Las previsiones meteorológicas (<link target-id="CNX_Chem_09_01_WeatherMap"/>) son el resultado de miles de mediciones de la presión atmosférica, la temperatura, etc., que se compilan, modelan y analizan en centros meteorológicos de todo el mundo.</para>
+<figure id="CNX_Chem_09_01_WeatherMap" class="scaled-down">
+<media id="fs-idm21149856" alt="Se muestra un mapa meteorológico de Estados Unidos que señala las zonas de altas y bajas presiones con las letras H en azul y L en rojo. Se muestran las líneas curvas en gris, naranja, azul y rojo. Las líneas naranjas están segmentadas. Las líneas rojas y azules tienen pequeños semicírculos y triángulos rojos o azules unidos a lo largo de su longitud. En las líneas blancas discontinuas se indica la latitud y la longitud. Los números de tres y cuatro dígitos subrayados también aparecen en el mapa.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_WeatherMap.jpg"/>
+</media>
+<caption>Los meteorólogos utilizan los mapas del tiempo para describir y predecir el tiempo. Las regiones de alta (H) y baja (L) presión tienen grandes efectos en las condiciones meteorológicas. Las líneas grises representan lugares de presión constante conocidos como isobaras. (Crédito: modificación del trabajo de la Administración Nacional Oceánica y Atmosférica).</caption>
+</figure>
+<para id="fs-idm8048304">En términos meteorológicos, los sistemas de bajas presiones se producen cuando la presión atmosférica de la superficie de la tierra es inferior a la del entorno: el aire húmedo sube y se condensa, produciendo nubes. El movimiento de la humedad y el aire dentro de varios frentes meteorológicos provoca la mayoría de los fenómenos meteorológicos.</para>
+<para id="fs-idm49021728">La atmósfera es la capa gaseosa que rodea a un planeta. La atmósfera terrestre, de unos 100-125 km de espesor, está compuesta por un 78,1 % de nitrógeno y un 21,0 % de oxígeno, y puede subdividirse en las regiones que se muestran en la <link target-id="CNX_Chem_09_01_Atmosphere"/>: la exosfera (la más alejada de la Tierra, &gt; a 700 km sobre el nivel del mar), la termosfera (80-700 km), la mesosfera (50-80 km), la estratosfera (el segundo nivel más bajo de nuestra atmósfera, 12-50 km sobre el nivel del mar) y la troposfera (hasta 12 km sobre el nivel del mar, aproximadamente el 80 % de la atmósfera terrestre en masa y la capa donde se originan la mayoría de los fenómenos meteorológicos). A medida que se asciende en la troposfera, la densidad del aire y la temperatura disminuyen.</para>
+<figure id="CNX_Chem_09_01_Atmosphere" class="scaled-down">
+<media id="fs-idm76295840" alt="Este diagrama muestra la mitad de una vista bidimensional de la Tierra en azul y verde. Una estrecha capa blanca, marcada como &quot;troposfera 0 - 12 k m&quot; cubre este hemisferio. Esta capa también se denomina &quot;capa donde se originan la mayoría de los fenómenos meteorológicos&quot; A continuación, se muestra una capa más gruesa de color azul claro marcada como &quot;Estratosfera 12 - 50 k m&quot;. Le sigue una capa algo más fina también en azul claro marcada como &quot;Mesosfera 50 - 80 k m&quot;. Tras esta capa hay una capa relativamente gruesa de color azul claro marcada como &quot;Termosfera 80 - 700 k m&quot;. Aparece una capa azul que cubre los dos tercios más a la derecha del diagrama. Esta región se oscurece gradualmente desde un azul más claro a la izquierda hasta un azul oscuro a la derecha. Esta región del diagrama está marcada como &quot;exosfera mayor de 700 k m&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Atmosphere.jpg"/>
+</media>
+<caption>La atmósfera de la Tierra tiene cinco capas: la troposfera, la estratosfera, la mesosfera, la termosfera y la exosfera.</caption>
+</figure>
+<para id="fs-idm30549520">La climatología es el estudio del clima, de las condiciones meteorológicas promediadas durante largos periodos de tiempo, utilizando datos atmosféricos. Sin embargo, los climatólogos estudian patrones y efectos que se producen a lo largo de décadas, siglos y milenios, en lugar de marcos temporales más cortos de horas, días y semanas como los meteorólogos. La ciencia atmosférica es un campo aún más amplio, que combina la meteorología, la climatología y otras disciplinas científicas que estudian la atmósfera.</para>
+</note>
+<section id="fs-idm62097440" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm102779232">Los gases ejercen presión, que es la fuerza por unidad de superficie. La presión de un gas puede expresarse en la unidad del SI de pascal o kilopascal, así como en muchas otras unidades como torr, atmósfera y bar. La presión atmosférica se mide con un barómetro; las presiones de otros gases pueden medirse con uno de los distintos tipos de manómetros.</para>
+</section>
+<section id="fs-idp68662112" class="key-equations">
+
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>F</m:mi><m:mi>A</m:mi></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row><entry><emphasis effect="italics">p</emphasis> = <emphasis effect="italics">hρg</emphasis></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idm20163680" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idm21197344">
+<problem id="fs-idm57060672">
+<para id="fs-idm19553744">¿Por qué los cuchillos afilados son más eficaces que los desafilados? (Pista: Piense en la definición de presión)</para></problem>
+<solution id="fs-idp73580448">
+<para id="fs-idm33698016">El filo de un cuchillo afilado tiene una superficie menor que un cuchillo sin filo. Dado que la presión es la fuerza por unidad de superficie, un cuchillo afilado ejercerá una mayor presión con la misma cantidad de fuerza y cortará el material con mayor eficacia.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp152253216">
+<problem id="fs-idp37040256">
+<para id="fs-idp62697024">¿Por qué algunos puentes pequeños tienen límites de peso que dependen de cuántas ruedas o ejes tiene el vehículo que cruza?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp44372288">
+<problem id="fs-idm79676256">
+<para id="fs-idm50132240">¿Por qué debería rodar o arrastrarse en lugar de cruzar a pie un estanque poco congelado?</para>
+</problem>
+<solution id="fs-idm86775888">
+<para id="fs-idp69163280">Estar tumbado distribuye tu peso sobre una superficie mayor, ejerciendo menos presión sobre el hielo en comparación con estar de pie. Si se ejerce menos presión, es menos probable que se rompa el hielo fino.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp74012224">
+<problem id="fs-idm648288">
+<para id="fs-idm137597392">La presión barométrica típica en Redding, California, es de unos 750 mm Hg. Calcule esta presión en atm y kPa.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm32613120">
+<problem id="fs-idm70646416">
+<para id="fs-idp3670784">La presión barométrica típica en Denver, Colorado, es de 615 mm Hg. ¿Cuál es esta presión en atmósferas y kilopascales?</para>
+</problem>
+<solution id="fs-idp7821744">
+<para id="fs-idm25200320">0,809 atm; 82,0 kPa</para>
+</solution>
+</exercise>
+<exercise id="fs-idp30544832">
+<problem id="fs-idp184951584">
+<para id="fs-idp135739664">La presión barométrica típica en Kansas City es de 740 torr. ¿Cuál es esta presión en atmósferas, en milímetros de mercurio y en kilopascales?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm87042080">
+<problem id="fs-idm45863536">
+<para id="fs-idp38342496">Los manómetros canadienses están marcados en unidades de kilopascales. ¿Qué lectura en dicho manómetro corresponde a 32 psi?</para>
+</problem>
+<solution id="fs-idm35019984">
+<para id="fs-idm5145968">2,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>2</sup> kPa</para>
+</solution>
+</exercise>
+<exercise id="fs-idp128422496">
+<problem id="fs-idp8514416">
+<para id="fs-idm38508352">Durante los aterrizajes de las Viking en Marte, se determinó que la presión atmosférica era de media unos 6,50 milibares (1 bar = 0,987 atm). ¿Cuál es esa presión en torr y kPa?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm51193840">
+<problem id="fs-idp202273744">
+<para id="fs-idm88643488">La presión de la atmósfera en la superficie del planeta Venus es de aproximadamente 88,8 atm. Compare esa presión en psi con la presión normal en la tierra a nivel del mar en psi.</para>
+</problem>
+<solution id="fs-idm69952832">
+<para id="fs-idp86259712">Tierra: 14,7 lb in<sup>–2</sup>; Venus: 1,30 × 10<sup>3</sup> lb in<sup>−2</sup></para></solution>
+</exercise>
+<exercise id="fs-idm81032176">
+<problem id="fs-idm50270928">
+<para id="fs-idm38299280">Un catálogo de laboratorio médico describe la presión en un cilindro de un gas como 14,82 MPa. ¿Cuál es la presión de este gas en atmósferas y torr?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm35019472">
+<problem id="fs-idp170653984">
+<para id="fs-idp39879760">Considere este escenario y responda a las siguientes preguntas: Un día a mediados de agosto en el noreste de Estados Unidos, apareció la siguiente información en el periódico local: presión atmosférica a nivel del mar 29,97 pulg. Hg, 1013,9 mbar.</para><para id="fs-idm50271520">(a) ¿Cuál era la presión en kPa?</para>
+<para id="fs-idp189723312">(b) La presión cerca de la costa marítima en el noreste de Estados Unidos suele estar cerca de 30,0 in. Hg. Durante un huracán, la presión puede caer hasta cerca de 28,0 pulgadas. Hg. Calcule la caída de presión en torr.</para>
+</problem>
+<solution id="fs-idp142090480">
+<para id="fs-idm21108080">(a) 101,5 kPa; (b) 51 torr de caída</para>
+</solution>
+</exercise>
+<exercise id="fs-idp32052448">
+<problem id="fs-idm91940192">
+<para id="fs-idp26220160">¿Por qué es necesario utilizar un líquido no volátil en un barómetro o manómetro?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm55768576">
+<problem id="fs-idm62139584">
+<para id="fs-idm29763808">La presión de una muestra de gas se mide a nivel del mar con un manómetro cerrado. El líquido del manómetro es mercurio. Determine la presión del gas en:</para>
+<para id="fs-idp89607040">(a) torr</para>
+<para id="fs-idm95742832">(b) Pa</para>
+<para id="fs-idm80328752">(c) bar</para>
+<media id="fs-idm92729728" alt="Se muestra un diagrama de un manómetro de extremo cerrado. En la parte superior izquierda hay un recipiente esférico marcado como &quot;gas&quot;. Este recipiente está conectado mediante una válvula a un tubo en forma de U que está marcado como &quot;extremo cerrado&quot; en el extremo superior derecho. El contenedor y una parte del tubo que le sigue están sombreados en rosa. La parte inferior del tubo en forma de U está sombreada en gris y la altura de la región gris es mayor en el lado derecho que en el izquierdo. La diferencia de altura de 26,4 c m se indica con segmentos de líneas horizontales y flechas." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Manometer5_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idm48939344">
+<para id="fs-idm83006352">(a) 264 torr; (b) 35.200 Pa; (c) 0,352 bar</para>
+</solution>
+</exercise>
+<exercise id="fs-idp27847856"><problem id="fs-idp17600752">
+<para id="fs-idp185367488">La presión de una muestra de gas se mide con un manómetro de extremo abierto, mostrado parcialmente a la derecha. El líquido del manómetro es mercurio. Suponiendo que la presión atmosférica es de 29,92 pulg. Hg, determine la presión del gas en:</para>
+<para id="fs-idm39627648">(a) torr</para>
+<para id="fs-idp27090112">(b) Pa</para>
+<para id="fs-idm69293536">(c) bar</para>
+<media id="fs-idm26453536" alt="Se muestra un diagrama de un manómetro de extremo abierto. En la parte superior izquierda hay un recipiente esférico marcado como &quot;gas&quot;. Este recipiente está conectado mediante una válvula a un tubo en forma de U que está marcado como &quot;extremo abierto&quot; en el extremo superior derecho. El contenedor y una parte del tubo que le sigue están sombreados en rosa. La parte inferior del tubo en forma de U está sombreada en gris y la altura de la región gris es mayor en el lado izquierdo que en el derecho. La diferencia de altura de 6,00 i n se indica con segmentos de líneas horizontales y flechas." class="scaled-down-30">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Manometer6_img.jpg"/>
+</media>
+</problem>
+</exercise><exercise id="fs-idm77194176"><problem id="fs-idp38649952">
+<para id="fs-idm86041584">La presión de una muestra de gas se mide a nivel del mar con un manómetro de mercurio de extremo abierto. Suponiendo que la presión atmosférica es de 760,0 mm Hg, determine la presión del gas en:</para>
+<para id="fs-idp164256000">(a) mm Hg</para>
+<para id="fs-idp142813824">b) atm</para>
+<para id="fs-idp30379328">(c) kPa</para>
+<media id="fs-idm1196240" alt="Se muestra un diagrama de un manómetro de extremo abierto. En la parte superior izquierda hay un recipiente esférico marcado como &quot;gas&quot;. Este recipiente está conectado mediante una válvula a un tubo en forma de U que está marcado como &quot;extremo abierto&quot; en el extremo superior derecho. El contenedor y una parte del tubo que le sigue están sombreados en rosa. La parte inferior del tubo en forma de U está sombreada en gris y la altura de la región gris es mayor en el lado izquierdo que en el derecho. La diferencia de altura de 13,7 c m se indica con segmentos de líneas horizontales y flechas." class="scaled-down-30">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Manometer7_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp37385536">
+<para id="fs-idm33920592">(a) 623 mm Hg; (b) 0,820 atm; (c) 83,1 kPa</para>
+</solution>
+</exercise><exercise id="fs-idm35876656"><problem id="fs-idp133323424">
+<para id="fs-idp58526352">La presión de una muestra de gas se mide a nivel del mar con un manómetro de mercurio de extremo abierto. Suponiendo que la presión atmosférica es de 760 mm Hg, determine la presión del gas en:</para>
+<para id="fs-idm77467552">(a) mm Hg</para>
+<para id="fs-idm90142112">b) atm</para>
+<para id="fs-idp189802448">(c) kPa</para>
+<media id="fs-idm82208512" alt="Se muestra un diagrama de un manómetro de extremo abierto. En la parte superior izquierda hay un recipiente esférico marcado como &quot;gas&quot;. Este recipiente está conectado mediante una válvula a un tubo en forma de U que está marcado como &quot;extremo abierto&quot; en el extremo superior derecho. El contenedor y una parte del tubo que le sigue están sombreados en rosa. La parte inferior del tubo en forma de U está sombreada en gris y la altura de la región gris es mayor en el lado derecho que en el izquierdo. La diferencia de altura de 26,4 c m se indica con segmentos de líneas horizontales y flechas." class="scaled-down-30">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_01_Manometer8_img.jpg"/>
+</media>
+</problem>
+</exercise><exercise id="fs-idm25727664">
+<problem id="fs-idm125997536">
+<para id="fs-idm79130144">¿Cómo afectaría el uso de un líquido volátil a la medición de un gas utilizando manómetros de extremo abierto frente a manómetros de extremo cerrado?</para>
+</problem>
+<solution id="fs-idp135833360">
+<para id="fs-idm51906080">Con un manómetro de extremo cerrado, no se observaría ningún cambio, ya que el líquido vaporizado contribuiría con presiones iguales y opuestas en ambos brazos del tubo del manómetro. Sin embargo, con un manómetro abierto, se obtendría una lectura de la presión del gas más alta de lo esperado, ya que <emphasis effect="italics">P</emphasis><sub>gas</sub> = <emphasis effect="italics">P</emphasis><sub>atm</sub> + <emphasis effect="italics">P</emphasis><sub>vol líquido</sub>.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm92046304"><term>atmósfera (atm)</term><meaning id="fs-idm48979616">unidad de presión; 1 atm = 101.325 Pa</meaning></definition>
+<definition id="fs-idm49164816"><term>bar</term><meaning id="fs-idm19523424">(bar o b) unidad de presión; 1 bar = 100.000 Pa.</meaning></definition>
+<definition id="fs-idp128557152"><term>barómetro</term><meaning id="fs-idp44432976">dispositivo utilizado para medir la presión atmosférica.</meaning></definition>
+<definition id="fs-idp1898224"><term>presión hidrostática</term><meaning id="fs-idm78041232">presión ejercida por un fluido debido a la gravedad.</meaning></definition>
+<definition id="fs-idm30126128"><term>manómetro</term><meaning id="fs-idm91258448">dispositivo utilizado para medir la presión de un gas atrapado en un recipiente.</meaning></definition>
+<definition id="fs-idm69533872"><term>pascal (Pa)</term><meaning id="fs-idm53495904">Unidad de presión del SI; 1 Pa = 1 N/m<sup>2</sup>.</meaning></definition>
+<definition id="fs-idm87137504"><term>libras por pulgada cuadrada (psi)</term><meaning id="fs-idm52430016">unidad de presión común en Estados Unidos.</meaning></definition>
+<definition id="fs-idm61385376"><term>presión</term><meaning id="fs-idm64654544">fuerza ejercida por unidad de superficie.</meaning></definition>
+<definition id="fs-idm23965520"><term>torr</term><meaning id="fs-idm55637456">unidad de presión: <m:math><m:mrow><m:mtext>1 torr</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>760</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mrow></m:math></meaning></definition>
+</glossary>
+</document>

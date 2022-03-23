@@ -1,0 +1,358 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Molaridad</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68703</md:content-id>
+  <md:title>Molaridad</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Describir las propiedades fundamentales de las soluciones.</item>
+<item>Calcular las concentraciones de las soluciones mediante la molaridad.</item>
+<item>Realizar los cálculos de dilución utilizando la ecuación de dilución.</item>
+</list></md:abstract>
+  <md:uuid>3ca3a877-a8ba-42f7-a101-7035c0f5daed</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm232512">Las secciones anteriores de este capítulo se centraron en la composición de las sustancias: muestras de materia que contienen un solo tipo de elemento o compuesto. Sin embargo, las mezclas (muestras de materia que contienen dos o más sustancias combinadas físicamente) son más frecuentes en la naturaleza que las sustancias puras. Al igual que una sustancia pura, la composición relativa de una mezcla desempeña un papel importante en la determinación de sus propiedades. La cantidad relativa de oxígeno en la atmósfera de un planeta determina su capacidad para mantener la vida aeróbica. Las cantidades relativas de hierro, carbono, níquel y otros elementos en el acero (una mezcla conocida como "aleación") determinan su fuerza física y su resistencia a la corrosión. La cantidad relativa del principio activo de un medicamento determina su eficacia para conseguir el efecto farmacológico deseado. La cantidad relativa de azúcar en una bebida determina su dulzor (vea la <link target-id="CNX_Chem_03_03_espresso"/>). Esta sección describirá una de las formas más comunes de cuantificar las composiciones relativas de las mezclas.</para>
+<figure id="CNX_Chem_03_03_espresso" class="scaled-down"><media id="fs-idm63360640" alt="Se muestra una imagen en la que se vierte azúcar de una cuchara a una taza.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_03_espresso.jpg"/>
+</media>
+<caption>El azúcar es uno de los muchos componentes de la compleja mezcla conocida como café. La cantidad de azúcar en una determinada cantidad de café es un importante factor determinante del dulzor de la bebida (créditos: Jane Whitney).</caption></figure><section id="fs-idm10227280">
+<title>Soluciones</title>
+<para id="fs-idm60561504">Las soluciones se han definido previamente como mezclas homogéneas, lo que significa que la composición de la mezcla (y por tanto sus propiedades) es uniforme en todo su volumen. Las soluciones son frecuentes en la naturaleza y también se han utilizado en diversas formas de tecnología creada por el hombre. En el capítulo sobre soluciones y coloides se ofrece un tratamiento más exhaustivo de las propiedades de las soluciones, pero aquí se ofrece una introducción a algunas de las propiedades básicas de las soluciones.</para>
+<para id="fs-idm635664">La cantidad relativa de un determinado componente de la solución se conoce como su <term>concentración</term>. A menudo, aunque no siempre, una solución contiene un componente con una concentración significativamente mayor que la de todos los demás componentes. Este componente se denomina <term>solvente</term> y puede considerarse como el medio en el que se dispersan o <term>disuelven</term> los demás componentes. Las soluciones en las que el agua es el solvente son, por supuesto, muy comunes en nuestro planeta. Una solución en la que el agua es el solvente se llama <term>solución acuosa</term>.</para>
+<para id="fs-idm64279024">Un <term>soluto</term> es un componente de una solución que suele estar presente en una concentración mucho menor que la del solvente. Las concentraciones de solutos suelen describirse con términos cualitativos como <term>diluida</term> (de concentración relativamente baja) y <term>concentrada</term> (de concentración relativamente alta).</para>
+<para id="fs-idm62212352">Las concentraciones pueden evaluarse cuantitativamente utilizando una amplia variedad de unidades de medida, cada una de ellas conveniente para aplicaciones particulares. <term>La molaridad (<emphasis effect="italics">M</emphasis>)</term> es una unidad de concentración útil para muchas aplicaciones en química. La molaridad se define como el número de moles de soluto en exactamente 1 litro (1 L) de la solución:</para>
+<equation id="fs-idm57520096" class="unnumbered"><m:math><m:mrow><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:math></equation>
+<example id="fs-idm98982768">
+<para id="fs-idm10181424"><title>Cálculo de concentraciones molares</title>
+Una muestra de bebida gaseosa de 355 mL contiene 0,133 mol de sacarosa (azúcar de mesa). ¿Cuál es la concentración molar de sacarosa en la bebida?</para>
+<para id="fs-idm60197152"><title>Solución</title>
+Como la cantidad molar de soluto y el volumen de la solución están dados, la molaridad puede calcularse con la definición de molaridad. Según esta definición, el volumen de la solución debe convertirse de mL a L:</para>
+<equation id="fs-idm77939616" class="unnumbered"><m:math><m:mrow><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,133</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mn>355</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mrow><m:mrow><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,375</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm883648"><title>Compruebe lo aprendido</title>
+Una cucharadita de azúcar de mesa contiene aproximadamente 0,01 mol de sacarosa. ¿Cuál es la molaridad de la sacarosa si se ha disuelto una cucharadita de azúcar en una taza de té con un volumen de 200 mL?</para>
+<note id="fs-idm62768528"><title>Respuesta:</title><para id="fs-idm62230608">0,05 <emphasis effect="italics">M</emphasis></para></note>
+</example>
+<example id="fs-idm64107376">
+<para id="fs-idm58170960"><title>Calcular los moles y los volúmenes a partir de las concentraciones molares</title>
+¿Cuánta azúcar (mol) contiene un sorbo moderado (~10 mL) de la bebida gaseosa del <link target-id="fs-idm98982768"/>?</para>
+<para id="fs-idm768"><title>Solución</title>
+Reordene la definición de molaridad para aislar la cantidad buscada, moles de azúcar, y luego sustituya el valor de molaridad derivado en el <link target-id="fs-idm98982768"/>, 0,375 <emphasis effect="italics">M</emphasis>:</para>
+<equation id="fs-idm72962928" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>mol de soluto</m:mtext><m:mo>=</m:mo><m:mi>M</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>L de solución</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mtext>mol de soluto</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,375</m:mn><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>mol de azúcar</m:mtext></m:mrow><m:mtext>L</m:mtext></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>10</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mrow><m:mrow><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,004</m:mn><m:mspace width="0.2em"/><m:mtext>mol de azúcar</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm97768960"><title>Compruebe lo aprendido</title>
+¿Qué volumen (mL) del té azucarado descrito en el <link target-id="fs-idm98982768"/> contiene la misma cantidad de azúcar (mol) que 10 mL de la bebida gaseosa de este ejemplo?</para>
+<note id="fs-idm58199648"><title>Respuesta:</title><para id="fs-idm89023504">80 mL</para></note>
+</example>
+<example id="fs-idm81897840">
+<para id="fs-idm98918048"><title>Cálculo de las concentraciones molares a partir de la masa del soluto</title>
+El vinagre blanco destilado (<link target-id="CNX_Chem_03_04_vinegar"/>) es una solución de ácido acético, CH<sub>3</sub>CO<sub>2</sub>H, en agua. Una solución de vinagre de 0,500 L contiene 25,2 g de ácido acético. ¿Cuál es la concentración de la solución de ácido acético en unidades de molaridad?</para>
+<figure id="CNX_Chem_03_04_vinegar" class="scaled-down"><media id="fs-idm69003664" alt="Se muestra la etiqueta de un contenedor. La etiqueta tiene el dibujo de una ensalada con las palabras “Vinagre blanco destilado” y “Reducido con agua hasta el 5 % de acidez&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_04_vinegar.jpg"/>
+</media>
+<caption>El vinagre blanco destilado es una solución de ácido acético en agua.</caption></figure><para id="fs-idm82387696"><title>Solución</title>
+Al igual que en los ejemplos anteriores, la definición de molaridad es la ecuación principal utilizada para calcular la cantidad buscada. Como se proporciona la masa del soluto en lugar de su cantidad molar, utilice la masa molar del soluto para obtener la cantidad de soluto en moles:</para>
+<equation id="fs-idm81742128" class="unnumbered"><m:math><m:mrow><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>25,2 g</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>mol de CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow><m:mrow><m:msub><m:mrow><m:mtext>60,052 g de CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mrow><m:mtext>0,500 L de solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,839</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation><equation id="fs-idm8804720" class="unnumbered">Los términos <m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,839</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,839</m:mn><m:mspace width="0.2em"/><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:mtext>L de solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm61725600"><title>Compruebe lo aprendido</title>
+Calcule la molaridad de 6,52 g de CoCl<sub>2</sub> (128,9 g/mol) disueltos en una solución acuosa con un volumen total de 75,0 mL.</para>
+<note id="fs-idm2856432"><title>Respuesta:</title><para id="fs-idm103606496">0,674 <emphasis effect="italics">M</emphasis></para></note></example>
+<example id="fs-idm104693104">
+<para id="fs-idm2448752"><title>Determinar la masa de soluto en un volumen de solución dado</title>
+¿Cuántos gramos de NaCl hay en 0,250 L de una solución de 5,30-<emphasis effect="italics">M</emphasis>?</para>
+<para id="fs-idm122143856"><title>Solución</title>
+El volumen y la molaridad de la solución están especificados, por lo que la cantidad (mol) de soluto se calcula fácilmente como se demuestra en el <link target-id="fs-idm64107376"/>:</para>
+<equation id="fs-idm85599968" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>mol de soluto</m:mtext><m:mo>=</m:mo><m:mi>M</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>L de solución</m:mtext></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mtext>mol de soluto</m:mtext><m:mo>=</m:mo><m:mn>5,30</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de NaCl</m:mtext></m:mrow><m:mtext>L</m:mtext></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,250</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext><m:mo>=</m:mo><m:mn>1,325</m:mn><m:mspace width="0.2em"/><m:mtext>mol de NaCl</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm108465360">Finalmente, esta cantidad molar se utiliza para obtener la masa de NaCl:</para>
+<equation id="fs-idm1818176" class="unnumbered"><m:math><m:mrow><m:mtext>1,325 mol de NaCl</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>58,44</m:mn><m:mspace width="0.2em"/><m:mtext>g de NaCl</m:mtext></m:mrow><m:mrow><m:mtext>mol de NaCl</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>77,4</m:mn><m:mspace width="0.2em"/><m:mtext>g de NaCl</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm122705296"><title>Compruebe lo aprendido</title>
+¿Cuántos gramos de CaCl<sub>2</sub> (110,98 g/mol) hay en 250,0 mL de una solución de 0,200-<emphasis effect="italics">M</emphasis> de cloruro de calcio?</para>
+<note id="fs-idm80099776"><title>Respuesta:</title><para id="fs-idm73628272">5,55 g de CaCl<sub>2</sub></para></note></example>
+<para id="fs-idm75726960">Cuando se realizan cálculos por etapas, como en el <link target-id="fs-idm104693104"/>, es importante abstenerse de redondear los resultados de los cálculos intermedios, lo que puede dar lugar a errores de redondeo en el resultado final. En el <link target-id="fs-idm104693104"/>, la cantidad molar de NaCl calculada en el primer paso, 1,325 mol, se redondearía correctamente a 1,32 mol si se tuviera que informar; sin embargo, aunque el último dígito (5) no es significativo, debe conservarse como dígito de guardia en el cálculo intermedio. Si no se hubiera retenido el dígito de guardia, el cálculo final de la masa de NaCl habría sido de 77,1 g, una diferencia de 0,3 g.</para>
+<para id="fs-idm105202592">Además de conservar un dígito de guardia para los cálculos intermedios, también se pueden evitar los errores de redondeo realizando los cálculos en un solo paso (vea el <link target-id="fs-idm88061984"/>). Esto elimina los pasos intermedios para que solo se redondee el resultado final.</para>
+<example id="fs-idm88061984">
+<para id="fs-idm111967328"><title>Determinar el volumen de la solución que contiene una masa dada de soluto</title>
+En el <link target-id="fs-idm81897840"/>, se ha determinado que la concentración de ácido acético en el vinagre blanco es de 0,839 <emphasis effect="italics">M</emphasis>. ¿Qué volumen de vinagre contiene 75,6 g de ácido acético?</para>
+<para id="fs-idm108289568"><title>Solución</title>
+En primer lugar, utilice la masa molar para calcular los moles de ácido acético a partir de la masa dada:</para>
+<equation id="fs-idm112801328" class="unnumbered"><m:math><m:mrow><m:mtext>g de soluto</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>g de soluto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>mol de soluto</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm67563520">A continuación, utilice la molaridad de la solución para calcular el volumen de solución que contiene esta cantidad molar de soluto:</para>
+<equation id="fs-idm79868224" class="unnumbered"><m:math><m:mrow><m:mtext>mol de soluto</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>L de solución</m:mtext></m:mrow><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>L de solución</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm141610240">Combinando estos dos pasos en uno se obtiene:</para>
+<equation id="fs-idm104886656" class="unnumbered"><m:math><m:mrow><m:mtext>g de soluto</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>g de soluto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>L de solución</m:mtext></m:mrow><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>L de solución</m:mtext></m:mrow></m:math></equation>
+<equation id="fs-idm79860368" class="unnumbered"><m:math><m:mrow><m:mn>75,6</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mspace width="0.2em"/></m:mrow><m:mrow><m:mn>60,05</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>L de solución</m:mtext></m:mrow><m:mrow><m:mn>0,839</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,50</m:mn><m:mspace width="0.2em"/><m:mtext>L de solución</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm59437344"><title>Compruebe lo aprendido</title>
+¿Qué volumen de una solución de 1,50-<emphasis effect="italics">M</emphasis> de KBr contiene 66,0 g de KBr?</para>
+<note id="fs-idm87238064"><title>Respuesta:</title><para id="fs-idm80069312">0,370 L</para></note></example>
+</section>
+<section id="fs-idm97949648">
+<title>Dilución de soluciones</title>
+<para id="fs-idm134700400">La <term>dilución</term> es el proceso por el que se reduce la concentración de una solución mediante la adición de un solvente. Por ejemplo, un vaso de té helado se diluye cada vez más a medida que se derrite el hielo. El agua del hielo derretido aumenta el volumen del solvente (agua) y el volumen global de la solución (té helado), reduciendo así las concentraciones relativas de los solutos que dan sabor a la bebida (<link target-id="CNX_Chem_03_04_dilution"/>).</para>
+<figure id="CNX_Chem_03_04_dilution" class="scaled-down"><media id="fs-idp133169776" alt="Esta figura muestra dos cilindros graduados uno al lado del otro. El primero tiene aproximadamente la mitad de líquido azul que el segundo. El líquido azul es más oscuro en el primer cilindro que en el segundo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_04_dilution.jpg"/>
+</media>
+<caption>Ambas soluciones contienen la misma masa de nitrato de cobre. La solución de la derecha está más diluida porque el nitrato de cobre está disuelto en más solvente (créditos: Mark Ott).</caption></figure>
+<para id="fs-idm77995840">La dilución es también un medio habitual para preparar soluciones de una concentración deseada. Añadiendo solvente a una porción medida de una <emphasis effect="italics">solución madre</emphasis> más concentrada, se puede preparar una solución de menor concentración. Por ejemplo, los plaguicidas comerciales suelen venderse como soluciones en las que los ingredientes activos están mucho más concentrados de lo que es apropiado para su aplicación. Antes de poder utilizarlos en los cultivos, los plaguicidas deben diluirse. Esta es también una práctica muy común para la preparación de una serie de reactivos comunes de laboratorio.</para>
+<para id="fs-idm77996832">Se puede utilizar una relación matemática sencilla para relacionar los volúmenes y las concentraciones de una solución antes y después del proceso de dilución. Según la definición de molaridad, el número de moles de soluto en una solución (<emphasis effect="italics">n</emphasis>) es igual al producto de la molaridad de la solución (<emphasis effect="italics">M</emphasis>) por su volumen en litros (<emphasis effect="italics">L</emphasis>):</para><equation id="fs-idm32193760" class="unnumbered"><m:math><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mi>M</m:mi><m:mi>L</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm104760288">Expresiones como estas pueden escribirse para una solución antes y después de diluirla:</para>
+<equation id="fs-idm18261728" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>n</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>L</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math></equation>
+<equation id="fs-idm61402048" class="unnumbered">Los términos <m:math><m:mrow><m:msub><m:mi>n</m:mi><m:mn>2 </m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>M</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>L</m:mi><m:mn>2 </m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm123215808">donde los subíndices "1" y "2" se refieren a la solución antes y después de la dilución, respectivamente. Como el proceso de dilución <emphasis effect="italics">no cambia la cantidad de soluto en la solución, </emphasis><emphasis effect="italics">n</emphasis><sub>1</sub> = <emphasis effect="italics">n</emphasis><sub>2</sub>. Por lo tanto, estas dos ecuaciones pueden ser iguales entre sí:</para><equation id="fs-idp188032944" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>M</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>L</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>M</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>L</m:mi><m:mn>2 </m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm103311152">Esta relación se denomina comúnmente ecuación de dilución. Aunque esta ecuación utiliza la molaridad como unidad de concentración y los litros como unidad de volumen, se pueden utilizar otras unidades de concentración y volumen siempre que las unidades se cancelen adecuadamente según el método de los factores de conversión. Reflejando esta versatilidad, la ecuación de dilución se escribe a menudo en la forma más general:</para>
+<equation id="fs-idm69146864" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm81143040">donde <emphasis effect="italics">C</emphasis> y <emphasis effect="italics">V</emphasis> son la concentración y el volumen, respectivamente.</para>
+<note id="fs-idm98324208" class="chemistry link-to-learning">
+<para id="fs-idm105278864">Utilice la <link url="http://openstax.org/l/16Phetsolvents">simulación</link> para explorar las relaciones entre la cantidad de soluto, el volumen de la solución y la concentración y para confirmar la ecuación de dilución.</para>
+</note>
+<example id="fs-idm81737600">
+<para id="fs-idm65542512"><title>Determinar la concentración de una solución diluida</title>
+Si se diluyen 0,850 L de una solución de 5,00-<emphasis effect="italics">M</emphasis> de nitrato de cobre, Cu(NO<sub>3</sub>)<sub>2</sub>, hasta un volumen de 1,80 L mediante la adición de agua, ¿cuál es la molaridad de la solución diluida?</para>
+<para id="fs-idm63250768"><title>Solución</title>
+Se proporciona la concentración madre, <emphasis effect="italics">C</emphasis><sub>1</sub>, y el volumen, <emphasis effect="italics">V</emphasis><sub>1</sub>, así como el volumen de la solución diluida, <emphasis effect="italics">V</emphasis><sub>2</sub>. Reordene la ecuación de dilución para aislar la propiedad desconocida, la concentración de la solución diluida, <emphasis effect="italics">C</emphasis><sub>2</sub>:</para>
+<equation id="fs-idm82973104" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:msub><m:mi>C</m:mi><m:mn>2 </m:mn></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm81759792">Dado que la solución madre se diluye en más del doble (el volumen se incrementa de 0,85 L a 1,80 L), se espera que la concentración de la solución diluida sea inferior a la mitad de 5 <emphasis effect="italics">M</emphasis>. Esta estimación aproximada se comparará con el resultado calculado para comprobar si hay errores graves de cálculo (por ejemplo, una sustitución incorrecta de las cantidades dadas). Sustituyendo los valores dados por los términos del lado derecho de esta ecuación se obtiene:</para>
+<equation id="fs-idm61572480" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2 </m:mn></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,850</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>5,00</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mtext>L</m:mtext></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mrow><m:mn>1,80 L</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2,36</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm125598048">Este resultado se ajusta a nuestra estimación aproximada (es un poco menos de la mitad de la concentración madre, 5 <emphasis effect="italics">M</emphasis>).</para>
+<para id="fs-idm105016944"><title>Compruebe lo aprendido</title>
+¿Cuál es la concentración de la solución que resulta de diluir 25,0 mL de una solución de 2,04-<emphasis effect="italics">M</emphasis> de CH<sub>3</sub>OH hasta 500,0 mL?</para>
+<note id="fs-idm112503952"><title>Respuesta:</title><para id="fs-idm1594608">0,102 <emphasis effect="italics">M</emphasis> de CH<sub>3</sub>OH</para></note>
+</example>
+<example id="fs-idm81033056">
+<para id="fs-idm90576336"><title>Volumen de una solución diluida</title>
+¿Qué volumen de 0,12 <emphasis effect="italics">M</emphasis> de HBr se puede preparar a partir de 11 mL (0,011 L) de 0,45 <emphasis effect="italics">M</emphasis> de HBr?</para>
+<para id="fs-idm75791728"><title>Solución</title>
+Se proporcionan el volumen y la concentración de una solución madre, <emphasis effect="italics">V</emphasis><sub>1</sub> y <emphasis effect="italics">C</emphasis><sub>1</sub>, y la concentración de la solución diluida resultante, <emphasis effect="italics">C</emphasis><sub>2</sub>. Encuentre el volumen de la solución diluida, <emphasis effect="italics">V</emphasis><sub>2</sub> reordenando la ecuación de dilución para aislar <emphasis effect="italics">V</emphasis><sub>2</sub>:</para>
+<equation id="fs-idm80850240" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm61209504">Como la concentración diluida (0,12 <emphasis effect="italics">M</emphasis>) es algo más de la cuarta parte de la concentración original (0,45 <emphasis effect="italics">M</emphasis>), se espera que el volumen de la solución diluida sea aproximadamente cuatro veces el volumen original, es decir, aproximadamente 44 mL. Al sustituir los valores dados y resolver el volumen desconocido se obtiene:</para><equation id="fs-idm82787888" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,45</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,011</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,12</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>0,041</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm80652096">El volumen de la solución de 0,12-<emphasis effect="italics">M</emphasis> es de 0,041 L (41 mL). El resultado es razonable y se compara bien con la estimación aproximada.</para>
+<para id="fs-idm78684320"><title>Compruebe lo aprendido</title>
+Un experimento de laboratorio necesita 0,125 <emphasis effect="italics">M</emphasis> de HNO<sub>3</sub>. ¿Qué volumen de 0,125 <emphasis effect="italics">M</emphasis> de HNO<sub>3</sub> se puede preparar a partir de 0,250 L de 1,88 <emphasis effect="italics">M</emphasis> de HNO<sub>3</sub>?</para>
+<note id="fs-idm58675056"><title>Respuesta:</title><para id="fs-idm590752">3,76 L</para></note></example>
+<example id="fs-idm60422464">
+<para id="fs-idm58713072"><title>Volumen de una solución concentrada necesario para la dilución</title>
+¿Qué volumen de 1,59 <emphasis effect="italics">M</emphasis> de KOH se necesita para preparar 5,00 L de 0,100 <emphasis effect="italics">M</emphasis> de KOH?</para>
+<para id="fs-idm72581456"><title>Solución</title>
+Se da la concentración de una solución madre, <emphasis effect="italics">C</emphasis><sub>1</sub>, y el volumen y la concentración de la solución diluida resultante, <emphasis effect="italics">V</emphasis><sub>2</sub> y <emphasis effect="italics">C</emphasis><sub>2</sub>. Halle el volumen de la solución madre, <emphasis effect="italics">V</emphasis><sub>1</sub> reordenando la ecuación de dilución para aislar <emphasis effect="italics">V</emphasis><sub>1</sub>:</para>
+<equation id="fs-idm108330752" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm108418736">Dado que la concentración de la solución diluida 0,100 <emphasis effect="italics">M</emphasis> es aproximadamente un dieciseisavo de la solución madre (1,59 <emphasis effect="italics">M</emphasis>), se espera que el volumen de la solución madre sea aproximadamente un dieciseisavo del de la solución diluida, es decir, unos 0,3 litros. Al sustituir los valores dados y resolver el volumen desconocido se obtiene:</para>
+<equation id="fs-idm129889216" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,100</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>5,00</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>1,59</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>0,314</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm85673088">Por lo tanto, se necesitan 0,314 L de la solución de 1,59-<emphasis effect="italics">M</emphasis> para preparar la solución deseada. Este resultado es coherente con la estimación aproximada.</para>
+<para id="fs-idm61586320"><title>Compruebe lo aprendido</title>
+¿Qué volumen de una solución de 0,575<emphasis effect="italics">M</emphasis> de glucosa, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, se puede preparar a partir de 50,00 mL de una solución de 3,00-<emphasis effect="italics">M</emphasis> de glucosa?</para>
+<note id="fs-idm150115024"><title>Respuesta:</title><para id="fs-idm68276304">0,261 L</para></note></example>
+</section>
+<section id="fs-idm102255792" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm67554336">Las soluciones son mezclas homogéneas. Muchas soluciones contienen un componente, llamado solvente, en el que se disuelven otros componentes, llamados solutos. Una solución acuosa es aquella cuyo solvente es el agua. La concentración de una solución es una medida de la cantidad relativa de soluto en una cantidad determinada de solución. Las concentraciones pueden medirse utilizando varias unidades, y una unidad muy útil es la molaridad, que se define como el número de moles de soluto por litro de solución. La concentración de soluto de una solución puede disminuirse añadiendo solvente, proceso que se denomina dilución. La ecuación de dilución es una relación simple entre las concentraciones y los volúmenes de una solución antes y después de la dilución.</para>
+</section>
+<section id="fs-idm92499152" class="exercises">
+<title>Ejercicios de Química del final del capítulo</title>
+<exercise id="fs-idm107608448">
+<problem id="fs-idm106693616"><para id="fs-idm100698576">Explique qué cambia y qué permanece igual cuando 1,00 L de una solución de NaCl se diluye a 1,80 L.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm66121488">
+<problem id="fs-idm59159536"><para id="fs-idm92596512">¿Qué información se necesita para calcular la molaridad de una solución de ácido sulfúrico?</para>
+</problem>
+<solution id="fs-idm108410160"><para id="fs-idm76389120">Necesitamos saber el número de moles de ácido sulfúrico disueltos en la solución y el volumen de la misma.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm80527600">
+<problem id="fs-idm55851392"><para id="fs-idm92881152">Una muestra de 200 mL y otra muestra de 400 mL de una solución de sal tienen la misma molaridad. ¿En qué aspectos son idénticas las dos muestras? ¿En qué se diferencian estas dos muestras?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm98103760">
+<problem id="fs-idm108439984"><para id="fs-idm59812240">Determine la molaridad de cada una de las siguientes soluciones:</para>
+<para id="fs-idm72574192">(a) 0,444 mol de CoCl<sub>2</sub> en 0,654 L de solución</para>
+<para id="fs-idm1278048">(b) 98,0 g de ácido fosfórico, H<sub>3</sub>PO<sub>4</sub>, en 1,00 L de solución</para>
+<para id="fs-idm76759104">(c) 0,2074 g de hidróxido de calcio, Ca(OH)<sub>2</sub>, en 40,00 mL de solución</para>
+<para id="fs-idm62727632">(d) 10,5 kg de Na<sub>2</sub>SO<sub>4</sub>·10H<sub>2</sub>O en 18,60 L de solución</para>
+<para id="fs-idm62190816">(e) 7,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup> mol de I<sub>2</sub> en 100,0 mL de solución</para>
+<para id="fs-idm76892960">(f) 1,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>4</sup> mg de HCl en 0,075 L de solución</para>
+</problem>
+<solution id="fs-idm10494144"><para id="fs-idm73057968">(a) 0,679 <emphasis effect="italics">M</emphasis>; (b) 1,00 <emphasis effect="italics">M</emphasis>; (c) 0,06998 <emphasis effect="italics">M</emphasis>; (d) 1,75 <emphasis effect="italics">M</emphasis>; (e) 0,070 <emphasis effect="italics">M</emphasis>; (f) 6,6 <emphasis effect="italics">M</emphasis></para></solution>
+</exercise>
+<exercise id="fs-idm78757216">
+<problem id="fs-idm94682544"><para id="fs-idm96636640">Determine la molaridad de cada una de las siguientes soluciones:</para>
+<para id="fs-idm115685936">(a) 1,457 mol de KCl en 1,500 L de solución</para>
+<para id="fs-idm62669712">(b) 0,515 g de H<sub>2</sub>SO<sub>4</sub> en 1,00 L de solución</para>
+<para id="fs-idm82787056">(c) 20,54 g de Al(NO<sub>3</sub>)<sub>3</sub> en 1575 mL de solución</para>
+<para id="fs-idm93875024">(d) 2,76 kg de CuSO<sub>4</sub>·5H<sub>2</sub>O en 1,45 L de solución</para>
+<para id="fs-idm65508528">(e) 0,005653 mol de Br<sub>2</sub> en 10,00 mL de solución</para>
+<para id="fs-idm82401232">(f) 0,000889 g de glicina, C<sub>2</sub>H<sub>5</sub>NO<sub>2</sub>, en 1,05 mL de solución</para>
+</problem>
+</exercise>
+<exercise id="fs-idm62194192">
+<problem id="fs-idm62713840"><para id="fs-idm62810592">Considere esta pregunta: ¿Cuál es la masa del soluto en 0,500 L de 0,30 <emphasis effect="italics">M</emphasis> de glucosa, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, utilizada para la inyección intravenosa?</para>
+<para id="fs-idm75876656">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp41676320">(b) Responda la pregunta.</para>
+</problem>
+<solution id="fs-idm73585856"><para id="fs-idm73585728">(a) determinar el número de moles de glucosa en 0,500 L de solución; determinar la masa molar de la glucosa; determinar la masa de la glucosa a partir del número de moles y su masa molar; (b) 27 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idm59335888">
+<problem id="fs-idm1320576"><para id="fs-idm1320448">Considere esta pregunta: ¿Cuál es la masa de soluto en 200,0 L de una solución de 1,556 -<emphasis effect="italics">M</emphasis> de KBr?</para>
+<para id="fs-idm91536048">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp164489472">(b) Responda la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm62322112">
+<problem id="fs-idm101359872"><para id="fs-idm101359744">Calcule el número de moles y la masa del soluto en cada una de las siguientes soluciones:</para>
+<para id="fs-idm102145824">(a) 2,00 L de 18,5 <emphasis effect="italics">M</emphasis> de H<sub>2</sub>SO<sub>4</sub>, ácido sulfúrico concentrado</para>
+<para id="fs-idm94203104">(b) 100,0 mL de 3,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>-6</sup> <emphasis effect="italics">M</emphasis> de NaCN, la concentración mínima letal de cianuro de sodio en el suero sanguíneo</para><para id="fs-idm60008496">(c) 5,50 L de 13,3 <emphasis effect="italics">M</emphasis> de H<sub>2</sub>CO, el formaldehído que se utiliza para "fijar" las muestras de tejido</para>
+<para id="fs-idm91658464">(d) 325 mL de 1,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>-6</sup> <emphasis effect="italics">M</emphasis> de FeSO<sub>4</sub>, la concentración mínima de sulfato de hierro detectable por el gusto en el agua potable</para>
+</problem>
+<solution id="fs-idm96721168"><para id="fs-idm96721040">(a) 37,0 mol de H<sub>2</sub>SO<sub>4</sub>, 3,63 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> g de H<sub>2</sub>SO<sub>4</sub>; (b) 3,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>-7</sup> mol de NaCN, 1,9 <m:math><m:mo>×</m:mo></m:math> 10<sup>-5</sup> g de NaCN; (c) 73,2 mol de H<sub>2</sub>CO, 2,20 kg de H<sub>2</sub>CO; (d) 5,9 <m:math><m:mo>×</m:mo></m:math> 10<sup>-7</sup> mol de FeSO<sub>4</sub>, 8,9 <m:math><m:mo>×</m:mo></m:math> 10<sup>-5</sup> g de FeSO<sub>4</sub></para></solution>
+</exercise>
+<exercise id="fs-idm26412832">
+<problem id="fs-idm55806144">
+<para id="fs-idm55805888">Calcule el número de moles y la masa del soluto en cada una de las siguientes soluciones:</para>
+<para id="fs-idm9476176">(a) 325 mL de 8,23 <m:math><m:mo>×</m:mo></m:math> 10<sup>-5</sup> <emphasis effect="italics">M</emphasis> de KI, una fuente de yodo en la dieta</para>
+<para id="fs-idm26675232">(b) 75,0 mL de 2,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>-5</sup> <emphasis effect="italics">M</emphasis> de H<sub>2</sub>SO<sub>4</sub>, una muestra de lluvia ácida</para>
+<para id="fs-idm26426432">(c) 0,2500 L de 0,1135 <emphasis effect="italics">M</emphasis> de K<sub>2</sub>CrO<sub>4</sub>, un reactivo analítico utilizado en los ensayos de hierro</para>
+<para id="fs-idm26424384">(d) 10,5 L de 3,716 <emphasis effect="italics">M</emphasis> de (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, un fertilizante líquido</para>
+</problem>
+</exercise>
+<exercise id="fs-idm26500064">
+<problem id="fs-idm26505920"><para id="fs-idm26505792">Considere esta pregunta: ¿Cuál es la molaridad del KMnO<sub>4</sub> en una solución de 0,0908 g del KMnO<sub>4</sub> en 0,500 L de solución?</para>
+<para id="fs-idm39482304">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idm44707952">(b) Responda la pregunta.</para>
+</problem>
+<solution id="fs-idm26504384"><para id="fs-idm26504256">(a) Determinar la masa molar de KMnO<sub>4</sub>; determinar el número de moles de KMnO<sub>4</sub> en la solución; a partir del número de moles y del volumen de la solución, determinar la molaridad; (b) 1,15 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup> <emphasis effect="italics">M</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idm3478704">
+<problem id="fs-idm3478448"><para id="fs-idm3478320">Considere esta pregunta: ¿Cuál es la molaridad del HCl si 35,23 mL de una solución de HCl contienen 0,3366 g de HCl?</para>
+<para id="fs-idp33435888">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp9323904">(b) Responda la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm26577792">
+<problem id="fs-idm26577536"><para id="fs-idm26577408">Calcule la molaridad de cada una de las siguientes soluciones:</para>
+<para id="fs-idm26577024">(a) 0,195 g de colesterol, C<sub>27</sub>H<sub>46</sub>O, en 0,100 L de suero, la concentración media de colesterol en el suero humano</para>
+<para id="fs-idm26575872">(b) 4,25 g de NH<sub>3</sub> en 0,500 L de solución, la concentración de NH<sub>3</sub> en el amoníaco doméstico</para>
+<para id="fs-idm26574720">(c) 1,49 kg de alcohol isopropílico, C<sub>3</sub>H<sub>7</sub>OH, en 2,50 L de solución, la concentración de alcohol isopropílico en el alcohol de fricción</para>
+<para id="fs-idm26573568">(d) 0,029 g de I<sub>2</sub> en 0,100 L de solución, la solubilidad del I<sub>2</sub> en agua a 20 °C</para>
+</problem>
+<solution id="fs-idm26572288"><para id="fs-idm26572160">(a) 5,04 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup> <emphasis effect="italics">M</emphasis>; (b) 0,499 <emphasis effect="italics">M</emphasis>; (c) 9,92 <emphasis effect="italics">M</emphasis>; (d) 1,1 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup> <emphasis effect="italics">M</emphasis></para></solution>
+</exercise>
+<exercise id="fs-idm26440336">
+<problem id="fs-idm26440080"><para id="fs-idm26439952">Calcule la molaridad de cada una de las siguientes soluciones:</para>
+<para id="fs-idm26439568">(a) 293 g de HCl en 666 mL de solución, una solución concentrada de HCl</para>
+<para id="fs-idm26439184">(b) 2,026 g de FeCl<sub>3</sub> en 0,1250 L de una solución utilizada como incógnita en los laboratorios de química general</para>
+<para id="fs-idm26438416">(c) 0,001 mg de Cd<sup>2+</sup> en 0,100 L, la concentración máxima permitida de cadmio en el agua potable</para>
+<para id="fs-idm26437648">(d) 0,0079 g de C<sub>7</sub>H<sub>5</sub>SNO<sub>3</sub> en una onza (29,6 mL), la concentración de sacarina en una bebida gaseosa dietética.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm26521728">
+<problem id="fs-idm26521472"><para id="fs-idm26521344">Hay aproximadamente 1,0 g de calcio, como Ca<sup>2+</sup>, en 1,0 L de leche. ¿Cuál es la molaridad del Ca<sup>2+</sup> en la leche?</para>
+</problem>
+<solution id="fs-idm26520064"><para id="fs-idp35203600">0,025 <emphasis effect="italics">M</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idm27178816">
+<problem id="fs-idm27178560"><para id="fs-idm27178432">¿Qué volumen de una solución de 1,00-<emphasis effect="italics">M</emphasis> de Fe(NO<sub>3</sub>)<sub>3</sub> puede diluirse para preparar 1,00 L de una solución con una concentración de 0,250 <emphasis effect="italics">M</emphasis>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm27167936">
+<problem id="fs-idm27167680"><para id="fs-idm27167552">Si se diluyen 0,1718 L de una solución de 0,3556-<emphasis effect="italics">M</emphasis> de C<sub>3</sub>H<sub>7</sub>OH hasta una concentración de 0,1222 <emphasis effect="italics">M</emphasis>, ¿cuál es el volumen de la solución resultante?</para>
+</problem>
+<solution id="fs-idm27165248"><para id="fs-idp171131440">0,5000 L</para></solution>
+</exercise>
+<exercise id="fs-idm27153856">
+<problem id="fs-idm27153600"><para id="fs-idm27153472">Si se diluyen 4,12 L de 0,850 <emphasis effect="italics">M</emphasis> de una solución de H<sub>3</sub>PO<sub>4</sub> hasta un volumen de 10,00 L, ¿cuál es la concentración de la solución resultante?</para></problem>
+</exercise>
+<exercise id="fs-idm27694256">
+<problem id="fs-idm27694000"><para id="fs-idm27693872">¿Qué volumen de una solución de 0,33-<emphasis effect="italics">M</emphasis> de C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> se puede diluir para preparar 25 mL de una solución con una concentración de 0,025 <emphasis effect="italics">M</emphasis>?</para>
+</problem>
+<solution id="fs-idm27691184"><para id="fs-idp223045936">1,9 mL</para>
+</solution>
+</exercise>
+<exercise id="fs-idm27683248">
+<problem id="fs-idm27682992"><para id="fs-idm27682864">¿Cuál es la concentración de la solución de NaCl que resulta cuando se dejan evaporar 0,150 L de una solución de 0,556-<emphasis effect="italics">M</emphasis> hasta que el volumen se reduce a 0,105 L?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm27672496">
+<problem id="fs-idm27672240"><para id="fs-idm27672112">¿Cuál es la molaridad de la solución diluida cuando cada una de las siguientes soluciones se diluye hasta el volumen final dado?</para>
+<para id="fs-idm27671600">(a) Se diluye 1,00 L de una solución de 0,250<emphasis effect="italics">M</emphasis> de Fe(NO<sub>3</sub>)<sub>3</sub> hasta un volumen final de 2,00 L</para>
+<para id="fs-idm26632768">(b) Se diluyen 0,5000 L de una solución de 0,1222-<emphasis effect="italics">M</emphasis> de C<sub>3</sub>H<sub>7</sub>OH hasta un volumen final de 1,250 L</para>
+<para id="fs-idm26631104">(c) Se diluyen 2,35 L de una solución de 0,350<emphasis effect="italics">M</emphasis> de H<sub>3</sub>PO<sub>4</sub> hasta un volumen final de 4,00 L</para>
+<para id="fs-idm26629440">(d) Se diluyen 22,50 mL de una solución de 0,025<emphasis effect="italics">M</emphasis> de C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> hasta 100,0 mL</para>
+</problem>
+<solution id="fs-idm26627264">
+<para id="fs-idm26627008">(a) 0,125 <emphasis effect="italics">M</emphasis>; (b) 0,04888 <emphasis effect="italics">M</emphasis>; (c) 0,206 <emphasis effect="italics">M</emphasis>; (d) 0,0056 <emphasis effect="italics">M</emphasis></para></solution>
+</exercise>
+<exercise id="fs-idm27384272">
+<problem id="fs-idm27384016"><para id="fs-idm27383888">¿Cuál es la concentración final de la solución que se produce cuando se dejan evaporar 225,5 mL de una solución de 0,09988-<emphasis effect="italics">M</emphasis> de Na<sub>2</sub>CO<sub>3</sub> hasta que el volumen de la solución se reduce a 45,00 mL?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm27373392">
+<problem id="fs-idm27373136"><para id="fs-idm27373008">Se compró una botella de 2,00 L de una solución de HCl concentrado para el laboratorio de química general. La solución contenía 868,8 g de HCl. ¿Cuál es la molaridad de la solución?</para></problem>
+<solution id="fs-idm27372432"><para id="fs-idm27372304">11,9 <emphasis effect="italics">M</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idm27364240">
+<problem id="fs-idm27363984"><para id="fs-idm27363856">Un experimento en un laboratorio de química general requiere una solución de 2,00<emphasis effect="italics">M</emphasis> de HCl. ¿Cuántos mL de 11,9 <emphasis effect="italics">M</emphasis> de HCl serían necesarios para hacer 250 mL de 2,00 <emphasis effect="italics">M</emphasis> de HCl?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm26483264">
+<problem id="fs-idm26483008"><para id="fs-idm26482880">¿Qué volumen de una solución de 0,20<emphasis effect="italics">M</emphasis> de K<sub>2</sub>SO<sub>4</sub> contiene 57 g de K<sub>2</sub>SO<sub>4</sub>?</para>
+</problem>
+<solution id="fs-idm26480208"><para id="fs-idm49632864">1,6 L</para>
+</solution>
+</exercise>
+<exercise id="fs-idm26471216">
+<problem id="fs-idm26470960"><para id="fs-idm26470832">La Agencia de Protección Ambiental (Environmental Protection Agency, EPA) de los EE. UU. impone límites a las cantidades de sustancias tóxicas que pueden verterse al sistema de alcantarillado. Se han establecido límites para diversas sustancias, entre ellas el cromo hexavalente, que está limitado a 0,50 mg/L. Si una industria vierte cromo hexavalente en forma de dicromato de potasio (K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>), ¿cuál es la molaridad máxima permitida de esa sustancia?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm26459312" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:math></entry>
+</row>
+<row><entry><emphasis effect="italics">C</emphasis><sub>1</sub><emphasis effect="italics">V</emphasis><sub>1</sub> = <emphasis effect="italics">C</emphasis><sub>2</sub><emphasis effect="italics">V</emphasis><sub>2</sub></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm26450752">
+<term>solución acuosa</term>
+<meaning id="fs-idm26450112">solución en la que el agua es el solvente</meaning>
+</definition>
+<definition id="fs-idm26449216">
+<term>concentrada</term>
+<meaning id="fs-idm26448576">término cualitativo para una solución que contiene un soluto a una concentración relativamente alta</meaning>
+</definition>
+<definition id="fs-idm26447680">
+<term>concentración</term>
+<meaning id="fs-idm26447040">medida cuantitativa de las cantidades relativas de soluto y solvente presentes en una solución</meaning>
+</definition>
+<definition id="fs-idm26674336">
+<term>diluida</term>
+<meaning id="fs-idm26673696">término cualitativo para una solución que contiene un soluto a una concentración relativamente baja</meaning>
+</definition>
+<definition id="fs-idm26672800">
+<term>dilución</term>
+<meaning id="fs-idm26672160">proceso de adición de solvente a una solución para reducir la concentración de solutos</meaning>
+</definition>
+<definition id="fs-idm26671264">
+<term>disolución</term>
+<meaning id="fs-idm26670624">describe el proceso por el que los componentes del soluto se dispersan en un solvente</meaning>
+</definition>
+<definition id="fs-idm26669728">
+<term>molaridad(<emphasis effect="italics">M</emphasis>)</term>
+<meaning id="fs-idm26668576">unidad de concentración, definida como el número de moles de soluto disueltos en 1 litro de solución</meaning>
+</definition>
+<definition id="fs-idm26667568">
+<term>soluto</term>
+<meaning id="fs-idm26666928">componente de la solución presente en una concentración inferior a la del solvente</meaning>
+</definition>
+<definition id="fs-idm26666032">
+<term>solvente</term>
+<meaning id="fs-idm26665392">componente de la solución presente en una concentración superior a la de otros componentes</meaning>
+</definition>
+</glossary>
+</document>

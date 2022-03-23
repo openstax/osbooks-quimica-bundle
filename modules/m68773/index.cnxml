@@ -1,0 +1,614 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Estructuras de red en los sólidos cristalinos</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68773</md:content-id>
+  <md:title>Estructuras de red en los sólidos cristalinos</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Describir la disposición de los átomos e iones en las estructuras cristalinas.</item>
+<item>Calcular los radios iónicos utilizando las dimensiones de la celda unitaria.</item>
+<item>Explicar el uso de las mediciones de difracción de rayos X para determinar las estructuras cristalinas.</item>
+</list></md:abstract>
+  <md:uuid>a8b4c42a-9ddf-4669-9143-2c4feec1dbff</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp100544560">Más del 90 % de los sólidos naturales y artificiales son cristalinos. La mayoría de los sólidos se forman con una disposición regular de sus partículas porque las interacciones atractivas generales entre las partículas se maximizan, y la energía intermolecular total se minimiza, cuando las partículas se empaquetan de la manera más eficiente. La disposición regular a nivel atómico suele reflejarse a nivel macroscópico. En este módulo, exploraremos algunos detalles sobre las estructuras de los sólidos cristalinos metálicos e iónicos, y aprenderemos cómo se determinan estas estructuras experimentalmente.</para>
+<section id="fs-idp80429552">
+<title>Las estructuras de los metales</title>
+<para id="fs-idp31452144">Comenzaremos nuestra exposición sobre los sólidos cristalinos considerando los metales elementales, que son relativamente simples porque cada uno contiene solo un tipo de átomo. Un metal puro es un sólido cristalino con átomos de metal empaquetados estrechamente en un patrón repetitivo. Algunas de las propiedades de los metales en general, como su maleabilidad y ductilidad, se deben en gran medida a que tienen átomos idénticos dispuestos en un patrón regular. Las diferentes propiedades de un metal con respecto a otro dependen en parte del tamaño de sus átomos y de las particularidades de su disposición espacial. En las siguientes secciones exploraremos las similitudes y diferencias de cuatro de las geometrías más comunes de los cristales metálicos.</para>
+</section>
+<section id="fs-idp31505600">
+<title>Celdas unitarias de los metales</title>
+<para id="fs-idm2181616">La estructura de un sólido cristalino, ya sea un metal o no, se describe mejor considerando su unidad de repetición más simple, que se denomina <term>celda unitaria</term>. La celda unitaria está formada por puntos de la red que representan la ubicación de los átomos o iones. La estructura completa consiste entonces en esta celda unitaria que se repite en tres dimensiones, como se ilustra en la <link target-id="CNX_Chem_10_06_UnitCell1"/>.</para>
+<figure id="CNX_Chem_10_06_UnitCell1" class="scaled-down">
+<media id="fs-idp111181360" alt="Se muestra un diagrama de dos imágenes. En la primera imagen, se muestra un cubo con una esfera en cada esquina. El cubo está marcado como &quot;celda unitaria&quot; y las esferas de las esquinas están marcadas como &quot;puntos de la red&quot;. La segunda imagen muestra el mismo cubo, pero esta vez es un cubo entre ocho que forman un cubo más grande. El cubo original está sombreado de un color mientras que los otros cubos no lo están.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_UnitCell1.jpg"/>
+</media>
+<caption>Una celda unitaria muestra las ubicaciones de los puntos de la red que se repiten en todas las direcciones.</caption>
+</figure>
+<para id="fs-idp68860560">Comencemos nuestra investigación sobre la estructura de la red cristalina y las celdas unitarias con la estructura más sencilla y la celda unitaria más básica. Para visualizarlo, imagine que toma un gran número de esferas idénticas, como pelotas de tenis, y las dispone uniformemente en un recipiente. La forma más sencilla de hacerlo sería hacer capas en las que las esferas de una capa estén directamente encima de las de la capa inferior, como se ilustra en la <link target-id="CNX_Chem_10_06_SimpleCub1"/>. Esta disposición se denomina <term>estructura cúbica simple</term>, y la celda unitaria se llama <term>celda unitaria cúbica simple</term> o celda unitaria cúbica primitiva.</para>
+<figure id="CNX_Chem_10_06_SimpleCub1" class="scaled-down">
+<media id="fs-idp75647456" alt="Se muestra un diagrama de tres imágenes. En la primera imagen, se muestra un cubo con una esfera en cada esquina. Las esferas de las esquinas están rodeadas por un círculo. La segunda imagen muestra el mismo cubo, pero esta vez las esferas de las esquinas son más grandes y están sombreadas. En la tercera imagen, el cubo es uno de los ocho que componen un cubo mayor. El cubo original está sombreado de un color mientras que los otros cubos no lo están.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_SimpleCub1.jpg"/>
+</media>
+<caption>Cuando los átomos de metal están dispuestos con esferas en una capa directamente encima o debajo de esferas en otra capa, la estructura de la red se llama cúbica simple. Observe que las esferas están en contacto.</caption>
+</figure>
+<para id="fs-idm2044016">En una estructura cúbica simple, las esferas no se empaquetan tan estrechamente como podrían, y solo "llenan" alrededor del 52 % del volumen del recipiente. Esta es una disposición relativamente ineficiente, y solo un metal (el polonio, Po) cristaliza en una estructura cúbica simple. Como se muestra en la <link target-id="CNX_Chem_10_06_SimpleCub2"/>, un sólido con este tipo de disposición consta de planos (o capas) en los que cada átomo contacta solo con los cuatro vecinos más cercanos de su capa; un átomo directamente por encima de él en la capa de arriba; y un átomo directamente por debajo en la capa de abajo. El número de otras partículas con las que contacta cada partícula de un sólido cristalino se conoce como su <term>número de coordinación</term>. En un átomo de polonio en un conjunto cúbico simple, el número de coordinación es, por tanto, seis.</para>
+<figure id="CNX_Chem_10_06_SimpleCub2" class="scaled-down">
+<media id="fs-idp759920" alt="Se muestra un diagrama de dos imágenes. En la primera imagen, se muestran ocho cubos apilados que forman un gran cubo. Tres líneas que van de arriba a abajo, de delante a atrás y de lado a lado en el centro de la estructura están sombreadas de forma más oscura que el resto de las líneas. La segunda imagen muestra el mismo conjunto de cubos, pero esta vez las esferas al final de cada línea están numeradas; la línea horizontal que va de izquierda a derecha está marcada con un &quot;2&quot; y un &quot;5&quot;, la línea vertical está marcada con un &quot;1&quot; y un &quot;6&quot; y la línea que va horizontalmente de adelante hacia atrás está marcada con un &quot;3&quot; y un &quot;4&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_SimpleCub2.jpg"/>
+</media>
+<caption>Un átomo en una estructura de red cúbica simple entra en contacto con otros seis átomos, por lo que tiene un número de coordinación de seis.</caption>
+</figure>
+<para id="fs-idm15054992">En una red cúbica simple, la celda unitaria que se repite en todas las direcciones es un cubo definido por los centros de ocho átomos, como se muestra en la <link target-id="CNX_Chem_10_06_SimpleCub3"/>. Los átomos de las esquinas adyacentes de esta celda unitaria están en contacto entre sí, por lo que la longitud del borde de esta celda es igual a dos radios atómicos, o a un diámetro atómico. Una celda unitaria cúbica contiene solo las partes de los átomos que están dentro de ella. Dado que un átomo en una esquina de una celda unitaria cúbica simple está contenido por un total de ocho celdas unitarias, solo un octavo de ese átomo está dentro de una celda unitaria específica. Y como cada celda unitaria cúbica simple tiene un átomo en cada una de sus ocho "esquinas", hay <m:math><m:mrow><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> átomo dentro de una celda unitaria cúbica simple.</para>
+<figure id="CNX_Chem_10_06_SimpleCub3" class="scaled-down">
+<media id="fs-idm54718224" alt="Se muestra un diagrama de dos imágenes. En la primera imagen, ocho esferas se apilan para formar un cubo y los puntos del centro de cada esfera se conectan para formar un cubo. Los puntos están marcados como &quot;Puntos de celosía&quot; mientras que una marca bajo la imagen dice &quot;Celda de red cúbica simple&quot; La segunda imagen muestra la parte de cada esfera que se encuentra dentro del cubo. Las esquinas del cubo se muestran con pequeños círculos marcados como &quot;Puntos de la red&quot; y la frase &quot;8 esquinas&quot; está escrita debajo de la imagen.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_SimpleCub3.jpg"/>
+</media>
+<caption>Una celda unitaria cúbica simple contiene un octavo de átomo en cada una de sus ocho esquinas, por lo que contiene un átomo en total.</caption>
+</figure>
+<example id="fs-idm39353008">
+<para id="fs-idp168483760"><title>Cálculo del radio y la densidad atómica de los metales, parte 1</title>
+La longitud del borde de la celda unitaria del polonio alfa es de 336 pm.</para>
+<para id="fs-idp31912208">(a) Determine el radio de un átomo de polonio.</para>
+<para id="fs-idp27972848">(b) Determine la densidad del polonio alfa.</para>
+<para id="fs-idm50199232"><title>Solución</title>
+El alfa-polonio cristaliza en una celda unitaria cubica simple:</para>
+<media id="fs-idp27312864" class="scaled-down" alt="Un diagrama muestra un cubo con una octava parte de ocho esferas dentro del cubo, una sección en cada esquina. A lo largo de la parte inferior derecha del cubo hay dos flechas de doble punta que se extienden cada una a lo largo de la mitad de la distancia total del cubo. Cada flecha está marcada como &quot;r&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_SimpCube_img.jpg"/>
+</media>
+<para id="fs-idp69327632">(a) Dos átomos de Po adyacentes están en contacto entre sí, por lo que la longitud del borde de esta celda es igual a dos radios atómicos de Po: l = 2<emphasis effect="italics">r</emphasis>. Por lo tanto, el radio de Po es <m:math><m:mrow><m:mi>r</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mtext>l</m:mtext><m:mn>2 </m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>336 pm</m:mtext></m:mrow><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>168 pm</m:mtext><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idp25499616">(b) La densidad viene dada por <m:math><m:mrow><m:mtext>densidad</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa</m:mtext></m:mrow><m:mrow><m:mtext>volumen</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> La densidad del polonio se puede encontrar determinando la densidad de su celda unitaria (la masa contenida en una celda unitaria dividida por el volumen de la celda unitaria). Dado que una celda unitaria de Po contiene un octavo de átomo de Po en cada una de sus ocho esquinas, una celda unitaria contiene un átomo de Po.</para>
+<para id="fs-idp79700432">La masa de una celda unitaria de Po se puede encontrar por:</para>
+<equation class="unnumbered" id="fs-idm6438944"><m:math><m:mrow><m:mtext>1 celda unitaria Po</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 átomo de Po</m:mtext></m:mrow><m:mrow><m:mtext>1 celda unitaria Po</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol Po</m:mtext></m:mrow><m:mrow><m:mn>6,022</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>Átomos de Po</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>208,998</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mtext>1 mol Po</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>3,47</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-22</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm23492592">El volumen de una celda unitaria de Po se puede hallar mediante:</para>
+<equation class="unnumbered" id="fs-idp81487792"><m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:msup><m:mi>l</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>336</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-10</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>cm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>3,79</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-23</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp24905488">(Observe que la longitud del borde se ha convertido de pm a cm para obtener las unidades de volumen habituales para la densidad).</para>
+<para id="fs-idp39660704">Por lo tanto, la densidad de <m:math><m:mrow><m:mtext>Po</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3,471</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-22</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mn>3,79</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-23</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:msup><m:mrow><m:mtext>9,16 g/cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+<para id="fs-idp83271488"><title>Compruebe lo aprendido</title>
+La longitud del borde de la celda unitaria del níquel es de 0,3524 nm. La densidad del Ni es de 8,90 g/cm<sup>3</sup>. ¿Cristaliza el níquel en una estructura cúbica simple? Explique.</para>
+<note id="fs-idp113302880">
+<title>Respuesta:</title>
+<para id="fs-idp76470512">No. Si el Ni fuera cúbico simple, su densidad vendría dada por<newline/> <m:math><m:mrow><m:mtext>1 átomo de Ni</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol de Ni</m:mtext></m:mrow><m:mrow><m:mn>6,022</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>Átomos de Ni</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>58,693</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mtext>1 mol de Ni</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>9,746</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-23</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:math><newline/> <m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:msup><m:mi>l</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3,524</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-8</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>cm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>4,376</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-23</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math><newline/> Entonces la densidad del Ni sería <m:math><m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>9,746</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-23</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mn>4,376</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-23</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:msup><m:mrow><m:mtext>2,23 g/cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math><newline/> Dado que la densidad real del Ni no se aproxima a esta, el Ni no forma una estructura cúbica simple.</para>
+</note>
+</example>
+<para id="fs-idp589840">La mayoría de los cristales metálicos son uno de los cuatro tipos principales de celdas unitarias. Por ahora, nos centraremos en las tres celdas unitarias cúbicas: la cúbica simple (que ya hemos visto), la <term>celda unitaria cúbica centrada en el cuerpo</term> y la <term>celda unitaria cúbica centrada en la cara, todas ellas </term> ilustradas en la <link target-id="CNX_Chem_10_06_CubUntCll"/>. (Observe que, en realidad, hay siete sistemas de red diferentes, algunos de los cuales tienen más de un tipo de red, lo que supone un total de 14 tipos diferentes de celdas unitarias. Dejamos las geometrías más complicadas para más adelante en este módulo).</para>
+<figure id="CNX_Chem_10_06_CubUntCll" class="scaled-down">
+<media id="fs-idp131181888" alt="Se muestran tres pares de imágenes. Las tres primeras imágenes están en una fila y están marcadas como &quot;Ubicaciones de puntos de la red&quot;, mientras que las segundas tres imágenes están en una fila marcada como &quot;Celdas unitarias cúbicas&quot;. La primera imagen de la fila superior muestra un cubo con puntos negros en cada esquina, mientras que la primera imagen de la segunda fila está compuesta por ocho esferas que se apilan para formar un cubo y los puntos del centro de cada esfera se conectan para formar una forma cúbica. El nombre bajo esta imagen dice &quot;Cúbico simple&quot;. La segunda imagen de la fila superior muestra un cubo con puntos negros en cada esquina y un punto rojo en el centro, mientras que la segunda imagen de la segunda fila se compone de ocho esferas que se apilan para formar un cubo con una esfera en el centro del cubo y puntos en el centro de cada esfera de las esquinas conectados para formar una forma de cubo. El nombre bajo esta imagen dice &quot;Cúbico centrado en el cuerpo&quot;. La tercera imagen de la fila superior muestra un cubo con puntos negros en cada esquina y puntos rojos en el centro de cada cara, mientras que la tercera imagen de la segunda fila está compuesta por ocho esferas que se apilan para formar un cubo con seis esferas más situadas en el centro de cada cara del cubo. Los puntos en el centro de cada esfera de la esquina se conectan para formar una forma de cubo. El nombre bajo esta imagen dice &quot;Cúbico centrado en la cara&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_CubUntCll.jpg"/>
+</media>
+<caption>Las celdas unitarias cúbicas de los metales muestran (en las figuras superiores) las ubicaciones de los puntos de la red y (en las figuras inferiores) los átomos de metal situados en la celda unitaria.</caption>
+</figure>
+<para id="fs-idp78313376">Algunos metales cristalizan en una disposición que tiene una celda unitaria cúbica con átomos en todas las esquinas y un átomo en el centro, como se muestra en la <link target-id="CNX_Chem_10_06_BdyCntrdCb"/>. Esto se llama un <term>sólido cúbico centrado en el cuerpo (body-centered cubic, BCC)</term>. Los átomos de las esquinas de una celda unitaria BCC no están en contacto entre sí, sino con el átomo del centro. Una celda unitaria BCC contiene dos átomos: un octavo de átomo en cada una de las ocho esquinas <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1</m:mn></m:mrow></m:math> átomo de las esquinas) más un átomo del centro. Cualquier átomo de esta estructura toca cuatro átomos de la capa superior y cuatro átomos de la capa inferior. Así, un átomo en una estructura BCC tiene un número de coordinación de ocho.</para>
+<figure id="CNX_Chem_10_06_BdyCntrdCb" class="scaled-down">
+<media id="fs-idp131155392" alt="Se muestran tres imágenes. La primera imagen muestra un cubo con puntos negros en cada esquina y un punto rojo en el centro, mientras que la segunda imagen se compone de ocho esferas que se apilan para formar un cubo con una esfera en el centro del cubo y puntos en el centro de cada esfera de las esquinas conectados para formar una forma de cubo. El nombre bajo esta imagen dice &quot;Estructura cúbica centrada en el cuerpo&quot;. La tercera imagen es la misma que la segunda, pero solo muestra las porciones de las esferas que se encuentran dentro de la forma del cubo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_BdyCntrdCb.jpg"/>
+</media>
+<caption>En una estructura cúbica centrada en el cuerpo, los átomos de una determinada capa no se tocan entre sí. Cada átomo toca cuatro átomos de la capa superior y cuatro átomos de la capa inferior.</caption>
+</figure>
+<para id="fs-idm23808480">Los átomos en las disposiciones BCC se empaquetan de forma mucho más eficiente que en una estructura cúbica simple, ocupando alrededor del 68 % del volumen total. Los metales isomorfos con estructura BCC son el K, el Ba, el Cr, el Mo, el W y el Fe a temperatura ambiente. (Se dice que los elementos o compuestos que cristalizan con la misma estructura son <term>isomorfos</term>).</para>
+<para id="fs-idp30613264">Muchos otros metales, como el aluminio, el cobre y el plomo, cristalizan en una disposición que tiene una celda unitaria cúbica con átomos en todas las esquinas y en los centros de cada cara, como se ilustra en la <link target-id="CNX_Chem_10_06_FcCntrdCbc"/>. Esta disposición se denomina <term>sólido cúbico centrado en la cara (face-centered cubic, FCC)</term>. Una celda unitaria de FCC contiene cuatro átomos: un octavo de átomo en cada una de las ocho esquinas <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> átomo de las esquinas) y la mitad de un átomo en cada una de las seis caras <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2 </m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math> átomos de las caras). Los átomos de las esquinas tocan los átomos de los centros de las caras adyacentes a lo largo de las diagonales de las caras del cubo. Como los átomos se encuentran en puntos idénticos de la red, tienen entornos idénticos.</para>
+<figure id="CNX_Chem_10_06_FcCntrdCbc" class="scaled-down">
+<media id="fs-idp64550784" alt="Se muestran tres imágenes. La primera imagen muestra un cubo con puntos negros en cada esquina y puntos rojos en el centro de cada cara del cubo, mientras que la segunda imagen está compuesta por ocho esferas que se apilan para formar un cubo con seis esferas más, una situada en cada cara de la estructura. Los puntos en el centro de cada esfera de la esquina se conectan para formar una forma de cubo. El nombre bajo esta imagen dice &quot;Estructura cúbica centrada en la cara&quot;. La tercera imagen es la misma que la segunda, pero solo muestra las porciones de las esferas que se encuentran dentro de la forma del cubo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_FcCntrdCbc.jpg"/>
+</media>
+<caption>Un sólido cúbico centrado en la cara tiene átomos en las esquinas y como su nombre indica, en los centros de las caras de sus celdas unitarias.</caption>
+</figure>
+<para id="fs-idp4268832">Los átomos en una disposición FCC se empaquetan lo más estrechamente posible, ocupando los átomos el 74 % del volumen. Esta estructura también se denomina <term>empaquetamiento cúbico compacto (cubic closest packing, CCP)</term>. En el CCP, hay tres capas repetidas de átomos dispuestos de forma hexagonal. Cada átomo entra en contacto con seis átomos de su propia capa, tres de la capa superior y tres de la capa inferior. En esta disposición, cada átomo toca a 12 vecinos cercanos y, por tanto, tiene un número de coordinación de 12. Puede que el hecho de que los arreglos de FCC y CCP sean equivalentes no sea inmediatamente obvio, pero en la <link target-id="CNX_Chem_10_06_CbcCltPckd"/> se ilustra por qué son realmente la misma estructura.</para>
+<figure id="CNX_Chem_10_06_CbcCltPckd" class="scaled-down">
+<media id="fs-idp31732224" alt="Se muestran tres imágenes. En la primera imagen, una vista lateral muestra una capa de esferas azules, marcadas como &quot;C&quot;, apiladas encima y entre los huecos de una segunda capa compuesta por esferas verdes, marcadas como &quot;B&quot;, que están sentadas encima de una capa púrpura de esferas marcadas como &quot;A&quot;. Una marca debajo de esta imagen dice &quot;Vista lateral&quot;. La segunda imagen muestra una vista superior de las mismas capas de esferas, donde la capa superior es &quot;C&quot;, la segunda capa es &quot;B&quot; y la capa inferior es &quot;C&quot;. Esta imagen está marcada como &quot;Vista superior&quot; y debajo de ella está escrita la frase &quot;Estructura cúbica empaquetada más cercana&quot;. La tercera imagen muestra una vista superior de la cara de un cubo compuesto por dos conjuntos de capas que se repiten mostradas en las otras imágenes. Las capas están dispuestas &quot;C, B, A, C, B, A, C&quot; y la frase escrita debajo de esta imagen dice &quot;Vista girada&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_CbcCltPckd.jpg"/>
+</media>
+<caption>Una disposición CCP consiste en tres capas repetidas (ABCABC...) de átomos dispuestos de forma hexagonal. Los átomos de una estructura CCP tienen un número de coordinación de 12 porque contactan con seis átomos de su capa, más tres átomos de la capa superior y tres átomos de la capa inferior. Al girar nuestra perspectiva, podemos ver que una estructura CCP tiene una celda unitaria con una cara que contiene un átomo de la capa A en una esquina, átomos de la capa B a través de una diagonal (en dos esquinas y en el centro de la cara), y un átomo de la capa C en la esquina restante. Esto es lo mismo que una disposición cúbica centrada en la cara.</caption>
+</figure>
+<para id="fs-idp178963488">Dado que un empaquetamiento más estrecho maximiza las atracciones globales entre los átomos y minimiza la energía intermolecular total, los átomos de la mayoría de los metales se empaquetan de esta manera. Encontramos dos tipos de empaquetamiento compacto en las estructuras cristalinas metálicas simples: CCP, que ya hemos encontrado, y el <term>empaquetamiento hexagonal más compacto (hexagonal closest packing, HCP</term> ) que se muestra en la <link target-id="CNX_Chem_10_06_ClstPckng2"/>. Ambos están formados por capas repetidas de átomos dispuestos de forma hexagonal. En ambos tipos, una segunda capa (B) se coloca sobre la primera capa (A) de manera que cada átomo de la segunda capa está en contacto con tres átomos de la primera capa. La tercera capa se coloca de dos maneras. En el HCP, los átomos de la tercera capa están directamente encima de los átomos de la primera capa (es decir, la tercera capa también es de tipo A), y el apilamiento consiste en alternar capas de tipo A y de tipo B con empaquetamiento cerrado (es decir, ABABAB⋯). En el CCP, los átomos de la tercera capa no están por encima de los átomos de ninguna de las dos primeras capas (es decir, la tercera capa es de tipo C), y el apilamiento consiste en la alternancia de capas de tipo A, de tipo B y de tipo C con empaquetamiento cerrado (es decir, ABCABCABC⋯). Alrededor de dos tercios de todos los metales cristalizan en conjuntos con números de coordinación de 12. Los metales que cristalizan en una estructura HCP incluyen Cd, Co, Li, Mg, Na y Zn, y los metales que cristalizan en una estructura CCP incluyen Ag, Al, Ca, Cu, Ni, Pb y Pt.</para>
+<figure id="CNX_Chem_10_06_ClstPckng2" class="scaled-down">
+<media id="fs-idp9696" alt="Se muestran dos imágenes. La primera imagen, marcada como &quot;empaquetamiento hexagonal más compacto&quot;, muestra siete esferas verdes dispuestas en una hoja circular sobre otra hoja igual, salvo que las esferas son de color púrpura. La segunda hoja está un poco desplazada para que las esferas de la hoja superior queden en las ranuras de la segunda hoja. Debajo del primer par de esferas se encuentran otras dos capas alternas de color verde y morado. La segunda imagen muestra siete esferas azules, marcadas como &quot;Capa C&quot;, dispuestas en una hoja circular sobre otra hoja, marcada como &quot;Capa B&quot;, que es igual, excepto que las esferas son verdes. La segunda hoja está algo desplazada para que las esferas de la hoja superior queden en las ranuras de la segunda hoja. Debajo del primer par de esferas se encuentran otras dos capas de color púrpura y luego azul que se alternan. La capa púrpura está marcada como &quot;Capa A&quot; y la frase escrita debajo de esta imagen dice &quot;Estructura cúbica compacta&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_ClstPckng2.jpg"/>
+</media>
+<caption>En ambos tipos de empaquetamiento compacto, los átomos se empaquetan de la forma más compacta posible. El empaquetamiento hexagonal más compacto consiste en dos capas alternas (ABABAB...). El empaquetamiento cúbico compacto consiste en tres capas alternas (ABCABCABC...).</caption>
+</figure>
+<example id="fs-idp79703472">
+<para id="fs-idp29827472"><title>Cálculo del radio y la densidad atómica de los metales, parte 2</title>
+El calcio cristaliza en una estructura cúbica centrada en la cara. La longitud del borde de su celda unitaria es de 558,8 pm.</para>
+<para id="fs-idm25444464">(a) ¿Cuál es el radio atómico del Ca en esta estructura?</para>
+<para id="fs-idm42411680">(b) Calcule la densidad del Ca.</para>
+<para id="fs-idm41533968"><title>Solución</title>
+<media id="fs-idm35041920" class="scaled-down" alt="Se muestra la imagen de un cubo. Dentro de cada esquina del cubo se muestra una sección de un octavo de esfera y en el centro del cubo se muestra una esfera completa. Una línea extendida a través de la cara frontal del cubo desde la esquina superior izquierda hasta la esquina inferior derecha está marcada como &quot;4 r&quot;. Los lados izquierdo e inferior del cubo están marcados como &quot;a&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_Ex100602_img.jpg"/>
+</media>
+</para>
+<para id="fs-idp82336960">(a) En una estructura FCC, los átomos de Ca están en contacto entre sí a través de la diagonal de la cara, por lo que la longitud de la diagonal es igual a cuatro radios atómicos de Ca (d = 4<emphasis effect="italics">r</emphasis>). Dos aristas adyacentes y la diagonal de la cara forman un triángulo rectángulo, con la longitud de cada lado igual a 558,8 pm y la longitud de la hipotenusa igual a cuatro radios atómicos Ca:</para>
+<equation class="unnumbered" id="fs-idp26872608"><m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2 </m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>a</m:mi><m:mn>2 </m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>558,8</m:mn><m:mspace width="0.2em"/><m:mtext>pm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>558,5</m:mn><m:mspace width="0.2em"/><m:mtext>pm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mi>r</m:mi></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp36481888">Al resolver, se obtiene <m:math><m:mrow><m:mi>r</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:msqrt><m:mrow><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>558,8</m:mn><m:mspace width="0.2em"/><m:mtext>pm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>558,5</m:mn><m:mspace width="0.2em"/><m:mtext>pm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup></m:mrow><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:msqrt><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>197,6 pm para un radio de Ca</m:mtext><m:mo>.</m:mo></m:mrow></m:math></para><para id="fs-idp129403904">(b) La densidad viene dada por <m:math><m:mrow><m:mtext>densidad</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa</m:mtext></m:mrow><m:mrow><m:mtext>volumen</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> La densidad del calcio se puede encontrar determinando la densidad de su celda unitaria: por ejemplo, la masa contenida en una celda unitaria dividida por el volumen de la celda unitaria. Una celda unitaria de Ca centrada en la cara tiene un octavo de átomo en cada una de las ocho esquinas <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> átomo) y la mitad de un átomo en cada una de las seis caras <m:math><m:mrow><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2 </m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math> ), para un total de cuatro átomos en la celda unitaria.</para>
+<para id="fs-idp191844336">La masa de la celda unitaria se puede encontrar por:</para>
+<equation class="unnumbered" id="fs-idp94173200"><m:math><m:mrow><m:mtext>1 celda unitaria de Ca</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>4 átomos de Ca</m:mtext></m:mrow><m:mrow><m:mtext>1 celda unitaria de Ca</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol de Ca</m:mtext></m:mrow><m:mrow><m:mn>6,022</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>Átomos de Ca</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>40,078</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mtext>1 mol de Ca</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2,662</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-22</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp178468672">El volumen de una celda unitaria de Ca se puede encontrar mediante:</para>
+<equation class="unnumbered" id="fs-idm35315152"><m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>558,8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-10</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>cm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>1,745</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-22</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp37113296">(Observe que la longitud del borde se ha convertido de pm a cm para obtener las unidades de volumen habituales para la densidad).</para>
+<para id="fs-idp4016128">Entonces, la densidad de <m:math><m:mrow><m:mtext>Ca</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2,662</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-22</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mn>1,745</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>-22</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:msup><m:mrow><m:mtext>1,53 g/cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para><para id="fs-idp27984704"><title>Compruebe lo aprendido</title>
+La plata cristaliza en una estructura FCC. La longitud del borde de su celda unitaria es de 409 pm.</para>
+<para id="fs-idp63739072">(a) ¿Cuál es el radio atómico de la Ag en esta estructura?</para>
+<para id="fs-idp100438656">(b) Calcula la densidad de la Ag.</para>
+<note id="fs-idp137915824">
+<title>Respuesta:</title>
+<para id="fs-idm27761408">(a) 144 pm; (b) 10,5 g/cm<sup>3</sup></para>
+</note>
+</example>
+<para id="fs-idp26628704">En general, una celda unitaria se define por las longitudes de tres ejes (<emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis> y <emphasis effect="italics">c</emphasis>) y los ángulos (<emphasis effect="italics">α</emphasis>, <emphasis effect="italics">β</emphasis> y <emphasis effect="italics">γ</emphasis>) entre ellos, como se ilustra en la <link target-id="CNX_Chem_10_06_GenUnitCll"/>. Los ejes se definen como las longitudes entre los puntos de la red espacial. En consecuencia, los ejes de las celdas unitarias unen puntos con entornos idénticos.</para>
+<figure id="CNX_Chem_10_06_GenUnitCll" class="scaled-down">
+<media id="fs-idm117541936" alt="Se muestra un cubo en el que cada esquina tiene dibujado un punto negro. Un círculo en la parte inferior del cubo está compuesto por tres flechas de doble punta. La parte superior izquierda de este círculo está marcada como &quot;alfa&quot;, la parte superior derecha como &quot;beta&quot; y la parte inferior como &quot;gamma&quot;. La esquina inferior izquierda del cubo está marcada como &quot;a&quot;, mientras que la parte inferior de la cara posterior está marcada como &quot;b&quot; y la esquina superior, posterior e izquierda, como &quot;c&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_GenUnitCll.jpg"/>
+</media>
+<caption>Una celda unitaria se define por las longitudes de sus tres ejes (<emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis> y <emphasis effect="italics">c</emphasis>) y los ángulos (<emphasis effect="italics">α</emphasis>, <emphasis effect="italics">β</emphasis> y <emphasis effect="italics">γ</emphasis>) entre los ejes.</caption>
+</figure>
+<para id="fs-idm92224">Hay siete sistemas de celosía diferentes, algunos de los cuales tienen más de un tipo de celosía, para un total de catorce celdas unitarias diferentes, que tienen las formas que se muestran en la <link target-id="CNX_Chem_10_06_CrystalSys"/>.</para>
+<figure id="CNX_Chem_10_06_CrystalSys">
+<media id="fs-idp25979984" alt="Una tabla está compuesta por dos columnas y ocho filas. La fila del encabezado dice &quot;Sistema / Ejes / Ángulos&quot; y &quot;Celdas unitarias&quot;. La primera columna dice &quot;Cúbico, a es igual a b es igual a c, alfa es igual a beta es igual a gamma, igual a 90 grados&quot;, &quot;Tetragonal, a es igual a b no es igual a c, alfa es igual a beta es igual a gamma, igual a 90 grados&quot;, &quot;Ortorrómbico, a no igual b no es igual a c, alfa es igual a beta es igual a gamma, igual a 90 grados&quot;, &quot;Monoclínico, a no es igual a b no es igual a c, alfa es igual a gamma, igual a 90 grados, beta no es igual a 90 grados&quot;, &quot;Triclínico, a no es igual a b no es igual a c, alfa no es igual a beta no es igual a gamma no es igual a 90 grados&quot;, &quot; Hexagonal, a es igual a b no es igual a c, alfa es igual a beta es igual a 90 grados, gamma es igual a 120 grados&quot;, &quot;Romboédrico , a es igual a b es igual a c, alfa es igual a beta es igual a gamma no es igual a 90 grados&quot;. La segunda columna se compone de diagramas. El primer conjunto de diagramas de la primera celda muestra un cubo con esferas en cada esquina marcado como &quot;Simple&quot;, un cubo con esferas en cada esquina y en cada cara marcado como &quot;Centrado en la cara&quot; y un cubo con esferas en cada esquina y una en el centro, marcado como &quot;Centrado en el cuerpo&quot;. El segundo conjunto de diagramas en la segunda celda muestra un rectángulo vertical con esferas en cada esquina marcado como &quot;Simple&quot; y un rectángulo vertical con esferas en cada esquina y una en el centro marcada como &quot;Centrada en el cuerpo&quot;. El tercer conjunto de diagramas en la tercera celda muestra un rectángulo vertical con esferas en cada esquina marcado como &quot;Simple&quot;, un rectángulo vertical con esferas en cada esquina y una en el centro marcado como &quot;Centrado en el cuerpo&quot;, un rectángulo vertical con esferas en cada esquina y una en las caras superior e inferior marcado como &quot;Centrado en la base&quot;, y un rectángulo vertical con esferas en cada esquina y una en cada cara marcado como &quot;Centrado en la cara&quot;. El cuarto conjunto de diagramas en la cuarta celda muestra un rectángulo vertical con esferas en cada esquina que está inclinado hacia un lado marcado como &quot;Simple&quot; y un rectángulo vertical con esferas en cada esquina que está inclinado hacia un lado y tiene dos esferas en el centro está marcado como &quot;Centrado en el cuerpo&quot;. El quinto diagrama de la quinta celda muestra un cubo inclinado con esferas en cada esquina, mientras que el sexto diagrama de la sexta celda muestra un par de anillos hexagonales que se conectan entre sí para formar una forma de seis lados con esferas en cada esquina. El séptimo diagrama de la séptima celda muestra un rectángulo inclinado con esferas en cada esquina.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_CrystalSys.jpg"/>
+</media>
+<caption>Hay siete sistemas de red diferentes y 14 celdas unitarias distintas.</caption>
+</figure>
+</section>
+<section id="fs-idp29462288">
+<title>Las estructuras de los cristales iónicos</title>
+<para id="fs-idp123644576">Los cristales iónicos están formados por dos o más tipos diferentes de iones que suelen tener tamaños distintos. El empaquetamiento de estos iones en una estructura cristalina es más complejo que el empaquetamiento de átomos metálicos del mismo tamaño.</para>
+<para id="fs-idp192354256">La mayoría de los iones monoatómicos se comportan como esferas cargadas, y su atracción por los iones de carga opuesta es la misma en todas las direcciones. En consecuencia, las estructuras estables de los compuestos iónicos resultan (1) cuando los iones de una carga están rodeados por el mayor número posible de iones de carga opuesta y (2) cuando los cationes y los aniones están en contacto entre sí. Las estructuras están determinadas por dos factores principales: los tamaños relativos de los iones y la relación entre el número de iones positivos y negativos en el compuesto.</para>
+<para id="fs-idp1330336">En las estructuras iónicas sencillas, solemos encontrar los aniones, que normalmente son más grandes que los cationes, dispuestos en un conjunto lo más parecido posible. (Como se vio anteriormente, los electrones adicionales atraídos por el mismo núcleo hacen que los aniones sean más grandes y los electrones menos atraídos por el mismo núcleo hacen que los cationes sean más pequeños en comparación con los átomos de los que están formados). Los cationes más pequeños suelen ocupar uno de los dos tipos de <term>agujeros</term> (o intersticios) que quedan entre los aniones. El menor de los agujeros se encuentra entre tres aniones en un plano y un anión en un plano adyacente. Los cuatro aniones que rodean este agujero están dispuestos en las esquinas de un tetraedro, por lo que el agujero se denomina <term>agujero tetraédrico</term>. El tipo de agujero más grande se encuentra en el centro de seis aniones (tres en una capa y tres en una capa adyacente) situados en las esquinas de un octaedro; esto se llama <term>agujero octaédrico</term>. La <link target-id="CNX_Chem_10_06_TetOctHole"/> ilustra estos dos tipos de agujeros.</para>
+<figure id="CNX_Chem_10_06_TetOctHole" class="scaled-down">
+<media id="fs-idp26945552" alt="Una imagen muestra una vista superior de una capa de esferas azules dispuestas en una lámina que se encuentra sobre otra lámina igual, excepto que las esferas son verdes. La segunda hoja está algo desplazada para que las esferas de la hoja superior queden en las ranuras de la segunda hoja. En la parte inferior hay una tercera hoja compuesta por esferas de color púrpura. Los espacios creados entre las esferas de cada capa se denominan &quot;agujeros octaédricos&quot; y &quot;agujeros tetraédricos&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_TetOctHole.jpg"/>
+</media>
+<caption>Los cationes pueden ocupar dos tipos de agujeros entre los aniones: agujeros octaédricos o tetraédricos.</caption>
+</figure>
+<para id="fs-idp44872240">Dependiendo de los tamaños relativos de los cationes y aniones, los cationes de un compuesto iónico pueden ocupar agujeros tetraédricos u octaédricos, como se ilustra en la <link target-id="CNX_Chem_10_06_IntIonst"/>. Los cationes relativamente pequeños ocupan agujeros tetraédricos, y los cationes más grandes ocupan agujeros octaédricos. Si los cationes son demasiado grandes para encajar en los agujeros octaédricos, los aniones pueden adoptar una estructura más abierta, como un simple conjunto cúbico. Los cationes más grandes pueden entonces ocupar los agujeros cúbicos más grandes que permite el espacio más abierto.</para>
+<figure id="CNX_Chem_10_06_IntIonst">
+<media id="fs-idp191262336" alt="Se muestra un diagrama de tres imágenes. En la primera imagen, se muestran ocho cubos apilados, con esferas moradas en cada esquina, que forman un gran cubo. El cubo inferior izquierdo es diferente. Tiene esferas verdes en cada esquina y tiene cuatro esferas naranjas y seis moradas claras situadas en las caras del cubo. Los rótulos debajo de esta estructura dicen &quot;Agujero tetraédrico&quot; y &quot;El radio del catión es aproximadamente del 22,5 al 41,4 por ciento del radio del anión&quot;. En la segunda imagen, ocho cubos apilados, con esferas naranjas y verdes alternadas en cada esquina, forman un gran cubo que se muestra. El cubo inferior izquierdo tiene líneas más oscuras que conectan las esferas entre sí. Los rótulos debajo de esta estructura dicen &quot;Agujero octaédrico&quot; y &quot;El radio del catión es aproximadamente del 41,4 al 73,2 por ciento del radio del anión&quot;. En la tercera imagen, ocho cubos apilados, con esferas púrpura en cada esquina y esferas púrpura claro en sus caras interiores, forman un gran cubo que se muestra. Las marcas debajo de esta estructura dicen &quot;Agujero cúbico&quot; y &quot;El radio del catión es de aproximadamente 73,2 a 100 por ciento del radio del anión&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_IntIonst.jpg"/>
+</media>
+<caption>El tamaño de un catión y la forma del agujero ocupado por el compuesto están directamente relacionados.</caption>
+</figure>
+<para id="fs-idp78541312">Hay dos agujeros tetraédricos para cada anión en un conjunto de aniones HCP o CCP. Un compuesto que cristaliza en un conjunto de aniones con cationes en los agujeros tetraédricos puede tener una relación catión:anión máxima de 2:1; todos los agujeros tetraédricos se llenan en esta proporción. Algunos ejemplos son Li<sub>2</sub>O, Na<sub>2</sub>O, Li<sub>2</sub>S y Na<sub>2</sub>S. Los compuestos con una relación inferior a 2:1 también pueden cristalizar en un conjunto de aniones con cationes en los agujeros tetraédricos, si los tamaños iónicos encajan. En estos compuestos, sin embargo, algunos de los agujeros tetraédricos permanecen vacantes.</para>
+<example id="fs-idm32665648">
+<para id="fs-idp35089808"><title>Ocupación de los agujeros tetraédricos</title>
+El sulfuro de zinc es una importante fuente industrial de zinc y también se utiliza como pigmento blanco en la pintura. El sulfuro de zinc cristaliza con iones de zinc que ocupan la mitad de los agujeros tetraédricos en un conjunto de iones de sulfuro con el empaquetamiento compacto. ¿Cuál es la fórmula del sulfuro de zinc?</para>
+<para id="fs-idp1180272"><title>Solución</title>
+Como hay dos agujeros tetraédricos por anión (ion sulfuro) y la mitad de estos agujeros están ocupados por iones de zinc, debe haber <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mo>,</m:mo></m:mrow></m:math> o 1 ion de zinc por ion de sulfuro. Así, la fórmula es ZnS.</para>
+<para id="fs-idp135414368"><title>Compruebe lo aprendido</title>
+El seleniuro de litio puede describirse como un conjunto de iones de seleniuro con iones de litio en todos los agujeros tetraédricos. ¿Cuál es la fórmula del seleniuro de litio?</para>
+<note id="fs-idm14652080">
+<title>Respuesta:</title>
+<para id="fs-idm22840560">Li<sub>2</sub>Se</para>
+</note>
+</example>
+<para id="fs-idp29314000">La relación entre agujeros octaédricos y aniones en una estructura HCP o CCP es de 1:1. Así, los compuestos con cationes en agujeros octaédricos en un conjunto de aniones lo más cercano posible pueden tener una relación catión:anión máxima de 1:1. En el NiO, MnS, NaCl y KH, por ejemplo, todos los agujeros octaédricos están llenos. Se observan relaciones inferiores a 1:1 cuando algunos de los agujeros octaédricos permanecen vacíos.</para>
+<example id="fs-idp118444096">
+<para id="fs-idm48293552"><title>Estequiometría de los compuestos iónicos</title>
+El zafiro es óxido de aluminio. El óxido de aluminio cristaliza con iones de aluminio en dos tercios de los agujeros octaédricos en un conjunto de iones de óxido con el empaquetamiento compacto. ¿Cuál es la fórmula del óxido de aluminio?</para>
+<para id="fs-idm46506768"><title>Solución</title>
+Como hay un agujero octaédrico por anión (ion óxido) y solo dos tercios de estos agujeros están ocupados, la proporción de aluminio y oxígeno debe ser <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math>:1, lo que daría <m:math><m:mrow><m:msub><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>/</m:mtext><m:mn>3</m:mn></m:mrow></m:msub><m:mtext>O</m:mtext><m:mo>.</m:mo></m:mrow></m:math> La proporción de números enteros más sencilla es 2:3, por lo que la fórmula es Al<sub>2</sub>O<sub>3</sub>.</para>
+<para id="fs-idp8140096"><title>Compruebe lo aprendido</title>
+El pigmento blanco óxido de titanio cristaliza con iones de titanio en la mitad de los agujeros octaédricos de un conjunto de iones de óxido con el empaquetamiento compacto. ¿Cuál es la fórmula del óxido de titanio?</para>
+<note id="fs-idp78151552">
+<title>Respuesta:</title>
+<para id="fs-idp30972928">TiO<sub>2</sub></para>
+</note>
+</example>
+<para id="fs-idm13402192">En un conjunto cúbico simple de aniones, hay un agujero cúbico que puede ser ocupado por un catión por cada anión en la matriz. En el CsCl, y en otros compuestos con la misma estructura, todos los agujeros cúbicos están ocupados. La mitad de los agujeros cúbicos están ocupados en SrH<sub>2</sub>, UO<sub>2</sub>, SrCl<sub>2</sub> y CaF<sub>2</sub>.</para>
+<para id="fs-idm23769904">Diferentes tipos de compuestos iónicos suelen cristalizar en la misma estructura cuando los tamaños relativos de sus iones y sus estequiometrías (las dos características principales que determinan la estructura) son similares.</para>
+</section>
+<section id="fs-idp5178368">
+<title>Celdas unitarias de compuestos iónicos</title>
+<para id="fs-idp68737616">Muchos compuestos iónicos cristalizan con celdas unitarias cúbicas, y utilizaremos estos compuestos para describir las características generales de las estructuras iónicas.</para>
+<para id="fs-idm42504800">Cuando un compuesto iónico está formado por cationes y aniones de tamaño similar en una proporción 1:1, suele formar una estructura cúbica simple. El cloruro de cesio, CsCl, (que se ilustra en la <link target-id="CNX_Chem_10_07_CsClStrctr"/>) es un ejemplo de ello, con Cs<sup>+</sup> y C<sup>−</sup> que tienen radios de 174 pm y 181 pm, respectivamente. Podemos pensar en esto como si los iones de cloruro formaran una celda unitaria cúbica simple, con un ion de cesio en el centro; o como si los iones de cesio formaran una celda unitaria con un ion de cloruro en el centro; o como si las celdas unitarias cúbicas simples formadas por iones Cs<sup>+</sup> se superpusieran a las celdas unitarias formadas por iones Cl<sup>−</sup>. Los iones de cesio y los iones de cloruro se tocan a lo largo de las diagonales del cuerpo de las celdas unitarias. Un ion de cesio y un ion de cloruro están presentes por celda unitaria, dando la estequiometría l:l requerida por la fórmula del cloruro de cesio. Observe que no hay ningún punto de red en el centro de la celda, y que CsCl no es una estructura BCC porque un ion cesio no es idéntico a un ion cloruro.</para>
+<figure id="CNX_Chem_10_07_CsClStrctr" class="scaled-down">
+<media id="fs-idm89247392" alt="Se muestran tres imágenes. La primera imagen muestra un cubo con puntos negros en cada esquina y un punto rojo en el centro. Este cubo se apila con otros siete que no están coloreados para formar un cubo más grande. La segunda imagen está compuesta por ocho esferas que se agrupan para formar un cubo con una esfera más pequeña en el centro. El nombre bajo esta imagen dice &quot;estructura cúbica simple&quot;. La tercera imagen muestra cinco capas horizontales de esferas moradas con capas de esferas verdes más pequeñas entre ellas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_07_CsClStrctr.jpg"/>
+</media>
+<caption>Los compuestos iónicos con cationes y aniones de tamaño similar, como el CsCl, suelen formar una estructura cúbica simple. Pueden describirse mediante celdas unitarias con cationes en las esquinas o con aniones en las esquinas.</caption>
+</figure>
+<para id="fs-idm48376560">Dijimos que la ubicación de los puntos de la red es arbitraria. Esto se ilustra con una descripción alternativa de la estructura de CsCl en la que los puntos de la red están situados en los centros de los iones de cesio. En esta descripción, los iones de cesio se encuentran en los puntos de la red en las esquinas de la celda, y el ion cloruro se encuentra en el centro de la celda. Las dos celdas unitarias son diferentes, pero describen estructuras idénticas.</para>
+<para id="fs-idp36716000">Cuando un compuesto iónico está formado por una proporción 1:1 de cationes y aniones que difieren significativamente en tamaño, suele cristalizar con una celda unitaria FCC, como la que se muestra en la <link target-id="CNX_Chem_10_07_NaClStrctr"/>. El cloruro de sodio, NaCl, es un ejemplo de ello, ya que el Na<sup>+</sup> y el Cl<sup>−</sup> tienen radios de 102 pm y 181 pm, respectivamente. Podemos pensar en esto como si los iones de cloruro formaran una celda FCC, con los iones de sodio situados en los agujeros octaédricos en medio de los bordes de la celda y en el centro de la misma. Los iones de sodio y cloruro se tocan a lo largo de los bordes de la celda. La celda unitaria contiene cuatro iones de sodio y cuatro iones de cloruro, dando la estequiometría 1:1 requerida por la fórmula, NaCl.</para>
+<figure id="CNX_Chem_10_07_NaClStrctr" class="scaled-down"><media id="fs-idm94066176" alt="Se muestran tres imágenes. La primera imagen muestra un cubo con puntos negros en cada esquina y un punto rojo en el centro. Este cubo se apila con otros siete que no están coloreados para formar un cubo más grande. La segunda imagen está compuesta por ocho esferas que se agrupan para formar un cubo con una esfera mucho más grande en el centro. El nombre bajo esta imagen dice &quot;Estructura cúbica simple centrada en el cuerpo&quot;. La tercera imagen muestra siete capas horizontales de esferas púrpuras y verdes alternadas que están ligeramente desplazadas entre sí y forman un gran cubo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_07_NaClStrctr.jpg"/>
+</media>
+
+<caption>Los compuestos iónicos con aniones mucho más grandes que los cationes, como el NaCl, suelen formar una estructura FCC. Pueden describirse mediante celdas unitarias FCC con cationes en los huecos octaédricos.</caption></figure><para id="fs-idm15393568">La forma cúbica del sulfuro de zinc, la blenda de zinc, también cristaliza en una celda unitaria FCC, como se ilustra en la <link target-id="CNX_Chem_10_06_ZnSStrctr"/>. Esta estructura contiene iones de sulfuro en los puntos de red de una red FCC. (La disposición de los iones de sulfuro es idéntica a la de los iones de cloruro en el cloruro de sodio). El radio de un ion de zinc es solo un 40 % del radio de un ion de sulfuro, por lo que estos pequeños iones Zn<sup>2+</sup> se sitúan en agujeros tetraédricos alternos, es decir, en una mitad de los agujeros tetraédricos. Hay cuatro iones de zinc y cuatro iones de sulfuro en la celda unitaria, lo que da la fórmula empírica ZnS.</para>
+<figure id="CNX_Chem_10_06_ZnSStrctr" class="scaled-down">
+<media id="fs-idp113309184" alt="Se muestran dos imágenes. La primera imagen muestra un cubo con puntos negros en cada esquina y un punto rojo en el centro de cada cara del cubo. Este cubo se apila con otros siete que no están coloreados para formar un cubo más grande. La segunda imagen está compuesta por ocho esferas que forman las esquinas de un cubo con otras seis esferas situadas en la cara del cubo. Las esferas están conectadas entre sí por líneas. El nombre bajo esta imagen dice &quot;Z n S, celda unitaria centrada en la cara&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_ZnSStrctr.jpg"/>
+</media>
+<caption>El ZnS, sulfuro de zinc (o blenda de zinc) forma una celda unitaria FCC con iones de sulfuro en los puntos de la red y iones de zinc mucho más pequeños que ocupan la mitad de los huecos tetraédricos de la estructura.</caption>
+</figure>
+<para id="fs-idm41755200">Una celda unitaria de fluoruro de calcio, como la que se muestra en la <link target-id="CNX_Chem_10_07_CaF2Strctr"/>, es también una celda unitaria FCC, pero en este caso, los cationes están situados en los puntos de la red; los iones de calcio equivalentes están situados en los puntos de la red de una red FCC. Todos los sitios tetraédricos del conjunto FCC de iones de calcio están ocupados por iones de flúor. Hay cuatro iones de calcio y ocho iones de flúor en una celda unitaria, lo que da una proporción de calcio:flúor de 1:2, como requiere la fórmula química, CaF<sub>2</sub>. Un examen minucioso de la <link target-id="CNX_Chem_10_07_CaF2Strctr"/> revelará un conjunto cúbico simple de iones de fluoruro con iones de calcio en una mitad de los agujeros cúbicos. La estructura no puede describirse en términos de un <term>entramado espacial</term> de puntos sobre los iones fluoruro porque los iones fluoruro no tienen todos entornos idénticos. La orientación de los cuatro iones de calcio respecto a los iones de flúor es diferente.</para>
+<figure id="CNX_Chem_10_07_CaF2Strctr" class="scaled-down">
+<media id="fs-idp104119168" alt="Se muestran dos imágenes. La primera imagen muestra un cubo con puntos negros en cada esquina y un punto rojo en el centro de cada cara del cubo. Este cubo se apila con otros siete que no están coloreados para formar un cubo más grande. La segunda imagen está compuesta por ocho pequeñas esferas verdes que forman las esquinas de un cubo con otras seis pequeñas esferas verdes situadas en las caras del cubo. En el interior del cubo hay ocho esferas verdes más grandes y todas ellas están conectadas entre sí por líneas. El nombre bajo esta imagen dice &quot;C a F, subíndice 2, celda unitaria centrada en la cara&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_07_CaF2Strctr.jpg"/>
+</media>
+<caption>El fluoruro de calcio, CaF<sub>2</sub>, forma una celda unitaria FCC con los iones de calcio (verde) en los puntos de la red y los iones de fluoruro (rojo) ocupando todos los sitios tetraédricos entre ellos.</caption>
+</figure>
+</section>
+<section id="fs-idp39715296">
+<title>Cálculo de los radios iónicos</title>
+<para id="fs-idp122188096">Si conocemos la longitud del borde de una celda unitaria de un compuesto iónico y la posición de los iones en la celda, podemos calcular los radios iónicos de los iones del compuesto si hacemos suposiciones sobre las formas y los contactos iónicos individuales.</para>
+<example id="fs-idp160437296">
+<para id="fs-idp187605664"><title>Cálculo de los radios iónicos</title>
+La longitud del borde de la celda unitaria del LiCl (estructura tipo NaCl, FCC) es de 0,514 nm o 5,14 Å. Suponiendo que el ion litio es lo suficientemente pequeño como para que los iones cloruro estén en contacto, como en la <link target-id="CNX_Chem_10_07_NaClStrctr"/>, calcule el radio iónico para el ion cloruro.</para>
+<para id="fs-idp78068752">Nota: La unidad de longitud angstrom, Å, se utiliza a menudo para representar las dimensiones a escala atómica y equivale a 10<sup>−10</sup> m.</para>
+<para id="fs-idp75732016"><title>Solución</title>
+En la cara de una celda unitaria de LiCl, los iones de cloruro contactan entre sí a través de la diagonal de la cara:</para>
+<media id="fs-idp111782608" class="scaled-down" alt="Se muestran tres imágenes. La primera muestra un cubo de esferas verdes y moradas alternadas. Se perfila un cubo más pequeño dentro de ese cubo y a continuación aparece una versión más grande del mismo. Esta figura es un cubo gris que parece estar formado por esferas. Hay pequeños espacios entre cada esfera. En este cubo se perfila un triángulo rectángulo y a continuación aparece una versión más grande del mismo. Este triángulo rectángulo tiene dos lados marcados como &quot;a&quot;, y la hipotenusa, que abarca dos semicírculos y uno completo está marcada como &quot;r, 2 r y r&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_LiClstrctr.jpg"/>
+</media>
+<para id="fs-idp129708496">Dibujando un triángulo rectángulo en la cara de la celda unitaria, vemos que la longitud de la diagonal es igual a cuatro radios de cloruro (un radio desde cada cloruro de la esquina y un diámetro, (que equivale a dos radios) desde el ion cloruro en el centro de la cara, por lo que <emphasis effect="italics">d</emphasis> = 4<emphasis effect="italics">r</emphasis>. Del teorema de Pitágoras, tenemos:</para>
+<equation class="unnumbered" id="fs-idm1060368"><m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2 </m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>a</m:mi><m:mn>2 </m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp4732816">lo que da como resultado:</para>
+<equation class="unnumbered" id="fs-idp113603824"><m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,514</m:mn><m:mspace width="0.2em"/><m:mtext>nm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,514</m:mn><m:mspace width="0.2em"/><m:mtext>nm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mi>r</m:mi></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup><m:mo>=</m:mo><m:mn>16</m:mn><m:msup><m:mi>r</m:mi><m:mn>2 </m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp179486080">Al resolver esto da:</para>
+<equation class="unnumbered" id="fs-idm21982336"><m:math><m:mrow><m:mi>r</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:msqrt><m:mrow><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,514</m:mn><m:mspace width="0.2em"/><m:mtext>nm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,514</m:mn><m:mspace width="0.2em"/><m:mtext>nm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup></m:mrow><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:msqrt><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,182 nm</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>1,82 Å</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>para un Cl</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mtext>radio</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm39172320"><title>Compruebe lo aprendido</title>
+La longitud del borde de la celda unitaria de KCl (estructura tipo NaCl, FCC) es de 6,28 Å. Suponiendo un contacto anión-catión a lo largo del borde de la celda, calcule el radio del ion potasio. El radio del ion cloruro es de 1,82 Å.</para>
+<note id="fs-idp173458848">
+<title>Respuesta:</title>
+<para id="fs-idm6422368">El radio del ion potasio es de 1,33 Å.</para>
+</note>
+</example>
+<para id="fs-idm38255968">Es importante tener en cuenta que los valores de los radios iónicos calculados a partir de las longitudes de los bordes de las celdas unitarias dependen de numerosas suposiciones, como una forma esférica perfecta para los iones, que son aproximaciones en el mejor de los casos. Por lo tanto, estos valores calculados son en sí mismos aproximados y las comparaciones no pueden ir demasiado lejos. Sin embargo, este método ha demostrado ser útil para calcular los radios iónicos a partir de mediciones experimentales como las determinaciones cristalográficas de rayos X.</para>
+</section>
+<section id="fs-idp109859728">
+<title>Cristalografía de rayos X</title>
+<para id="fs-idp81646992">El tamaño de la celda unitaria y la disposición de los átomos en un cristal pueden determinarse a partir de las mediciones de la <emphasis effect="italics">difracción</emphasis> de los rayos X por el cristal, lo que se denomina <term>cristalografía de rayos X</term>. La <term>difracción</term> es el cambio en la dirección de desplazamiento que experimenta una onda electromagnética cuando encuentra una barrera física con dimensiones comparables a las de la longitud de onda de la luz. Los rayos X son radiaciones electromagnéticas con longitudes de onda aproximadamente tan largas como la distancia entre átomos vecinos en los cristales (del orden de unos pocos Å).</para>
+<para id="fs-idp191124480">Cuando un haz de rayos X monocromáticos incide en un cristal, los átomos de este dispersan los rayos en todas las direcciones. Cuando las ondas dispersas que viajan en la misma dirección se encuentran entre sí, sufren una <emphasis effect="italics">interferencia</emphasis>, un proceso por el cual las ondas se combinan para producir un aumento o una disminución de la amplitud (intensidad) dependiendo del grado de separación de los máximos de las ondas combinadas (vea la <link target-id="CNX_Chem_10_06_ConDec"/>).</para>
+<figure id="CNX_Chem_10_06_ConDec" class="scaled-down">
+<media id="fs-idp39628848" alt="Se muestra un par de imágenes que tiene cuatro secciones. En la primera sección, se muestran dos ondas sinusoidales, una encima de la otra, y una sección desde la parte superior de una curva hasta la parte superior de la siguiente curva está marcada como &quot;lambda&quot;. Las curvas se alinean entre sí. La frase que está debajo dice &quot;Interferencia constructiva&quot;. Una flecha que apunta a la derecha va de la primera sección a la segunda, que muestra una curva sinusoidal más grande que tiene picos y valles más altos y más bajos. Una sección desde la parte superior de una curva hasta la parte superior de la siguiente está marcada como &quot;lambda&quot; y la frase que está debajo dice &quot;Refuerzo de máximos y mínimos&quot;. En la segunda sección, se muestran dos ondas sinusoidales, una encima de la otra, y una sección desde la parte superior de una curva hasta la parte superior de la siguiente curva está marcada como &quot;lambda&quot;. Las curvas no se alinean entre sí. La frase debajo de esto dice &quot;Interferencia destructiva&quot;. Una flecha que apunta a la derecha conduce de la primera sección a la segunda, que muestra una línea plana. La frase que está debajo dice &quot;Los máximos y los mínimos se cancelan&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_ConDec.jpg"/>
+</media>
+<caption>Las ondas luminosas que ocupan el mismo espacio experimentan interferencias, combinándose para dar lugar a ondas de mayor (a) o menor (b) intensidad, según la separación de sus máximos y mínimos.</caption>
+</figure>
+<para id="fs-idp19420096">Cuando los rayos X de una determinada longitud de onda, <emphasis effect="italics">λ</emphasis>, se dispersan gracias a los átomos en planos de cristal adyacentes separados por una distancia, <emphasis effect="italics">d</emphasis>, pueden sufrir una interferencia constructiva cuando la diferencia entre las distancias recorridas por las dos ondas antes de su combinación es un factor entero, <emphasis effect="italics">n</emphasis>, de la longitud de onda. Esta condición se cumple cuando el ángulo del haz difractado, <emphasis effect="italics">θ</emphasis>, se relaciona con la longitud de onda y la distancia interatómica mediante la ecuación:</para>
+<equation class="unnumbered" id="fs-idm77205344"><m:math><m:mrow><m:mi>n</m:mi><m:mi>λ</m:mi><m:mo>=</m:mo><m:mn>2 </m:mn><m:mi>d</m:mi><m:mspace width="0.2em"/><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi></m:mrow></m:math></equation>
+<para id="fs-idp173470256">Esta relación se conoce como <term>ecuación de Bragg</term> en honor a W. H. <term class="no-emphasis">Bragg</term>, el físico inglés que explicó por primera vez este fenómeno. La <link target-id="CNX_Chem_10_06_XRyDiff1"/> ilustra dos ejemplos de ondas difractadas desde los mismos dos planos de cristal. La figura de la izquierda muestra las ondas difractadas en el ángulo de Bragg, lo que da lugar a una interferencia constructiva, mientras que la de la derecha muestra la difracción y un ángulo diferente que no satisface la condición de Bragg, lo que da lugar a una interferencia destructiva.</para>
+<figure id="CNX_Chem_10_06_XRyDiff1" class="scaled-down">
+<media id="fs-idm39196256" alt="Se muestran dos figuras similares. La primera figura, titulada &quot;Interferencia constructiva&quot;, muestra dos filas horizontales de siete puntos negros con una línea que los atraviesa. Los cuartos puntos de cada fila tienen una línea vertical que los conecta. La distancia entre estas filas se denomina &quot;d&quot;. Un rayo marcado como &quot;rayo incidente&quot; desciende con un ángulo marcado como &quot;theta&quot; hasta que choca con la línea que une los cuartos puntos, tras lo cual un rayo difractado asciende con el mismo ángulo &quot;theta&quot;. Se dibuja una línea de puntos a través del haz difractado. La segunda figura, marcada como &quot;interferencia destructiva&quot;, es muy similar, excepto que los ángulos &quot;theta&quot; son mucho más agudos, lo que hace que las pendientes de los haces sean más superficiales.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_XRyDiff1.jpg"/>
+</media>
+<caption>La difracción de los rayos X dispersados por los átomos dentro de un cristal permite determinar la distancia entre los átomos. La imagen superior muestra la interferencia constructiva entre dos ondas dispersas y una onda difractada resultante de alta intensidad. La imagen inferior muestra una interferencia destructiva y una onda difractada de baja intensidad.</caption>
+</figure>
+<note id="fs-idp27762640" class="chemistry link-to-learning">
+<para id="fs-idp26359616">Visite este <link url="http://openstax.org/l/16bragg">sitio</link> para obtener más detalles sobre la ecuación de Bragg y un simulador que le permite explorar el efecto de cada variable en la intensidad de la onda difractada.</para>
+</note>
+<para id="fs-idp184548576">Un difractómetro de rayos X, como el que se ilustra en la <link target-id="CNX_Chem_10_07_XRyDiff2"/>, puede utilizarse para medir los ángulos a los que se difractan los rayos X al interactuar con un cristal, como se describió anteriormente. A partir de estas mediciones, se puede utilizar la ecuación de Bragg para calcular las distancias entre los átomos, como se demuestra en el siguiente ejercicio de ejemplo.</para>
+<figure id="CNX_Chem_10_07_XRyDiff2" class="scaled-down">
+<media id="fs-idp8694464" alt="Un diagrama, marcado como &quot;a&quot; muestra un cubo a la izquierda con un canal perforado en su lado derecho marcado como &quot;fuente de rayos X&quot;. Un haz sale de este canal y viaja en línea horizontal hacia un tubo corto de forma ovalada, marcado como &quot;Colimador para enfocar el haz&quot; y &quot;Difracción de rayos X&quot;, donde pasa a través de un cubo marcado como &quot;Material cristalino&quot; y se dispersa en una hoja vertical marcada como &quot;Superficie de imagen&quot;. Un segundo diagrama, marcado como &quot;b&quot;, muestra una hoja cuadrada con un punto grande en el centro marcado como &quot;haz de rayos X&quot;, rodeado por puntos más pequeños dispuestos en anillos y marcados como &quot;rayos X difractados&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_07_XRyDiff2.jpg"/>
+</media>
+<caption>(a) En un difractómetro, un haz de rayos X incide sobre un material cristalino, produciendo (b) un patrón de difracción de rayos X que puede ser analizado para determinar la estructura del cristal.</caption>
+</figure>
+<example id="fs-idp19350688">
+<para id="fs-idm68901456"><title>Uso de la ecuación de Bragg</title>
+En un difractómetro, se utilizaron rayos X con una longitud de onda de 0,1315 nm para producir un patrón de difracción para el cobre. La difracción de primer orden (<emphasis effect="italics">n</emphasis> = 1) se produjo con un ángulo <emphasis effect="italics">θ</emphasis> = 25,25°. Determine la distancia entre los planos difractantes en el cobre.</para>
+<para id="fs-idm14041952"><title>Solución</title>
+La distancia entre los planos se encuentra resolviendo la ecuación de Bragg, <emphasis effect="italics">nλ</emphasis> = 2<emphasis effect="italics">d</emphasis> sin <emphasis effect="italics">θ</emphasis>, para <emphasis effect="italics">d</emphasis>.</para>
+<para id="fs-idp26891808">Esto da: <m:math><m:mrow><m:mi>d</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mi>n</m:mi><m:mi>λ</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>sen</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,1315</m:mn><m:mspace width="0.2em"/><m:mtext>nm</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2 </m:mn><m:mspace width="0.2em"/><m:mtext>sen</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>25,25</m:mn><m:mtext>°</m:mtext></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,154 nm</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp83773936"><title>Compruebe lo aprendido</title>
+Un cristal con una separación entre planos igual a 0,394 nm difracta los rayos X con una longitud de onda de 0,147 nm. ¿Cuál es el ángulo de difracción en el primer orden?</para>
+<note id="fs-idp31154560">
+<title>Respuesta:</title>
+<para id="fs-idp69715072">10,8°</para></note>
+</example>
+<note id="fs-idp2037904" class="chemistry chemist-portrait">
+<title>Cristalógrafo de rayos X Rosalind Franklin</title>
+<para id="fs-idp1774112">El descubrimiento de la estructura del ADN en 1953 por Francis <term class="no-emphasis">Crick</term> y James <term class="no-emphasis">Watson</term> es uno de los grandes logros de la historia de la ciencia. Fueron galardonados con el Premio Nobel de Fisiología o Medicina de 1962, junto con Maurice <term class="no-emphasis">Wilkins</term>, que aportó la prueba experimental de la estructura del ADN. La química británica Rosalind <term class="no-emphasis">Franklin</term> hizo una contribución inestimable a este monumental logro gracias a su trabajo de medición de imágenes de difracción de rayos X del ADN. Al principio de su carrera, las investigaciones de Franklin sobre la estructura del carbón resultaron útiles para los esfuerzos bélicos británicos. Después de cambiar su enfoque a los sistemas biológicos a principios de la década de 1950, Franklin y el estudiante de doctorado Raymond Gosling descubrieron que el ADN consta de dos formas: una fibra larga y delgada que se forma cuando se moja (tipo "B") y una fibra corta y ancha que se forma cuando se seca (tipo "A"). Sus imágenes de difracción de rayos X del ADN (<link target-id="CNX_Chem_10_06_RFranklin"/>) proporcionaron la información crucial que permitió a Watson y Crick confirmar que el ADN forma una doble hélice, así como determinar los detalles de su tamaño y estructura. Franklin también realizó investigaciones pioneras sobre los virus y el ARN que contiene su información genética, descubriendo nueva información que cambió radicalmente el conjunto de conocimientos en este campo. Tras desarrollar un cáncer de ovarios, Franklin siguió trabajando hasta su muerte en 1958, a los 37 años. Entre los muchos reconocimientos póstumos a su trabajo, la Facultad de Medicina de Chicago de la Universidad de Ciencias de la Salud Finch cambió su nombre por el de Universidad de Medicina y Ciencia Rosalind Franklin en 2004, y adoptó una imagen de su famosa difracción de rayos X del ADN como logotipo oficial de la universidad.</para>
+<figure id="CNX_Chem_10_06_RFranklin" class="scaled-down">
+<media id="fs-idp53384576" alt="Imagen que muestra una ilustración circular con anillos de puntos difuminados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_06_RFranklin.jpg"/>
+</media>
+<caption>Esta ilustración muestra una imagen de difracción de rayos X similar a la que Franklin encontró en su investigación. (Crédito: Institutos Nacionales de Salud).</caption>
+</figure>
+</note>
+</section>
+<section id="fs-idp26936448" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp129498528">Las estructuras de los metales cristalinos y los compuestos iónicos simples pueden describirse en términos de empaquetamiento de esferas. Los átomos metálicos pueden empaquetarse en estructuras hexagonales de empaquetamiento compacto, estructuras cúbicas de empaquetamiento compacto, estructuras centradas en el cuerpo y estructuras cúbicas simples. Los aniones de las estructuras iónicas simples suelen adoptar una de estas estructuras, y los cationes ocupan los espacios que quedan entre los aniones. Los cationes pequeños ocupan agujeros tetraédricos en un empaquetamiento compacto de aniones. Los cationes más grandes suelen ocupar agujeros octaédricos. Cationes aún más grandes pueden ocupar agujeros cúbicos en un conjunto cúbico simple de aniones. La estructura de un sólido puede describirse indicando el tamaño y la forma de una celda unitaria y el contenido de la misma. El tipo de estructura y las dimensiones de la celda unitaria pueden determinarse mediante mediciones de difracción de rayos X.</para>
+</section>
+<section id="fs-idp29862416" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mi>n</m:mi><m:mi>λ</m:mi><m:mo>=</m:mo><m:mn>2 </m:mn><m:mi>d</m:mi><m:mspace width="0.2em"/><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idp81672976" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idp28635312">
+<problem id="fs-idp173421088">
+<para id="fs-idp129727632">Describa la estructura cristalina del hierro, que cristaliza con dos átomos metálicos equivalentes en una celda unitaria cúbica.</para>
+</problem>
+<solution id="fs-idp80594736">
+<para id="fs-idp3953760">La estructura de esta forma de hierro a baja temperatura (por debajo de 910 °C) es cúbica centrada en el cuerpo. Hay un octavo átomo en cada una de las ocho esquinas del cubo y un átomo en el centro del cubo.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp129665808">
+<problem id="fs-idp64405248">
+<para id="fs-idp53667248">Describa la estructura cristalina del Pt, que cristaliza con cuatro átomos metálicos equivalentes en una celda unitaria cúbica.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp83460192">
+<problem id="fs-idp28148720">
+<para id="fs-idp26769504">¿Cuál es el número de coordinación de un átomo de cromo en la estructura cúbica centrada en el cuerpo del cromo?</para>
+</problem>
+<solution id="fs-idm28421520">
+<para id="fs-idp81841696">ocho</para>
+</solution>
+</exercise>
+<exercise id="fs-idp26737392">
+<problem id="fs-idm22783648">
+<para id="fs-idm12826720">¿Cuál es el número de coordinación de un átomo de aluminio en la estructura cúbica centrada en la cara del aluminio?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp101733424">
+<problem id="fs-idp78547232">
+<para id="fs-idm39315232">El cobalto metálico cristaliza en una estructura hexagonal compacta. ¿Cuál es el número de coordinación de un átomo de cobalto?</para>
+</problem>
+<solution id="fs-idp64984272">
+<para id="fs-idp29502000">12</para>
+</solution>
+</exercise>
+<exercise id="fs-idm14554640">
+<problem id="fs-idm45742576">
+<para id="fs-idp131174592">El níquel metálico cristaliza en una estructura cúbica compacta. ¿Cuál es el número de coordinación de un átomo de níquel?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp53261968">
+<problem id="fs-idp28622816">
+<para id="fs-idp31136736">El tungsteno cristaliza en una celda cúbica centrada en el cuerpo con una longitud de arista de 3,165 Å.</para>
+<para id="fs-idp81385152">(a) ¿Cuál es el radio atómico del wolframio en esta estructura?</para>
+<para id="fs-idp123432224">(b) Calcule la densidad del tungsteno.</para>
+</problem>
+<solution id="fs-idp129678688">
+<para id="fs-idm27663520">(a) 1,370 Å; (b) 19,26 g/cm</para>
+</solution>
+</exercise>
+<exercise id="fs-idp53519632">
+<problem id="fs-idp192123184">
+<para id="fs-idp51988096">El platino (radio atómico = 1,38 Å) cristaliza en una estructura cúbica muy compacta. Calcule la longitud de la arista de la celda unitaria cúbica centrada en la cara y la densidad del platino.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp45151232">
+<problem id="fs-idp110778176">
+<para id="fs-idm36404192">El bario cristaliza en una celda unitaria cúbica centrada en el cuerpo con una longitud de arista de 5,025 Å.</para>
+<para id="fs-idp29513328">(a) ¿Cuál es el radio atómico del bario en esta estructura?</para>
+<para id="fs-idm40747632">(b) Calcule la densidad del bario.</para>
+</problem>
+<solution id="fs-idp180927840">
+<para id="fs-idp71746416">(a) 2,176 Å; (b) 3,595 g/cm<sup>3</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm25352864">
+<problem id="fs-idp22409312">
+<para id="fs-idm39163760">El aluminio (radio atómico = 1,43 Å) cristaliza en una estructura cúbica compacta. Calcule la longitud de la arista de la celda unitaria cúbica centrada en la cara y la densidad del aluminio.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm95309216">
+<problem id="fs-idm29083664">
+<para id="fs-idp182731968">La densidad del aluminio es de 2,7 g/cm<sup>3</sup>; la del silicio es de 2,3 g/cm<sup>3</sup>. Explique por qué el Si tiene la densidad más baja a pesar de tener átomos más pesados.</para>
+</problem>
+<solution id="fs-idm86687680">
+<para id="fs-idm17016160">La estructura cristalina del Si muestra que está menos empaquetado (número de coordinación 4) en el sólido que el Al (número de coordinación 12).</para>
+</solution>
+</exercise>
+<exercise id="fs-idp21112320">
+<problem id="fs-idp76532672">
+<para id="fs-idm2208224">El espacio libre de un metal puede hallarse restando el volumen de los átomos de una celda unitaria del volumen de la celda. Calcule el porcentaje de espacio libre en cada una de las tres celosías cúbicas si todos los átomos de cada una tienen el mismo tamaño y tocan a sus vecinos más cercanos. ¿Cuál de estas estructuras representa el empaque más eficiente? Es decir, ¿cuáles son los paquetes con menos espacio no utilizado?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp171132368">
+<problem id="fs-idp107721808">
+<para id="fs-idp122151152">El sulfuro de cadmio, a veces utilizado como pigmento amarillo por los artistas, cristaliza con cadmio, ocupando la mitad de los agujeros tetraédricos en un conjunto de iones sulfuro con un empaquetamiento compacto. ¿Cuál es la fórmula del sulfuro de cadmio? Explique su respuesta.</para>
+</problem>
+<solution id="fs-idp75827936">
+<para id="fs-idm14571344">En un conjunto de empaquetamiento compacto, existen dos agujeros tetraédricos para cada anión. Si solo la mitad de los agujeros tetraédricos están ocupados, los números de aniones y cationes son iguales. La fórmula del sulfuro de cadmio es CdS.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp51480864">
+<problem id="fs-idp162576608">
+<para id="fs-idp72022784">Es un compuesto de cadmio, estaño y fósforo que se utiliza en la fabricación de algunos semiconductores. Cristaliza con el cadmio, para ocupar la cuarta parte de los agujeros tetraédricos y el estaño, para ocupar la cuarta parte de los agujeros tetraédricos en un empaquetamiento compacto de iones de fosfuro. ¿Cuál es la fórmula del compuesto? Explique su respuesta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp161152672">
+<problem id="fs-idp115619344">
+<para id="fs-idp63697616">¿Cuál es la fórmula del óxido magnético de cobalto que se usa en las cintas de grabación y que cristaliza con átomos de cobalto que ocupan una octava parte de los agujeros tetraédricos y la mitad de los agujeros octaédricos en un conjunto de empaquetamiento compacto de iones de óxido?</para>
+</problem>
+<solution id="fs-idp6650976">
+<para id="fs-idp179182976">Co<sub>3</sub>O<sub>4</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp78371824">
+<problem id="fs-idp78352960">
+<para id="fs-idp83426304">Un compuesto que contiene zinc, aluminio y azufre cristaliza con un conjunto de iones de sulfuro lo más parecido posible. Los iones de zinc se encuentran en una octava parte de los agujeros tetraédricos y los de aluminio en la mitad de los agujeros octaédricos. ¿Cuál es la fórmula empírica del compuesto?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp122808832">
+<problem id="fs-idp73228752">
+<para id="fs-idm18156720">Un compuesto de talio y yodo cristaliza en un conjunto cúbico simple de iones de yoduro con iones de talio en todos los huecos cúbicos. ¿Cuál es la fórmula de este yoduro? Explique su respuesta.</para>
+</problem>
+<solution id="fs-idm34692448">
+<para id="fs-idp56072368">En un conjunto cúbico simple, solo un agujero cúbico puede ser ocupado por un catión para cada anión en el conjunto. La relación entre el talio y el yoduro debe ser de 1:1; por lo tanto, la fórmula del talio es TlI.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp80534576">
+<problem id="fs-idm35004176">
+<para id="fs-idp82484416">¿Cuál de los siguientes elementos reacciona con el azufre para formar un sólido en el que los átomos de azufre forman un conjunto compacto con todos los agujeros octaédricos ocupados? ¿Li, Na, Be, Ca o Al?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp72582816">
+<problem id="fs-idp180698032">
+<para id="fs-idp129569040">¿Cuál es el porcentaje en masa de titanio en el rutilo, un mineral que contiene titanio y oxígeno, si la estructura puede describirse como un conjunto de iones de óxido con la mitad de los huecos octaédricos? ¿Cuál es el número de oxidación del titanio?</para>
+</problem>
+<solution id="fs-idm31265456">
+<para id="fs-idm25475168">59.95 %; el número de oxidación del titanio es +4.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp81080000">
+<problem id="fs-idp113155920">
+<para id="fs-idp8709376">Explique por qué los cloruros de metales alcalinos NaCl y CsCl, químicamente similares, tienen estructuras diferentes, mientras que el NaCl y el MnS, químicamente diferentes, tienen la misma estructura.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp80497568">
+<problem id="fs-idp123444912">
+<para id="fs-idp109499216">A medida que los minerales se formaban a partir del magma fundido, diferentes iones ocupaban los mismos cites en los cristales. El litio suele aparecer junto con el magnesio en los minerales a pesar de la diferencia de carga de sus iones. Sugiera una explicación.</para>
+</problem>
+<solution id="fs-idp108844384">
+<para id="fs-idp168557184">Ambos iones tienen un tamaño parecido: Mg, 0,65; Li, 0,60. Esta similitud permite que ambos se intercambien con bastante facilidad. La diferencia de carga se compensa generalmente con el cambio de Si<sup>4+</sup> por Al<sup>3+</sup>.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp68651232">
+<problem id="fs-idp103956160">
+<para id="fs-idp62730896">El yoduro de rubidio cristaliza con una celda unitaria cúbica que contiene iones de yoduro en las esquinas y un ion de rubidio en el centro. ¿Cuál es la fórmula del compuesto?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp62207184">
+<problem id="fs-idp121636240">
+<para id="fs-idp56178512">Uno de los diversos óxidos de manganeso cristaliza con una celda unitaria cúbica que contiene iones de manganeso en las esquinas y en el centro. Los iones de óxido se encuentran en el centro de cada borde de la celda unitaria. ¿Cuál es la fórmula del compuesto?</para>
+</problem>
+<solution id="fs-idp18389136">
+<para id="fs-idp104149760">Mn<sub>2</sub>O<sub>3</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp8185568">
+<problem id="fs-idp115754032">
+<para id="fs-idp78579456">El NaH cristaliza con la misma estructura cristalina que el NaCl. La longitud de la arista de la celda cúbica del NaH es de 4,880 Å.</para>
+<para id="fs-idp182758880">(a) Calcule el radio iónico del H<sup>−</sup>. (El radio iónico del Li<sup>+</sup> es de 0,95 Å).</para>
+<para id="fs-idp29502496">(b) Calcule la densidad del NaH.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp178999856">
+<problem id="fs-idp179000112">
+<para id="fs-idm2190992">El yoduro de talio(I) cristaliza con la misma estructura que el CsCl. La longitud del borde de la celda unitaria del TlI es de 4,20 Å. Calcule el radio iónico del TI<sup>+</sup>. (El radio iónico de I<sup>−</sup> es de 2,16 Å.)</para>
+</problem>
+<solution id="fs-idp185900448">
+<para id="fs-idp103838048">1,48 Å</para>
+</solution>
+</exercise>
+<exercise id="fs-idp64501504">
+<problem id="fs-idp160931776">
+<para id="fs-idm6458944">Una celda unitaria cúbica contiene iones de manganeso en las esquinas e iones de flúor en el centro de cada arista.</para>
+<para id="fs-idp173090624">(a) ¿Cuál es la fórmula empírica de este compuesto? Explique su respuesta.</para>
+<para id="fs-idp69359568">(b) ¿Cuál es el número de coordinación del ion Mn<sup>3+</sup>?</para>
+<para id="fs-idp29573472">(c) Calcule la longitud del borde de la celda unitaria si el radio de un ion Mn<sup>3+</sup> es de 0,65 A.</para>
+<para id="fs-idp191611584">(d) Calcula la densidad del compuesto.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp68785344">
+<problem id="fs-idp173591008">
+<para id="fs-idp173591264">¿Cuál es la distancia entre los planos del cristal que difractan los rayos X con una longitud de onda de 1,541 nm a un ángulo <emphasis effect="italics">θ</emphasis> de 15,55° (reflexión de primer orden)?</para>
+</problem>
+<solution id="fs-idp168620944">
+<para id="fs-idm32975984">2,874 Å</para>
+</solution>
+</exercise>
+<exercise id="fs-idm23848128">
+<problem id="fs-idm23847872">
+<para id="fs-idp191523072">Un difractómetro que utiliza rayos X con una longitud de onda de 0,2287 nm produjo un pico de difracción de primer orden para un ángulo de cristal <emphasis effect="italics">θ</emphasis> = 16,21°. Determine el espacio entre los planos difractantes en este cristal.</para></problem>
+</exercise>
+<exercise id="fs-idp184563440">
+<problem id="fs-idp184563696">
+<para id="fs-idp80463840">Un metal con una separación entre planos igual a 0,4164 nm difracta los rayos X con una longitud de onda de 0,2879 nm. ¿Cuál es el ángulo de difracción del pico de difracción de primer orden?</para>
+</problem>
+<solution id="fs-idp76618704">
+<para id="fs-idp76618960">20,2°</para>
+</solution>
+</exercise>
+<exercise id="fs-idp31363760">
+<problem id="fs-idp31364016">
+<para id="fs-idp173611808">El oro cristaliza en una celda unitaria cúbica centrada en la cara. La reflexión de segundo orden (n = 2) de los rayos X para los planos que conforman la parte superior e inferior de las celdas unitarias está en <emphasis effect="italics">θ</emphasis> = 22,20°. La longitud de onda de los rayos X es de 1,54 Å. ¿Cuál es la densidad del oro metálico?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp20057536">
+<problem id="fs-idp20057792">
+<para id="fs-idm33749072">Cuando un electrón de un átomo de molibdeno excitado cae de la capa L a la K, se emite un rayo X. Estos rayos X se difractan con un ángulo de 7,75° por planos con una separación de 2,64 Å. ¿Cuál es la diferencia de energía entre la capa K y la capa L en el molibdeno suponiendo una difracción de primer orden?</para></problem>
+<solution id="fs-idm33748560">
+<para id="fs-idp191525264">1,74 <m:math><m:mo>×</m:mo></m:math> 10<sup>4</sup> eV</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp190835184">
+<term>sólido cúbico centrado en el cuerpo (BCC)</term>
+<meaning id="fs-idp181316576">estructura cristalina que tiene una celda unitaria cúbica con puntos de red en las esquinas y en el centro de la celda.</meaning>
+</definition>
+<definition id="fs-idp178458288">
+<term>celda unitaria cúbica centrada en el cuerpo</term>
+<meaning id="fs-idp56085232">unidad de repetición más simple de un cristal cúbico centrado en el cuerpo; es un cubo que contiene puntos de red en cada esquina y en el centro del cubo.</meaning>
+</definition>
+<definition id="fs-idp168577936">
+<term>ecuación de Bragg</term>
+<meaning id="fs-idp168510000">ecuación que relaciona los ángulos a los que los rayos X son difractados por los átomos dentro de un cristal.</meaning>
+</definition>
+<definition id="fs-idp29496752">
+<term>número de coordinación</term>
+<meaning id="fs-idp56136272">número de átomos más cercanos a cualquier átomo en un cristal o al átomo de metal central en un complejo.</meaning>
+</definition>
+<definition id="fs-idp56136784">
+<term>empaquetamiento cúbico compacto (CCP)</term>
+<meaning id="fs-idp103494320">estructura cristalina en la que los planos de átomos o iones estrechamente empaquetados se apilan como una serie de tres capas alternas de diferentes orientaciones relativas (ABC).</meaning>
+</definition>
+<definition id="fs-idp160423360">
+<term>difracción</term>
+<meaning id="fs-idp68749248">redirección de la radiación electromagnética que se produce cuando encuentra una barrera física de dimensiones adecuadas.</meaning>
+</definition>
+<definition id="fs-idp20057136">
+<term>sólido cúbico centrado en la cara (FCC)</term>
+<meaning id="fs-idp168618816">estructura cristalina que consiste en una celda unitaria cúbica con puntos de red en las esquinas y en el centro de cada cara.</meaning>
+</definition>
+<definition id="fs-idp82357824">
+<term>celda unitaria cúbica centrada en la cara</term>
+<meaning id="fs-idp190820448">unidad de repetición más simple de un cristal cúbico centrado en la cara; es un cubo que contiene puntos de red en cada esquina y en el centro de cada cara.</meaning>
+</definition>
+<definition id="fs-idp81517488">
+<term>empaquetamiento hexagonal compacto (HCP)</term>
+<meaning id="fs-idp53905232">estructura cristalina en la que se apilan capas cerradas de átomos o iones como una serie de dos capas alternas de diferentes orientaciones relativas (AB).</meaning>
+</definition>
+<definition id="fs-idp33871280">
+<term>agujero</term>
+<meaning id="fs-idm12824304">(también, intersticio) espacio entre átomos dentro de un cristal.</meaning>
+</definition>
+<definition id="fs-idp75734960">
+<term>isomorfo</term>
+<meaning id="fs-idm28945152">que poseen la misma estructura cristalina.</meaning>
+</definition>
+<definition id="fs-idm28944640">
+<term>agujero octaédrico</term>
+<meaning id="fs-idp72050736">espacio abierto en un cristal en el centro de seis partículas situadas en las esquinas de un octaedro.</meaning>
+</definition>
+<definition id="fs-idp179472016">
+<term>celda unitaria cúbica simple</term>
+<meaning id="fs-idm47773968">(también, celda unitaria cúbica primitiva) celda unitaria en la estructura cúbica simple.</meaning>
+</definition>
+<definition id="fs-idm47773456">
+<term>estructura cúbica simple</term>
+<meaning id="fs-idp180868656">estructura cristalina con una celda unitaria cúbica con puntos de red solamente en las esquinas.</meaning>
+</definition>
+<definition id="fs-idm12811536">
+<term>red espacial</term>
+<meaning id="fs-idm116348048">todos los puntos de un cristal que tienen entornos idénticos.</meaning>
+</definition>
+<definition id="fs-idm116347536">
+<term>agujero tetraédrico</term>
+<meaning id="fs-idp109541792">espacio tetraédrico formado por cuatro átomos o iones en un cristal.</meaning>
+</definition>
+<definition id="fs-idp173597120">
+<term>celda unitaria</term>
+<meaning id="fs-idm40749088">porción más pequeña de una red espacial que se repite en tres dimensiones para formar la red completa.</meaning>
+</definition>
+<definition id="fs-idm40748576">
+<term>Cristalografía de rayos X</term>
+<meaning id="fs-idp184583472">técnica experimental para determinar las distancias entre los átomos de un cristal mediante la medición de los ángulos de difracción de los rayos X al atravesar el cristal.</meaning>
+</definition>
+</glossary>
+</document>

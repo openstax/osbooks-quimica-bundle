@@ -1,0 +1,340 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Enlace covalente</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68738</md:content-id>
+  <md:title>Enlace covalente</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list><item>Describir la formación de enlaces covalentes</item>
+<item>Definir la electronegatividad y evaluar la polaridad de los enlaces covalentes</item></list></md:abstract>
+  <md:uuid>1e445aa2-713a-496d-8052-c6008a85677c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp18344448">El enlace iónico es el resultado de la atracción electrostática de los iones con carga opuesta que se produce normalmente por la transferencia de electrones entre átomos metálicos y no metálicos. Un tipo diferente de enlace resulta de la atracción mutua de los átomos por un par de electrones "compartidos". Estos enlaces se denominan <term>enlaces covalentes</term>. Los enlaces covalentes se forman entre dos átomos cuando ambos tienen tendencias similares a atraer electrones hacia sí (es decir, cuando ambos átomos tienen energías de ionización y afinidades electrónicas idénticas o bastante similares). Por ejemplo, dos átomos de hidrógeno se unen covalentemente para formar una molécula de H<sub>2</sub>; cada átomo de hidrógeno en la molécula de H<sub>2</sub> tiene dos electrones que lo estabilizan, lo que da a cada átomo el mismo número de electrones de valencia que el gas noble He.
+
+</para><para id="fs-idm46739904">Los compuestos que contienen enlaces covalentes presentan propiedades físicas diferentes a las de los compuestos iónicos. Como la atracción entre las moléculas, que son eléctricamente neutras, es más débil que la que existe entre los iones cargados eléctricamente, los compuestos covalentes suelen tener puntos de fusión y ebullición mucho más bajos que los iónicos. De hecho, muchos compuestos covalentes son líquidos o gases a temperatura ambiente y, en su estado sólido, suelen ser mucho más blandos que los sólidos iónicos. Además, mientras que los compuestos iónicos son buenos conductores de la electricidad cuando se disuelven en agua, la mayoría de los compuestos covalentes son insolubles en agua; como son eléctricamente neutros, son malos conductores de la electricidad en cualquier estado.</para>
+<section id="fs-idm52120656">
+<title>Formación de enlaces covalentes</title>
+<para id="fs-idp19293424">Los átomos no metálicos suelen formar enlaces covalentes con otros átomos no metálicos. Por ejemplo, la molécula de hidrógeno, H<sub>2</sub>, contiene un enlace covalente entre sus dos átomos de hidrógeno. La <link target-id="CNX_Chem_07_02_Morse"/> ilustra por qué se forma este enlace. Empezando por el extremo derecho, tenemos dos átomos de hidrógeno separados con una energía potencial particular, indicada por la línea roja. A lo largo del eje <emphasis effect="italics">x</emphasis> está la distancia entre los dos átomos. A medida que los dos átomos se acercan (moviéndose hacia la izquierda a lo largo del eje <emphasis effect="italics">x</emphasis>), sus orbitales de valencia (1<emphasis effect="italics">s</emphasis>) comienzan a superponerse. Los electrones individuales de cada átomo de hidrógeno interactúan entonces con ambos núcleos atómicos, ocupando el espacio que rodea a ambos átomos. La fuerte atracción de cada electrón compartido a ambos núcleos estabiliza el sistema, y la energía potencial disminuye a medida que la longitud de enlace disminuye. Si los átomos siguen acercándose, las cargas positivas de los dos núcleos comienzan a repelerse y la energía potencial aumenta. La <term>longitud de enlace</term> se determina por la distancia a la que se alcanza la menor energía potencial.</para>
+<figure id="CNX_Chem_07_02_Morse" class="scaled-down"><media id="fs-idp205967824" alt="Se muestra un gráfico con el eje x etiquetado, &quot;Distancia internuclear ( p m )&quot; mientras que el eje y está etiquetado como &quot;Energía ( J )&quot;. Un valor, &quot;0&quot;, está etiquetado en la mitad del eje y y dos valores: &quot;0&quot; en el extremo izquierdo y &quot;0,74&quot; a la izquierda, están etiquetados en el eje x. El punto &quot;74&quot; está etiquetado como &quot;Distancia de enlace H&quot;. Se grafica una línea que comienza cerca de la parte superior del eje y y en el extremo izquierdo del eje x y cae abruptamente hasta un punto etiquetado como &quot;negativo 7,24 veces 10 superíndice negativo 19 J&quot; en el eje y y 74 en el eje x. Este punto bajo en el gráfico corresponde a un dibujo de dos esferas que se superponen considerablemente. A continuación, la línea sube hasta el cero en el eje y y se nivela. El punto en el que casi llega a cero corresponde a dos esferas que se superponen ligeramente. La línea en el cero del eje y corresponde a dos esferas alejadas entre sí.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_02_Morse.jpg"/>
+</media>
+
+<caption>La energía potencial de dos átomos de hidrógeno separados (derecha) disminuye a medida que se acercan el uno al otro, y los electrones individuales de cada átomo se comparten para formar un enlace covalente. La longitud de enlace es la distancia internuclear a la que se alcanza la menor energía potencial.</caption></figure><para id="fs-idm53665712">Es esencial recordar que hay que añadir energía para romper los enlaces químicos (un proceso endotérmico), mientras que la formación de enlaces químicos libera energía (un proceso exotérmico). En el caso del H<sub>2</sub>, el enlace covalente es muy fuerte; hay que añadir una gran cantidad de energía, 436 kJ, para romper los enlaces en un mol de moléculas de hidrógeno y hacer que los átomos se separen:</para>
+<equation id="fs-idp80127584" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>436</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm100273632">De manera inversa, se libera la misma cantidad de energía cuando se forma un mol de moléculas de H<sub>2</sub> a partir de dos moles de átomos de H:</para>
+<equation id="fs-idp43869440" class="unnumbered"><m:math><m:mrow><m:mtext>2H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>-436</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+</section>
+<section id="fs-idp191792320">
+<title>Enlaces covalentes puros y polares</title>
+<para id="fs-idp9596128">Si los átomos que forman un enlace covalente son idénticos, como en el H<sub>2</sub>, el Cl<sub>2</sub> y otras moléculas diatómicas, entonces los electrones del enlace deben compartirse por igual. Lo denominamos <term>enlace covalente puro</term>. Los electrones compartidos en los enlaces covalentes puros tienen la misma probabilidad de estar cerca de cada núcleo.</para>
+<para id="fs-idp173661472">En el caso del Cl<sub>2</sub>, cada átomo comienza con siete electrones de valencia y cada Cl comparte un electrón con el otro, formando un enlace covalente:</para>
+<equation id="fs-idm2241360" class="unnumbered"><m:math><m:mrow><m:mtext>Cl</m:mtext><m:mo>+</m:mo><m:mtext>Cl</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp15241984">El número total de electrones alrededor de cada átomo consta de seis electrones no enlazantes y dos compartidos (es decir, enlazantes) para un total de ocho electrones, lo que coincide con el número de electrones de valencia del gas noble argón. Como los átomos de enlace son idénticos, el Cl<sub>2</sub> también presenta un enlace covalente puro.</para>
+<para id="fs-idp26845616">Cuando los átomos unidos por un enlace covalente son diferentes, los electrones de enlace se comparten, pero ya no de forma equitativa. En cambio, los electrones de enlace son más atraídos por un átomo que por el otro, dando lugar a un desplazamiento de la configuración electrónica hacia ese átomo. Esta distribución desigual de electrones se conoce como <term>enlace covalente polar</term>, caracterizado por una carga positiva parcial en un átomo y una carga negativa parcial en el otro. El átomo que atrae los electrones con más fuerza adquiere la carga parcial negativa y viceversa. Por ejemplo, los electrones del enlace H-Cl de una molécula de cloruro de hidrógeno pasan más tiempo cerca del átomo de cloro que del de hidrógeno. Así, en una molécula de HCl, el átomo de cloro tiene una carga parcial negativa y el átomo de hidrógeno tiene una carga parcial positiva. La <link target-id="CNX_Chem_07_02_HClBond"/> muestra la distribución de electrones en el enlace H-Cl. Observe que el área sombreada alrededor del de Cl es mucho más grande que alrededor del de H. Compare con la <link target-id="CNX_Chem_07_02_Morse"/>, que muestra la distribución uniforme de electrones en el enlace no polar del H<sub>2</sub>.</para>
+<para id="fs-idp24320096">A veces designamos los átomos positivos y negativos de un enlace covalente polar utilizando una letra griega minúscula "delta", δ, con un signo más o un signo menos para indicar si el átomo tiene una carga positiva parcial (δ+) o una carga negativa parcial (δ-). Esta simbología se muestra para la molécula H-Cl en la <link target-id="CNX_Chem_07_02_HClBond"/>.</para>
+<figure id="CNX_Chem_07_02_HClBond" class="scaled-down">
+<media id="fs-idp17725376" alt="Se muestran dos diagramas marcados como &quot;a&quot; y &quot;b&quot;. El diagrama a muestra una pequeña esfera etiquetada como &quot;H&quot; y una esfera más grande etiquetada como &quot;C l&quot; que se superponen ligeramente. Ambas esferas tienen un pequeño punto en el centro. El diagrama b muestra un H unido a un C l con un enlace simple. Sobre la H se escribe un dipolo y un signo positivo y sobre la C l se escribe un dipolo y un signo negativo. Una flecha apunta hacia la C l con un signo más en el extremo más alejado de la cabeza de la flecha cerca de la H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_02_HClBond.jpg"/>
+</media>
+<caption>(a) La distribución de la configuración electrónica en la molécula de HCl es desigual. La configuración electrónica es mayor alrededor del núcleo del cloro. Los pequeños puntos negros indican la ubicación de los núcleos de hidrógeno y cloro en la molécula. (b) Los símbolos δ+ y δ- indican la polaridad del enlace H-Cl.</caption>
+</figure>
+</section>
+<section id="fs-idp14008096">
+<title>Electronegatividad</title>
+<para id="fs-idm42504736">El hecho de que un enlace sea covalente no polar o polar viene determinado por una propiedad de los átomos enlazados llamada <term>electronegatividad</term>. La electronegatividad es una medida de la tendencia de un átomo a atraer electrones (o configuración electrónica) hacia sí mismo. Determina cómo se distribuyen los electrones compartidos entre los dos átomos de un enlace. Cuanto más fuertemente atraiga un átomo los electrones de sus enlaces, mayor será su electronegatividad. Los electrones de un enlace covalente polar se desplazan hacia el átomo más electronegativo; así, el átomo más electronegativo es el que tiene la carga negativa parcial. Cuanto mayor sea la diferencia de electronegatividad, más polarizada estará la distribución de electrones y mayores serán las cargas parciales de los átomos.</para>
+<para id="fs-idm49461456">La <link target-id="CNX_Chem_07_02_ENTable"/> muestra los valores de electronegatividad de los elementos según la propuesta de uno de los químicos más famosos del siglo XX: Linus Pauling (<link target-id="CNX_Chem_07_02_Pauling"/>). En general, la electronegatividad aumenta de izquierda a derecha a través de un período en la tabla periódica y disminuye hacia abajo en un grupo. Así, los no metales, que se encuentran en la parte superior derecha, tienden a tener las mayores electronegatividades, siendo el flúor el elemento más electronegativo de todos (EN = 4,0). Los metales tienden a ser elementos menos electronegativos, y los metales del grupo 1 tienen las electronegatividades más bajas. Note que los gases nobles están excluidos de esta figura porque estos átomos no suelen compartir electrones con otros átomos ya que tienen una capa de valencia completa. (Aunque existen compuestos de gases nobles como el XeO<sub>2</sub>, solo pueden formarse en condiciones extremas, por lo que no encajan perfectamente en el modelo general de electronegatividad).</para>
+<figure id="CNX_Chem_07_02_ENTable">
+<media id="fs-idp15011408" alt="Se muestra parte de la tabla periódica. A la izquierda de la tabla se dibuja una flecha que mira hacia abajo y se etiqueta como &quot;Disminución de la electronegatividad&quot;, mientras que encima de la tabla se dibuja una flecha que mira hacia la derecha y se etiqueta como &quot;Aumento de la electronegatividad&quot;. Se muestra la electronegatividad de casi todos los elementos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_02_ENTable.jpg"/>
+</media>
+<caption>Los valores de electronegatividad derivados por Pauling siguen tendencias periódicas predecibles, con las electronegatividades más altas hacia la parte superior derecha de la tabla periódica.</caption>
+</figure>
+<section id="fs-idm115216">
+<title>Electronegatividad frente a la afinidad electrónica</title>
+<para id="fs-idp19127744">Debemos tener cuidado de no confundir la electronegatividad y la afinidad electrónica. La afinidad electrónica de un elemento es una cantidad física medible, es decir, la energía liberada o absorbida cuando un átomo aislado en fase gaseosa adquiere un electrón, medida en kJ/mol. La electronegatividad, por su parte, describe la fuerza con la que un átomo atrae los electrones en un enlace. Es una cantidad adimensional que se calcula, no se mide. Pauling obtuvo los primeros valores de electronegatividad comparando las cantidades de energía necesarias para romper diferentes tipos de enlaces. Eligió una escala relativa arbitraria que va de 0 a 4.</para>
+<note id="fs-idm39789712" class="chemistry chemist-portrait">
+<title>Linus Pauling</title>
+<para id="fs-idp175623792">Linus <term class="no-emphasis">Pauling</term>, que aparece en la <link target-id="CNX_Chem_07_02_Pauling"/>, es la única persona que ha recibido dos premios Nobel no compartidos (individuales): uno de química en 1954 por su trabajo sobre la naturaleza de los enlaces químicos y otro de la paz en 1962 por su oposición a las armas de destrucción masiva. Desarrolló muchas de las teorías y conceptos que son fundamentales para nuestra actual comprensión de la química, como la electronegatividad y las estructuras de resonancia.</para>
+<figure id="CNX_Chem_07_02_Pauling" class="scaled-down">
+<media id="fs-idp80404176" alt="Se muestra una fotografía de Linus Pauling.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_02_Pauling.jpg"/>
+</media>
+<caption>Linus Pauling (1901–1994) hizo muchas e importantes contribuciones al campo de la química. También fue un destacado activista, dando a conocer temas relacionados con la salud y las armas nucleares.</caption>
+</figure>
+<para id="fs-idp80917280">Pauling también contribuyó a muchos otros campos además de la química. Sus investigaciones sobre la anemia falciforme revelaron la causa de la enfermedad (la presencia de una proteína anormal heredada genéticamente en la sangre) y allanaron el camino para el campo de la genética molecular. Su trabajo también fue fundamental para frenar las pruebas de armas nucleares; demostró que la lluvia radioactiva de las pruebas nucleares suponía un riesgo para la salud pública.</para>
+</note>
+</section>
+<section id="fs-idp9576080">
+<title>Electronegatividad y tipo de enlace</title>
+<para id="fs-idp186399536">El valor absoluto de la diferencia de electronegatividad (ΔEN) de dos átomos enlazados proporciona una medida aproximada de la polaridad que cabe esperar en el enlace y, por tanto, del tipo de enlace. Cuando la diferencia es muy pequeña o nula, el enlace es covalente y no polar. Cuando es grande, el enlace es polar covalente o iónico. Los valores absolutos de las diferencias de electronegatividad entre los átomos de los enlaces H-H, H-Cl y Na-Cl son 0 (no polar), 0,9 (polar covalente) y 2,1 (iónico), respectivamente. El grado en que los electrones se comparten entre los átomos varía desde completamente igual (enlace covalente puro) hasta nada (enlace iónico). La <link target-id="CNX_Chem_07_02_DeltaEN"/> muestra la relación entre la diferencia de electronegatividad y el tipo de enlace.</para>
+<figure id="CNX_Chem_07_02_DeltaEN">
+<media id="fs-idm74573296" alt="Se muestran dos diagramas de flujo y una tabla. El primer diagrama de flujo se etiqueta &quot;Diferencia de electronegatividad entre los átomos de enlace&quot;. Debajo de esta etiqueta hay tres burbujas de texto redondeadas, conectadas por una flecha hacia abajo, etiquetadas como &quot;Cero&quot;, &quot;Intermedio&quot; y &quot;Grande&quot;, respectivamente. El segundo diagrama de flujo se etiqueta &quot;Tipo de enlace&quot;. Debajo de esta etiqueta hay tres burbujas de texto redondeadas, conectadas por una flecha hacia abajo, etiquetadas como &quot;Covalente puro&quot;, &quot;Covalente polar&quot; e &quot;Iónico&quot;, respectivamente. Una flecha de doble punta está escrita verticalmente a la derecha de los diagramas de flujo y etiquetada como &quot;El carácter covalente disminuye; el carácter iónico aumenta&quot;. La tabla se compone de dos columnas y cuatro filas. La línea de cabecera está etiquetada como &quot;Tipo de enlace&quot; y &quot;Diferencia de electronegatividad&quot;. La columna de la izquierda contiene las frases &quot;covalente puro&quot;, &quot;covalente polar&quot; e &quot;iónico&quot;, mientras que la columna de la derecha contiene los valores &quot;menos de 0,4&quot;, &quot;entre 0,4 y 1,8&quot; y &quot;más de 1,8&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_02_DeltaEN.jpg"/>
+</media>
+<caption>A medida que aumenta la diferencia de electronegatividad entre dos átomos, el enlace se vuelve más iónico.</caption>
+</figure>
+<para id="fs-idm32214656">Una aproximación a las diferencias de electronegatividad asociadas a los enlaces covalentes, covalentes polares e iónicos se muestra en la <link target-id="CNX_Chem_07_02_DeltaEN"/>. Sin embargo, esta tabla es solo una guía general, con muchas excepciones. Por ejemplo, los átomos de H y F en el HF tienen una diferencia de electronegatividad de 1,9, y los átomos de N y H en el NH<sub>3</sub> una diferencia de 0,9, y sin embargo ambos compuestos forman enlaces que se consideran covalentes polares. Así mismo, los átomos de Na y Cl en el NaCl tienen una diferencia de electronegatividad de 2,1, y los átomos de Mn e I en el MnI<sub>2</sub> tienen una diferencia de 1,0, y sin embargo ambas sustancias forman compuestos iónicos.</para>
+<para id="fs-idm28373728">La mejor guía para determinar el carácter covalente o iónico de un enlace es considerar los tipos de átomos implicados y sus posiciones relativas en la tabla periódica. Los enlaces entre dos no metales suelen ser covalentes; los enlaces entre un metal y un no metal suelen ser iónicos.</para>
+<para id="fs-idm38253568">Algunos compuestos contienen tanto enlaces covalentes como iónicos. Los átomos de los iones poliatómicos, como el OH<sup>-</sup>, <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> y <m:math><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> se mantienen unidos por enlaces covalentes polares. Sin embargo, estos iones poliatómicos forman compuestos iónicos al combinarse con iones de carga opuesta. Por ejemplo, el nitrato de potasio, KNO<sub>3</sub>, contiene el catión K<sup>+</sup> y el anión poliatómico <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math>. Por lo tanto, el enlace en el nitrato de potasio es iónico, resultado de la atracción electrostática entre los iones K<sup>+</sup> y <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> así como covalente entre los átomos de nitrógeno y oxígeno en <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+<example id="fs-idm8119280">
+<para id="fs-idp117774608"><title>Electronegatividad y polaridad de los enlaces</title>
+Las polaridades de los enlaces desempeñan un papel importante en la determinación de la estructura de las proteínas. Utilizando los valores de electronegatividad en la <link target-id="CNX_Chem_07_02_ENTable"/>, ordene los siguientes enlaces covalentes (todos comúnmente encontrados en los aminoácidos) en orden de polaridad creciente. A continuación, designe los átomos positivos y negativos con los símbolos δ+ y δ-:</para>
+<para id="fs-idm8126928">C–H, C–N, C–O, N–H, O–H, S–H</para>
+<para id="fs-idm21713856"><title>Solución</title>
+La polaridad de estos enlaces aumenta a medida que aumenta el valor absoluto de la diferencia de electronegatividad. El átomo con la designación δ- es el más electronegativo de los dos. La <link target-id="fs-idm2614240"/> muestra estos enlaces en orden de polaridad creciente.</para>
+<table id="fs-idm2614240" class="top-titled" summary="Esta tabla tiene tres columnas y siete filas. La primera fila es el encabezado e identifica cada columna. El encabezado de la primera columna es &quot;Enlace&quot;, el de la segunda es &quot;delta mayúscula E N&quot; y el de la tercera es &quot;Polaridad&quot;. En la columna &quot;Enlace&quot; se encuentran los siguientes: El C se enlaza con el H con un enlace simple, el S se enlaza con el H con un enlace simple, el C se enlaza con el N con un enlace simple, el N se enlaza con el H con un enlace simple, el C se enlaza con el O con un enlace simple y el O se enlaza con el H con un enlace simple. En la columna &quot;delta mayúscula E N&quot; están los valores: 0,4; 0,4; 0,5; 0,9; 1,0; y 1,4. En la columna &quot;Polaridad&quot; se encuentra lo siguiente: El C se enlaza con el H con un enlace simple, hay una delta minúscula de signo negativo sobre el C y una delta minúscula de signo positivo sobre el H; el S se enlaza con el H con un enlace simple, hay una delta minúscula de signo negativo sobre el S y una delta minúscula de signo positivo sobre el H; el C se enlaza con el N con un enlace simple, hay una delta minúscula de signo positivo sobre el C y una delta minúscula de signo negativo sobre el N; N se enlaza con H con un enlace simple, hay una delta minúscula de signo negativo sobre el N y una delta minúscula de signo positivo sobre el H; C se enlaza con O con un enlace simple, hay una delta minúscula de signo positivo sobre el C y una delta minúscula de signo negativo sobre el O; y O se enlaza con H con un enlace simple, hay una delta minúscula de signo negativo sobre el O y una delta minúscula de signo positivo sobre el H.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Polaridad de enlace y diferencia de electronegatividad</entry>
+</row>
+<row valign="top">
+<entry align="left">Enlace</entry>
+<entry align="center">ΔEN</entry>
+<entry align="center">Polaridad</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">C–H</entry>
+<entry align="center">0,4</entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">S–H</entry>
+<entry align="center">0,4</entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>S</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">C–N</entry>
+<entry align="center">0,5</entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>N</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">N–H</entry>
+<entry align="center">0,9</entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>N</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">C–O</entry>
+<entry align="center">1,0</entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>O</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">O–H</entry>
+<entry align="center">1,4</entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>O</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp64846816"><title>Compruebe lo aprendido</title>
+Las siliconas son compuestos poliméricos que contienen, entre otros, los siguientes tipos de enlaces covalentes: Si-O, Si-C, C-H y C-C. Utilizando los valores de electronegatividad en la <link target-id="CNX_Chem_07_02_ENTable"/>, organice los enlaces en orden de polaridad creciente y designe los átomos positivos y negativos utilizando los símbolos δ+ y δ-.</para>
+<note id="fs-idp56083008"><title>Respuesta:</title>
+<table id="fs-idm25109184" class="unnumbered" summary="Esta tabla tiene tres columnas y cinco filas. La primera fila es el encabezado e identifica cada columna. El encabezado de la primera columna es &quot;Enlace&quot;, el de la segunda es &quot;Diferencia de electronegatividad&quot; y el de la tercera es &quot;Polaridad&quot;. EN la columna &quot;Enlace&quot; se encuentran los siguientes: El C se enlaza con el C con un enlace simple, el C se enlaza con el H con un enlace simple, el S i se enlaza con el C con un enlace simple y el S i se enlaza con el O con un enlace simple. En la columna &quot;Diferencia de electronegatividad&quot; están los valores: 0,0; 0,4; 0,7; y 1,7. EN la columna &quot;Polaridad&quot; se encuentra lo siguiente: no polar, C se enlaza con H con un enlace simple, hay una delta minúscula signo negativo sobre C y una delta minúscula signo positivo sobre H, S i se enlaza con C con un enlace simple, hay una delta minúscula signo positivo sobre S i y una delta minúscula signo negativo sobre C y S i se enlaza con O con un enlace simple, hay una delta minúscula signo positivo sobre S i y una delta minúscula signo negativo sobre O.">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="left">Enlace</entry>
+<entry align="left">Diferencia de electronegatividad</entry>
+<entry align="left">Polaridad</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">C–C</entry>
+<entry align="left">0,0</entry>
+<entry align="left">no polar</entry>
+</row>
+<row valign="top">
+<entry align="left">C–H</entry>
+<entry align="left">0,4</entry>
+<entry align="left"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">Si–C</entry>
+<entry align="left">0,7</entry>
+<entry align="left"><m:math><m:mrow><m:mover><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left">Si–O</entry>
+<entry align="left">1,7</entry>
+<entry align="left"><m:math><m:mrow><m:mover><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>O</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</note>
+</example>
+</section>
+</section>
+<section id="fs-idm4705056" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp86079584">Los enlaces covalentes se forman cuando los electrones se comparten entre átomos y son atraídos por los núcleos de ambos átomos. En los enlaces covalentes puros, los electrones se reparten por igual. En los enlaces covalentes polares, los electrones se reparten de forma desigual, ya que un átomo ejerce una fuerza de atracción sobre los electrones más fuerte que el otro. La capacidad de un átomo para atraer un par de electrones en un enlace químico se denomina electronegatividad. La diferencia de electronegatividad entre dos átomos determina lo polar que será un enlace. En una molécula diatómica con dos átomos idénticos, no hay diferencia de electronegatividad, por lo que el enlace es no polar o covalente puro. Cuando la diferencia de electronegatividad es muy grande, como ocurre entre metales y no metales, el enlace se caracteriza como iónico.</para>
+</section>
+<section id="fs-idp134316112" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idp49074848">
+<problem id="fs-idp25067072">
+<para id="fs-idm2824400">¿Por qué es incorrecto hablar de una molécula sólida de NaCl?</para>
+</problem>
+<solution id="fs-idp52410800">
+<para id="fs-idm21247904">El NaCl está formado por iones discretos dispuestos en una red cristalina, no por moléculas con enlaces covalentes.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm13014880">
+<problem id="fs-idp176713136">
+<para id="fs-idp93923328">¿Qué información puede utilizar para predecir si un enlace entre dos átomos es covalente o iónico?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp119456432">
+<problem id="fs-idm54010016">
+<para id="fs-idm10626064">Prediga cuáles de los siguientes compuestos son iónicos y cuáles son covalentes basándose en la ubicación de sus átomos constituyentes en la tabla periódica:</para>
+<para id="fs-idp137731248">(a) Cl<sub>2</sub>CO</para>
+<para id="fs-idp34043968">(b) MnO</para>
+<para id="fs-idp145928416">(c) NCl<sub>3</sub></para>
+<para id="fs-idp62117984">(d) CoBr<sub>2</sub></para>
+<para id="fs-idp15975072">(e) K<sub>2</sub>S</para>
+<para id="fs-idp135856480">(f) CO</para>
+<para id="fs-idp70623968">(g) CaF<sub>2</sub></para>
+<para id="fs-idp162650528">(h) HI</para>
+<para id="fs-idm25413152">(i) CaO</para>
+<para id="fs-idp57507392">(j) IBr</para>
+<para id="fs-idp58466608">(k) CO<sub>2</sub></para>
+</problem>
+<solution id="fs-idm20669152">
+<para id="fs-idm92647632">iónicos: (b), (d), (e), (g), e (i); covalentes: (a), (c), (f), (h), (j), y (k)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp18335616">
+<problem id="fs-idm15821712">
+<para id="fs-idm24945328">Explique la diferencia entre un enlace covalente no polar, un enlace covalente polar y un enlace iónico.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm121789856">
+<problem id="fs-idp148786880">
+<para id="fs-idp191889824">A partir de su posición en la tabla periódica, determine qué átomo de cada par es más electronegativo:</para>
+<para id="fs-idm12153568">(a) Br o Cl</para>
+<para id="fs-idp91653072">(b) N u O</para>
+<para id="fs-idp6938432">(c) S u O</para>
+<para id="fs-idp74508640">(d) P o S</para>
+<para id="fs-idp165919328">(e) Si o N</para>
+<para id="fs-idp44669424">(f) Ba o P</para>
+<para id="fs-idp65630688">(g) N o K</para>
+</problem>
+<solution id="fs-idp111891008">
+<para id="fs-idm10691120">(a) Cl; (b) O; (c) O; (d) S; (e) N; (f) P; (g) N</para>
+</solution>
+</exercise>
+<exercise id="fs-idp43172032">
+<problem id="fs-idm1164224">
+<para id="fs-idm4843136">A partir de su posición en la tabla periódica, determine qué átomo de cada par es más electronegativo:</para>
+<para id="fs-idm54141760">(a) N o P</para>
+<para id="fs-idp65897056">(b) N o Ge</para>
+<para id="fs-idp65832208">(c) S o F</para>
+<para id="fs-idp170735744">(d) Cl o S</para>
+<para id="fs-idm51982672">(e) H o C</para>
+<para id="fs-idp225578400">(f) Se o P</para>
+<para id="fs-idp105804256">(g) C o Si</para>
+</problem>
+</exercise>
+<exercise id="fs-idm28148800">
+<problem id="fs-idm88744080">
+<para id="fs-idp27652976">A partir de sus posiciones en la tabla periódica, ordene los átomos de cada una de las siguientes series en orden de electronegatividad creciente:</para>
+<para id="fs-idp63429168">(a) C, F, H, N, O</para>
+<para id="fs-idp19767520">(b) Br, Cl, F, H, I</para>
+<para id="fs-idp256954784">(c) F, H, O, P, S</para>
+<para id="fs-idp288482688">(d) Al, H, Na, O, P</para>
+<para id="fs-idp249303488">(e) Ba, H, N, O, As</para>
+</problem>
+<solution id="fs-idp17723600">
+<para id="fs-idm60378112">(a) H, C, N, O, F; (b) H, I, Br, Cl, F; (c) H, P, S, O, F; (d) Na, Al, H, P, O; (e) Ba, H, As, N, O</para>
+</solution>
+</exercise>
+<exercise id="fs-idp49532528">
+<problem id="fs-idp19087392">
+<para id="fs-idm33320240">A partir de sus posiciones en la tabla periódica, ordene los átomos de cada una de las siguientes series en orden de electronegatividad creciente:</para>
+<para id="fs-idp291050752">(a) As, H, N, P, Sb</para>
+<para id="fs-idm10196928">(b) Cl, H, P, S, Si</para>
+<para id="fs-idp92022624">(c) Br, Cl, Ge, H, Sr</para>
+<para id="fs-idp48302032">(d) Ca, H, K, N, Si</para>
+<para id="fs-idp251836720">(e) Cl, Cs, Ge, H, Sr</para>
+</problem>
+</exercise>
+<exercise id="fs-idp31566784">
+<problem id="fs-idp186425376">
+<para id="fs-idp65374912">¿Qué átomos pueden unirse al azufre para producir una carga parcial positiva en el átomo de azufre?</para>
+</problem>
+<solution id="fs-idp77775472">
+<para id="fs-idm121823728">N, O, F y Cl</para>
+</solution>
+</exercise>
+<exercise id="fs-idp9464672">
+<problem id="fs-idp10397696">
+<para id="fs-idp36762400">¿Cuál es el enlace más polar?</para>
+<para id="fs-idm10175808">(a) C–C</para>
+<para id="fs-idp66031184">(b) C–H</para>
+<para id="fs-idp291761760">(c) N–H</para>
+<para id="fs-idp167633952">(d) O–H</para>
+<para id="fs-idp176038448">(e) Se–H</para>
+</problem>
+</exercise>
+<exercise id="fs-idp173506592">
+<problem id="fs-idm53807920">
+<para id="fs-idm79569728">Identifique el enlace más polar en cada uno de los siguientes pares de enlaces:</para>
+<para id="fs-idp20525952">(a) HF o HCl</para>
+<para id="fs-idp84064688">(b) NO o CO</para>
+<para id="fs-idp64282448">(c) SH u OH</para>
+<para id="fs-idp65680032">(d) PCl o SCl</para>
+<para id="fs-idp183486032">(e) CH o NH</para>
+<para id="fs-idp254054736">(f) SO o PO</para>
+<para id="fs-idp58442352">(g) CN o NN</para>
+</problem>
+<solution id="fs-idm12999776">
+<para id="fs-idm3310160">(a) HF; (b) CO; (c) OH; (d) PCl; (e) NH; (f) PO; (g) CN</para>
+</solution>
+</exercise>
+<exercise id="fs-idp51035456">
+<problem id="fs-idp214160">
+<para id="fs-idp43931056">¿Cuáles de las siguientes moléculas o iones contienen enlaces polares?</para>
+<para id="fs-idp64798368">(a) O<sub>3</sub></para>
+<para id="fs-idp73172304">(b) S<sub>8</sub></para>
+<para id="fs-idp88939568">(c) <m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp4309200">(d) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp253740944">(e) CO<sub>2</sub></para>
+<para id="fs-idp128497056">(f) H<sub>2</sub>S</para>
+<para id="fs-idp46941312">(g) <m:math><m:mrow><m:msub><m:mtext>BH</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm4648560">
+<term>longitud de enlace</term>
+<meaning id="fs-idp81401104">distancia entre los núcleos de dos átomos enlazados a la que se alcanza la menor energía potencial</meaning>
+</definition>
+<definition id="fs-idm100141920">
+<term>enlace covalente</term>
+<meaning id="fs-idp46161264">enlace que se forma cuando se comparten electrones entre átomos</meaning>
+</definition>
+<definition id="fs-idp28641840">
+<term>electronegatividad</term>
+<meaning id="fs-idp185988272">tendencia de un átomo a atraer electrones en un enlace hacia sí mismo</meaning>
+</definition>
+<definition id="fs-idp45896864">
+<term>enlace covalente polar</term>
+<meaning id="fs-idm70151840">enlace covalente entre átomos de diferente electronegatividad; un enlace covalente con un extremo positivo y otro negativo</meaning>
+</definition>
+<definition id="fs-idm47184144">
+<term>enlace covalente puro</term>
+<meaning id="fs-idp51384608">(también, enlace covalente no polar) enlace covalente entre átomos de idéntica electronegatividad</meaning>
+</definition>
+</glossary>
+</document>

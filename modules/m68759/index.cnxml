@@ -1,0 +1,202 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Comportamiento no ideal de los gases</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68759</md:content-id>
+  <md:title>Comportamiento no ideal de los gases</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list><item>Describir los factores físicos que conducen a las desviaciones del comportamiento de los gases ideales.</item>
+<item>Explicar cómo se representan estos factores en la ecuación de van der Waals.</item>
+<item>Definir la compresibilidad (Z) y describir cómo su variación con la presión refleja un comportamiento no ideal.</item>
+<item>Cuantificar el comportamiento no ideal comparando los cálculos de las propiedades de los gases utilizando la ley de los gases ideales y la ecuación de van der Waals.</item></list></md:abstract>
+  <md:uuid>6c7ade02-773b-44d1-945a-61ae6b0cc79b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm10764416">Hasta ahora, la ley de los gases ideales, <emphasis effect="italics">PV = nRT</emphasis>, se ha aplicado a diversos tipos de problemas, que van desde la estequiometría de las reacciones y los problemas de fórmulas empíricas y moleculares hasta la determinación de la densidad y la masa molar de un gas. Sin embargo, como se mencionó en los módulos anteriores de este capítulo, el comportamiento de un gas a menudo no es ideal, lo que significa que las leyes de los gases no describen con precisión las relaciones observadas entre su presión, volumen y temperatura. En esta sección, se consideran las razones de estas desviaciones del comportamiento del gas ideal.</para>
+<para id="fs-idp138594304">Una forma de juzgar la exactitud de <emphasis effect="italics">PV = nRT</emphasis> es comparando el volumen real de 1 mol de gas (su volumen molar, <emphasis effect="italics">V</emphasis><sub>m</sub>) con el volumen molar de un gas ideal a la misma temperatura y presión. Esta relación se denomina <term>factor de compresibilidad (Z)</term> con:</para>
+<equation class="unnumbered" id="fs-idp41001616"><m:math><m:mrow><m:mtext>Z</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>volumen molar de gas a la misma</m:mtext><m:mspace width="0.2em"/><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>y</m:mtext><m:mspace width="0.2em"/><m:mi>P</m:mi></m:mrow><m:mrow><m:mtext>volumen molar de gas ideal a la misma</m:mtext><m:mspace width="0.2em"/><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>y</m:mtext><m:mspace width="0.2em"/><m:mi>P</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mi>P</m:mi><m:msub><m:mi>V</m:mi><m:mi>m</m:mi></m:msub></m:mrow><m:mrow><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>medida</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm92799184">Por lo tanto, el comportamiento de un gas ideal se indica cuando esta relación es igual a 1, y cualquier desviación de 1 es una indicación de un comportamiento no ideal. La <link target-id="CNX_Chem_09_06_ZvsPgraph"/> muestra gráficos de Z en un amplio rango de presión para varios gases comunes.</para>
+<figure id="CNX_Chem_09_06_ZvsPgraph" class="scaled-down">
+<media id="fs-idp194949440" alt="Se muestra un gráfico. El eje horizontal está marcado como &quot;P ( a t m )&quot;. Su escala comienza en el cero con marcas proporcionadas por múltiplos de 200 hasta 1000. El eje vertical está marcado como &quot;Z le( k P a )&quot;. Esta escala comienza en cero e incluye múltiplos de 0,5 hasta 2,0. Se dibujan seis curvas de distintos colores. Una de estas curvas es una línea horizontal, de color púrpura claro, que se extiende a la derecha de 1,0 k P a en el eje vertical, y está marcada como &quot;Gas ideal&quot;. La región del gráfico por debajo de esta línea está sombreada en color canela. Las demás curvas también comienzan en el mismo punto del eje vertical. Una línea naranja se extiende hasta la esquina superior derecha del gráfico, alcanzando un valor de aproximadamente 1,7 k P a a 1000 a t m. Esta curva naranja está marcada como &quot;H subíndice 2&quot;. La curva azul se sitúa inicialmente por debajo de la línea horizontal del gas ideal y luego aumenta hasta cruzar la línea justo después de 200 a t m. Esta curva alcanza un valor de casi 2,0 k P a a unos 800 a t m. Esta curva está marcada como &quot;N subíndice 2&quot;. Una curva roja se sumerge inicialmente por debajo de la línea horizontal del gas ideal y luego aumenta hasta cruzar la línea justo después de 400 a t m. Esta curva alcanza un valor de casi 1,5 k P a en torno a 750 a t m. Esta curva está marcada como &quot;O subíndice 2&quot;. Una curva púrpura se sumerge por debajo de la línea horizontal del gas ideal, cayendo incluso más bajo que la curva del subíndice 2 de O inicialmente, y luego aumenta hasta cruzar la línea del gas ideal a unos 400 a t m. Esta curva alcanza un valor de casi 2,0 k P a a unos 850 a t m. Esta curva está marcada como &quot;C H subíndice 4&quot;. Una curva amarilla se sumerge por debajo de la línea horizontal del gas ideal, bajando más que las otras curvas hasta un mínimo de aproximadamente 0,4 k P a a unos 0,75 a t m, y luego aumenta hasta cruzar la línea del gas ideal a unos 500 a t m. Esta curva alcanza un valor de aproximadamente 1,6 k P a en torno a los 900 a t m. Esta curva está marcada como &quot;C O subíndice 2&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_06_ZvsPgraph.jpg"/>
+</media>
+<caption>Un gráfico del factor de compresibilidad (Z) frente a la presión muestra que los gases pueden presentar desviaciones significativas del comportamiento predicho por la ley de los gases ideales.</caption>
+</figure>
+<para id="fs-idp70317840">Como se desprende de la <link target-id="CNX_Chem_09_06_ZvsPgraph"/>, la ley de los gases ideales no describe bien el comportamiento de los gases a presiones relativamente altas. Para determinar el porqué de esto, considere las diferencias entre las propiedades reales de los gases y lo que se espera de un gas ideal hipotético.</para>
+<para id="fs-idp26015584">Las partículas de un hipotético gas ideal no tienen un volumen significativo y no se atraen ni se repelen. En general, los gases reales se aproximan a este comportamiento a presiones relativamente bajas y temperaturas altas. Sin embargo, a altas presiones, las moléculas de un gas se apiñan más y la cantidad de espacio vacío entre las moléculas se reduce. A estas presiones más altas, el volumen de las propias moléculas del gas se vuelve apreciable en relación con el volumen total ocupado por el gas. Por lo tanto, el gas se vuelve menos compresible a estas altas presiones, y aunque su volumen sigue disminuyendo con el aumento de la presión, esta disminución no es <emphasis effect="italics">proporcional</emphasis> como predice la ley de Boyle.</para>
+<para id="fs-idp46559584">A presiones relativamente bajas, las moléculas del gas prácticamente no se atraen entre sí porque están (en promedio) muy separadas, y se comportan casi como partículas de un gas ideal. Sin embargo, a mayores presiones, la fuerza de atracción ya no es insignificante. Esta fuerza acerca un poco más las moléculas, disminuyendo ligeramente la presión (si el volumen es constante) o disminuyendo el volumen (a presión constante) (<link target-id="CNX_Chem_09_06_RealGas2"/>). Este cambio es más pronunciado a bajas temperaturas porque las moléculas tienen una energía cinética (kinetic energy, KE) más baja en relación con las fuerzas de atracción, por lo que son menos efectivas a la hora de superar estas atracciones tras colisionar unas con otras.</para>
+<figure id="CNX_Chem_09_06_RealGas2">
+<media id="fs-idm161409328" alt="Esta figura incluye dos diagramas. Cada uno de ellos consta de dos casillas de color lavanda que contienen 14 esferas púrpuras distribuidas de forma relativamente uniforme. La primera casilla de la izquierda está marcada como &quot;ideal&quot;. En el segundo recuadro, ligeramente más pequeño, a la derecha, una esfera púrpura situada casi en el centro tiene 6 flechas de dos cabezas que se extienden desde ella hacia las esferas cercanas. Esta caja está marcada como &quot;real&quot;. En b, en la primera casilla de la izquierda, una sola flecha señala una esfera púrpura en el lado derecho que parece estar moviéndose e impactando en el lado derecho de la casilla. No hay otras esferas situadas cerca del borde derecho. Esta casilla está marcada como &quot;ideal&quot;. La segunda casilla, a la derecha, muestra la misma imagen pero tiene 5 flechas de doble cabeza que irradian hacia arriba, abajo y a la izquierda hacia otras esferas. Esta caja está marcada como &quot;real&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_06_RealGas2.jpg"/>
+</media>
+<caption>(a) Las atracciones entre las moléculas del gas sirven para disminuir el volumen del gas a presión constante en comparación con un gas ideal cuyas moléculas no experimentan fuerzas de atracción. (b) Estas fuerzas de atracción disminuirán la fuerza de las colisiones entre las moléculas y las paredes del recipiente, por lo que se reduce la presión ejercida a volumen constante en comparación con un gas ideal.</caption>
+</figure>
+<para id="fs-idm16170960">Hay varias ecuaciones diferentes que aproximan mejor el comportamiento de los gases que la ley de los gases ideales. La primera y más sencilla fue desarrollada por el científico holandés Johannes van der Waals en 1879. La <term>ecuación de Van der Waals</term> mejora la ley de los gases ideales añadiendo dos términos: uno para tener en cuenta el volumen de las moléculas del gas y otro para las fuerzas de atracción entre ellas.</para>
+<media id="fs-idm139964416" alt="Esta figura muestra la ecuación P V es igual a n R T, con la P en texto azul y la V en texto rojo. Esta ecuación va seguida de una flecha que apunta a la derecha. Tras esta flecha, a la derecha en texto azul aparece la ecuación ( P menos a n superíndice 2 dividido entre V al cuadrado )&quot;, a la que sigue el texto rojo ( V menos n b ). A esto sigue con un texto en negro: &quot;igual a n R T&quot;. Debajo de la segunda ecuación aparece la marca &quot;Corrección por atracción molecular&quot; que está conectada con un segmento de línea a V al cuadrado. Una segunda marca, &quot;Corrección del volumen de las moléculas&quot;, está igualmente conectada a n b que aparece en rojo." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_06_vanderWaals_img.jpg"/>
+</media>
+<para id="fs-idm12594352">La constante <emphasis effect="italics">a</emphasis> corresponde a la fuerza de atracción entre las moléculas de un determinado gas, y la constante <emphasis effect="italics">b</emphasis> corresponde al tamaño de las moléculas de un determinado gas. La "corrección" del término de presión en la ley de los gases ideales es <m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2 </m:mn></m:msup><m:mi>a</m:mi></m:mrow><m:mrow><m:msup><m:mi>V</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> y la "corrección" del volumen es <emphasis effect="italics">nb</emphasis>. Note que cuando <emphasis effect="italics">V</emphasis> es relativamente grande y <emphasis effect="italics">n</emphasis> es relativamente pequeño, ambos términos de corrección se vuelven despreciables, y la ecuación de van der Waals se reduce a la ley del gas ideal, <emphasis effect="italics">PV = nRT</emphasis>. Esta condición corresponde a un gas en el que un número relativamente bajo de moléculas ocupa un volumen relativamente grande, es decir, un gas a una presión relativamente baja. Los valores experimentales de las constantes de Van der Waals de algunos gases comunes se indican en la <link target-id="fs-idm15100464"/>.</para>
+<table class="top-titled" id="fs-idm15100464" summary="Esta tabla tiene tres columnas y siete filas. La primera fila es un encabezado, y marca cada columna, &quot;Gas&quot;, &quot;a ( L a la segunda potencia a t m dividido entre m o l a la segunda potencia )&quot;, &quot;b ( L dividido entre m o l )&quot;. En la columna &quot;Gas&quot; se encuentran los siguientes: N subíndice 2, O subíndice 2, C O subíndice 2, H subíndice 2 O, H e y C C l subíndice 4. En &quot;a ( L a la segunda potencia a t m dividido entre m o l a la segunda potencia )&quot; se encuentra lo siguiente: 1,39, 1,36, 3,59, 5,46, 0,0342, y 20,4. En &quot;b ( L dividido entre m o l )&quot; se encuentra lo siguiente: 0,0391, 0,0318, 0,0427, 0,0305, 0,0237 y 0,1383.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry namest="c1" nameend="c3" align="center">Valores de las constantes de van der Waals para algunos gases comunes</entry>
+</row>
+<row valign="top">
+<entry align="left">Gas</entry>
+<entry align="left"><emphasis effect="italics">a</emphasis> (L<sup>2</sup> atm/mol<sup>2</sup>)</entry>
+<entry align="left"><emphasis effect="italics">b</emphasis> (L/mol)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">N<sub>2</sub></entry>
+<entry align="left">1,39</entry>
+<entry align="left">0,0391</entry>
+</row>
+<row valign="top">
+<entry align="left">O<sub>2</sub></entry>
+<entry align="left">1,36</entry>
+<entry align="left">0,0318</entry>
+</row>
+<row valign="top">
+<entry align="left">CO<sub>2</sub></entry>
+<entry align="left">3,59</entry>
+<entry align="left">0,0427</entry>
+</row>
+<row valign="top">
+<entry align="left">H<sub>2</sub>O</entry>
+<entry align="left">5,46</entry>
+<entry align="left">0,0305</entry>
+</row>
+<row valign="top">
+<entry align="left">He</entry>
+<entry align="left">0,0342</entry>
+<entry align="left">0,0237</entry>
+</row>
+<row valign="top">
+<entry align="left">CCl<sub>4</sub></entry>
+<entry align="left">20,4</entry>
+<entry align="left">0,1383</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp95888368">A bajas presiones, la corrección por la atracción intermolecular, <emphasis effect="italics">a</emphasis>, es más importante que la del volumen molecular, <emphasis effect="italics">b</emphasis>. A altas presiones y pequeños volúmenes, la corrección del volumen de las moléculas se vuelve importante porque las propias moléculas son incompresibles y constituyen una fracción apreciable del volumen total. A cierta presión intermedia, las dos correcciones tienen influencias opuestas y el gas parece seguir la relación dada por <emphasis effect="italics">PV = nRT</emphasis> en un pequeño rango de presiones. Este comportamiento se refleja en las "caídas" de varias de las curvas de compresibilidad que se muestran en la <link target-id="CNX_Chem_09_06_ZvsPgraph"/>. La fuerza de atracción entre las moléculas hace que, inicialmente, el gas sea más compresible que un gas ideal, a medida que aumenta la presión (Z disminuye al aumentar <emphasis effect="italics">P</emphasis>). A presiones muy altas, el gas se vuelve menos compresible (Z aumenta con <emphasis effect="italics">P</emphasis>), ya que las moléculas de gas comienzan a ocupar una fracción cada vez más significativa del volumen total del gas.</para>
+<para id="fs-idp87631424">En sentido estricto, la ecuación del gas ideal funciona bien cuando las atracciones intermoleculares entre las moléculas del gas son despreciables y las propias moléculas del gas no ocupan una parte apreciable de todo el volumen. Estos criterios se cumplen en condiciones de <emphasis effect="italics">baja presión y alta temperatura</emphasis>. En tales condiciones, se dice que el gas se comporta de forma ideal, y las desviaciones de las leyes de los gases son lo suficientemente pequeñas como para no tenerlas en cuenta; sin embargo, esto no suele ser así.</para>
+<example id="fs-idp133812128">
+<para id="fs-idm26240"><title>Comparación de la ley de los gases ideales y la ecuación de van der Waals</title>
+Un matraz de 4,25 L contiene 3,46 mol de CO<sub>2</sub> a 229 °C. Calcule la presión de esta muestra de CO<sub>2</sub>:</para>
+<para id="fs-idm66840432">a) por la ley de los gases ideales</para>
+<para id="fs-idp5462416">(b) por la ecuación de van der Waals</para>
+<para id="fs-idm139915872">(c) Explique la(s) razón(es) de la diferencia.</para>
+<para id="fs-idp71956336"><title>Solución</title>
+(a) Por la ley de los gases ideales:</para>
+<equation class="unnumbered" id="fs-idm23230176"><m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mi>V</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3,46</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,08206</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mtext>K</m:mtext><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>502</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>K</m:mtext></m:menclose></m:mrow><m:mrow><m:mn>4,25</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>33,5</m:mn><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp14703728">(b) Por la ecuación de van der Waals:</para>
+<equation class="unnumbered" id="fs-idm122220784"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>P</m:mi><m:mo>+</m:mo><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2 </m:mn></m:msup><m:mi>a</m:mi></m:mrow><m:mrow><m:msup><m:mi>V</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>V</m:mi><m:mo>-</m:mo><m:mi>n</m:mi><m:mi>b</m:mi></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>=</m:mo><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>P</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>V</m:mi><m:mo>-</m:mo><m:mi>n</m:mi><m:mi>b</m:mi></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2 </m:mn></m:msup><m:mi>a</m:mi></m:mrow><m:mrow><m:msup><m:mi>V</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+
+<equation class="unnumbered" id="fs-idp204240560">Los términos <m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3,46</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,08206</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>502 K</m:mtext></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4,25</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext><m:mo>-</m:mo><m:mn>3,46</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,0427</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3,46</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>3,59</m:mn><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4,25</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp24938016">El resultado final es <emphasis effect="italics">P</emphasis> = 32,4 atm.</para>
+<para id="fs-idp70504128">(c) Esto difiere mucho del valor de la ley de los gases ideales porque la presión no es muy alta y la temperatura no es muy baja. El valor es algo diferente porque las moléculas de CO<sub>2</sub> sí tienen cierto volumen y atracciones entre las moléculas, y la ley de los gases ideales supone que no tienen volumen ni atracciones.</para>
+<para id="fs-idp8228960"><title>Compruebe lo aprendido</title>
+Un matraz de 560 mL contiene 21,3 g de N<sub>2</sub> a 145 °C. Calcule la presión del N<sub>2</sub>:</para>
+<para id="fs-idm52984064">a) por la ley de los gases ideales</para>
+<para id="fs-idp68055984">(b) por la ecuación de van der Waals</para>
+<para id="fs-idm24430976">(c) Explique la(s) razón(es) de la diferencia.</para>
+<note id="fs-idm71592544">
+<title>Respuesta:</title>
+<para id="fs-idp6517264">(a) 46,562 atm; (b) 46,594 atm; (c) La ecuación de van der Waals tiene en cuenta el volumen de las propias moléculas del gas, así como las atracciones intermoleculares.</para>
+</note>
+</example>
+<section id="fs-idp83168080" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm3555504">Las moléculas de los gases poseen un volumen finito y experimentan fuerzas de atracción entre sí. En consecuencia, el comportamiento de los gases no se describe necesariamente bien mediante la ley de los gases ideales. En condiciones de baja presión y alta temperatura, estos factores son despreciables, la ecuación del gas ideal es una descripción exacta del comportamiento del gas, y se dice que el gas muestra un comportamiento ideal. Sin embargo, a temperaturas más bajas y presiones más altas, se requieren correcciones para el volumen molecular y las atracciones moleculares para tener en cuenta el tamaño molecular finito y las fuerzas de atracción. La ecuación de van der Waals es una versión modificada de la ley de los gases ideales que puede utilizarse para explicar el comportamiento no ideal de los gases en estas condiciones.</para></section>
+<section id="fs-idm24142800" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mtext>Z</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>molar</m:mtext><m:mspace width="0.2em"/><m:mtext>volumen de gas a la misma</m:mtext><m:mspace width="0.2em"/><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>y</m:mtext><m:mspace width="0.2em"/><m:mi>P</m:mi></m:mrow><m:mrow><m:mtext>volumen molar de gas ideal a la misma</m:mtext><m:mspace width="0.2em"/><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>y</m:mtext><m:mspace width="0.2em"/><m:mi>P</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mi>P</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msub><m:mi>V</m:mi><m:mi>m</m:mi></m:msub></m:mrow><m:mrow><m:mi>R</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>T</m:mi></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>medida</m:mtext></m:mrow></m:msub></m:mrow></m:math></entry>
+</row>
+<row><entry>Los términos <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>P</m:mi><m:mo>+</m:mo><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2 </m:mn></m:msup><m:mi>a</m:mi></m:mrow><m:mrow><m:msup><m:mi>V</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>V</m:mi><m:mo>-</m:mo><m:mi>n</m:mi><m:mi>b</m:mi></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>=</m:mo><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idp25013184" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idm14870688">
+<problem id="fs-idp141055504">
+<para id="fs-idm139673280">A continuación se muestran los gráficos del comportamiento de varios gases diferentes. ¿Cuál de estos gases presenta un comportamiento significativamente diferente al esperado en los gases ideales?</para>
+<media id="fs-idp4796912" alt="Esta figura incluye 6 gráficos. El primero, marcado como &quot;Gas A&quot;, tiene un eje horizontal marcado como &quot;Temperatura&quot; y un eje vertical marcado como &quot;Volumen&quot;. Un segmento de línea recta azul se extiende desde la parte inferior izquierda hasta la superior derecha de este gráfico. El área abierta en la parte inferior derecha del gráfico contiene la marca &quot;n, P constante&quot;. El segundo, marcado como &quot;Gas B&quot;, tiene un eje horizontal marcado como &quot;P&quot; y un eje vertical marcado como &quot;P V&quot;. Un segmento de línea recta azul se extiende horizontalmente por el centro de este gráfico. El área abierta en la parte inferior derecha del gráfico contiene la marca &quot;n, T constante&quot;. El tercero, marcado como &quot;Gas C&quot;, tiene un eje horizontal marcado como &quot;P V dividido por R T&quot; y un eje vertical marcado como &quot;Moles&quot;. Una curva azul comienza aproximadamente en la mitad del eje vertical, desciende ligeramente y luego aumenta de forma constante hasta la región superior derecha del gráfico. El cuarto, que está marcado como &quot;Gas D&quot;, tiene un eje horizontal marcado como &quot;P V dividido por R T&quot; y un eje vertical marcado como &quot;Moles&quot;. Un segmento de línea recta azul se extiende horizontalmente por el centro de este gráfico. El área abierta en la parte inferior derecha del gráfico contiene la marca &quot;n, P constante&quot;. El quinto, marcado como &quot;Gas E&quot;, tiene un eje horizontal marcado como &quot;Temperatura&quot; y un eje vertical marcado como &quot;Volumen&quot;. Una curva azul se extiende desde la parte inferior izquierda hasta la superior derecha de este gráfico. El área abierta en la parte inferior derecha del gráfico contiene la marca &quot;n, P constante&quot;. El sexto gráfico, marcado como &quot;Gas F&quot;, tiene un eje horizontal marcado como &quot;Temperatura&quot; y un eje vertical marcado como &quot;Presión&quot;. Una curva azul comienza hacia la región inferior izquierda del gráfico, aumenta a un ritmo rápido y luego sigue aumentando a un ritmo relativamente lento moviéndose de izquierda a derecha a través del gráfico. El área abierta en la parte inferior derecha del gráfico tiene la marca &quot;n, V constante&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_06_Exercise1_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idm13752624">
+<para id="fs-idm25923008">Gases C, E y F</para></solution>
+</exercise>
+<exercise id="fs-idp200327600">
+<problem id="fs-idm12532832">
+<para id="fs-idp99769680">Explique por qué el gráfico de <emphasis effect="italics">PV</emphasis> para el CO<sub>2</sub> difiere de la de un gas ideal.</para>
+<media id="fs-idp12016592" alt="Se muestra un gráfico. El eje horizontal está marcado como &quot;P ( a t m )&quot;. Su escala está marcada en 0, 1 y 2. El eje vertical está marcado como &quot;P V ( a t m L )&quot;. Esta escala incluye marcas en 0, 22,4, 22,5 y 22,6. Se dibujan dos curvas y dos líneas de distintos colores. Una es una línea azul horizontal que se extiende hacia la derecha desde aproximadamente 22,42 a t m L en el eje vertical, y está marcada como &quot;Gas ideal&quot;. Las dos curvas restantes y una línea comienzan en el mismo punto del eje vertical. Una línea verde se extiende hacia arriba y hacia la derecha ligeramente en el gráfico, alcanzando un valor de aproximadamente 22,46 a t m L a las 2 a t m. Esta línea verde está marcada como &quot;H e&quot;. Una curva naranja se sumerge inicialmente por debajo de la línea horizontal del gas ideal y luego aumenta hasta cruzar la línea justo después de 1 a t m. Esta curva alcanza un valor de aproximadamente 22,52 a t m L a las 2 a t m. Esta curva está marcada como &quot;C H subíndice 4&quot;. Una curva púrpura se sumerge inicialmente por debajo de la línea horizontal del gas ideal y luego aumenta hasta cruzar la línea a unos 0,8 a t m. Esta curva alcanza un valor de casi 22,62 a t m L a casi 1,2 a t m. Esta curva está marcada como &quot;C O subíndice 2&quot;." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_06_RealGases.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm29887312">
+<problem id="fs-idm22648064">
+<para id="fs-idm67092976">¿Bajo cuál de los siguientes conjuntos de condiciones un gas real se comporta más como un gas ideal, y en qué condiciones se espera que un gas real se desvíe del comportamiento ideal? Explique.</para>
+<para id="fs-idm93192160">(a) alta presión, pequeño volumen</para>
+<para id="fs-idp46639136">b) alta temperatura, baja presión</para>
+<para id="fs-idm50151104">c) baja temperatura, alta presión</para>
+</problem>
+<solution id="fs-idp166785728">
+<para id="fs-idm86729712">El comportamiento del gas más parecido a un gas ideal se producirá en las condiciones de (b). Las moléculas tienen altas velocidades y se mueven a través de mayores distancias entre colisiones; también tienen tiempos de contacto más cortos y las interacciones son menos probables. Las desviaciones se producen con las condiciones descritas en (a) y (c). En las condiciones de (a), algunos gases pueden licuarse. En las condiciones de (c), la mayoría de los gases se licúan.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm58636672">
+<problem id="fs-idp20572816">
+<para id="fs-idm25283104">Describa los factores responsables de la desviación del comportamiento de los gases reales con respecto al de un</para>
+<para id="fs-idp20157600">gas ideal.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp137909616">
+<problem id="fs-idp145170976">
+<para id="fs-idp14775088">En cuál de los siguientes gases debe ser mayor la corrección del volumen molecular:</para>
+<para id="fs-idp183905312">CO, CO<sub>2</sub>, H<sub>2</sub>, He, NH<sub>3</sub>, SF<sub>6</sub>?</para>
+</problem>
+<solution id="fs-idm140362336">
+<para id="fs-idp166227744">SF<sub>6</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idm23432208">
+<problem id="fs-idm14492800">
+<para id="fs-idm21675952">Un matraz de 0,245 L contiene 0,467 mol de CO<sub>2</sub> a 159 °C. Calcule la presión:</para>
+<para id="fs-idm25312816">a) utilizando la ley de los gases ideales</para>
+<para id="fs-idp82472240">b) utilizando la ecuación de van der Waals</para>
+<para id="fs-idm50198336">(c) Explique la razón de la diferencia.</para>
+<para id="fs-idm91663776">(d) Identifique qué corrección (la de P o la de V) es dominante y por qué.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm89275552">
+<problem id="fs-idp45753600">
+<para id="fs-idp35689520">Responda a las siguientes preguntas:</para>
+<para id="fs-idp40148288">(a) Si XX se comportara como un gas ideal, ¿qué aspecto tendría su gráfico de Z frente a P?</para>
+<para id="fs-idm51678160">(b) En la mayor parte de este capítulo, hemos realizado cálculos tratando los gases como ideales. ¿Eso estaba justificado?</para>
+<para id="fs-idm94302800">(c) ¿Cuál es el efecto del volumen de moléculas de gas en Z? ¿En qué condiciones este efecto es pequeño? ¿Cuándo es grande? Explíquelo utilizando un diagrama apropiado.</para>
+<para id="fs-idp70053648">(d) ¿Cuál es el efecto de las atracciones intermoleculares sobre el valor de Z? ¿En qué condiciones este efecto es pequeño? ¿Cuándo es grande? Explíquelo utilizando un diagrama apropiado.</para>
+<para id="fs-idm60019952">(e) En general, ¿en qué condiciones de temperatura esperaría que Z tuviera las mayores desviaciones respecto a la Z de un gas ideal?</para>
+</problem>
+<solution id="fs-idm46435024">
+<para id="fs-idp26561024">(a) Una línea recta horizontal a 1,0; (b) Cuando los gases reales están a bajas presiones y altas temperaturas, se comportan lo suficientemente cerca de los gases ideales como para aproximarse a ellos; sin embargo, en algunos casos, vemos que a una presión y temperatura altas, la aproximación del gas ideal se rompe y es significativamente diferente de la presión calculada por la ecuación del gas ideal. (c) Cuanto mayor sea la compresibilidad, más importa el volumen. A bajas presiones, el factor de corrección de las atracciones intermoleculares es más importante, y el efecto del volumen de las moléculas del gas sobre Z sería una pequeña disminución de la compresibilidad. A presiones más altas, el efecto del volumen de las propias moléculas del gas sobre Z aumentaría la compresibilidad (vea la <link target-id="CNX_Chem_09_06_ZvsPgraph"/>). (d) Una vez más, a bajas presiones, el efecto de las atracciones intermoleculares sobre Z sería más importante que el factor de corrección del volumen de las propias moléculas del gas, aunque quizá siga siendo pequeño. A mayores presiones y bajas temperaturas, el efecto de las atracciones intermoleculares sería mayor. Vea la <link target-id="CNX_Chem_09_06_ZvsPgraph"/>. (e) Bajas temperaturas</para></solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp3716528"><term>factor de compresibilidad (Z)</term><meaning id="fs-idm15009552">relación entre el volumen molar medido experimentalmente para un gas y su volumen molar calculado a partir de la ecuación de los gases ideales.</meaning></definition>
+<definition id="fs-idm15517248"><term>ecuación de van der Waals</term><meaning id="fs-idp78092352">versión modificada de la ecuación del gas ideal que contiene términos adicionales para tener en cuenta el comportamiento del gas no ideal.</meaning></definition>
+</glossary>
+</document>

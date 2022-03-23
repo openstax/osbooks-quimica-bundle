@@ -1,0 +1,643 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Estructura atómica y simbolismo</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68692</md:content-id>
+  <md:title>Estructura atómica y simbolismo</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Escribir e interpretar los símbolos que representan el número atómico, el número de masa y la carga de un átomo o un ion.</item>
+<item>Definir la unidad de masa atómica y la masa atómica media.</item>
+<item>Calcular la masa atómica media y la abundancia isotópica.</item>
+</list></md:abstract>
+  <md:uuid>e82ac421-e027-4ba2-8c34-2b8bdde7f3dc</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp188136384">El desarrollo de la teoría atómica moderna reveló mucho sobre la estructura interna de los átomos. Se aprendió que un átomo contiene un núcleo muy pequeño compuesto por protones con carga positiva y neutrones sin carga, rodeado por un volumen de espacio mucho mayor que contiene electrones con carga negativa. El núcleo contiene la mayor parte de la masa de un átomo porque los protones y los neutrones son mucho más pesados que los electrones, mientras que éstos ocupan casi todo el volumen del átomo. El diámetro de un átomo es del orden de 10<sup>-10</sup> m, mientras que el diámetro del núcleo es de aproximadamente 10<sup>-15</sup> m, aproximadamente unas 100,000 veces menor. Para tener una perspectiva sobre sus tamaños relativos, tome en cuenta esto: Si el núcleo fuera del tamaño de un arándano, el átomo tendría el tamaño de un estadio de fútbol (<link target-id="CNX_Chem_02_03_AtomSize"/>).</para>
+<figure id="CNX_Chem_02_03_AtomSize">
+<media id="fs-idm200317952" alt="El diagrama de la izquierda muestra una imagen de un átomo de 10 a la décima potencia negativa metros de diámetro. El núcleo está marcado en el centro del átomo y mide 10 a la decimoquinta potencia negativa metros. La figura central muestra una fotografía de un estadio de fútbol americano. La figura de la derecha muestra una fotografía de una persona con un puñado de arándanos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_03_AtomSize.jpg"/>
+</media>
+<caption>Si un átomo pudiera expandirse hasta alcanzar el tamaño de un estadio de fútbol, el núcleo tendría el tamaño de un solo arándano (créditos de la imagen central: modificación de la obra de "babyknight"/Wikimedia Commons; créditos de la imagen de la derecha: modificación de la obra de Paxson Woelber).</caption>
+</figure>
+<para id="fs-idm171776576">Los átomos, y los protones, neutrones y electrones que los componen, son extremadamente pequeños. Por ejemplo, un átomo de carbono pesa menos de 2 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>-23</sup> g, y un electrón tiene una carga inferior a 2 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>-19</sup> (culombio). Al describir las propiedades de objetos diminutos como los átomos, utilizamos unidades de medida adecuadamente pequeñas, como la <term>unidad de masa atómica (uma o su equivalente u)</term> y la <term>unidad de carga fundamental (e)</term>. La u se definió originalmente en función del hidrógeno, el elemento más ligero, y posteriormente en función del oxígeno. Desde 1961, se define con respecto al isótopo más abundante del carbono, cuyos átomos tienen asignadas masas de exactamente 12 u. (Este isótopo se conoce como "carbono-12", como se verá más adelante en este módulo). Por lo tanto, una u es exactamente <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac></m:mrow></m:math> de la masa de un átomo de carbono-12: 1 u = 1,6605 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>-24</sup> g. (El <term>Dalton (Da)</term> y la <term>unidad de masa atómica unificada (u)</term> son unidades alternativas equivalentes a la uma). La unidad fundamental de carga (también llamada carga elemental) es igual a la magnitud de la carga de un electrón (e) donde e = 1,602 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>-19</sup> C.</para>
+<para id="fs-idm166273840">Un protón tiene una masa de 1,0073 u y una carga de 1+. Un neutrón es una partícula ligeramente más pesada con una masa de 1,0087 u y una carga de cero; como su nombre indica, es neutral. El electrón tiene una carga de 1, y es una partícula mucho más ligera con una masa de aproximadamente 0,00055 u (se necesitarían unos 1800 electrones para igualar la masa de un protón). Las propiedades de estas partículas fundamentales se resumen en la <link target-id="fs-idp90857696"/>. (Un estudiante observador podría notar que la suma de las partículas subatómicas de un átomo no es igual a la masa real del átomo: La masa total de seis protones, seis neutrones y seis electrones es de 12,0993 u, ligeramente mayor que 12,00 u. Esta masa "ausente" se conoce como defecto de masa, y lo aprenderá en el capítulo de química nuclear).</para><table id="fs-idp90857696" class="top-titled" summary="Esta tabla indica el nombre, la ubicación, la carga en C, la carga unitaria, la masa en A M U y la masa en gramos de los electrones, protones y neutrones. Los electrones se encuentran fuera del núcleo, tienen una carga negativa de 1,602 por 10 a la decimonovena potencia negativa, una carga unitaria de 1 negativo y una masa de 0,00055 A M U o 0,00091 por 10 a la vigésima cuarta potencia negativa gramos. Los protones se encuentran dentro del núcleo, tienen una carga de 1,602 por 10 a la decimonovena potencia negativa, tienen una carga unitaria de 1 positivo y tienen una masa de 1,0073 A M U o 1,6726 por 10 a la vigésima cuarta potencia negativa gramos. Los neutrones se encuentran dentro del núcleo, tienen una carga de 0, tienen una carga unitaria de 0 y tienen una masa de 1,0087 A M U o 1,6749 por 10 a la vigésima cuarta potencia negativa gramos.">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c6" align="center">Propiedades de las partículas subatómicas</entry>
+</row>
+<row valign="top">
+<entry align="center">Nombre</entry><entry align="center">Ubicación</entry><entry align="center">Carga (C)</entry><entry align="center">Unidad de carga</entry><entry align="center">Masa (u)</entry><entry align="center">Masa (g)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="center">electrón</entry>
+<entry align="center">núcleo exterior</entry>
+<entry align="center">-1,602 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−19</sup></entry>
+<entry align="center">1−</entry>
+<entry align="center">0,00055</entry>
+<entry align="center">0,00091 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−24</sup></entry>
+</row>
+<row valign="top">
+<entry align="center">protón</entry>
+<entry align="center">núcleo</entry>
+<entry align="center">1,602 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math>10<sup>-19</sup></entry>
+<entry align="center">1+</entry>
+<entry align="center">1,00727</entry>
+<entry align="center">1,67262 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−24</sup></entry>
+</row>
+<row valign="top">
+<entry align="center">neutrón</entry>
+<entry align="center">núcleo</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">1,00866</entry>
+<entry align="center">1,67493 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−24</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp27048016">El número de protones en el núcleo de un átomo es su <term>número atómico (Z)</term>. Es el rasgo que define a un elemento: Su valor determina la identidad del átomo. Por ejemplo, cualquier átomo que contenga seis protones es el elemento carbono y tiene el número atómico 6, independientemente del número de neutrones o electrones que pueda tener. Un átomo neutro debe contener el mismo número de cargas positivas y negativas, por lo que el número de protones es igual al número de electrones. Por lo tanto, el número atómico también indica el número de electrones de un átomo. El número total de protones y neutrones de un átomo se denomina <term>número de masa (A)</term>. El número de neutrones es, por tanto, la diferencia entre el número de masa y el número atómico: A – Z = número de neutrones.</para>
+<equation id="fs-idp109266704" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>número atómico</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>Z</m:mtext><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>número de protones</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mtext>número de masa</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>A</m:mtext><m:mo stretchy="false">).</m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>número de protones</m:mtext><m:mo>+</m:mo><m:mtext>número de neutrones</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mtext>A</m:mtext><m:mo>-</m:mo><m:mtext>Z</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>número de neutrones</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm159569776">Los átomos son eléctricamente neutros si contienen el mismo número de protones con carga positiva y de electrones con carga negativa. Cuando los números de estas partículas subatómicas <emphasis effect="italics">no</emphasis> son iguales, el átomo está cargado eléctricamente y se llama <term>ion</term>. La carga de un átomo se define de la siguiente forma:</para>
+<para id="fs-idp142952368">Carga atómica = número de protones − número de electrones</para>
+<para id="fs-idp59351760">Como se verá con más detalle más adelante en este capítulo, los átomos (y las moléculas) suelen adquirir carga al ganar o perder electrones. Un átomo que gana uno o más electrones mostrará una carga negativa y se llama <term>anión</term>. Los átomos con carga positiva, llamados <term>cationes</term>, se forman cuando un átomo pierde uno o más electrones. Por ejemplo, un átomo de sodio neutro (Z = 11) tiene 11 electrones. Si este átomo pierde un electrón, se convertirá en un catión con carga 1+ (11 - 10 = 1+). Un átomo de oxígeno neutro (Z = 8) tiene ocho electrones, y si gana dos electrones se convertirá en un anión con carga 2 (8 - 10 = 2-).</para>
+<example id="fs-idm5511728">
+<para id="fs-idm54131248">
+<title>Composición de un átomo</title>
+El yodo es un oligoelemento esencial en nuestra dieta; es necesario para producir la hormona tiroidea. Una cantidad insuficiente de yodo en la dieta puede provocar el desarrollo de un bocio, un agrandamiento de la glándula tiroides (<link target-id="CNX_Chem_02_03_Iodine"/>).</para>
+<figure id="CNX_Chem_02_03_Iodine" class="scaled-down">
+<media id="fs-idp203630528" alt="La figura A muestra una foto de una persona que tiene la tiroides muy inflamada en el cuello. La figura B muestra una foto de un envase de sal yodada.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_03_Iodine.jpg"/>
+</media>
+<caption>(a) Una cantidad insuficiente de yodo en la dieta puede causar un agrandamiento de la glándula tiroides llamado bocio. (b) La adición de pequeñas cantidades de yodo a la sal, que previene la formación de bocios, ha ayudado a eliminar esta preocupación en los EE. UU., donde el consumo de sal es elevado (créditos a: modificación de la obra de "Almazi"/Wikimedia Commons; créditos b: modificación de la obra de Mike Mozart).</caption>
+</figure>
+<para id="fs-idm90509824">La adición de pequeñas cantidades de yodo a la sal de mesa (sal yodada) ha eliminado esencialmente este problema de salud en los Estados Unidos, pero casi el 40 % de la población mundial sigue corriendo el riesgo de sufrir una carencia de yodo. Los átomos de yodo se añaden como aniones, y cada uno tiene una carga de 1-  y un número de masa de 127. Determine el número de protones, neutrones y electrones en uno de estos aniones de yodo.</para>
+<para id="fs-idp104898720"><title>Solución</title>El número atómico del yodo (53) nos dice que un átomo neutro de yodo contiene 53 protones en su núcleo y 53 electrones fuera de él. Como la suma de los números de protones y neutrones es igual al número de masa, 127, el número de neutrones es 74 (127 - 53 = 74). Como el yodo se añade como anión 1-, el número de electrones es 54 [53 - (1-) = 54].</para><para id="fs-idp39901584"><title>Compruebe lo aprendido</title>Un ion de platino tiene un número de masa de 195 y contiene 74 electrones. ¿Cuántos protones y neutrones contiene y cuál es su carga?</para><note id="fs-idm45247680">
+<title>Respuesta:</title>
+<para id="fs-idp59061008">78 protones; 117 neutrones; la carga es 4+</para>
+</note>
+</example>
+<section id="fs-idm176092496">
+<title>Símbolos químicos</title>
+<para id="fs-idm48306304">Un <term>símbolo químico</term> es una abreviatura que utilizamos para indicar un elemento o un átomo de un elemento. Por ejemplo, el símbolo del mercurio es Hg (<link target-id="CNX_Chem_02_03_SiSymbol"/>). Utilizamos el mismo símbolo para indicar un átomo de mercurio (en un dominio microscópico) o para marcar un contenedor de muchos átomos del elemento mercurio (en un dominio macroscópico).</para>
+<figure id="CNX_Chem_02_03_SiSymbol" class="scaled-down">
+<media id="fs-idm53222912" alt="Se muestra un frasco marcado como &quot;H g&quot; con una pequeña cantidad de mercurio líquido en su interior.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_03_SiSymbol.jpg"/>
+</media>
+<caption>El símbolo Hg representa el elemento mercurio independientemente de la cantidad; puede representar un átomo de mercurio o una gran cantidad de mercurio.</caption>
+</figure>
+<para id="fs-idm91050016">Los símbolos de varios elementos comunes y de sus átomos se muestran en la <link target-id="fs-idm36686800"/>. Algunos símbolos se derivan del nombre común del elemento; otros son abreviaturas del nombre en otro idioma. La mayoría de los símbolos tienen una o dos letras, pero se han utilizado símbolos de tres letras para describir algunos elementos que tienen números atómicos superiores a 112. Para evitar confusiones con otras notaciones, solo se escribe en mayúsculas la primera letra de un símbolo. Por ejemplo, Co es el símbolo del elemento cobalto, pero CO es la notación del compuesto monóxido de carbono, que contiene átomos de los elementos carbono (C) y oxígeno (O). Todos los elementos conocidos y sus símbolos se encuentran en la tabla periódica en la <link target-id="CNX_Chem_02_05_PerTable1" document="m68695"/> (que también se encuentra en el <link target-id="fs-idm379479808" document="m68859">Apéndice A</link>).</para><table id="fs-idm36686800" class="top-titled" summary="Esta tabla tiene dos columnas marcadas como elemento y símbolo. La primera letra del símbolo es siempre una letra mayúscula, mientras que la segunda letra del símbolo es siempre una letra minúscula. El aluminio tiene el símbolo A L. El bromo tiene el símbolo B R, el calcio tiene el símbolo C A, el carbono tiene el símbolo C, el cloro tiene el símbolo C L, el cromo tiene el símbolo C R, el cobalto tiene el símbolo C O, el cobre tiene el símbolo C U, de cuprum, el flúor tiene el símbolo F, el oro tiene el símbolo A U, de aurum, el helio tiene el símbolo H E, el hidrógeno tiene el símbolo H, el yodo tiene el símbolo I, el hierro tiene el símbolo F E, de ferrum, el plomo tiene el símbolo P B, de plumbum, el magnesio tiene el símbolo M G, el mercurio tiene el símbolo H G de hydrargyrum, el nitrógeno tiene el símbolo N, el oxígeno tiene el símbolo O, el potasio tiene el símbolo K, de kalium, el silicio tiene el símbolo S I, la plata tiene el símbolo A G, de argentum, el sodio tiene el símbolo N A de natrium, el azufre tiene el símbolo S, el estaño tiene el símbolo S N de stannum, y el zinc tiene el símbolo Z N.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Algunos elementos comunes y sus símbolos</entry>
+</row>
+<row valign="top">
+<entry align="left">Elemento</entry><entry align="left">Símbolo</entry><entry align="left">Elemento</entry><entry align="left">Símbolo</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">aluminio </entry><entry align="left">Al</entry><entry align="left">hierro</entry><entry align="left">Fe (de <emphasis effect="italics">ferrum</emphasis>)</entry>
+</row>
+<row valign="top">
+<entry align="left">bromo </entry><entry align="left">Br </entry><entry align="left">plomo</entry><entry align="left">Pb (de <emphasis effect="italics">plumbum</emphasis>)</entry>
+</row>
+<row valign="top">
+<entry align="left">calcio</entry><entry align="left">Ca</entry><entry align="left">magnesio</entry><entry align="left">Mg</entry>
+</row>
+<row valign="top">
+<entry align="left">carbono</entry><entry align="left">C</entry><entry align="left">mercurio</entry><entry align="left">Hg (de <emphasis effect="italics">hydrargyrum</emphasis>)</entry>
+</row>
+<row valign="top">
+<entry align="left">cloro </entry><entry align="left">Cl</entry><entry align="left">nitrógeno</entry><entry align="left">N</entry>
+</row>
+<row valign="top">
+<entry align="left">cromo</entry><entry align="left">Cr</entry><entry align="left">oxígeno</entry><entry align="left">O</entry>
+</row>
+<row valign="top">
+<entry align="left">cobalto</entry><entry align="left">Co</entry><entry align="left">potasio </entry><entry align="left">K (de <emphasis effect="italics">kalium</emphasis>)</entry>
+</row>
+<row valign="top">
+<entry align="left">cobre</entry><entry align="left">Cu (de <emphasis effect="italics">cuprum</emphasis>)</entry><entry align="left">silicio</entry><entry align="left">Si</entry>
+</row>
+<row valign="top">
+<entry align="left">flúor</entry><entry align="left">F</entry><entry align="left">plata</entry><entry align="left">Ag (de<emphasis effect="italics"> argentum</emphasis>)</entry>
+</row>
+<row valign="top">
+<entry align="left">oro</entry><entry align="left">Au (de <emphasis effect="italics">aurum</emphasis>)</entry><entry align="left">sodio</entry><entry align="left">Na (de <emphasis effect="italics">natrium</emphasis>)</entry>
+</row>
+<row valign="top">
+<entry align="left">helio</entry><entry align="left">He</entry><entry align="left">azufre</entry><entry align="left">S</entry>
+</row>
+<row valign="top">
+<entry align="left">hidrógeno</entry><entry align="left">H</entry><entry align="left">estaño</entry><entry align="left">Sn (de <emphasis effect="italics">stannum</emphasis>)</entry>
+</row>
+<row valign="top">
+<entry align="left">yodo</entry><entry align="left">I</entry><entry align="left">zinc</entry><entry align="left">Zn</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm105035264">Tradicionalmente, el descubridor (o los descubridores) de un nuevo elemento le da el nombre. Sin embargo, hasta que el nombre sea reconocido por la Unión Internacional de Química Pura y Aplicada (International Union of Pure and Applied Chemistry, IUPAC), el nombre recomendado del nuevo elemento se basa en la(s) palabra(s) latina(s) de su número atómico. Por ejemplo, el elemento 106 se llamó unnilhexium (Unh), el elemento 107 se llamó unnilseptium (Uns) y el elemento 108 se llamó unniloctium (Uno) durante varios años. Estos elementos reciben ahora el nombre de los científicos (u ocasionalmente de los lugares), por ejemplo, el elemento 106 se conoce ahora como <emphasis effect="italics">seaborgio</emphasis> (Sg) en honor a Glenn Seaborg, un premio Nobel que participó en el descubrimiento de varios elementos pesados. El elemento 109 recibió su nombre en honor a Lise Meitner, que descubrió la fisión nuclear, un fenómeno que tendría repercusiones en todo el mundo. Meitner también contribuyó al descubrimiento de algunos isótopos importantes, que se comentan a continuación.</para><note id="fs-idm111013376" class="chemistry link-to-learning">
+<para id="fs-idm3892928">Visite este <link url="http://openstax.org/l/16IUPAC">sitio</link> para saber más sobre la IUPAC, la Unión Internacional de Química Pura y Aplicada, y explore su tabla periódica.</para>
+</note>
+</section>
+<section id="fs-idp42149200">
+<title>Isótopos</title>
+<para id="fs-idm240748912">El símbolo de un isótopo específico de cualquier elemento se escribe colocando el número de masa como superíndice a la izquierda del símbolo del elemento (<link target-id="CNX_Chem_02_03_AtomSym"/>). El número atómico se escribe a veces como un subíndice que precede al símbolo, pero como este número define la identidad del elemento, al igual que su símbolo, a menudo se omite. Por ejemplo, el magnesio existe como una mezcla de tres isótopos, cada uno con un número atómico de 12 y con números de masa de 24, 25 y 26, respectivamente. Estos isótopos pueden identificarse como <sup>24</sup>Mg, <sup>25</sup>Mg, y <sup>26</sup>Mg. Estos símbolos de isótopos se leen como "elemento, número de masa" y se pueden simbolizar de acuerdo con esta lectura. Por ejemplo, <sup>24</sup>Mg se lee como "magnesio 24", y puede escribirse como "magnesio-24" o "Mg-24" <sup>25</sup>Mg se lee como "magnesio 25", y puede escribirse como "magnesio-25" o "Mg-25" Todos los átomos de magnesio tienen 12 protones en su núcleo. Solo se diferencian porque un átomo de <sup>24</sup>Mg tiene 12 neutrones en su núcleo, un átomo de <sup>25</sup>Mg tiene 13 neutrones y un <sup>26</sup>Mg tiene 14 neutrones.</para>
+<figure id="CNX_Chem_02_03_AtomSym" class="scaled-down">
+<media id="fs-idm140695888" alt="Este diagrama muestra el símbolo del helio, &quot;H e&quot; El número de la parte superior izquierda del símbolo es el número de masa, que es 4. El número de la parte superior derecha del símbolo es la carga que es 2 positivo. El número de la parte inferior izquierda del símbolo es el número atómico, que es el 2. Este número suele omitirse. También se muestra &quot;M g&quot; que significa magnesio Tiene un número de masa de 24, una carga de 2 positivo y un número atómico de 12.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_03_AtomSym.jpg"/>
+</media>
+<caption>El símbolo de un átomo indica el elemento mediante su símbolo habitual de dos letras, el número de masa como superíndice izquierdo, el número atómico como subíndice izquierdo (a veces omitido) y la carga como superíndice derecho.</caption>
+</figure>
+<para id="fs-idm198096624">La información sobre los isótopos naturales de los elementos con números atómicos del 1 al 10 se encuentra en la <link target-id="fs-idm87646592"/>. Observe que, además de los nombres y símbolos estándar, los isótopos del hidrógeno suelen denominarse con nombres comunes y los símbolos que los acompañan. El hidrógeno-2, simbolizado como <sup>2</sup>H, también se llama deuterio y a veces se simboliza como D. El hidrógeno-3, simbolizado como <sup>3</sup>H, también se llama tritio y a veces se simboliza como T.</para>
+<table id="fs-idm87646592" class="top-titled" summary="Esta tabla tiene siete columnas marcadas como elemento, símbolo, número atómico, número de protones, número de neutrones, masa en A M U y porcentaje de abundancia natural. Los símbolos de cada elemento muestran el número de masa en la parte superior izquierda y el número atómico en la parte inferior izquierda. Por lo tanto, el hidrógeno, superíndice a la izquierda 1, subíndice a la izquierda 1, o protio, tiene un número de masa de 1 y un número atómico de 1. El protio tiene un protón, 0 neutrones, una masa de 1,0078 y un porcentaje de abundancia natural de 99,985. El hidrógeno, superíndice a la izquierda 2, subíndice a la izquierda 1, o deuterio, tiene un número atómico de 1, 1 protón, 1 neutrón, una masa de 2,0141 y un porcentaje de abundancia natural de 0,015. El hidrógeno, superíndice a la izquierda 3, subíndice a la izquierda 1, o tritio, tiene un número atómico de 11 protones, 2 neutrones y una masa de 3,01605. No se da ningún porcentaje de abundancia natural. El helio, superíndice a la izquierda 3, subíndice a la izquierda 2, tiene un número atómico de 2, 2 protones, 1 neutrón, una masa de 3,01603 y un porcentaje de abundancia natural de 0,00013. El helio, superíndice a la izquierda 4, subíndice a la izquierda 2, tiene un número atómico de 2, 2 protones, 2 neutrones, una masa de 4,0026 y un porcentaje de abundancia natural de 100. El litio, superíndice a la izquierda 6, subíndice a la izquierda 3, tiene un número atómico de 3, 3 protones, 3 neutrones, una masa de 6,0151 y un porcentaje de abundancia natural de 7,42. El litio, superíndice a la izquierda 7, subíndice a la izquierda 3, tiene un número atómico de 3, 3 protones, 4 neutrones, una masa de 7,0160 y un porcentaje de abundancia natural de 92,8. El berilio, superíndice a la izquierda 9, subíndice a la izquierda 4, tiene un número atómico de 4, 4 protones, 5 neutrones, una masa de 9,0122 y un porcentaje de abundancia natural de 100. El boro, superíndice a la izquierda 10, subíndice a la izquierda 5, tiene un número atómico de 5, 5 protones, 5 neutrones y un porcentaje de abundancia natural de 19,9. El boro, superíndice a la izquierda 11, subíndice a la izquierda 5, tiene un número atómico de 5, 5 protones, 6 neutrones, una masa de 11,0093 y una abundancia natural de 80,1. El carbono, superíndice a la izquierda 12, subíndice a la izquierda 6, tiene un número atómico de 6, 6 protones, 6 neutrones, una masa de 12 y un porcentaje de abundancia natural de 98,89. El carbono, superíndice a la izquierda 13, subíndice a la izquierda 6, tiene un número atómico de 6, 6 protones, 7 neutrones, una masa de 13,0033 y un porcentaje de abundancia natural de 1,11. El carbono, superíndice a la izquierda 14, subíndice a la izquierda 6, tiene un número atómico de 6, 6 protones, 8 neutrones y una masa de 14,0032. No se indica su porcentaje de abundancia natural. El nitrógeno, superíndice a la izquierda 14, subíndice a la izquierda 7, tiene un número atómico de 7, 7 protones, 7 neutrones, una masa de 14,0031 y un porcentaje de abundancia natural de 99,63. El nitrógeno, superíndice a la izquierda 15, subíndice a la izquierda 7, tiene un número atómico de 7, 7 protones, 8 neutrones, una masa de 15,0001 y un porcentaje de abundancia natural de 0,37. El oxígeno, superíndice a la izquierda 16, subíndice a la izquierda 8, tiene un número atómico de 8, 8 protones, 8 neutrones, una masa de 15,9949 y un porcentaje de abundancia natural de 99,759. El oxígeno, superíndice a la izquierda 17, subíndice a la izquierda 8, tiene un número atómico de 8, 8 protones, 9 neutrones, una masa de 16,9991 y un porcentaje de abundancia natural de 0,037. El oxígeno, superíndice a la izquierda 18, subíndice a la izquierda 8, tiene un número atómico de 8, 8 protones, 10 neutrones, una masa de 17,9992 y un porcentaje de abundancia natural de 0,204. El flúor, superíndice a la izquierda 19, subíndice a la izquierda 9, tiene un número atómico de 9, 9 protones, 10 neutrones, una masa de 18,9984 y un porcentaje de abundancia natural de 100. El neón, superíndice a la izquierda 20, subíndice a la izquierda 10, tiene un número atómico de 10, 10 protones, 10 neutrones, una masa de 19,9924 y un porcentaje de abundancia natural de 90,92. El neón, superíndice a la izquierda 21, subíndice a la izquierda 10, tiene un número atómico de 10, 10 protones, 11 neutrones, una masa de 20,994 y un porcentaje de abundancia natural de 0,257. El neón, superíndice a la izquierda 22, subíndice a la izquierda 10, tiene un número atómico de 10, 10 protones, 12 neutrones, una masa de 21,9914 y un porcentaje de abundancia natural de 8,82."><tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c7" align="center">Composiciones nucleares de los átomos de los elementos muy ligeros</entry>
+</row>
+<row valign="top">
+<entry align="left">Elemento</entry>
+<entry align="left">Símbolo</entry>
+<entry align="left">Número atómico</entry>
+<entry align="left">Número de protones</entry>
+<entry align="left">Número de neutrones</entry>
+<entry align="left">Masa (u)</entry>
+<entry align="left">% de abundancia natural</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left" morerows="2">hidrógeno</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>1</m:mn><m:mn>1</m:mn></m:msubsup><m:mtext>H</m:mtext></m:math><newline/>(protio)</entry>
+<entry align="center">1</entry>
+<entry align="center">1</entry>
+<entry align="center">0</entry>
+<entry align="center">1,0078</entry>
+<entry align="center">99,989</entry>
+</row>
+<row valign="top">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>1</m:mn><m:mn>2</m:mn></m:msubsup><m:mtext>H</m:mtext></m:math><newline/>(deuterio)</entry>
+<entry align="center">1</entry>
+<entry align="center">1</entry>
+<entry align="center">1</entry>
+<entry align="center">2,0141</entry>
+<entry align="center">0,0115</entry>
+</row>
+<row valign="top">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>1</m:mn><m:mn>3</m:mn></m:msubsup><m:mtext>H</m:mtext></m:math><newline/>(tritio)</entry>
+<entry align="center">1</entry>
+<entry align="center">1</entry>
+<entry align="center">2</entry>
+<entry align="center">3,01605</entry>
+<entry align="center">— (trazas)</entry>
+</row>
+<row valign="middle">
+<entry align="center" morerows="1">helio</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>2 </m:mn><m:mn>3</m:mn></m:msubsup><m:mtext>He</m:mtext></m:math></entry>
+<entry align="center">2</entry>
+<entry align="center">2 </entry>
+<entry align="center">1</entry>
+<entry align="center">3,01603</entry>
+<entry align="center">0,00013</entry>
+</row>
+<row valign="top">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>2 </m:mn><m:mn>4</m:mn></m:msubsup><m:mtext>He</m:mtext></m:math></entry>
+<entry align="center">2</entry>
+<entry align="center">2 </entry>
+<entry align="center">2</entry>
+<entry align="center">4,0026</entry>
+<entry align="center">100</entry>
+</row>
+<row valign="middle">
+<entry align="center" morerows="1">litio</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>3</m:mn><m:mn>6</m:mn></m:msubsup><m:mtext>Li</m:mtext></m:math></entry>
+<entry align="center">3</entry>
+<entry align="center">3</entry>
+<entry align="center">3</entry>
+<entry align="center">6,0151</entry>
+<entry align="center">7,59</entry>
+</row>
+<row valign="top">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>3</m:mn><m:mn>7</m:mn></m:msubsup><m:mtext>Li</m:mtext></m:math></entry>
+<entry align="center">3</entry>
+<entry align="center">3</entry>
+<entry align="center">4</entry>
+<entry align="center">7,0160</entry>
+<entry align="center">92,41</entry>
+</row>
+<row valign="top">
+<entry align="left">berilio</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>4</m:mn><m:mn>9</m:mn></m:msubsup><m:mtext>Be</m:mtext></m:math></entry>
+<entry align="center">4</entry>
+<entry align="center">4</entry>
+<entry align="center">5</entry>
+<entry align="center">9,0122</entry>
+<entry align="center">100</entry>
+</row>
+<row valign="middle">
+<entry align="left" morerows="1">boro</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>5</m:mn></m:mrow><m:mn>10</m:mn></m:msubsup><m:mtext>B</m:mtext></m:math></entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry>
+<entry align="center">10,0129</entry>
+<entry align="center">19,9</entry>
+</row>
+<row valign="top">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>5</m:mn></m:mrow><m:mn>11</m:mn></m:msubsup><m:mtext>B</m:mtext></m:math></entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry>
+<entry align="center">6</entry>
+<entry align="center">11,0093</entry>
+<entry align="center">80,1</entry>
+</row>
+<row valign="middle">
+<entry align="left" morerows="2">carbono</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>12</m:mn></m:msubsup><m:mtext>C</m:mtext></m:math></entry>
+<entry align="center">6</entry>
+<entry align="center">6</entry>
+<entry align="center">6</entry>
+<entry align="center">12,0000</entry>
+<entry align="center">98,89</entry>
+</row>
+<row valign="middle">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>13</m:mn></m:msubsup><m:mtext>C</m:mtext></m:math></entry>
+<entry align="center">6</entry>
+<entry align="center">6</entry>
+<entry align="center">7</entry>
+<entry align="center">13,0034</entry>
+<entry align="center">1,11</entry>
+</row>
+<row valign="top">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>C</m:mtext></m:math>
+</entry>
+<entry align="center">6</entry>
+<entry align="center">6</entry>
+<entry align="center">8</entry>
+<entry align="center">14,0032</entry>
+<entry align="center">— (trazas)</entry>
+</row>
+<row valign="middle">
+<entry align="center" morerows="1">nitrógeno</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>7</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>N</m:mtext></m:math>
+</entry>
+<entry align="center">7</entry>
+<entry align="center">7</entry>
+<entry align="center">7</entry>
+<entry align="center">14,0031</entry>
+<entry align="center">99,63</entry>
+</row>
+<row valign="middle">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>7</m:mn></m:mrow><m:mn>15</m:mn></m:msubsup><m:mtext>N</m:mtext></m:math>
+</entry>
+<entry align="center">7</entry>
+<entry align="center">7</entry>
+<entry align="center">8</entry>
+<entry align="center">15,0001</entry>
+<entry align="center">0,37</entry>
+</row>
+<row valign="middle">
+<entry align="center" morerows="2">oxígeno</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>8</m:mn></m:mrow><m:mn>16</m:mn></m:msubsup><m:mtext>O</m:mtext></m:math>
+</entry>
+<entry align="center">8</entry>
+<entry align="center">8</entry>
+<entry align="center">8</entry>
+<entry align="center">15,9949</entry>
+<entry align="center">99,757</entry>
+</row>
+<row valign="middle">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>8</m:mn></m:mrow><m:mn>17</m:mn></m:msubsup><m:mtext>O</m:mtext></m:math></entry>
+<entry align="center">8</entry>
+<entry align="center">8</entry>
+<entry align="center">9</entry>
+<entry align="center">16,9991</entry>
+<entry align="center">0,038</entry>
+</row>
+<row valign="middle">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>8</m:mn></m:mrow><m:mn>18</m:mn></m:msubsup><m:mtext>O</m:mtext></m:math></entry>
+<entry align="center">8</entry>
+<entry align="center">8</entry>
+<entry align="center">10</entry>
+<entry align="center">17,9992</entry>
+<entry align="center">0,205</entry>
+</row>
+<row valign="middle">
+<entry align="left">flúor</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>9</m:mn></m:mrow><m:mn>19</m:mn></m:msubsup><m:mtext>F</m:mtext></m:math></entry>
+<entry align="center">9</entry>
+<entry align="center">9</entry>
+<entry align="center">10</entry>
+<entry align="center">18,9984</entry>
+<entry align="center">100</entry>
+</row>
+<row valign="middle">
+<entry align="left" morerows="2">neón</entry>
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>10</m:mn><m:mn>20</m:mn></m:msubsup><m:mtext>Ne</m:mtext></m:math>
+</entry>
+<entry align="center">10</entry>
+<entry align="center">10</entry>
+<entry align="center">10</entry>
+<entry align="center">19,9924</entry>
+<entry align="center">90,48</entry>
+</row>
+<row valign="middle">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>10</m:mn><m:mn>21</m:mn></m:msubsup><m:mtext>Ne</m:mtext></m:math></entry>
+<entry align="center">10</entry>
+<entry align="center">10</entry>
+<entry align="center">11</entry>
+<entry align="center">20,9938</entry>
+<entry align="center">0,27</entry>
+</row>
+<row valign="middle">
+<entry align="center"><m:math><m:msubsup><m:mrow/><m:mn>10</m:mn><m:mn>22</m:mn></m:msubsup><m:mtext>Ne</m:mtext></m:math></entry>
+<entry align="center">10</entry>
+<entry align="center">10</entry>
+<entry align="center">12</entry>
+<entry align="center">21,9914</entry>
+<entry align="center">9,25</entry>
+</row>
+</tbody>
+</tgroup>
+</table><note id="fs-idm166072560" class="chemistry link-to-learning">
+<para id="fs-idm243168608">Utilice este <link url="http://openstax.org/l/16PhetAtomBld">simulador de construcción de átomos</link> para construir átomos de los 10 primeros elementos, verifique qué isótopos existen, compruebe la estabilidad nuclear y adquiera experiencia con los símbolos de los isótopos.</para>
+</note>
+</section>
+<section id="fs-idm54315440">
+<title>Masa atómica</title>
+<para id="fs-idp64485984">Dado que cada protón y cada neutrón contribuyen aproximadamente con una u a la masa de un átomo, y cada electrón contribuye con mucho menos, la <term>masa atómica</term> de un solo átomo es aproximadamente igual a su número de masa (un número entero). Sin embargo, las masas medias de los átomos de la mayoría de los elementos no son números enteros porque la mayoría de los elementos existen de forma natural como mezclas de dos o más isótopos.</para>
+<para id="fs-idp249209552">La masa de un elemento que aparece en una tabla periódica o en una tabla de masas atómicas es una masa media ponderada de todos los isótopos presentes en una muestra natural de ese elemento. Es igual a la suma de la masa de cada isótopo individual multiplicada por su abundancia fraccionada.</para>
+<equation id="fs-idm56955264" class="unnumbered"><m:math><m:mrow><m:mtext>masa media</m:mtext><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:munder><m:mo>∑</m:mo><m:mi>i</m:mi></m:munder><m:mrow><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>abundancia fraccionada</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>masa isotópica</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>i</m:mi></m:msub></m:mrow></m:mstyle></m:mrow></m:math>
+</equation>
+<para id="fs-idp53715664">Por ejemplo, el elemento boro está compuesto por dos isótopos: Alrededor del 19,9 % de todos los átomos de boro son <sup>10</sup>B con una masa de 10,0129 u, y el 80,1 % restante son <sup>11</sup>B con una masa de 11,0093 u. Se calcula que la masa atómica media del boro es:</para>
+<equation id="fs-idp64426960" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>masa promedio del boro</m:mtext></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0,199</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>10,0129 u</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0,801</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>11,0093 u</m:mtext><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mtext>1,99 u</m:mtext><m:mo>+</m:mo><m:mtext>8,82 u</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mtext>10,81 u</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm114336768">Es importante entender que ningún átomo de boro pesa exactamente 10,8 u; 10,8 u es la masa media de todos los átomos de boro, y los átomos de boro individuales pesan aproximadamente 10 u o también 11 u.</para>
+<example id="fs-idm139194256">
+<para id="fs-idm202281808">
+<title>Cálculo de la masa atómica media</title>
+Un meteorito encontrado en el centro de Indiana contiene trazas del gas noble neón recogido por el viento solar durante el viaje del meteorito a través del sistema solar. El análisis de una muestra del gas mostró que estaba compuesto por un 91,84 % de <sup>20</sup>Ne (masa 19,9924 u), un 0,47 % de <sup>21</sup>Ne (masa 20,9940 u) y un 7,69 % de <sup>22</sup>Ne (masa 21,9914 u). ¿Cuál es la masa media del neón en el viento solar?</para>
+<para id="fs-idm194071296">
+<title>Solución</title>
+<equation id="fs-idm73306928" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>masa media</m:mtext></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0,9184</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>19,9924 u</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0,0047</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>20,9940 u</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0,0769</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>21,9914 u</m:mtext><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>18,36</m:mn><m:mo>+</m:mo><m:mn>0,099</m:mn><m:mo>+</m:mo><m:mn>1,69</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>u</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mtext>20,15 u</m:mtext></m:mtd></m:mtr></m:mtable></m:math>
+</equation></para>
+<para id="fs-idm3186256">La masa media de un átomo de neón en el viento solar es de 20,15 u. (La masa media de un átomo de neón terrestre es de 20,1796 u. Este resultado demuestra que podemos encontrar ligeras diferencias en la abundancia natural de los isótopos, dependiendo de su origen).</para>
+<para id="fs-idm187119072">
+<title>Compruebe lo aprendido</title>
+Una muestra de magnesio contiene un 78,70 % de átomos de <sup>24</sup>Mg (masa 23,98 u), un 10,13 % de átomos de <sup>25</sup>Mg (masa 24,99 u) y un 11,17 % de átomos de <sup>26</sup>Mg (masa 25,98 u). Calcule la masa media de un átomo de Mg.</para>
+<note id="fs-idm155890528">
+<title>Respuesta:</title>
+<para id="fs-idm169485088">24,31 u</para>
+</note>
+</example>
+<para id="fs-idp15941280">También podemos hacer variaciones de este tipo de cálculo, como se muestra en el siguiente ejemplo.</para>
+<example id="fs-idm233489360">
+<para id="fs-idm170542656">
+<title>Cálculo del porcentaje de abundancia</title>
+El cloro natural se compone de <sup>35</sup>Cl (masa 34,96885 u) y <sup>37</sup>Cl (masa 36,96590 u), con una masa media de 35,453 u. ¿Cuál es la composición porcentual del Cl en términos de estos dos isótopos?</para>
+<para id="fs-idm111544320">
+<title>Solución</title>
+La masa media de cloro es la fracción que es <sup>35</sup>Cl por la masa de <sup>35</sup>Cl más la fracción que es <sup>37</sup>Cl por la masa de <sup>37</sup>Cl.</para>
+<equation id="fs-idp1748832" class="unnumbered"><m:math><m:mrow><m:mtext>masa media</m:mtext><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>fracción de</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow/><m:mrow><m:mn>35</m:mn></m:mrow></m:msup><m:mtext>Cl</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>masa de</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow/><m:mrow><m:mn>35</m:mn></m:mrow></m:msup><m:mtext>Cl</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>fracción de</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow/><m:mrow><m:mn>37</m:mn></m:mrow></m:msup><m:mtext>Cl</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>masa de</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow/><m:mrow><m:mn>37</m:mn></m:mrow></m:msup><m:mtext>Cl</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation><para id="fs-idp35897648">Si dejamos que <emphasis effect="italics">x</emphasis> represente la fracción que es <sup>35</sup>Cl, entonces la fracción que es <sup>37</sup>Cl está representada por 1,00 - <emphasis effect="italics">x</emphasis>.</para>
+<para id="fs-idm78207296">(La fracción que es <sup>35</sup>Cl + la fracción que es <sup>37</sup>Cl deben sumar 1, por lo que la fracción de <sup>37</sup>Cl debe ser igual a 1,00 - la fracción de <sup>35</sup>Cl.)</para>
+<para id="fs-idm174110736">Al sustituir esto en la ecuación de la masa media, tenemos:</para>
+<equation id="fs-idm50612880" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>35,453 u</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>34,96885 u</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">[</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1,00</m:mn><m:mo>-</m:mo><m:mi>x</m:mi><m:mo stretchy="false">).</m:mo><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>36,96590 u</m:mtext><m:mo stretchy="false">]</m:mo></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>35,453</m:mn></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>34,96885</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>36,96590</m:mn><m:mo>-</m:mo><m:mn>36,96590</m:mn><m:mi>x</m:mi></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>1,99705</m:mn><m:mi>x</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>1,513</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mi>x</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>1,513</m:mn></m:mrow><m:mrow><m:mn>1,99705</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,7576</m:mn></m:mtd></m:mtr></m:mtable></m:math>
+</equation>
+<para id="fs-idm84424288">Por lo tanto, al resolver se obtiene: <emphasis effect="italics">x</emphasis> = 0,7576, lo que significa que 1,00 - 0,7576 = 0,2424. Por lo tanto, el cloro está compuesto por un 75,76 % de <sup>35</sup>Cl y un 24,24 % de <sup>37</sup>Cl.</para>
+<para id="fs-idm140620960">
+<title>Compruebe lo aprendido</title>
+El cobre natural se compone de <sup>63</sup>Cu (masa 62,9296 u) y <sup>65</sup>Cu (masa 64,9278 u), con una masa media de 63,546 u. ¿Cuál es la composición porcentual del Cu en términos de estos dos isótopos?</para>
+<note id="fs-idm192789184">
+<title>Respuesta:</title>
+<para id="fs-idm194575792">69,15 % de Cu-63 y 30,85 % de Cu-65</para>
+</note>
+</example>
+<note id="fs-idm186474352" class="chemistry link-to-learning">
+<para id="fs-idp99251296">Visite este <link url="http://openstax.org/l/16PhetAtomMass">sitio</link> para hacer mezclas de los principales isótopos de los primeros 18 elementos, ganar experiencia con la masa atómica media y comprobar las proporciones de los isótopos naturales utilizando la simulación de isótopos y masa atómica.</para>
+</note>
+<para id="eip-837">Como podrá descubrir, los isótopos son importantes en la naturaleza y, sobre todo, en la comprensión humana de la ciencia y la medicina. Consideremos un solo isótopo natural y estable: el oxígeno-18, que aparece en la tabla anterior, es uno de los isótopos ambientales. Es importante en paleoclimatología, por ejemplo, porque los científicos pueden utilizar la relación entre el oxígeno-18 y el oxígeno-16 en un núcleo de hielo para determinar la temperatura de las precipitaciones a lo largo del tiempo. El oxígeno-18 también fue fundamental para descubrir las vías metabólicas y los mecanismos de las enzimas. Mildred Cohn fue pionera en el uso de estos isótopos para que actuaran como trazadores, de modo que los investigadores pudieran seguir su trayectoria a través de las reacciones y comprender mejor lo que ocurre. Uno de sus primeros descubrimientos permitió conocer la fosforilación de la glucosa que tiene lugar en las mitocondrias. Además, los métodos de utilización de los isótopos para esta investigación contribuyeron a campos de estudio enteros.</para><para id="fs-idp64386064">La presencia y la abundancia natural de los isótopos pueden determinarse experimentalmente mediante un instrumento llamado espectrómetro de masas. La espectrometría de masas (EM) se utiliza ampliamente en química, medicina forense, ciencias medioambientales y muchos otros campos para analizar y ayudar a identificar las sustancias de una muestra de material. En un espectrómetro de masas típico (<link target-id="CNX_Chem_02_03_MassSpec"/>), la muestra se vaporiza y se expone a un haz de electrones de alta energía que hace que los átomos (o moléculas) de la muestra se carguen eléctricamente, normalmente perdiendo uno o más electrones. A continuación, estos cationes atraviesan un campo eléctrico o magnético (variable) que desvía la trayectoria de cada catión en una medida que depende tanto de su masa como de su carga (de forma similar a como se desvía la trayectoria de una gran bola de acero que rueda junto a un imán en menor medida que la de una pequeña bola de acero). Los iones se detectan y se realiza un gráfico del número relativo de iones generados frente a sus relaciones masa-carga (un <emphasis effect="italics">espectro de masas</emphasis>). La altura de cada característica vertical o pico en un espectro de masas es proporcional a la fracción de cationes con la relación masa-carga especificada. Desde su uso inicial durante el desarrollo de la teoría atómica moderna, la EM ha evolucionado hasta convertirse en una potente herramienta de análisis químico en una amplia gama de aplicaciones.</para><figure id="CNX_Chem_02_03_MassSpec">
+<media id="fs-idp221044352" alt="El diagrama de la izquierda muestra cómo funciona un espectrómetro de masas, que es principalmente un gran tubo que se dobla hacia abajo en su punto medio. La muestra entra por el lado izquierdo del tubo. Un calentador calienta la muestra, provocando su vaporización. La muestra también recibe un haz de electrones mientras se vaporiza. Las partículas cargadas de la muestra, llamadas iones, se aceleran y pasan entre dos imanes. El campo magnético desvía más los iones más ligeros. La desviación de los iones se mide mediante un detector situado en el lado derecho del tubo. El gráfico de la derecha del espectrómetro muestra un espectro de masas del circonio. La abundancia relativa, como porcentaje de 0 a 100, se representa en el eje y, y la relación masa/carga se representa en el eje x. La muestra contiene cinco isómeros diferentes de circonio. Z R 90, que tiene una relación masa/carga de 90, es el isótopo más abundante, con un 51 % de abundancia relativa. Z R 91 tiene una relación masa/carga de 91 y una abundancia relativa de aproximadamente el 11 %. Z R 92 tiene una relación masa/carga de 92 y una abundancia relativa de aproximadamente el 18 %. Z R 94 tiene una relación masa/carga de 94 y una abundancia relativa de aproximadamente el 18 %. Z R 96, que tiene una relación masa/carga de 96, es el isótopo de circonio menos abundante, con una abundancia relativa de aproximadamente el 2 %.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_03_MassSpec.jpg"/>
+</media>
+<caption>El análisis del circonio en un espectrómetro de masas produce un espectro de masas con picos que muestran los diferentes isótopos del Zr.</caption>
+</figure>
+<note id="fs-idm122264832" class="chemistry link-to-learning">
+<para id="fs-idm136290400">Vea una <link url="http://openstax.org/l/16MassSpec">animación</link> que explica la espectrometría de masas. Vea este <link url="http://openstax.org/l/16RSChemistry">video</link> de la Royal Society for Chemistry (Real Sociedad de Química) para obtener una breve descripción de los rudimentos de la espectrometría de masas.</para>
+</note>
+</section>
+<section id="fs-idm131201632" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm148166800">Un átomo está formado por un pequeño núcleo con carga positiva rodeado de electrones. El núcleo contiene protones y neutrones; su diámetro es aproximadamente unas 100.000 veces menor que el del átomo. La masa de un átomo suele expresarse en unidades de masa atómica (u), lo que se denomina masa atómica. Una u se define exactamente como <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac></m:mrow></m:math> de la masa de un átomo de carbono-12 y es igual a 1,6605 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>-24</sup> g.</para>
+<para id="fs-idp228494288">Los protones son partículas relativamente pesadas con una carga de 1+ y una masa de 1,0073 u. Los neutrones son partículas relativamente pesadas, sin carga y con una masa de 1,0087 u. Los electrones son partículas ligeras con una carga de 1 y una masa de 0,00055 u. El número de protones en el núcleo se llama número atómico (Z) y es la propiedad que define la identidad elemental de un átomo. La suma de los números de protones y neutrones del núcleo se denomina número de masa y, expresado en u, es aproximadamente igual a la masa del átomo. Un átomo es neutro cuando contiene igual número de electrones y protones.</para>
+<para id="fs-idm194069072">Los isótopos de un elemento son átomos con el mismo número atómico, pero diferente número de masa; los isótopos de un elemento, por lo tanto, difieren entre sí solo en el número de neutrones dentro del núcleo. Cuando un elemento natural está compuesto por varios isótopos, la masa atómica del elemento representa la media de las masas de los isótopos implicados. Un símbolo químico identifica los átomos de una sustancia mediante símbolos, que son abreviaturas de una, dos o tres letras para los átomos.</para>
+</section>
+<section id="fs-idm7298256" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mtext>masa media</m:mtext><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:munder><m:mo>∑</m:mo><m:mi>i</m:mi></m:munder><m:mrow><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>abundancia fraccionada</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>masa isotópica</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>i</m:mi></m:msub></m:mrow></m:mstyle></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idm53754640" class="exercises">
+<title>Ejercicios de Química del final del capítulo</title>
+<exercise id="fs-idp67066944">
+<problem id="fs-idp258696944">
+<para id="fs-idp164438208">¿En qué sentido son siempre diferentes los isótopos de un mismo elemento? ¿En qué sentido son siempre iguales?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm174365776">
+<problem id="fs-idm97516528">
+<para id="fs-idm122332368">Escriba el símbolo de cada uno de los siguientes iones:</para>
+<para id="fs-idp77154592">(a) el ion con carga 1+, número atómico 55 y número de masa 133</para>
+<para id="fs-idm125607744">(b) el ion con 54 electrones, 53 protones y 74 neutrones</para>
+<para id="fs-idm91510448">(c) el ion de número atómico 15, número de masa 31 y carga 3−</para>
+<para id="fs-idm78032064">(d) el ion con 24 electrones, 30 neutrones y una carga 3+</para>
+</problem>
+<solution id="fs-idm78148384">
+<para id="fs-idm90412768">(a) <sup>133</sup>Cs<sup>+</sup>; (b) <sup>127</sup>I<sup>-</sup>; (c) <sup>31</sup>P<sup>3-</sup>; (d) <sup>57</sup>Co<sup>3+</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm2862432">
+<problem id="fs-idm174442256">
+<para id="fs-idm201509280">Escriba el símbolo de cada uno de los siguientes iones:</para>
+<para id="fs-idm110862992">(a) el ion con carga 3+, 28 electrones y un número de masa de 71</para>
+<para id="fs-idm67050480">(b) el ion con 36 electrones, 35 protones y 45 neutrones</para>
+<para id="fs-idp31625072">(c) el ion con 86 electrones, 142 neutrones y una carga 4+</para>
+<para id="fs-idm166294032">(d) el ion con carga 2+, número atómico 38 y número de masa 87</para>
+</problem>
+</exercise>
+<exercise id="fs-idm164758784">
+<problem id="fs-idp29245904">
+<para id="fs-idp112094752">Abra la <link url="http://openstax.org/l/16PhetAtomBld">simulación de Construir un átomo</link> y haga clic en el icono del átomo.</para>
+<para id="fs-idm134679936">(a) Escoja uno de los 10 primeros elementos que le gustaría construir e indique su símbolo.</para>
+<para id="fs-idm125643536">(b) Arrastre protones, neutrones y electrones a la plantilla del átomo para formar un átomo de su elemento.<newline/> Indique el número de protones, neutrones y electrones de su átomo, así como la carga neta y el número de masa.</para>
+<para id="fs-idm8547328">(c) Haga clic en "Carga neta" y "Número de masa", compruebe sus respuestas a la (b) y corríjalas, si es necesario.</para>
+<para id="fs-idp210506208">(d) Prediga si su átomo será estable o inestable. Explique su razonamiento.</para>
+<para id="fs-idp22922768">(e) Marque la casilla “Estable/Inestable". ¿Su respuesta de la letra (d) era correcta? Si no es así, primero prediga lo que puede hacer para crear un átomo estable de su elemento, y luego constrúyalo y revise si funciona. Explique su razonamiento.</para>
+</problem>
+<solution id="fs-idp33301776">
+<para id="fs-idm124722320">(a) Carbono-12, <sup>12</sup>C; (b) Este átomo contiene seis protones y seis neutrones. Hay seis electrones en un átomo neutro de <sup>12</sup>C. La carga neta de dicho átomo neutro es cero y el número de masa es 12. (c) Las respuestas anteriores son correctas. (d) El átomo será estable ya que el C-12 es un isótopo estable del carbono. (e) La respuesta anterior es correcta. Son posibles otras respuestas para este ejercicio si se elige un elemento o isótopo diferente.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp1819392">
+<problem id="fs-idm131114016">
+<para id="fs-idm65098400">Abra la <link url="http://openstax.org/l/16PhetAtomBld">simulación de Construir un átomo</link>.</para><para id="fs-idm148181728">(a) Arrastre protones, neutrones y electrones a la plantilla de átomos para hacer un átomo neutro de Oxígeno-16 y escriba el símbolo del isótopo para este átomo.</para>
+<para id="fs-idm95106464">(b) Añada ahora dos electrones más para formar un ion y escriba el símbolo del ion que ha creado.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm103886288">
+<problem id="fs-idm165966032">
+<para id="fs-idm7673184">Abra la <link url="http://openstax.org/l/16PhetAtomBld">simulación de Construir un átomo</link>.</para><para id="fs-idm56609680">(a) Arrastre protones, neutrones y electrones a la plantilla del átomo para formar un átomo neutro de Litio-6 y escriba el símbolo del isótopo para este átomo.</para>
+<para id="fs-idm31990784">(b) Ahora elimine un electrón para formar un ion y escriba el símbolo del ion que ha creado.</para>
+</problem>
+<solution id="fs-idm89515952">
+<para id="fs-idm134038192">(a) El litio-6 contiene tres protones, tres neutrones y tres electrones. El símbolo del isótopo es <sup>6</sup>Li o <m:math><m:msubsup><m:mrow/><m:mn>3</m:mn><m:mn>6</m:mn></m:msubsup><m:mtext>Li</m:mtext><m:mo>.</m:mo></m:math> (b) <sup>6</sup>Li<sup>+</sup> o <m:math><m:mrow><m:msubsup><m:mrow/><m:mn>3</m:mn><m:mn>6</m:mn></m:msubsup><m:msup><m:mtext>Li</m:mtext><m:mo>+</m:mo></m:msup></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-idm75926528">
+<problem id="fs-idp100975632">
+<para id="fs-idm56944480">Determine el número de protones, neutrones y electrones en los siguientes isótopos que se utilizan en los diagnósticos médicos:</para>
+<para id="fs-idp210466544">(a) número atómico 9, número de masa 18, carga de 1-</para>
+<para id="fs-idm3911136">(b) número atómico 43, número de masa 99, carga de 7+</para>
+<para id="fs-idm70109600">(c) número atómico 53, número de masa atómica 131, carga de 1-</para>
+<para id="fs-idp27137152">(d) número atómico 81, número de masa atómica 201, carga de 1+ </para>
+<para id="fs-idm32839584">(e) Nombre los elementos de las partes (a), (b), (c) y (d).</para>
+</problem>
+</exercise>
+<exercise id="fs-idm187202528">
+<problem id="fs-idm111460096">
+<para id="fs-idm36757440">A continuación, se presentan las propiedades de los isótopos de dos elementos esenciales en nuestra dieta. Determine el número de protones, neutrones y electrones de cada uno y nómbrelos.</para>
+<para id="fs-idp210102512">(a) número atómico 26, número de masa 58, carga de 2+ </para>
+<para id="fs-idp23141296">(b) número atómico 53, número de masa 127, carga de 1-</para>
+</problem>
+<solution id="fs-idm157159408">
+<para id="fs-idm58517792">(a) Hierro, 26 protones, 24 electrones y 32 neutrones; (b) Yodo, 53 protones, 54 electrones y 74 neutrones</para>
+</solution>
+</exercise>
+<exercise id="fs-idp18872976">
+<problem id="fs-idm94247568">
+<para id="fs-idm114349376">Indique el número de protones, electrones y neutrones en los átomos neutros de cada uno de los siguientes isótopos:</para>
+<para id="fs-idm164756320">(a) <m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>5</m:mn></m:mrow><m:mn>10</m:mn></m:msubsup><m:mtext>B</m:mtext></m:math></para><para id="fs-idm91182992">(b) <m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>80</m:mn></m:mrow><m:mn>199</m:mn></m:msubsup><m:mtext>Hg</m:mtext></m:math></para><para id="fs-idm142860272">(c) <m:math><m:msubsup><m:mrow/><m:mrow><m:mn>29</m:mn></m:mrow><m:mn>63</m:mn></m:msubsup><m:mtext>Cu</m:mtext></m:math></para><para id="fs-idp14140336">(d) <m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>6</m:mn></m:mrow><m:mn>13</m:mn></m:msubsup><m:mtext>C</m:mtext></m:math></para><para id="fs-idm107022720">(e) <m:math><m:msubsup><m:mrow/><m:mn>34</m:mn><m:mn>77</m:mn></m:msubsup><m:mtext>Se</m:mtext></m:math></para></problem>
+</exercise>
+<exercise id="fs-idm80933584">
+<problem id="fs-idm166114816">
+<para id="fs-idm53375216">Indique el número de protones, electrones y neutrones en los átomos neutros de cada uno de los siguientes isótopos:</para>
+<para id="fs-idm84436384">(a) <m:math><m:msubsup><m:mrow/><m:mn>3</m:mn><m:mn>7</m:mn></m:msubsup><m:mtext>Li</m:mtext></m:math></para><para id="fs-idm141443632">(b) <m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>52</m:mn></m:mrow><m:mn>125</m:mn></m:msubsup><m:mtext>Te</m:mtext></m:math></para><para id="fs-idm195681872">(c) <m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>47</m:mn></m:mrow><m:mn>109</m:mn></m:msubsup><m:mtext>Ag</m:mtext></m:math></para><para id="fs-idm82481216">(d) <m:math><m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>7</m:mn></m:mrow><m:mn>15</m:mn></m:msubsup><m:mtext>N</m:mtext></m:math></para><para id="fs-idm159280288">(e) <m:math><m:msubsup><m:mrow/><m:mn>15</m:mn><m:mn>31</m:mn></m:msubsup><m:mtext>P</m:mtext></m:math></para></problem>
+<solution id="fs-idm169093456">
+<para id="fs-idm60087264">(a) 3 protones, 3 electrones, 4 neutrones; (b) 52 protones, 52 electrones, 73 neutrones; (c) 47 protones, 47 electrones, 62 neutrones; (d) 7 protones, 7 electrones, 8 neutrones; (e) 15 protones, 15 electrones, 16 neutrones</para>
+</solution>
+</exercise>
+<exercise id="fs-idm28786800">
+<problem id="fs-idm61696768">
+<para id="fs-idm93231328">Haga clic en el <link url="http://openstax.org/l/16PhetAtomMass">sitio</link> y seleccione la pestaña "Mezcla de isótopos", oculte las casillas "Composición porcentual" y "Masa atómica media", y luego seleccione el elemento boro.</para>
+<para id="fs-idm84386240">(a) Escriba los símbolos de los isótopos del boro que se muestran como naturales en cantidades significativas.</para>
+<para id="fs-idm170152672">(b) Prediga las cantidades relativas (porcentajes) de estos isótopos de boro que se encuentran en la naturaleza. Explique los motivos de su elección.</para>
+<para id="fs-idm198099104">(c) Añada isótopos a la caja negra para hacer una mezcla que coincida con su predicción en (b). Puede arrastrar los isótopos desde sus bandejas o hacer clic en "Más" y luego mover los deslizadores a las cantidades adecuadas.</para>
+<para id="fs-idp8871856">(d) Revele las casillas "Composición porcentual" y "Masa atómica media". ¿En qué medida coincide su mezcla con su predicción? Si es necesario, ajuste las cantidades de isótopos para que coincidan con su predicción.</para>
+<para id="fs-idm169266752">(e) Seleccione la mezcla de isótopos de la "Naturaleza" y compárela con su predicción. ¿Qué tan bien se compara su predicción con la mezcla que se produce de forma natural? Explique. Si es necesario, ajuste sus cantidades para que se parezcan lo más posible a las de la "Naturaleza".</para>
+</problem>
+</exercise>
+<exercise id="fs-idm112612912">
+<problem id="fs-idm87780720">
+<para id="fs-idm195304464">Repita el <link target-id="fs-idm28786800"/> utilizando un elemento que tenga tres isótopos naturales.</para></problem>
+<solution id="fs-idm84427920">
+<para id="fs-idp79309808">Utilicemos el neón como ejemplo. Como hay tres isótopos, no hay manera de estar seguros de predecir con exactitud las abundancias para hacer el total de 20,18 u de masa atómica media. Supongamos que las abundancias son del 9 % de Ne-22, del 91 % de Ne-20, y solo una traza de Ne-21. La masa media sería de 20,18 u. La comprobación de la mezcla de isótopos de la naturaleza muestra que las abundancias son del 90,48 % de Ne-20, del 9,25 % de Ne-22 y del 0,27 % de Ne-21, por lo que nuestras suposiciones deben ajustarse ligeramente.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm201300912">
+<problem id="fs-idm150050912">
+<para id="fs-idm150169904">Un elemento tiene las siguientes abundancias naturales y masas isotópicas: 90.92 % de abundancia con 19,99 u, 0,26 % de abundancia con 20,99 u y 8,82 % de abundancia con 21,99 u. Calcule la masa atómica media de este elemento.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp165798448">
+<problem id="fs-idm110491104">
+<para id="fs-idm58355904">Las masas atómicas medias indicadas por la IUPAC se basan en un estudio de resultados experimentales. El bromo tiene dos isótopos, <sup>79</sup>Br y <sup>81</sup>Br, cuyas masas (78,9183 y 80,9163 u, respectivamente) y abundancias (50,69 % y 49,31 %, respectivamente) se determinaron en experimentos anteriores. Calcule la masa atómica media del bromo a partir de estos experimentos.</para>
+</problem>
+<solution id="fs-idm200331552"><para id="fs-idm9833872">79,90 u</para></solution>
+</exercise>
+<exercise id="fs-idp15704448">
+<problem id="fs-idm182065584">
+<para id="fs-idm130368688">Se pueden observar variaciones en la masa atómica media de los elementos obtenidos de diferentes fuentes. El litio es un ejemplo de ello. La composición isotópica del litio de los minerales naturales es del 7,5 % de <sup>6</sup>Li y del 92,5 % de <sup>7</sup>Li, que tienen masas de 6,01512 u y 7,01600 u, respectivamente. Una fuente comercial de litio, reciclada de una fuente militar, tenía un 3,75 % de <sup>6</sup>Li (y el resto de <sup>7</sup>Li). Calcule los valores medios de masa atómica para cada una de estas dos fuentes.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm95116240">
+<problem id="fs-idm24194608">
+<para id="fs-idm197867280">Las masas atómicas medias de algunos elementos pueden variar, dependiendo de las fuentes de sus minerales. El boro natural consta de dos isótopos con masas conocidas con exactitud (<sup>(10</sup>B, 10,0129 u y <sup>11</sup>B, 11,00931 u). La masa atómica real del boro puede variar entre 10,807 y 10,819, dependiendo de si la fuente mineral es de Turquía o de los Estados Unidos. Calcule las abundancias porcentuales que conducen a los dos valores de las masas atómicas medias del boro de estos dos países.</para></problem>
+<solution id="fs-idm194570912">
+<para id="fs-idm4806656">Fuente de Turquía: 20,3 % (del isótopo 10,0129 u); fuente de los EE. UU.: 19,1 % (del isótopo 10,0129 u)</para></solution>
+</exercise>
+<exercise id="fs-idm4055376">
+<problem id="fs-idm4055120">
+<para id="fs-idm65589760">La relación de abundancia <sup>18</sup>O:<sup>16</sup>O en algunos meteoritos es mayor que la utilizada para calcular la masa atómica media del oxígeno en la Tierra. ¿La masa media de un átomo de oxígeno en estos meteoritos es mayor, menor o igual que la de un átomo de oxígeno terrestre?</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm68508272">
+<term>anión</term>
+<meaning id="fs-idm45412576">átomo o molécula con carga negativa (contiene más electrones que protones)</meaning>
+</definition>
+<definition id="fs-idp230158528">
+<term>masa atómica</term>
+<meaning id="fs-idm5667792">masa media de los átomos de un elemento, expresada en u</meaning>
+</definition>
+<definition id="fs-idm20897872">
+<term>unidad de masa atómica (uma)</term>
+<meaning id="fs-idp80812576">(también, unidad de masa atómica unificada, u, o Dalton, Da) unidad de masa igual a <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac></m:mrow></m:math> de la masa de un átomo de <sup>12</sup>C</meaning>
+</definition>
+<definition id="fs-idp42201168">
+<term>número atómico (Z)</term>
+<meaning id="fs-idp1800400">número de protones en el núcleo de un átomo</meaning>
+</definition>
+<definition id="fs-idp1800912">
+<term>catión</term>
+<meaning id="fs-idp210447104">átomo o molécula con carga positiva (contiene menos electrones que protones)</meaning>
+</definition>
+<definition id="fs-idm109251440">
+<term>símbolo químico</term>
+<meaning id="fs-idm103889152">abreviatura de una, dos o tres letras utilizadas para representar un elemento o sus átomos</meaning>
+</definition>
+<definition id="fs-idm103888640">
+<term>Dalton (Da)</term>
+<meaning id="fs-idm3311632">unidad alternativa equivalente a la unidad de masa atómica</meaning>
+</definition>
+<definition id="fs-idp226765840">
+<term>unidad de carga fundamental</term>
+<meaning id="fs-idp22662208">(también llamada carga elemental) es igual a la magnitud de la carga de un electrón (e) donde e = 1,602 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>-19</sup> C</meaning>
+</definition>
+<definition id="fs-idp277782656">
+<term>ion</term>
+<meaning id="fs-idp277783296">átomo o molécula con carga eléctrica (contiene un número desigual de protones y electrones)</meaning>
+</definition>
+<definition id="fs-idp22869776">
+<term>número de masa (A)</term>
+<meaning id="fs-idm186469888">suma del número de neutrones y protones en el núcleo de un átomo</meaning>
+</definition>
+<definition id="fs-idm284976">
+<term>unidad de masa atómica unificada (u)</term>
+<meaning id="fs-idm284336">unidad alternativa equivalente a la unidad de masa atómica</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,106 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Factores que afectan las tasas de reacción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68787</md:content-id>
+  <md:title>Factores que afectan las tasas de reacción</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Describir los efectos de la naturaleza química, el estado físico, la temperatura, la concentración y la catálisis sobre las velocidades de reacción</item>
+</list></md:abstract>
+  <md:uuid>7ce1385c-f564-4c79-be86-20dce552bcb6</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm233990000">La velocidad a la que se consumen los reactivos y se forman los productos durante las reacciones químicas varía mucho. En esta sección se estudiarán cinco factores que suelen afectar la velocidad de las reacciones químicas: la naturaleza química de las sustancias que reaccionan, el estado de subdivisión (un gran bulto versus muchas partículas pequeñas) de los reactivos, la temperatura de los reactivos, la concentración de los reactivos y la presencia de un catalizador.</para>
+<section id="fs-idm58413648">
+<title>La naturaleza química de las sustancias que reaccionan</title>
+<para id="fs-idm103128016">La velocidad de una reacción depende de la naturaleza de las sustancias participantes. Reacciones que parecen similares pueden tener velocidades diferentes en las mismas condiciones, dependiendo de la identidad de los reactivos. Por ejemplo, cuando se exponen al aire trozos pequeños de los metales hierro y sodio, el sodio reacciona completamente con el aire durante la noche, mientras que el hierro apenas se ve afectado. Los metales activos calcio y sodio reaccionan con el agua para formar gas hidrógeno y una base. Sin embargo, el calcio reacciona a una velocidad moderada, mientras que el sodio lo hace tan rápidamente que la reacción es casi explosiva.</para>
+</section>
+<section id="fs-idm83714000">
+<title>Estados físicos de los reactivos</title>
+<para id="fs-idm89852336">Una reacción química entre dos o más sustancias requiere un contacto íntimo entre los reactivos. Cuando los reactivos se encuentran en diferentes estados físicos, o fases (sólido, líquido, gaseoso, disuelto), la reacción tiene lugar solo en la interfaz entre las fases. Consideremos la reacción heterogénea entre una fase sólida y una fase líquida o gaseosa. En comparación con la velocidad de reacción de las partículas sólidas grandes, la velocidad de las partículas más pequeñas será mayor porque el área superficial en contacto con la otra fase reactiva es mayor. Por ejemplo, los trozos grandes de hierro reaccionan más lentamente con los ácidos que con el polvo de hierro dividido finamente (<link target-id="CNX_Chem_12_02_AcidDissol"/>). Los trozos grandes de madera arden, los trozos más pequeños arden rápidamente y el serrín arde de forma explosiva.</para>
+<figure id="CNX_Chem_12_02_AcidDissol" class="scaled-down"><media id="fs-idm108837008" alt="Esta figura muestra dos fotos etiquetadas como (a) y (b). La foto (a) muestra el fondo de un tubo de ensayo. El tubo de ensayo está lleno de un gas oscuro y hay una sustancia oscura y burbujas en el fondo. La foto (b) muestra una varilla y burbujas en un tubo de ensayo similar a la foto (a), pero el gas en el tubo de ensayo no es tan oscuro.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_02_AcidDissol.jpg"/>
+</media>
+<caption>(a) El polvo de hierro reacciona rápidamente con el ácido clorhídrico diluido y produce burbujas de gas hidrógeno: 2Fe(<emphasis effect="italics">s</emphasis>) + 6HCl(<emphasis effect="italics">aq</emphasis>) <m:math><m:mo stretchy="false">⟶</m:mo></m:math> 2FeCl<sub>3</sub>(<emphasis effect="italics">aq</emphasis>) + 3H<sub>2</sub>(<emphasis effect="italics">g</emphasis>). Un clavo de hierro reacciona más lentamente porque la superficie expuesta al ácido es mucho menor.</caption></figure><note id="fs-idm104157008" class="chemistry link-to-learning">
+<para id="fs-idm33181984">Vea <link url="http://openstax.org/l/16cesium">este video</link> que muestra la reacción del cesio con el agua a cámara lenta y una discusión sobre cómo el estado de los reactivos y el tamaño de las partículas afectan la velocidad de reacción.</para>
+</note>
+</section>
+<section id="fs-idm100022464">
+<title>Temperatura de los reactivos</title>
+<para id="fs-idp8529552">Las reacciones químicas suelen ser más rápidas a mayor temperatura. Los alimentos pueden estropearse rápidamente si se dejan en la encimera de la cocina. Sin embargo, la menor temperatura del interior de un refrigerador ralentiza ese proceso, de modo que los mismos alimentos se mantienen frescos durante días. En el laboratorio se utilizan a menudo quemadores de gas, placas calientes y hornos para aumentar la velocidad de las reacciones que proceden lentamente a temperaturas ordinarias. En muchos procesos químicos, la velocidad de reacción se duplica aproximadamente cuando se aumenta la temperatura a 10 °C.</para>
+</section>
+<section id="fs-idm145319392">
+<title>Concentraciones de los reactivos</title>
+<para id="fs-idm31855392">La velocidad de muchas reacciones depende de las concentraciones de los reactivos. Las velocidades suelen aumentar cuando se incrementa la concentración de uno o varios de los reactivos. Por ejemplo, el carbonato de calcio (CaCO<sub>3</sub>) se deteriora como resultado de su reacción con el contaminante dióxido de azufre. La velocidad de esta reacción depende de la cantidad de dióxido de azufre en el aire (<link target-id="CNX_Chem_12_02_NYSStatue"/>). El dióxido de azufre, un óxido ácido, se combina con el vapor de agua del aire para producir ácido sulfuroso en la siguiente reacción:</para>
+<equation id="fs-idm37870480" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp125234816">El carbonato de calcio reacciona con el ácido sulfuroso de la siguiente manera:</para>
+<equation id="fs-idp86192224" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CaCO</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CaSO</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm233971872">En una atmósfera contaminada en la que la concentración de dióxido de azufre es elevada, el carbonato de calcio se deteriora más rápidamente que en un aire menos contaminado. Del mismo modo, el fósforo arde mucho más rápidamente en una atmósfera de oxígeno puro que en el aire, que solo tiene un 20% de oxígeno.</para>
+<figure id="CNX_Chem_12_02_NYSStatue" class="scaled-down">
+<media id="fs-idm66889568" alt="Se muestra una fotografía de una estatua de un ángel. Aunque algunos detalles de la estatua están presentes, incluidos los rasgos faciales, los efectos de la intemperie parecen disminuir estos rasgos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_02_NYSStatue.jpg"/>
+</media>
+<caption>Las estatuas fabricadas con compuestos de carbonato, como la piedra caliza y el mármol, suelen deteriorarse lentamente con el paso del tiempo debido a la acción del agua y a la dilatación y contracción térmica. Sin embargo, contaminantes como el dióxido de azufre pueden acelerar la desgaste. A medida que aumenta la concentración de contaminantes atmosféricos, el deterioro de la piedra caliza se produce con mayor rapidez. (Crédito: James P Fisher III).</caption>
+</figure>
+<note id="fs-idp91411184" class="chemistry link-to-learning">
+<para id="fs-idm30692176">El fósforo arde rápidamente en el aire, pero lo hará aún más rápido si la concentración de oxígeno es mayor. Consulte este <link url="http://openstax.org/l/16phosphor">video</link> que muestra un ejemplo.</para></note>
+</section>
+<section id="fs-idm33945488">
+<title>Presencia de un catalizador</title>
+<para id="fs-idm99481872">Las soluciones acuosas relativamente diluidas de peróxido de hidrógeno, H<sub>2</sub>O<sub>2</sub>, se utilizan habitualmente como antisépticos tópicos. El peróxido de hidrógeno se descompone para producir agua y oxígeno gaseoso según la ecuación:</para>
+<equation id="fs-idm641705824" class="unnumbered"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext fontstyle="italic">aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>g</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation><para id="fs-idm237313312">En condiciones normales, esta descomposición se produce muy lentamente. Sin embargo, cuando se vierte H<sub>2</sub>O<sub>2</sub>(aq) diluido sobre una herida abierta, la reacción se produce rápidamente y la solución hace espuma debido a la producción vigorosa de gas oxígeno. Esta drástica diferencia se debe a la presencia de sustancias en los tejidos expuestos de la herida que aceleran el proceso de descomposición. Las sustancias que funcionan para aumentar la velocidad de una reacción se denominan <term>catalizadores</term>, un tema que se trata con más detalle más adelante en este capítulo.</para>
+<note id="fs-idm166887552" class="chemistry link-to-learning">
+<para id="fs-idm89663808">Las reacciones químicas se producen cuando las moléculas chocan entre sí y sufren una transformación química. Antes de llevar a cabo físicamente una reacción en el laboratorio, los científicos pueden utilizar simulaciones de modelos moleculares para predecir cómo influirán los parámetros antes mencionados en la velocidad de una reacción. Utilice la simulación <link url="http://openstax.org/l/16PHETreaction">interactiva de velocidades y reacciones de PhET</link> para explorar cómo la temperatura, la concentración y la naturaleza de los reactivos afectan las velocidades de reacción.</para>
+</note>
+</section>
+<section id="fs-idm70094032" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm63455008">La velocidad de una reacción química se ve afectada por varios parámetros. Las reacciones en las que intervienen dos fases avanzan más rápidamente cuando hay una mayor superficie de contacto. Si se aumenta la temperatura o la concentración de reactivos, la velocidad de una reacción determinada suele aumentar también. Un catalizador puede aumentar la velocidad de una reacción proporcionando una vía alternativa con una energía de activación menor.</para>
+</section>
+<section id="fs-idm87447680" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idm30837936">
+<problem id="fs-idm121876480">
+<para id="fs-idm151736608">Describa el efecto de cada uno de los siguientes factores sobre la velocidad de reacción del magnesio metálico con una solución de ácido clorhídrico: la molaridad del ácido clorhídrico, la temperatura de la solución y el tamaño de los trozos de magnesio.</para>
+</problem>
+<solution id="fs-idm111554432">
+<para id="fs-idm120667552">Una mayor molaridad aumenta la velocidad de la reacción. Una mayor temperatura aumenta la velocidad de la reacción. Los trozos más pequeños de metal de magnesio reaccionarán más rápidamente que los trozos más grandes porque existe más superficie reactiva.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm86018304">
+<problem id="fs-idm39468176">
+<para id="fs-idm102912640">Explique por qué un huevo se cuece más lentamente en agua hirviendo en Denver que en Nueva York. (Pista: Considere el efecto de la temperatura en la velocidad de reacción y el efecto de la presión en el punto de ebullición).</para>
+</problem>
+</exercise>
+<exercise id="fs-idm66513728">
+<problem id="fs-idm154819360">
+<para id="fs-idm176952992">Vaya a la simulación interactiva de <link url="http://openstax.org/l/16PHETreaction">velocidades y reacciones de PhET</link>. Utilice la pestaña Colisión única para representar cómo la colisión entre el oxígeno monatómico (O) y el monóxido de carbono (CO) resulta en la ruptura de un enlace y la formación de otro. Hale la perilla roja para liberar el átomo y observe los resultados. A continuación, presione en "Recargar lanzador" (Reload Launcher) y cambie a "Tiro oblicuo" (Angled shot) para ver la diferencia.</para>
+<para id="fs-idm60742624">(a) ¿Qué sucede cuando se cambia el ángulo de la colisión?</para>
+<para id="fs-idm63859552">(b) Explique la relevancia de este hecho para la velocidad de reacción.</para>
+</problem>
+<solution id="fs-idp58932000">
+<para id="fs-idp85957568">(a) Dependiendo del ángulo seleccionado, el átomo puede tardar mucho tiempo en colisionar con la molécula y, cuando se produce una colisión, puede que no se produzca la ruptura del enlace y la formación del otro. (b) Las partículas del reactivo deben entrar en contacto entre sí antes de poder reaccionar.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm66455280">
+<problem id="fs-idm85258160">
+<para id="fs-idm63416144">En la simulación interactiva <link url="http://openstax.org/l/16PHETreaction">velocidades y reacciones de PhET</link>, utilice la pestaña "Muchas colisiones" (Many Collisions) para observar cómo interactúan múltiples átomos y moléculas en diferentes condiciones. Seleccione una molécula para bombear en la cámara. Establezca la temperatura inicial y seleccione las cantidades presentes de cada reactivo. Seleccione "Mostrar enlaces" (Show bonds) en Opciones (Options). ¿Cómo afecta la concentración y la temperatura a la velocidad de la reacción?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm49710224">
+<problem id="fs-idm118152512">
+<para id="fs-idm26937872">En la simulación interactiva <link url="http://openstax.org/l/16PHETreaction">velocidades y reacciones de PhET</link>, en la pestaña Muchas colisiones (Many collisions), configure una simulación con 15 moléculas de A y 10 moléculas de BC. Seleccione "Mostrar enlaces" (Show bonds) en Opciones (Options).</para>
+<para id="fs-idm148287808">(a) Deje la temperatura inicial en el ajuste por defecto. Observe la reacción. ¿La velocidad de reacción es rápida o lenta?</para>
+<para id="fs-idm144569264">(b) Presione en "Pausa" (Pause) y luego en "Reiniciar todo", (Reset all) y a continuación introduzca de nuevo 15 moléculas de A y 10 moléculas de BC. Seleccione "Mostrar enlaces" (Show bonds) en Opciones (Options). Esta vez, aumente la temperatura inicial hasta que, en el gráfico, la línea de energía media total esté completamente por encima de la curva de energía potencial. Describa lo que ocurre con la reacción.</para>
+</problem>
+<solution id="fs-idm123636848">
+<para id="fs-idm111616960">(a) muy lenta; (b) a medida que aumenta la temperatura, la reacción avanza a mayor velocidad. La cantidad de reactivos disminuye y la de productos aumenta. Después de un tiempo, hay una cantidad aproximadamente igual de <emphasis effect="italics">BC</emphasis>, <emphasis effect="italics">AB</emphasis> y <emphasis effect="italics">C</emphasis> en la mezcla y un ligero exceso de <emphasis effect="italics">A</emphasis>.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp102379584"><term>catalizador</term><meaning id="fs-idm32337456">sustancia que aumenta la velocidad de una reacción sin ser consumida por esta</meaning></definition>
+</glossary>
+</document>

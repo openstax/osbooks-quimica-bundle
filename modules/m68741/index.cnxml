@@ -1,0 +1,638 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Fuerza de los enlaces iónicos y covalentes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68741</md:content-id>
+  <md:title>Fuerza de los enlaces iónicos y covalentes</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Describir la energía de la formación y ruptura de enlaces covalentes e iónicos.</item>
+<item>Utilizar el ciclo de Born-Haber para calcular las energías de red de los compuestos iónicos.</item>
+<item>Utilizar las energías medias de los enlaces covalentes para estimar las entalpías de reacción.</item>
+</list></md:abstract>
+  <md:uuid>d9a2a6fa-520e-4317-a0c5-56da7bece584</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp176876736">La fuerza de un enlace describe la fuerza con la que cada átomo está unido a otro átomo y, por tanto, cuánta energía se necesita para romper el enlace entre ambos. En esta sección, aprenderá sobre la fuerza de enlace de los enlaces covalentes, para luego compararla con la fuerza de los enlaces iónicos, que está relacionada con la energía de red de un compuesto.</para>
+<section id="fs-idp66065152">
+<title>Fuerza de adhesión: Enlaces covalentes</title>
+<para id="fs-idm12470240">Las moléculas estables existen porque los enlaces covalentes mantienen los átomos unidos. Medimos la fuerza de un enlace covalente por la energía necesaria para romperlo, es decir, la energía necesaria para separar los átomos enlazados. La separación de todo par de átomos enlazados requiere energía (vea la <link target-id="CNX_Chem_07_02_Morse" document="m68738"/>). Cuanto más fuerte sea un enlace, mayor será la energía necesaria para romperlo.</para>
+<para id="fs-idp84340368">La energía necesaria para romper un enlace covalente específico en un mol de moléculas gaseosas se denomina energía de enlace o energía de disociación del enlace. La energía de enlace para una molécula diatómica, D<sub>X–Y</sub>, se define como el cambio de entalpía estándar en la reacción endotérmica:</para>
+<equation class="unnumbered" id="fs-idm36464112"><m:math><m:mrow><m:mtext>XY</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>X</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Y</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="3em"/><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>X-Y</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm12974112">Por ejemplo, la energía de enlace del enlace covalente puro H-H, D<sub>H–H</sub>, es de 436 kJ por mol de enlaces H-H rotos:</para>
+<equation class="unnumbered" id="fs-idp119487888"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="3em"/><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>H-H</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mn>436</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp244347920">Las moléculas con tres o más átomos tienen dos o más enlaces. La suma de todas las energías de enlace en dicha molécula es igual al cambio de entalpía estándar para la reacción endotérmica que rompe todos los enlaces en la molécula. Por ejemplo, la suma de las cuatro energías de enlace C-H en el CH<sub>4</sub>, 1660 kJ, es igual al cambio de entalpía estándar de la reacción:</para>
+<media id="fs-idp286503296" alt="Se muestra una reacción con estructuras de Lewis. La primera estructura muestra un átomo de carbono unido con enlace simple a cuatro átomos de hidrógeno con el símbolo &quot;( g )&quot; escrito al lado. Una flecha hacia la derecha señala la letra &quot;C&quot; y el símbolo &quot;( g )&quot;, que va seguido de un signo positivo. A continuación, el número 4, la letra &quot;H&quot; y el símbolo &quot;( g )&quot; A la derecha de esta ecuación hay otra ecuación: el símbolo de grado delta H en mayúscula es igual a 1660 k J." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_CH4bond_img.jpg"/>
+</media>
+<para id="fs-idp85707472">La energía media del enlace C-H, D<sub>C–H</sub>, es de 1660/4 = 415 kJ/mol porque hay cuatro moles de enlaces C-H rotos por mol de la reacción. Aunque los cuatro enlaces C-H son equivalentes en la molécula original, cada uno no requiere la misma energía para romperse; una vez que se rompe el primer enlace (que requiere 439 kJ/mol), los enlaces restantes son más fáciles de romper. El valor de 415 kJ/mol es la media, no el valor exacto necesario para romper un enlace cualquiera.</para>
+<para id="fs-idp26225392">La fuerza de un enlace entre dos átomos aumenta a medida que aumenta el número de pares de electrones en el enlace. Por lo general, a medida que aumenta la resistencia del enlace, disminuye la longitud del mismo. Así, encontramos que los enlaces triples son más fuertes y más cortos que los enlaces dobles entre los mismos dos átomos; asimismo, los enlaces dobles son más fuertes y más cortos que los enlaces simples entre los mismos dos átomos. Las energías de enlace medias de algunos enlaces comunes aparecen en la <link target-id="fs-idp13638832"/>, y una comparación de las longitudes y resistencias de enlace de algunos enlaces comunes aparece en la <link target-id="fs-idm44464336"/>. Cuando un átomo se une a varios átomos de un grupo, la fuerza del enlace suele disminuir a medida que descendemos en el grupo. Por ejemplo, C-F es 439 kJ/mol, C-Cl es 330 kJ/mol y C-Br es 275 kJ/mol.</para>
+<table id="fs-idp13638832" summary="Esta tabla tiene seis columnas y veinticuatro filas. La primera fila es una fila de encabezado que marca las columnas: &quot;Enlace&quot;, &quot;Energía de enlace&quot;, &quot;Enlace&quot;, &quot;Energía de enlace&quot;, &quot;Enlace&quot; y &quot;Energía de enlace&quot;. En la primera columna &quot;Enlace&quot; se encuentran los valores: H se enlaza con H con un enlace simple; H se enlaza con C con un enlace simple; H se enlaza con N con un enlace simple; H se enlaza con O con un enlace simple; H se enlaza con F con un enlace simple; H se enlaza con S i con un enlace simple; H se enlaza con S con un enlace simple; H se enlaza con C l con un enlace simple; H se enlaza con B r con un enlace simple; H se enlaza con I con un enlace simple; C se enlaza con C con un enlace simple; C se enlaza con C con un doble enlace; C se enlaza con C con un triple enlace; C se enlaza con N con un enlace simple; C se enlaza con N con un doble enlace; C se enlaza con N con un triple enlace; C se enlaza con O con un enlace simple; C se enlaza con O con un doble enlace; C se enlaza con O con un triple enlace; C se enlaza con F con un enlace simple; C se enlaza con S i con un enlace simple; y C se enlaza con P con un enlace simple. En la primera columna &quot;Energía de enlace&quot; están los valores: 436, 415, 390, 464, 569, 395, 320, 340, 432, 370, 295, 345, 611, 837, 290, 615, 891, 350, 741, 1080, 439, 360 y 265. En la segunda columna &quot;Enlace&quot; se encuentran los valores: C se enlaza a S con un enlace simple, C se enlaza a C l con un enlace simple, C se enlaza a B r con un enlace simple, C se enlaza a I con un enlace simple, N se enlaza a N con un enlace simple, N se enlaza a N con un doble enlace, N se enlaza a N con un triple enlace, N se enlaza a O con un enlace simple, N se enlaza a F con un enlace simple, N se enlaza a P con un enlace simple, N se enlaza a C l con un enlace simple, N se enlaza a B r con un enlace simple, O se enlaza a O con un enlace simple, O se enlaza a O con un doble enlace doble, O se enlaza a F con un enlace simple, O se enlaza a S i con un enlace simple, O se enlaza a P con un enlace simple, O se enlaza a C l con un enlace simple, O se enlaza a I con un enlace simple, F se enlaza a F con un enlace simple, F se enlaza a S i con un enlace simple, F se enlaza a P con un enlace simple y F se enlaza a S con un enlace simple. En la segunda columna &quot;Energía de enlace&quot; se encuentran los valores: 260, 330, 275, 240, 160, 418, 946, 200, 270, 210, 200, 245, 140, 498, 160, 370, 350, 205, 200, 160, 540, 489 y 285. En la tercera columna &quot;Enlace&quot; se encuentran los valores: F se enlaza con C l con un enlace simple, F se enlaza con B r con un enlace simple, S i se enlaza con S i con un enlace simple, S i se enlaza con P con un enlace simple, S i se enlaza con S con un enlace simple, S i se enlaza con C l con un enlace simple, S i se enlaza con B r con un enlace simple, P se enlaza con P con un enlace simple, P se enlaza con C l con un enlace simple, P se enlaza con B r con un enlace simple, P se enlaza con I con un enlace simple, S se enlaza con S con un enlace simple; S se enlaza con C l con un enlace simple; S se enlaza con B r con un enlace simple; C l se enlaza con C l con un enlace simple; C l se enlaza con B r con un enlace simple; C l se enlaza con I con un enlace simple; B r se enlaza con B r con un enlace simple; I se enlaza con I con un enlace simple; y la última celda de la columna está vacía. En la tercera columna &quot;Energía de enlace&quot; se encuentran los valores: 255, 235, 230, 215, 225, 359, 290, 215, 215, 230, 330, 270, 215, 215, 250, 215, 243, 220, 210, 190, 180, 150 y la última celda de la columna está vacía."><tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+
+<thead>
+<row>
+<entry namest="c1" nameend="c6" align="center">Energías de enlace (kJ/mol)</entry>
+</row>
+<row valign="top">
+<entry align="left">Enlace</entry>
+<entry align="left">Energía de enlace</entry>
+<entry align="left">Enlace</entry>
+<entry align="left">Energía de enlace</entry>
+<entry align="left">Enlace</entry>
+<entry align="left">Energía de enlace</entry></row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">H–H</entry>
+<entry align="left">436</entry>
+<entry align="left">C–S</entry>
+<entry align="left">260</entry>
+<entry align="left">F–Cl</entry>
+<entry align="left">255</entry></row>
+<row valign="top">
+<entry align="left">H–C</entry>
+<entry align="left">415</entry>
+<entry align="left">C–Cl</entry>
+<entry align="left">330</entry>
+<entry align="left">F–Br</entry>
+<entry align="left">235</entry></row>
+<row valign="top">
+<entry align="left">H–N</entry>
+<entry align="left">390</entry>
+<entry align="left">C–Br</entry>
+<entry align="left">275</entry>
+<entry align="left">Si–Si</entry>
+<entry align="left">230</entry></row>
+<row valign="top">
+<entry align="left">H–O</entry>
+<entry align="left">464</entry>
+<entry align="left">C–I</entry>
+<entry align="left">240</entry>
+<entry align="left">Si–P</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left">H–F</entry>
+<entry align="left">569</entry>
+<entry align="left">N–N</entry>
+<entry align="left">160</entry>
+<entry align="left">Si–S</entry>
+<entry align="left">225</entry></row>
+<row valign="top">
+<entry align="left">H–Si</entry>
+<entry align="left">395</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>N</m:mtext><m:mo>=</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">418</entry>
+<entry align="left">Si–Cl</entry>
+<entry align="left">359</entry></row>
+<row valign="top">
+<entry align="left">H–P</entry>
+<entry align="left">320</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>N</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">946</entry>
+<entry align="left">Si–Br</entry>
+<entry align="left">290</entry></row>
+<row valign="top">
+<entry align="left">H–S</entry>
+<entry align="left">340</entry>
+<entry align="left">N–O</entry>
+<entry align="left">200</entry>
+<entry align="left">Si–I</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left">H–Cl</entry>
+<entry align="left">432</entry>
+<entry align="left">N–F</entry>
+<entry align="left">270</entry>
+<entry align="left">P–P</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left">H–Br</entry>
+<entry align="left">370</entry>
+<entry align="left">N–P</entry>
+<entry align="left">210</entry>
+<entry align="left">P–S</entry>
+<entry align="left">230</entry></row>
+<row valign="top">
+<entry align="left">H–I</entry>
+<entry align="left">295</entry>
+<entry align="left">N–Cl</entry>
+<entry align="left">200</entry>
+<entry align="left">P–Cl</entry>
+<entry align="left">330</entry></row>
+<row valign="top">
+<entry align="left">C–C</entry>
+<entry align="left">345</entry>
+<entry align="left">N–Br</entry>
+<entry align="left">245</entry>
+<entry align="left">P–Br</entry>
+<entry align="left">270</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">611</entry>
+<entry align="left">O–O</entry>
+<entry align="left">140</entry>
+<entry align="left">P–I</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">837</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>O</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">498</entry>
+<entry align="left">S–S</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left">C–N</entry>
+<entry align="left">290</entry>
+<entry align="left">O–F</entry>
+<entry align="left">160</entry>
+<entry align="left">S–Cl</entry>
+<entry align="left">250</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">615</entry>
+<entry align="left">O–Si</entry>
+<entry align="left">370</entry>
+<entry align="left">S–Br</entry>
+<entry align="left">215</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">891</entry>
+<entry align="left">O–P</entry>
+<entry align="left">350</entry>
+<entry align="left">Cl–Cl</entry>
+<entry align="left">243</entry></row>
+<row valign="top">
+<entry align="left">C–O</entry>
+<entry align="left">350</entry>
+<entry align="left">O–Cl</entry>
+<entry align="left">205</entry>
+<entry align="left">Cl–Br</entry>
+<entry align="left">220</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">741</entry>
+<entry align="left">O–I</entry>
+<entry align="left">200</entry>
+<entry align="left">Cl–I</entry>
+<entry align="left">210</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1.080</entry>
+<entry align="left">F–F</entry>
+<entry align="left">160</entry>
+<entry align="left">Br–Br</entry>
+<entry align="left">190</entry></row>
+<row valign="top">
+<entry align="left">C–F</entry>
+<entry align="left">439</entry>
+<entry align="left">F–Si</entry>
+<entry align="left">540</entry>
+<entry align="left">Br–I</entry>
+<entry align="left">180</entry></row>
+<row valign="top">
+<entry align="left">C–Si</entry>
+<entry align="left">360</entry>
+<entry align="left">F–P</entry>
+<entry align="left">489</entry>
+<entry align="left">I–I</entry>
+<entry align="left">150</entry></row>
+<row valign="top">
+<entry align="left">C–P</entry>
+<entry align="left">265</entry>
+<entry align="left">F–S</entry>
+<entry align="left">285</entry><entry/><entry/></row>
+</tbody>
+</tgroup>
+</table><table id="fs-idm44464336" class="top-titled" summary="Esta tabla tiene tres columnas y diez filas. La primera fila es una fila de encabezado que marca las columnas: &quot;Enlace&quot;, &quot;Longitud de enlace en angstroms&quot; y &quot;Energía de enlace en k J / mol&quot;. En la columna &quot;Enlace&quot; se encuentran los valores: El C se enlaza con el C con un enlace simple, el C se enlaza con el C con un doble enlace, el C se enlaza con el C con un triple enlace, el C se enlaza con el N con un enlace simple, el C se enlaza con el N con un doble enlace, el C se enlaza con el N con un triple enlace, el C se enlaza con el O con un enlace simple, el C se enlaza con el O con un doble enlace y el C se enlaza con el O con un triple enlace. En la columna &quot;Longitud de enlace en angstroms&quot; están los valores: 1,54, 1,34, 1,20, 1,43, 1,38, 1,16, 1,43, 1,23 y 1,13. En la columna &quot;Energía de enlace en k J / mol&quot; están los valores: 345, 611, 837, 290, 615, 891, 350, 741 y 1080.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Longitudes de enlace y energías de enlace medias de algunos enlaces comunes</entry>
+</row>
+<row valign="top">
+<entry align="left">Enlace</entry>
+<entry align="left">Longitud de enlace (Å)</entry>
+<entry align="left">Energía de enlace (kJ/mol)</entry></row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">C-C</entry>
+<entry align="left">1,54</entry>
+<entry align="left">345</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1,34</entry>
+<entry align="left">611</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1,20</entry>
+<entry align="left">837</entry></row>
+<row valign="top">
+<entry align="left">C-N</entry>
+<entry align="left">1,43</entry>
+<entry align="left">290</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1,38</entry>
+<entry align="left">615</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1,16</entry>
+<entry align="left">891</entry></row>
+<row valign="top">
+<entry align="left">C-O</entry>
+<entry align="left">1,43</entry>
+<entry align="left">350</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1,23</entry>
+<entry align="left">741</entry></row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">1,13</entry>
+<entry align="left">1.080</entry></row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp29959728">Podemos utilizar las energías de enlace para calcular los cambios de entalpía aproximados para las reacciones en las que no se dispone de entalpías de formación. Los cálculos de este tipo también nos dirán si una reacción es exotérmica o endotérmica. Una reacción exotérmica (Δ<emphasis effect="italics">H</emphasis> negativo, calor producido) resulta cuando los enlaces en los productos son más fuertes que los enlaces en los reactivos. Una reacción endotérmica (Δ<emphasis effect="italics">H</emphasis> positivo, calor absorbido) se produce cuando los enlaces de los productos son más débiles que los de los reactivos.</para>
+<para id="fs-idp234028832">El cambio de entalpía, Δ<emphasis effect="italics">H</emphasis>, en una reacción química es aproximadamente igual a la suma de la energía necesaria para romper todos los enlaces en los reactivos (energía "dentro", signo positivo) más la energía liberada cuando se forman todos los enlaces en los productos (energía "fuera", signo negativo). Esto se puede expresar matemáticamente de la siguiente manera:</para>
+<equation class="unnumbered" id="fs-idm40243760"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:msub><m:mtext>ƩD</m:mtext><m:mrow><m:mtext>enlaces rotos</m:mtext></m:mrow></m:msub><m:mo>-</m:mo><m:msub><m:mtext>ƩD</m:mtext><m:mrow><m:mtext>enlaces formados</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp118053616">En esta expresión, el símbolo Ʃ significa "la suma de" y D representa la energía de enlace en kilojulios por mol, que siempre es un número positivo. La energía de enlace se obtiene a partir de una tabla (como la <link target-id="fs-idm44464336"/>) y dependerá de que el enlace sea simple, doble o triple. Por lo tanto, al calcular las entalpías de esta manera, es importante que tengamos en cuenta el enlace en todos los reactivos y productos. Como los valores de D suelen ser promedios para un tipo de enlace en muchas moléculas diferentes, este cálculo proporciona una estimación aproximada, no un valor exacto, de la entalpía de reacción.</para>
+<para id="fs-idp17129504">Considere la siguiente reacción:</para>
+<equation class="unnumbered" id="fs-idp51383312"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp77710320">o</para>
+<equation class="unnumbered" id="fs-idp56299152"><m:math><m:mrow><m:mtext>H-H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Cl-Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>H-Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp201091440">Para formar dos moles de HCl, hay que romper un mol de enlaces H-H y un mol de enlaces Cl-Cl. La energía necesaria para romper estos enlaces es la suma de la energía de enlace del enlace H-H (436 kJ/mol) y del enlace Cl-Cl (243 kJ/mol). Durante la reacción, se forman dos moles de enlaces H-Cl (energía de enlace = 432 kJ/mol), liberando 2 <m:math><m:mo>×</m:mo></m:math> 432 kJ; o 864 kJ. Como los enlaces de los productos son más fuertes que los de los reactivos, la reacción libera más energía de la que consume:</para>
+<equation class="unnumbered" id="fs-idp14860448"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mtext>ƩD</m:mtext><m:mrow><m:mtext>enlaces rotos</m:mtext></m:mrow></m:msub><m:mo>-</m:mo><m:msub><m:mtext>ƩD</m:mtext><m:mrow><m:mtext>enlaces formados</m:mtext></m:mrow></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>H-H</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>Cl-Cl</m:mtext></m:mrow></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>H-Cl</m:mtext></m:mrow></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>436</m:mn><m:mo>+</m:mo><m:mn>243</m:mn></m:mrow><m:mo>]</m:mo></m:mrow><m:mo>-</m:mo><m:mn>2 </m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>432</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>-185</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp29639024">Este exceso de energía se libera en forma de calor, por lo que la reacción es exotérmica. El <link document="m68865">Apéndice G</link> da un valor para la entalpía molar estándar de formación del HCl(g), <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow><m:mo>,</m:mo></m:math> de –92,307 kJ/mol. El doble de ese valor es -184,6 kJ, lo que coincide con la respuesta que se obtuvo anteriormente para la formación de dos moles de HCl.</para>
+<example id="fs-idm33428592">
+<para id="fs-idp71590928"><title>Uso de las energías de enlace para calcular los cambios aproximados de entalpía</title>
+El metanol, CH<sub>3</sub>OH, puede ser un excelente combustible alternativo. La reacción a alta temperatura del vapor y el carbono produce una mezcla de los gases monóxido de carbono, CO, e hidrógeno, H<sub>2</sub>, a partir de la cual se puede producir metanol. Al usar las energías de enlace en la <link target-id="fs-idm44464336"/>, calcule el cambio aproximado de entalpía, Δ<emphasis effect="italics">H</emphasis>, para esta reacción:</para>
+<equation class="unnumbered" id="fs-idp93467344"><m:math><m:mrow><m:mtext>CO</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp41458304"><title>Solución</title>En primer lugar, tenemos que escribir las estructuras de Lewis de los reactivos y los productos:</para>
+<media id="fs-idp525280" alt="Un conjunto de diagramas de Lewis muestra una reacción química. La primera estructura muestra un átomo de carbono con un par solitario de electrones unido con triple enlace a un oxígeno con un par solitario de electrones. A la derecha de esta estructura hay un signo positivo, luego el número 2 seguido de un átomo de hidrógeno unido con enlace simple a otro átomo de hidrógeno. A la derecha de esta estructura hay una flecha orientada a la derecha, seguida de un átomo de hidrógeno unido con enlace simple a un átomo de carbono que tiene un enlace simple con dos átomos de hidrógeno y un átomo de oxígeno con dos pares solitarios de electrones. El átomo de oxígeno también está unido con enlace simple a un átomo de hidrógeno." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_CH3OHLew_img.jpg"/>
+</media>
+<para id="fs-idp202067232">A partir de esto, vemos que Δ<emphasis effect="italics">H</emphasis> en esta reacción implica la energía necesaria para romper un triple enlace C-O y dos enlaces simples H-H, así como la energía producida por la formación de tres enlaces simples C-H, un enlace simple C-O y un enlace simple O-H. Podemos expresarlo como sigue:</para>
+<equation class="unnumbered" id="fs-idp76020096"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mrow><m:mtext>ƩD</m:mtext></m:mrow><m:mrow><m:mtext>enlaces rotos</m:mtext></m:mrow></m:msub><m:mo>-</m:mo><m:msub><m:mrow><m:mtext>ƩD</m:mtext></m:mrow><m:mrow><m:mtext>enlaces formados</m:mtext></m:mrow></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>O</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>H-H</m:mtext></m:mrow></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>C-H</m:mtext></m:mrow></m:msub></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>C-O</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>O-H</m:mtext></m:mrow></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp53734416">Utilizando los valores de energía de enlace en la <link target-id="fs-idm44464336"/>, obtenemos:</para>
+<equation class="unnumbered" id="fs-idm103164880"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>1.080</m:mn><m:mo>+</m:mo><m:mn>2 </m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>436</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>415</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>350</m:mn><m:mo>+</m:mo><m:mn>464</m:mn></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo><m:mn>-107</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp126256512">Podemos comparar este valor con el valor calculado con base en <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> datos del Apéndice G:</para>
+<equation class="unnumbered" id="fs-idp158903840"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mtext>CO</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2 </m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mo>-</m:mo><m:mn>201,0</m:mn></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>-110,52</m:mn><m:mo>+</m:mo><m:mn>2 </m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0</m:mn></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo><m:mn>-90,5</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp56832128">Observe que hay una diferencia bastante importante entre los valores calculados con los dos métodos diferentes. Esto se debe a que los valores D son la <emphasis effect="italics">media</emphasis> de diferentes resistencias de enlace; por lo tanto, a menudo solo ofrecen una concordancia aproximada con otros datos.</para>
+<para id="fs-idp36454672"><title>Compruebe sus conocimientos</title>
+El alcohol etílico, CH<sub>3</sub>CH<sub>2</sub>OH, fue uno de los primeros productos químicos orgánicos sintetizados intencionalmente por el ser humano. Tiene muchos usos en la industria, y es el alcohol que contienen las bebidas alcohólicas. Puede obtenerse mediante la fermentación del azúcar o sintetizarse mediante la hidratación del etileno en la siguiente reacción:</para>
+<media id="fs-idp144672" alt="Un conjunto de estructuras de Lewis muestra una reacción química. La primera estructura muestra dos átomos de carbono con doble enlace y cada uno con un enlace simple a dos átomos de hidrógeno. A esta estructura le sigue un signo positivo y a continuación, un átomo de oxígeno con dos pares solitarios de electrones unido con enlace simple a dos átomos de hidrógeno. Una flecha hacia la derecha conduce a un átomo de carbono unido con enlace simple a tres átomos de hidrógeno y a un segundo átomo de carbono. El segundo átomo de carbono tiene un enlace simple con dos átomos de hidrógeno y un átomo de oxígeno con dos pares de electrones solitarios. El átomo de oxígeno también está unido con enlace simple a un átomo de hidrógeno." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_Ethanol_img.jpg"/>
+</media>
+<para id="fs-idp27645248">Utilizando las energías de enlace en la <link target-id="fs-idm44464336"/>, calcule un cambio de entalpía aproximado, Δ<emphasis effect="italics">H</emphasis>, para esta reacción.</para>
+<note id="fs-idp88406224">
+<title>Respuesta:</title>
+<para id="fs-idp24314032">-35 kJ</para>
+</note>
+</example>
+</section>
+<section id="fs-idm34679504">
+<title>Fuerza de enlace iónico y energía de red</title>
+<para id="fs-idm57606496">Un compuesto iónico es estable debido a la atracción electrostática entre sus iones positivos y negativos. La energía de red de un compuesto es una medida de la fuerza de esta atracción. La <term>energía de red (Δ<emphasis effect="italics">H</emphasis><sub>red</sub>)</term> de un compuesto iónico se define como la energía necesaria para separar un mol del sólido en sus iones gaseosos componentes. En el sólido iónico MX, la energía de red es el cambio de entalpía del proceso:</para>
+<equation class="unnumbered" id="fs-idp69066736"><m:math><m:mrow><m:mtext>MX</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>M</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>X</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>-</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>red</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm45000976">Tenga en cuenta que estamos utilizando la convención en la que el sólido iónico se separa en iones, por lo que nuestras energías de red serán <emphasis effect="italics">endotérmicas</emphasis> (valores positivos). Algunos textos utilizan la convención equivalente pero opuesta que la energía de red como la energía liberada cuando los iones separados se combinan para formar una red y dando valores negativos (exotérmicos). Por lo tanto, si busca energías de red en otra referencia, asegúrese de comprobar qué definición se utiliza. En ambos casos, una magnitud mayor para la energía de red indica un compuesto iónico más estable. En el cloruro de sodio, Δ<emphasis effect="italics">H</emphasis><sub>red</sub> = 769 kJ. Así, se necesitan 769 kJ para separar un mol de NaCl sólido en iones gaseosos Na<sup>+</sup> y Cl<sup>–</sup>. Cuando un mol de cada uno de los iones gaseosos Na<sup>+</sup> y Cl<sup>–</sup> forman el NaCl sólido, se liberan 769 kJ de calor.</para>
+<para id="fs-idp17453088">La energía de red Δ<emphasis effect="italics">H</emphasis><sub>red</sub> de un cristal iónico puede expresarse mediante la siguiente ecuación (derivada de la ley de Coulomb, que rige las fuerzas entre cargas eléctricas):</para>
+<equation class="unnumbered" id="fs-idm6917696"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>red</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>C</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mtext>Z</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mtext>Z</m:mtext><m:mtext>-</m:mtext></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:msub><m:mtext>R</m:mtext><m:mtext>o</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp14812032">en la que C es una constante que depende del tipo de estructura cristalina; Z<sup>+</sup> y Z<sup>–</sup> son las cargas de los iones; y R<sub>o</sub> es la distancia interiónica (la suma de los radios de los iones positivos y negativos). Así, la energía de red de un cristal iónico aumenta rápidamente a medida que las cargas de los iones aumentan y los tamaños de los iones disminuyen. Cuando todos los demás parámetros se mantienen constantes, duplicar la carga del catión y del anión cuadruplica la energía de la red. Por ejemplo, la energía de red del LiF (Z<sup>+</sup> y Z<sup>–</sup> = 1) es de 1023 kJ/mol, mientras que la del MgO (Z<sup>+</sup> y Z<sup>–</sup> = 2) es de 3900 kJ/mol el (R<sub>Ro</sub> es casi el mismo, alrededor de 200 pm para ambos compuestos).</para>
+<para id="fs-idp119064064">Diferentes distancias interatómicas producen diferentes energías de red. Por ejemplo, podemos comparar la energía de red del MgF<sub>2</sub> (2957 kJ/mol) con la del MgI<sub>2</sub> (2327 kJ/mol) para observar el efecto en la energía de red del menor tamaño iónico del F<sup>–</sup> en comparación con el I<sup>–</sup>.</para>
+<example id="fs-idp16649648">
+<para id="fs-idm39273856"><title>Comparaciones de la energía de red</title>
+La gema preciosa rubí es óxido de aluminio, Al<sub>2</sub>O<sub>3</sub>, que contiene trazas de Cr<sup>3+</sup>. El compuesto Al<sub>2</sub>Se<sub>3</sub> se utiliza en la fabricación de algunos dispositivos semiconductores. ¿Cuál tiene mayor energía de red, Al<sub>2</sub>O<sub>3</sub> o Al<sub>2</sub>Se<sub>3</sub>?</para>
+<para id="fs-idm3251216"><title>Solución</title>
+En estos dos compuestos iónicos, las cargas Z<sup>+</sup> y Z<sup>–</sup> son iguales, por lo que la diferencia de energía de red dependerá de R<sub>o</sub>. El ion O<sup>2–</sup> es más pequeño que el ion Se<sup>2–</sup>. Así, el Al<sub>2</sub>O<sub>3</sub> tendría una distancia interiónica más corta que el Al<sub>2</sub>Se<sub>3</sub>, y el Al<sub>2</sub>O<sub>3</sub> tendría la energía de red más grande.</para>
+<para id="fs-idp49595360"><title>Compruebe sus conocimientos</title>
+El óxido de zinc, ZnO, es un protector solar muy eficaz. ¿Cómo se compararía la energía de red del ZnO con la del NaCl?</para>
+<note id="fs-idp176836208">
+<title>Respuesta:</title>
+<para id="fs-idp821600">El ZnO tendría la mayor energía de red porque los valores Z del catión y del anión en el ZnO son mayores, y la distancia interiónica del ZnO es menor que la del NaCl.</para>
+</note>
+</example>
+</section>
+<section id="fs-idp112167568"><title>El ciclo Born-Haber</title><para id="fs-idp51725632">No es posible medir directamente las energías de la red. Sin embargo, la energía de red puede calcularse utilizando la ecuación dada en la sección anterior o utilizando un ciclo termoquímico. El <term>ciclo de Born-Haber</term> es una aplicación de la ley de Hess que descompone la formación de un sólido iónico en una serie de pasos individuales:</para>
+<list id="fs-idp77725760" list-type="bulleted" bullet-style="bullet">
+<item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> la entalpía estándar de formación del compuesto</item>
+<item><emphasis effect="italics">IE</emphasis>, la energía de ionización del metal</item>
+<item><emphasis effect="italics">EA</emphasis>, la afinidad electrónica del no metal</item>
+<item><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> la entalpía de sublimación del metal</item>
+<item><emphasis effect="italics">D</emphasis>, la energía de disociación del enlace del no metal</item>
+<item>Δ<emphasis effect="italics">H</emphasis><sub>red</sub>, la energía de red del compuesto</item>
+</list>
+<para id="fs-idm6705632">La <link target-id="CNX_Chem_07_05_BornHaber"/> muestra un diagrama del ciclo de Born-Haber para la formación de fluoruro de cesio sólido.</para>
+<figure id="CNX_Chem_07_05_BornHaber">
+<media id="fs-idp9559440" alt="Se muestra un diagrama. En el extremo izquierdo del gráfico hay una flecha hacia arriba marcada como &quot;H creciente&quot;. Se dibuja una línea horizontal en la parte inferior del diagrama. Una flecha vertical hacia abajo, a la izquierda de esta línea, está marcada como &quot;Cambio global&quot; Al lado de esta flecha hay otra marca, &quot;delta H mayúscula subíndice f, es igual a 553,5 k J por mol negativo, ( Entalpía de formación )&quot;. Tres líneas horizontales, una encima de la otra y todas sobre la línea inferior, están marcadas de abajo a arriba como: &quot;C s ( s ), signo positivo, mitad subíndice F 2, ( g )&quot;, &quot;C s ( g ), signo positivo, mitad subíndice F 2, ( g )&quot;, y &quot;C s, signo positivo superíndice, ( g ), signo positivo, mitad subíndice F 2, ( g )&quot;. Cada una de estas líneas está conectada por una flecha vertical hacia arriba. Cada flecha está marcada como &quot;delta H mayúscula subíndice 1 es igual a 76,5 k J por mol, ( Entalpía de sublimación )&quot;, &quot;delta H mayúscula subíndice 2, es igual a 375,7 k J por mol, ( energía de ionización )&quot;, y &quot;delta H mayúscula subíndice 3 es igual a 79,4 k J / mol ( media energía de disociación ). Hay otra línea horizontal en la parte superior central del diagrama marcada como &quot;C s, signo positivo superíndice, ( g ), signo positivo, F, ( g )&quot;. Hay una línea horizontal adicional dibujada a la derecha del diagrama general y situada a mitad de la imagen. Una flecha conecta la línea superior con esta línea y está marcada, &quot;delta H mayúscula es igual a 328,2 k J / mol negativo ( afinidad electrónica )&quot;. La línea está marcada como &quot;C s superíndice signo positivo ( g ) más F superíndice signo negativo ( g )&quot;. La flecha que conecta esta línea con la línea inferior está marcada como &quot;subíndice negativo delta H mayúscula es igual a 756,9 k J / mol negativo&quot;. La flecha señala una marca en la línea inferior que dice: &quot;C s F ( s )&quot;." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_BornHaber.jpg"/>
+</media>
+<caption>El ciclo de Born-Haber muestra las energías relativas de cada paso implicado en la formación de un sólido iónico a partir de los elementos necesarios en sus estados de referencia.</caption>
+</figure>
+<para id="fs-idp53345328">Comenzamos con los elementos en sus estados más comunes, Cs(<emphasis effect="italics">s</emphasis>) and F<sub>2</sub>(<emphasis effect="italics">g</emphasis>). El <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> representa la conversión del cesio sólido en gas, y luego la energía de ionización convierte los átomos de cesio gaseoso en cationes. En el siguiente paso, contabilizamos la energía necesaria para romper el enlace F-F y producir átomos de flúor. La conversión de un mol de átomos de flúor en iones de flúor es un proceso exotérmico, por lo que este paso desprende energía (la afinidad electrónica) y se muestra como decreciente a lo largo del eje <emphasis effect="italics">y</emphasis>. Ahora tenemos un mol de cationes Cs y un mol de aniones F. Estos iones se combinan para producir fluoruro de cesio sólido. El cambio de entalpía en este paso es el negativo de la energía de red, por lo que también es una cantidad exotérmica. La energía total implicada en esta conversión es igual a la entalpía de formación determinada experimentalmente, <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> del compuesto a partir de sus elementos. En este caso, el cambio global es exotérmico.</para>
+<para id="fs-idm23453808">La ley de Hess también puede utilizarse para mostrar la relación entre las entalpías de los pasos individuales y la entalpía de formación. La <link target-id="fs-idm33829552"/> lo muestra para el fluoruro, CsF.</para>
+<table id="fs-idm33829552" summary="La tabla tiene dos columnas y seis filas. La primera fila está marcada como &quot;Entalpía de sublimación de C s ( s )&quot; y la entalpía de la reacción es C s ( s ) produce C s ( g ). Junto a esta ecuación está delta mayúscula H que equivale a delta mayúscula H subíndice s superíndice símbolo de grado que también es igual a 76,5 k J. La segunda fila está marcada, &quot;La mitad de la energía de enlace de C l subíndice 2&quot;. La ecuación para esto es la mitad de C l subíndice 2 ( g ) produce C l ( g ). Al lado de esta ecuación, el delta mayúscula H es igual a la mitad de D, que también es igual a 122 k J. La tercera fila está marcada como &quot;Energía de ionización de N a ( g )&quot;. La ecuación para la energía de ionización de N a ( g ) es N a ( g ) produce N a superíndice signo positivo ( g ) más e minúscula superíndice signo negativo. Al lado de esta ecuación está delta mayúscula H es igual a I E que también es igual a 496 k J. La cuarta fila está marcada como &quot;Negativo de la afinidad electrónica de C l&quot;. La ecuación para esto es C l ( g ) más e minúscula superíndice signo negativo produce C l superíndice signo negativo ( g ). Junto a esta ecuación está delta mayúscula H es igual a E A negativo que también es igual a 368 k J negativos. La quinta fila está marcada como &quot;Negativo de la energía de red de N a C l ( s )&quot;. La ecuación para esto es N a superíndice signo positivo ( g ) más C l superíndice signo negativo ( g ) produce N a C l ( s ). Junto a esta ecuación delta mayúscula H es igual a delta mayúscula H negativa subíndice red que también es igual a desconocido. La sexta y última fila está marcada como &quot;Entalpía de formación de N a C l ( s ), añadir los pasos 1 - 5&quot;. La ecuación para esto es delta mayúscula H es igual a delta mayúscula H subíndice f superíndice símbolo de grado que también es igual a delta mayúscula H subíndice s superíndice símbolo de grado más medio D más I E más E A negativo más delta mayúscula H subíndice red. Debajo de esa ecuación, hay otra que es N a ( s ) más la mitad de C l subíndice 2 ( g ) produce N a C l ( s ) que es igual a 411 k J negativo." class="column-header"><label/>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<tbody>
+<row valign="middle">
+<entry align="left">Entalpía de sublimación del Cs(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Cs</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cs</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> grandes.</entry>
+<entry align="left">Los términos <m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mn>76,5</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">La mitad de la energía de enlace del F<sub>2</sub></entry>
+<entry align="left"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>F</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>F</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> grandes.</entry>
+<entry align="left">Los términos <m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mi>D</m:mi><m:mo>=</m:mo><m:mn>79,4</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">Energía de ionización del Cs(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Cs</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cs</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></entry>
+<entry align="left">Los términos <m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mi>I</m:mi><m:mi>E</m:mi><m:mo>=</m:mo><m:mn>375,7</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">Afinidad electrónica de F</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>F</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>F</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math> grandes.</entry>
+<entry align="left">Los términos <m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mi>E</m:mi><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>-328,2</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">Negativo de la energía de red de CsF(<emphasis effect="italics">s</emphasis>)</entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cs</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>F</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CsF</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>).</m:mo></m:mrow></m:mrow></m:math> grandes.</entry>
+<entry align="left">Los términos <m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mtext>−Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>red</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mo>con dígito d?</m:mo></m:math></entry>
+</row>
+<row valign="middle">
+<entry align="left">Entalpía de formación de CsF(<emphasis effect="italics">s</emphasis>), añadir los pasos 1–5</entry>
+<entry align="left"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>f</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mi>D</m:mi><m:mo>+</m:mo><m:mi>I</m:mi><m:mi>E</m:mi><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>E</m:mi><m:mi>A</m:mi></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mo>-</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>red</m:mtext></m:mrow></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Cs</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>).</m:mo></m:mrow><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CsF</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>).</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math> grandes.</entry>
+<entry align="left">Los términos <m:math><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>-553,5</m:mn><m:mtext>kJ/mol</m:mtext></m:math></entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+<para id="fs-idp28364752">Así, la energía de la red puede calcularse a partir de otros valores. Para el fluoruro de cesio, utilizando estos datos, la energía de red es:</para>
+<equation class="unnumbered" id="fs-idp37818096"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>red</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>76,5</m:mn><m:mo>+</m:mo><m:mn>79,4</m:mn><m:mo>+</m:mo><m:mn>375,7</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>-328,2</m:mn><m:mo>)</m:mo><m:mo>–</m:mo><m:mo>(</m:mo><m:mn>-553,5</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>756,9</m:mn><m:mspace width="0.2em"/><m:mtext>kJ/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm78151632">El ciclo de Born-Haber también puede utilizarse para calcular cualquiera de las otras cantidades de la ecuación de la energía de la red, siempre que se conozca el resto. Por ejemplo, si la entalpía de sublimación relevante <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mi>s</m:mi><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> la energía de ionización (IE), la entalpía de disociación de enlace (D), la energía de red Δ<emphasis effect="italics">H</emphasis><sub>red</sub>, y la entalpía estándar de formación <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> se conocen, el ciclo de Born-Haber puede utilizarse para determinar la afinidad electrónica de un átomo.</para>
+<para id="fs-idm10039728">Las energías de red calculadas para los compuestos iónicos suelen ser mucho más altas que las energías de disociación de los enlaces medidos para los enlaces covalentes. Mientras que las energías de red suelen situarse en el rango de 600–4000 kJ/mol (algunas incluso más altas), las energías de disociación de los enlaces covalentes suelen estar entre 150–400 kJ/mol para los enlaces simples. Sin embargo, hay que tener en cuenta que no son valores directamente comparables. En el caso de los compuestos iónicos, las energías de red están asociadas a muchas interacciones, ya que los cationes y los aniones se agrupan en una red extendida. En los enlaces covalentes, la energía de disociación del enlace está asociada a la interacción de solo dos átomos.</para>
+</section><section id="fs-idp234492208" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm21693280">La fuerza de un enlace covalente se mide por su energía de disociación del enlace, es decir, la cantidad de energía necesaria para romper ese enlace concreto en un mol de moléculas. Los enlaces múltiples son más fuertes que los enlaces simples entre los mismos átomos. La entalpía de una reacción puede estimarse a partir del aporte de energía necesario para romper los enlaces y la energía liberada cuando se forman nuevos enlaces. En los enlaces iónicos, la energía de red es la energía necesaria para separar un mol de un compuesto en sus iones en fase gaseosa. La energía de la red aumenta en los iones con cargas más altas y distancias más cortas entre los iones. Las energías de red se calculan a menudo utilizando el ciclo de Born-Haber, un ciclo termoquímico que incluye todos los pasos energéticos implicados en la conversión de elementos en un compuesto iónico.</para>
+</section>
+<section id="fs-idm37663600" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry>Energía de enlace en una molécula diatómica: <m:math><m:mrow><m:mtext>XY</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>X</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Y</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="3em"/><m:msub><m:mtext>D</m:mtext><m:mrow><m:mtext>X-Y</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext></m:mrow></m:math></entry>
+</row>
+<row><entry>Cambio de entalpía: Δ<emphasis effect="italics">H</emphasis> = ƩD<sub>enlaces rotos</sub> – ƩD<sub>enlaces formados</sub></entry>
+</row>
+<row><entry>Energía de red para un sólido MX: <m:math><m:mrow><m:mtext>MX</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>M</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>X</m:mtext><m:mrow><m:mi>n</m:mi><m:mtext>-</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>red</m:mtext></m:mrow></m:msub></m:mrow></m:math></entry>
+</row>
+<row><entry>Energía de red en un cristal iónico: <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>red</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>C</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mtext>Z</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mtext>Z</m:mtext><m:mtext>-</m:mtext></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:msub><m:mtext>R</m:mtext><m:mtext>o</m:mtext></m:msub></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idp75946800" class="exercises"><title>Ejercicios de fin de capítulo de Química</title><exercise id="fs-idp18527664">
+<problem id="fs-idm31250240">
+<para id="fs-idp75695024">¿Qué enlace de cada uno de los siguientes pares de enlaces es el más fuerte?</para>
+<para id="fs-idp174181168">(a) C–C o <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp191457408">(b) C–N o <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm37995600">(c)<m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>O</m:mtext></m:mrow></m:math> o <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp19512320">(d) H–F o H–Cl</para>
+<para id="fs-idm2333776">(e) C–H o O–H</para>
+<para id="fs-idp120232048">(f) C–N o C–O</para>
+</problem>
+</exercise>
+<exercise id="fs-idp16780032">
+<problem id="fs-idp37241056">
+<para id="fs-idm20426752">Utilizando las energías de enlace en la <link target-id="fs-idp13638832"/>, determine el cambio de entalpía aproximado en cada una de las siguientes reacciones:</para>
+<para id="fs-idp13624240">(a) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>HBr</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-idm48592992">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>I</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>HI</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-idm27033728">(c) <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp55504208">
+<para id="fs-idm5136112">(a) -114 kJ; (b) 30 kJ; (c) -1055 kJ</para></solution>
+</exercise>
+<exercise id="fs-idp57429280">
+<problem id="fs-idp48795376">
+<para id="fs-idp240397744">Utilizando las energías de enlace en la <link target-id="fs-idp13638832"/>, determine el cambio de entalpía aproximado en cada una de las siguientes reacciones:</para>
+<para id="fs-idp188770912">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>ClF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp123909120">(b) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CCH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp30139536">(c) <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>7</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp28520976">
+<problem id="fs-idp28294656">
+<para id="fs-idp220216256">Cuando una molécula puede formar dos estructuras diferentes, la estructura con los enlaces más fuertes suele ser la forma más estable. Utilice las energías de enlace para predecir la estructura correcta de la molécula de hidroxilamina:</para>
+<media id="fs-idm6604832" alt="Se muestran dos estructuras de Lewis con la palabra &quot;o&quot; escrita entre ellas. La estructura de la izquierda muestra un átomo de nitrógeno con un par solitario de electrones unido con enlace simple átomo de hidrógeno dos átomos de hidrógeno. También está unido a un átomo de oxígeno con dos pares solitarios de electrones. El átomo de oxígeno está unido a un átomo de hidrógeno. La estructura de la derecha muestra un átomo de nitrógeno unido con enlace simple a tres átomos de hidrógeno y un átomo de oxígeno con tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_Hydroxya_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp16844192">
+<para id="fs-idm52245504">La mayor energía de enlace está en la figura de la izquierda. Es la forma más estable.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20766256">
+<problem id="fs-idm6034544">
+<para id="fs-idm22015856">¿En qué se diferencia la energía de enlace del HCl(<emphasis effect="italics">g</emphasis>) de la entalpía estándar de formación del HCl(<emphasis effect="italics">g</emphasis>)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp19159472">
+<problem id="fs-idm7424064">
+<para id="fs-idp16480976">Utilizando los datos de entalpía estándar de formación del <link document="m68865">Apéndice G</link>, muestre cómo puede utilizarse la entalpía estándar de formación del HCl(<emphasis effect="italics">g</emphasis>) para determinar la energía de enlace.</para>
+</problem>
+<solution id="fs-idp65612672">
+<para id="fs-idm85832672"><newline/><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr><m:mtd><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>1</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>−Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>°</m:mo></m:msubsup></m:mtd></m:mtr><m:mtr><m:mtd><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="8.5em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>2</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>°</m:mo></m:msubsup></m:mtd></m:mtr><m:mtr><m:mtd><m:munder accentunder="true"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="8em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>3</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Cl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="5.5em"/><m:mtext>Δ</m:mtext><m:msup><m:mi>H</m:mi><m:mo>°</m:mo></m:msup><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>1</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>2</m:mn><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mn>3</m:mn><m:mo>°</m:mo></m:msubsup></m:mtd></m:mtr></m:mtable></m:math><newline/> <m:math><m:mtable columnalign="left"><m:mtr columnalign="left"><m:mtd><m:mrow><m:msub><m:mi>D</m:mi><m:mrow><m:mtext>HCl</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msup><m:mi>H</m:mi><m:mo>°</m:mo></m:msup></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mo stretchy="false">[</m:mo><m:mtext>HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mo stretchy="false">[</m:mo><m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext><m:mo stretchy="false">[</m:mo><m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow><m:mo>°</m:mo></m:msubsup></m:mrow></m:mtd></m:mtr><m:mtr/><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>-</m:mo><m:mo stretchy="false">(</m:mo><m:mn>-92,307</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>217,97</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>+</m:mo><m:mn>121,3</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd><m:mrow/></m:mtd><m:mtd><m:mo>=</m:mo><m:mrow><m:mn>431,6</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:math></para></solution>
+</exercise>
+<exercise id="fs-idp65498352">
+<problem id="fs-idp23041056">
+<para id="fs-idp23041312">Utilizando los datos de entalpía estándar de formación del <link document="m68865">Apéndice G</link>, calcule la energía de enlace del doble enlace carbono-azufre en el CS<sub>2</sub>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp19660960">
+<problem id="fs-idp16871040">
+<para id="fs-idp16871296">Utilizando los datos de entalpía estándar de formación del <link document="m68865">Apéndice G</link>, determine qué enlace es más fuerte: ¿el enlace S-F en SF<sub>4</sub>(<emphasis effect="italics">g</emphasis>) o en SF<sub>6</sub>(<emphasis effect="italics">g</emphasis>)?</para>
+</problem>
+<solution id="fs-idp19698336">
+<para id="fs-idm223998784">El enlace S-F en el SF<sub>4</sub> es más fuerte.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm2894352">
+<problem id="fs-idm2894096">
+<para id="fs-idp88452992">Utilizando los datos de entalpía estándar de formación del <link document="m68865">Apéndice G</link>, determine qué enlace es más fuerte: ¿el enlace P-Cl en PCl<sub>3</sub>(<emphasis effect="italics">g</emphasis>) o en PCl<sub>5</sub>(<emphasis effect="italics">g</emphasis>)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm22310960">
+<problem id="fs-idp16666336">
+<para id="fs-idp16666592">Complete la siguiente estructura de Lewis añadiendo enlaces (no átomos) e indique el enlace más largo:</para>
+<media id="fs-idp123644096" alt="Se muestra una estructura de Lewis a la que le faltan los enlaces. Muestra una fila horizontal de seis átomos de carbono, igualmente espaciados. Se dibujan tres átomos de hidrógeno alrededor del primer carbono, dos alrededor del segundo, uno por encima del quinto y dos alrededor del sexto.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_C6H8Lew_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp44310208">
+<para id="fs-idp46735152"> <newline/><media id="fs-idp57448112" alt="Se muestra una estructura de Lewis. Un átomo de carbono unido con enlace simple a tres átomos de hidrógeno se une a un segundo átomo de carbono. El segundo átomo de carbono está unido con enlace simple a dos átomos de hidrógeno. El segundo átomo de carbono tiene un enlace simple con un tercer átomo de carbono unido con triple enlace a un cuarto átomo de carbono unido con enlace simple a un quinto átomo de carbono. El quinto átomo de carbono tiene un enlace simple con un átomo de hidrógeno y un doble enlace con un sexto átomo de carbono que tiene un enlace simple con dos átomos de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_C6H8ans_img.jpg"/>
+</media><newline/> Los enlaces simples C–C son los más largos.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp57420000">
+<problem id="fs-idp78457408">
+<para id="fs-idp78457664">Utilice la energía de enlace para calcular un valor aproximado de Δ<emphasis effect="italics">H</emphasis> en la siguiente reacción. ¿Cuál es la forma más estable del FNO<sub>2</sub>?</para>
+<media id="fs-idp40889632" alt="Se muestran dos estructuras de Lewis con una flecha hacia la derecha entre ellas. La estructura de la izquierda muestra un átomo de nitrógeno unido con doble enlace a un átomo de oxígeno con dos pares solitarios de electrones. También está unido a un átomo de flúor y a otro átomo de oxígeno, cada uno con tres pares solitarios de electrones. La estructura de la derecha muestra un átomo de oxígeno con dos pares solitarios de electrones unido con doble enlace a un átomo de nitrógeno con un par solitario de electrones. Este átomo de nitrógeno tiene un enlace simple con un oxígeno con dos pares solitarios de electrones. El átomo de oxígeno tiene un enlace simple con un átomo de flúor con tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_05_FNO2_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idp12625232">
+<problem id="fs-idp15947632">
+<para id="fs-idp15947888">Utilice los principios de la estructura atómica para responder a cada una de las siguientes preguntas:<footnote id="fs-idp7089072">Esta pregunta está tomada del examen de Química de nivel avanzado y se utiliza con el permiso del Educational Testing Service.</footnote></para>
+<para id="fs-idm3330960">(a) El radio del átomo de Ca es de 197 pm; el radio del ion Ca<sup>2+</sup> es de 99 pm. Tenga en cuenta la diferencia.</para>
+<para id="fs-idp235052400">(b) La energía de red del CaO(<emphasis effect="italics">s</emphasis>) es de -3460 kJ/mol; la energía de red del K<sub>2</sub>O es de -2240 kJ/mol. Tenga en cuenta la diferencia.</para>
+<para id="fs-idp15127728">(c) Dados estos valores de ionización, explique la diferencia entre el Ca y el K con respecto a sus energías de primera y segunda ionización.</para>
+<table id="fs-idm30060832" summary="Esta tabla tiene tres columnas y tres filas. La primera fila es una fila de encabezado que marca las columnas: &quot;Elemento&quot;, &quot;Primera energía de ionización en k J / mol&quot; y &quot;Segunda energía de ionización en k J / mol&quot;. En la columna &quot;Elemento&quot; están las letras: K y C a. En la columna &quot;Energía de primera ionización en k J / mol&quot; están los valores: 419 y 590. En la columna &quot;Segunda energía de ionización en k J / mol&quot; están los valores: 3050 y 1140." class="unnumbered">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="left">Elemento</entry>
+<entry align="left">Primera energía de ionización (kJ/mol)</entry>
+<entry align="left">Segunda energía de ionización (kJ/mol)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">K</entry>
+<entry align="left">419</entry>
+<entry align="left">3.050</entry>
+</row>
+<row valign="top">
+<entry align="left">Ca</entry>
+<entry align="left">590</entry>
+<entry align="left">1.140</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm33928080">(d) La primera energía de ionización del Mg es de 738 kJ/mol y la del Al es de 578 kJ/mol. Tenga en cuenta esta diferencia.</para>
+</problem>
+<solution id="fs-idp77726624">
+<para id="fs-idp77726880">(a) Cuando se eliminan dos electrones de la capa de valencia, el radio del Ca pierde el nivel de energía más externo y vuelve al nivel inferior <emphasis effect="italics">n</emphasis> = 3, cuyo radio es mucho más pequeño. (b) La carga +2 del calcio acerca mucho más el oxígeno en comparación con el K, aumentando así la energía de la red en relación con un ion menos cargado. (c) La eliminación del electrón 4<emphasis effect="italics">s</emphasis> en el Ca requiere más energía que la eliminación del electrón 4<emphasis effect="italics">s</emphasis> en el K debido a la mayor atracción del núcleo y a la energía extra necesaria para romper el emparejamiento de los electrones. La segunda energía de ionización del K requiere que un electrón sea retirado de un nivel de energía más bajo, donde la atracción es mucho más fuerte del núcleo para el electrón. Además, se necesita energía para desemparejar dos electrones en un orbital completo. En el Ca, el segundo potencial de ionización requiere la eliminación de un solo electrón solitario en el nivel de energía exterior expuesto. (d) En el Al, el electrón eliminado está relativamente desprotegido y no apareado en un orbital <emphasis effect="italics">p</emphasis>. La mayor energía para el Mg refleja principalmente el desparejamiento del electrón 2<emphasis effect="italics">s</emphasis>.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp46666496">
+<problem id="fs-idp46666752">
+<para id="fs-idp794240">La energía de red del LiF es de 1023 kJ/mol, y la distancia Li-F es de 200,8 pm. El NaF cristaliza en la misma estructura que el LiF pero con una distancia Na-F de 231 pm. ¿Cuál de los siguientes valores se aproxima más a la energía de red del NaF? 510, 890, 1023, 1175 o 4090 kJ/mol? Explique su elección.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp236067168">
+<problem id="fs-idp236067424">
+<para id="fs-idp236067680">¿En cuál de las siguientes sustancias se requiere menos energía para convertir un mol del sólido en iones separados?</para>
+<para id="fs-idp211527872">(a) MgO</para>
+<para id="fs-idp90299856">(b) SrO</para>
+<para id="fs-idp90300240">(c) KF</para>
+<para id="fs-idp174354464">(d) CsF</para>
+<para id="fs-idp174354848">(e) MgF<sub>2</sub></para>
+</problem>
+<solution id="fs-idm38686272">
+<para id="fs-idm38686016">(d)</para>
+</solution>
+</exercise>
+<exercise id="fs-idm39061296">
+<problem id="fs-idm39061040">
+<para id="fs-idm39060784">La reacción de un metal, M, con un halógeno, X<sub>2</sub>, procede por una reacción exotérmica como indica esta ecuación: <m:math><m:mrow><m:mtext>M</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>).</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>X</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>MX</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>.</m:mo></m:mrow></m:math> En cada uno de los siguientes casos, indique qué opción hará que la reacción sea más exotérmica. Explique sus respuestas.</para>
+<para id="fs-idp48865984">(a) un radio grande frente a un radio pequeño para M<sup>+2</sup></para>
+<para id="fs-idm52945984">(b) una energía de ionización alta frente a una energía de ionización baja para M</para>
+<para id="fs-idm37748736">(c) una energía de enlace creciente para el halógeno</para>
+<para id="fs-idm37748352">d) una afinidad electrónica decreciente para el halógeno</para>
+<para id="fs-idm38878512">e) un tamaño creciente del anión formado por el halógeno</para>
+</problem>
+</exercise>
+<exercise id="fs-idp55219680">
+<problem id="fs-idp10681296">
+<para id="fs-idp10681552">La energía de red del LiF es de 1023 kJ/mol, y la distancia Li-F es de 201 pm. El MgO cristaliza en la misma estructura que el LiF pero con una distancia Mg-O de 205 pm. Cuál de los siguientes valores se aproxima más a la energía de red del MgO: ¿256 kJ/mol, 512 kJ/mol, 1023 kJ/mol, 2046 kJ/mol o 4008 kJ/mol? Explique su elección.</para>
+</problem>
+<solution id="fs-idm27862768">
+<para id="fs-idm27862512">4008 kJ/mol; los dos iones del MgO tienen el doble de carga que los del LiF; la longitud de los enlaces es muy similar y ambos tienen la misma estructura; se espera una cuadruplicación de la energía según la ecuación de la energía de red.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm27862256">
+<problem id="fs-idp23005264">
+<para id="fs-idp23005520">¿Qué compuesto de cada uno de los siguientes pares tiene la mayor energía de red? Nota: El Mg<sup>2+</sup> y el Li<sup>+</sup> tienen radios similares; el O<sup>2–</sup> y el F<sup>–</sup> tienen radios similares. Explique sus elecciones.</para>
+<para id="fs-idm42318048">(a) MgO o MgSe</para>
+<para id="fs-idp14229536">(b) LiF o MgO</para>
+<para id="fs-idp14229920">(c) Li<sub>2</sub>O o LiCl</para>
+<para id="fs-idm39601280">(d) Li<sub>2</sub>Se o MgO</para>
+</problem>
+</exercise>
+<exercise id="fs-idp29388832">
+<problem id="fs-idp19286528">
+<para id="fs-idp19286784">¿Qué compuesto de cada uno de los siguientes pares tiene la mayor energía de red? Nota: Ba<sup>2+</sup> y</para>
+<para id="fs-idp1147008">K<sup>+</sup> tienen radios similares; S<sup>2–</sup> y Cl<sup>–</sup> tienen radios similares. Explique sus elecciones.</para>
+<para id="fs-idp26686336">(a) K<sub>2</sub>O o Na<sub>2</sub>O</para>
+<para id="fs-idp81635552">(b) K<sub>2</sub>S o BaS</para>
+<para id="fs-idp55153232">(c) KCl o BaS</para>
+<para id="fs-idp55110752">(d) BaS o BaCl<sub>2</sub></para>
+</problem>
+<solution id="fs-idm42840528">
+<para id="fs-idm42840272">(a) Na<sub>2</sub>O; Na<sup>+</sup> tiene un radio menor que el K<sup>+</sup>; (b) BaS; el Ba tiene una carga mayor que el K; (c) BaS; el Ba y el S tienen cargas mayores; (d) BaS; el S tiene una carga mayor.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp51586816">
+<problem id="fs-idp51587072">
+<para id="fs-idp51587328">¿Cuál de los siguientes compuestos requiere más energía para convertir un mol del sólido en iones separados?</para>
+<para id="fs-idm8325008">(a) MgO</para>
+<para id="fs-idm8324624">(b) SrO</para>
+<para id="fs-idm2086432">(c) KF</para>
+<para id="fs-idm2086048">(d) CsF</para>
+<para id="fs-idp185408896">(e) MgF<sub>2</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp56209472">
+<problem id="fs-idp56209728">
+<para id="fs-idp16978800">¿Cuál de los siguientes compuestos requiere más energía para convertir un mol del sólido en iones separados?</para>
+<para id="fs-idp16979312">(a) K<sub>2</sub>S</para>
+<para id="fs-idp58281056">(b) K<sub>2</sub>O</para>
+<para id="fs-idp48854512">(c) CaS</para>
+<para id="fs-idp123580176">(d) Cs<sub>2</sub>S</para>
+<para id="fs-idp110456432">(e) CaO</para>
+</problem>
+<solution id="fs-idm33170544">
+<para id="fs-idm33170288">(e)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp15208208">
+<problem id="fs-idp15208464">
+<para id="fs-idp15208720">La energía de red del KF es de 794 kJ/mol, y la distancia interiónica es de 269 pm. La distancia en el Na–F</para>
+<para id="fs-idp18704480">en el NaF, que tiene la misma estructura que el KF, es de 231 pm. Cuál de los siguientes valores es la aproximación más cercana a la energía de red del NaF: ¿682 kJ/mol, 794 kJ/mol, 924 kJ/mol, 1588 kJ/mol o 3175 kJ/mol? Explique su respuesta.</para>
+</problem>
+</exercise>
+</section>  </content>
+<glossary>
+<definition id="fs-idp10319376">
+<term>energía de enlace</term>
+<meaning id="fs-idm69489984">(también, energía de disociación del enlace) energía necesaria para romper un enlace covalente en una sustancia gaseosa.</meaning>
+</definition>
+<definition id="fs-idp39711472">
+<term>Ciclo de Born-Haber</term>
+<meaning id="fs-idp39712112">ciclo termoquímico que relaciona las diferentes etapas energéticas que intervienen en la formación de un sólido iónico a partir de los elementos correspondientes.</meaning>
+</definition>
+<definition id="fs-idp29295648">
+<term>energía de red (Δ<emphasis effect="italics">H</emphasis><sub>red</sub>)</term>
+<meaning id="fs-idm7620624">energía necesaria para separar un mol de un sólido iónico en los iones gaseosos que lo componen.</meaning>
+</definition>
+</glossary>
+</document>

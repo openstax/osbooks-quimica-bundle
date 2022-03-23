@@ -1,0 +1,897 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Propiedades coligativas</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68783</md:content-id>
+  <md:title>Propiedades coligativas</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Expresar las concentraciones de los componentes de la solución utilizando la fracción molar y la molalidad.</item>
+<item>Describir el efecto de la concentración del soluto en varias propiedades de la solución (presión de vapor, punto de ebullición, punto de congelación y presión osmótica).</item>
+<item>Hacer cálculos utilizando las ecuaciones matemáticas que describen estos diversos efectos coligativos.</item>
+<item>Describir el proceso de destilación y sus aplicaciones prácticas.</item>
+<item>Explicar el proceso de ósmosis y describir su aplicación industrial y en la naturaleza.</item>
+</list></md:abstract>
+  <md:uuid>41124640-ce56-4231-9851-d5169f64335f</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp74224880">Las propiedades de una solución son diferentes de las del soluto o solvente puro. Muchas propiedades de las soluciones dependen de la identidad química del soluto. En comparación con el agua pura, una solución de cloruro de hidrógeno es más ácida, una solución de amoníaco es más básica, una solución de cloruro de sodio es más densa y una solución de sacarosa es más viscosa. Sin embargo, hay algunas propiedades de las soluciones que dependen <emphasis effect="italics">únicamente</emphasis> de la concentración total de las especies de solutos, independientemente de sus identidades. Estas <term>propiedades coligativas</term> incluyen la disminución de la presión de vapor, el aumento del punto de ebullición, el descenso crioscópico y la presión osmótica. Este pequeño conjunto de propiedades tiene una importancia fundamental en muchos fenómenos naturales y aplicaciones tecnológicas, como se describirá en este módulo.</para>
+<section id="fs-idp94607584">
+<title>Fracción molar y molalidad</title>
+<para id="fs-idp135152880">En un capítulo anterior se introdujeron varias unidades comúnmente utilizadas para expresar las concentraciones de los componentes de la solución, cada una de las cuales ofrece ciertas ventajas para su uso en diferentes aplicaciones. Por ejemplo, la molaridad<emphasis effect="italics">(M</emphasis>) es una unidad conveniente para utilizar en los cálculos estequiométricos, ya que se define en términos de las cantidades molares de los tipos de solutos:</para>
+<equation id="fs-idm17190592" class="unnumbered"><m:math><m:mrow><m:mi>M</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp53552496">Como los volúmenes de las soluciones varían con la temperatura, las concentraciones molares también variarán. Cuando se expresa en forma de molaridad, la concentración de una solución con idéntico número de tipos de soluto y solvente será diferente a distintas temperaturas, debido a la contracción/expansión de la solución. En los cálculos en los que intervienen muchas propiedades coligativas son más apropiadas las unidades de concentración con base en el mol, cuyos valores no dependen de la temperatura. Dos de estas unidades son la <emphasis effect="italics">fracción molar</emphasis> (presentada en el capítulo anterior sobre los gases) y <emphasis effect="italics">la molalidad</emphasis>.</para>
+<para id="fs-idp89990944">La fracción molar, <emphasis effect="italics">X</emphasis>, de un componente es la relación entre su cantidad molar y el número total de moles de todos los componentes de la solución:</para>
+<equation id="fs-idm18363168" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mtext>A</m:mtext></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>A</m:mtext></m:mrow><m:mrow><m:mtext>moles totales de todos los componentes</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm378409280">Según esta definición, la suma de las fracciones molares de todos los componentes de la solución (el solvente y todos los solutos) es igual a uno.</para>
+<para id="fs-idm64867536"><term>La molalidad</term> es una unidad de concentración definida como la relación entre el número de moles de soluto y la masa del solvente en kilogramos:</para>
+<equation id="fs-idp135246576" class="unnumbered"><m:math><m:mrow><m:mi>m</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>kg de solvente</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation><para id="fs-idm62416064">Dado que estas unidades se calculan utilizando únicamente masas y cantidades molares, no varían con la temperatura y, por lo tanto son más adecuadas para aplicaciones que requieren concentraciones independientes de la temperatura, lo que incluye varias propiedades coligativas, como se describirá en este módulo del capítulo.</para>
+<example id="fs-idp183990080">
+<para id="fs-idp139747984"><title>Cálculo de la fracción molar y la molalidad</title>
+El anticongelante de la mayoría de los radiadores de los automóviles es una mezcla de volúmenes iguales de etilenglicol y agua, con pequeñas cantidades de otros aditivos que evitan la corrosión. ¿Cuáles son (a) la fracción molar y (b) la molalidad del etilenglicol, C<sub><sub>2</sub></sub>H<sub><sub>4</sub></sub>(OH<sub>)2</sub>, en una solución preparada a partir de 2,22 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>3</sup> g de etilenglicol y 2,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>3</sup> g de agua (aproximadamente 2 L de glicol y 2 L de agua)?</para>
+<para id="fs-idm53042176"><title>Solución</title>
+(a) La fracción molar de etilenglicol puede calcularse derivando primero las cantidades molares de ambos componentes de la solución y sustituyendo luego estas cantidades en la definición de fracción molar.</para>
+<equation id="fs-idp10457760" class="unnumbered"><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2 </m:mn></m:msub><m:mo>=</m:mo><m:mn>2,22</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mn>62,07</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>35,8</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>=</m:mo><m:mn>2,00</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mrow><m:mn>18,02</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>111</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mi>X</m:mi><m:mrow><m:mtext>etilen</m:mtext><m:mspace width="0.2em"/><m:mtext>glicol</m:mtext></m:mrow></m:msub><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mspace width="0.3em"/><m:mfrac><m:mrow><m:mn>35,8</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2 </m:mn></m:msub></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>35,8</m:mn><m:mo>+</m:mo><m:mn>111</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>moles totales</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,244</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm73013600">Observe que la fracción molar es una propiedad adimensional, siendo la relación de propiedades con idénticas unidades (moles).</para>
+<para id="fs-idm58568512">(b) Deduzca los moles de soluto y la masa de solvente (en kg).</para>
+<para id="fs-idp25611568">En primer lugar, utilice la masa dada de etilenglicol y su masa molar para encontrar los moles de soluto:</para>
+<equation id="fs-idm41327520" class="unnumbered"><m:math><m:mrow><m:mn>2,22</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2 </m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mn>62,07</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>35,8</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2 </m:mn></m:msub></m:mrow></m:math></equation><para id="fs-idm45702496">A continuación, convierta la masa del agua de gramos a kilogramos:</para>
+<equation id="fs-idm120629232" class="unnumbered"><m:math><m:mrow><m:mn>2,00</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow><m:mrow><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>2,00 kg</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math>
+</equation><para id="fs-idp55874016">Por último, calcule la molalidad según su definición:</para>
+<equation id="fs-idp101394176" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr><m:mtd columnalign="right"><m:mtext>molalidad</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mtext>kg de solvente</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd columnalign="right"><m:mtext>molalidad</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>35,8</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>2 </m:mn></m:msub></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mtext>molalidad</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>17,9</m:mn><m:mspace width="0.2em"/><m:mi>m</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp103665856"><title>Compruebe sus conocimientos</title>
+¿Cuáles son la fracción molar y la molalidad de una solución que contiene 0,850 g de amoníaco, NH<sub>3</sub>, disueltos en 125 g de agua?</para>
+<note id="fs-idp129433120"><title>Respuesta:</title>
+<para id="fs-idm9532784">7,14 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup>; 0,399 <emphasis effect="italics">m</emphasis></para>
+</note>
+</example>
+<example id="fs-idp32863264">
+<para id="fs-idm38437328"><title>Conversión de la fracción molar y las concentraciones molares</title>
+Calcule la fracción molar de soluto y solvente en una disolución de 3,0 <emphasis effect="italics">m</emphasis> de cloruro sódico.</para>
+<para id="fs-idp102839264"><title>Solución</title>
+La conversión de una unidad de concentración a otra se realiza comparando primero las dos definiciones de unidad. En este caso, ambas unidades tienen el mismo numerador (moles de soluto) pero diferentes denominadores. La concentración molal proporcionada puede escribirse como:</para>
+<equation id="fs-idp92880496" class="unnumbered"><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3,0</m:mn><m:mspace width="0.2em"/><m:mtext>mol de NaCl</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm54367952">El numerador de la fracción molar de esta solución es, por tanto, 3,0 moles de NaCl. El denominador puede calcularse obteniendo la cantidad molar de agua correspondiente a 1,0 kg.</para>
+<equation id="fs-idm35653328" class="unnumbered"><m:math><m:mrow><m:mn>1,0</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mrow><m:mn>18,02</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>55</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp135101040">y luego sustituya estas cantidades molares en la definición de fracción molar.</para>
+<equation id="fs-idm36515600" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mrow><m:mtext>mol de NaCl</m:mtext><m:mo>+</m:mo><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr>
+
+<m:mtr><m:mtd columnalign="right"><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>55</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow><m:mrow><m:mn>3,0</m:mn><m:mspace width="0.2em"/><m:mtext>mol de NaCl</m:mtext><m:mo>+</m:mo><m:mn>55</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr>
+
+<m:mtr><m:mtd columnalign="right"><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>0,95</m:mn></m:mtd></m:mtr>
+
+<m:mtr><m:mtd columnalign="right"><m:msub><m:mi>X</m:mi><m:mrow><m:mtext>NaCl</m:mtext></m:mrow></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>mol de NaCl</m:mtext></m:mrow><m:mrow><m:mtext>mol de NaCl</m:mtext><m:mo>+</m:mo><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr>
+
+<m:mtr><m:mtd columnalign="right"><m:msub><m:mi>X</m:mi><m:mrow><m:mtext>NaCl</m:mtext></m:mrow></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3,0</m:mn><m:mspace width="0.2em"/><m:mtext>moles</m:mtext><m:mspace width="0.2em"/><m:mtext>NaCl</m:mtext></m:mrow><m:mrow><m:mn>3,0</m:mn><m:mspace width="0.2em"/><m:mtext>mol de NaCl</m:mtext><m:mo>+</m:mo><m:mn>55</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr>
+
+<m:mtr><m:mtd columnalign="right"><m:msub><m:mi>X</m:mi><m:mrow><m:mtext>NaCl</m:mtext></m:mrow></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>0,052</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp134776368"><title>Compruebe lo aprendido</title>
+La fracción molar de yodo, I<sub>2</sub>, disuelto en diclorometano, CH<sub>2</sub>Cl<sub>2</sub>, es 0,115. ¿Cuál es la concentración molal, <emphasis effect="italics">m</emphasis>, de yodo en esta solución?</para>
+<note id="fs-idp95928864"><title>Respuesta:</title>
+<para id="fs-idp96947872">1,50 <emphasis effect="italics">m</emphasis></para></note>
+</example>
+
+<example id="fs-idm370293600">
+<para id="fs-idm361303008"><title>Conversiones de molalidad y molaridad</title>
+La infusión intravenosa de una solución acuosa de glucosa 0,556 <emphasis effect="italics">M</emphasis> (densidad de 1,04 g/mL) forma parte de algunas terapias de recuperación postoperatoria. ¿Cuál es la concentración molar de glucosa en esta solución?</para>
+<para id="fs-idm372843760"><title>Solución</title>
+La concentración molal proporcionada puede escribirse explícitamente como</para>
+<equation id="fs-idm381973808" class="unnumbered"><m:math><m:mrow><m:mi>M</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,556</m:mn><m:mspace width="0.2em"/><m:mtext>moles de glucosa/1 L de solución</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm377090992">Considere la definición de molalidad:</para>
+<equation id="fs-idm374248816" class="unnumbered"><m:math><m:mrow><m:mi>m</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>mol de solución/kg de solvente</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm339441856">La cantidad de glucosa en 1 L de esta solución es de 0,556 moles, por lo que se necesita la masa de agua en este volumen de solución.</para>
+<para id="fs-idm366120736">Primero, calcule la masa de 1,00 L de la solución:</para>
+<equation id="fs-idm382263312" class="unnumbered"><m:math><m:mrow><m:mo>(</m:mo><m:mn>1,0</m:mn><m:mspace width="0.2em"/><m:mtext>L sol</m:mtext><m:mo>)</m:mo><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mn>1,04</m:mn><m:mspace width="0.2em"/><m:mn>g/mL</m:mn><m:mo>)</m:mo><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:mtext>mL/1L</m:mtext><m:mo>)</m:mo><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>kg/1000 g</m:mtext><m:mo>)</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,04</m:mn><m:mspace width="0.2em"/><m:mtext>kg sol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm371628048">Esta es la masa del agua y de su soluto, la glucosa, por lo que hay que restar la masa de la glucosa. Calcule la masa de la glucosa a partir de su cantidad molar:</para>
+<equation id="fs-idm377502224" class="unnumbered"><m:math><m:mrow><m:mo>(</m:mo><m:mn>0,556</m:mn><m:mspace width="0.2em"/><m:mtext>moles de glucosa</m:mtext><m:mo>)</m:mo><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mn>180,2</m:mn><m:mspace width="0.2em"/><m:mtext>g/1 mol</m:mtext><m:mo>)</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>100,2 g o 0,1002 kg</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm376623200">Restando la masa de glucosa se obtiene la masa de agua en la solución:</para>
+<equation id="fs-idm373987152" class="unnumbered"><m:math><m:mrow><m:mn>1,04</m:mn><m:mspace width="0.2em"/><m:mtext>solución en kg</m:mtext><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mn>0,1002</m:mn><m:mspace width="0.2em"/><m:mtext>kg de glucosa</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,94</m:mn><m:mspace width="0.2em"/><m:mtext>kg de agua</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm378146928">Finalmente, la molalidad de la glucosa en esta solución se calcula como</para>
+<equation id="fs-idm375688416" class="unnumbered"><m:math><m:mrow><m:mi>m</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,556</m:mn><m:mspace width="0.2em"/><m:mtext>moles de glucosa/0,94 kg de agua</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>0,59 m</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm373673360"><title>Compruebe lo aprendido</title>
+El ácido nítrico, HNO<sub>3</sub><emphasis effect="italics">(aq)</emphasis>, está disponible comercialmente como solución acuosa de 33,7 m (densidad = 1,35 g/mL). ¿Cuál es la molaridad de esta solución?</para>
+<note id="fs-idm379675456"><title>Respuesta:</title>
+<para id="fs-idm356187520">14,6 M</para></note>
+</example>
+</section>
+<section id="fs-idp105031888">
+<title>Reducción de la presión de vapor</title>
+<para id="fs-idp32351520">Como se describe en el capítulo sobre líquidos y sólidos, la presión de vapor de equilibrio de un líquido es la presión ejercida por su fase gaseosa cuando la vaporización y la condensación se producen a igual velocidad:</para>
+<equation id="fs-idp40737376" class="unnumbered"><m:math><m:mrow><m:mtext>líquido</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:mtext>gas</m:mtext></m:mrow></m:math></equation><para id="fs-idp89994672">La disolución de una sustancia no volátil en un líquido volátil provoca una disminución de la presión de vapor del líquido. Este fenómeno puede racionalizarse considerando el efecto de las moléculas de soluto que se añaden en los procesos de vaporización y condensación del líquido. Para vaporizar, las moléculas de solvente deben estar presentes en la superficie de la solución. La presencia del soluto disminuye el área superficial disponible para las moléculas de solvente y, por tanto, reduce la velocidad de vaporización de este. Dado que la tasa de condensación no se ve afectada por la presencia del soluto, el resultado neto es que el equilibrio de vaporización-condensación se alcanza con menos moléculas de solvente en la fase de vapor (es decir, a una menor presión de vapor) (<link target-id="CNX_Chem_11_04_RaoultLaw"/>). Aunque esta interpretación es útil, no tiene en cuenta varios aspectos importantes de la naturaleza coligativa de la disminución de la presión de vapor. Una explicación más rigurosa se refiere a la propiedad de la <emphasis effect="italics">entropía</emphasis>, tema que se tratará en un capítulo posterior del texto sobre termodinámica. Para entender la disminución de la presión de vapor de un líquido, es pertinente señalar que la naturaleza más dispersa de la materia en una solución, en comparación con las fases separadas de solvente y soluto, sirve para estabilizar eficazmente las moléculas de solvente y dificultar su vaporización. El resultado es una presión de vapor más baja, y un punto de ebullición consecuentemente más alto, como se describe en la siguiente sección de este módulo.</para>
+<figure id="CNX_Chem_11_04_RaoultLaw">
+<media id="fs-idp97024192" alt="Esta figura contiene dos imágenes. La figura a está marcada como &quot;agua pura&quot;. Muestra un vaso de precipitados lleno de un líquido hasta la mitad. En el líquido se muestran once moléculas dispersas uniformemente, cada una de ellas formada por una esfera roja central y dos esferas blancas ligeramente más pequeñas. Cuatro moléculas cercanas a la superficie del líquido tienen flechas curvas dibujadas que apuntan al espacio por encima del líquido en el vaso de precipitados. Por encima del líquido, se muestran doce moléculas, con flechas que apuntan desde tres de ellas hacia el líquido de abajo. La figura b está marcada como &quot;Solución acuosa&quot;. Es similar a la figura a, excepto que once esferas azules, de tamaño ligeramente superior al de las moléculas, están dispersas uniformemente en el líquido. En este diagrama solo aparecen cuatro flechas curvas, dos de ellas procedentes de las moléculas del líquido que apuntan al espacio de arriba y dos de las moléculas del espacio de arriba que apuntan al líquido de abajo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_RaoultLaw.jpg"/>
+</media>
+<caption>La presencia de solutos no volátiles disminuye la presión de vapor de una solución al impedir la evaporación de las moléculas del solvente.</caption>
+</figure>
+<para id="fs-idm44600736">La relación entre las presiones de vapor de los componentes de la solución y las concentraciones de dichos componentes se describe mediante la <term>ley de Raoult</term>: <emphasis effect="italics">La presión parcial ejercida por cualquier componente de una solución ideal es igual a la presión de vapor del componente puro multiplicada por su fracción molar en la solución.</emphasis></para>
+<equation id="fs-idp102905728" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>A</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mtext>A</m:mtext></m:msub><m:msubsup><m:mi>P</m:mi><m:mtext>A</m:mtext><m:mo>*</m:mo></m:msubsup></m:mrow></m:math></equation>
+<para id="fs-idm37530832">donde <emphasis effect="italics">P</emphasis><sub>A</sub> es la presión parcial ejercida por el componente A en la solución, <m:math><m:mrow><m:msubsup><m:mi>P</m:mi><m:mtext>A</m:mtext><m:mo>*</m:mo></m:msubsup></m:mrow></m:math> es la presión de vapor de A puro, y <emphasis effect="italics">X</emphasis><sub>A</sub> es la fracción molar de A en la solución.</para>
+<para id="fs-idp141610960">Recordando que la presión total de una mezcla gaseosa es igual a la suma de las presiones parciales de todos sus componentes (ley de presiones parciales de Dalton), la presión de vapor total ejercida por una solución que contiene <emphasis effect="italics">i</emphasis> componentes es</para>
+<equation id="fs-idm31233600" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>solución</m:mtext></m:mrow></m:msub><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mstyle displaystyle="true"><m:munder><m:mo>∑</m:mo><m:mi>i</m:mi></m:munder><m:mrow><m:msub><m:mi>P</m:mi><m:mi>i</m:mi></m:msub></m:mrow></m:mstyle><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mstyle displaystyle="true"><m:munder><m:mo>∑</m:mo><m:mi>i</m:mi></m:munder><m:mrow><m:msub><m:mi>X</m:mi><m:mi>i</m:mi></m:msub><m:msubsup><m:mi>P</m:mi><m:mi>i</m:mi><m:mo>*</m:mo></m:msubsup></m:mrow></m:mstyle></m:mrow></m:math></equation>
+<para id="fs-idm41590080">Una sustancia no volátil es aquella cuya presión de vapor es despreciable (<emphasis effect="italics">P</emphasis>* ≈ 0), por lo que la presión de vapor sobre una solución que solo contiene solutos no volátiles se debe únicamente al solvente:</para>
+<equation id="fs-idm26515248" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>solución</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mrow><m:mtext>solvente</m:mtext></m:mrow></m:msub><m:msubsup><m:mi>P</m:mi><m:mrow><m:mtext>solvente</m:mtext></m:mrow><m:mo>*</m:mo></m:msubsup></m:mrow></m:math></equation>
+<example id="fs-idp189679696">
+<para id="fs-idm56681472"><title>Cálculo de la presión de vapor</title>
+Calcule la presión de vapor de una solución ideal que contiene 92,1 g de glicerina, C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub>, y 184,4 g de etanol, C<sub>2</sub>H<sub>5</sub>OH, a 40 °C. La presión de vapor del etanol puro es de 0,178 atm a 40 °C. La glicerina es esencialmente no volátil a esta temperatura.</para>
+<para id="fs-idp44503184"><title>Solución</title>
+Como el solvente es el único componente volátil de esta solución, su presión de vapor puede calcularse según la ley de Raoult como</para>
+<equation id="fs-idp31418608" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>solución</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mrow><m:mtext>solvente</m:mtext></m:mrow></m:msub><m:msubsup><m:mi>P</m:mi><m:mrow><m:mtext>solvente</m:mtext></m:mrow><m:mo>*</m:mo></m:msubsup></m:mrow></m:math></equation>
+<para id="fs-idm114263808">En primer lugar, calcule las cantidades molares de cada componente de la solución utilizando los datos de masa proporcionados.</para>
+<equation id="fs-idm39560176" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mn>92,1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>3</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>3</m:mn></m:msub></m:mrow><m:mrow><m:mn>92,094</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>3</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:msub><m:mo stretchy="false">)</m:mo><m:mn>3</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>184,4</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow><m:mrow><m:mn>46,069</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>4,000</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mtext>OH</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp14815984">A continuación, calcule la fracción molar del solvente (etanol) y utilice la ley de Raoult para calcular la presión de vapor de la solución.</para><equation id="fs-idm59398112" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr><m:mtd><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow></m:msub><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>4,000</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mo>+</m:mo><m:mn>4,000</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,800</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>solv</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mrow><m:mtext>solv</m:mtext></m:mrow></m:msub><m:msubsup><m:mi>P</m:mi><m:mrow><m:mtext>solv</m:mtext></m:mrow><m:mo>*</m:mo></m:msubsup><m:mo>=</m:mo><m:mn>0,800</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,178</m:mn><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mo>=</m:mo><m:mn>0,142</m:mn><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm111724384"><title>Compruebe lo aprendido</title>
+Una solución contiene 5,00 g de urea, CO(NH<sub>2</sub>)<sub>2</sub> (un soluto no volátil) y 0,100 kg de agua. Si la presión de vapor del agua pura a 25 °C es de 23,7 torr, ¿cuál es la presión de vapor de la solución suponiendo un comportamiento ideal?</para>
+<note id="fs-idm58368656"><title>Respuesta:</title>
+<para id="fs-idp96948896">23,4 torr</para></note>
+</example>
+</section>
+
+<section id="fs-idp189189824">
+<title>Destilación de soluciones</title>
+<para id="fs-idm341204416">Las soluciones cuyos componentes tienen presiones de vapor significativamente diferentes pueden separarse mediante un proceso de vaporización selectiva conocido como destilación. Consideremos el caso simple de una mezcla de dos líquidos volátiles, A y B, siendo A el líquido más volátil. La ley de Raoult puede utilizarse para demostrar que el vapor sobre la solución está enriquecido en el componente A, es decir, la fracción molar de A en el vapor es mayor que la fracción molar de A en el líquido (véase el ejercicio 65 del final del capítulo). Al calentar adecuadamente la mezcla, el componente A puede vaporizarse, condensarse y recogerse, separándose efectivamente del componente B.</para>
+<para id="fs-idp99432368">La destilación se aplica ampliamente tanto en el laboratorio como en la industria, y se usa para refinar el petróleo, para aislar productos de fermentación y para purificar el agua. Un aparato típico para destilaciones a escala de laboratorio se muestra en la <link target-id="CNX_Chem_11_04_LabDistill"/>.</para>
+<figure id="CNX_Chem_11_04_LabDistill">
+<media id="fs-idp129114224" alt="La figura a es una fotografía de una unidad de destilación común de laboratorio. La figura b proporciona un diagrama que marca los componentes típicos de una unidad de destilación de laboratorio, incluyendo un agitador/placa calefactora con control de calor y de velocidad del agitador, un baño de calentamiento de aceite o arena, medios de agitación tales como virutas de ebullición, un pote de destilación, un cabezal de destilación, un termómetro para leer de la temperatura del punto de ebullición, un condensador con entrada y salida de agua fría, un recipiente de destilación con una entrada de vacío o de gas, un matraz receptor para mantener el destilado y un baño de enfriamiento.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_LabDistill.jpg"/>
+</media>
+<caption>Se muestra una unidad de destilación típica de laboratorio en (a) una fotografía y (b) un diagrama esquemático de los componentes. (Crédito a: modificación del trabajo por "Rifleman82"/Wikimedia commons; crédito b: modificación del trabajo por "Slashme"/Wikimedia Commons).</caption>
+</figure>
+<para id="fs-idm44238960">Las refinerías de petróleo utilizan la <emphasis effect="italics">destilación fraccionada</emphasis> a gran escala para separar los componentes del crudo. El petróleo crudo se calienta a altas temperaturas en la base de una <emphasis effect="italics">columna de fraccionamiento</emphasis> alta, vaporizando muchos de los componentes que suben dentro de la columna. A medida que los componentes vaporizados alcanzan zonas adecuadamente frías durante su ascenso, se condensan y se recogen. Los líquidos recogidos son mezclas más sencillas de hidrocarburos y otros compuestos del petróleo que tienen una composición adecuada para diversas aplicaciones (por ejemplo, gasóleo, queroseno, gasolina), como se muestra en la <link target-id="CNX_Chem_11_04_refinery"/>.</para>
+<figure id="CNX_Chem_11_04_refinery">
+<media id="fs-idm45846832" alt="Esta figura contiene una foto de una refinería, que muestra grandes estructuras como columnas. También se muestra un diagrama de una columna de destilación fraccionada utilizada para separar el petróleo crudo. Cerca de la parte inferior de la columna, una flecha que apunta hacia el interior de la misma muestra un punto de entrada de petróleo crudo calentado. La columna contiene varias capas en las que se eliminan diferentes componentes. En la parte inferior, los materiales residuales se eliminan como se indica con una flecha fuera de la columna. En cada nivel sucesivo, se eliminan diferentes materiales que van desde de la parte inferior a la superior de la columna. Los materiales son el fueloil, seguido del gasóleo, el queroseno, la nafta, la gasolina y el gas de refinería en la parte superior. A la derecha del diagrama de columnas, se muestra una flecha de doble cara que es azul en la parte superior y cambia gradualmente de color a rojo mientras va hacia abajo. La parte superior azul de la flecha está marcada como &quot;moléculas pequeñas: punto de ebullición bajo, muy volátil, fluye fácilmente, se enciende fácilmente&quot;. La parte inferior roja de la flecha está marcada como &quot;moléculas grandes: punto de ebullición alto, poco volátil, no fluye fácilmente, no se enciende fácilmente&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_refinery.jpg"/>
+</media>
+<caption>El petróleo crudo es una mezcla compleja que se separa mediante destilación fraccionada a gran escala para aislar varias mezclas más simples.</caption>
+</figure>
+</section>
+
+<section id="fs-idm80924336">
+<title>Elevación del punto de ebullición</title>
+<para id="fs-idm11969360">Como se describe en el capítulo sobre líquidos y sólidos, el <emphasis effect="italics">punto de ebullición</emphasis> de un líquido es la temperatura a la que su presión de vapor es igual a la presión atmosférica ambiente. Dado que la presión de vapor de una solución disminuye debido a la presencia de solutos no volátiles, es lógico que el punto de ebullición de la solución aumente posteriormente. La presión de vapor aumenta con la temperatura, por lo que una solución requerirá una temperatura más alta que la del solvente puro para alcanzar cualquier presión de vapor, incluso una equivalente a la de la atmósfera circundante. El aumento del punto de ebullición que se observa cuando un soluto no volátil se disuelve en un solvente, Δ<emphasis effect="italics">T</emphasis><sub>b</sub>, se denomina <term>aumento del punto de ebullición</term> y es directamente proporcional a la concentración molar de las especies de soluto:</para>
+<equation id="fs-idp43526688" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>T</m:mi><m:mtext>b</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub><m:mi>m</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm72955888">donde <emphasis effect="italics">K</emphasis><sub>b</sub> es la <term>constante de aumento del punto de ebullición</term>, o la <emphasis effect="italics">constante ebulloscópica</emphasis> y <emphasis effect="italics">m</emphasis> es la concentración molal (molalidad) de todas las especies de solutos.</para>
+<para id="fs-idp83055184">Las constantes del aumento del punto de ebullición son propiedades características que dependen de la identidad del solvente. Los valores de <emphasis effect="italics">K</emphasis><sub>b</sub> para varios solventes figuran en la <link target-id="fs-idm37127680"/>.</para>
+<table id="fs-idm37127680" class="top-titled" summary="La tabla presenta los puntos de ebullición en grados Celsius a 1 atmósfera de presión, K subíndice b en C m superíndice 1 negativo, punto de congelación en grados Celsius a 1 atmósfera de presión y K subíndice f en C m superíndice 1 negativo para cinco solventes. El agua tiene los siguientes valores: 100,00, 0,512, 0,00 y 1,86. El acetato de hidrógeno tiene los siguientes valores: 118,1, 3,07, 16,6 y 3,9. El benceno tiene los siguientes valores: 80,1, 2,53, 5,5, 5,12. El cloroformo tiene los siguientes valores: 61,26, 3,63, -63,5 y 4,68. El nitrobenceno tiene los siguientes valores: 210,9, 5,24, 5,67, 8,1">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5" align="center">Constante de aumento del punto de ebullición y constante crioscópica de varios solventes</entry>
+</row>
+<row valign="top">
+<entry align="left">Solvente</entry>
+<entry align="left">Punto de ebullición (°C a 1 atm)</entry>
+<entry align="left"><emphasis effect="italics">K</emphasis><sub>b</sub> (ºC<emphasis effect="italics">m</emphasis><sup>−1</sup>)</entry>
+<entry align="left">Punto de congelación (°C a 1 atm)</entry><entry align="left"><emphasis effect="italics">K</emphasis><sub>f</sub> (ºC<emphasis effect="italics">m</emphasis><sup>−1</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">agua</entry><entry align="left">100,0</entry><entry align="left">0,512</entry><entry align="left">0,0</entry><entry align="left">1,86</entry>
+</row>
+<row valign="top">
+<entry align="left">acetato de hidrógeno</entry><entry align="left">118,1</entry><entry align="left">3,07</entry><entry align="left">16,6</entry><entry align="left">3,9</entry>
+</row>
+<row valign="top">
+<entry align="left">benceno</entry><entry align="left">80,1</entry><entry align="left">2,53</entry><entry align="left">5,5</entry><entry align="left">5,12</entry>
+</row>
+<row valign="top">
+<entry align="left">cloroformo</entry><entry align="left">61,26</entry><entry align="left">3,63</entry><entry align="left">-63,5</entry><entry align="left">4,68</entry>
+</row>
+<row valign="top">
+<entry align="left">nitrobenceno</entry><entry align="left">210,9</entry><entry align="left">5,24</entry><entry align="left">5,67</entry><entry align="left">8,1</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-idp26191216">La medida en que se reduce la presión de vapor de un solvente y aumenta el punto de ebullición depende del número total de partículas de soluto presentes en una cantidad determinada de solvente, no de la masa o el tamaño o las identidades químicas de las partículas. Una solución acuosa de 1 <emphasis effect="italics">m</emphasis> de sacarosa (342 g/mol) y una solución acuosa de 1 <emphasis effect="italics">m</emphasis> de etilenglicol (62 g/mol) tendrán el mismo punto de ebullición porque cada solución tiene un mol de partículas de soluto (moléculas) por kilogramo de solvente.</para>
+<example id="fs-idp5504000">
+<para id="fs-idp139740576"><title>Cálculo del punto de ebullición de una solución</title>
+Suponiendo el comportamiento de una solución ideal, ¿cuál es el punto de ebullición de una solución de 0,33 <emphasis effect="italics">m</emphasis> de un soluto no volátil en benceno?</para>
+<para id="fs-idm58398256"><title>Solución</title>
+Utilice la ecuación que relaciona el aumento del punto de ebullición con la molalidad del soluto para resolver este problema en dos pasos.</para>
+<media id="fs-idp91950512" class="scaled-down" alt="Se trata de un diagrama con tres cajas conectadas con dos flechas que apuntan a la derecha. La primera casilla está marcada como &quot;Molalidad de la solución&quot;, seguida de una flecha marcada como &quot;1&quot;, que apunta a una segunda casilla marcada como &quot;Cambio en el punto de ebullición&quot;, seguida de una flecha marcada como &quot;2&quot;, que apunta a una tercera casilla marcada como &quot;Nuevo punto de ebullición&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_Ex02Steps_img.jpg"/>
+</media>
+<list id="fs-idp52617808" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Calcule el cambio en el punto de ebullición.</emphasis><newline/>
+<equation id="fs-idm42069584" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>T</m:mi><m:mtext>b</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>2,53</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mspace width="0.2em"/><m:msup><m:mi>m</m:mi><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,33</m:mn><m:mspace width="0.2em"/><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>0,83</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math></equation></item>
+<item><emphasis effect="italics">Añada el aumento del punto de ebullición al punto de ebullición del solvente puro.</emphasis><newline/>
+<equation id="fs-idp67539712" class="unnumbered"><m:math><m:mrow><m:mtext>Temperatura de ebullición</m:mtext><m:mo>=</m:mo><m:mn>80,1</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mo>+</m:mo><m:mn>0,83</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mn>80,9</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math> (carbono 14).</equation></item>
+</list>
+<para id="fs-idp86735936"><title>Compruebe lo aprendido</title>Suponiendo el comportamiento de una solución ideal, ¿cuál es el punto de ebullición del anticongelante descrito en el <link target-id="fs-idp183990080"/>?</para><note id="fs-idm69400592"><title>Respuesta:</title>
+<para id="fs-idm60690288">109,2 °C</para></note>
+</example>
+<example id="fs-idm46335744"><para id="fs-idm124291232"><title>El punto de ebullición de una solución de yodo</title>
+Halle el punto de ebullición de una solución de 92,1 g de yodo, I<sub>2</sub>, en 800,0 g de cloroformo, CHCl<sub>3</sub>, suponiendo que el yodo no es volátil y que la solución es ideal.</para>
+<para id="fs-idp83223616"><title>Solución</title>
+A continuación se expone un enfoque de cuatro pasos para resolver este problema.</para>
+<media id="fs-idp95700448" class="scaled-down" alt="Se trata de un diagrama con cinco casillas orientadas horizontalmente y unidas entre sí con flechas numeradas del 1 al 4 que apuntan desde cada casilla sucesivamente a la siguiente a la derecha. La primera casilla está marcada como &quot;Masa de yodo&quot;. La flecha 1 apunta desde esta caja a una segunda caja marcada como &quot;Moles de yodo&quot;. La flecha 2 apunta desde este cuadro a un tercer cuadro marcado como &quot;Molalidad de la solución&quot;. La flecha marcada con 3 puntos va de esta casilla a una cuarta casilla marcada como &quot;Cambio en el punto de ebullición&quot;. La flecha 4 apunta a una quinta casilla marcada como &quot;Nuevo punto de ebullición&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_EX03Steps_img.jpg"/>
+</media>
+<list id="fs-idm38965696" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Convierte de gramos a moles de</emphasis> I<sub>2</sub> <emphasis effect="italics">utilizando la masa molar de</emphasis> I<sub>2</sub> <emphasis effect="italics">en el factor de conversión de unidades.</emphasis><newline/> Resultado: 0,363 moles</item>
+<item><emphasis effect="italics">Determine la molalidad de la solución a partir del número de moles de soluto y la masa de solvente, en kilogramos.</emphasis><newline/> Resultado: 0,454 <emphasis effect="italics">m</emphasis></item>
+<item><emphasis effect="italics">Utilice la proporcionalidad directa entre el cambio en el punto de ebullición y la concentración molar para determinar cuánto cambia el punto de ebullición.</emphasis><newline/> Resultado: 1,65 °C</item>
+<item><emphasis effect="italics">Determine el nuevo punto de ebullición a partir del punto de ebullición del solvente puro y del cambio.</emphasis><newline/> Resultado: 62,91 °C<newline/> Compruebe cada resultado como una autoevaluación.</item>
+</list>
+<para id="fs-idp139925536"><title>Compruebe lo aprendido</title>
+¿Cuál es el punto de ebullición de una solución de 1,0 g de glicerina, C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub>, en 47,8 g de agua? Supongamos una solución ideal.</para>
+<note id="fs-idp191396352"><title>Respuesta:</title>
+<para id="fs-idm59771536">100,12 °C</para></note>
+</example></section>
+
+<section id="fs-idm65221808">
+<title>Descenso crioscópico</title>
+<para id="fs-idp140532496">Las soluciones se congelan a temperaturas más bajas que los líquidos puros. Este fenómeno se aprovecha en los esquemas de "descongelación" que utilizan sal (<link target-id="CNX_Chem_11_04_rocksalt"/>), cloruro de calcio o urea para derretir el hielo en las carreteras y aceras, y en el uso del etilenglicol como "anticongelante" en los radiadores de los automóviles. El agua de mar se congela a una temperatura inferior a la del agua dulce, por lo que los océanos ártico y antártico permanecen sin congelar incluso a temperaturas inferiores a 0 °C (al igual que los fluidos corporales de los peces y otros animales marinos de sangre fría que viven en estos océanos).</para>
+<figure id="CNX_Chem_11_04_rocksalt" class="scaled-down"><media id="fs-idm2229600" alt="Esta es una foto de un pavimento de ladrillo húmedo sobre el que se esparció un material cristalino blanco.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_rocksalt.jpg"/>
+</media>
+<caption>Para derretir el hielo se utiliza sal gema (NaCl), cloruro de calcio (CaCl<sub>2</sub>) o una mezcla de ambos. (Crédito: modificación del trabajo de Eddie Welker).</caption>
+</figure>
+<para id="fs-idm62944160">La disminución del punto de congelación de una solución diluida respecto a la del solvente puro, Δ<emphasis effect="italics">T</emphasis><sub>f</sub>, se denomina <term>descenso crioscópico</term> y es directamente proporcional a la concentración molar del soluto.</para>
+<equation id="fs-idp41100400" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>T</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mtext>f</m:mtext></m:msub><m:mi>m</m:mi></m:mrow></m:math></equation>
+<para id="fs-idp15307136">donde <emphasis effect="italics">m</emphasis> es la concentración molar del soluto y <emphasis effect="italics">K</emphasis><sub>f</sub> se denomina <term>constante del descenso crioscópico</term> (o <emphasis effect="italics">constante crioscópica</emphasis>). Al igual que en el caso de las constantes del aumento del punto de ebullición, se trata de propiedades características cuyos valores dependen de la identidad química del solvente. Los valores de <emphasis effect="italics">K</emphasis><sub>f</sub> para varios solventes figuran en la <link target-id="fs-idm37127680"/>.</para><example id="fs-idp14106448">
+<para id="fs-idm51193216"><title>Cálculo del punto de congelación de una solución</title>Suponiendo el comportamiento de una solución ideal, ¿cuál es el punto de congelación de la solución de 0,33 <emphasis effect="italics">m</emphasis> de un soluto no volátil no electrolítico en benceno descrito en el <link target-id="fs-idp32863264"/>?</para><para id="fs-idm51191952"><title>Solución</title>
+Utilice la ecuación que relaciona el descenso crioscópico con la molalidad del soluto para resolver este problema en dos pasos.</para>
+<media id="fs-idm98789600" class="scaled-down" alt="Se trata de un diagrama con tres cajas conectadas con dos flechas que apuntan a la derecha. La primera casilla está marcada como &quot;Molalidad de la solución&quot;, seguida de una flecha marcada como &quot;1&quot;, que apunta a una segunda casilla marcada como &quot;Cambio en el punto de congelación&quot;, seguida de una flecha marcada como &quot;2&quot; que apunta a una tercera casilla marcada como &quot;Nuevo punto de congelación&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_Ex04Steps_img.jpg"/>
+</media>
+<list id="fs-idm70104016" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Calcule el cambio en el punto de congelación.</emphasis><newline/>
+<equation id="fs-idm84391712" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>T</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mtext>f</m:mtext></m:msub><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>5,12</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mspace width="0.2em"/><m:msup><m:mi>m</m:mi><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,33</m:mn><m:mspace width="0.2em"/><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1,7</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math></equation></item>
+<item><emphasis effect="italics">Reste el cambio de punto de congelación observado del punto de congelación del solvente puro.</emphasis><newline/>
+<equation id="fs-idp241028320" class="unnumbered"><m:math><m:mrow><m:mtext>Temperatura de congelación</m:mtext><m:mo>=</m:mo><m:mn>5,5</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mo>-</m:mo><m:mn>1,7</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mn>3,8</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math> (carbono 14).</equation>
+</item>
+</list>
+<para id="fs-idp138267744"><title>Compruebe lo aprendido</title>
+Suponiendo el comportamiento de una solución ideal, ¿cuál es el punto de congelación de una solución de 1,85 <emphasis effect="italics">m</emphasis> de un soluto no volátil no electrolítico en nitrobenceno?</para>
+<note id="fs-idm48913776"><title>Respuesta:</title>
+<para id="fs-idp190854592">−9,3 °C</para></note>
+</example>
+<note id="fs-idm63324816" class="chemistry everyday-life">
+<title>Propiedades coligativas y deshielo</title>
+<para id="fs-idp175903616">El cloruro de sodio y sus análogos del grupo 2, el cloruro de calcio y el cloruro de magnesio, se utilizan a menudo para descongelar carreteras y aceras, debido a que una solución de cualquiera de estas sales tendrá un punto de congelación inferior a 0 °C, el punto de congelación del agua pura. Las sales metálicas del grupo 2 se mezclan con frecuencia con el cloruro de sodio ("sal gema"), más barato y más fácil de conseguir, para su uso en las carreteras, ya que tienden a ser algo menos corrosivas que el NaCl, y proporcionan una mayor disminución del punto de congelación, ya que se disocian para dar lugar a tres partículas por unidad de fórmula, en lugar de dos partículas como el cloruro de sodio.</para>
+<para id="fs-idp139731616">Dado que estos compuestos iónicos tienden a acelerar la corrosión del metal, no sería buena idea utilizarlos en el anticongelante del radiador de su automóvil o para descongelar un avión antes del despegue. Para estas aplicaciones, se suelen utilizar compuestos covalentes, como el etileno o el propilenglicol. Los glicoles utilizados en el líquido del radiador no sólo reducen el punto de congelación del líquido, sino que elevan el punto de ebullición, haciendo que el líquido sea útil tanto en invierno como en verano. Los glicoles calentados se rocían a menudo sobre la superficie de los aviones antes del despegue en las inclemencias del tiempo en invierno para eliminar el hielo que ya se ha formado y prevenir la formación de más hielo, que sería particularmente peligroso si se formara en las superficies de control del avión (<link target-id="CNX_Chem_11_04_deice"/>).</para>
+<figure id="CNX_Chem_11_04_deice" class="scaled-down"><media id="fs-idp133082032" alt="Esta figura contiene dos fotos. La primera es una vista trasera de un gran camión de mantenimiento de carreteras que lleva una señal naranja brillante de descongelación. Un material blanco parece depositarse en la parte trasera del camión sobre la calzada. La segunda foto es de un avión rociado con una solución para eliminar el hielo antes del despegue.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_deice.jpg"/>
+</media>
+<caption>El descenso crioscópico se aprovecha para eliminar el hielo de (a) las carreteras y (b) las superficies de control de los aviones.</caption></figure></note>
+</section>
+<section id="fs-idp13633296">
+<title>Diagrama de fase de una solución</title>
+<para id="fs-idp129023680">Los efectos coligativos en la presión de vapor, el punto de ebullición y el punto de congelación descritos en la sección anterior se resumen convenientemente comparando los diagramas de fase de un líquido puro y de una solución derivada de ese líquido (<link target-id="CNX_Chem_11_04_phasediag"/>).</para>
+<figure id="CNX_Chem_11_04_phasediag">
+<media id="fs-idp105222176" alt="Este diagrama de fases indica la presión en atmósferas del agua y de una solución a distintas temperaturas. El gráfico muestra el punto de congelación del agua y el punto de congelación de la solución, con la diferencia entre estos dos valores identificados como subíndice f delta T. El gráfico muestra el punto de ebullición del agua y el punto de ebullición de la solución, con la diferencia entre estos dos valores identificados como delta T subíndice b. Del mismo modo, la diferencia de presión del agua y de la solución en el punto de ebullición del agua se muestra y se identifica como delta P. Esta diferencia de presión se denomina descenso de la presión de vapor. El nivel más bajo de la curva de presión de vapor de la solución en comparación con la del agua pura muestra la disminución de la presión de vapor en la solución. Los colores del fondo del diagrama indican la presencia de agua y de la solución en estado sólido a la izquierda, en estado líquido en la región central superior, y de gas a la derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_phasediag.jpg"/>
+</media>
+<caption>Diagramas de fase para un solvente puro (curvas sólidas) y una solución formada por la disolución de un soluto no volátil en el solvente (curvas discontinuas).</caption>
+</figure>
+<para id="fs-idp41257984">La curva líquido-vapor para la solución se encuentra <emphasis effect="italics">debajo</emphasis> de la curva correspondiente para el solvente, que representa la <emphasis effect="italics">disminución</emphasis> de la presión de vapor, Δ<emphasis effect="italics">P</emphasis>, que resulta de la disolución del soluto no volátil. En consecuencia, a cualquier presión, se observa el punto de ebullición de la solución a una temperatura más alta que la del solvente puro, lo que refleja el aumento del punto de ebullición, Δ<emphasis effect="italics">T</emphasis><sub>b</sub>, asociada a la presencia del soluto no volátil. La curva sólido-líquido de la solución está desplazada a la izquierda de la del solvente puro, lo que representa el descenso crioscópico, Δ<emphasis effect="italics">T</emphasis><sub>f</sub>, que acompaña a la formación de la solución. Por último, observe que las curvas sólido-gas para el solvente y su solución son idénticas. Este es el caso de muchas soluciones que comprenden solventes líquidos y solutos no volátiles. Al igual que en el caso de la vaporización, cuando una solución de este tipo se congela, en realidad son solo las moléculas de <emphasis effect="italics">solvente</emphasis> las que sufren la transición de líquido a sólido, formando un solvente sólido puro que excluye las especies de soluto. Las fases sólida y gaseosa, por tanto, están compuestas únicamente por solvente, por lo que las transiciones entre estas fases no están sujetas a efectos coligativos.</para></section>
+<section id="fs-idp129025744">
+<title>Ósmosis y presión osmótica de las soluciones</title>
+<para id="fs-idm50348928">Una serie de materiales naturales y sintéticos presentan una <emphasis effect="italics">permeabilidad selectiva</emphasis>, lo que significa que solo las moléculas o los iones de un determinado tamaño, forma, polaridad, carga, etc., son capaces de atravesar (permeabilizar) el material. Las membranas de las células biológicas ofrecen ejemplos elegantes de permeabilidad selectiva en la naturaleza, mientras que los tubos de diálisis utilizados para eliminar los desechos metabólicos de la sangre son un ejemplo tecnológico más simplista. Independientemente de cómo se fabriquen, estos materiales se denominan generalmente <term>membranas semipermeables</term>.</para>
+<para id="fs-idp858960">Consideremos el aparato que se ilustra en la <link target-id="CNX_Chem_11_04_osmosis"/>, en el que las muestras de solvente puro y de una solución están separadas por una membrana que sólo pueden atravesar las moléculas de solvente. Las moléculas de solvente se difundirán a través de la membrana en ambas direcciones. Dado que la concentración de <emphasis effect="italics">solvente</emphasis> es mayor en el solvente puro que en la solución, estas moléculas se difundirán desde el lado del solvente hacia el lado de la solución a un ritmo más rápido que en la dirección inversa. El resultado es una transferencia neta de moléculas de solvente desde el solvente puro a la solución. La transferencia por difusión de moléculas de solvente a través de una membrana semipermeable es el proceso conocido como <term>ósmosis</term>.</para>
+<figure id="CNX_Chem_11_04_osmosis" class="scaled-down">
+<media id="fs-idm58360672" alt="La figura muestra dos tubos en forma de U con una membrana semipermeable colocada en la base de la U. En la figura a, el solvente puro está presente y se indica con pequeñas esferas amarillas a la izquierda de la membrana. A la derecha, hay una solución con esferas azules más grandes entremezcladas con algunas esferas amarillas pequeñas. En la membrana, las flechas que apuntan a tres pequeñas esferas amarillas situadas a ambos lados de la membrana se cruzan. La flecha dibujada desde una de las grandes esferas azules no atraviesa la membrana, sino que se refleja en la superficie de la misma. Los niveles de líquido en ambos lados del tubo en forma de U son iguales. En la figura b, las flechas apuntan de nuevo desde las pequeñas esferas amarillas a través de la membrana semipermeable desde ambos lados. Este diagrama muestra que el nivel de líquido en el lado izquierdo, el del solvente puro, es significativamente menor que el nivel de líquido en el lado derecho. Desde estos dos niveles de líquido se trazan líneas discontinuas hacia el centro del tubo en forma de U y entre ellas hay una flecha vertical roja de doble punta junto al término presión osmótica.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_osmosis.jpg"/>
+</media>
+<caption>(a) Una solución y un solvente puro están inicialmente separados por una membrana osmótica. (b) Se produce una transferencia neta de moléculas de solvente a la solución hasta que su presión osmótica produce tasas de transferencia iguales en ambas direcciones.</caption>
+</figure>
+<para id="fs-idp66789904">Cuando la ósmosis se lleva a cabo en un aparato como el que se muestra en la <link target-id="CNX_Chem_11_04_osmosis"/>, el volumen de la solución aumenta a medida que se diluye por acumulación de solvente. Esto hace que el nivel de la solución se eleve, aumentando su presión hidrostática (debido al peso de la columna de solución en el tubo) y ocasionando una transferencia más rápida de las moléculas de solvente de vuelta al lado del solvente puro. Cuando la presión alcanza un valor que produce una tasa de transferencia de solvente inversa igual a la tasa de ósmosis, la transferencia masiva de solvente cesa. Esta presión se denomina <term>presión osmótica (<emphasis effect="italics">Π</emphasis>)</term> de la solución. La presión osmótica de una solución diluida se relaciona con su molaridad de soluto, <emphasis effect="italics">M</emphasis>, y la temperatura absoluta, <emphasis effect="italics">T</emphasis>, según la ecuación</para>
+<equation id="fs-idp52754144" class="unnumbered"><m:math><m:mrow><m:mi>Π</m:mi><m:mo>=</m:mo><m:mi>M</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm58472592">donde <emphasis effect="italics">R</emphasis> es la constante universal de los gases.</para>
+<example id="fs-idp189701856">
+<para id="fs-idm56671264"><title>Cálculo de la presión osmótica</title>
+Suponiendo el comportamiento de una solución ideal, ¿cuál es la presión osmótica (atm) de una solución 0,30 <emphasis effect="italics">M</emphasis> de glucosa en agua que se utiliza para la infusión intravenosa a temperatura corporal, 37 °C?</para>
+<para id="fs-idp129025040"><title>Solución</title>
+Halle la presión osmótica, <emphasis effect="italics">Π</emphasis>, mediante la fórmula <emphasis effect="italics">Π</emphasis> = <emphasis effect="italics">MRT</emphasis>, donde <emphasis effect="italics">T</emphasis> está en la escala Kelvin (310 K) y el valor de <emphasis effect="italics">R</emphasis> se expresa en unidades adecuadas (0,08206 L atm/mol K).</para>
+<equation id="fs-idp2055216" class="unnumbered">
+  <m:math><m:mtable><m:mtr/><m:mtr><m:mtd columnalign="right"><m:mi>Π</m:mi></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:mi>M</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mtd></m:mtr><m:mtr><m:mtd/>
+  <m:mtd columnalign="left"><m:mo>=</m:mo><m:mn>0,30</m:mn><m:mspace width="0.2em"/><m:mtext>mol/L</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>0,08206 L atm/mol K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>310 K</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mn>7,6</m:mn><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm13907968"><title>Compruebe lo aprendido</title>
+Suponiendo el comportamiento de una solución ideal, ¿cuál es la presión osmótica (atm) de una solución con un volumen de 0,750 L que contiene 5,0 g de metanol, CH<sub>3</sub>OH, en agua a 37 °C?</para>
+<note id="fs-idp21860928"><title>Respuesta:</title>
+<para id="fs-idm38797232">5,3 atm</para></note>
+</example>
+<para id="fs-idp135138240">Si se coloca una solución en un aparato como el que se muestra en la <link target-id="CNX_Chem_11_04_rvosmosis"/>, la aplicación de una presión superior a la presión osmótica de la solución invierte la ósmosis y empuja las moléculas de solvente de la solución hacia el solvente puro. Esta técnica de ósmosis inversa se utiliza para la desalinización a gran escala del agua de mar y a menor escala para producir agua de grifo de gran pureza para beber.</para>
+<figure id="CNX_Chem_11_04_rvosmosis" class="scaled-down">
+<media id="fs-idm34643696" alt="La figura muestra un tubo en forma de U con una membrana semipermeable colocada en la base de la U. El solvente puro está presente y se indica con pequeñas esferas amarillas a la izquierda de la membrana. A la derecha, hay una solución con esferas azules más grandes entremezcladas con algunas esferas amarillas pequeñas. En la membrana, las flechas apuntan desde cuatro pequeñas esferas amarillas a la izquierda de la membrana. En el lado derecho de la U, hay un disco que tiene la misma anchura del tubo y parece bloquearlo. El disco está al mismo nivel que la solución. Una flecha apunta hacia abajo desde la parte superior del tubo hasta el disco y está marcada como &quot;Presión mayor que Π subíndice de solución&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_rvosmosis.jpg"/>
+</media>
+<caption>La aplicación de una presión superior a la presión osmótica de una solución invertirá la ósmosis. Las moléculas de solvente de la solución son empujadas hacia el solvente puro.</caption>
+</figure>
+<note id="fs-idm17300528" class="chemistry everyday-life">
+<title>Purificación de agua por ósmosis inversa</title>
+<para id="fs-idp71311280">En el proceso de ósmosis, la difusión sirve para mover el agua a través de una membrana semipermeable desde una solución menos concentrada a una más concentrada. La presión osmótica es la cantidad de presión que debe aplicarse a la solución más concentrada para que la ósmosis se detenga. Si se aplica una mayor presión, el agua pasará de la solución más concentrada a una solución menos concentrada (más pura). Esto se llama ósmosis inversa. La ósmosis inversa (OI) se utiliza para purificar el agua en muchas aplicaciones, desde las plantas desalinizadoras de las ciudades costeras, hasta las máquinas purificadoras de agua de las tiendas de alimentación (<link target-id="CNX_Chem_11_04_waterpur"/>), y las unidades domésticas de ósmosis inversa más pequeñas. Con una bomba manual, las pequeñas unidades de ósmosis inversa pueden utilizarse en países del tercer mundo, en zonas de catástrofe y en botes salvavidas. Nuestras fuerzas militares tienen una variedad de unidades de ósmosis inversa operadas por generadores que pueden ser transportadas en vehículos a lugares remotos.</para>
+<figure id="CNX_Chem_11_04_waterpur">
+<media id="fs-idp117713424" alt="Esta figura muestra dos fotos de sistemas de ósmosis inversa. El primero es un sistema pequeño que luce fácilmente transportable. La segunda es más grande y está situada al aire libre.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_waterpur.jpg"/>
+</media>
+<caption>Los sistemas de ósmosis inversa para purificar el agua potable se muestran aquí en (a) pequeña y (b) gran escala. (Crédito a: modificación del trabajo de Jerry Kirkhart; crédito b: modificación del trabajo de Willard J. Lathrop).</caption>
+</figure>
+</note>
+<para id="fs-idp53491872">Los ejemplos de ósmosis son evidentes en muchos sistemas biológicos porque las células están rodeadas de membranas semipermeables. Las zanahorias y el apio que se ablandaron por la pérdida de agua pueden volver a estar crujientes colocándolos en agua. El agua entra en las células de la zanahoria o el apio por ósmosis. Un pepino colocado en una solución salina concentrada pierde agua por ósmosis y absorbe algo de sal para convertirse en un pepinillo. La ósmosis también puede afectar a las células de los animales. Las concentraciones de solutos son especialmente importantes cuando se inyectan soluciones en el cuerpo. Los solutos presentes en los fluidos celulares del cuerpo y en el suero sanguíneo dan a estas soluciones una presión osmótica de aproximadamente 7,7 atm. Las soluciones que se inyectan en el cuerpo deben tener la misma presión osmótica que el suero sanguíneo; es decir, deben ser <term>isotónicas</term> con el suero sanguíneo. Si se inyecta una solución menos concentrada, una solución <term>hipotónica</term>, en cantidad suficiente para diluir el suero sanguíneo, el agua del suero diluido pasa a las células sanguíneas por ósmosis, lo que hace que las células se expandan y se rompan. Este proceso se llama <term>hemólisis</term>. Cuando se inyecta una solución más concentrada, una solución <term>hipertónica</term>, las células pierden agua hacia la solución más concentrada, se arrugan y posiblemente mueren en un proceso llamado <term>crenación</term>. Estos efectos se ilustran en la <link target-id="CNX_Chem_11_04_bloodcell"/>.</para>
+<figure id="CNX_Chem_11_04_bloodcell">
+<media id="fs-idp138335360" alt="Esta figura muestra tres escenarios relacionados con las membranas de los glóbulos rojos. En a, el H subíndice 2 O tiene dos flechas dibujadas que apuntan a un disco rojo. Debajo de él, en un círculo, hay once discos similares con aspecto abultado, uno de los cuales parece haber estallado con un líquido azul que sale de él. En b, la imagen es similar, excepto que en lugar de tener dos flechas apuntando hacia el disco rojo, una apunta hacia adentro y una segunda apunta hacia afuera, hacia el H subíndice 2 O. En el círculo de abajo, hay doce de los discos rojos. En c, ambas flechas van desde un disco arrugado rojo hacia el H subíndice 2 O. En el círculo de abajo, se muestran doce discos arrugados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_bloodcell.jpg"/>
+</media>
+<caption>Las membranas de los glóbulos rojos son permeables al agua y (a) se hincharán y posiblemente se romperán en una solución hipotónica; (b) mantendrán el volumen y la forma normales en una solución isotónica; y (c) se marchitarán y posiblemente morirán en una solución hipertónica. (Crédito a/b/c: modificaciones del trabajo de "LadyofHats"/Wikimedia commons).</caption>
+</figure>
+</section>
+<section id="fs-idp128916512">
+<title>Determinación de las masas molares</title>
+<para id="fs-idm4463392">La presión osmótica y los cambios en el punto de congelación, el punto de ebullición y la presión de vapor son directamente proporcionales al número de especies de solutos presentes en una cantidad determinada de solución. Por consiguiente, la medición de una de estas propiedades en una solución preparada con una masa conocida de soluto permite determinar la masa molar del soluto.</para>
+<example id="fs-idp128313856">
+<para id="fs-idp128868560"><title>Determinación de una masa molar a partir del descenso crioscópico</title>
+Una solución de 4,00 g de un no electrolito disuelto en 55,0 g de benceno se congela a 2,32 °C. Suponiendo el comportamiento de una solución ideal, ¿cuál es la masa molar de este compuesto?</para>
+<para id="fs-idm60947264"><title>Solución</title>
+Resuelva este problema siguiendo los siguientes pasos.</para>
+<media id="fs-idm56612480" class="scaled-down" alt="Este es un diagrama con cinco casillas orientadas horizontalmente y unidas entre sí con flechas numeradas del 1 al 4 que apuntan desde cada casilla sucesivamente a la siguiente a la derecha. La primera casilla está marcada como &quot;Punto de congelación de la solución&quot;. La flecha 1 apunta desde esta casilla a una segunda marcada como &quot;delta T subíndice f&quot;. La flecha 2 apunta desde esta casilla a una tercera marcada como &quot;Concentración molal del compuesto&quot;. La flecha marcada como 3 apunta desde esta casilla a una cuarta marcada como &quot;Moles de compuesto en la muestra&quot;. La flecha 4 señala una quinta casilla marcada como &quot;Masa molar del compuesto&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_Ex07Steps_img.jpg"/>
+</media>
+<list id="fs-idm46223904" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Determine el cambio en el punto de congelación a partir del punto de congelación observado y el punto de congelación del benceno puro</emphasis> (<link target-id="fs-idm37127680"/>)<newline/>
+<equation id="fs-idp98641088" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>T</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:mn>5,5</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mo>-</m:mo><m:mn>2,32</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mn>3,2</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math>
+</equation></item>
+<item><emphasis effect="italics">Determine la concentración molal a partir deK</emphasis><sub>f</sub>, <emphasis effect="italics">la constante de descenso crioscópico del benceno</emphasis> (<link target-id="fs-idm37127680"/>), <emphasis effect="italics">y</emphasis> Δ<emphasis effect="italics">T</emphasis><sub>f</sub>.<newline/>
+<equation id="fs-idp8054864" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="center"><m:mtext>Δ</m:mtext><m:msub><m:mi>T</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mtext>f</m:mtext></m:msub><m:mi>m</m:mi></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mi>m</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>T</m:mi><m:mtext>f</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>f</m:mtext></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3,2</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow><m:mrow><m:mn>5,12</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mspace width="0.2em"/><m:msup><m:mi>m</m:mi><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,63</m:mn><m:mspace width="0.2em"/><m:mi>m</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+<item><emphasis effect="italics">Determine el número de moles de compuesto en la solución a partir de la concentración molal y la masa de solvente utilizada para preparar la solución.</emphasis><newline/>
+<equation id="fs-idp57152640" class="unnumbered"><m:math><m:mrow><m:mtext>Moles de soluto</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,63</m:mn><m:mspace width="0.2em"/><m:mtext>mol de soluto</m:mtext></m:mrow><m:mrow><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>kg de solvente</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,0550</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>kg de solvente</m:mtext></m:mrow></m:menclose><m:mo>=</m:mo><m:mn>0,035</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow></m:math></equation></item>
+<item><emphasis effect="italics">Determine la masa molar a partir de la masa del soluto y el número de moles de esa masa.</emphasis><newline/>
+<equation id="fs-idp67442432" class="unnumbered"><m:math><m:mrow><m:mtext>Masa molar</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>4,00</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mn>0,035</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup><m:mtext>g/mol</m:mtext></m:mrow></m:math></equation></item>
+</list>
+<para id="fs-idm56606800"><title>Compruebe lo aprendido</title>
+Una solución de 35,7 g de un no electrolito en 220,0 g de cloroformo tiene un punto de ebullición de 64,5 °C. Suponiendo el comportamiento de una solución ideal, ¿cuál es la masa molar de este compuesto?</para>
+<note id="fs-idp188055808"><title>Respuesta:</title><para id="fs-idp129560688">1,8 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>2</sup> g/mol</para></note></example>
+<example id="fs-idp132624672">
+<para id="fs-idp132624928"><title>Determinación de una masa molar a partir de la presión osmótica</title>
+Una muestra de 0,500 L de una solución acuosa que contiene 10,0 g de hemoglobina tiene una presión osmótica de 5,9 torr a 22 °C. Suponiendo el comportamiento de una solución ideal, ¿cuál es la masa molar de la hemoglobina?</para>
+<para id="fs-idp67431952"><title>Solución</title>
+La siguiente es una serie de pasos que pueden utilizarse para resolver el problema:</para>
+<media id="fs-idp37440656" class="scaled-down" alt="Se trata de un diagrama con cuatro casillas orientadas horizontalmente y unidas entre sí con flechas numeradas del 1 al 3 que apuntan desde cada casilla sucesivamente a la siguiente a la derecha. La primera casilla está marcada como &quot;Presión osmótica&quot;. La flecha 1 apunta desde esta caja a una segunda casilla marcada como &quot;Concentración molar&quot;. La flecha 2 apunta desde esta casilla a un tercera marcada como &quot;Moles de hemoglobina en la muestra&quot;. La flecha marcada con 3 puntos va de esta casilla a una cuarta marcada como &quot;Masa molar de la hemoglobina&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_Ex08Steps_img.jpg"/>
+</media>
+<list id="fs-idm4438560" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Convierta la presión osmótica a atmósferas, luego determine la concentración molar a partir de la presión osmótica.</emphasis><newline/>
+<equation id="fs-idp41145344" class="unnumbered"><m:math><m:mtable><m:mtr/><m:mtr><m:mtd><m:mi>Π</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>5,9</m:mn><m:mspace width="0.2em"/><m:mtext>torr</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mrow><m:mrow><m:mn>760</m:mn><m:mspace width="0.2em"/><m:mtext>torr</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>7,8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mtext>atm</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>Π</m:mi><m:mo>=</m:mo><m:mtext mathvariant="italic">MRT</m:mtext></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mi>M</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>Π</m:mi><m:mrow><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>7,8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,08206</m:mn><m:mspace width="0.2em"/><m:mtext>L atm/mol K</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>295</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>3,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mtext>M</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+<item><emphasis effect="italics">Determine el número de moles de hemoglobina en la solución a partir de la concentración y el volumen de la misma.</emphasis><newline/>
+<equation id="fs-idp96934912" class="unnumbered"><m:math><m:mrow><m:mtext>moles de hemoglobina</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,500</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>L de solución</m:mtext></m:mrow></m:menclose><m:mo>=</m:mo><m:mn>1,6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mtext>mol</m:mtext></m:mrow></m:math></equation></item>
+<item><emphasis effect="italics">Determine la masa molar a partir de la masa de la hemoglobina y el número de moles de esa masa.</emphasis><newline/>
+<equation id="fs-idm54977888" class="unnumbered"><m:math><m:mrow><m:mtext>masa molar</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>10,0</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mn>1,6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mtext>mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>6,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup><m:mtext>g/mol</m:mtext></m:mrow></m:math></equation></item>
+</list>
+<para id="fs-idp189571392"><title>Compruebe lo aprendido</title>
+Suponiendo el comportamiento de una solución ideal, ¿cuál es la masa molar de una proteína si una solución de 0,02 g de la proteína en 25,0 mL de solución tiene una presión osmótica de 0,56 torr a 25 °C?</para>
+<note id="fs-idp128728480"><title>Respuesta:</title>
+<para id="fs-idp128729120">3 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>4</sup> g/mol</para></note>
+</example>
+</section>
+<section id="fs-idp14420592">
+<title>Propiedades coligativas de los electrolitos</title>
+<para id="fs-idp14421232">Como se señaló anteriormente en este módulo, las propiedades coligativas de una solución dependen solo del número, no de la identidad, de las especies de solutos disueltos. Los términos de concentración en las ecuaciones para varias propiedades coligativas (descenso crioscópico, elevación del punto de ebullición, presión osmótica) pertenecen a <emphasis effect="italics">todas las especies de solutos presentes en la solución</emphasis>. En las soluciones consideradas hasta ahora en este capítulo, los solutos han sido no electrolitos que se disuelven físicamente sin disociación ni ningún otro proceso acompañante. Cada molécula que se disuelve produce una molécula de soluto disuelta. Sin embargo, la disolución de un electrolito no es tan sencilla, como ilustran los dos ejemplos comunes que aparecen a continuación:</para>
+<equation id="fs-idm366139824" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext fontstyle="italic">disociación</m:mtext></m:mtd><m:mtd/><m:mtd/>
+<m:mtd columnalign="left"><m:mtext>NaCl(s)</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+<m:msup><m:mtext>Na</m:mtext><m:mtext>+</m:mtext></m:msup><m:mtext>(aq)</m:mtext>
+<m:mo>+</m:mo><m:msup><m:mtext>Cl</m:mtext><m:mtext>-</m:mtext></m:msup><m:mtext>(aq)</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext fontstyle="italic">ionización</m:mtext></m:mtd><m:mtd/><m:mtd/>
+<m:mtd columnalign="left"><m:mtext>HCl(aq)</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(l)</m:mtext><m:mspace width="0.2em"/>
+<m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+<m:msup><m:mtext>Cl</m:mtext><m:mtext>-</m:mtext></m:msup><m:mtext>(aq)</m:mtext><m:mo>+</m:mo>
+<m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mtext>(aq)</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp106679776">Tomando en cuenta el primero de estos ejemplos, y asumiendo una disociación completa, una solución acuosa de 1,0 <emphasis effect="italics">m</emphasis> de NaCl contiene 2,0 moles de iones (1,0 mol de Na<sup>+</sup> y 1,0 mol de Cl<sup>−</sup>) por cada kilogramo de agua, y se espera que su descenso crioscópico sea</para><equation id="fs-idp189695024" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>T</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:mn>2,0</m:mn><m:mspace width="0.2em"/><m:mtext>moles de iones/kg de agua</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1,86</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C kg de agua/moles de iones</m:mtext><m:mo>=</m:mo><m:mn>3,7</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp138040256">Sin embargo, cuando se prepara realmente esta solución y se mide su descenso crioscópico, se obtiene un valor de 3,4 °C. Se observan discrepancias similares en otros compuestos iónicos, y las diferencias entre los valores de las propiedades coligativas medidos y los esperados suelen ser más significativas a medida que aumentan las concentraciones de soluto. Estas observaciones sugieren que los iones del cloruro de sodio (y otros electrolitos fuertes) no se disocian completamente en la solución.</para>
+<para id="fs-idp84456528">Para tener en cuenta esto y evitar los errores que acompañan a la suposición de la disociación total, se utiliza un parámetro medido experimentalmente que lleva el nombre del químico alemán Jacobus Henricus van't Hoff, ganador del Premio Nobel. El <term>factor de van't Hoff (<emphasis effect="italics">i</emphasis>)</term> se define como la relación entre las partículas de soluto en la solución y el número de unidades de fórmula disueltas:</para>
+<equation id="fs-idp129426672" class="unnumbered"><m:math><m:mrow><m:mi>i</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>moles de partículas en la solución</m:mtext></m:mrow><m:mrow><m:mtext>moles de unidades de fórmula disueltas</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp100413216">Los valores de los factores de van't Hoff medidos en varios solutos, junto con los valores previstos suponiendo una disociación completa, se muestran en la <link target-id="fs-idp191832160"/>.</para>
+<table id="fs-idp191832160" class="top-titled" summary="Esta tabla presenta los electrolitos, las partículas en solución, i (prevista) e i (medida). H C l produce partículas H superíndice más y C l superíndice menos en solución con un valor i previsto de 2 y un valor medido de 1,9. N a C l produce partículas N a superíndice más y C l superíndice menos en solución con un valor i previsto de 2 y un valor medido de 1,9. El M g S O subíndice 4 produce partículas M g superíndice 2 más y S O subíndice 4 superíndice 2 menos en solución con un valor i previsto de 2 y un valor medido de 1,3. M g C l subíndice 2 produce partículas M g superíndice 2 más y C l superíndice menos en solución con un valor i previsto de 3 y un valor medido de 2,7. F e C l subíndice 3 produce partículas Fe superíndice 3 más y C l superíndice menos en solución con un valor i previsto de 4 y un valor medido de 3,4. La glucosa produce partículas C subíndice 12 H subíndice 22 O subíndice 11 en solución con un valor i previsto de 1 y un valor medido de 1,0.">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5" align="center">Factores de van't Hoff predichos y medidos en varias soluciones acuosas de 0,050 <emphasis effect="italics">m</emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Unidad de fórmula</entry>
+<entry valign="top" align="center">Clasificación</entry>
+<entry valign="top" align="center">Productos de disolución</entry>
+<entry valign="top" align="center"><emphasis effect="italics">i</emphasis> (previsto)</entry>
+<entry valign="top" align="center"><emphasis effect="italics">i</emphasis> (medido)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="center">C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> (glucosa)</entry>
+<entry valign="top" align="center">No electrolito</entry>
+<entry valign="top" align="center">C<sub>12</sub>H<sub>22</sub>O<sub>11</sub></entry>
+<entry valign="top" align="center">1</entry>
+<entry valign="top" align="center">1,0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">NaCl</entry>
+<entry valign="top" align="center">Electrolito fuerte</entry>
+<entry valign="top" align="center">Na<sup>+</sup>, Cl<sup>−</sup></entry>
+<entry valign="top" align="center">2</entry>
+<entry valign="top" align="center">1,9</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">HCl</entry>
+<entry valign="top" align="center">Electrolito fuerte (ácido)</entry>
+<entry valign="top" align="center">H<sub>3</sub>O<sup>+</sup>, Cl<sup>−</sup></entry>
+<entry valign="top" align="center">2</entry>
+<entry valign="top" align="center">1,9</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">MgSO<sub>4</sub></entry>
+<entry valign="top" align="center">Electrolito fuerte</entry>
+<entry valign="top" align="center">Mg<sup>2+</sup>, SO<sub>4</sub><sup>2−</sup>,</entry>
+<entry valign="top" align="center">2</entry>
+<entry valign="top" align="center">1,3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">MgCl<sub>2</sub></entry>
+<entry valign="top" align="center">Electrolito fuerte</entry>
+<entry valign="top" align="center">Mg<sup>2+</sup>, 2Cl<sup>−</sup></entry>
+<entry valign="top" align="center">3</entry>
+<entry valign="top" align="center">2,7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">FeCl<sub>3</sub></entry>
+<entry valign="top" align="center">Electrolito fuerte</entry>
+<entry valign="top" align="center">Fe<sup>3+</sup>, 3Cl<sup>−</sup></entry>
+<entry valign="top" align="center">4</entry>
+<entry valign="top" align="center">3,4</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp18385680">En 1923, los químicos Peter <term class="no-emphasis">Debye</term> y Erich <term class="no-emphasis">Hückel</term> propusieron una teoría para explicar la aparente ionización incompleta de los electrolitos fuertes. Sugirieron que, aunque la atracción interiónica en una solución acuosa se reduce en gran medida por la solvatación de los iones y la acción aislante del solvente polar, no se anula por completo. Las atracciones residuales impiden que los iones se comporten como partículas totalmente independientes (<link target-id="CNX_Chem_11_04_ionpair"/>). En algunos casos, un ion positivo y uno negativo pueden llegar a tocarse, dando lugar a una unidad solvatada denominada par de iones. Así, la <term>actividad</term>, o la concentración efectiva, de cualquier tipo de ion es menor que la indicada por la concentración real. Los iones se separan más y más cuanto más diluida esté la solución, y las atracciones interiónicas residuales son cada vez menores. Así, en soluciones extremadamente diluidas, las concentraciones efectivas de los iones (sus actividades) son básicamente iguales a las concentraciones reales. Note que los factores de van't Hoff en los electrolitos en la <link target-id="fs-idp191832160"/> son para soluciones de 0,05 <emphasis effect="italics">m</emphasis>, a cuya concentración el valor de <emphasis effect="italics">i</emphasis> para el NaCl es de 1,9, frente a un valor ideal de 2.</para>
+<figure id="CNX_Chem_11_04_ionpair" class="scaled-down">
+<media id="fs-idp133147136" alt="El diagrama muestra cuatro esferas púrpuras marcadas como K superíndice signo positivo y cuatro esferas verdes marcadas como C l superíndice signo negativo dispersas en H subíndice 2 O, como se muestra en los grupos de esferas rojas individuales con dos esferas blancas adheridas. Las esferas rojas representan el oxígeno y las blancas el hidrógeno. En dos lugares, las esferas púrpura y verde se tocan. En estas dos ubicaciones, el diagrama está marcado como par de iones. Todas las esferas rojas y verdes están rodeadas por los cúmulos blancos y rojos de H subíndice 2 O. Las esferas blancas son atraídas por las esferas moradas y las rojas por las verdes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_ionpair.jpg"/>
+</media>
+<caption>La disociación de los compuestos iónicos en el agua no siempre es completa debido a la formación de pares de iones.</caption>
+</figure>
+<example id="fs-idp86700768">
+<para id="fs-idp14421616"><title>Punto de congelación de una solución de un electrolito</title>
+La concentración de iones en el agua de mar es aproximadamente la misma que en una solución que contiene 4,2 g de NaCl disueltos en 125 g de agua. Utilice esta información y un valor previsto para el factor de van't Hoff (<link target-id="fs-idp191832160"/>) para determinar la temperatura de congelación de la solución (suponga el comportamiento de una solución ideal).</para>
+<para id="fs-idp102647856"><title>Solución</title>
+Resuelva este problema siguiendo la siguiente serie de pasos.</para>
+<media id="fs-idp102978912" class="scaled-down" alt="Se trata de un diagrama con seis casillas orientadas horizontalmente y unidas entre sí con flechas numeradas del 1 al 5 que apuntan desde cada casilla sucesivamente a la siguiente a la derecha. La primera casilla está marcada como &quot;Masa de N a C l&quot;. La flecha 1 apunta desde esta casilla a una segunda marcada como &quot;Moles de N a C l&quot;. La flecha 2 apunta desde esta casilla a una tercera marcada como &quot;Moles de iones&quot;. La flecha marcada con 3 puntos va desde esta casilla hasta una cuarta marcada como &quot;Molalidad de la solución&quot;. La flecha 4 apunta a una quinta casilla marcada como &quot;Cambio en el punto de congelación&quot;. La flecha 5 apunta a una sexta casilla marcada como &quot;Nuevo punto de congelación&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_04_Ex09Steps_img.jpg"/>
+</media>
+<list id="fs-idp102978032" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Convierta de gramos a moles de NaCl utilizando la masa molar de NaCl en el factor de conversión de unidades.</emphasis><newline/>Resultado: 0,072 mol de NaCl</item>
+<item><emphasis effect="italics">Determine el número de moles de iones presentes en la solución utilizando el número de moles de iones en 1 mol de NaCl como factor de conversión (2 moles de iones/1 mol de NaCl).</emphasis><newline/>Resultado: 0,14 moles de iones</item>
+<item><emphasis effect="italics">Determine la molalidad de los iones en la solución a partir del número de moles de iones y la masa de solvente, en kilogramos.</emphasis><newline/>Resultado: 1,2 <emphasis effect="italics">m</emphasis></item>
+<item><emphasis effect="italics">Utilice la proporcionalidad directa entre el cambio en el punto de congelación y la concentración molar para determinar el cambio del punto de congelación.</emphasis><newline/>Resultado: 2,1 °C</item>
+<item><emphasis effect="italics">Determine el nuevo punto de congelación a partir del punto de congelación del solvente puro y del cambio.</emphasis><newline/>Resultado: -2,1 °C<newline/>Compruebe cada resultado como una autoevaluación, teniendo cuidado de evitar los errores de redondeo reteniendo los dígitos de guardia en el resultado de cada paso para calcular el resultado del siguiente paso.</item>
+</list>
+<para id="fs-idp140087280"><title>Compruebe lo aprendido</title>
+Suponiendo una disociación completa y el comportamiento de una solución ideal, calcule el punto de congelación de una solución de 0,724 g de CaCl<sub>2</sub> en 175 g de agua.</para>
+<note id="fs-idp139444144"><title>Respuesta:</title>
+<para id="fs-idp139444784">−0,208 °C</para>
+</note>
+</example>
+</section>
+<section id="fs-idp136112224" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp136112992">Las propiedades de una solución que dependen únicamente de la concentración de partículas de soluto se denominan propiedades coligativas. Incluyen cambios en la presión de vapor, el punto de ebullición y el punto de congelación del solvente en la solución. Las magnitudes de estas propiedades dependen únicamente de la concentración total de partículas de soluto en la solución, no del tipo de partículas. La concentración total de partículas de soluto en una solución también determina su presión osmótica, que es la presión que debe aplicarse a la solución para evitar la difusión de moléculas de solvente puro a través de una membrana semipermeable en la solución. Es posible que los compuestos iónicos no se disocien completamente en la solución debido a los efectos de la actividad, en cuyo caso los efectos coligativos observados pueden ser menores que los previstos.</para>
+</section>
+<section id="fs-idp102974528" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>A</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mtext>A</m:mtext></m:msub><m:msubsup><m:mi>P</m:mi><m:mtext>A</m:mtext><m:mo>*</m:mo></m:msubsup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> grandes.</entry>
+</row>
+<row><entry>Los términos <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>solución</m:mtext></m:mrow></m:msub><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:munder><m:mo>∑</m:mo><m:mi>i</m:mi></m:munder><m:mrow><m:msub><m:mi>P</m:mi><m:mi>i</m:mi></m:msub></m:mrow></m:mstyle><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:munder><m:mo>∑</m:mo><m:mi>i</m:mi></m:munder><m:mrow><m:msub><m:mi>X</m:mi><m:mi>i</m:mi></m:msub><m:msubsup><m:mi>P</m:mi><m:mi>i</m:mi><m:mo>*</m:mo></m:msubsup></m:mrow></m:mstyle></m:mrow></m:math></entry>
+</row>
+<row><entry>Los términos <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>solución</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mrow><m:mtext>solvente</m:mtext></m:mrow></m:msub><m:msubsup><m:mi>P</m:mi><m:mrow><m:mtext>solvente</m:mtext></m:mrow><m:mo>*</m:mo></m:msubsup></m:mrow></m:math></entry>
+</row>
+<row><entry>Δ<emphasis effect="italics">T</emphasis><sub>b</sub> = <emphasis effect="italics">K</emphasis><sub>b</sub><emphasis effect="italics">m</emphasis></entry>
+</row>
+<row><entry>Δ<emphasis effect="italics">T</emphasis><sub>f</sub> = <emphasis effect="italics">K</emphasis><sub>f</sub><emphasis effect="italics">m</emphasis></entry></row>
+<row><entry><emphasis effect="italics">Π</emphasis> = <emphasis effect="italics">MRT</emphasis></entry></row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idp169461824" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idp102655040">
+<problem id="fs-idp102655296">
+<para id="fs-idp102655552">¿Cuál(es) son parte del dominio macroscópico de las soluciones y cuáles(es) son parte del dominio microscópico: aumento del punto de ebullición, ley de Henry, enlace de hidrógeno, atracción ion-dipolo, molaridad, no electrolito, compuesto no estequiométrico, ósmosis, ion solvatado?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp128725184">
+<problem id="fs-idp129899328">
+<para id="fs-idp129899584">¿Cuál es la explicación microscópica del comportamiento macroscópico ilustrado en la <link target-id="CNX_Chem_11_03_oilwater2" document="m68782"/>?</para>
+</problem>
+<solution id="fs-idp129900480">
+<para id="fs-idp129900736">La fuerza de los enlaces entre moléculas similares es más fuerte que la fuerza entre moléculas diferentes. Por lo tanto, existirán algunas regiones en las que las moléculas de agua excluirán a las de aceite y otras regiones en las que las moléculas de aceite excluirán a las de agua, formando una región heterogénea.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp134512208">
+<problem id="fs-idp134512464">
+<para id="fs-idp134512720">Dibuje un gráfico cualitativo de la presión en función del tiempo para el vapor de agua sobre una muestra de agua pura y una solución de azúcar, a medida que los líquidos se evaporan hasta la mitad de su volumen original.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp169338128">
+<problem id="fs-idp138048336">
+<para id="fs-idp138048592">Una solución de nitrato potásico, un electrolito, y una solución de glicerina (C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub>), un no electrolito, hierven ambas a 100,3 °C. ¿Qué otras propiedades físicas de las dos soluciones son idénticas?</para>
+</problem>
+<solution id="fs-idp129385856">
+<para id="fs-idp129386112">Ambos forman soluciones homogéneas; las elevaciones de sus puntos de ebullición son las mismas, al igual que la disminución de sus presiones de vapor. La presión osmótica y el descenso del punto de congelación también son iguales para ambas soluciones.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp102879040">
+<problem id="fs-idp102879296">
+<para id="fs-idp102879552">¿Cuáles son las fracciones molares de H<sub>3</sub>PO<sub>4</sub> y de agua en una solución de 14,5 g de H<sub>3</sub>PO<sub>4</sub> en 125 g de agua?</para>
+<para id="fs-idp169642880">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp169643264">(b) Responda a la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp169432880">
+<problem id="fs-idp169433136">
+<para id="fs-idp169433392">¿Cuáles son las fracciones molares de HNO<sub>3</sub> y agua en una solución concentrada de ácido nítrico (68,0 % de HNO<sub>3</sub> en masa)?</para>
+<para id="fs-idp104451248">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp104451632">(b) Responda a la pregunta.</para>
+</problem>
+<solution id="fs-idp87083344">
+<para id="fs-idp87083600">(a) Halle el número de moles de HNO<sub>3</sub> y H<sub>2</sub>O en 100 g de la solución. Halle las fracciones molares de los componentes. (b) La fracción molar del HNO<sub>3</sub> es 0,378. La fracción molar de H<sub>2</sub>O es 0,622.</para></solution>
+</exercise>
+<exercise id="fs-idp977216">
+<problem id="fs-idp140871632">
+<para id="fs-idp140871888">Calcule la fracción molar de cada soluto y solvente:</para>
+<para id="fs-idp140872272">a) 583 g de H<sub>2</sub>SO<sub>4</sub> en 1,50 kg de agua, la solución ácida utilizada en una batería de automóvil</para>
+<para id="fs-idp102982608">b) 0,86 g de NaCl en 1,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>2</sup> g de agua-solución de cloruro de sodio para inyección intravenosa.</para>
+<para id="fs-idp189420624">c) 46,85 g de codeína, C<sub>18</sub>H<sub>21</sub>NO<sub>3</sub>, en 125,5 g de etanol, C<sub>2</sub>H<sub>5</sub>OH.</para>
+<para id="fs-idp176540368">d) 25 g de I<sub>2</sub> en 125 g de etanol, C<sub>2</sub>H<sub>5</sub>OH.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm61658912">
+<problem id="fs-idm61658656">
+<para id="fs-idm61658400">Calcule la fracción molar de cada soluto y solvente:</para>
+<para id="fs-idm61658016">a) 0,710 kg de carbonato de sodio (sosa), Na<sub>2</sub>CO<sub>3</sub>, en 10,0 kg de agua, una solución saturada a 0 °C</para>
+<para id="fs-idp95972496">(b) 125 g de NH<sub>4</sub>NO<sub>3</sub> en 275 g de agua, una mezcla utilizada para hacer una bolsa de hielo instantánea.</para>
+<para id="fs-idp95973792">c) 25 g de Cl<sub>2</sub> en 125 g de diclorometano, CH<sub>2</sub>Cl<sub>2</sub>.</para>
+<para id="fs-idp562064">d) 0,372 g de tetrahidropiridina, C<sub>5</sub>H<sub>9</sub>N, en 125 g de cloroformo, CHCl<sub>3</sub>.</para></problem>
+<solution id="fs-idp128047088">
+<para id="fs-idp128047344">(a) <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,0119</m:mn><m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,988</m:mn><m:mo>;</m:mo></m:mrow></m:math> (b) <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,0928</m:mn><m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,907</m:mn><m:mo>;</m:mo></m:mrow></m:math> (c) <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,192</m:mn><m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CI</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,808</m:mn><m:mo>;</m:mo></m:mrow></m:math> (d) <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>9</m:mn></m:msub><m:mtext>N</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,00426</m:mn><m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mrow><m:mtext>CHCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,997</m:mn></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-idp82906048">
+<problem id="fs-idp82906304">
+<para id="fs-idp82906560">Calcule las fracciones molares de metanol, CH<sub>3</sub>OH; etanol, C<sub>2</sub>H<sub>5</sub>OH; y agua en una solución que tiene un 40 % de metanol, 40 % de etanol y 20 % de agua en masa. (Supongamos que los datos son buenos con dos cifras significativas).</para>
+</problem>
+</exercise>
+<exercise id="fs-idp36238320">
+<problem id="fs-idp36238576">
+<para id="fs-idp36238832">¿Cuál es la diferencia entre una solución 1 <emphasis effect="italics">M</emphasis> y una solución 1 <emphasis effect="italics">m</emphasis>?</para>
+</problem>
+<solution id="fs-idp36239856">
+<para id="fs-idp36240112">En una solución 1 <emphasis effect="italics">M</emphasis>, el mol está contenido en exactamente 1 L de solución. En una solución de 1 <emphasis effect="italics">m</emphasis>, el mol está contenido en exactamente 1 kg de solvente.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp36241264">
+<problem id="fs-idp36241520">
+<para id="fs-idp36241776">¿Cuál es la molalidad del ácido fosfórico, H<sub>3</sub>PO<sub>4</sub>, en una solución de 14,5 g de H<sub>3</sub>PO<sub>4</sub> en 125 g de agua?</para>
+<para id="fs-idp36243696">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp36244080">(b) Responda a la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp36246800">
+<problem id="fs-idp36247056">
+<para id="fs-idp36247312">¿Cuál es la molalidad del ácido nítrico en una solución concentrada de ácido nítrico (68,0 % de HNO<sub>3</sub> en masa)?</para>
+<para id="fs-idp36248080">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp36248464">(b) Responda a la pregunta.</para>
+</problem>
+<solution id="fs-idp129925184">
+<para id="fs-idp129925440">(a) Determine la masa molar del HNO<sub>3</sub>. Determine el número de moles de ácido en la solución. A partir del número de moles y de la masa de solvente, determine la molalidad. (b) 33,7 <emphasis effect="italics">m</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idp172267408">
+<problem id="fs-idp172267664">
+<para id="fs-idp172267920">Calcule la molalidad de cada una de las siguientes soluciones:</para>
+<para id="fs-idp172268304">a) 583 g de H<sub>2</sub>SO<sub>4</sub> en 1,50 kg de agua, la solución ácida utilizada en una batería de automóvil</para>
+<para id="fs-idp172269616">b) 0,86 g de NaCl en 1,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>2</sup> g de agua-solución de cloruro de sodio para inyección intravenosa.</para><para id="fs-idp172270160">c) 46,85 g de codeína, C<sub>18</sub>H<sub>21</sub>NO<sub>3</sub>, en 125,5 g de etanol, C<sub>2</sub>H<sub>5</sub>OH.</para>
+<para id="fs-idp172272464">d) 25 g de I<sub>2</sub> en 125 g de etanol, C<sub>2</sub>H<sub>5</sub>OH.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp172276944">
+<problem id="fs-idp172277200">
+<para id="fs-idp172277456">Calcule la molalidad de cada una de las siguientes soluciones:</para>
+<para id="fs-idp172277840">a) 0,710 kg de carbonato de sodio (sosa), Na<sub>2</sub>CO<sub>3</sub>, en 10,0 kg de agua, una solución saturada a 0°C.</para><para id="fs-idp172279120">(b) 125 g de NH<sub>4</sub>NO<sub>3</sub> en 275 g de agua, una mezcla utilizada para hacer una bolsa de hielo instantánea.</para>
+<para id="fs-idp172280416">c) 25 g de Cl<sub>2</sub> en 125 g de diclorometano, CH<sub>2</sub>Cl<sub>2</sub>.</para>
+<para id="fs-idp85806960">d) 0,372 g de tetrahidropiridina, C<sub>5</sub>H<sub>9</sub>N, en 125 g de cloroformo, CHCl<sub>3</sub>.</para></problem>
+<solution id="fs-idp85808496">
+<para id="fs-idp85808752">(a) 6,70 <m:math><m:mo>×</m:mo></m:math> 10<sup>−1</sup> <emphasis effect="italics">m</emphasis>; (b) 5,67 <emphasis effect="italics">m</emphasis>; (c) 2,8 <emphasis effect="italics">m</emphasis>; (d) 0,0358 <emphasis effect="italics">m</emphasis>.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm62881312">
+<problem id="fs-idm62881056">
+<para id="fs-idm62880800">La concentración de glucosa, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, en el líquido cefalorraquídeo normal es <m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>75</m:mn><m:mspace width="0.2em"/><m:mtext>mg</m:mtext></m:mrow><m:mrow><m:mn>100</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> ¿Cuál es la molalidad de la solución?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm62873376">
+<problem id="fs-idm62873120">
+<para id="fs-idm62872864">Una solución de K<sub>2</sub>CO<sub>3</sub> al 13,0 % en masa tiene una densidad de 1,09 g/cm<sup>3</sup>. Calcule la molalidad de la solución.</para>
+</problem>
+<solution id="fs-idm62871200">
+<para id="fs-idm62870944">1,08 <emphasis effect="italics">m</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idp135093440">
+<problem id="fs-idp135093696">
+<para id="fs-idp135093952">¿Por qué 1 mol de cloruro de sodio reduce el punto de congelación de 1 kg de agua casi dos veces más que 1 mol de glicerina?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp40718720">
+<problem id="fs-idp40718976">
+<para id="fs-idp40719232">Suponiendo un comportamiento ideal de la solución, ¿cuál es el punto de ebullición de una solución de 115,0 g de sacarosa no volátil, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>, en 350,0 g de agua?</para>
+<para id="fs-idp40720768">(a) Describa los pasos necesarios para responder a la pregunta</para>
+<para id="fs-idp40721152">(b) Responda a la pregunta</para>
+</problem>
+<solution id="fs-idp40721664">
+<para id="fs-idp40721920">(a) Determinar la masa molar de la sacarosa; determinar el número de moles de sacarosa en la solución; convertir la masa del solvente a unidades de kilogramos; a partir del número de moles y de la masa del solvente, determinar la molalidad; determinar la diferencia entre el punto de ebullición del agua y el punto de ebullición de la solución; determinar el nuevo punto de ebullición. (b) 100,5 °C.</para></solution>
+</exercise>
+<exercise id="fs-idp169311680">
+<problem id="fs-idp169311936">
+<para id="fs-idp169312192">Suponiendo un comportamiento ideal de la solución, ¿cuál es el punto de ebullición de una solución de 9,04 g de I<sub>2</sub> en 75,5 g de benceno, suponiendo que el I<sub>2</sub> no es volátil?</para>
+<para id="fs-idp169313344">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp169313728">(b) Responda a la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp140267616">
+<problem id="fs-idp140267872">
+<para id="fs-idp140268128">Suponiendo un comportamiento ideal de la solución, ¿cuál es la temperatura de congelación de una solución de 115,0 g de sacarosa, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>, en 350,0 g de agua?</para>
+<para id="fs-idp140269792">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp140270176">(b) Responda a la pregunta.</para>
+</problem>
+<solution id="fs-idp140270688">
+<para id="fs-idp140270944">(a) Determinar la masa molar de la sacarosa; determinar el número de moles de sacarosa en la solución; convertir la masa del solvente a unidades de kilogramos; a partir del número de moles y de la masa del solvente, determinar la molalidad; determinar la diferencia entre la temperatura de congelación del agua y la temperatura de congelación de la solución; determinar la nueva temperatura de congelación. (b) -1,8 °C.</para></solution>
+</exercise>
+<exercise id="fs-idp128908704">
+<problem id="fs-idp128908960">
+<para id="fs-idp128909216">Suponiendo un comportamiento ideal de la solución, ¿cuál es el punto de congelación de una solución de 9,04 g de I<sub>2</sub> en 75,5 g de benceno?</para>
+<para id="fs-idm52053712">(a) Describa los pasos necesarios para responder a la siguiente pregunta.</para>
+<para id="fs-idm52053328">(b) Responda a la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp95687760">
+<problem id="fs-idp95688016">
+<para id="fs-idp95688272">Suponiendo un comportamiento ideal de la solución, ¿cuál es la presión osmótica de una solución acuosa de 1,64 g de Ca(NO<sub>3</sub>)<sub>2</sub> en agua a 25 °C? El volumen de la solución es de 275 mL.</para>
+<para id="fs-idp95689552">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp95689936">(b) Responda a la pregunta.</para>
+</problem>
+<solution id="fs-idp95690448">
+<para id="fs-idp95690704">(a) Determinar la masa molar de Ca(NO<sub>3</sub>)<sub>2</sub>; determinar el número de moles de Ca(NO<sub>3</sub>)<sub>2</sub> en la solución; determinar el número de moles de iones en la solución; determinar la molaridad de los iones, y luego la presión osmótica. (b) 2,67 atm.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp140011408">
+<problem id="fs-idp140011664">
+<para id="fs-idp140011920">Suponiendo un comportamiento ideal de la solución, ¿cuál es la presión osmótica de una solución de insulina bovina (masa molar, 5700 g mol<sup>−1</sup>) a 18 °C si 100,0 mL de la solución contienen 0,103 g de la insulina?</para>
+<para id="fs-idp140012848">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp140013232">(b) Responda a la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp133898592">
+<problem id="fs-idp133898848">
+<para id="fs-idp133899104">Suponiendo un comportamiento ideal de la solución, ¿cuál es la masa molar de una solución de 5,00 g de un compuesto en 25,00 g de tetracloruro de carbono (pb 76,8 °C; <emphasis effect="italics">K</emphasis><sub>b</sub>, 02 °C/<emphasis effect="italics">m</emphasis>) que hierve a 81,5 °C a 1 atm?</para>
+<para id="fs-idp5557616">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp5558000">(b) Resuelva el problema.</para>
+</problem>
+<solution id="fs-idp5558512">
+<para id="fs-idp5558768">(a) Determinar la concentración molar a partir del cambio en el punto de ebullición y <emphasis effect="italics">K</emphasis><sub>b</sub>; determinar los moles de soluto en la solución a partir de la concentración molar y la masa del solvente; determinar la masa molar a partir del número de moles y la masa del soluto. (b) 2,1 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>2</sup> g mol<sup>−1</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp128832096">
+<problem id="fs-idp128832352">
+<para id="fs-idp128832608">Una muestra de un compuesto orgánico (un no electrolito) que pesa 1,35 g bajó el punto de congelación de 10,0 g de benceno en 3,66 °C. Suponiendo un comportamiento de solución ideal, calcule la masa molar del compuesto.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm4591712">
+<problem id="fs-idm4591456">
+<para id="fs-idm4591200">Una solución de 1,0 <emphasis effect="italics">m</emphasis> de HCl en benceno tiene un punto de congelación de 0,4 °C. ¿Es el HCl un electrolito en benceno? Explique.</para>
+</problem>
+<solution id="fs-idm4589952">
+<para id="fs-idm4589696">No. El benceno puro se congela a 5,5 °C, por lo que el punto de congelación observado de esta solución está deprimido por Δ<emphasis effect="italics">T</emphasis><sub>f</sub> = 5,5 − 0,4 = 5,1 °C. El valor calculado, suponiendo que no hay ionización del HCl, es Δ<emphasis effect="italics">T</emphasis><sub>f</sub> = (1,0 m)(5,14 °C/<emphasis effect="italics">m</emphasis>) = 5,1 °C. La concordancia de estos valores apoya la suposición de que el HCl no está ionizado.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm4586416">
+<problem id="fs-idm4586160">
+<para id="fs-idm4585904">Una solución contiene 5,00 g de urea, CO(NH<sub>2</sub>)<sub>2</sub>, un compuesto no volátil, disuelto en 0,100 kg de agua. Si la presión de vapor del agua pura a 25 °C es de 23,7 torr, ¿cuál es la presión de vapor de la solución (suponiendo un comportamiento ideal de la solución)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp140038656">
+<problem id="fs-idp140038912">
+<para id="fs-idp140039168">Una muestra de 12,0 g de un no electrolito se disuelve en 80,0 g de agua. La solución se congela a −1.94 °C. Suponiendo un comportamiento ideal de la solución, calcule la masa molar de la sustancia.</para>
+</problem>
+<solution id="fs-idp140040000">
+<para id="fs-idp140040512">144 g mol<sup>−1</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp189091568">
+<problem id="fs-idp189091824">
+<para id="fs-idp189092080">Ordene las siguientes soluciones por su punto de congelación decreciente: 0,1 <emphasis effect="italics">m</emphasis> Na<sub>3</sub>PO<sub>4</sub>, 0,1 <emphasis effect="italics">m</emphasis> C<sub>2</sub>H<sub>5</sub>OH, 0,01 <emphasis effect="italics">m</emphasis> CO<sub>2</sub>, 0,15 <emphasis effect="italics">m</emphasis> NaCl, y 0,2 <emphasis effect="italics">m</emphasis> CaCl<sub>2</sub>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp58483920">
+<problem id="fs-idp58484176">
+<para id="fs-idp58484432">Calcule la elevación del punto de ebullición de 0,100 kg de agua que contiene 0,010 mol de NaCl, 0,020 mol de Na<sub>2</sub>SO<sub>4</sub> y 0,030 mol de MgCl<sub>2</sub>, suponiendo una disociación completa de estos electrolitos y un comportamiento ideal de la solución.</para>
+</problem>
+<solution id="fs-idp58486224">
+<para id="fs-idp58486480">0,870 °C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp141394336">
+<problem id="fs-idp141394592">
+<para id="fs-idp141394848">¿Cómo podría preparar una solución acuosa de 3,08 <emphasis effect="italics">m</emphasis> de glicerina, C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>?? Suponiendo un comportamiento ideal de la solución, ¿cuál es el punto de congelación de esta solución?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp70734848">
+<problem id="fs-idp70735104">
+<para id="fs-idp70735360">Una muestra de azufre de 0,210 g se disolvió en 17,8 g de disulfuro de carbono, CS<sub>2</sub> (<emphasis effect="italics">K</emphasis><sub>b</sub> = 2,34 °C/<emphasis effect="italics">m</emphasis>). Si la aumento del punto de ebullición fue de 0,107 °C, ¿cuál es la fórmula de una molécula de azufre en el disulfuro de carbono (suponiendo el comportamiento de una solución ideal)?</para>
+</problem>
+<solution id="fs-idp70737776">
+<para id="fs-idp199918928">S<sub>8</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idm56693456">
+<problem id="fs-idm56693200">
+<para id="fs-idm56692944">En un importante experimento realizado hace muchos años, 5,6977 g de yoduro de cadmio en 44,69 g de agua elevaron el punto de ebullición 0,181 °C. ¿Qué sugiere esto sobre la naturaleza de una solución de CdI<sub>2</sub>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp169417488">
+<problem id="fs-idp169417744">
+<para id="fs-idp169418000">La lisozima es una enzima que escinde las paredes celulares. Una muestra de 0,100 L de una solución de lisozima que contiene 0,0750 g de la enzima presenta una presión osmótica de 1,32 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup> a 25 °C. Suponiendo un comportamiento ideal de la solución, ¿cuál es la masa molar de la lisozima?</para></problem>
+<solution id="fs-idp169421504">
+<para id="fs-idp169421760">1,39 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>4</sup> g mol<sup>−1</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp138340304">
+<problem id="fs-idp138340560">
+<para id="fs-idp138340816">La presión osmótica de una solución que contiene 7,0 g de insulina por litro es de 23 torr a 25 °C. Suponiendo un comportamiento ideal de la solución, ¿cuál es la masa molar de la insulina?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp135108928">
+<problem id="fs-idp135109184">
+<para id="fs-idp135109440">La presión osmótica de la sangre humana es de 7,6 atm a 37 °C. ¿Qué masa de glucosa,C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, se necesita para hacer 1,00 L de solución acuosa para la alimentación intravenosa si la solución debe tener la misma presión osmótica que la sangre a temperatura corporal, 37 °C (suponiendo un comportamiento ideal de la solución)?</para>
+</problem>
+<solution id="fs-idp135111616">
+<para id="fs-idp135111872">54 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idp18476208">
+<problem id="fs-idp18476464">
+<para id="fs-idp18476720">Suponiendo un comportamiento ideal de la solución, ¿cuál es el punto de congelación de una solución de dibromobenceno, C<sub>6</sub>H<sub>4</sub>Br<sub>2</sub>, en 0,250 kg de benceno, si la solución hierve a 83,5 °C?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp166052128">
+<problem id="fs-idp166052384">
+<para id="fs-idp166052640">Suponiendo un comportamiento ideal de la solución, ¿cuál es el punto de ebullición de una solución de NaCl en agua si la solución se congela a -0,93 °C?</para>
+</problem>
+<solution id="fs-idp166053360">
+<para id="fs-idp166053616">100,26 °C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm1532816">
+<problem id="fs-idm1532560">
+<para id="fs-idm1532304">El azúcar fructosa contiene un 40,0 % de C, un 6,7 % de H y un 53,3 % de O en masa. Una solución de 11,7 g de fructosa en 325 g de etanol tiene un punto de ebullición de 78,59 °C. El punto de ebullición del etanol es 78,35 °C, y <emphasis effect="italics">K</emphasis><sub>b</sub> para el etanol es 1,20 °C/<emphasis effect="italics">m</emphasis>. Suponiendo un comportamiento de solución ideal, ¿cuál es la fórmula molecular de la fructosa?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp241232">
+<problem id="fs-idp241488">
+<para id="fs-idp241744">La presión de vapor del metanol, CH<sub>3</sub>OH, es de 94 torr a 20 °C. La presión de vapor del etanol, C<sub>2</sub>H<sub>5</sub>OH, es de 44 torr a la misma temperatura.</para>
+<para id="fs-idp243408">(a) Calcule la fracción molar de metanol y de etanol en una solución de 50,0 g de metanol y 50,0 g de etanol.</para>
+<para id="fs-idp2235616">(b) El etanol y el metanol forman una solución que se comporta como una solución ideal. Calcule la presión de vapor del metanol y del etanol sobre la solución a 20 °C.</para>
+<para id="fs-idp2236336">(c) Calcule la fracción molar de metanol y de etanol en el vapor sobre la solución.</para>
+</problem>
+<solution id="fs-idp2236848">
+<para id="fs-idp2239328">(a) <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,590</m:mn><m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,410</m:mn><m:mo>;</m:mo></m:mrow></m:math> (b) Las presiones de vapor son: CH<sub>3</sub>OH: 55 torr; C<sub>2</sub>H<sub>5</sub>OH: 18 torr; (c) CH<sub>3</sub>OH: 0,75; C<sub>2</sub>H<sub>5</sub>OH: 0,25</para>
+</solution>
+</exercise>
+<exercise id="fs-idp128680064">
+<problem id="fs-idp128680320">
+<para id="fs-idp128680576">El punto triple del agua sin aire se define como 273,16 K. ¿Por qué es importante que el agua no tenga aire?</para></problem>
+</exercise>
+<exercise id="fs-idp128682240">
+<problem id="fs-idp128682496">
+<para id="fs-idp128682752">La carne puede clasificarse como fresca (no congelada) aunque se almacene a −1 °C. ¿Por qué no se congelaría la carne a esta temperatura?</para>
+</problem>
+<solution id="fs-idp128683536">
+<para id="fs-idp128683792">Los iones y compuestos presentes en el agua de la carne de vacuno reducen el punto de congelación de la carne por debajo de los −1 °C.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp128684672">
+<problem id="fs-idp128684928">
+<para id="fs-idp128685184">Un compuesto orgánico tiene una composición de 93,46 % de C y 6,54 % de H en masa. Una solución de 0,090 g de este compuesto en 1,10 g de alcanfor funde a 158,4 °C. El punto de fusión del alcanfor puro es de 178,4 °C. El <emphasis effect="italics">K</emphasis><sub>f</sub> del alcanfor es de 37,7 °C/<emphasis effect="italics">m</emphasis>. Suponiendo un comportamiento ideal de la solución, ¿cuál es la fórmula molecular del soluto? Muestre sus cálculos.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp13479328">
+<problem id="fs-idp13479584">
+<para id="fs-idp13479840">Una muestra de HgCl<sub>2</sub> de 9,41 g se disuelve en 32,75 g de etanol, C<sub>2</sub>H<sub>5</sub>OH (<emphasis effect="italics">K</emphasis><sub>b</sub> = 1,20 °C/<emphasis effect="italics">m</emphasis>). El aumento del punto de ebullición de la solución es de 1,27 °C. ¿Es el HgCl<sub>2</sub> un electrolito en etanol? Muestre sus cálculos.</para>
+</problem>
+<solution id="fs-idp431872">
+<para id="fs-idm46645536"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mtext>bp</m:mtext><m:mo>=</m:mo><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub><m:mi>m</m:mi><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,20</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mtext>/</m:mtext><m:mi>m</m:mi></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>9,41</m:mn><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mtext>mol Hg</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mn>271,496</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mn>0,03275</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,27</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math><newline/> El cambio observado es igual al cambio teórico; por lo tanto, no hay disociación.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp445696">
+<problem id="fs-idp445952">
+<para id="fs-idp446208">Se sabe que una sal es un fluoruro de metal alcalino. Una rápida determinación aproximada del punto de congelación indica que 4 g de la sal disueltos en 100 g de agua producen una solución que se congela a unos −1.4 °C. Suponiendo un comportamiento ideal de la solución, ¿cuál es la fórmula de la sal? Muestre sus cálculos.</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp188855296">
+<term>elevación del punto de ebullición</term>
+<meaning id="fs-idp188855936">elevación del punto de ebullición de un líquido por adición de un soluto.</meaning>
+</definition>
+<definition id="fs-idp188856832">
+<term>constante de elevación del punto de ebullición</term>
+<meaning id="fs-idp188857472">la constante de proporcionalidad en la ecuación que relaciona la elevación del punto de ebullición con la molalidad del soluto; también se conoce como constante ebulloscópica.</meaning>
+</definition>
+<definition id="fs-idp188858528">
+<term>propiedad coligativa</term>
+<meaning id="fs-idp141095168">propiedad de una solución que depende únicamente de la concentración de una especie de soluto.</meaning>
+</definition>
+<definition id="fs-idp141096064">
+<term>crenación</term>
+<meaning id="fs-idp141096704">proceso por el que las células biológicas se arrugan debido a la pérdida de agua por ósmosis.</meaning>
+</definition>
+<definition id="fs-idp141097600">
+<term>descenso crioscópico</term>
+<meaning id="fs-idp141098240">disminución del punto de congelación de un líquido por adición de un soluto.</meaning>
+</definition>
+<definition id="fs-idp141099136">
+<term>constante crioscópica</term>
+<meaning id="fs-idp141099776">(también, depresión del punto de congelación) constante de proporcionalidad en la ecuación que relaciona el descenso crioscópico con la molalidad del soluto.</meaning>
+</definition>
+<definition id="fs-idp141100816">
+<term>hemólisis</term>
+<meaning id="fs-idp141101456">ruptura de los glóbulos rojos debido a la acumulación de un exceso de agua por ósmosis.</meaning>
+</definition>
+<definition id="fs-idp141102352">
+<term>hipertónico</term>
+<meaning id="fs-idp141102992">de mayor presión osmótica.</meaning>
+</definition>
+<definition id="fs-idp141103888">
+<term>hipotónico</term>
+<meaning id="fs-idp141104528">de menor presión osmótica.</meaning>
+</definition>
+<definition id="fs-idp141105424">
+<term>par de iones</term>
+<meaning id="fs-idp141106064">par anión/catión disuelto que se mantiene unido por una atracción electrostática moderada.</meaning>
+</definition>
+<definition id="fs-idp141106960">
+<term>isotónico</term>
+<meaning id="fs-idp141107600">de igual presión osmótica.</meaning>
+</definition>
+<definition id="fs-idp141108496">
+<term>molalidad (<emphasis effect="italics">m</emphasis>)</term>
+<meaning id="fs-idp141109648">unidad de concentración definida como la relación entre el número de moles de soluto y la masa del solvente en kilogramos.</meaning>
+</definition>
+<definition id="fs-idp141112944">
+<term>ósmosis</term>
+<meaning id="fs-idp141113584">difusión de moléculas de solvente a través de una membrana semipermeable.</meaning>
+</definition>
+<definition id="fs-idp141114480">
+<term>presión osmótica (<emphasis effect="italics">Π</emphasis>)</term>
+<meaning id="fs-idp141115632">presión opuesta necesaria para evitar la transferencia de moléculas de solvente a través de una membrana semipermeable.</meaning>
+</definition>
+<definition id="fs-idp141116656">
+<term>Ley de Raoult</term>
+<meaning id="fs-idp11031568">la relación entre la presión de vapor de una solución y las presiones y concentraciones de vapor de sus componentes.</meaning>
+</definition>
+<definition id="fs-idp11032848">
+<term>membrana semipermeable</term>
+<meaning id="fs-idp11033488">una membrana que permite selectivamente el paso de ciertos iones o moléculas.</meaning>
+</definition>
+<definition id="fs-idp11034384">
+<term>factor de van't Hoff (<emphasis effect="italics">i</emphasis>)</term>
+<meaning id="fs-idp11035536">la relación entre el número de moles de partículas en una solución y el número de moles de unidades de fórmula disueltas en la solución.</meaning>
+</definition>
+</glossary>
+</document>

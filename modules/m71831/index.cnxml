@@ -1,0 +1,739 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Energía libre</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71831</md:content-id>
+  <md:title>Energía libre</md:title>
+  <md:abstract>Al final de esta sección, podrá: <list><item>
+Definir la energía libre de Gibbs y describir su relación con la espontaneidad</item>
+<item>Calcular el cambio de energía libre de un proceso utilizando las energías libres de formación de sus reactivos y productos</item>
+<item>Calcular el cambio de energía libre de un proceso utilizando las entalpías de formación y las entropías de sus reactivos y productos</item></list></md:abstract>
+  <md:uuid>48d01599-d83d-494a-9d7f-b64e72f7d3e2</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm21370272">Uno de los retos de utilizar la segunda ley de la termodinámica para determinar si un proceso es espontáneo es que requiere mediciones del cambio de entropía del sistema <emphasis effect="italics">y</emphasis> del cambio de entropía del entorno. A finales del siglo XIX, el matemático estadounidense Josiah Willard <term class="no-emphasis">Gibbs</term> introdujo un enfoque alternativo que incluía una nueva propiedad termodinámica definida únicamente en términos de propiedades del sistema. Esta nueva propiedad se denomina <term>energía libre de Gibbs (<emphasis effect="italics">G</emphasis></term> ) (o simplemente <emphasis effect="italics">energía libre</emphasis>), y se define en función de la entalpía y la entropía de un sistema de la siguiente manera:</para>
+<equation id="fs-idm129849344" class="unnumbered"><m:math><m:mrow><m:mi>G</m:mi><m:mo>=</m:mo><m:mi>H</m:mi><m:mo>-</m:mo><m:mi>T</m:mi><m:mi>S</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm247387040">La energía libre es una función de estado, y a temperatura y presión constantes el <term>cambio de energía libre (Δ<emphasis effect="italics">G</emphasis>)</term> puede expresarse de la siguiente manera:</para>
+<equation id="fs-idm279983248" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>-</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm111872960">(Para simplificar, el subíndice "sys" se omitirá en lo sucesivo).</para>
+<para id="fs-idm275842432">La relación entre esta propiedad del sistema y la espontaneidad de un proceso puede entenderse recordando la expresión de la segunda ley derivada anteriormente:</para>
+<equation id="fs-idm33912192" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>univ</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>surr</m:mtext></m:mrow></m:msub></m:mrow><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm170940880">La primera ley requiere que <emphasis effect="italics">q</emphasis><sub>surr</sub> = −<emphasis effect="italics">q</emphasis><sub>sys</sub>, y a presión constante <emphasis effect="italics">q</emphasis><sub>sys</sub> = Δ<emphasis effect="italics">H</emphasis>, por lo que esta expresión puede reescribirse como:</para>
+<equation id="fs-idm195954976" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>univ</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mo>-</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:mi>H</m:mi></m:mrow><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm169794560">Multiplicando ambos lados de esta ecuación por −<emphasis effect="italics">T</emphasis>, y reordenando se obtiene lo siguiente:</para>
+<equation id="fs-idm248567088" class="unnumbered"><m:math><m:mrow><m:mtext>-</m:mtext><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>univ</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>-</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm229909296">Si se compara esta ecuación con la anterior para el cambio de energía libre, se observa la siguiente relación:</para>
+<equation id="fs-idm117423648" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>=</m:mo><m:mtext>-</m:mtext><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:msub><m:mi>S</m:mi><m:mrow><m:mtext>univ</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm228637552">El cambio de energía libre es, por tanto, un indicador fiable de la espontaneidad de un proceso, estando directamente relacionado con el indicador de espontaneidad previamente identificado, Δ<emphasis effect="italics">S</emphasis><sub>univ</sub>. La <link target-id="fs-idm211518768"/> resume la relación entre la espontaneidad de un proceso y los signos aritméticos de estos indicadores.</para>
+<table id="fs-idm211518768" class="top-titled" summary="Esta tabla tiene tres columnas y tres filas. La primera columna tiene lo siguiente: &quot;delta mayúscula S subíndice univ es mayor que 0&quot;, &quot;delta mayúscula S subíndice univ es menor que 0&quot; y, &quot;delta mayúscula S subíndice univ es igual a 0&quot;. La segunda columna contiene lo siguiente: &quot;delta mayúscula G es menor que 0&quot;, &quot;delta mayúscula G es mayor que 0&quot; y &quot;delta mayúscula G es igual a 0&quot;. La tercera columna contiene lo siguiente: &quot;Espontáneo&quot;, &quot;no espontáneo (espontáneo en sentido contrario)&quot; y &quot;reversible (el sistema está en equilibrio)&quot;.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Relación entre la espontaneidad del proceso y los signos de las propiedades termodinámicas</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="center">Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> &gt; 0</entry>
+<entry align="center">Δ<emphasis effect="italics">G</emphasis> &lt; 0</entry>
+<entry align="center">espontáneo</entry>
+</row>
+<row valign="top">
+<entry align="center">Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> &lt; 0</entry>
+<entry align="center">Δ<emphasis effect="italics">G</emphasis> &gt; 0</entry>
+<entry align="center">no espontáneo</entry>
+</row>
+<row valign="top">
+<entry align="center">Δ<emphasis effect="italics">S</emphasis><sub>univ</sub> = 0</entry>
+<entry align="center">Δ<emphasis effect="italics">G</emphasis> = 0</entry>
+<entry align="center">en equilibrio</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section id="fs-idm233479872">
+<title>¿Qué tiene de "libre" el Δ<emphasis effect="italics">G</emphasis>?</title>
+<para id="fs-idm229806576">Además de indicar la espontaneidad, el cambio de energía libre también proporciona información sobre la cantidad de trabajo útil (<emphasis effect="italics">w</emphasis>) que puede realizar un proceso espontáneo. Aunque un tratamiento riguroso de este tema está fuera del alcance de un texto de introducción a la química, una breve exposición es útil para obtener una mejor perspectiva de esta importante propiedad termodinámica.</para>
+<para id="fs-idm215836800">Para ello, considere un proceso espontáneo y exotérmico que implique una disminución de la entropía. La energía libre, definida por</para>
+<equation id="fs-idm222474000" class="unnumbered">
+<m:math>
+ <m:mrow>
+  <m:mi>Δ</m:mi><m:mi>G</m:mi><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mi>H</m:mi><m:mo>-</m:mo><m:mi>T</m:mi><m:mi>Δ</m:mi><m:mi>S</m:mi></m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm229204848">puede interpretarse como la diferencia entre la energía producida por el proceso, Δ<emphasis effect="italics">H</emphasis>, y la energía perdida en el entorno, <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis>. La diferencia entre la energía producida y la energía perdida es la energía disponible (o "libre") para realizar un trabajo útil por el proceso, Δ<emphasis effect="italics">G</emphasis>. Si de alguna manera se pudiera hacer que el proceso tuviera lugar en condiciones de reversibilidad termodinámica, la cantidad de trabajo que se podría realizar sería máxima:</para>
+<equation id="fs-idm240532528" class="unnumbered">
+<m:math>
+ <m:mrow>
+  <m:mi>Δ</m:mi><m:mi>G</m:mi><m:mo>=</m:mo><m:msub>
+   <m:mi>w</m:mi>
+   <m:mrow>
+    <m:mi>max</m:mi></m:mrow>
+  </m:msub>
+  </m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm236757664">Sin embargo, como se señaló anteriormente en este capítulo, estas condiciones no son realistas. Además, las tecnologías utilizadas para extraer trabajo de un proceso espontáneo (por ejemplo, el motor de un automóvil o una turbina de vapor) nunca son eficientes al 100 %, por lo que el trabajo realizado por estos procesos es siempre inferior al máximo teórico. Un razonamiento similar puede aplicarse a un proceso no espontáneo, para el que el cambio de energía libre representa la cantidad <emphasis effect="italics">mínima</emphasis> de trabajo que debe realizarse en el sistema para llevar a cabo el proceso.</para>
+</section>
+<section id="fs-idm305910384">
+<title>Calcular el cambio de energía libre</title>
+<para id="fs-idm233417152">La energía libre es una función de estado, por lo que su valor depende únicamente de las condiciones de los estados inicial y final del sistema. Un enfoque práctico y común para el cálculo de los cambios de energía libre para las reacciones físicas y químicas es mediante el uso de compilaciones ampliamente disponibles de datos termodinámicos de estado estándar. Un método implica el uso de entalpías y entropías estándar para calcular los <term>cambios de energía libre estándar, Δ<emphasis effect="italics">G</emphasis>°</term>, según la siguiente relación:</para><equation id="fs-idm182227520" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>-</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext></m:mrow></m:math></equation>
+<example id="fs-idm117444432">
+<para id="fs-idm267921040"><title>Uso de los cambios de entalpía y entropía estándar para calcular Δ<emphasis effect="italics">G</emphasis>°</title>Utilice los datos de entalpía y entropía estándar del <link document="m68865">Apéndice G</link> para calcular el cambio de energía libre estándar para la vaporización del agua a temperatura ambiente (298 K). ¿Qué dice el valor calculado en Δ<emphasis effect="italics">G</emphasis>° sobre la espontaneidad de este proceso?</para><para id="fs-idm222992784"><title>Solución</title>
+El proceso de interés es el siguiente:</para>
+<equation id="fs-idm59589120" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm23409248">El cambio estándar de la energía libre puede calcularse mediante la siguiente ecuación:</para>
+<equation id="fs-idm165858560" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>-</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm272232416">Del <link document="m68865">Apéndice G</link>:</para>
+<table id="fs-idm230329280" summary="Esta tabla tiene tres columnas y tres filas. La primera fila es la del encabezado y marca cada columna: &quot;Sustancia&quot;, &quot;delta mayúscula H subíndice f superíndice símbolo de grado ( k J / mol)&quot;, y &quot;S subíndice 298 superíndice símbolo de grado ( J / K punto mol )&quot;. En la columna &quot;Sustancia&quot; están el H subíndice 2 O ( l ) y el H subíndice 2 O ( g ). En la columna &quot;delta mayúscula H subíndice f superíndice símbolo de grado ( k J / mol)&quot; se encuentran los valores 286,83 negativo y 241,82 negativo. En la columna &quot;S símbolo de grado ( J / K punto mol )&quot; están los valores 70,0 y 188,8." class="unnumbered">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="center">Sustancia</entry>
+<entry align="center"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mrow><m:mtext>(kJ/mol)</m:mtext></m:mrow></m:mrow></m:math></entry>
+<entry align="center">Los términos <m:math><m:mrow><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mrow><m:mtext>(J/K-mol)</m:mtext></m:mrow></m:mrow></m:math></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="center">H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="center">-286,83</entry>
+<entry align="center">70,0</entry>
+</row>
+<row valign="top">
+<entry align="center">H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">-241,82</entry>
+<entry align="center">188,8</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm123711584">Al utilizar los datos del apéndice para calcular los cambios de entalpía y entropía estándar se obtiene:</para>
+<equation id="fs-idm164142400" class="unnumbered">
+<m:math>
+<m:mtable columnalign="left">
+<m:mtr>
+<m:mtd>
+<m:mtext>Δ</m:mtext>
+<m:mi>H</m:mi>
+<m:mtext>°</m:mtext>
+<m:mo>=</m:mo>
+<m:mtext>Δ</m:mtext>
+<m:msubsup>
+<m:mi>H</m:mi>
+<m:mtext>f</m:mtext>
+<m:mo>°</m:mo>
+</m:msubsup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mrow>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>O</m:mtext>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>g</m:mi>
+<m:mo stretchy="false">)</m:mo>
+</m:mrow>
+<m:mo>).</m:mo>
+</m:mrow>
+<m:mspace width="0.2em"/>
+<m:mo>-</m:mo>
+<m:mtext>Δ</m:mtext>
+<m:msubsup>
+<m:mi>H</m:mi>
+<m:mtext>f</m:mtext>
+<m:mo>°</m:mo>
+</m:msubsup>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mrow>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>O</m:mtext>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>l</m:mi>
+<m:mo stretchy="false">)</m:mo>
+</m:mrow>
+<m:mo>).</m:mo>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mo>=</m:mo>
+<m:mrow>
+<m:mo>[</m:mo>
+<m:mrow>
+<m:mtext>-241,82 kJ/mol</m:mtext>
+<m:mo>-</m:mo>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mrow>
+<m:mtext>-286,83</m:mtext>
+</m:mrow>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:mrow>
+<m:mo>]</m:mo>
+</m:mrow>
+<m:mspace width="0.2em"/>
+<m:mtext>kJ/mol</m:mtext>
+<m:mo>=</m:mo>
+<m:mtext>45,01 kJ</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</equation>
+
+<equation id="fs-idm171591584" class="unnumbered">
+Los términos <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mtext>Δ</m:mtext>
+<m:mi>S</m:mi>
+<m:mtext>°</m:mtext>
+<m:mo>=</m:mo>
+<m:mrow>
+<m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/>
+<m:mo>×</m:mo>
+<m:mspace width="0.2em"/></m:mrow>
+<m:mi>S</m:mi>
+<m:mtext>°</m:mtext>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mrow>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>O</m:mtext>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>g</m:mi>
+<m:mo stretchy="false">)</m:mo>
+</m:mrow>
+<m:mo>).</m:mo>
+</m:mrow>
+<m:mspace width="0.2em"/>
+<m:mo>-</m:mo>
+<m:mrow>
+<m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/>
+<m:mo>×</m:mo>
+<m:mspace width="0.2em"/>
+</m:mrow>
+<m:mi>S</m:mi>
+<m:mtext>°</m:mtext>
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mrow>
+<m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>O</m:mtext>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>l</m:mi>
+<m:mo stretchy="false">)</m:mo>
+</m:mrow>
+<m:mo>).</m:mo>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mo>=</m:mo>
+<m:mn>(1 mol)188,8</m:mn>
+<m:mspace width="0.2em"/>
+<m:mtext>J/mol-K</m:mtext>
+<m:mo>-</m:mo>
+<m:mn>(1</m:mn>
+<m:mspace width="0.2em"/>
+<m:mtext>mol)</m:mtext>
+<m:mn>70,0</m:mn>
+<m:mspace width="0.2em"/>
+<m:mtext>J/mol K</m:mtext>
+<m:mo>=</m:mo>
+<m:mn>118,8</m:mn>
+<m:mspace width="0.2em"/>
+<m:mtext>J/mol-K</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</equation>
+<equation id="fs-idm129668064" class="unnumbered">Los términos <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>-</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp11689536">La sustitución en la ecuación estándar de la energía libre da como resultado:</para>
+<equation id="fs-idm246654432" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>-</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mtext>45,01 kJ</m:mtext><m:mo>-</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>298 K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>118,8</m:mn><m:mspace width="0.2em"/><m:mtext>J/K</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 kJ</m:mtext></m:mrow><m:mrow><m:mtext>1000 J</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></equation><equation id="fs-idm135070448" class="unnumbered"><m:math><m:mrow><m:mtext>45,01 kJ</m:mtext><m:mo>-</m:mo><m:mtext>35,4 kJ</m:mtext><m:mo>=</m:mo><m:mtext>9,6 kJ</m:mtext></m:mrow></m:math></equation><para id="fs-idm276144320">A 298 K (25 °C) <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>&gt;</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math> por lo que la ebullición no es espontánea (<emphasis effect="italics">no</emphasis> espontánea).</para>
+<para id="fs-idm248587360"><title>Compruebe sus conocimientos</title>
+Utilice los datos de entalpía y entropía estándar del <link document="m68865">Apéndice G</link> para calcular el cambio de energía libre estándar en la reacción mostrada aquí (298 K). ¿Qué dice el valor calculado en Δ<emphasis effect="italics">G</emphasis>° sobre la espontaneidad de este proceso?</para>
+<equation id="fs-idm276750416" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<note id="fs-idm97664544">
+<title>Respuesta:</title>
+<para id="fs-idm157144416"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>102,0 kJ/mol</m:mtext><m:mo>;</m:mo></m:mrow></m:math> la reacción no es espontánea (<emphasis effect="italics">no</emphasis> espontánea) a 25 °C.</para>
+</note>
+</example>
+<para id="fs-idm43672192">El cambio de energía libre estándar en una reacción también puede calcularse a partir de los valores de <term>energía libre estándar de formación ΔG°<sub>f</sub></term> de los reactivos y productos que intervienen en la reacción. La energía libre de formación estándar es el cambio de energía libre que acompaña a la formación de un mol de una sustancia a partir de sus elementos en sus estados estándar. Similar a la entalpía de formación estándar, <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> es por definición cero para las sustancias elementales en sus estados estándar. El enfoque utilizado para calcular <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msup><m:mi>G</m:mi><m:mo>°</m:mo></m:msup></m:mrow></m:math> en una reacción de <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> es el mismo que el que demostró anteriormente en los cambios de entalpía y entropía. En la reacción</para><equation id="fs-idm250621408" class="unnumbered"><m:math><m:mrow><m:mi>m</m:mi><m:mtext>A</m:mtext><m:mo>+</m:mo><m:mi>n</m:mi><m:mtext>B</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>x</m:mi><m:mtext>C</m:mtext><m:mo>+</m:mo><m:mi>y</m:mi><m:mtext>D</m:mtext><m:mo>,</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm124979680">el cambio de energía libre estándar a temperatura ambiente puede calcularse como</para>
+<equation id="fs-idm193663184" class="unnumbered"><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:mo>∑</m:mo><m:mrow><m:mo>ν</m:mo><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>productos</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mstyle><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mstyle displaystyle="true"><m:mo>∑</m:mo><m:mrow><m:mo>ν</m:mo><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>reactivos</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mstyle></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mi>x</m:mi><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mtext>C</m:mtext><m:mo>).</m:mo></m:mrow><m:mo>+</m:mo><m:mi>y</m:mi><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mtext>D</m:mtext><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:mi>m</m:mi><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mtext>A</m:mtext><m:mo>).</m:mo></m:mrow><m:mo>+</m:mo><m:mi>n</m:mi><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mtext>B</m:mtext><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>]</m:mo></m:mrow><m:mo>.</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
+<example id="fs-idm202485584">
+<para id="fs-idm232036496"><title>Uso de energías libres estándar de formación para calcular Δ<emphasis effect="italics">G</emphasis>°</title>
+Consideremos la descomposición del óxido de mercurio (II) amarillo.</para>
+<equation id="fs-idm217690608" class="unnumbered"><m:math><m:mrow><m:mtext>HgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>amarillo</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm274288288">Calcule el cambio de energía libre estándar a temperatura ambiente, <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>,</m:mo></m:mrow></m:math> utilizando (a) energías libres estándar de formación y (b) entalpías estándar de formación y entropías estándar. ¿Indican los resultados que la reacción es espontánea o no espontánea en condiciones estándar?</para>
+<para id="fs-idm70679856"><title>Solución</title>
+Los datos necesarios están disponibles en <link document="m68865">el Apéndice G</link> y se muestran aquí.</para>
+<table id="fs-idm232730384" summary="Esta tabla tiene cuatro columnas y cuatro filas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Compuesto&quot;, &quot;delta mayúscula G subíndice f superíndice símbolo de grado ( k J / mol )&quot;, &quot;delta mayúscula H subíndice f superíndice símbolo de grado ( k J / mol )&quot;, y &quot;S subíndice 298 superíndice símbolo de grado ( J / K punto mol )&quot;. En la columna &quot;Compuesto&quot; se encuentra lo siguiente: &quot;H g O ( s, amarillo )&quot;, &quot;H g ( l )&quot; y &quot;O subíndice 2 ( g )&quot;. En la columna &quot;delta mayúscula G subíndice f superíndice símbolo de grado ( k J / mol )&quot; se encuentran los siguientes valores: 58,43 negativo, 0 y 0. En la columna &quot;delta mayúscula H subíndice f superíndice símbolo de grado ( k J / mol )&quot; están los valores: 90,46 negativo, 0 y 0. En la columna &quot;S superíndice símbolo de grado ( J / K punto mol )&quot; están los valores: 71,13, 75,9, y 205,2." class="unnumbered">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="center">Compuesto</entry>
+<entry align="center"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mspace width="0.2em"/><m:mtext>(kJ/mol)</m:mtext></m:mrow></m:math></entry>
+<entry align="center">Los términos <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mspace width="0.2em"/><m:mtext>(kJ/mol)</m:mtext></m:mrow></m:math></entry>
+<entry align="center">Los términos <m:math><m:mrow><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mspace width="0.2em"/><m:mtext>(J/K-mol)</m:mtext></m:mrow></m:math></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="center">HgO<emphasis effect="italics">(s</emphasis>, amarillo)</entry>
+<entry align="center">-58,43</entry>
+<entry align="center">-90,46</entry>
+<entry align="center">71,13</entry>
+</row>
+<row valign="top">
+<entry align="center">Hg(<emphasis effect="italics">l</emphasis>)</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">75,9</entry>
+</row>
+<row valign="top">
+<entry align="center">O<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">205,2</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm192751264">(a) Utilizando las energías libres de formación:</para>
+<equation id="fs-idm211589632" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:mo>∑</m:mo><m:mrow><m:mi>ν</m:mi><m:msubsup><m:mi>G</m:mi><m:mrow><m:mn>f</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(productos)</m:mtext><m:mspace width="0.2em"/><m:mo>-</m:mo></m:mrow></m:mstyle><m:mstyle displaystyle="true"><m:mo>∑</m:mo><m:mrow><m:mi>ν</m:mi><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mrow><m:mn>f</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(reactivos)</m:mtext></m:mrow></m:mstyle></m:mrow></m:math></equation><equation id="fs-idm178475312" class="unnumbered">Los términos <m:math><m:mrow><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>1</m:mn><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mrow><m:mn>f</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>Hg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2 </m:mn></m:mfrac><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mrow><m:mn>f</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mrow><m:mn>f</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>HgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>amarillo</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math> grandes.</equation><equation id="fs-idm164697728" class="unnumbered">Los términos <m:math><m:mrow><m:mo>=</m:mo><m:mrow><m:mo>[</m:mo><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mtext>(0 kJ/mol)</m:mtext><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>mol(0 kJ/mol)</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mtext>1 mol(-58,43 kJ/mol)</m:mtext><m:mo>=</m:mo><m:mtext>58,43 kJ/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm112946608">b) Utilizar las entalpías y entropías de formación:</para>
+<equation id="fs-idm147522592" class="unnumbered"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:mo>∑</m:mo><m:mrow><m:mi>ν</m:mi><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(productos)</m:mtext><m:mspace width="0.2em"/><m:mo>-</m:mo></m:mrow></m:mstyle><m:mstyle displaystyle="true"><m:mo>∑</m:mo><m:mrow><m:mi>ν</m:mi><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>f</m:mtext></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>(reactivos)</m:mtext></m:mrow></m:mstyle></m:mrow></m:math></equation><equation id="fs-idm39030688" class="unnumbered">Los términos <m:math><m:mrow><m:mo>=</m:mo><m:mo>[</m:mo><m:mn>1</m:mn><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mn>f</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>Hg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2 </m:mn></m:mfrac><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mn>f</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>]</m:mo><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mn>1</m:mn><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mn>f</m:mn></m:mrow><m:mo>°</m:mo></m:msubsup><m:mtext>HgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>amarillo</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math> grandes.</equation><equation id="fs-idm261408512" class="unnumbered">Los términos <m:math><m:mrow><m:mo>=</m:mo><m:mo>[</m:mo><m:mtext>1 mol</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>0 kJ/mol</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>0 kJ/mol</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>]</m:mo><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mtext>1 mol</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>-90,46 kJ/mol</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mtext>90,46 kJ/mol</m:mtext></m:mrow></m:math></equation>
+<equation id="fs-idp6944752" class="unnumbered">Los términos <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mo>∑</m:mo><m:mtext>ν</m:mtext><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mtext>(productos)</m:mtext><m:mo>-</m:mo><m:mo>∑</m:mo><m:mtext>ν</m:mtext><m:mtext>Δ</m:mtext><m:mi>S</m:mi></m:mrow><m:mtext>°</m:mtext><m:mtext>(reactivos)</m:mtext></m:math></equation>
+<equation id="fs-idm61090368" class="unnumbered">Los términos <m:math><m:mrow><m:mo>=</m:mo><m:mo>[</m:mo><m:mn>1</m:mn><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mtext>Hg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2 </m:mn></m:mfrac><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>]</m:mo><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mn>1</m:mn><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mtext>HgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>amarillo</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math> grandes.</equation>
+<equation id="fs-idm131288608" class="unnumbered">Los términos <m:math><m:mrow><m:mo>=</m:mo><m:mo>[</m:mo><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>75,9 J/mol K</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>205,2 J/mol K</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>]</m:mo><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mtext>1 mol</m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>71,13 J/mol K</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mtext>107,4 J/mol K</m:mtext></m:mrow></m:math></equation>
+<equation id="fs-idm153411216" class="unnumbered">Los términos <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext><m:mo>-</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>90,46 kJ</m:mtext><m:mo>-</m:mo><m:mtext>298,15 K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>107,4 J/K-mol</m:mtext><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>1 kJ</m:mtext></m:mrow><m:mrow><m:mtext>1000 J</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<equation id="fs-idm190648624" class="unnumbered">Los términos <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>90,46</m:mn><m:mo>-</m:mo><m:mn>32,01</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>kJ/mol</m:mtext><m:mo>=</m:mo><m:mtext>58,45 kJ/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm269603872">Ambas formas de calcular el cambio de energía libre estándar a 25 °C dan el mismo valor numérico (con tres cifras significativas), y ambas predicen que el proceso <emphasis effect="italics">no es</emphasis> espontáneo a temperatura ambiente.</para>
+<para id="fs-idm59738256"><title>Compruebe lo aprendido</title>
+Calcule Δ<emphasis effect="italics">G</emphasis>° utilizando (a) energías libres de formación y (b) entalpías de formación y entropías (<link document="m68865">Apéndice G</link>). ¿Indican los resultados que la reacción es espontánea o no espontánea a 25 °C?</para>
+<equation id="fs-idm213619408" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<note id="fs-idm254989456">
+<title>Respuesta:</title>
+<para id="fs-idp2244016">(a) 140,8 kJ/mol, no espontáneo<newline/> (b) 141,5 kJ/mol, no espontáneo</para></note>
+</example>
+</section>
+
+
+
+
+
+
+
+
+
+<section id="fs-idm243550112">
+<title>Cambios de energía libre para reacciones acopladas</title>
+<para id="fs-idm243247344">El uso de las energías libres de formación para calcular los cambios de energía libre de las reacciones, como se ha descrito anteriormente, es posible porque ΔG es una función de estado, y el enfoque es análogo al uso de la Ley de Hess para calcular los cambios de entalpía (véase el capítulo sobre termoquímica). Consideremos como ejemplo la vaporización del agua:</para>
+<equation id="fs-idm237314080" class="unnumbered">
+<m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm244158208">Una ecuación que represente este proceso puede derivarse sumando las reacciones de formación en las dos fases del agua (invirtiendo necesariamente la reacción para la fase líquida). El cambio de energía libre para la reacción de suma es la suma de los cambios de energía libre para las dos reacciones añadidas:</para>
+<equation id="fs-idm245138624" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:munder accentunder="true"><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mfrac bevelled="true"><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">→</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="1em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mrow><m:mi>G</m:mi></m:mrow><m:mrow><m:mtext>f</m:mtext><m:mo>,</m:mo><m:mtext>gas</m:mtext></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">→</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mfrac bevelled="true"><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="1em"/><m:mo>-</m:mo><m:msubsup><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi></m:mrow><m:mrow><m:mtext>f</m:mtext><m:mo>,</m:mo><m:mtext>líquido</m:mtext></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup><m:mspace width="5em"/></m:mtd></m:mtr></m:mtable><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtable><m:mtr><m:mtd columnalign="left"><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">→</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>=</m:mo><m:msubsup><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi></m:mrow><m:mrow><m:mtext>f</m:mtext><m:mo>,</m:mo><m:mtext>gas</m:mtext></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup><m:mo>-</m:mo><m:msubsup><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi></m:mrow><m:mrow><m:mtext>f</m:mtext><m:mo>,</m:mo><m:mtext>líquido</m:mtext></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup></m:mtd></m:mtr></m:mtable></m:mtd></m:mtr></m:mtable></m:math></equation>
+
+<para id="fs-idm243360800">Este enfoque también puede utilizarse en los casos en los que se habilita una reacción no espontánea acoplándola a una reacción espontánea. Por ejemplo, la producción de zinc elemental a partir de sulfuro de zinc es termodinámicamente desfavorable, como indica un valor positivo de ΔG°:</para>
+<equation id="fs-idm244734352" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:mtext>ZnS</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msubsup><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi></m:mrow><m:mrow><m:mtext>1</m:mtext></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup>
+<m:mo>=</m:mo><m:mn>201,3</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow>
+</m:math>
+</equation>
+
+<para id="fs-idm243301424">El proceso industrial para la producción de zinc a partir de minerales sulfídicos implica el acoplamiento de esta reacción de descomposición a la oxidación termodinámicamente favorable del azufre:</para>
+<equation id="fs-idm242211664" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub>
+<m:mtext>O</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:msub>
+<m:mrow>
+<m:mtext>SO</m:mtext></m:mrow>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:msubsup><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi></m:mrow><m:mrow><m:mtext>2</m:mtext></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup>
+<m:mo>=</m:mo><m:mtext>-</m:mtext><m:mn>300,1</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm244876016">La reacción acoplada presenta un cambio de energía libre negativo y es espontánea:</para>
+<equation id="fs-idm243579984" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:mtext>ZnS</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub>
+<m:mtext>O</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>SO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>=</m:mo><m:mn>201,3</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>+</m:mo><m:mtext>-</m:mtext><m:mn>300,1</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>=</m:mo><m:mtext>-</m:mtext><m:mn>98,8</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm225059872">Este proceso se lleva a cabo normalmente a temperaturas elevadas, por lo que este resultado obtenido utilizando valores estándar de energía libre es sólo una estimación. Sin embargo, la esencia del cálculo se mantiene.</para>
+<example id="fs-idm243536208">
+<para id="fs-idm234324592"><title>Cálculo del cambio de energía libre de una reacción acoplada</title>
+¿Es de esperar que una reacción que acople la descomposición del ZnS a la formación de H<sub>2</sub>S sea espontánea en condiciones estándar?</para>
+<para id="fs-idm242277968"><title>Solución</title>Siguiendo el enfoque descrito anteriormente y utilizando los valores de energía libre del <link document="m68865">Apéndice G</link>:</para>
+<equation id="fs-idm195100848" class="unnumbered"><m:math>
+<m:mrow>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>Descomposición del sulfuro de zinc:</m:mtext></m:mrow>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:msubsup><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi></m:mrow><m:mrow><m:mtext>1</m:mtext></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup>
+<m:mo>=</m:mo><m:mn>201,3</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>Formación de sulfuro de hidrógeno:</m:mtext></m:mrow>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:msubsup><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi></m:mrow><m:mrow><m:mtext>2</m:mtext></m:mrow><m:mrow><m:mo>°</m:mo></m:mrow></m:msubsup>
+<m:mo>=</m:mo><m:mn>-33,4</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>Reacción acoplada:</m:mtext></m:mrow>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>ZnS</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>Zn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub>
+<m:mtext>H</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>=</m:mo><m:mn>201,3</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>+</m:mo><m:mn>-33,4</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>=</m:mo><m:mn>167,9</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+</m:mtable></m:mrow>
+</m:math>
+</equation><para id="fs-idm213857504">La reacción acoplada presenta un cambio de energía libre positivo y por tanto no es espontánea.</para>
+<para id="fs-idm213080368"><title>Compruebe lo aprendido</title> ¿Cuál es el cambio de energía libre estándar para la reacción a continuación? ¿Se espera que la reacción sea espontánea en condiciones estándar?</para>
+<equation id="fs-idm212071344" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:mtext>FeS</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub>
+<m:mtext>O</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">→</m:mo><m:mtext>Fe</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub>
+<m:mrow>
+<m:mtext>SO</m:mtext></m:mrow>
+<m:mn>2</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow>
+</m:math>
+</equation>
+<note id="fs-idm224787152">
+<title>Respuesta:</title><para id="fs-idm206530384">-199,7 kJ; espontáneo</para></note></example>
+</section>
+<section id="fs-idm220227936" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm197297904">La energía libre de Gibbs (<emphasis effect="italics">G</emphasis>) es una función de estado definida únicamente con respecto a las cantidades del sistema y puede utilizarse para predecir la espontaneidad de un proceso. Son posibles varios enfoques para el cálculo de los cambios de energía libre.</para></section>
+<section id="fs-idm248576000" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry>Δ<emphasis effect="italics">G</emphasis> = Δ<emphasis effect="italics">H</emphasis> − <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis></entry>
+</row>
+</tbody></tgroup></table></section>
+<section id="fs-idm233991504" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idm162318800">
+<problem id="fs-idm192331888">
+<para id="fs-idm124956736">¿Cuál es la diferencia entre Δ<emphasis effect="italics">G</emphasis> y Δ<emphasis effect="italics">G</emphasis>° en un cambio químico?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm203151232">
+<problem id="fs-idm256795056">
+<para id="fs-idm115549280">Una reacción tiene <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mtext>°</m:mtext></m:mrow></m:math> = 100 kJ/mol y <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>S</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>250 J/mol-K.</m:mtext></m:mrow></m:math> ¿La reacción es espontánea a temperatura ambiente? Si no es así, ¿en qué condiciones de temperatura se volverá espontánea?</para></problem>
+<solution id="fs-idm246856144">
+<para id="fs-idm274575376">La reacción no es espontánea a temperatura ambiente.<newline/> Por encima de 400 K, Δ<emphasis effect="italics">G</emphasis> se volverá negativo, y la reacción se volverá espontánea.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm139518608">
+<problem id="fs-idm233338320">
+<para id="fs-idm39686224">Explique qué ocurre cuando una reacción comienza con Δ<emphasis effect="italics">G</emphasis> &lt; 0 (negativo) y llega al punto en que Δ<emphasis effect="italics">G</emphasis> = 0.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm195989408">
+<problem id="fs-idm194383744">
+<para id="fs-idm3848528">Utilice los datos de la energía libre de formación estándar del <link document="m68865">Apéndice G</link> para determinar el cambio de energía libre para cada una de las siguientes reacciones, que se llevan a cabo en condiciones de estado estándar y a 25 °C. Identifique cada una como espontánea o no espontánea en estas condiciones.</para>
+<para id="fs-idm370443200">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Mn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm248600960">(b) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2HBr</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm299248176">(c) <m:math><m:mrow><m:mtext>Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CuS</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para>
+<para id="fs-idm153629888">(d) <m:math><m:mrow><m:mtext>2LiOH</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Li</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm235606320">(e) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>grafito</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm124793968">(f) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CS</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm210142176">
+<para id="fs-idm353662112">(a) 465,1 kJ no espontáneo; (b) -106,86 kJ espontáneo; (c) -291,9 kJ espontáneo; (d) -83,4 kJ espontáneo; (e) -406,7 kJ espontáneo; (f) -154,3 kJ espontáneo</para></solution>
+</exercise>
+<exercise id="fs-idm134681120">
+<problem id="fs-idm134680864">
+<para id="fs-idm134680608">Utilice los datos de energía libre estándar del <link document="m68865">Apéndice G</link> para determinar el cambio de energía libre para cada una de las siguientes reacciones, que se llevan a cabo en condiciones de estado estándar y a 25 °C. Identifique cada una como espontánea o no espontánea en estas condiciones.</para>
+<para id="fs-idm249306432">(a) <m:math><m:mrow><m:mtext>C</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mtext>, grafito</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm219636608">(b) <m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm167395376">(c) <m:math><m:mrow><m:mtext>2Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para>
+<para id="fs-idm41182800">(d) <m:math><m:mrow><m:mtext>CaO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para>
+<para id="fs-idm162981664">(e) <m:math><m:mrow><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>3CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2Fe</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm45454768">(f) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CaSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mtext>·</m:mtext><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CaSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm260990256">
+<problem id="fs-idm230949616">
+<para id="fs-idm230949360">Dada:<newline/> <m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:msub><m:mtext>P</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>5O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>P</m:mtext><m:mn>4</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>-2697,0 kJ/mol</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>-457,18 kJ/mol</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:msub><m:mrow><m:mtext>6H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>P</m:mtext><m:mn>4</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>4H</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mrow/><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>-428,66 kJ/mol</m:mtext></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-idm206045056">(a) Determine la energía libre estándar de formación, <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> para el ácido fosfórico.</para>
+<para id="fs-idm127687680">(b) ¿Cómo se compara tu resultado calculado con el valor del <link document="m68865">Apéndice G</link>? Explique.</para>
+</problem>
+<solution id="fs-idm175857088">
+<para id="fs-idm175856832">(a) La energía libre estándar de formación es -1124,3 kJ/mol. (b) El cálculo coincide con el valor del <link document="m68865">Apéndice G</link> porque la energía libre es una función de estado (al igual que la entalpía y la entropía), por lo que su cambio depende sólo de los estados inicial y final, no del camino entre ellos.</para></solution>
+</exercise>
+<exercise id="fs-idm160458752">
+<problem id="fs-idm160458496">
+<para id="fs-idm160458240">¿Es la formación de ozono (O<sub>3</sub>(<emphasis effect="italics">g</emphasis>)) a partir de oxígeno (O<sub>2</sub>(<emphasis effect="italics">g</emphasis>)) espontánea a temperatura ambiente en condiciones de estado estándar?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm207879392">
+<problem id="fs-idm124542400">
+<para id="fs-idm124542144">Consideremos la descomposición del óxido de mercurio(II) rojo en condiciones de estado estándar<newline/> <m:math><m:mrow><m:mtext>2HgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>rojo</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2Hg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm185328960">(a) ¿Es la descomposición espontánea en condiciones de estado estándar?</para>
+<para id="fs-idm185328576">(b) ¿Por encima de qué temperatura la reacción se vuelve espontánea?</para>
+</problem>
+<solution id="fs-idm185328064">
+<para id="fs-idm286778336">(a) La reacción no es espontánea; (b) Por encima de 566 °C el proceso es espontáneo.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm217769472">
+<problem id="fs-idm217769216">
+<para id="fs-idm217768960">Entre otras cosas, un combustible ideal para los propulsores de control de un vehículo espacial debe descomponerse en una reacción exotérmica espontánea cuando se expone al catalizador apropiado. Evalúe las siguientes sustancias en condiciones de estado estándar como candidatas adecuadas para los combustibles.</para>
+<para id="fs-idm62167136">(a) Amoníaco: <m:math><m:mrow><m:msub><m:mrow><m:mtext>2NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm160299072">(b) Diborano: <m:math><m:mrow><m:msub><m:mtext>B</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2B</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm201951984">(c) Hidracina: <m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm128910304">d) Peróxido de hidrógeno: <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm21106912">
+<problem id="fs-idm21106656">
+<para id="fs-idm21106400">Calcule Δ<emphasis effect="italics">G</emphasis>° en cada una de las siguientes reacciones a partir de la constante de equilibrio a la temperatura dada.</para>
+<para id="fs-idm21105280"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>2.000</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>4,1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-4</m:mtext></m:mrow></m:msup></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2HI</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>400</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>50,0</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>980</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>1,67</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CaCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CaO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>900</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>1,04</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(e)</m:mtext><m:mspace width="0.2em"/><m:mtext>HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:mrow/><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>F</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>7,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-4</m:mtext></m:mrow></m:msup></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(f)</m:mtext><m:mspace width="0.2em"/><m:mtext>AgBr</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>3,3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-13</m:mtext></m:mrow></m:msup></m:mtd></m:mtr></m:mtable></m:math></para>
+</problem>
+<solution id="fs-idm127623344">
+<para id="fs-idm127623088">(a) 1,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>2</sup> kJ; (b) -21,9 kJ; (c) -5,34 kJ; (d) -0,383 kJ; (e) 18 kJ; (f) 71 kJ</para></solution>
+</exercise>
+<exercise id="fs-idm118316848">
+<problem id="fs-idm118316592">
+<para id="fs-idm118316336">Calcule Δ<emphasis effect="italics">G</emphasis>° en cada una de las siguientes reacciones a partir de la constante de equilibrio a la temperatura dada.</para>
+<para id="fs-idm55812288"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2BrCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>4,7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-2</m:mtext></m:mrow></m:msup></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2SO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>500</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>48,2</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>60</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mtext>0,196</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:mtext>CoO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>CO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:mtext>Co</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>550</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>4,90</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(e)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mrow/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mrow/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mrow/><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>4,4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-4</m:mtext></m:mrow></m:msup></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(f)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>PbI</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Pb</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2I</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>T</m:mtext><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>°C</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:msub><m:mi>K</m:mi><m:mi>p</m:mi></m:msub><m:mo>=</m:mo><m:mn>8,7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-9</m:mtext></m:mrow></m:msup></m:mtd></m:mtr></m:mtable></m:math></para></problem>
+</exercise>
+<exercise id="fs-idm128725552">
+<problem id="fs-idm128725296">
+<para id="fs-idm128725040">Calcule la constante de equilibrio a 25 °C para cada una de las siguientes reacciones a partir del valor de Δ<emphasis effect="italics">G</emphasis>° dado.</para>
+<para id="fs-idm128723808"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2F</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2OF</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>-9,2 kJ</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2IBr</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>7,3 kJ</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:mtext>2LiOH</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Li</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>-79 kJ</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>NO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>-1,6 kJ</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>(e)</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SnCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SnCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>8,0 kJ</m:mtext></m:mtd></m:mtr></m:mtable></m:math></para>
+</problem>
+<solution id="fs-idm235430688">
+<para id="fs-idm235430432">(a) <emphasis effect="italics">K</emphasis> = 41; (b) <emphasis effect="italics">K</emphasis> = 0,053; (c) <emphasis effect="italics">K</emphasis> = 6,9 <m:math><m:mo>×</m:mo></m:math> 10<sup>13</sup>; (d) <emphasis effect="italics">K</emphasis> = 1,9; (e) <emphasis effect="italics">K</emphasis> = 0,04</para>
+</solution>
+</exercise>
+
+<exercise id="fs-idm62833440">
+<problem id="fs-idm62833184">
+<para id="fs-idm62832928">Determine el Δ<emphasis effect="italics">G</emphasis>º para las siguientes reacciones.</para><para id="fs-idm62831920">(a) El pentacloruro de antimonio se descompone a 448 °C. La reacción es<newline/> <m:math><m:mrow><m:msub><m:mrow><m:mtext>SbCl</m:mtext></m:mrow><m:mn>5</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⟶</m:mo><m:msub><m:mrow><m:mtext>SbCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm93485728">Una mezcla en equilibrio en un matraz de 5,00 L a 448 °C contiene 3,85 g de SbCl<sub>5</sub>, 9,14 g de SbCl<sub>3</sub> y 2,84 g de Cl<sub>2</sub>.</para>
+<para id="fs-idm98009472">(b) Las moléculas de cloro se disocian según esta reacción:<newline/> <m:math><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm94255024">1,00 % de las moléculas de Cl<sub>2</sub> se disocian a 975 K y una presión de 1,00 atm.</para>
+</problem>
+<solution id="fs-idm12494992">
+<para id="fs-idm12494736">(a) 22,1 kJ;<newline/>(b) 98,9 kJ/mol</para></solution>
+</exercise>
+<exercise id="fs-idm234603840">
+<problem id="fs-idm234603584">
+<para id="fs-idm234603328">Dado que el <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> para Pb<sup>2+</sup>(<emphasis effect="italics">aq</emphasis>) y Cl<sup>-</sup>(<emphasis effect="italics">aq</emphasis>) es de -24,3 kJ/mol y -131,2 kJ/mol respectivamente, determine el producto de solubilidad, <emphasis effect="italics">K</emphasis><sub>sp</sub>, para PbCl<sub>2</sub>(<emphasis effect="italics">s</emphasis>).</para>
+</problem>
+</exercise>
+<exercise id="fs-idm193107712">
+<problem id="fs-idm193107456">
+<para id="fs-idm193107200">Determine el cambio de energía libre estándar, <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mo>,</m:mo></m:mrow></m:math> para la formación de S<sup>2−</sup>(<emphasis effect="italics">aq</emphasis>) dado que el <m:math><m:mrow><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup></m:mrow></m:math> para Ag<sup>+</sup>(<emphasis effect="italics">aq</emphasis>) y Ag<sub>2</sub>S(<emphasis effect="italics">s</emphasis>) son 77,1 kJ/mol y -39,5 kJ/mol respectivamente, y el producto de solubilidad para Ag<sub>2</sub>S(<emphasis effect="italics">s</emphasis>) es 8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−51</sup>.</para></problem>
+<solution id="fs-idm121372304">
+<para id="fs-idm121372048">90 kJ/mol</para>
+</solution>
+</exercise>
+<exercise id="fs-idm184693712">
+<problem id="fs-idm184693456">
+<para id="fs-idm184693200">Determine el cambio de entalpía estándar, el cambio de entropía y el cambio de energía libre para la conversión del diamante en grafito. Discuta la espontaneidad de la conversión con respecto a los cambios de entalpía y entropía. Explique por qué no se observa que el diamante se transforme espontáneamente en grafito.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm208071680">
+<problem id="fs-idm208071424">
+<para id="fs-idm208071168">La evaporación de un mol de agua a 298 K tiene un cambio de energía libre estándar de 8,58 kJ<newline/> <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>8,58 kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp111653840">(a) La evaporación del agua en condiciones termodinámicas estándar, ¿es espontánea?</para>
+<para id="fs-idp111654224">(b) Determine la constante de equilibrio, <emphasis effect="italics">K<sub>P</sub></emphasis> en este proceso físico.</para>
+<para id="fs-idp111655488">c) Al calcular ∆<emphasis effect="italics">G</emphasis>, determine si la evaporación del agua a 298 K es espontánea cuando la presión parcial del agua, <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub><m:mo>,</m:mo></m:mrow></m:math> es 0,011 atm.</para>
+<para id="fs-idp111658656">(d) Si la evaporación del agua siempre fuera no espontánea a temperatura ambiente, la ropa mojada nunca se secaría cuando se colocara en el exterior. Para que la ropa se seque, ¿cuál debe ser el valor de <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub></m:mrow></m:math> en el aire?</para>
+</problem>
+<solution id="fs-idm150009408">
+<para id="fs-idm150009152">(a) En condiciones termodinámicas estándar, la evaporación no es espontánea; (b) <emphasis effect="italics">K<sub>p</sub></emphasis> = 0,031; (c) La evaporación del agua es espontánea; (d) <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub></m:mrow></m:math> debe ser siempre inferior a <emphasis effect="italics">K<sub>p</sub></emphasis> o a 0,031 atm. 0,031 atm representa el aire saturado de vapor de agua a 25 °C, o el 100 % de humedad.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm156294896">
+<problem id="fs-idm207423488">
+<para id="fs-idm207423232">En la glucólisis, la reacción de la glucosa (Glu) para formar glucosa-6-fosfato (G6P) requiere la presencia del trifosfato de adenosina (ATP), tal como se describe en la siguiente ecuación<newline/> <m:math><m:mrow><m:mtext>Glu</m:mtext><m:mo>+</m:mo><m:mtext>ATP</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>G6P</m:mtext><m:mo>+</m:mo><m:mtext>ADP</m:mtext><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>-17 kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm113051520">En este proceso, el ATP se convierte en difosfato de adenosina (ADP) resumido en la siguiente ecuación<newline/> <m:math><m:mrow><m:mtext>ATP</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>ADP</m:mtext><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>-30 kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm113046464">Determine el cambio de energía libre estándar para la siguiente reacción y explique por qué el ATP es necesario para impulsar este proceso<newline/> <m:math><m:mrow><m:mtext>Glu</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>G6P</m:mtext><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mo>con dígito d?</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm222211904">
+<problem id="fs-idm222211648">
+<para id="fs-idm222211392">Una de las reacciones importantes en la vía bioquímica de la glucólisis es la reacción de la glucosa-6-fosfato (G6P) para formar fructosa-6-fosfato (F6P):<newline/> <m:math><m:mrow><m:mtext>G6P</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:mtext>F6P</m:mtext><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>1,7 kJ</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm46491536">(a) ¿La reacción es espontánea o no espontánea en condiciones termodinámicas estándar?</para>
+<para id="fs-idm46491040">(b) Las condiciones termodinámicas estándar implican que las concentraciones de G6P y F6P sean de 1 <emphasis effect="italics">M</emphasis>; sin embargo, en una célula típica, ni siquiera se acercan a estos valores. Calcule Δ<emphasis effect="italics">G</emphasis> cuando las concentraciones de G6P y F6P son 120 μ<emphasis effect="italics">M</emphasis> y 28 μ<emphasis effect="italics">M</emphasis> respectivamente, y discuta la espontaneidad de la reacción directa en estas condiciones. Supongamos que la temperatura es de 37 °C.</para>
+</problem>
+<solution id="fs-idm46489168">
+<para id="fs-idm46488912">(a) No espontáneo como <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>&gt;</m:mo><m:mn>0</m:mn><m:mo>;</m:mo></m:mrow></m:math> (b) <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msup><m:mi>G</m:mi><m:mo>°</m:mo></m:msup><m:mtext>+</m:mtext><m:mi>R</m:mi><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>Q</m:mi><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mo>=</m:mo><m:mn>1,7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>8,314</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>310</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mn>28</m:mn></m:mrow><m:mrow><m:mn>120</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>-2,1 kJ</m:mtext><m:mo>.</m:mo></m:mrow></m:math> La reacción directa para producir F6P es espontánea en estas condiciones.</para></solution>
+</exercise>
+<exercise id="fs-idm154668704">
+<problem id="fs-idm154668448">
+<para id="fs-idm154668192">Sin hacer un cálculo numérico, determine cuál de los siguientes elementos reducirá el cambio de energía libre para la reacción, es decir, lo hará menos positivo o más negativo, cuando se aumente la temperatura. Explique.</para>
+<para id="fs-idm154667568">(a) <m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm62276640">(b) <m:math><m:mrow><m:mtext>HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mtext>Cl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para>
+<para id="fs-idm159391328">(c) <m:math><m:mrow><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mn>7</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>4H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm62218352">(d) <m:math><m:mrow><m:mtext>2Fe</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow/><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm114483936">
+<problem id="fs-idm114483680">
+<para id="fs-idm114483424">Cuando se añade cloruro de amonio al agua y se agita, se disuelve espontáneamente y la solución resultante se siente fría. Sin hacer ningún cálculo, deduzca los signos de Δ<emphasis effect="italics">G</emphasis>, Δ<emphasis effect="italics">H</emphasis> y Δ<emphasis effect="italics">S</emphasis> para este proceso, y justifique sus elecciones.</para>
+</problem>
+<solution id="fs-idm114480672">
+<para id="fs-idm114480416">Δ<emphasis effect="italics">G</emphasis> es negativo ya que el proceso es espontáneo. Δ<emphasis effect="italics">H</emphasis> es positivo ya que al enfriarse la solución, la disolución debe ser endotérmica. Δ<emphasis effect="italics">S</emphasis> debe ser positivo ya que esto impulsa el proceso, y es lo que se espera para la disolución de cualquier compuesto iónico soluble.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm182364544">
+<problem id="fs-idm182364288">
+<para id="fs-idm182364032">Una fuente importante de cobre es el mineral de cobre, la calcocita, una forma de sulfuro de cobre(I). Cuando se calienta, el Cu<sub>2</sub>S se descompone para formar cobre y azufre descrito por la siguiente ecuación:<newline/> <m:math><m:mrow><m:msub><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para>
+<para id="fs-idm121207872">(a) Determine <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext></m:mrow></m:math> para la descomposición del Cu<sub>2</sub>S(<emphasis effect="italics">s</emphasis>).</para>
+<para id="fs-idm121204816">(b) La reacción del azufre con el oxígeno produce dióxido de azufre como único producto. Escriba una ecuación que describa esta reacción y determine <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext></m:mrow></m:math> para el proceso.</para>
+<para id="fs-idp106153472">c) La producción de cobre a partir de la calcosina se realiza mediante la tostación del Cu<sub>2</sub>S en aire para producir el Cu. Combinando las ecuaciones de las partes (a) y (b), escriba la ecuación que describe la tostación de la calcocita, y explique por qué el acoplamiento de estas reacciones permite un proceso más eficiente para la producción del cobre.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm153799616"><problem id="fs-idm165393568">
+<para id="fs-idm165393312">¿Qué pasa con <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext></m:mrow></m:math> (se vuelve más negativa o más positiva) en las siguientes reacciones químicas cuando se aumenta la presión parcial de oxígeno?</para>
+<para id="fs-idm165391120">(a) <m:math><m:mrow><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm234999440">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>2SO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm218762400">(c) <m:math><m:mrow><m:mtext>HgO</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm71264384">
+<para id="fs-idm71264128">(a) Aumentar <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub></m:mrow></m:msub></m:mrow></m:math> desplazará el equilibrio hacia los productos, lo que aumenta el valor de <emphasis effect="italics">K</emphasis>. Por lo tanto, Δ<emphasis effect="italics">G</emphasis>° se vuelve más negativo.<newline/> (b) El aumento de <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub></m:mrow></m:msub></m:mrow></m:math> desplazará el equilibrio hacia los productos, lo que aumenta el valor de <emphasis effect="italics">K</emphasis>. Por lo tanto, Δ<emphasis effect="italics">G</emphasis>° se vuelve más negativo.<newline/> (c) El aumento de <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub></m:mrow></m:msub></m:mrow></m:math> desplazará el equilibrio de los reactivos, lo que disminuye el valor de <emphasis effect="italics">K</emphasis>. Por lo tanto, Δ<emphasis effect="italics">G</emphasis>° se vuelve más negativo se vuelve más positivo.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm119810368">
+<term>Cambio de energía libre de Gibbs (<emphasis effect="italics">G</emphasis>)</term>
+<meaning id="fs-idm119809104">propiedad termodinámica definida en términos de entalpía y entropía del sistema; todos los procesos espontáneos implican una disminución de <emphasis effect="italics">G</emphasis>.</meaning>
+</definition>
+<definition id="fs-idm119807952">
+<term>cambio de energía libre estándar (Δ<emphasis effect="italics">G</emphasis>°)</term>
+<meaning id="fs-idm119806688">cambio en la energía libre para un proceso que ocurre en condiciones estándar (1 bar de presión para los gases, 1 M de concentración para las soluciones).</meaning>
+</definition>
+<definition id="fs-idm119806032">
+<term>energía libre estándar de formación <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>Δ</m:mtext><m:msubsup><m:mi>G</m:mi><m:mtext>f</m:mtext><m:mo>°</m:mo></m:msubsup><m:mo stretchy="false">)</m:mo></m:mrow></m:math></term>
+<meaning id="fs-idm185413520">cambio en la energía libre que acompaña a la formación de un mol de sustancia a partir de sus elementos en sus estados estándar.</meaning>
+</definition>
+</glossary>
+</document>

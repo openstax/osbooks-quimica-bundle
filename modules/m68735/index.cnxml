@@ -1,0 +1,318 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Variaciones periódicas de las propiedades de los elementos</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68735</md:content-id>
+  <md:title>Variaciones periódicas de las propiedades de los elementos</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list><item>Describir y explicar las tendencias observadas en el tamaño atómico, la energía de ionización y la afinidad electrónica de los elementos</item></list></md:abstract>
+  <md:uuid>c9c8f370-dce6-4fb9-ae62-f36f87a900f0</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm133801872">Los elementos de los grupos (columnas verticales) de la tabla periódica presentan un comportamiento químico similar. Esta similitud se produce porque los miembros de un grupo tienen el mismo número y distribución de electrones en sus capas de valencia. Sin embargo, también existen otros patrones en las propiedades químicas de la tabla periódica. Por ejemplo, a medida que descendemos en un grupo, el carácter metálico de los átomos aumenta. El oxígeno, en la parte superior del grupo 16 (6A), es un gas incoloro; en el centro del grupo, el selenio es un sólido semiconductor; y, hacia el fondo, el polonio es un sólido gris plateado que conduce la electricidad.</para>
+<para id="fs-idm139046976">A medida que atravesamos un periodo de izquierda a derecha, añadimos un protón al núcleo y un electrón a la capa de valencia con cada elemento sucesivo. A medida que descendemos por los elementos de un grupo, el número de electrones de la capa de valencia permanece constante, pero el número cuántico principal aumenta en uno cada vez. La comprensión de la estructura de los electrones de los elementos nos permite examinar algunas de las propiedades que rigen su comportamiento químico. Estas propiedades varían periódicamente al cambiar la estructura de los electrones de los elementos. Son (1) el tamaño (radio) de los átomos e iones, (2) las energías de ionización y (3) las afinidades de los electrones.</para>
+<note id="fs-idm65430592" class="chemistry link-to-learning">
+<para id="fs-idp8713040">Explore las <link url="http://openstax.org/l/16pertrends">visualizaciones</link> de las tendencias periódicas comentadas en esta sección (y muchas más tendencias). Con pocas presiones, puede crear versiones tridimensionales de la tabla periódica que muestren el tamaño atómico o gráficos de energías de ionización de todos los elementos medidos.</para>
+</note>
+<section id="fs-idm46575248"><title>Variación del radio covalente</title>
+<para id="fs-idm81399712">La imagen mecánica cuántica hace difícil establecer un tamaño definitivo de un átomo. Sin embargo, hay varias formas prácticas de definir el radio de los átomos y, por tanto, de determinar sus tamaños relativos que dan valores aproximadamente similares. Utilizaremos el <term>radio covalente</term> (<link target-id="CNX_Chem_06_05_CovalradiT"/>), que se define como la mitad de la distancia entre los núcleos de dos átomos idénticos cuando están unidos por un enlace covalente (esta medida es posible porque los átomos dentro de las moléculas siguen conservando gran parte de su identidad atómica). Sabemos que a medida que recorremos un grupo, el número cuántico principal, <emphasis effect="italics">n</emphasis>, aumenta en uno para cada elemento. Así, los electrones se van añadiendo a una región del espacio cada vez más alejada del núcleo. En consecuencia, el tamaño del átomo (y su radio covalente) debe aumentar a medida que aumentamos la distancia de los electrones más externos al núcleo. Esta tendencia se ilustra para los radios covalentes de los halógenos en la <link target-id="fs-idp28766560"/> y la <link target-id="CNX_Chem_06_05_CovalradiT"/>. Las tendencias de toda la tabla periódica pueden verse en la <link target-id="CNX_Chem_06_05_CovalradiT"/>.</para>
+<table id="fs-idp28766560" class="top-titled" summary="Esta tabla tiene tres columnas y seis filas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Átomo&quot;, &quot;Radio covalente, picómetros&quot; y &quot;Carga nuclear&quot;. En la columna &quot;Átomo&quot; se encuentran los siguientes: F, C l, B r, I, y A t. En la columna &quot;Radio covalente, picómetros&quot; se encuentra lo siguiente: 64, 99, 114, 133 y 148. En la columna &quot;Carga nuclear&quot; se encuentra lo siguiente: 9 positivo, 17 positivo, 35 positivo, 53 positivo y 85 positivo.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Radios covalentes de los elementos del grupo halógeno</entry>
+</row>
+<row valign="top">
+<entry>Átomo</entry>
+<entry>Radio covalente (pm)</entry>
+<entry>Carga nuclear</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry>F</entry>
+<entry>64</entry>
+<entry>+9</entry>
+</row>
+<row valign="top">
+<entry>Cl</entry>
+<entry>99</entry>
+<entry>+17</entry>
+</row>
+<row valign="top">
+<entry>Br</entry>
+<entry>114</entry>
+<entry>+35</entry>
+</row>
+<row valign="top">
+<entry>I</entry>
+<entry>133</entry>
+<entry>+53</entry>
+</row>
+<row valign="top">
+<entry>At</entry>
+<entry>148</entry>
+<entry>+85</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure id="CNX_Chem_06_05_CovalradiT">
+<media id="fs-idm144132800" alt="Esta figura tiene dos partes: a y b. En la figura a, se muestran cuatro moléculas diatómicas para ilustrar el método de determinación del radio atómico de un átomo. El primer modelo, en verde claro, se utiliza para encontrar el radio del átomo F. Dos esferas son empujadas con mucha fuerza. La distancia entre los centros de los dos átomos se indica encima del diagrama con una flecha de doble punta etiquetada como &quot;128 picómetros (pm)&quot;. Los puntos finales de esta flecha se conectan a segmentos de línea que se extienden a los radios atómicos de abajo. Debajo de la molécula está la etiqueta: &quot;El radio F es igual a 128 pm dividido entre 2 es igual a 64 pm.&quot; Los tres modelos siguientes se utilizan de forma similar para mostrar los radios atómicos de los átomos adicionales. La segunda molécula diatómica está en un tono más oscuro de verde. La distancia entre los radios es de 198 pm. Debajo de la molécula está la etiqueta: &quot;El radio del Cl es igual a 198 pm dividido entre 2 es igual a 99 pm&quot;. La tercera molécula diatómica está en rojo. La distancia entre los radios es de 228 pm. Debajo de la molécula está la etiqueta: &quot;El radio del Br es igual a 228 pm dividido entre 2 es igual a 114 pm&quot;. La cuarta molécula diatómica está en púrpura. La distancia entre los radios es de 266 pm. Debajo de la molécula está la etiqueta: &quot;El radio del I es igual a 266 pm dividido entre 2 es igual a 133 pm&quot;. En la figura b, se utiliza un esquema de tabla periódica para comparar los tamaños relativos de los átomos, utilizando esferas verdes. No se proporcionan esferas para los elementos nobles o inertes del grupo de gases 18. Las tendencias generales observadas son el aumento del tamaño del círculo al pasar de arriba a abajo en un grupo, con una tendencia general al aumento de los radios atómicos hacia la esquina inferior izquierda de la tabla periódica.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_05_CovalradiT.jpg"/>
+</media>
+<caption>(a) El radio de un átomo se define como la mitad de la distancia entre los núcleos en una molécula formada por dos átomos idénticos unidos por un enlace covalente. El radio atómico de los halógenos aumenta en el grupo a medida que aumenta <emphasis effect="italics">n</emphasis>. (b) Los radios covalentes de los elementos se muestran a escala. La tendencia general es que los radios aumentan a lo largo de un grupo y disminuyen a lo largo de un periodo.</caption>
+</figure>
+<figure id="CNX_Chem_06_05_Radiigraph">
+<media id="fs-idm164235920" alt="Este gráfico titulado &quot;Radios atómicos&quot; está etiquetado como &quot;Número atómico&quot; en el eje horizontal y &quot;Radio (p m)&quot; en el eje vertical. Las marcas se proporcionan cada 10 unidades hasta 60 en el eje horizontal comenzando en cero. Las líneas verticales se extienden desde el eje horizontal hacia arriba en cada una de estas marcas. El eje vertical comienza en 0 y aumenta de a 50 hasta 300. Las líneas horizontales se dibujan a través del gráfico en múltiplos de 50. Una línea negra dentada conecta los valores de los radios de los elementos con números atómicos del 1 al 60 en el gráfico. Los picos son evidentes en las ubicaciones de los metales alcalinos: L i, N a, K, R b y C s, en cuyos puntos del gráfico se colocan puntos púrpura y los elementos se etiquetan en púrpura. Del mismo modo, existen mínimos en las localizaciones de los gases nobles o inertes: H e, N e, A r, K r, X e y R n, en cuyos puntos se colocan puntos azules y los símbolos de los elementos se proporcionan en azul. Las ubicaciones de los elementos de transición de periodo 4 y 5 se indican con puntos verdes. Estos puntos se agrupan en dos lugares del gráfico que están marcados con un círculo rojo y etiquetados en consecuencia. Los puntos verdes de los elementos de transición junto con la línea que los une forman una U en el gráfico dentro de cada uno de los círculos rojos dibujados. Los radios atómicos de los metales alcalinos en picómetros son: L i 167, N a 190, K 243, R b 265 y C s 298. Los radios atómicos de los gases nobles o inertes incluidos en el gráfico en picómetros son: H e 31, N e 38, A r 71, K r 88 y X e 108.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_05_Radiigraph.jpg"/>
+</media>
+<caption>Dentro de cada periodo, la tendencia del radio atómico disminuye a medida que aumenta <emphasis effect="italics">Z</emphasis>; por ejemplo, de K a Kr. Dentro de cada grupo (por ejemplo, los metales alcalinos mostrados en púrpura), la tendencia es que el radio atómico aumenta a medida que aumenta <emphasis effect="italics">Z</emphasis>.</caption>
+</figure>
+<para id="fs-idm121307184">Como se muestra en la <link target-id="CNX_Chem_06_05_Radiigraph"/>, a medida que nos movemos a través de un período de izquierda a derecha, generalmente encontramos que cada elemento tiene un radio covalente más pequeño que el elemento que lo precede. Esto puede parecer contradictorio porque implica que los átomos con más electrones tienen un radio atómico menor. Esto se puede explicar con el concepto de <term>carga nuclear efectiva, o <emphasis effect="italics">Z</emphasis><sub>eff</sub></term>. Es la atracción que ejerce el núcleo sobre un electrón concreto, teniendo en cuenta las posibles repulsiones electrón-electrón. En el caso del hidrógeno, solo hay un electrón, por lo que la carga nuclear (<emphasis effect="italics">Z</emphasis>) y la carga nuclear efectiva (<emphasis effect="italics">Z</emphasis><sub>eff</sub>) son iguales. Para todos los demás átomos, los electrones internos <emphasis effect="italics">apantalla</emphasis> parcialmente a los externos de la atracción del núcleo, y por tanto:</para>
+<equation class="unnumbered" id="fs-idm124657104"><m:math><m:mrow><m:msub><m:mi>Z</m:mi><m:mrow><m:mtext>eff</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mi>Z</m:mi><m:mo>-</m:mo><m:mi>ap</m:mi><m:mi>an</m:mi><m:mi>t</m:mi><m:mi>al</m:mi><m:mi>l</m:mi><m:mi>am</m:mi><m:mi>i</m:mi><m:mi>en</m:mi><m:mi>to</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm139062592">El apantallamiento viene determinado por la probabilidad de que otro electrón se encuentre entre el electrón de interés y el núcleo, así como por las repulsiones electrón-electrón que encuentra el electrón de interés. Los electrones centrales son expertos en el apantallamiento, mientras que los electrones de la misma capa de valencia no bloquean la atracción nuclear experimentada por los demás con tanta eficacia. Así, cada vez que pasamos de un elemento a otro a lo largo de un periodo, <emphasis effect="italics">Z</emphasis> aumenta en uno, pero el apantallamiento solo aumenta ligeramente. Por lo tanto, <emphasis effect="italics">Z</emphasis><sub>eff</sub> aumenta a medida que nos movemos de izquierda a derecha a través de un período. La mayor atracción (mayor carga nuclear efectiva) que experimentan los electrones del lado derecho de la tabla periódica los acerca al núcleo, haciendo que los radios covalentes sean más pequeños.</para>
+<para id="fs-idm117962416">Así, como era de esperar, los electrones más externos o de valencia son los más fáciles de eliminar porque tienen las energías más altas, están más protegidos y están más alejados del núcleo. Por regla general, cuando los elementos representativos forman cationes, lo hacen por la pérdida de los electrones <emphasis effect="italics">ns</emphasis> o <emphasis effect="italics">np</emphasis> que se añadieron en último lugar en el proceso de Aufbau. Los elementos de transición, en cambio, pierden los electrones <emphasis effect="italics">ns</emphasis> antes de empezar a perder los electrones (<emphasis effect="italics">n</emphasis> - 1)<emphasis effect="italics">d</emphasis>, aunque los electrones <emphasis effect="italics">ns</emphasis> se añadan primero, según el principio de Aufbau.</para>
+<example id="fs-idm167417008">
+<para id="fs-idp96283344"><title>Clasificación de radios atómicos</title>
+Prediga el orden de aumento del radio covalente para el Ge, Fl, Br, Kr.</para>
+<para id="fs-idm170368896"><title>Solución</title>
+El radio aumenta a medida que descendemos en un grupo, por lo que Ge &lt; Fl (Nota: Fl es el símbolo del flerovio, elemento 114, NO del flúor). El radio disminuye a medida que nos movemos a través de un período, por lo que Kr &lt; Br &lt; Ge. Uniendo las tendencias, obtenemos Kr &lt; Br &lt; Ge &lt; Fl.</para>
+<para id="fs-idm138739760"><title>Compruebe lo aprendido</title>
+Mencione un ejemplo de un átomo cuyo tamaño es menor que el del flúor.</para>
+<note id="fs-idm123362928"><title>Respuesta:</title>
+<para id="fs-idm176919040">Ne o He.</para></note>
+</example>
+</section>
+<section id="fs-idm56440528"><title>Variación de los radios iónicos</title>
+<para id="fs-idm83408752">El radio iónico es la medida utilizada para describir el tamaño de un ion. Un catión siempre tiene menos electrones y el mismo número de protones que el átomo padre; es más pequeño que el átomo del que deriva (<link target-id="CNX_Chem_06_05_Ionradii"/>). Por ejemplo, el radio covalente de un átomo de aluminio (1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>1</sup>) es de 118 pm, mientras que el radio iónico de un Al<sup>3+</sup> (1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>) es de 68 pm. A medida que se eliminan los electrones de la capa de valencia exterior, los electrones centrales restantes que ocupan las capas más pequeñas experimentan una mayor carga nuclear efectiva <emphasis effect="italics">Z</emphasis><sub>eff</sub> (como se ha comentado) y se acercan aún más al núcleo.</para>
+<figure id="CNX_Chem_06_05_Ionradii" class="scaled-down">
+<media id="fs-idm119556048" alt="La figura incluye esferas en verde para representar los tamaños relativos de los átomos de A l y S. La esfera A l, relativamente grande, situada en la parte superior izquierda está etiquetada como 118. La esfera S, significativamente más pequeña, en la parte superior derecha está etiquetada como 104. Debajo de cada una de estas esferas hay una esfera roja. La esfera roja de la parte inferior izquierda es muy pequeña en comparación con las otras esferas y está etiquetada como &quot;A l superíndice 3 más 68&quot;. La esfera roja de la parte inferior derecha es significativamente más grande que las otras esferas y está etiquetada como &quot;S superíndice 2 negativo 170&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_05_Ionradii.jpg"/>
+</media>
+<caption>El radio de un catión es menor que el del átomo padre (Al), debido a los electrones perdidos; el radio de un anión es mayor que el del padre (S), debido a los electrones ganados.</caption>
+</figure>
+<para id="fs-idm65452096">Los cationes con cargas mayores son más pequeños que los cationes con cargas menores (por ejemplo, V<sup>2+</sup> tiene un radio iónico de 79 pm, mientras que para los de V<sup>3+</sup> es de 64 pm). Bajando por los grupos de la tabla periódica, encontramos que los cationes de elementos sucesivos con la misma carga tienen generalmente radios mayores, lo que corresponde a un aumento del número cuántico principal, <emphasis effect="italics">n</emphasis>.</para>
+<para id="fs-idm145149808">Un anión (ion negativo) se forma por la adición de uno o más electrones a la capa de valencia de un átomo. El resultado es una mayor repulsión entre los electrones y una disminución de la <emphasis effect="italics">Z</emphasis><sub>eff</sub> por electrón. Ambos efectos (el aumento del número de electrones y la disminución de la <emphasis effect="italics">Z</emphasis><sub>eff</sub>) hacen que el radio de un anión sea mayor que el del átomo padre (<link target-id="CNX_Chem_06_05_Ionradii"/>). Por ejemplo, un átomo de azufre ([Ne]3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>4</sup>) tiene un radio covalente de 104 pm, mientras que el radio iónico del anión sulfuro ([Ne]3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>) es de 170 pm. Para los elementos consecutivos que descienden en cualquier grupo, los aniones tienen números cuánticos principales más grandes y, por lo tanto, radios más grandes.</para>
+<para id="fs-idm1670816">Los átomos e iones que tienen la misma configuración de electrones se dicen que son <term>isoelectrónicos</term>. Ejemplos de especies isoelectrónicas son N<sup>3–</sup>, O<sup>2–</sup>, F<sup>-</sup>, Ne, Na<sup>+</sup>, Mg<sup>2+</sup> y Al<sup>3+</sup> (1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>). Otra serie isoelectrónica son P<sup>3-</sup>, S<sup>2-</sup>, Cl<sup>-</sup>, Ar, K<sup>+</sup>, Ca<sup>2+</sup> y Sc<sup>3+</sup> ([Ne]3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>). Para los átomos o iones que son isoelectrónicos, el número de protones determina el tamaño. Cuanto mayor sea la carga nuclear, menor será el radio en una serie de iones y átomos isoelectrónicos.</para>
+</section>
+<section id="fs-idm122150768"><title>Variación de las energías de ionización</title>
+<para id="fs-idm65502944">La cantidad de energía necesaria para eliminar el electrón más suelto de un átomo gaseoso en su estado fundamental se llama su primera <term>energía de ionización</term> (IE<sub>1</sub>). La primera energía de ionización de un elemento, X es la energía necesaria para formar un catión con carga +1:</para>
+<equation class="unnumbered" id="fs-idm119836992"><m:math><m:mrow><m:mtext>X</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>X</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="2em"/><m:msub><m:mrow><m:mtext>IE</m:mtext></m:mrow><m:mn>1</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm139914704">La energía necesaria para eliminar el segundo electrón más suelto se denomina energía de segunda ionización (IE<sub>2</sub>).</para>
+<equation class="unnumbered" id="fs-idp4728832"><m:math><m:mrow><m:msup><m:mtext>X</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>X</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="2em"/><m:msub><m:mrow><m:mtext>IE</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp85408992">La energía necesaria para eliminar el tercer electrón es la tercera energía de ionización, y así sucesivamente. Siempre se requiere energía para eliminar los electrones de los átomos o iones, por lo que los procesos de ionización son endotérmicos y los valores del IE son siempre positivos. En el caso de los átomos más grandes, el electrón más suelto se encuentra más lejos del núcleo y, por tanto, es más fácil de eliminar. Por lo tanto, a medida que el tamaño (radio atómico) aumenta, la energía de ionización debería disminuir. Relacionando esta lógica con lo que acabamos de aprender sobre los radios, esperaríamos que las primeras energías de ionización disminuyeran a lo largo de un grupo y aumentaran a lo largo de un periodo.</para>
+<para id="fs-idm79820288">La <link target-id="CNX_Chem_06_05_Firstiongr"/> grafica la relación entre la primera energía de ionización y el número atómico de varios elementos. Los valores de la primera energía de ionización de los elementos se indican en la <link target-id="CNX_Chem_06_05_Firstionen"/>. Dentro de un periodo, el IE<sub>1</sub> suele aumentar con el aumento de <emphasis effect="italics">Z</emphasis>. Dentro de un grupo, el valor del IE<sub>1</sub> suele disminuir con el aumento de <emphasis effect="italics">Z</emphasis>. Sin embargo, hay algunas desviaciones sistemáticas de esta tendencia. Observe que la energía de ionización del boro (número atómico 5) es menor que la del berilio (número atómico 4) aunque la carga nuclear del boro es mayor en un protón. Esto se explica porque la energía de las subcapas aumenta a medida que aumenta <emphasis effect="italics">l</emphasis>, debido a la penetración y al apantallamiento (como se ha comentado anteriormente en este capítulo). Dentro de cualquier capa, los electrones <emphasis effect="italics">s</emphasis> son más bajos en energía que los electrones <emphasis effect="italics">p</emphasis>. Esto significa que un electrón <emphasis effect="italics">s</emphasis> es más difícil de eliminar de un átomo que un electrón <emphasis effect="italics">p</emphasis> en la misma capa. El electrón eliminado durante la ionización del berilio ([He]2<emphasis effect="italics">s</emphasis><sup>2</sup>) es un electrón <emphasis effect="italics">s</emphasis>, mientras que el electrón eliminado durante la ionización del boro ([He]2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>1</sup>) es un electrón <emphasis effect="italics">p</emphasis>; esto resulta en una primera energía de ionización más baja para el boro, aunque su carga nuclear es mayor en un protón. Así, vemos una pequeña desviación de la tendencia prevista que se produce cada vez que se inicia una nueva subcapa.</para>
+<figure id="CNX_Chem_06_05_Firstiongr">
+<media id="fs-idm130209312" alt="Esta figura incluye un gráfico etiquetado &quot;Número atómico&quot; en el eje horizontal y &quot;Energía de ionización (k J dividido entre mol)&quot; en el eje vertical. En el eje horizontal hay marcas en 10, 18, 36, 54 y 86. Las líneas verticales se extienden desde el eje horizontal hacia arriba en cada uno de estos valores. El eje vertical comienza en 0 y aumenta en 500 hasta 2500. Las líneas horizontales se dibujan a través del gráfico en múltiplos de 500. Una línea dentada roja conecta las energías de ionización de los elementos con números atómicos del 1 al 86 en el gráfico. Los picos son evidentes en las ubicaciones de los gases nobles o inertes: H e, N e, A r, K r, X e y R n. Del mismo modo, existen mínimos en las ubicaciones de los metales alcalinos: L i, N a, K, R b y C s. Los elementos etiquetados en el gráfico y sus energías de ionización asociadas son los siguientes: H 1310, H e 2370, L i 520, B e 900, B 800, C 1090, N 1400, O 1310, F 1680, N e 2080, N a 490, M g 730, P 1060, A r 1520, K 420, Z n 910, A s 960, B r 1140, K r 1350, R b 400, C d 870, X e 1170, T l 590, y R n 1030.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_05_Firstiongr.jpg"/>
+</media>
+<caption>La energía de primera ionización de los elementos de los cinco primeros períodos se representa en función de su número atómico.</caption>
+</figure>
+<figure id="CNX_Chem_06_05_Firstionen"><media id="fs-idp85824640" alt="La figura incluye una tabla periódica con el título &quot;Energías de primera ionización de algunos elementos (k J por mol)&quot;. La tabla identifica el número de fila o periodo a la izquierda en color púrpura, y los números de grupo o columna en azul encima de cada columna. Las primeras energías de ionización enumeradas de arriba a abajo para el grupo 1 son: H 1310, L i 520, N a 490, K 420, R b 400, C s 380, y tres puntos se colocan en la casilla de F r. En el grupo 2 los valores son: B e 900, M g 730, C a 590, S r 550 y B a 500. En el grupo 3 los valores son: S c 630, Y 620 y L a 540. En el grupo 4, los valores son: T i 660, Z r 660, H f 700. En el grupo 5, los valores son: V 650, N b 670 y T a 760. En el grupo 6, los valores son: C r 660, M o 680 y W 770. En el grupo 7, los valores son: M n 710, T c 700 y R e 760. En el grupo 8, los valores son: F e 760, R u 720 y O s 840. En el grupo 9, los valores son: C o 760, R h 720 y I r 890. En el grupo 10, los valores son: N i 730, P d 800 y P t 870. En el grupo 11, los valores son: C u 740, A g 730 y A u 890. En el grupo 12, los valores son: Z n 910, C d 870 y H g 1000. En el grupo 13, los valores son: B 800, A l 580, G a 580, I n 560 y T l 590. En el grupo 14, los valores son: C 1090, S i 780, G e 780, S n 700 y P b 710. En el grupo 15, los valores son: N 1400, P 1060, A s 960, S b 830 y B i 800. En el grupo 16, los valores son: O 1310, S 1000, S e 950, T e 870 y P o 810. En el grupo 17, los valores son: F 1680, C l 1250, B r 1140, I 1010, y A t tiene tres puntos. En el grupo 18, los valores enumerados son: B e 2370, N e 2080, A r 1520, K r 1350, X e 1170 y R n 1030.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_05_Firstionen.jpg"/>
+</media>
+
+<caption>Esta versión de la tabla periódica muestra la primera energía de ionización (IE<sub>1</sub>), en kJ/mol, de elementos seleccionados.</caption></figure><para id="fs-idm146806928">Otra desviación se produce cuando los orbitales se llenan más de la mitad. La primera energía de ionización para el oxígeno es ligeramente inferior a la del nitrógeno, a pesar de la tendencia al aumento de los valores de IE<sub>1</sub> a lo largo de un período. Observando el diagrama orbital del oxígeno, podemos ver que la eliminación de un electrón eliminará la repulsión electrón-electrón causada por el emparejamiento de los electrones en el orbital 2<emphasis effect="italics">p</emphasis> y dará lugar a un orbital medio lleno (que es energéticamente favorable). En los períodos siguientes se producen cambios análogos (note el descenso del azufre después del fósforo en la <link target-id="CNX_Chem_06_05_Firstionen"/>).</para>
+<media id="CNX_Chem_06_05_Oxygen122_img" class="scaled-down" alt="Esta figura incluye el símbolo del elemento O seguido de la configuración de electrones 1 s superíndice 2 2 s superíndice 2 2 p superíndice 4. A continuación se muestra un diagrama orbital que consta de dos cuadrados individuales, etiquetados como &quot;1 s&quot; y &quot;2 s&quot;, seguidos de una agrupación de tres cuadrados conectados que se etiquetan como &quot;2 p&quot;. Todos los cuadrados están orientados en una fila. Los dos cuadrados individuales y el primer cuadrado de la fila de cuadrados conectados contienen un par de medias flechas. Una media flecha de cada par apunta hacia arriba y otra hacia abajo. La flecha que apunta hacia abajo en el primer cuadrado de la fila de cuadrados conectados es roja. Los dos cuadrados restantes contienen cada uno medias flechas que apuntan hacia arriba.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_05_Oxygen122_img.jpg"/>
+</media>
+<para id="fs-idm10621984">Eliminar un electrón de un catión es más difícil que eliminar un electrón de un átomo neutro debido a la mayor atracción electrostática hacia el catión. Del mismo modo, eliminar un electrón de un catión con una carga positiva más alta es más difícil que eliminar un electrón de un ion con una carga más baja. Así, las energías de ionización sucesivas para un elemento siempre aumentan. Como se ve en la <link target-id="fs-idp3693744"/>, hay un gran aumento de las energías de ionización para cada elemento. Este salto corresponde a la eliminación de los electrones centrales, que son más difíciles de eliminar que los de valencia. Por ejemplo, el Sc y el Ga tienen tres electrones de valencia, por lo que el rápido aumento de la energía de ionización se produce después de la tercera ionización.</para><table id="fs-idp3693744" class="top-titled" summary="Esta tabla tiene ocho columnas y siete filas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Elemento&quot;, &quot;I E subíndice 1&quot;, &quot;I E subíndice 2&quot;, &quot;I E subíndice 3&quot;, &quot;I E subíndice 4&quot;, &quot;I E subíndice 5&quot;, &quot;I E subíndice 6&quot; y &quot;I E subíndice 7&quot;. En la columna &quot;Elemento&quot; están: K, C a, S c, G a, G e y A s. En la columna &quot;I E subíndice 1&quot; están los valores: 418,8, 589,8, 633,1, 578,8, 762,2 y 944,5. En la columna &quot;I E subíndice 2&quot; están los siguientes valores: 3051,8, 1145,4, 1235,0, 1979,4, 1537,5 y 1793,6. El valor 3051,8 aparece en rojo. En la columna &quot;I E subíndice 3&quot; están los valores: 4419,6, 4912,4, 2388,7, 2964,6, 3302,1 y 2735,5. En la columna &quot;I E subíndice 4&quot; están los valores: 5876,9, 6490,6, 7090,6, 6180, 4410,6, y 4836,8. En la columna &quot;I E subíndice 5&quot; están los valores: 7975,5, 8153,0, 8842,9, 8298,7, 9021,4 y 6042,9. En la columna &quot;I E subíndice 6&quot; están los valores: 9590,6, 10495,7, 10679,0, 10873,9, no disponible y 12311,5. En la columna &quot;I E subíndice 7&quot; están los valores: 11343, 12272,9, 13315,0, 13594,8, no disponible y no disponible.">
+<tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c8" align="center">Energías de ionización sucesivas para elementos seleccionados (kJ/mol)</entry>
+</row>
+<row valign="top">
+<entry><emphasis effect="bold">Elemento</emphasis></entry>
+<entry><emphasis effect="bold">IE<sub>1</sub></emphasis></entry>
+<entry><emphasis effect="bold">IE<sub>2</sub></emphasis></entry>
+<entry><emphasis effect="bold">IE<sub>3</sub></emphasis></entry>
+<entry><emphasis effect="bold">IE<sub>4</sub></emphasis></entry>
+<entry><emphasis effect="bold">IE<sub>5</sub></emphasis></entry>
+<entry><emphasis effect="bold">IE<sub>6</sub></emphasis></entry>
+<entry><emphasis effect="bold">IE<sub>7</sub></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry>K</entry>
+<entry>418,8</entry>
+<entry>3051,8</entry>
+<entry>4419,6</entry>
+<entry>5876,9</entry>
+<entry>7975,5</entry>
+<entry>9590,6</entry>
+<entry>11.343</entry>
+</row>
+<row valign="top">
+<entry>Ca</entry>
+<entry>589,8</entry>
+<entry>1145,4</entry>
+<entry>4912,4</entry>
+<entry>6490,6</entry>
+<entry>8153,0</entry>
+<entry>10495,7</entry>
+<entry>12272,9</entry>
+</row>
+<row valign="top">
+<entry>Sc</entry>
+<entry>633,1</entry>
+<entry>1235,0</entry>
+<entry>2388,7</entry>
+<entry>7090,6</entry>
+<entry>8842,9</entry>
+<entry>10679,0</entry>
+<entry>13315,0</entry>
+</row>
+<row valign="top">
+<entry>Ga</entry>
+<entry>578,8</entry>
+<entry>1979,4</entry>
+<entry>2964,6</entry>
+<entry>6.180</entry>
+<entry>8298,7</entry>
+<entry>10873,9</entry>
+<entry>13594,8</entry>
+</row>
+<row valign="top">
+<entry>Ge</entry>
+<entry>762,2</entry>
+<entry>1537,5</entry>
+<entry>3302,1</entry>
+<entry>4410,6</entry>
+<entry>9021,4</entry>
+<entry>No disponible</entry>
+<entry>No disponible</entry>
+</row>
+<row valign="top">
+<entry>As</entry>
+<entry>944,5</entry>
+<entry>1793,6</entry>
+<entry>2735,5</entry>
+<entry>4836,8</entry>
+<entry>6042,9</entry>
+<entry>12311,5</entry>
+<entry>No disponible</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="fs-idm65177120">
+<para id="fs-idm98864816"><title>Clasificación de las energías de ionización</title>
+Prediga del orden de aumento de energía para los siguientes procesos: IE<sub>1</sub> para Al, IE<sub>1</sub> para Tl, IE<sub>2</sub> para Na, IE<sub>3</sub> para Al.</para>
+<para id="fs-idp9426864"><title>Solución</title>
+Quitar el electrón 6<emphasis effect="italics">p</emphasis><sup>1</sup> de Tl es más fácil que quitar el electrón 3<emphasis effect="italics">p</emphasis><sup>1</sup> de Al porque el orbital <emphasis effect="italics">n</emphasis> más alto está más lejos del núcleo, así que IE<sub>1</sub>(Tl) &lt; IE<sub>1</sub>(Al). Ionizar el tercer electrón de <m:math><m:mrow><m:mtext>Al</m:mtext><m:mspace width="2em"/><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math> requiere más energía porque el catión Al<sup>2+</sup> ejerce una mayor atracción sobre el electrón que el átomo neutro de Al, por lo que IE<sub>1</sub>(Al) &lt; IE<sub>3</sub>(Al). La segunda energía de ionización del sodio elimina un electrón del núcleo, que es un proceso mucho más energético que la eliminación de electrones de valencia. Uniendo todo esto, obtenemos: IE<sub>1</sub>(Tl) &lt; IE<sub>1</sub>(Al) &lt; IE<sub>3</sub>(Al) &lt; IE<sub>2</sub>(Na).</para>
+<para id="fs-idm57911728"><title>Compruebe lo aprendido</title>
+¿Cuál tiene el valor más bajo para IE<sub>1</sub>: O, Po, Pb, o Ba?</para>
+<note id="fs-idm148104624"><title>Respuesta:</title>
+<para id="fs-idm69877488">Ba</para></note>
+</example>
+</section>
+<section id="fs-idm632640"><title>Variación de las afinidades de los electrones</title>
+<para id="fs-idm62970128">La <term>afinidad electrónica</term> (Electron Affinity, EA) es el cambio de energía para el proceso de adición de un electrón a un átomo gaseoso para formar un anión (ion negativo).</para>
+<equation class="unnumbered" id="fs-idm30321680"><m:math><m:mrow><m:mtext>X</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>X</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="2em"/><m:msub><m:mrow><m:mtext>EA</m:mtext></m:mrow><m:mn>1</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm33809440">Este proceso puede ser endotérmico o exotérmico, dependiendo del elemento. La EA de algunos de los elementos figura en la <link target-id="CNX_Chem_06_05_Elaffin"/>. Puede ver que muchos de estos elementos tienen valores negativos de EA, lo que significa que se libera energía cuando el átomo gaseoso acepta un electrón. Sin embargo, para algunos elementos, se requiere energía para que el átomo se cargue negativamente y el valor de su EA es positivo. Al igual que en el caso de la energía de ionización, los valores posteriores de EA están asociados a la formación de iones con más carga. La segunda EA es la energía asociada a la adición de un electrón a un anión para formar un ion -2, y así sucesivamente.</para>
+<para id="fs-idp8026512">Como podríamos predecir, es más fácil añadir un electrón a través de una serie de átomos a medida que la carga nuclear efectiva de los átomos aumenta. A medida que avanzamos de izquierda a derecha a lo largo de un periodo, las EA tienden a ser más negativas. Las excepciones encontradas entre los elementos del grupo 2 (2A), el grupo 15 (5A) y el grupo 18 (8A) pueden entenderse en base a la estructura electrónica de estos grupos. Los gases nobles, del grupo 18 (8A), tienen una capa completamente llena y el electrón entrante debe añadirse a un nivel <emphasis effect="italics">n</emphasis> superior, lo que es más difícil de hacer. El grupo 2 (2A) tiene una subcapa <emphasis effect="italics">ns</emphasis> llena, por lo que el siguiente electrón añadido va a la <emphasis effect="italics">np</emphasis> de mayor energía, por lo que, de nuevo, el valor de la EA observado no es como la tendencia predeciría. Por último, el grupo 15 (5A) tiene una subcapa <emphasis effect="italics">np</emphasis> semillena y el siguiente electrón debe emparejarse con un electrón <emphasis effect="italics">np</emphasis> existente. En todos estos casos, la estabilidad relativa inicial de la configuración de electrones altera la tendencia de la EA.</para>
+<para id="fs-idp68162064">También podríamos esperar que el átomo situado en la parte superior de cada grupo tenga la EA más negativa; sus primeros potenciales de ionización sugieren que estos átomos tienen las mayores cargas nucleares efectivas. Sin embargo, a medida que descendemos en un grupo, vemos que el <emphasis effect="italics">segundo</emphasis> elemento del grupo es el que más veces tiene una EA negativa. Esto puede atribuirse al pequeño tamaño de la capa <emphasis effect="italics">n</emphasis> = 2 y a las grandes repulsiones electrón-electrón resultantes. Por ejemplo, el cloro, con un valor EA de -348 kJ/mol, tiene el valor más alto de cualquier elemento de la tabla periódica. La EA del flúor es de -322 kJ/mol. Cuando añadimos un electrón a un átomo de flúor para formar un anión fluoruro (F<sup>-</sup>), añadimos un electrón a la capa <emphasis effect="italics">n</emphasis> = 2. El electrón es atraído por el núcleo, pero también hay una repulsión significativa de los otros electrones ya presentes en esta pequeña capa de valencia. El átomo de cloro tiene la misma configuración de electrones en la capa de valencia, pero como el electrón que entra va a la capa <emphasis effect="italics">n</emphasis> = 3, ocupa una región de espacio considerablemente mayor y las repulsiones electrón-electrón se reducen. El electrón que entra no experimenta tanta repulsión y el átomo de cloro acepta más fácilmente un electrón adicional, lo que resulta en una EA más negativa.</para>
+<figure id="CNX_Chem_06_05_Elaffin"><media id="fs-idm80294800" alt="La figura incluye una tabla periódica con el título &quot;Valores de afinidad electrónica para elementos seleccionados (k J por mol)&quot;. La tabla identifica el número de fila o periodo a la izquierda en color púrpura, y los números de grupo o columna en azul encima de cada columna. Los valores de afinidad electrónica para elementos representativos se indican con valores marcados con asteriscos que identifican los valores calculados. Los valores de afinidad electrónica para los elementos del grupo 1 (columna 1) se proporcionan con los símbolos de los elementos en la tabla como sigue: H negativo 72, L i negativo 60, N a negativo 53, K negativo 48, R b negativo 46 y C s negativo 45. En el grupo 2, los valores son: B e positivo 240 asterisco, M g positivo 230 asterisco, C a positivo 150 asterisco, S r positivo 160 asterisco y B a positivo 50 asterisco. En el grupo 13, los valores son: B negativo 23, A l negativo 44, G a negativo 40 asterisco, I n negativo 40 asterisco y T l negativo 50. En el grupo 14, los valores son: C negativo 123, S i negativo 120, G e negativo 115, S n negativo 121 y P b negativo 101. En el grupo 15 los valores son: N 0, P negativo 74, A s negativo 7, S b negativo 101 y B i negativo 101. En el grupo 16, los valores son: O negativo 141, S negativo 20, S e negativo 195, T e negativo 190 y P o negativo 170. En el grupo 17, los valores son: F negativo 322, C l negativo 348, B r negativo 324, I negativo 295 y A t negativo 270 asterisco. En el grupo 18, los valores son: H e positivo 20 asterisco, N e negativo 30, A r positivo 35 asterisco, K r positivo 40 asterisco, X e positivo 40 asterisco y R n positivo 40 asterisco.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_06_05_Elaffin.jpg"/>
+</media>
+
+<caption>Esta versión de la tabla periódica muestra los valores de afinidad electrónica (en kJ/mol) para los elementos seleccionados.</caption></figure><para id="fs-idm144469568">Las propiedades analizadas en esta sección (tamaño de los átomos e iones, carga nuclear efectiva, energías de ionización y afinidades electrónicas) son fundamentales para comprender la reactividad química. Por ejemplo, como el flúor tiene una EA energéticamente favorable y una gran barrera energética a la ionización (IE), es mucho más fácil formar aniones de flúor que cationes. Las propiedades metálicas, como la conductividad y la maleabilidad (la capacidad de formarse en láminas), dependen de que los electrones se puedan eliminar fácilmente. Así, el carácter metálico aumenta a medida que descendemos en un grupo y disminuye a lo largo de un período en la misma tendencia observada para el tamaño atómico, porque es más fácil extraer un electrón que está más lejos del núcleo.</para>
+</section>
+<section id="fs-idp4924224" class="summary"><title>Conceptos clave y resumen</title>
+<para id="fs-idm92804752">Las configuraciones de electrones nos permiten comprender muchas tendencias periódicas. El radio covalente aumenta a medida que descendemos en un grupo porque el nivel <emphasis effect="italics">n</emphasis> (tamaño del orbital) aumenta. El radio covalente disminuye en su mayor parte a medida que nos movemos de izquierda a derecha a través de un período porque la carga nuclear efectiva experimentada por los electrones aumenta y los electrones son atraídos más estrechamente hacia el núcleo. Los radios aniónicos son mayores que los del átomo padre, mientras que los radios catiónicos son menores, porque el número de electrones de valencia ha cambiado mientras que la carga nuclear ha permanecido constante. La energía de ionización (la energía asociada a la formación de un catión) disminuye a lo largo de un grupo y aumenta sobre todo a lo largo de un período, porque es más fácil retirar un electrón de un orbital más grande y de mayor energía. La afinidad electrónica (la energía asociada a la formación de un anión) es más favorable (exotérmica) cuando los electrones se colocan en orbitales de menor energía, más cerca del núcleo. Por lo tanto, la afinidad electrónica se vuelve cada vez más negativa a medida que nos movemos de izquierda a derecha a través de la tabla periódica y disminuye a medida que descendemos en un grupo. Tanto para los datos de EI como para los de afinidad electrónica, hay excepciones a las tendencias cuando se trata de subcapas completamente llenas o semillenas.</para>
+</section>
+<section id="fs-idm85407248" class="exercises"><title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idp42367872"><problem id="fs-idm44218896">
+<para id="fs-idp87713840">Basándote en sus posiciones en la tabla periódica, prediga cuál tiene el menor radio atómico: Mg, Sr, Si, Cl, I.</para></problem>
+<solution id="fs-idm144559472">
+<para id="fs-idm46047824">Cl</para></solution></exercise>
+<exercise id="fs-idp30124176"><problem id="fs-idm108750528">
+<para id="fs-idm155052000">Basándose en sus posiciones en la tabla periódica, prediga cuál tiene el mayor radio atómico: Li, Rb, N, F, I.</para></problem>
+</exercise>
+<exercise id="fs-idm155159840"><problem id="fs-idm165616592">
+<para id="fs-idm13478336">Basándose en sus posiciones en la tabla periódica, prediga cuál tiene la mayor energía de primera ionización: Mg, Ba, B, O, Te.</para></problem>
+<solution id="fs-idp4439488">
+<para id="fs-idm137764592">O</para></solution></exercise>
+<exercise id="fs-idm54929680"><problem id="fs-idp67831408">
+<para id="fs-idm340912">Basándose en sus posiciones en la tabla periódica, prediga cuál tiene la menor energía de primera ionización: Li, Cs, N, F, I.</para></problem>
+</exercise>
+<exercise id="fs-idm155125392"><problem id="fs-idp23388560">
+<para id="fs-idm156789200">Basándose en sus posiciones en la tabla periódica, clasifique los siguientes átomos en orden de aumento de la primera energía de ionización: F, Li, N, Rb.</para></problem>
+<solution id="fs-idm10976144">
+<para id="fs-idm151309888">Rb &lt; Li &lt; N &lt; F</para></solution></exercise>
+<exercise id="fs-idm147454816"><problem id="fs-idm56481744">
+<para id="fs-idm10255376">Basándose en sus posiciones en la tabla periódica, clasifique los siguientes átomos en orden de aumento de la primera energía de ionización: Mg, O, S, Si.</para></problem>
+</exercise>
+<exercise id="fs-idm150214960"><problem id="fs-idp79978576">
+<para id="fs-idm132427728">¿Qué átomos del grupo de la tabla periódica tienen una configuración de electrones de la capa de valencia de <emphasis effect="italics">ns</emphasis><sup>2</sup><emphasis effect="italics">np</emphasis><sup>3</sup>?</para></problem>
+<solution id="fs-idm121700320">
+<para id="fs-idm11200592">15 (5A)</para></solution></exercise>
+<exercise id="fs-idm121823200"><problem id="fs-idm140970272">
+<para id="fs-idm119024400">¿Qué átomos del grupo de la tabla periódica tienen una configuración de electrones de la capa de valencia de <emphasis effect="italics">ns</emphasis><sup>2</sup>?</para></problem>
+</exercise>
+<exercise id="fs-idm74793552"><problem id="fs-idm66081696">
+<para id="fs-idm190433936">Según su posición en la tabla periódica, enumere los siguientes átomos en orden de radio creciente: Mg, Ca, Rb, Cs.</para></problem>
+<solution id="fs-idm93429488">
+<para id="fs-idm144863024">Mg &lt; Ca &lt; Rb &lt; Cs</para></solution></exercise>
+<exercise id="fs-idm116086704"><problem id="fs-idm2560400">
+<para id="fs-idp107277632">Según su posición en la tabla periódica, enumere los siguientes átomos en orden de radio creciente: Sr, Ca, Si, Cl.</para></problem>
+</exercise>
+<exercise id="fs-idm107831680"><problem id="fs-idm124732752">
+<para id="fs-idm108600608">Según su posición en la tabla periódica, enumere los siguientes iones en orden de radio creciente: K<sup>+</sup>, Ca<sup>2+</sup>, Al<sup>3+</sup>, Si<sup>4+</sup>.</para></problem>
+<solution id="fs-idm171686432">
+<para id="fs-idm166668720">Si<sup>4+</sup> &lt; Al<sup>3+</sup> &lt; Ca<sup>2+</sup> &lt; K<sup>+</sup>.</para></solution></exercise>
+<exercise id="fs-idm44955136"><problem id="fs-idm126053136">
+<para id="fs-idm131827120">Enumere los siguientes iones en orden de radio creciente: Li<sup>+</sup>, Mg<sup>2+</sup>, Br<sup>–</sup>, Te<sup>2–</sup>.</para></problem>
+</exercise>
+<exercise id="fs-idm119922592"><problem id="fs-idm96101792">
+<para id="fs-idp2854256">¿Qué átomo e/o ion es (son) isoelectrónico con el Br<sup>+</sup>: Se<sup>2+</sup>, Se, As<sup>–</sup>, Kr, Ga<sup>3+</sup>, Cl<sup>–</sup>?</para></problem>
+<solution id="fs-idm161761984">
+<para id="fs-idm56398192">Se, As<sup>−</sup>.</para></solution></exercise>
+<exercise id="fs-idm176990768"><problem id="fs-idm163060480">
+<para id="fs-idp44391696">¿Cuál de los siguientes átomos e iones es (son) isoelectrónico con S<sup>2+</sup>: Si<sup>4+</sup>, Cl<sup>3+</sup>, Ar, As<sup>3+</sup>, Si, Al<sup>3+</sup>?</para></problem>
+</exercise>
+<exercise id="fs-idm64525920"><problem id="fs-idm86093568">
+<para id="fs-idm46185392">Compare el número de protones y electrones presentes en cada uno de ellos para clasificar los siguientes iones en orden de radio creciente: As<sup>3–</sup>, Br<sup>–</sup>, K<sup>+</sup>, Mg<sup>2+</sup>.</para></problem>
+<solution id="fs-idm150348544">
+<para id="fs-idp96768">Mg<sup>2+</sup> &lt; K<sup>+</sup> &lt; Br<sup>–</sup> &lt; As<sup>3–</sup></para></solution></exercise>
+<exercise id="fs-idm2181648"><problem id="fs-idp841136">
+<para id="fs-idp121484432">De los cinco elementos Al, Cl, I, Na, Rb, ¿cuál tiene la reacción más exotérmica? (E representa un átomo). ¿Qué nombre recibe la energía de la reacción? Pista: Note que el proceso representado <emphasis effect="italics">no</emphasis> corresponde a la afinidad electrónica).<newline/> <m:math><m:mrow><m:msup><m:mtext>E</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>E</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-idm68979552"><problem id="fs-idm139950960">
+<para id="fs-idm164099648">De los cinco elementos Sn, Si, Sb, O, Te, ¿cuál tiene la reacción más endotérmica? (E representa un átomo). ¿Qué nombre recibe la energía de la reacción?<newline/> <m:math><m:mrow><m:mtext>E</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>E</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup></m:mrow></m:math></para></problem>
+<solution id="fs-idm72642112">
+<para id="fs-idm70370352">O, IE<sub>1</sub>.</para></solution></exercise>
+<exercise id="fs-idm108984736"><problem id="fs-idm154818192">
+<para id="fs-idp100098560">Los radios iónicos de los iones S<sup>2–</sup>, Cl<sup>-</sup> y K<sup>+</sup> son 184, 181 y 138 pm respectivamente. Explique por qué estos iones tienen tamaños diferentes aunque contengan el mismo número de electrones.</para></problem>
+</exercise>
+<exercise id="fs-idm177180640"><problem id="fs-idm116439504">
+<para id="fs-idm155036256">¿Qué átomo del grupo principal se espera que tenga la menor energía de segunda ionización?</para></problem>
+<solution id="fs-idm574400">
+<para id="fs-idm146296448">Ra</para></solution></exercise>
+<exercise id="fs-idp177066416"><problem id="fs-idm134245088">
+<para id="fs-idm69403904">Explique por qué Al pertenece al grupo 13 y no al grupo 3.</para></problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm57959600"><term>radio covalente</term> <meaning id="fs-idm134361984">la mitad de la distancia entre los núcleos de dos átomos idénticos cuando están unidos por un enlace covalente</meaning></definition>
+<definition id="fs-idm98337504"><term>carga nuclear efectiva</term> <meaning id="fs-idm10776032">carga que conduce a la fuerza de Coulomb ejercida por el núcleo sobre un electrón, calculada como la carga nuclear menos el apantallamiento</meaning></definition>
+<definition id="fs-idm161962320"><term>afinidad electrónica</term> <meaning id="fs-idp49958320">cambio de energía asociado a la adición de un electrón a un átomo o ion gaseoso</meaning></definition>
+<definition id="fs-idm107820416"><term>energía de ionización</term> <meaning id="fs-idm1736032">energía necesaria para extraer un electrón de un átomo o ion gaseoso</meaning></definition>
+<definition id="fs-idp94243488"><term>isoelectrónica</term> <meaning id="fs-idm131189584">grupo de iones o átomos que tienen configuración de electrones idénticas</meaning></definition>
+</glossary>
+</document>

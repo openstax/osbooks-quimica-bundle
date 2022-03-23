@@ -1,0 +1,23 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introducción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71816</md:content-id>
+  <md:title>Introducción</md:title>
+  <md:abstract><list>
+<item>Las primeras ideas de la teoría atómica</item>
+<item>Evolución de la teoría atómica</item>
+<item>Estructura atómica y simbolismo</item>
+<item>Fórmulas químicas</item>
+</list></md:abstract>
+  <md:uuid>1cb2b2cb-c17a-4cee-b972-13ebc03f7627</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_02_00_Biomarkers" class="splash">
+<media id="fs-idm221482352" alt="Se muestra a una persona soplando en un tubo conectado a una bolsa de plástico. Hay una pantalla de computadora que muestra los datos y que dice &quot;Análisis del espectro de masa de aliento&quot;. Una flecha de la bolsa de plástico señala una ilustración de diferentes compuestos moleculares contenidos en la exhalación de la persona.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_00_Biomarkers.jpg"/>
+</media>
+<caption>El análisis de las moléculas de un aliento exhalado puede proporcionar información valiosa, lo que permite el diagnóstico precoz de enfermedades o la detección de la exposición ambiental a sustancias nocivas (créditos: modificación del trabajo de Paul Flowers).</caption>
+</figure>
+<para id="fs-idm172551024">Las afecciones pulmonares y el cancer de pulmón se encuentran entre las enfermedades más devastadoras del mundo, en parte debido a la detección y el diagnóstico tardíos. La mayoría de los procedimientos de detección no invasivos no son fiables, y los pacientes suelen resistirse a los métodos más precisos debido a la incomodidad de los procedimientos o al peligro potencial que éstos conllevan. Sin embargo, ¿qué pasaría si se pudiera diagnosticar con precisión mediante una simple prueba de aliento? </para><para id="eip-609">La detección precoz de biomarcadores, sustancias que indican la enfermedad o el estado fisiológico de un organismo, podría permitir el diagnóstico y el tratamiento antes de que una afección se vuelva grave o irreversible. Estudios recientes han demostrado que el aliento exhalado puede contener moléculas que pueden ser biomarcadores de una exposición reciente a contaminantes ambientales o de patologías que van desde el asma hasta el cáncer de pulmón. Los científicos están trabajando en el desarrollo de "huellas" de biomarcadores que podrían utilizarse para diagnosticar una enfermedad específica basándose en las cantidades e identidades de ciertas moléculas del aliento exhalado por un paciente. En el laboratorio de Sangeeta Bhatia en el Instituto Tecnológico de Massachusetts (Massachusetts Institute of Technology, MIT), un equipo utilizó sustancias que reaccionan específicamente en el interior del tejido pulmonar enfermo; los productos de las reacciones estarán presentes como biomarcadores que pueden identificarse mediante espectrometría de masas (un método analítico que se comenta más adelante en el capítulo). Una posible aplicación permitiría a los pacientes con síntomas tempranos inhalar o ingerir una sustancia "sensor" y, minutos después, respirar en un detector para el diagnóstico. Investigaciones similares realizadas por científicos como Laura López-Sánchez ofrecen procesos similares para el cáncer de pulmón. Un concepto esencial que subyace a este objetivo es el de la identidad de una molécula, que viene determinada por el número y los tipos de átomos que contiene, y por cómo están unidos entre sí. En este capítulo se describen algunos de los principios químicos fundamentales relacionados con la composición de la materia, incluidos los fundamentales para el concepto de identidad molecular.</para></content>
+</document>

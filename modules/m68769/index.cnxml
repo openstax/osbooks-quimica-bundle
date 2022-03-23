@@ -1,0 +1,299 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Diagramas de fase</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68769</md:content-id>
+  <md:title>Diagramas de fase</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Explicar la construcción y el uso de un diagrama de fases típico.</item>
+<item>Utilizar los diagramas de fase para identificar las fases estables a determinadas temperaturas y presiones, y describir las transiciones de fase resultantes de los cambios en estas propiedades.</item>
+<item>Describir la fase de fluido supercrítico de la materia.</item>
+</list></md:abstract>
+  <md:uuid>23152758-9f27-4c49-91a6-0f989a5d8d7b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm105011872">En el módulo anterior se describió la variación de la presión de vapor de equilibrio de un líquido con la temperatura. Teniendo en cuenta la definición de punto de ebullición, los gráficos de presión de vapor frente a la temperatura representan cómo varía el punto de ebullición del líquido con la presión. También se describe el uso de las curvas de calentamiento y enfriamiento para determinar el punto de fusión (o de congelación) de una sustancia. La realización de este tipo de mediciones en un amplio rango de presiones arroja datos que pueden presentarse gráficamente como un diagrama de fases. Un <term>diagrama de fase</term> combina gráficos de presión frente a la temperatura para los equilibrios de transición de fase líquido-gas, sólido-líquido y sólido-gas de una sustancia. Estos diagramas indican los estados físicos que existen bajo condiciones específicas de presión y temperatura, y también proporcionan la dependencia de la presión de las temperaturas de transición de fase (puntos de fusión, puntos de sublimación, puntos de ebullición). Un diagrama de fases típico para una sustancia pura se muestra en la <link target-id="CNX_Chem_10_04_PhaseDi"/>.</para>
+<figure id="CNX_Chem_10_04_PhaseDi" class="scaled-down">
+<media id="fs-idm57234192" alt="Se muestra un gráfico en el que el eje x está marcado como &quot;Temperatura&quot; y el eje y como &quot;Presión&quot;. Una línea se extiende desde la parte inferior izquierda del gráfico hacia arriba hasta un punto que es un tercio del eje x. Una segunda línea comienza en el tercio inferior de la primera línea en un punto marcado como &quot;punto triple&quot; y se extiende hasta la esquina superior derecha del gráfico donde se marca como &quot;punto crítico&quot;. Las dos líneas dividen el área del gráfico para crear tres secciones, marcadas como &quot;sólido&quot; cerca de la parte superior izquierda, &quot;líquido&quot; en la parte superior central y &quot;gas&quot; cerca de la parte inferior derecha. Un par de flechas horizontales, una orientada a la izquierda y marcada como &quot;deposición&quot; y otra orientada a la derecha y marcada como &quot;sublimación&quot;, se dibujan en la parte superior de la sección inferior de la primera línea. Un segundo par de flechas horizontales, una orientada a la izquierda y marcada como &quot;congelación&quot; y otra orientada a la derecha y marcada como &quot;fusión&quot;, se dibujan sobre la sección superior de la primera línea. Un tercer par de flechas horizontales, una orientada a la izquierda y marcada como &quot;condensación&quot; y otra orientada a la derecha y marcada como &quot;vaporización&quot;, se dibujan en la parte superior de la sección media de la segunda línea.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_PhaseDi.jpg"/>
+</media>
+<caption>El estado físico de una sustancia y sus temperaturas de transición de fase se representan gráficamente en un diagrama de fases.</caption>
+</figure>
+<para id="fs-idm53315104">Para ilustrar la utilidad de estos gráficos, consideremos el diagrama de fases del agua que se muestra en la <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>.</para>
+<figure id="CNX_Chem_10_04_H2OPhasDi2" class="scaled-down">
+<media id="fs-idp24684528" alt="Se muestra un gráfico en el que el eje x está marcado como &quot;Temperatura en grados Celsius&quot; y el eje y como &quot;Presión ( k P a )&quot; Una línea marcada como &quot;A&quot; se extiende de forma brusca hacia arriba desde el origen del gráfico hasta un punto en el tercio inferior del diagrama marcado como &quot;B&quot;, donde se bifurca en una línea que se inclina ligeramente hacia atrás hasta llegar al punto más alto del eje Y marcado como &quot;D&quot; y una segunda línea que se extiende hasta la esquina superior derecha del gráfico, marcada como &quot;C&quot;. C está marcado como &quot;Punto crítico&quot;, con una línea de puntos que se extiende hacia abajo hasta el eje x marcado como 374 grados Celsius, y otra línea de puntos que se extiende hasta el eje y marcado como 22.089 k P a. Las dos líneas dividen el área del gráfico para crear tres secciones, marcadas como &quot;Hielo (sólido)&quot; cerca del centro de la izquierda, &quot;Agua (líquido)&quot; en la parte superior central y &quot;Vapor de agua (gas)&quot; cerca de la parte inferior central. El punto B está marcado como &quot;Punto triple&quot; y tiene una línea de puntos que se extiende hacia abajo hasta el eje x marcado como 0,01, y otra línea de puntos que se extiende hasta el eje y marcado como 0,6. En un punto medio entre los puntos B y C una línea de puntos se extiende desde la línea originalmente discutida hacia abajo hasta el punto 100 grados Celsius en el eje x, y otra línea de puntos se extiende hasta el eje y en 101 k P a. Otra línea de puntos se extiende desde esta línea de puntos hacia abajo a 0 grados Celsius.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_H2OPhasDi2.jpg"/>
+</media>
+<caption>Los ejes de presión y temperatura de este diagrama de fases del agua no están dibujados a escala constante para ilustrar varias propiedades importantes.</caption>
+</figure>
+<para id="fs-idm201945904">Podemos utilizar el diagrama de fases para identificar el estado físico de una muestra de agua en condiciones específicas de presión y temperatura. Por ejemplo, una presión de 50 kPa y una temperatura de −10 °C corresponden a la región del diagrama denominada "hielo". En estas condiciones, el agua solo existe como sólido (hielo). Una presión de 50 kPa y una temperatura de 50 °C corresponden a la región del "agua", donde esta solo existe como líquido. A 25 kPa y 200 °C, el agua solo existe en estado gaseoso. Observe que en el diagrama de fases del H<sub>2</sub>O, los ejes de presión y temperatura no están dibujados a una escala constante para permitir la ilustración de varias características importantes, como se describe aquí.</para>
+<para id="fs-idm129813280">La curva BC en la <link target-id="CNX_Chem_10_04_H2OPhasDi2"/> es el gráfico de la presión de vapor frente a la temperatura, tal y como se describe en el módulo anterior de este capítulo. Esta curva "líquido-vapor" separa las regiones líquida y gaseosa del diagrama de fases y proporciona el punto de ebullición del agua a cualquier presión. Por ejemplo, a 1 atm, el punto de ebullición es de 100 °C. Observe que la curva líquido-vapor termina a una temperatura de 374 °C y una presión de 218 atm, lo que indica que el agua no puede existir como líquido por encima de esta temperatura, independientemente de la presión. Las propiedades físicas del agua en estas condiciones son intermedias entre las de sus fases líquida y gaseosa. Este estado único de la materia se denomina fluido supercrítico, un tema que se describirá en la siguiente sección de este módulo.</para>
+<para id="fs-idm23251664">La curva de vapor sólido, marcada AB en la <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>, indica las temperaturas y presiones a las que el hielo y el vapor de agua están en equilibrio. Estos pares de datos de temperatura y presión corresponden a los puntos de sublimación, o deposición, del agua. Si pudiéramos ampliar la línea sólido-gas en la <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>, veríamos que el hielo tiene una presión de vapor de aproximadamente 0,20 kPa a -10 °C. Por tanto, si colocamos una muestra congelada en un vacío con una presión inferior a 0,20 kPa, el hielo se sublimará. Esta es la base del proceso de "liofilización" que se utiliza a menudo para conservar alimentos, como el helado que se muestra en la <link target-id="CNX_Chem_10_04_FreezeDry"/>.</para>
+<figure id="CNX_Chem_10_04_FreezeDry" class="scaled-down">
+<media id="fs-idm142599808" alt="Fotografía que muestra un paquete con un cohete en lanzamiento en la parte delantera y un bloque de sólido a rayas rosas, blancas y marrones en un envoltorio al lado.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_FreezeDry.jpg"/>
+</media>
+<caption>Los alimentos liofilizados, como este helado, se deshidratan por sublimación a presiones inferiores al punto triple del agua. (Crédito: ʺlwaoʺ/Flickr).</caption>
+</figure>
+<para id="fs-idm92413200">La curva sólido-líquido marcada como BD muestra las temperaturas y presiones a las que el hielo y el agua líquida están en equilibrio, representando los puntos de fusión/congelación del agua. Observe que esta curva presenta una ligera pendiente negativa (muy exagerada para mayor claridad), lo que indica que el punto de fusión del agua disminuye ligeramente al aumentar la presión. El agua es una sustancia inusual en este sentido, ya que la mayoría de las sustancias presentan un aumento del punto de fusión al aumentar la presión. Este comportamiento es en parte responsable del movimiento de los glaciares, como el que se muestra en la <link target-id="CNX_Chem_10_04_IceMelt"/>. El fondo de un glaciar experimenta una inmensa presión debido a su peso que puede fundir parte del hielo, formando una capa de agua líquida sobre la que el glaciar puede deslizarse más fácilmente.</para>
+<figure id="CNX_Chem_10_04_IceMelt" class="scaled-down">
+<media id="fs-idp19576624" alt="Fotografía que muestra una vista aérea de una masa de tierra. La masa blanca de un glaciar se muestra cerca del cuadrante superior izquierdo de la foto y conduce a dos ríos azules ramificados. El terreno abierto se muestra en color marrón.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_IceMelt.jpg"/>
+</media>
+<caption>Las inmensas presiones existentes bajo los glaciares dan lugar a una fusión parcial que produce una capa de agua que proporciona lubricación para ayudar al movimiento de los glaciares. Fotografía de satélite que muestra el avance del glaciar Perito Moreno en Argentina. (Crédito: NASA).</caption>
+</figure>
+<para id="fs-idm105744432">El punto de intersección de las tres curvas está marcado como B en la <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>. A la presión y temperatura representadas por este punto, las tres fases del agua coexisten en equilibrio. Este par de datos temperatura-presión se denomina <term>punto triple</term>. A presiones inferiores al punto triple, el agua no puede existir como líquido, independientemente de la temperatura.</para>
+<example id="fs-idm211145632">
+<para id="fs-idm84608528"><title>Determinación del estado del agua</title>
+Utilizando el diagrama de fases del agua dado en la <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>, determine el estado del agua a las siguientes temperaturas y presiones:</para>
+<para id="fs-idm168463184">(a) −10 °C y 50 kPa</para>
+<para id="fs-idm57178832">b) 25 °C y 90 kPa</para>
+<para id="fs-idm183935200">c) 50 °C y 40 kPa</para>
+<para id="fs-idm82705648">d) 80 °C y 5 kPa</para>
+<para id="fs-idp30582544">e) −10 °C y 0,3 kPa</para>
+<para id="fs-idm113072192">f) 50 °C y 0,3 kPa</para>
+<para id="fs-idm114532848"><title>Solución</title>
+Utilizando el diagrama de fases del agua, podemos determinar que el estado del agua a cada temperatura y presión dadas son las siguientes: (a) sólido; (b) líquido; (c) líquido; (d) gas; (e) sólido; (f) gas.</para>
+<para id="fs-idm37551344"><title>Compruebe lo aprendido</title>
+¿Qué cambios de fase puede sufrir el agua al variar la temperatura si la presión se mantiene en 0,3 kPa? ¿Si la presión se mantiene a 50 kPa?</para>
+<note id="fs-idm222446944">
+<title>Respuesta:</title>
+<para id="fs-idm153965536">A 0,3 kPa: <m:math><m:mrow><m:mtext>s</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:math> a −58 °C. A 50 kPa: <m:math><m:mrow><m:mtext>s</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>l</m:mtext></m:mrow></m:math> a 0 °C, l ⟶ g a 78 °C.</para>
+</note>
+</example>
+<para id="fs-idm71881152">Consideremos el diagrama de fases del dióxido de carbono que se muestra en la <link target-id="CNX_Chem_10_04_CO2phasdi"/> como otro ejemplo. La curva sólido-líquido presenta una pendiente positiva, lo que indica que el punto de fusión del CO<sub>2</sub> aumenta con la presión, al igual que ocurre con la mayoría de las sustancias (el agua es una notable excepción, como se ha descrito anteriormente). Observe que el punto triple está muy por encima de 1 atm, lo que indica que el dióxido de carbono no puede existir como líquido en condiciones de presión ambiente. En cambio, el enfriamiento del dióxido de carbono gaseoso a 1 atm provoca su deposición en estado sólido. Asimismo, el dióxido de carbono sólido no se funde a 1 atm de presión, sino que se sublima para dar lugar a CO<sub>2</sub> gaseoso. Por último, observe que el punto crítico del dióxido de carbono se observa a una temperatura y presión relativamente modestas en comparación con el agua.</para>
+<figure id="CNX_Chem_10_04_CO2phasdi" class="scaled-down"><media id="fs-idm185557312" alt="Se muestra un gráfico donde el eje de la x está marcado como &quot;Temperatura ( signo de grado, C )&quot; y tiene valores de 100 negativos a 100 en incrementos de 25, mientras que el eje de la y está marcado como &quot;Presión ( k P a )&quot; y tiene valores de 10 a 1.000.000. Una línea se extiende desde la parte inferior izquierda del gráfico hacia arriba hasta un punto alrededor de &quot;27, 9000&quot;, donde termina. El espacio bajo esta curva está marcado como &quot;Gas&quot;. Una segunda línea se extiende en una curva desde el punto alrededor de &quot;-55, 500&quot; hasta &quot;27, 1.000.000&quot;. El área a la izquierda de esta línea y por encima de la primera línea está marcada como &quot;Sólido&quot; mientras que el área a la derecha está marcada como &quot;Líquido&quot;. Una sección del gráfico bajo la segunda línea y pasado el punto &quot;28&quot; en el eje x está marcada como &quot;S C F&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_CO2PhasDi.jpg"/>
+</media>
+
+<caption>Se muestra un diagrama de fases para el dióxido de carbono. El eje de la presión se traza en una escala logarítmica para adaptarse al amplio rango de valores.</caption></figure><example id="fs-idm81431296">
+<para id="fs-idm184169664"><title>Determinación del estado del dióxido de carbono</title>
+Utilizando el diagrama de fases del dióxido de carbono que se muestra en la <link target-id="CNX_Chem_10_04_CO2phasdi"/>, determine el estado del CO<sub>2</sub> a las siguientes temperaturas y presiones:</para>
+<para id="fs-idm52543376">(a) −30 °C y 2000 kPa</para>
+<para id="fs-idm152653552">(b) −90 °C y 1000 kPa</para><para id="fs-idm133410832">c) −60 °C y 100 kPa</para>
+<para id="fs-idm19013760">d) −40 °C y 1500 kPa</para>
+<para id="fs-idm202256048">e) 0 °C y 100 kPa</para>
+<para id="fs-idm25749152">f) 20 °C y 100 kPa</para>
+<para id="fs-idm215910416"><title>Solución</title>
+Utilizando el diagrama de fases para el dióxido de carbono proporcionado, podemos determinar que el estado del CO<sub>2</sub> a cada temperatura y presión dadas son las siguientes: (a) líquido; (b) sólido; (c) gas; (d) líquido; (e) gas; (f) gas.</para>
+<para id="fs-idm66941424"><title>Compruebe lo aprendido</title>
+Identifique los cambios de fase que sufrirá el dióxido de carbono al aumentar su temperatura a partir de −100 °C mientras se mantiene su presión constante a 1500 kPa. A 50 kPa. ¿A qué temperaturas aproximadas se producen estos cambios de fase?</para>
+<note id="fs-idm25675280">
+<title>Respuesta:</title>
+<para id="fs-idm56827360">a 1500 kPa: <m:math><m:mrow><m:mtext>s</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>l</m:mtext></m:mrow></m:math> a −55 °C, <m:math><m:mrow><m:mtext>l</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:math> a −10 °C;</para>
+<para id="fs-idm110315760">a 50 kPa <m:math><m:mrow><m:mtext>s</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:math> a −60 °C</para></note>
+</example>
+<section id="fs-idp26089360">
+<title>Fluido supercrítico</title>
+<para id="fs-idm114606944">Si colocamos una muestra de agua en un recipiente cerrado a 25 °C, retiramos el aire y dejamos que se establezca el equilibrio de vaporización-condensación, nos queda una mezcla de agua líquida y vapor de agua a una presión de 0,03 atm. Se observa claramente un límite claro entre el líquido más denso y el gas menos denso. A medida que aumentamos la temperatura, la presión del vapor de agua aumenta, tal y como describe la curva líquido-gas en el diagrama de fases del agua (<link target-id="CNX_Chem_10_04_H2OPhasDi2"/>), y se mantiene un equilibrio bifásico de las fases líquida y gaseosa. A una temperatura de 374 °C, la presión de vapor se ha elevado a 218 atm, y cualquier aumento adicional de la temperatura provoca la desaparición del límite entre las fases líquida y de vapor. Toda el agua del recipiente está ahora presente en una única fase cuyas propiedades físicas son intermedias entre las del estado gaseoso y las del estado líquido. Esta fase de la materia se denomina <term>fluido supercrítico</term>, y la temperatura y la presión por encima de las cuales existe esta fase es el <term>punto crítico</term> (<link target-id="CNX_Chem_10_04_CritFluid"/>). Por encima de su temperatura crítica, un gas no puede licuarse por mucha presión que se aplique. La presión necesaria para licuar un gas a su temperatura crítica se denomina presión crítica. Las temperaturas críticas y las presiones críticas de algunas sustancias comunes se indican en la siguiente tabla.</para>
+<table id="fs-idm180459824" class="unnumbered" summary="Esta tabla contiene ocho filas y tres columnas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Sustancia&quot;, &quot;Temperatura crítica ( K )&quot; y &quot;Presión crítica ( a t m )&quot;. En la columna &quot;Sustancia&quot; se encuentra lo siguiente: hidrógeno, nitrógeno, oxígeno, dióxido de carbono, amoníaco, dióxido de azufre y agua. En la columna &quot;Temperatura crítica ( K )&quot; se encuentra lo siguiente: 33,2, 126,0, 154,3, 304,2, 405,5, 430,3 y 647,1. En la columna &quot;Presión crítica ( a t m )&quot; se encuentra lo siguiente: 12,8, 33,5, 49,7, 73,0, 111,5, 77,7 y 217,7.">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="left">Sustancia</entry>
+<entry align="left">Temperatura crítica (°C)</entry>
+<entry align="left">Presión crítica (kPa)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">hidrógeno</entry>
+<entry align="left">-240,0</entry>
+<entry align="left">1.300</entry>
+</row>
+<row valign="top">
+<entry align="left">nitrógeno</entry>
+<entry align="left">-147,2</entry>
+<entry align="left">3.400</entry>
+</row>
+<row valign="top">
+<entry align="left">oxígeno</entry>
+<entry align="left">-118,9</entry>
+<entry align="left">5.000</entry>
+</row>
+<row valign="top">
+<entry align="left">dióxido de carbono</entry>
+<entry align="left">31,1</entry>
+<entry align="left">7.400</entry>
+</row>
+<row valign="top">
+<entry align="left">amoníaco</entry>
+<entry align="left">132,4</entry>
+<entry align="left">11.300</entry>
+</row>
+<row valign="top">
+<entry align="left">dióxido de azufre</entry>
+<entry align="left">157,2</entry>
+<entry align="left">7.800</entry>
+</row>
+<row valign="top">
+<entry align="left">agua</entry>
+<entry align="left">374,0</entry>
+<entry align="left">22.000</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure id="CNX_Chem_10_04_CritFluid">
+<media id="fs-idm115619344" alt="Se muestran cuatro fotografías en las que cada una muestra un contenedor circular con un flotador verde y rojo en cada uno. En el diagrama de la izquierda, el recipiente está medio lleno de un líquido incoloro y los flotadores están en la superficie del líquido. En la segunda foto, el flotador verde está cerca de la parte superior y el flotador rojo se encuentra cerca del fondo del recipiente. En la tercera foto, el líquido es más oscuro y el flotador verde se encuentra a mitad de camino en el recipiente, mientras que el rojo está en el fondo. En la foto de la derecha, el líquido vuelve a ser incoloro y los dos flotadores están en la superficie.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_CritFluid.jpg"/>
+</media>
+<caption>(a) Se calienta un recipiente sellado de dióxido de carbono líquido ligeramente por debajo de su punto crítico, lo que da lugar a (b) la formación de la fase fluida supercrítica. El enfriamiento del fluido supercrítico reduce su temperatura y presión por debajo del punto crítico, lo que da lugar al restablecimiento de las fases líquida y gaseosa separadas (c y d). Los flotadores de colores ilustran las diferencias de densidad entre los estados líquido, gaseoso y supercrítico de los fluidos. (Crédito: modificación del trabajo de "mrmrobin»/YouTube).</caption>
+</figure>
+<note id="fs-idm96917712" class="chemistry link-to-learning">
+<para id="fs-idm81770576">Observe la <link url="http://openstax.org/l/16supercrit">transición de líquido a fluido supercrítico</link> en el dióxido de carbono.</para>
+</note>
+<para id="fs-idp19605424">Al igual que un gas, un fluido supercrítico se expandirá y llenará un recipiente, pero su densidad es mucho mayor que las densidades típicas de los gases, acercándose normalmente a las de los líquidos. Al igual que los líquidos, estos fluidos son capaces de disolver solutos no volátiles. Sin embargo, no presentan ninguna tensión superficial y tienen una viscosidad muy baja, por lo que pueden penetrar más eficazmente en aberturas muy pequeñas de una mezcla sólida y eliminar los componentes solubles. Estas propiedades hacen que los fluidos supercríticos sean solventes extremadamente útiles para una amplia gama de aplicaciones. Por ejemplo, el dióxido de carbono supercrítico se ha convertido en un solvente muy popular en la industria alimentaria, ya que se utiliza para descafeinar el café, eliminar las grasas de las patatas fritas y extraer compuestos de sabor y fragancia de los aceites de los cítricos. No es tóxico, es relativamente barato y no se considera contaminante. Tras su uso, el CO<sub>2</sub> puede recuperarse fácilmente reduciendo la presión y recogiendo el gas resultante.</para>
+<example id="fs-idm51838704">
+<para id="fs-idm134827136"><title>La temperatura crítica del dióxido de carbono</title>
+Si agitamos un extintor de dióxido de carbono en un día fresco (18 °C), podemos oír el chapoteo del CO<sub>2</sub> líquido dentro del cilindro. Sin embargo, el mismo cilindro parece no contener líquido en un día caluroso de verano (35 °C). Explique estas observaciones.</para>
+<para id="fs-idm194167232"><title>Solución</title>En el día frío, la temperatura del CO<sub>2</sub> está por debajo de la temperatura crítica del CO<sub>2</sub>, 304 K o 31 °C, por lo que hay CO<sub>2</sub> líquido en el cilindro. En el día caluroso, la temperatura del CO<sub>2</sub> es superior a su temperatura crítica de 31 °C. Por encima de esta temperatura, ninguna presión puede licuar el CO<sub>2</sub>, por lo que no hay CO<sub>2</sub> líquido en el extintor.</para><para id="fs-idp29978288"><title>Compruebe lo aprendido</title>
+El amoníaco puede licuarse por compresión a temperatura ambiente; el oxígeno no puede licuarse en estas condiciones. ¿Por qué los dos gases tienen un comportamiento diferente?</para>
+<note id="fs-idm199828080">
+<title>Respuesta:</title>
+<para id="fs-idm96591504">La temperatura crítica del amoníaco es de 405,5 K, superior a la temperatura ambiente. La temperatura crítica del oxígeno está por debajo de la temperatura ambiente; por lo tanto, el oxígeno no puede licuarse a temperatura ambiente.</para>
+</note>
+</example>
+<note id="fs-idp20092656" class="chemistry everyday-life">
+<title>La descafeinización del café con CO<sub>2</sub> supercrítico</title>
+<para id="fs-idp19473808">El café es la segunda materia prima más comercializada del mundo, solo después del petróleo. En todo el mundo, la gente adora el aroma y el sabor del café. Muchos de nosotros también dependemos de un componente del café, la cafeína, para ponernos en marcha por la mañana o mantenernos alerta por la tarde. Pero a última hora del día, el efecto estimulante del café puede impedirle dormir, por lo que puede optar por tomar café descafeinado por la noche.</para>
+<para id="fs-idp27102688">Desde principios del siglo XX, se han utilizado muchos métodos para descafeinar el café. Todos tienen ventajas e inconvenientes y dependen de las propiedades físicas y químicas de la cafeína. Como la cafeína es una molécula algo polar, se disuelve bien en el agua, un líquido polar. Sin embargo, dado que muchos de los más de 400 compuestos que contribuyen al sabor y el aroma del café también se disuelven en H<sub>2</sub>O, los procesos de descafeinización con agua caliente también pueden eliminar algunos de estos compuestos, afectando negativamente al olor y el sabor del café descafeinado. El diclorometano (CH<sub>2</sub>Cl<sub>2</sub>) y el acetato de etilo (CH<sub>3</sub>CO<sub>2</sub>C<sub>2</sub>H<sub>5</sub>) tienen una polaridad similar a la de la cafeína y, por lo tanto, son solventes muy eficaces para la extracción de cafeína, pero ambos eliminan también algunos componentes del sabor y el aroma, y su uso requiere largos tiempos de extracción y limpieza. Dado que ambos disolventes son tóxicos, se ha planteado la preocupación por el efecto del solvente residual que queda en el café descafeinado.</para>
+<para id="fs-idm60471152">La extracción con fluidos supercríticos utilizando dióxido de carbono se está utilizando ampliamente como un método de descafeinado más eficaz y respetuoso con el medio ambiente (<link target-id="CNX_Chem_10_04_SupCritCof"/>). A temperaturas superiores a 304,2 K y presiones superiores a 7376 kPa, el CO<sub>2</sub> es un fluido supercrítico, con propiedades tanto de gas como de líquido. Como un gas, penetra profundamente en los granos de café; como un líquido, disuelve eficazmente ciertas sustancias. La extracción con dióxido de carbono supercrítico de los granos de café cocidos al vapor elimina entre el 97 y el 99 % de la cafeína, dejando intactos los compuestos de sabor y aroma del café. Dado que el CO<sub>2</sub> es un gas en condiciones estándar, su eliminación de los granos de café extraídos se realiza fácilmente, al igual que la recuperación de la cafeína del extracto. La cafeína recuperada de los granos de café mediante este proceso es un producto valioso que puede utilizarse posteriormente como aditivo de otros alimentos o medicamentos.</para>
+<figure id="CNX_Chem_10_04_SupCritCof">
+<media id="fs-idm140720928" alt="Se muestran dos imágenes marcadas como &quot;a&quot; y &quot;b&quot;. La imagen a muestra una molécula compuesta por un anillo de cinco miembros compuesto por dos esferas azules y tres negras. Una de las esferas azules está enlazada con una esfera negra enlazada con tres esferas blancas y una de las esferas negras está enlazada con una esfera blanca. Las otras dos esferas negras están unidas por doble enlace y forman un lado de un anillo de seis miembros que también está compuesto por otras dos esferas negras y dos azules, ambas enlazadas a una esfera negra enlazada a tres esferas blancas. Las esferas negras tienen doble enlace con las esferas rojas. La imagen b muestra un diagrama de dos tubos verticales que se encuentran uno al lado del otro. El tubo de la izquierda está marcado como &quot;Recipiente de extracción&quot;. En la parte superior del tubo hay un pequeño tubo marcado como &quot;Granos remojados&quot; y en la parte inferior una marca que se lee &quot;Granos descafeinados&quot;. El tubo de la derecha está marcado como &quot;Recipiente de absorción&quot;. Un tubo cerca de la parte superior de este tubo está marcado como &quot;Agua&quot; y otro tubo conduce desde el tubo derecho al izquierdo. Este tubo está marcado con una flecha hacia la izquierda y la frase &quot;dióxido de carbono supercrítico&quot;. Hay un tubo que sale del fondo y que lleva la marca &quot;Cafeína y agua&quot;. Hay otro tubo que va del recipiente de extracción al de absorción que lleva la marca &quot;C O supercrítico subíndice 2 más cafeína&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_SupCritCof.jpg"/>
+</media>
+<caption>(a) Las moléculas de cafeína tienen regiones polares y no polares, lo que las hace solubles en solventes de distinta polaridad. (b) El esquema muestra un proceso típico de descafeinización con dióxido de carbono supercrítico.</caption>
+</figure>
+</note>
+</section>
+<section id="fs-idm39505456" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm183316720">Las condiciones de temperatura y presión a las que una sustancia existe en estado sólido, líquido y gaseoso se resumen en un diagrama de fases para esa sustancia. Los diagramas de fase son gráficos combinados de tres curvas de equilibrio presión-temperatura: sólido-líquido, líquido-gas y sólido-gas. Estas curvas representan las relaciones entre las temperaturas de transición de fase y las presiones. El punto de intersección de las tres curvas representa el punto triple de la sustancia, es decir, la temperatura y la presión a las que las tres fases están en equilibrio. A presiones inferiores al punto triple, una sustancia no puede existir en estado líquido, independientemente de su temperatura. El extremo de la curva líquido-gas representa el punto crítico de la sustancia, la presión y la temperatura por encima de las cuales no puede existir una fase líquida.</para>
+</section>
+<section id="fs-idm278580384" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idm158754672">
+<problem id="fs-idp23344912">
+<para id="fs-idm39432752">A partir del diagrama de fases del agua (<link target-id="CNX_Chem_10_04_H2OPhasDi2"/>), determine el estado del agua en:</para>
+<para id="fs-idm134552448">(a) 35 °C y 85 kPa</para>
+<para id="fs-idm163033728">(b) −15 °C y 40 kPa</para>
+<para id="fs-idm172957072">c) −15 °C y 0,1 kPa</para>
+<para id="fs-idm231411984">d) 75 °C y 3 kPa</para>
+<para id="fs-idm66774336">e) 40 °C y 0,1 kPa</para>
+<para id="fs-idm185057600">f) 60 °C y 50 kPa</para>
+</problem>
+</exercise>
+<exercise id="fs-idm163161056">
+<problem id="fs-idm133014752">
+<para id="fs-idm84701392">¿Qué cambios de fase se producen cuando el agua se somete a una presión variable a una temperatura constante de 0,005 °C? ¿A 40 °C? ¿A −40 °C?</para>
+</problem>
+<solution id="fs-idm77722336">
+<para id="fs-idm187242192">A bajas presiones y a 0,005 °C, el agua es un gas. Al aumentar la presión hasta 4,6 torr, el agua se convierte en un sólido; al aumentar aún más la presión, se convierte en un líquido. A 40 °C, el agua a baja presión es un vapor; a presiones superiores a unos 75 torr, se convierte en líquido. A −40 °C, el agua pasa de ser un gas a un sólido cuando la presión aumenta por encima de valores muy bajos.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm134300544">
+<problem id="fs-idm235861728">
+<para id="fs-idm132659600">Las ollas a presión permiten que los alimentos se cocinen más rápido porque la mayor presión dentro de la olla a presión aumenta la temperatura de ebullición del agua. Una determinada olla a presión tiene una válvula de seguridad que se ajusta para ventilar el vapor si la presión supera las 3,4 atm. ¿Cuál es la temperatura máxima aproximada que se puede alcanzar dentro de esta olla a presión? Explique su razonamiento.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm79316176">
+<problem id="fs-idm134044560">
+<para id="fs-idm45352704">A partir del diagrama de fases del dióxido de carbono en la <link target-id="CNX_Chem_10_04_CO2phasdi"/>, determine el estado del CO<sub>2</sub> en:</para>
+<para id="fs-idp25830864">(a) 20 °C y 1000 kPa</para>
+<para id="fs-idm157071424">(b) 10 °C y 2000 kPa</para>
+<para id="fs-idm132072448">c) 10 °C y 100 kPa</para>
+<para id="fs-idp4587376">d) −40 °C y 500 kPa</para>
+<para id="fs-idm130055632">(e) −80 °C y 1500 kPa</para>
+<para id="fs-idp19689536">f) −80 °C y 10 kPa</para>
+</problem>
+<solution id="fs-idm57541872">
+<para id="fs-idm300012672">(a) gas; (b) gas; (c) gas; (d) gas; (e) sólido; (f) gas</para></solution>
+</exercise>
+<exercise id="fs-idm31738208">
+<problem id="fs-idm156362256">
+<para id="fs-idm134708944">Determine los cambios de fase que experimenta el dióxido de carbono al aumentar la presión a una temperatura constante de (a) −50 °C y (b) 50 °C. ¿Si la temperatura se mantiene a −40 °C? ¿A 20 °C? (Véase el diagrama de fases en la <link target-id="CNX_Chem_10_04_CO2phasdi"/>.)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm184592816">
+<problem id="fs-idm142079360">
+<para id="fs-idm132186736">Considere un cilindro que contiene una mezcla de dióxido de carbono líquido en equilibrio con el dióxido de carbono gaseoso a una presión inicial de 65 atm y una temperatura de 20 °C. Esboce un gráfico que represente el cambio en la presión del cilindro con el tiempo a medida que se libera el dióxido de carbono gaseoso a temperatura constante.</para>
+</problem>
+<solution id="fs-idm58299872">
+<para id="fs-idm137306816"><newline/>
+<media id="fs-idm183173568" alt="Un eje x está marcado a la izquierda como &quot;Lleno&quot; y a la derecha como &quot;Vacío&quot;. En la parte superior hay un eje Y marcado como &quot;P&quot;. Debajo del eje x está la etiqueta &quot;Cantidad liberada&quot;. Una línea horizontal que luego se inclina hacia abajo se dibuja aproximadamente a la mitad de la línea vertical y se marca a la izquierda como &quot;65 a t m&quot;. Aproximadamente a dos tercios del camino a través del eje x, se inclina hacia abajo en una línea recta para encontrar la marca &quot;vacío&quot; en la parte inferior derecha del eje.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_Ex06answer_img.jpg"/>
+</media>
+</para></solution>
+</exercise>
+<exercise id="fs-idm180256816">
+<problem id="fs-idm195191088">
+<para id="fs-idm243757936">El hielo seco, CO<sub>2</sub>(<emphasis effect="italics">s</emphasis>), no se funde a presión atmosférica. Se sublima a una temperatura de −78 °C. ¿Cuál es la menor presión a la que el CO<sub>2</sub>(<emphasis effect="italics">s</emphasis>) se fundirá para dar CO<sub>2</sub>(<emphasis effect="italics">l</emphasis>)? ¿A qué temperatura aproximadamente se produce esto? (Vea el diagrama de fases en la <link target-id="CNX_Chem_10_04_CO2phasdi"/>).</para>
+</problem>
+</exercise>
+<exercise id="fs-idp24718944">
+<problem id="fs-idm133877872">
+<para id="fs-idp26455568">Si una fuerte tormenta provoca la pérdida de electricidad, puede ser necesario utilizar un tendedero para secar la ropa. En muchas partes del país, en pleno invierno, la ropa se congela rápidamente cuando se cuelga en el tendedero. Si no nieva, ¿se secarán igualmente? Explique su respuesta.</para>
+</problem>
+<solution id="fs-idm79944048">
+<para id="fs-idm31793728">Sí, el hielo se sublimará, aunque puede tardar varios días. El hielo tiene una pequeña presión de vapor, y algunas moléculas de hielo forman gas y escapan de los cristales de hielo. A medida que pasa el tiempo, más y más sólidos se convierten en gas hasta que finalmente la ropa está seca.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm97492688">
+<problem id="fs-idm97956064">
+<para id="fs-idm58313408">¿Es posible licuar el nitrógeno a temperatura ambiente (unos 25 °C)? ¿Es posible licuar el dióxido de azufre a temperatura ambiente? Explique sus respuestas.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm135170880">
+<problem id="fs-idp7466256">
+<para id="fs-idm59313520">El carbono elemental tiene una fase gaseosa, una fase líquida y dos fases sólidas diferentes, como se muestra en el diagrama de fases:</para><media id="fs-idm159452496" class="scaled-down" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_CPhaseDi_img.jpg"/>
+</media>
+<para id="fs-idm196192784">(a) En el diagrama de fases, rotule las regiones de gas y líquido.</para>
+<para id="fs-idm229105216">(b) El grafito es la fase más estable del carbono en condiciones normales. En el diagrama de fases, rotule la fase de grafito.</para>
+<para id="fs-idm195445328">(c) Si el grafito en condiciones normales se calienta a 2500 K mientras se aumenta la presión a 10<sup>10</sup> Pa, se convierte en diamante. Etiquete la fase de diamante.</para>
+<para id="fs-idm202684832">(d) Encierre en un círculo cada punto triple del diagrama de fases.</para>
+<para id="fs-idm96211488">(e) ¿En qué fase existe el carbono a 5000 K y 10<sup>8</sup> Pa?</para>
+<para id="fs-idm61578832">f) Si la temperatura de una muestra de carbono aumenta de 3000 K a 5000 K a una presión constante de 10<sup>6</sup> Pa, ¿qué transición de fase se produce, si se produce?</para>
+</problem>
+<solution id="fs-idm278692800">
+<para id="fs-idm88428112">(a)<newline/>
+<media id="fs-idm121487888" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. Los dos cuadrantes de la derecha están marcados como &quot;Agua ( líquido )&quot; y &quot;Vapor de agua ( gas )&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_Exercise10a_img.jpg"/>
+</media><newline/> (b)<newline/>
+<media id="fs-idm69191024" class="scaled-down-30" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. El cuadrante de la izquierda está marcado como &quot;Grafito&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_Exercise10b_img.jpg"/>
+</media><newline/> (c)<newline/>
+<media id="fs-idm81439280" class="scaled-down-30" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. El cuadrante superior está marcado como &quot;Diamante&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_Exercise10c_img.jpg"/>
+</media><newline/> (d)<newline/>
+<media id="fs-idm209382816" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. Los cuatro cuadrantes están marcados como &quot;Diamante&quot; en la parte superior, &quot;Grafito&quot;, a la izquierda, &quot;agua ( líquido )&quot; en la parte superior derecha, y &quot;vapor de agua ( gas )&quot;, en la parte inferior derecha. Hay un círculo rojo donde se cruzan las líneas de líquido, gas y grafito.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_Exercise10d_img.jpg"/>
+</media><newline/> (e) fase líquida (f) sublimación</para></solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm66977664">
+<term>punto crítico</term>
+<meaning id="fs-idm79282880">temperatura y presión por encima de las cuales un gas no puede condensarse en un líquido.</meaning>
+</definition>
+<definition id="fs-idm186055200">
+<term>diagrama de fases</term>
+<meaning id="fs-idm213848176">gráfico presión-temperatura que resume las condiciones en las que pueden existir las fases de una sustancia.</meaning>
+</definition>
+<definition id="fs-idm208980304">
+<term>fluido supercrítico</term>
+<meaning id="fs-idm81544112">sustancia a una temperatura y presión superiores a su punto crítico; presenta propiedades intermedias entre las de los estados gaseoso y líquido.</meaning>
+</definition>
+<definition id="fs-idm153679600">
+<term>punto triple</term>
+<meaning id="fs-idm192540240">temperatura y presión en las que las fases de vapor, líquido y sólido de una sustancia están en equilibrio.</meaning>
+</definition>
+</glossary>
+</document>

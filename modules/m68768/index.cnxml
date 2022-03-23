@@ -1,0 +1,470 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Transiciones de fase</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68768</md:content-id>
+  <md:title>Transiciones de fase</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Definir las transiciones de fase y las temperaturas de transición de fase.</item>
+<item>Explicar la relación entre las temperaturas de transición de fase y las fuerzas de atracción intermoleculares.</item>
+<item>Describir los procesos representados por las curvas típicas de calentamiento y enfriamiento, y calcular los flujos de calor y los cambios de entalpía que acompañan a estos procesos.</item>
+</list></md:abstract>
+  <md:uuid>3f0fa9fb-278f-4fae-9a77-661bbd8c466a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp10874160">Presenciamos y utilizamos los cambios de estado físico, o transiciones de fase, de muchas maneras. Como ejemplo de importancia global, consideremos la evaporación, condensación, congelación y fusión del agua. Estos cambios de estado son aspectos esenciales del ciclo del agua en la Tierra, así como de muchos otros fenómenos naturales y procesos tecnológicos de importancia fundamental para nuestras vidas. En este módulo se exploran los aspectos esenciales de las transiciones de fase.</para>
+<section id="fs-idm35636464">
+<title>Vaporización y condensación</title>
+<para id="fs-idm100542016">Cuando un líquido se vaporiza en un recipiente cerrado, las moléculas de gas no pueden escapar. Como estas moléculas de la fase gaseosa se mueven al azar, ocasionalmente chocarán con la superficie de la fase condensada y, en algunos casos, estas colisiones harán que las moléculas vuelvan a entrar en la fase condensada. El cambio de la fase gaseosa a la líquida se llama <term>condensación</term>. Cuando la tasa de condensación se hace igual a la tasa de <term>vaporización</term>, no cambia ni la cantidad de líquido ni la cantidad de vapor en el recipiente. Se dice entonces que el vapor en el recipiente está <emphasis effect="italics">en equilibrio</emphasis> con el líquido. Hay que tener en cuenta que no se trata de una situación estática, ya que las moléculas se intercambian continuamente entre las fases condensada y gaseosa. Se trata de un ejemplo de <term>equilibrio dinámico</term>, el estado de un sistema en el que los procesos recíprocos (por ejemplo, la vaporización y la condensación) se producen a igual velocidad. La presión ejercida por el vapor en equilibrio con un líquido en un recipiente cerrado a una temperatura determinada se denomina <term>presión de vapor</term> del líquido (o presión de vapor de equilibrio). El área de la superficie del líquido en contacto con el vapor y el tamaño del recipiente no afectan a la presión de vapor, aunque sí al tiempo necesario para alcanzar el equilibrio. Podemos medir la presión de vapor de un líquido colocando una muestra en un recipiente cerrado, como el que se ilustra en la <link target-id="CNX_Chem_10_03_VapPress1"/>, y utilizando un manómetro para medir el aumento de presión que se debe al vapor en equilibrio con la fase condensada.</para>
+<figure id="CNX_Chem_10_03_VapPress1"><media id="fs-idm103231072" alt="Se muestran tres imágenes marcadas como &quot;a&quot;, &quot;b&quot; y &quot;c&quot;. Cada imagen muestra una bombilla redonda conectada a la derecha a un tubo que es horizontal, luego se dobla verticalmente, se curva y vuelve a ser vertical para hacer una forma de U. En la parte horizontal del tubo se encuentra una válvula. La imagen a muestra un líquido en el bulbo, marcado como &quot;Líquido&quot;, y flechas orientadas hacia arriba que se alejan de la superficie del líquido. Debajo de la bombilla se lee la frase &quot;Las moléculas escapan de la superficie y forman vapor&quot;, y se muestra un líquido gris en la porción en forma de U del tubo a igual altura en los lados derecho e izquierdo. La imagen b muestra un líquido en el bulbo, marcado como &quot;Líquido&quot;, y flechas orientadas hacia arriba que se alejan de la superficie del líquido hacia las moléculas dibujadas en la parte superior del bulbo. Un líquido gris en la parte en forma de U del tubo se muestra ligeramente más alto en el lado derecho que en el izquierdo. La imagen c muestra un líquido en el bulbo, marcado como &quot;Líquido&quot;, y flechas orientadas hacia arriba que se alejan de la superficie del líquido hacia las moléculas dibujadas en la parte superior del bulbo. Hay más moléculas presentes en c que en b. La frase &quot;Equilibrio alcanzado, presión de vapor determinada&quot; está escrita debajo del bulbo y un líquido gris en la porción en forma de U del tubo se muestra más arriba en el lado derecho. Se traza una línea horizontal a nivel de cada uno de estos niveles de líquido y se marca la distancia entre las líneas con una flecha de doble punta. Esta sección está marcada con la frase &quot;Presión de vapor&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_03_VapPress1.jpg"/>
+</media>
+
+<caption>En un recipiente cerrado, el equilibrio dinámico se alcanza cuando (a) la tasa de moléculas que escapan del líquido para convertirse en gas (b) aumenta y finalmente (c) es igual a la tasa de moléculas de gas que entran en el líquido. Cuando se alcanza este equilibrio, la presión de vapor del gas es constante, aunque los procesos de vaporización y condensación continúan.</caption></figure><para id="fs-idm63266864">Las identidades químicas de las moléculas de un líquido determinan los tipos (y las fuerzas) de las atracciones intermoleculares posibles; en consecuencia, diferentes sustancias presentarán diferentes presiones de vapor de equilibrio. Las fuerzas de atracción intermoleculares relativamente fuertes servirán para impedir la vaporización, así como para favorecer la "recaptura" de las moléculas en fase gaseosa cuando chocan con la superficie del líquido, lo que da lugar a una presión de vapor relativamente baja. Las débiles atracciones intermoleculares suponen una menor barrera a la vaporización y una menor probabilidad de recaptura de gas, lo que produce presiones de vapor relativamente altas. El siguiente ejemplo ilustra esta dependencia de la presión de vapor de las fuerzas de atracción intermoleculares.</para>
+<example id="fs-idm12389904">
+<para id="fs-idm149114816"><title>Explicación de la presión de vapor en términos de las fuerzas intermoleculares (intermolecular forces, IMF).</title>
+Dadas las fórmulas estructurales mostradas en estos cuatro compuestos, explique sus presiones de vapor relativas en términos de tipos y extensiones de IMF:</para>
+<media id="fs-idm178035424" alt="Se muestran cuatro estructuras de Lewis. La primera estructura, marcada como &quot;etanol&quot;, muestra un carbono unido a tres átomos de hidrógeno que está unido con enlace simple a un segundo carbono que está unido a dos átomos de hidrógeno y a un grupo hidroxilo. La segunda estructura, marcada como &quot;etilenglicol&quot;, muestra dos átomos de carbono unidos con enlace simple, cada uno unido con enlace simple a dos átomos de hidrógeno y cada uno a un grupo hidroxilo. La tercera imagen, marcada como &quot;éter dietílico&quot;, muestra un átomo de oxígeno unido con enlace simple por ambos lados a un carbono que está unido a dos hidrógenos, y a un segundo carbono, que a su vez está unido a tres átomos de hidrógeno. La cuarta imagen, marcada como &quot;agua&quot;, muestra un átomo de oxígeno unido con enlace simple por ambos lados a átomos de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_03_Ethanol_img.jpg"/>
+</media>
+<para id="fs-idm12378064"><title>Solución</title>
+El éter dietílico tiene un dipolo muy pequeño y la mayoría de sus atracciones intermoleculares son fuerzas de London. Aunque esta molécula es la más grande de las cuatro consideradas, sus IMF son las más débiles y, en consecuencia, sus moléculas escapan más fácilmente del líquido. También tiene la mayor presión de vapor. Debido a su menor tamaño, el etanol presenta fuerzas de dispersión más débiles que el éter dietílico. Sin embargo, el etanol es capaz de crear enlaces de hidrógeno y, por lo tanto, presenta unas IMF globales más fuertes, lo que significa que se escapan menos moléculas del líquido a cualquier temperatura, y por ello el etanol tiene una presión de vapor más baja que el éter dietílico. El agua es mucho más pequeña que cualquiera de las sustancias anteriores y presenta fuerzas de dispersión más débiles, pero su extenso enlace de hidrógeno proporciona atracciones intermoleculares más fuertes, menos moléculas que escapan del líquido y una presión de vapor más baja que la del éter dietílico o el etanol. El etilenglicol tiene dos grupos −OH, por lo que, al igual que el agua, presenta un amplio enlace de hidrógeno. Es mucho más grande que el agua y, por tanto, experimenta mayores fuerzas de London. Su IMF global es la mayor de estas cuatro sustancias, lo que significa que su velocidad de vaporización será la más lenta y, en consecuencia, su presión de vapor la más baja.</para>
+<para id="fs-idm224164560"><title>Compruebe lo aprendido</title>
+A 20 °C, las presiones de vapor de varios alcoholes se indican en esta tabla. Explique estas presiones de vapor en términos de tipos y extensiones de IMF para estos alcoholes:</para>
+<table id="fs-idm60218336" class="column-header unnumbered" summary="Esta tabla tiene dos filas y cinco columnas. La primera columna es una columna de encabezado, y marca cada fila: &quot;Compuesto&quot; y &quot;Presión de vapor a 25 grados C&quot;. A la derecha de la columna &quot;Compuesto&quot; se encuentra lo siguiente: metanol, C H subíndice 3 O H, etanol, C subíndice 2 H subíndice 5 O H, propanol C subíndice 3 H subíndice 7 O H y butanol C subíndice 4 H subíndice 9 O H. A la derecha de la columna &quot;Presión de vapor a 25 grados C&quot; se encuentra lo siguiente: 11,9 k P a, 5,95 k P a, 2,67 k P a y 0,56 k P a."><label/>
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<tbody valign="middle">
+<row valign="middle">
+<entry align="left">Compuesto</entry>
+<entry align="left">metanol CH<sub>3</sub>OH</entry>
+<entry align="left">etanol C<sub>2</sub>H<sub>5</sub>OH</entry>
+<entry align="left">propanol C<sub>3</sub>H<sub>7</sub>OH</entry>
+<entry align="left">butanol C<sub>4</sub>H<sub>9</sub>OH</entry>
+</row>
+<row valign="middle">
+<entry align="left">Presión de vapor a 20 °C</entry>
+<entry align="left">11,9 kPa</entry>
+<entry align="left">5,95 kPa</entry>
+<entry align="left">2,67 kPa</entry>
+<entry align="left">0,56 kPa</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><note id="fs-idm91362784">
+<title>Respuesta:</title>
+<para id="fs-idm44101792">Todos estos compuestos presentan enlaces de hidrógeno; estas fuertes IMF son difíciles de superar para las moléculas, por lo que las presiones de vapor son relativamente bajas. A medida que el tamaño de la molécula aumenta desde el metanol hasta el butanol, las fuerzas de dispersión aumentan, lo que significa que las presiones de vapor disminuyen como se ha observado:<newline/> P<sub>metanol</sub> &gt; P<sub>etanol</sub> &gt; P<sub>propanol</sub> &gt; P<sub>butanol</sub>.</para>
+</note>
+</example>
+<para id="fs-idm73489328">A medida que aumenta la temperatura, la presión de vapor de un líquido también aumenta debido al aumento de la energía cinética media (kinetic energy, KE) de sus moléculas. Recordemos que a una temperatura determinada, las moléculas de una sustancia experimentan un rango de energías cinéticas, con una cierta fracción de moléculas que tienen una energía suficiente para superar la IMF y escapar del líquido (vaporizarse). A mayor temperatura, una mayor fracción de moléculas tiene suficiente energía para escapar del líquido, como se muestra en la <link target-id="CNX_Chem_10_03_VapPress3"/>. El escape de más moléculas por unidad de tiempo y la mayor velocidad media de las moléculas que escapan contribuyen a una mayor presión de vapor.</para>
+<figure id="CNX_Chem_10_03_VapPress3" class="scaled-down">
+<media id="fs-idm211797072" alt="Se muestra un gráfico en el que el eje Y está marcado como &quot;Número de moléculas&quot; y el eje X como &quot;Energía cinética&quot;. Se grafican dos líneas y se traza una línea punteada vertical, marcada como &quot;K E mínimo necesario para escapar&quot;, a la mitad del eje x. La primera línea se mueve bruscamente hacia arriba y tiene un pico alto cerca del lado izquierdo del eje x. La caída es igual de pronunciada y termina a un 60 % del eje x. Esta línea está marcada como &quot;T baja&quot;. Una segunda línea, marcada como &quot;T alta&quot;, comienza en el mismo punto que la primera, pero no llega a un punto tan alto, es más ancha y termina ligeramente más a la derecha en el eje x.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_03_VapPress3.jpg"/>
+</media>
+<caption>La temperatura afecta a la distribución de las energías cinéticas de las moléculas de un líquido. A mayor temperatura, más moléculas tienen la energía cinética necesaria, KE, para escapar del líquido a la fase gaseosa.</caption>
+</figure>
+</section>
+<section id="fs-idm153006576">
+<title>Puntos de ebullición</title>
+<para id="fs-idm70709936">Cuando la presión de vapor aumenta lo suficiente como para igualar la presión atmosférica externa, el líquido alcanza su punto de ebullición. El <term>punto de ebullición</term> de un líquido es la temperatura a la que su presión de vapor de equilibrio es igual a la presión ejercida sobre el líquido por su entorno gaseoso. En los líquidos en recipientes abiertos, esta presión se debe a la atmósfera terrestre. El <term>punto de ebullición normal</term> de un líquido se define como su punto de ebullición cuando la presión circundante es igual a 1 atm (101,3 kPa). La <link target-id="CNX_Chem_10_03_VapPress2"/> muestra la variación de la presión de vapor con la temperatura en varias sustancias diferentes. Teniendo en cuenta la definición de punto de ebullición, estas curvas pueden considerarse como una representación de la dependencia del punto de ebullición de un líquido de la presión circundante.</para>
+<figure id="CNX_Chem_10_03_VapPress2" class="scaled-down">
+<media id="fs-idm188874672" alt="Se muestra un gráfico en el que el eje x está marcado como &quot;Temperatura ( signo de grado, C )&quot; y tiene valores de 200 a 1000 en incrementos de 200 y el eje y está marcado como &quot;Presión ( k P a )&quot; y tiene valores de 20 a 120 en incrementos de 20. Una línea de puntos horizontal se extiende a través del gráfico en el punto 780 del eje Y, mientras que tres líneas de puntos verticales se extienden desde los puntos 35, 78 y 100 hasta encontrarse con la línea de puntos horizontal. Se grafican cuatro líneas. La primera línea, denominada &quot;éter etílico&quot;, comienza en el punto &quot;0 , 200&quot; y se extiende en una ligera curva hasta el punto &quot;45, 1000&quot;, mientras que la segunda línea, denominada &quot;etanol&quot;, se extiende desde el punto &quot;0, 20&quot; hasta el punto &quot;88, 1000&quot; en una curva más extrema. La tercera línea, marcada como &quot;agua&quot;, comienza en el punto &quot;0, 0&quot; y se extiende en una curva hasta el punto &quot;108, 1000&quot;, mientras que la cuarta línea, marcada como &quot;etilenglicol&quot;, se extiende desde el punto &quot;80, 0&quot; hasta el punto &quot;140, 100&quot; en una curva muy poco profunda.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_03_VapPress2.jpg"/>
+</media>
+<caption>Los puntos de ebullición de los líquidos son las temperaturas a las que sus presiones de vapor de equilibrio son iguales a la presión de la atmósfera circundante. Los puntos de ebullición normales son los correspondientes a una presión de 1 atm (101,3 kPa.)</caption>
+</figure>
+<example id="fs-idm272706256">
+<para id="fs-idm208677136"><title>Un punto de ebullición a presión reducida</title>
+La presión atmosférica típica en Leadville, Colorado (a 10.200 pies de altura) es de 68 kPa. Utilice el gráfico de la <link target-id="CNX_Chem_10_03_VapPress2"/> para determinar el punto de ebullición del agua a esta altura.</para>
+<para id="fs-idm10799984"><title>Solución</title>
+El gráfico de la presión de vapor del agua frente a la temperatura en la <link target-id="CNX_Chem_10_03_VapPress2"/> indica que la presión de vapor del agua es de 68 kPa a unos 90 °C. Así, a unos 90 °C, la presión de vapor del agua será igual a la presión atmosférica en Leadville, y el agua hervirá.</para>
+<para id="fs-idm153672912"><title>Compruebe lo aprendido</title>
+El punto de ebullición del éter etílico se midió en 10 °C en un campamento base en las laderas del Monte Everest. Utilice la <link target-id="CNX_Chem_10_03_VapPress2"/> para determinar la presión atmosférica aproximada en el campamento.</para>
+<note id="fs-idm212817424">
+<title>Respuesta:</title>
+<para id="fs-idm95497088">Aproximadamente 40 kPa (0,4 atm)</para>
+</note>
+</example>
+<para id="fs-idm287754592">La relación cuantitativa entre la presión de vapor de una sustancia y su temperatura se describe mediante la <term>ecuación de Clausius-Clapeyron</term>:</para>
+<equation class="unnumbered" id="fs-idm100818032"><m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mi>A</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mo>-</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub><m:mtext>/</m:mtext><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm95462576">donde Δ<emphasis effect="italics">H</emphasis><sub>vap</sub> es la entalpía de vaporización del líquido, <emphasis effect="italics">R</emphasis> es la constante de los gases y <emphasis effect="italics">A</emphasis> es una constante cuyo valor depende de la identidad química de la sustancia. En esta ecuación la temperatura T debe estar en Kelvin. Esta ecuación se suele reordenar en forma logarítmica para obtener la ecuación lineal:</para><equation class="unnumbered" id="fs-idm13139376"><m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>P</m:mi><m:mo>=</m:mo><m:mo>–</m:mo><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>A</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm13032112">Esta ecuación lineal puede expresarse en un formato de dos puntos que es conveniente para su uso en varios cálculos, como se demuestra en los ejercicios de ejemplo que siguen. Si a la temperatura T<sub>1</sub>, la presión de vapor es P<sub>1</sub>, y a la temperatura T<sub>2</sub>, la presión de vapor es P<sub>2</sub>, las ecuaciones lineales correspondientes son:</para>
+<equation class="unnumbered" id="fs-idm220001056"><m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mo>–</m:mo><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mi>R</m:mi><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>A</m:mi><m:mspace width="5em"/><m:mtext>y</m:mtext><m:mspace width="5em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mn>2 </m:mn></m:msub><m:mo>=</m:mo><m:mo>–</m:mo><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mi>R</m:mi><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>A</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm51875808">Dado que la constante, <emphasis effect="italics">A</emphasis>, es la misma, estas dos ecuaciones pueden reordenarse para aislar ln <emphasis effect="italics">A</emphasis> y luego hacerlas iguales entre sí:</para><equation class="unnumbered" id="fs-idm142013200"><m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mi>R</m:mi><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mi>R</m:mi><m:msub><m:mi>T</m:mi><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm72918608">que se pueden combinar en:</para>
+<equation class="unnumbered" id="fs-idm218464864"><m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation>
+<example id="fs-idm96861632">
+<para id="fs-idm305163312"><title>Estimación de la entalpía de vaporización</title>
+El isooctano (2,2,4-trimetilpentano) tiene un octanaje de 100. Se utiliza como una de las normas para el sistema de octanaje de la gasolina. A 34,0 °C, la presión de vapor del isooctano es de 10,0 kPa, y a 98,8 °C, su presión de vapor es de 100,0 kPa. Utilice esta información para estimar la entalpía de vaporización del isooctano.</para>
+<para id="fs-idm195543920"><title>Solución</title>
+La entalpía de vaporización, Δ<emphasis effect="italics">H</emphasis><sub>vap</sub>, puede determinarse mediante la ecuación de Clausius-Clapeyron:</para>
+<equation class="unnumbered" id="fs-idp17288896"><m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm95291536">Como tenemos dos valores de presión-temperatura de vapor<emphasis effect="italics">T</emphasis><sub>1</sub> = 34,0 °C = 307,2 K, <emphasis effect="italics">P</emphasis><sub>1</sub> = 10,0 kPa y <emphasis effect="italics">T</emphasis><sub>2</sub> = 98,8 °C = 372,0 K, <emphasis effect="italics">P</emphasis><sub>2</sub> = 100 kPa), podemos sustituirlos en esta ecuación y resolver para Δ<emphasis effect="italics">H</emphasis><sub>vap</sub>. Al reordenar la ecuación de Clausius-Clapeyron y resolviendo para Δ<emphasis effect="italics">H</emphasis><sub>vap</sub> se obtiene:</para>
+<equation class="unnumbered" id="fs-idm44175456"><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mi>R</m:mi><m:mtext>⋅</m:mtext><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>8,3145</m:mn><m:mspace width="0.2em"/><m:mtext>J/mol</m:mtext><m:mtext>⋅</m:mtext><m:mtext>K</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mtext>⋅</m:mtext><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>100 kPa</m:mtext></m:mrow><m:mrow><m:mtext>10,0 kPa</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>307,2</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>372,0</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>33.800 J/mol</m:mtext><m:mo>=</m:mo><m:mtext>33,8 kJ/mol</m:mtext></m:mrow></m:math></equation><para id="fs-idm201782400">Note que la presión puede estar en cualquier unidad, siempre que coincidan ambos valores de <emphasis effect="italics">P</emphasis>, pero la temperatura debe estar en kelvin para que la ecuación de Clausius-Clapeyron sea válida.</para>
+<para id="fs-idm101600256"><title>Compruebe lo aprendido</title>
+A 20,0 °C, la presión de vapor del etanol es de 5,95 kPa, y a 63,5 °C, su presión de vapor es de 53,3 kPa. Utilice esta información para estimar la entalpía de vaporización del etanol.</para>
+<note id="fs-idp12869536">
+<title>Respuesta:</title>
+<para id="fs-idm146844672">41.360 J/mol o 41,4 kJ/mol<emphasis effect="italics"/></para></note>
+</example>
+<example id="fs-idm143693744">
+<para id="fs-idm467728"><title>Estimación de la temperatura (o de la presión de vapor)</title>
+En el benceno (C<sub>6</sub>H<sub>6</sub>), el punto de ebullición normal es de 80,1 °C y la entalpía de vaporización es de 30,8 kJ/mol. ¿Cuál es el punto de ebullición del benceno en Denver, donde la presión atmosférica = 83,4 kPa?</para>
+<para id="fs-idm220027984"><title>Solución</title>
+Si se conocen la temperatura y la presión de vapor en un punto, junto con la entalpía de vaporización, Δ<emphasis effect="italics">H</emphasis><sub>vap,</sub> se puede determinar la temperatura que corresponde a una presión de vapor diferente (o la presión de vapor que corresponde a una temperatura diferente) utilizando la ecuación de Clausius-Clapeyron:</para>
+<equation class="unnumbered" id="fs-idm92115136"><m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm198425552">Como el punto de ebullición normal es la temperatura a la que la presión de vapor es igual a la presión atmosférica a nivel del mar, conocemos un valor de presión de vapor-temperatura(<emphasis effect="italics">T</emphasis><sub>1</sub> = 80,1 °C = 353,3 K, <emphasis effect="italics">P</emphasis><sub>1</sub> = 101,3 kPa, Δ<emphasis effect="italics">H</emphasis><sub>vap</sub> = 30,8 kJ/mol) y queremos encontrar la temperatura (<emphasis effect="italics">T</emphasis><sub>2</sub>) que corresponde a la presión de vapor <emphasis effect="italics">P</emphasis><sub>2</sub> = 83,4 kPa. Podemos sustituir estos valores en la ecuación de Clausius-Clapeyron y luego resolver para <emphasis effect="italics">T</emphasis><sub>2</sub>. Reordenando la ecuación de Clausius-Clapeyron y resolviendo para <emphasis effect="italics">T</emphasis><sub>2</sub> se obtiene:</para>
+<equation class="unnumbered" id="fs-idm103279184"><m:math><m:mrow><m:msub><m:mi>T</m:mi><m:mn>2 </m:mn></m:msub><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mo>-</m:mo><m:mi>R</m:mi><m:mtext>⋅</m:mtext><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mn>-1</m:mn></m:msup><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mo>- −</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>8,3145</m:mn><m:mspace width="0.2em"/><m:mtext>J/mol</m:mtext><m:mtext>⋅</m:mtext><m:mtext>K</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mtext>⋅</m:mtext><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>83,4</m:mn><m:mspace width="0.2em"/><m:mtext>kPa</m:mtext></m:mrow><m:mrow><m:mn>101,3</m:mn><m:mspace width="0.2em"/><m:mtext>kPa</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>30.800 J/mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>353,3</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>-1</m:mn></m:msup><m:mo>=</m:mo><m:mtext>346,9 K o</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>73,8</m:mn></m:mrow><m:mo>∘</m:mo></m:msup><m:mtext>C</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm164810384"><title>Compruebe lo aprendido</title>
+Para la acetona (CH<sub>3</sub>)<sub>2</sub>CO, el punto de ebullición normal es de 56,5 °C y la entalpía de vaporización es de 31,3 kJ/mol. ¿Cuál es la presión de vapor de la acetona a 25,0 °C?</para>
+<note id="fs-idm209654080">
+<title>Respuesta:</title>
+<para id="fs-idm215055184">30,1 kPa</para>
+</note>
+</example>
+</section>
+<section id="fs-idm196961088">
+<title>Entalpía de vaporización</title>
+<para id="fs-idm238047040">La vaporización es un proceso endotérmico. El efecto refrescante se evidencia al salir de la piscina o de la ducha. Cuando el agua de la piel se evapora, elimina el calor de la piel y provoca una sensación de frío. El cambio de energía asociado al proceso de vaporización es la entalpía de vaporización, Δ<emphasis effect="italics">H</emphasis><sub>vap</sub>. Por ejemplo, la vaporización del agua a temperatura estándar está representada por:</para>
+<equation class="unnumbered" id="fs-idp7928688"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>44,01 kJ/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm149636464">Como se describió en el capítulo de termoquímica, el reverso de un proceso endotérmico es exotérmico. Así, la condensación de un gas libera calor:</para>
+<equation class="unnumbered" id="fs-idm190668720"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>con</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>−Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>-44,01</m:mn><m:mspace width="0.2em"/><m:mtext>kJ/mol</m:mtext></m:mrow></m:math></equation>
+<example id="fs-idm57843872">
+<para id="fs-idm70086528"><title>Uso de la entalpía de vaporización</title>
+Una de las formas de enfriar nuestro cuerpo es la evaporación del agua en el sudor (<link target-id="CNX_Chem_10_03_Evap"/>). En climas muy cálidos, podemos perder hasta 1,5 L de sudor al día. Aunque el sudor no es agua pura, podemos obtener un valor aproximado de la cantidad de calor eliminado por evaporación suponiendo que lo es. Cuánto calor se necesita para evaporar 1,5 L de agua (1,5 kg) a <emphasis effect="italics">T</emphasis> = 37 °C (temperatura corporal normal); Δ<emphasis effect="italics">H</emphasis><sub>vap</sub> = 43,46 kJ/mol a 37 °C.</para>
+<figure id="CNX_Chem_10_03_Evap" class="scaled-down">
+<media id="fs-idm183436304" alt="Se muestra el hombro y el cuello de una persona y su piel está cubierta de gotas de líquido.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_03_Evap.jpg"/>
+</media>
+<caption>La evaporación del sudor ayuda a enfriar el cuerpo. (Crédito: "Kullez"/Flickr).</caption>
+</figure>
+<para id="fs-idm146648608"><title>Solución</title>
+Empezamos con el volumen conocido de sudor (aproximado como solo agua) y utilizamos la información dada para convertirlo en la cantidad de calor necesaria:</para>
+<equation class="unnumbered" id="fs-idm38095424"><m:math><m:mrow><m:mn>1,5</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>18</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>43,46</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>3,6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation><para id="fs-idm104953776">Así, se eliminan 3600 kJ de calor por la evaporación de 1,5 L de agua.</para>
+<para id="fs-idm119901584"><title>Compruebe lo aprendido</title>
+¿Cuánto calor se necesita para evaporar 100,0 g de amoníaco líquido, NH<sub>3</sub>, en su punto de ebullición si su entalpía de vaporización es de 4,8 kJ/mol?</para>
+<note id="fs-idm64022976">
+<title>Respuesta:</title>
+<para id="fs-idm13083920">28 kJ</para>
+</note>
+</example>
+</section>
+<section id="fs-idm167698656">
+<title>Fusión y congelación</title>
+<para id="fs-idp14081632">Cuando calentamos un sólido cristalino, aumentamos la energía media de sus átomos, moléculas o iones y el sólido se calienta. En algún momento, la energía añadida es lo suficientemente grande como para superar parcialmente las fuerzas que mantienen a las moléculas o iones del sólido en sus posiciones fijas, y el sólido comienza el proceso de transición al estado líquido, o de <term>fusión</term>. En este punto, la temperatura del sólido deja de aumentar, a pesar de la entrada continua de calor, y se mantiene constante hasta que todo el sólido se funde. Solo después de que todo el sólido se haya fundido, el calentamiento continuado aumentará la temperatura del líquido (<link target-id="CNX_Chem_10_03_MeltingIce"/>).</para>
+<figure id="CNX_Chem_10_03_MeltingIce">
+<media id="fs-idm137978064" alt="Esta figura muestra cuatro fotos marcadas cada una de ellas como &quot;a&quot;, &quot;b&quot;, &quot;c&quot; y &quot;d&quot;. Cada una muestra un vaso de precipitados con hielo y un termómetro digital. La primera foto muestra cubos de hielo en el vaso, y el termómetro marca 12,0 grados C negativos. La segunda foto muestra hielo ligeramente derretido, y el termómetro marca 0,0 grados C. La tercera foto muestra más agua que hielo en el vaso. El termómetro marca 0,0 grados C. La cuarta foto muestra el hielo completamente derretido y el termómetro marca 22,2 grados C.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_03_MeltingIce.jpg"/>
+</media>
+<caption>(a) Este vaso de hielo tiene una temperatura de −12.0 °C. (b) Después de 10 minutos, el hielo ha absorbido suficiente calor del aire para calentarse hasta los 0 °C. Una pequeña cantidad se ha derretido. (c) Treinta minutos más tarde, el hielo ha absorbido más calor, pero su temperatura sigue siendo de 0 °C. El hielo se derrite sin cambiar su temperatura. (d) Solo después de que todo el hielo se haya derretido, el calor absorbido hace que la temperatura aumente hasta los 22,2 °C. (Crédito: modificación del trabajo de Mark Ott).</caption>
+</figure>
+<para id="fs-idp12376064">Si dejamos de transmitir calor durante la fusión y colocamos la mezcla de sólido y líquido en un recipiente perfectamente aislado para que no entre ni salga el calor, las fases sólida y líquida permanecen en equilibrio. Esto es casi lo mismo que ocurre con una mezcla de hielo y agua en un buen termo; casi no entra ni sale calor, y la mezcla de hielo sólido y agua líquida permanece durante horas. En una mezcla de sólido y líquido en equilibrio, los procesos recíprocos de fusión y <term>congelación</term> se producen a igual velocidad, por lo que las cantidades de sólido y líquido permanecen constantes. La temperatura a la que las fases sólida y líquida de una determinada sustancia están en equilibrio se denomina <term>punto de fusión</term> del sólido o <term>punto de congelación</term> del líquido. El uso de uno u otro término viene dictado normalmente por la dirección de la transición de fase que se considere, por ejemplo, de sólido a líquido (fusión) o de líquido a sólido (congelación).</para><para id="fs-idm90105504">La entalpía de fusión y el punto de fusión de un sólido cristalino dependen de la fuerza de atracción entre las unidades presentes en el cristal. Las moléculas con fuerzas de atracción débiles forman cristales con puntos de fusión bajos. Los cristales formados por partículas con fuerzas de atracción más fuertes se funden a temperaturas más altas.</para>
+<para id="fs-idm133861568">La cantidad de calor necesaria para cambiar un mol de una sustancia del estado sólido al estado líquido es la entalpía de fusión, ΔH<sub>fus</sub> de la sustancia. La entalpía de fusión del hielo es de 6,0 kJ/mol a 0 °C. La fusión es un proceso endotérmico:</para>
+<equation class="unnumbered" id="fs-idm185471776"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>fus</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>6,01 kJ/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm119984512">El proceso recíproco, la congelación, es un proceso exotérmico cuyo cambio de entalpía es de −6.0 kJ/mol a 0 °C:</para>
+<equation class="unnumbered" id="fs-idm145529840"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>frz</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>−Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>fus</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>-6,01</m:mn><m:mspace width="0.2em"/><m:mtext>kJ/mol</m:mtext></m:mrow></m:math></equation>
+</section>
+<section id="fs-idm97104816">
+<title>Sublimación y deposición</title>
+<para id="fs-idm191153504">Algunos sólidos pueden pasar directamente al estado gaseoso, evitando el estado líquido, mediante un proceso conocido como <term>sublimación</term>. A temperatura ambiente y presión estándar, un trozo de hielo seco (CO<sub>2</sub> sólido) se sublima, pareciendo desaparecer gradualmente sin llegar a formar ningún líquido. La nieve y el hielo se subliman a temperaturas inferiores al punto de fusión del agua, un proceso lento que puede ser acelerado por los vientos y las reducidas presiones atmosféricas a gran altitud. Cuando el yodo sólido se calienta, el sólido se sublima y se forma un vapor de color púrpura intenso (<link target-id="CNX_Chem_10_03_Sublimtn"/>). El reverso de la sublimación se llama <term>deposición</term>, un proceso en el que las sustancias gaseosas se condensan directamente en el estado sólido, evitando el estado líquido. La formación de escarcha es un ejemplo de deposición.</para>
+<figure id="CNX_Chem_10_03_Sublimtn" class="scaled-down">
+<media id="fs-idm195457584" alt="Esta figura muestra un tubo de ensayo. En el fondo hay una sustancia oscura que se descompone en un gas púrpura en la parte superior.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_03_Sublimtn.jpg"/>
+</media>
+<caption>La sublimación del yodo sólido en el fondo del tubo produce un gas púrpura que posteriormente se deposita como yodo sólido en la parte más fría del tubo superior. (Crédito: modificación del trabajo de Mark Ott).</caption>
+</figure>
+<para id="fs-idm208982384">Al igual que la vaporización, el proceso de sublimación requiere una entrada de energía para superar las atracciones intermoleculares. La entalpía de sublimación, ΔH<sub>sub</sub>, es la energía necesaria para convertir un mol de una sustancia del estado sólido al gaseoso. Por ejemplo, la sublimación del dióxido de carbono está representada por:</para>
+<equation class="unnumbered" id="fs-idm92174656"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>sub</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>26,1 kJ/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm110822080">Asimismo, el cambio de entalpía para el proceso inverso de deposición es de igual magnitud pero de signo contrario al de la sublimación:</para>
+<equation class="unnumbered" id="fs-idp16237312"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>dep</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>−Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>sub</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>-26,1</m:mn><m:mspace width="0.2em"/><m:mtext>kJ/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm69412784">Considere hasta qué punto deben superarse las atracciones intermoleculares para lograr una determinada transición de fase. La conversión de un sólido en un líquido requiere que estas atracciones se superen solo parcialmente; la transición al estado gaseoso requiere que se superen completamente. En consecuencia, la entalpía de fusión de una sustancia es menor que su entalpía de vaporización. Esta misma lógica puede utilizarse para derivar una relación aproximada entre las entalpías de todos los cambios de fase para una sustancia determinada. Aunque no es una descripción totalmente exacta, la sublimación puede modelarse convenientemente como un proceso secuencial de dos pasos de fusión seguido de vaporización para aplicar la ley de Hess. Visto así, la entalpía de sublimación de una sustancia puede estimarse como la suma de sus entalpías de fusión y vaporización, como se ilustra en la <link target-id="CNX_Chem_10_03_PhaseChng"/>. Por ejemplo:</para>
+<equation class="unnumbered" id="fs-idm81561872"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtext>sólido</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>líquido</m:mtext><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>fus</m:mtext></m:mrow></m:msub></m:mtd></m:mtr><m:mtr><m:mtd><m:munder accentunder="true"><m:mrow><m:mtext>líquido</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>gas</m:mtext><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>sólido</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>gas</m:mtext><m:mspace width="5em"/><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>sub</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>fus</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mtd></m:mtr></m:mtable></m:math></equation>
+<figure id="CNX_Chem_10_03_PhaseChng" class="scaled-down">
+<media id="fs-idm63916320" alt="Se muestra un diagrama con una línea vertical dibujada en el lado izquierdo y marcada como &quot;Energía&quot; y tres líneas horizontales dibujadas cerca de la parte inferior, el tercio inferior y la parte superior del diagrama. Estas tres líneas están marcadas, de abajo a arriba, como &quot;sólido&quot;, &quot;líquido&quot; y &quot;gas&quot;. Cerca del centro del diagrama, se dibuja una flecha vertical hacia arriba desde la línea sólida hasta la línea de gas y se rotula &quot;Sublimación, signo delta, H, subíndice&quot;. A la derecha de esta flecha hay una segunda flecha vertical, orientada hacia arriba, que se dibuja desde la línea sólida hasta la línea líquida y que lleva la marca &quot;Fusión, signo delta, H, subíndice fus&quot;. Encima de la segunda flecha hay una tercera flecha trazada desde la línea del líquido a la del gas y marcada como &quot;Vaporización, signo delta, H, subíndice vap&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_03_PhaseChng.jpg"/>
+</media>
+<caption>En una sustancia determinada, la suma de su entalpía de fusión y su entalpía de vaporización es aproximadamente igual a su entalpía de sublimación.</caption>
+</figure>
+</section>
+<section id="fs-idm93930720">
+<title>Curvas de calentamiento y enfriamiento</title>
+<para id="fs-idp17603264">En el capítulo sobre termoquímica, se introdujo la relación entre la cantidad de calor absorbida o liberada por una sustancia, <emphasis effect="italics">q</emphasis>, y el cambio de temperatura que la acompaña, Δ<emphasis effect="italics">T</emphasis>:</para><equation class="unnumbered" id="fs-idm100720480"><m:math><m:mrow><m:mi>q</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>c</m:mi><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm73087600">donde <emphasis effect="italics">m</emphasis> es la masa de la sustancia y <emphasis effect="italics">c</emphasis> es su calor específico. La relación se aplica a la materia que se calienta o se enfría, pero que no sufre un cambio de estado. Cuando una sustancia que se calienta o se enfría alcanza una temperatura correspondiente a una de sus transiciones de fase, la ganancia o pérdida adicional de calor es el resultado de la disminución o el aumento de las atracciones intermoleculares, en lugar del aumento o la disminución de las energías cinéticas moleculares. Mientras una sustancia experimenta un cambio de estado, su temperatura permanece constante. La <link target-id="CNX_Chem_10_03_HeatCurve"/> muestra una curva de calentamiento típica.</para>
+<para id="fs-idm178482560">Consideremos el ejemplo de calentar una olla de agua hasta que hierva. Un quemador de estufa suministrará calor a un ritmo más o menos constante; inicialmente, este calor sirve para aumentar la temperatura del agua. Cuando el agua alcanza su punto de ebullición, la temperatura se mantiene constante a pesar de la entrada continua de calor del quemador de la estufa. El agua mantiene esta misma temperatura mientras hierve. Si se aumenta el ajuste del quemador para proporcionar calor a mayor velocidad, la temperatura del agua no aumenta, sino que la ebullición se hace más vigorosa (rápida). Este comportamiento se observa también en otras transiciones de fase: Por ejemplo, la temperatura permanece constante mientras se produce el cambio de estado.</para>
+<figure id="CNX_Chem_10_03_HeatCurve">
+<media id="fs-idm120231984" alt="Se muestra un gráfico en el que el eje x está marcado como &quot;Cantidad de calor añadido&quot; y el eje y está marcado como &quot;Temperatura ( signo de grado C )&quot; y tiene valores de 10 a 100 negativos en incrementos de 20. Una flecha horizontal orientada hacia la derecha se extiende desde el punto &quot;0, 0&quot; hasta el lado derecho del gráfico. Un gráfico de líneas comienza en la parte inferior izquierda del gráfico y se desplaza hasta el punto &quot;0&quot; en el eje Y. Este segmento de la línea está marcado como &quot;H, subíndice 2, O ( s )&quot; A continuación, la línea se aplana y se desplaza horizontalmente durante una pequeña distancia. Este segmento está marcado como &quot;El sólido comienza a fundirse&quot; en su lado izquierdo y &quot;Todo el sólido fundido&quot; en su lado derecho. A continuación, la línea asciende de forma lineal hasta llegar al punto &quot;100&quot; del eje Y. Este segmento de la línea está marcado como &quot;H, subíndice 2, O,( l )&quot; A continuación, la línea se aplana y se desplaza horizontalmente durante una distancia moderada. Este segmento está marcado como &quot;El líquido comienza a hervir&quot; en su lado izquierdo y &quot;Todo el líquido se evaporó&quot; en su lado derecho. La línea se eleva entonces hasta un punto por encima de &quot;100&quot; en el eje Y. Este segmento de la línea está marcado como &quot;H, subíndice 2, O ( g )&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_03_HeatCurve.jpg"/>
+</media>
+<caption>Una curva de calentamiento típica de una sustancia representa los cambios de temperatura que se producen a medida que la sustancia absorbe cantidades crecientes de calor. Las mesetas en la curva (regiones de temperatura constante) se muestran cuando la sustancia experimenta transiciones de fase.</caption>
+</figure>
+<example id="fs-idm143749376">
+<para id="fs-idm171202608"><title>Calor total necesario para cambiar la temperatura y la fase de una sustancia</title>
+¿Cuánto calor se necesita para convertir 135 g de hielo a -15 °C en vapor de agua a 120 °C?</para>
+<para id="fs-idm136425392"><title>Solución</title>
+La transición descrita implica los siguientes pasos:</para>
+<list id="fs-idm226216704" list-type="enumerated" number-style="arabic">
+<item>Calentar el hielo de −15 °C a 0 °C</item>
+<item>Derretir el hielo</item>
+<item>Calentar el agua de 0 °C a 100 °C</item>
+<item>Hervir el agua</item>
+<item>Calentar el vapor de 100 °C a 120 °C</item>
+</list>
+<para id="fs-idp5662336">El calor necesario para cambiar la temperatura de una sustancia dada (sin cambio de fase) es: <emphasis effect="italics">q</emphasis> = <emphasis effect="italics">m</emphasis> <m:math><m:mo>×</m:mo></m:math> <emphasis effect="italics">c</emphasis> <m:math><m:mo>×</m:mo></m:math> Δ<emphasis effect="italics">T</emphasis> (véase el capítulo anterior sobre termoquímica). El calor necesario para inducir un determinado cambio de fase viene dado por <emphasis effect="italics">q</emphasis> = <emphasis effect="italics">n</emphasis> <m:math><m:mo>×</m:mo></m:math> Δ<emphasis effect="italics">H</emphasis>.</para>
+<para id="fs-idm193222960">Utilizando estas ecuaciones con los valores apropiados para el calor específico del hielo, el agua y el vapor, y las entalpías de fusión y vaporización, tenemos:</para>
+<equation class="unnumbered" id="fs-idm72881520"><m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>total</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>m</m:mi><m:mtext>⋅</m:mtext><m:mi>c</m:mi><m:mtext>⋅</m:mtext><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>hielo</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mi>n</m:mi><m:mtext>⋅</m:mtext><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>fus</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>m</m:mi><m:mtext>⋅</m:mtext><m:mi>c</m:mi><m:mtext>⋅</m:mtext><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>agua</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mi>n</m:mi><m:mtext>⋅</m:mtext><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>m</m:mi><m:mtext>⋅</m:mtext><m:mi>c</m:mi><m:mtext>⋅</m:mtext><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>vapor</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idm213205104">Los términos <m:math><m:mtable columnalign="left"><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>135 g</m:mtext><m:mtext>⋅</m:mtext><m:mtext>2,09 J/g</m:mtext><m:mtext>⋅</m:mtext><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mtext>⋅</m:mtext><m:mn>15</m:mn><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>135</m:mn><m:mtext>⋅</m:mtext><m:mfrac><m:mrow><m:mtext>1 mol</m:mtext></m:mrow><m:mrow><m:mn>18,02</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac><m:mtext>⋅</m:mtext><m:mtext>6,01 kJ/mol</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>135 g</m:mtext><m:mtext>⋅</m:mtext><m:mtext>4,18 J/g</m:mtext><m:mtext>⋅</m:mtext><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mtext>⋅</m:mtext><m:mn>100</m:mn><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>135 g</m:mtext><m:mtext>⋅</m:mtext><m:mfrac><m:mrow><m:mtext>1 mol</m:mtext></m:mrow><m:mrow><m:mn>18,02</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac><m:mtext>⋅</m:mtext><m:mtext>40,67 kJ/mol</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>135 g</m:mtext><m:mtext>⋅</m:mtext><m:mtext>1,84 J/g</m:mtext><m:mtext>⋅</m:mtext><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mtext>⋅</m:mtext><m:mn>20</m:mn><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow><m:mo>).</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mo>=</m:mo><m:mtext>4230 J</m:mtext><m:mo>+</m:mo><m:mtext>45,0 kJ</m:mtext><m:mo>+</m:mo><m:mtext>56.500 J</m:mtext><m:mo>+</m:mo><m:mtext>305 kJ</m:mtext><m:mo>+</m:mo><m:mtext>4970 J</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm91013680">La conversión de las cantidades en J a kJ permite sumarlas y obtener el calor total necesario:</para>
+<equation class="unnumbered" id="fs-idm153490352"><m:math><m:mrow><m:mo>=</m:mo><m:mn>4,23</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>+</m:mo><m:mtext>45,0 kJ</m:mtext><m:mo>+</m:mo><m:mtext>56,5 kJ</m:mtext><m:mo>+</m:mo><m:mtext>305 kJ</m:mtext><m:mo>+</m:mo><m:mtext>4,97 kJ</m:mtext><m:mo>=</m:mo><m:mtext>416 kJ</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm144427968"><title>Compruebe lo aprendido</title>
+¿Cuál es la cantidad total de calor liberado cuando 94,0 g de agua a 80,0 °C se enfrían para formar hielo a −30.0 °C?</para>
+<note id="fs-idm100519184">
+<title>Respuesta:</title>
+<para id="fs-idm101204704">68,7 kJ</para></note>
+</example>
+</section>
+<section id="fs-idm147145776" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm196349008">Las transiciones de fase son procesos que convierten la materia de un estado físico a otro. Existen seis transiciones de fase entre las tres fases de la materia. La fusión, la vaporización y la sublimación son procesos endotérmicos, que requieren una entrada de calor para superar las atracciones intermoleculares. Las transiciones recíprocas de congelación, condensación y deposición son todas ellas procesos exotérmicos, en los que interviene el calor al establecerse o reforzarse las fuerzas de atracción intermoleculares. Las fuerzas relativas de las atracciones intermoleculares determinan las temperaturas a las que se producen las transiciones de fase y por tanto, dependen de la identidad química de la sustancia.</para>
+</section>
+<section id="fs-idp14058304" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mi>A</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mo>-</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub><m:mtext>/</m:mtext><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:msup></m:mrow></m:math></entry>
+</row>
+<row><entry>Los términos <m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>P</m:mi><m:mo>=</m:mo><m:mo>–</m:mo><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mi>A</m:mi></m:mrow></m:math></entry>
+</row>
+<row><entry>Los términos <m:math><m:mrow><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>H</m:mi><m:mrow><m:mtext>vap</m:mtext></m:mrow></m:msub></m:mrow><m:mi>R</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></entry>
+</row>
+<row><entry/>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idm73098240" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idm118197344">
+<problem id="fs-idm74720928">
+<para id="fs-idm38100432">Se añade calor al agua hirviendo. Explique por qué la temperatura del agua hirviendo no cambia. ¿Qué cambia?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm202797040">
+<problem id="fs-idm110273440">
+<para id="fs-idm207345552">Se añade calor al hielo a 0 °C. Explique por qué la temperatura del hielo no cambia. ¿Qué cambia?</para>
+</problem>
+<solution id="fs-idm91336512">
+<para id="fs-idm13052032">El calor es absorbido por el hielo, proporcionando la energía necesaria para superar parcialmente las fuerzas de atracción intermoleculares en el sólido y provocando una transición de fase a agua líquida. La solución se mantiene a 0 °C hasta que se derrite todo el hielo. Solo cambia la cantidad de agua existente en forma de hielo hasta que éste desaparece. Entonces la temperatura del agua puede aumentar.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm7901664">
+<problem id="fs-idm206555280">
+<para id="fs-idm93844912">¿Qué rasgo caracteriza el equilibrio dinámico entre un líquido y su vapor en un recipiente cerrado?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm90085344">
+<problem id="fs-idm203148304">
+<para id="fs-idm178070384">Identifique dos observaciones comunes que indiquen que algunos líquidos tienen presiones de vapor suficientes para evaporarse notablemente</para>
+</problem>
+<solution id="fs-idm121483040">
+<para id="fs-idp5494480">Podemos ver cómo disminuye la cantidad de líquido en un recipiente abierto y podemos oler el vapor de algunos líquidos.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm202728384">
+<problem id="fs-idm180713264">
+<para id="fs-idm103810320">Identifique dos observaciones comunes que indiquen que algunos sólidos, como el hielo seco y las bolas de naftalina, tienen presiones de vapor suficientes para sublimarse.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm63569328">
+<problem id="fs-idm62397520">
+<para id="fs-idm144746736">¿Cuál es la relación entre las fuerzas intermoleculares de un líquido y su presión de vapor?</para>
+</problem>
+<solution id="fs-idp17367568">
+<para id="fs-idm73474720">La presión de vapor de un líquido disminuye a medida que aumenta la fuerza de sus fuerzas intermoleculares.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm134146112">
+<problem id="fs-idm256701440">
+<para id="fs-idm268523920">¿Cuál es la relación entre las fuerzas intermoleculares de un sólido y su temperatura de fusión?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm218809584">
+<problem id="fs-idm90236480">
+<para id="fs-idm191159888">¿Por qué la gasolina derramada se evapora más rápidamente en un día caluroso que en un día frío?</para>
+</problem>
+<solution id="fs-idm169567904">
+<para id="fs-idm38059232">A medida que aumenta la temperatura, la energía cinética media de las moléculas de la gasolina se incrementa y, por tanto, una mayor fracción de moléculas tiene energía suficiente para escapar del líquido que a temperaturas más bajas.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm91183360">
+<problem id="fs-idm90059152">
+<para id="fs-idm76700432">El tetracloruro de carbono, CCl<sub>4</sub>, se utilizaba antiguamente como disolvente de limpieza en seco, pero ya no se utiliza porque es cancerígeno. A 57,8 °C, la presión de vapor del CCl<sub>4</sub> es de 54,0 kPa, y su entalpía de vaporización es de 33,05 kJ/mol. Utilice esta información para estimar el punto de ebullición normal del CCl<sub>4</sub>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm4937568">
+<problem id="fs-idm190699536">
+<para id="fs-idm205987696">¿Cuándo el punto de ebullición de un líquido es igual a su punto de ebullición normal?</para>
+</problem>
+<solution id="fs-idm73513280">
+<para id="fs-idm185423072">Son iguales cuando la presión del gas sobre el líquido es exactamente 1 atm.</para></solution>
+</exercise>
+<exercise id="fs-idm12425360">
+<problem id="fs-idm73539744">
+<para id="fs-idm197038448">¿En qué se diferencia la ebullición de un líquido de su evaporación?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm69160048">
+<problem id="fs-idm12461552">
+<para id="fs-idm127448592">Utilice la información de la <link target-id="CNX_Chem_10_03_VapPress2"/> para estimar el punto de ebullición del agua en Denver cuando la presión atmosférica es de 83,3 kPa.</para>
+</problem>
+<solution id="fs-idm10944480">
+<para id="fs-idm43978256">aproximadamente 95 °C.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm100561472">
+<problem id="fs-idm171594384">
+<para id="fs-idm91131584">Una jeringa a una temperatura de 20 °C se llena de éter líquido de forma que no queda espacio para ningún vapor. Si la temperatura se mantiene constante y se retira el émbolo para crear un volumen que pueda ser ocupado por el vapor, ¿cuál sería la presión aproximada del vapor producido?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm215245584">
+<problem id="fs-idp9060688">
+<para id="fs-idm211403984">Explique las siguientes observaciones:</para>
+<para id="fs-idm118100432">(a) Se tarda más en cocinar un huevo en Ft. Davis, Texas (altitud, 5000 pies sobre el nivel del mar) que en Boston (a nivel del mar).</para>
+<para id="fs-idm121941456">(b) La transpiración es un mecanismo de enfriamiento del cuerpo.</para>
+</problem>
+<solution id="fs-idm256168352">
+<para id="fs-idm51358288">(a) A 5.000 pies de altura, la presión atmosférica es menor que a nivel del mar, por lo que el agua hervirá a una temperatura más baja. Esta temperatura más baja hará que los cambios físicos y químicos implicados en la cocción del huevo procedan más lentamente, y se necesitará más tiempo para cocerlo completamente. (b) Mientras el aire que rodea al cuerpo contenga menos vapor de agua que el máximo que el aire puede contener a esa temperatura, la transpiración se evaporará, enfriando así el cuerpo al eliminar el calor de vaporización necesario para evaporar el agua.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm165702432">
+<problem id="fs-idm13151264">
+<para id="fs-idm65859968">La entalpía de vaporización del agua es mayor que su entalpía de fusión. Explique por qué.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm224362720">
+<problem id="fs-idp66768">
+<para id="fs-idm101751728">Explique por qué las entalpías molares de vaporización de las siguientes sustancias aumentan en el orden CH<sub>4</sub> &lt; C<sub>2</sub>H<sub>6</sub> &lt; C<sub>3</sub>H<sub>8</sub>, aunque el tipo de IMF (dispersión) sea el mismo.
+</para></problem>
+<solution id="fs-idm12566128">
+<para id="fs-idm144647184">Las fuerzas de dispersión aumentan con la masa o el tamaño molecular. A medida que aumenta el número de átomos que componen las moléculas de esta serie homóloga, también lo hace el grado de atracción intermolecular a través de las fuerzas de dispersión y, en consecuencia, la energía necesaria para superar estas fuerzas y vaporizar los líquidos.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm201825184">
+<problem id="fs-idm38090624">
+<para id="fs-idm63235472">Explique por qué las entalpías de vaporización de las siguientes sustancias aumentan en el orden CH<sub>4</sub> &lt; NH<sub>3</sub> &lt; H<sub>2</sub>O, aunque las tres sustancias tengan aproximadamente la misma masa molar.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm43844288">
+<problem id="fs-idm196546608">
+<para id="fs-idm198895584">La entalpía de vaporización del CO<sub>2</sub>(<emphasis effect="italics">l</emphasis>) es de 9,8 kJ/mol. ¿Esperaría que la entalpía de vaporización del CS<sub>2</sub>(<emphasis effect="italics">l</emphasis>) fuera de 28 kJ/mol, 9,8 kJ/mol o -8,4 kJ/mol? Discuta la plausibilidad de cada una de estas respuestas.</para>
+</problem>
+<solution id="fs-idm61721936">
+<para id="fs-idm195420176">El punto de ebullición del CS<sub>2</sub> es más alto que el del CO<sub>2</sub>, en parte debido al mayor peso molecular del CS<sub>2</sub>; en consecuencia, las fuerzas de atracción son más fuertes en el CS<sub>2</sub>. Se esperaría, por tanto, que el calor de vaporización fuera mayor que el de 9,8 kJ/mol para el CO<sub>2</sub>. Un valor de 28 kJ/mol parece razonable. Un valor de -8,4 kJ/mol indicaría una liberación de energía en la vaporización, lo que es claramente inverosímil.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp7110192">
+<problem id="fs-idm100449808">
+<para id="fs-idm103276128">La molécula de fluoruro de hidrógeno, HF, es más polar que una molécula de agua, H<sub>2</sub>O (por ejemplo, tiene un momento dipolar mayor), y sin embargo la entalpía molar de vaporización del fluoruro de hidrógeno líquido es menor que la del agua. Explique.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp7150208">
+<problem id="fs-idm180740336">
+<para id="fs-idm201999328">El cloruro de etilo (punto de ebullición, 13 °C) se utiliza como anestésico local. Cuando el líquido se rocía sobre la piel, la enfría lo suficiente como para congelarla y adormecerla. Explique el efecto de enfriamiento del cloruro de etilo líquido.</para>
+</problem>
+<solution id="fs-idp7379248">
+<para id="fs-idm111270048">La energía térmica (calor) necesaria para evaporar el líquido se elimina de la piel.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm190677696">
+<problem id="fs-idm2396288">
+<para id="fs-idm145626784">¿Cuál contiene los compuestos enumerados correctamente en orden de aumento de los puntos de ebullición?</para>
+<para id="fs-idm201863968">(a) N<sub>2</sub> &lt; CS<sub>2</sub> &lt; H<sub>2</sub>O &lt; KCl</para>
+<para id="fs-idm101844896">(b) H<sub>2</sub>O &lt; N<sub>2</sub> &lt; CS<sub>2</sub> &lt; KCl</para>
+<para id="fs-idm150811552">(c) N<sub>2</sub> &lt; KCl &lt; CS<sub>2</sub> &lt; H<sub>2</sub>O</para>
+<para id="fs-idm197242352">(d) CS<sub>2</sub> &lt; N<sub>2</sub> &lt; KCl &lt; H<sub>2</sub>O</para>
+<para id="fs-idm167196528">(e) KCl &lt; H<sub>2</sub>O &lt; CS<sub>2</sub> &lt; N<sub>2</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idm69576896">
+<problem id="fs-idm202689664">
+<para id="fs-idm46311104">¿Cuánto calor se necesita para convertir 422 g de H<sub>2</sub>O líquido a 23,5 °C en vapor a 150 °C?</para>
+</problem>
+<solution id="fs-idp12172528">
+<para id="fs-idm91893600">1130 kJ</para>
+</solution>
+</exercise>
+<exercise id="fs-idm4941728">
+<problem id="fs-idm186351168">
+<para id="fs-idm44076832">La evaporación del sudor requiere energía y, por tanto, aleja el exceso de calor del cuerpo. Una parte del agua que bebe puede convertirse en sudor y evaporarse. Si bebe una botella de agua de 20 onzas que ha estado en el refrigerador a 3,8 °C, ¿cuánto calor se necesita para convertir toda esa agua en sudor y luego en vapor? (Nota: Su temperatura corporal es de 36,6 °C. Para resolver este problema, suponga que las propiedades térmicas del sudor son las mismas que las del agua).</para></problem>
+</exercise>
+<exercise id="fs-idm136735584">
+<problem id="fs-idm180226720">
+<para id="fs-idm202068832">El tetracloruro de titanio, TiCl<sub>4</sub>, tiene un punto de fusión de -23,2 °C y una Δ<emphasis effect="italics">H</emphasis><sub> fusión</sub> = 9,37 kJ/mol.</para>
+<para id="fs-idm57921664">(a) ¿Cuánta energía se necesita para fundir 263,1 g de TiCl<sub>4</sub>?</para>
+<para id="fs-idp14023840">(b) En el TiCl<sub>4</sub>, que probablemente tendrá la mayor magnitud: ¿Δ<emphasis effect="italics">H</emphasis><sub> fusión</sub> o Δ<emphasis effect="italics">H</emphasis><sub> vaporización</sub>? Explique su razonamiento.</para>
+</problem>
+<solution id="fs-idm76672896">
+<para id="fs-idm166606448">(a) 13,0 kJ; (b) Es probable que el calor de vaporización tenga una magnitud mayor ya que en el caso de la vaporización las interacciones intermoleculares tienen que ser superadas completamente, mientras que la fusión debilita o destruye solo algunas de ellas.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm193814624">
+<term>punto de ebullición</term>
+<meaning id="fs-idm174536272">temperatura a la que la presión de vapor de un líquido es igual a la presión del gas que se encuentra sobre él.</meaning>
+</definition>
+<definition id="fs-idp13200944">
+<term>ecuación de Clausius-Clapeyron</term>
+<meaning id="fs-idm153169776">relación matemática entre la temperatura, la presión de vapor y la entalpía de vaporización de una sustancia.</meaning>
+</definition>
+<definition id="fs-idm193371200">
+<term>condensación</term>
+<meaning id="fs-idm201416208">cambio de un estado gaseoso a un estado líquido.</meaning>
+</definition>
+<definition id="fs-idm7778192">
+<term>deposición</term>
+<meaning id="fs-idm73497952">cambio de un estado gaseoso directamente a un estado sólido.</meaning>
+</definition>
+<definition id="fs-idm101715056">
+<term>equilibrio dinámico</term>
+<meaning id="fs-idm64775616">estado de un sistema en el que los procesos recíprocos se producen a igual velocidad.</meaning>
+</definition>
+<definition id="fs-idm144682752">
+<term>congelación</term>
+<meaning id="fs-idm50094928">cambio de un estado líquido a un estado sólido.</meaning>
+</definition>
+<definition id="fs-idp5444368">
+<term>punto de congelación</term>
+<meaning id="fs-idp203536">temperatura a la que las fases sólida y líquida de una sustancia están en equilibrio; vea también <emphasis effect="italics">punto de fusión</emphasis>.</meaning>
+</definition>
+<definition id="fs-idm69563216">
+<term>fusión</term>
+<meaning id="fs-idm164437712">cambio de un estado sólido a un estado líquido.</meaning>
+</definition>
+<definition id="fs-idm143011312">
+<term>punto de fusión</term>
+<meaning id="fs-idm128669248">temperatura a la que las fases sólida y líquida de una sustancia están en equilibrio; vea también <emphasis effect="italics">punto de congelación</emphasis>.</meaning>
+</definition>
+<definition id="fs-idm205028976">
+<term>punto de ebullición normal</term>
+<meaning id="fs-idm139655296">temperatura a la que la presión de vapor de un líquido es igual a 1 atm (760 torr).</meaning>
+</definition>
+<definition id="fs-idm146567360">
+<term>sublimación</term>
+<meaning id="fs-idp17385840">cambio del estado sólido directamente al estado gaseoso.</meaning>
+</definition>
+<definition id="fs-idm195421616">
+<term>presión de vapor</term>
+<meaning id="fs-idm149104240">(también, presión de vapor de equilibrio) presión ejercida por un vapor en equilibrio con un sólido o un líquido a una temperatura determinada.</meaning>
+</definition>
+<definition id="fs-idm93994416">
+<term>vaporización</term>
+<meaning id="fs-idm90249920">cambio de estado líquido a estado gaseoso.</meaning>
+</definition>
+</glossary>
+</document>

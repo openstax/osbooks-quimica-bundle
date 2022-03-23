@@ -1,0 +1,384 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>El estado sólido de la materia</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68770</md:content-id>
+  <md:title>El estado sólido de la materia</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Definir y describir el enlace y las propiedades de los sólidos cristalinos de red iónica, molecular, metálica y covalente.</item>
+<item>Describir los principales tipos de sólidos cristalinos: sólidos iónicos, sólidos metálicos, sólidos de red covalente y sólidos moleculares.</item>
+<item>Explicar las formas en que pueden producirse defectos de cristal en un sólido.</item>
+</list></md:abstract>
+  <md:uuid>eb0edc08-a7a0-4b1f-89d5-b7f5721ff192</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm142034528">Cuando la mayoría de los líquidos se enfrían, acaban congelándose y formando <term>sólidos cristalinos</term>, es decir, sólidos en los que los átomos, iones o moléculas están dispuestos en un patrón repetitivo definido. También es posible que un líquido se congele antes de que sus moléculas se ordenen. Los materiales resultantes se denominan <term>sólidos amorfos</term> o sólidos no cristalinos (o, a veces, vidrios). Las partículas de estos sólidos carecen de una estructura interna ordenada y están dispuestas al azar (<link target-id="CNX_Chem_10_05_TypesSol"/>).</para>
+<figure id="CNX_Chem_10_05_TypesSol" class="scaled-down">
+<media id="fs-idp38645936" alt="Se muestran dos imágenes marcadas, de izquierda a derecha, como &quot;Cristalino&quot; y &quot;Amorfo&quot;. El diagrama cristalino muestra muchos círculos dibujados en filas y apilados fuertemente. El diagrama amorfo muestra muchos círculos ligeramente separados y sin un patrón organizado.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_05_TypesSol.jpg"/>
+</media>
+<caption>Las entidades de una fase sólida pueden estar dispuestas en un patrón regular y repetitivo (sólidos cristalinos) o al azar (amorfos).</caption>
+</figure>
+<para id="fs-idm43294048">Los metales y los compuestos iónicos suelen formar sólidos ordenados y cristalinos. Las sustancias compuestas por moléculas grandes, o por una mezcla de moléculas cuyos movimientos son más restringidos, suelen formar sólidos amorfos. Por ejemplo, las ceras para velas son sólidos amorfos compuestos por grandes moléculas de hidrocarburos. Algunas sustancias, como el dióxido de silicio (que se muestra en la <link target-id="CNX_Chem_10_05_BoronOxide"/>), pueden formar sólidos cristalinos o amorfos, dependiendo de las condiciones en las que se produzca. Además, los sólidos amorfos pueden experimentar una transición al estado cristalino en condiciones adecuadas.</para><figure id="CNX_Chem_10_05_BoronOxide" class="scaled-down"><media id="fs-idp143208400" alt="Se muestran dos conjuntos de moléculas. El primer conjunto de moléculas contiene cinco anillos hexagonales idénticos compuestos por esferas rojas y marrones alternas unidas con enlaces simples entre sí y con esferas rojas que se extienden hacia afuera desde cada esfera marrón. El segundo conjunto de moléculas muestra cuatro anillos con doce lados cada uno, unidos entre sí. Cada anillo se compone de esferas rojas y marrones alternadas, unidas con enlaces simples y con una esfera roja que sale de cada esfera marrón.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_05_BoronOxide.jpg"/>
+</media>
+
+<caption>(a) El dióxido de silicio, SiO<sub>2</sub>, abunda en la naturaleza como una de las diversas formas cristalinas del mineral cuarzo. (b) El enfriamiento rápido del SiO<sub>2</sub> fundido da lugar a un sólido amorfo conocido como "sílice fundida".</caption></figure><para id="fs-idp94426432">Los sólidos cristalinos se clasifican generalmente según la naturaleza de las fuerzas que mantienen unidas sus partículas. Estas fuerzas son las principales responsables de las propiedades físicas que presentan los sólidos. En los siguientes apartados se describen los principales tipos de sólidos cristalinos: iónicos, metálicos, de red covalente y moleculares.</para><section id="fs-idp89902960">
+<title>Sólidos iónicos</title>
+<para id="fs-idp61138560"><term>Los sólidos iónicos</term>, como el cloruro de sodio y el óxido de níquel, están compuestos por iones positivos y negativos que se mantienen unidos por atracciones electrostáticas, que pueden ser bastante fuertes (<link target-id="CNX_Chem_10_05_IonicSolid"/>). Muchos cristales iónicos también tienen puntos de fusión elevados. Esto se debe a las fuertes atracciones entre los iones: en los compuestos iónicos, las atracciones entre las cargas completas son (mucho) mayores que las de las cargas parciales en los compuestos moleculares polares. Esto se verá con más detalle en un análisis sobre las energías de la red. Aunque son duros, también tienden a ser frágiles, y se rompen en lugar de doblarse. Los sólidos iónicos no conducen la electricidad; sin embargo, sí lo hacen cuando están fundidos o disueltos porque sus iones se mueven libremente. Muchos compuestos simples formados por la reacción de un elemento metálico con un elemento no metálico son iónicos.</para>
+<figure id="CNX_Chem_10_05_IonicSolid" class="scaled-down">
+<media id="fs-idp147302624" alt="Esta figura muestra grandes esferas púrpuras unidas a otras más pequeñas de color verde en un patrón alternativo. Las esferas están dispuestas en un cubo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_05_IonicSolid.jpg"/>
+</media>
+<caption>El cloruro de sodio es un sólido iónico.</caption>
+</figure>
+</section>
+<section id="fs-idp29672304">
+<title>Sólidos metálicos</title>
+<para id="fs-idp89753840">Los<term>sólidos metálicos</term>, como los cristales de cobre, aluminio y hierro, están formados por átomos de metal (<link target-id="CNX_Chem_10_05_Metallic"/>). La estructura de los cristales metálicos suele describirse como una distribución uniforme de núcleos atómicos dentro de un "mar" de electrones deslocalizados. Los átomos de un sólido metálico se mantienen unidos por una fuerza única conocida como <emphasis effect="italics">enlace metálico</emphasis>, que da lugar a muchas propiedades útiles y variadas. Todos presentan una alta conductividad térmica y eléctrica, brillo metálico y maleabilidad. Muchos son muy duros y bastante fuertes. Debido a su maleabilidad (la capacidad de deformarse bajo presión o martilleo), no se rompen y, por tanto, son materiales de construcción útiles. Los puntos de fusión de los metales varían mucho. El mercurio es líquido a temperatura ambiente, y los metales alcalinos se funden por debajo de los 200 °C. Varios metales posteriores a la transición también tienen puntos de fusión bajos, mientras que los metales de transición se funden a temperaturas superiores a los 1000 °C. Estas diferencias reflejan las diferencias en la fuerza de los enlaces metálicos entre los metales.</para>
+<figure id="CNX_Chem_10_05_Metallic" class="scaled-down">
+<media id="fs-idp25271680" alt="Esta figura muestra grandes esferas marrones dispuestas en un cubo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_05_Metallic.jpg"/>
+</media>
+<caption>El cobre es un sólido metálico.</caption>
+</figure>
+</section>
+<section id="fs-idm43717504">
+<title>Sólido de red covalente</title>
+<para id="fs-idm59353248">Los<term>sólidos de red covalentes</term> incluyen cristales de diamante, silicio, algunos otros no metales y algunos compuestos covalentes como el dióxido de silicio (arena) y el carburo de silicio (carborundo, el abrasivo del papel de lija). Muchos minerales tienen redes de enlaces covalentes. Los átomos de estos sólidos se mantienen unidos por una red de enlaces covalentes, como se muestra en la <link target-id="CNX_Chem_10_05_NtwrkSolid"/>. Para romper o fundir un sólido de red covalente, hay que romper los enlaces covalentes. Dado que los enlaces covalentes son relativamente fuertes, los sólidos de red covalente se caracterizan normalmente por su dureza, resistencia y altos puntos de fusión. Por ejemplo, el diamante es una de las sustancias más duras que se conocen y se funde por encima de los 3500 °C.</para>
+<figure id="CNX_Chem_10_05_NtwrkSolid">
+<media id="fs-idm63258736" alt="Se muestran cuatro pares de imágenes. En el primer par, una caja cuadrada que contiene un átomo negro unido a otros cuatro átomos negros se muestra sobre una estructura compuesta por muchos átomos negros, cada uno de ellos unido a otros cuatro átomos negros, donde uno de los átomos superiores se marca como &quot;carbono&quot; y toda la estructura se marca como &quot;diamante&quot;. En el segundo par, una caja cuadrada que contiene un átomo blanco unido a cuatro átomos rojos se muestra encima de una estructura compuesta por muchos átomos blancos, cada uno de ellos unido a cuatro átomos rojos, donde uno de los átomos rojos está marcado como &quot;oxígeno&quot; y uno de los blancos como &quot;silicio&quot;. Toda la estructura está marcada como &quot;dióxido de silicio&quot;. En el tercer par, una caja cuadrada que contiene un átomo azul unido a cuatro átomos blancos se muestra encima de una estructura compuesta por muchos átomos azules, cada uno de ellos unido a cuatro átomos blancos, donde uno de los átomos azules está marcado como &quot;carbono&quot; y uno de los átomos blancos como &quot;silicio&quot;. Toda la estructura está marcada como &quot;carburo de silicio&quot;. En el cuarto par, una caja cuadrada que contiene seis átomos negros unidos en un anillo se muestra encima de una estructura compuesta por muchos anillos, dispuestos en láminas superpuestas, donde uno de los átomos negros está marcado como &quot;carbono&quot;. Toda la estructura está marcada como &quot;grafito&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_05_NtwrkSolid.jpg"/>
+</media>
+<caption>Un cristal covalente contiene una red tridimensional de enlaces covalentes, como ilustran las estructuras del diamante, el dióxido de silicio, el carburo de silicio y el grafito. El grafito es un ejemplo excepcional, compuesto por láminas planas de cristales covalentes que se mantienen unidos en capas por fuerzas no covalentes. A diferencia de los típicos sólidos covalentes, el grafito es muy blando y conductor de la electricidad.</caption>
+</figure>
+</section>
+<section id="fs-idm12346784">
+<title>Sólido Molecular</title>
+<para id="fs-idm41841264">Los<term>sólidos moleculares</term>, como el hielo, la sacarosa (azúcar de mesa) y el yodo, como se muestra en la <link target-id="CNX_Chem_10_05_MolSolids"/>, están compuestos por moléculas neutras. La intensidad de las fuerzas de atracción entre las unidades presentes en los distintos cristales varía mucho, como indican los puntos de fusión de los cristales. Las pequeñas moléculas simétricas (moléculas no polares), como el H<sub>2</sub>, el N<sub>2</sub>, el O<sub>2</sub> y el F<sub>2</sub>, tienen fuerzas de atracción débiles y forman sólidos moleculares con puntos de fusión muy bajos (por debajo de −200 °C). Las sustancias formadas por moléculas más grandes y no polares tienen fuerzas de atracción mayores y se funden a temperaturas más altas. Los sólidos moleculares compuestos por moléculas con momentos dipolares permanentes (moléculas polares) se funden a temperaturas aún más altas. Algunos ejemplos son el hielo (punto de fusión, 0 °C) y el azúcar de mesa (punto de fusión, 185 °C).</para>
+<figure id="CNX_Chem_10_05_MolSolids" class="scaled-down">
+<media id="fs-idp152449872" alt="Se muestran dos imágenes marcadas como &quot;dióxido de carbono&quot; y &quot;yodo&quot;. La estructura del dióxido de carbono está compuesta por moléculas, cada una de ellas formada por un átomo gris y dos rojos, apiladas en un cubo. La imagen del yodo muestra pares de átomos de color púrpura dispuestos cerca unos de otros, pero sin tocarse.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_05_MolSolids.jpg"/>
+</media>
+<caption>El dióxido de carbono (CO<sub>2</sub>) está formado por moléculas pequeñas y no polares y forma un sólido molecular con un punto de fusión de −78 °C. El yodo (I<sub>2</sub>) está formado por moléculas más grandes y no polares y forma un sólido molecular que se funde a 114 °C.</caption>
+</figure>
+</section>
+<section id="fs-idm126346448">
+<title>Propiedades de los sólidos</title>
+<para id="fs-idp69161920">Un sólido cristalino, como los enumerados en la <link target-id="fs-idp121853232"/>, tiene una temperatura de fusión precisa porque cada átomo o molécula del mismo tipo se mantiene en su lugar con las mismas fuerzas o energía. Así, las atracciones entre las unidades que componen el cristal tienen todas la misma fuerza y todas requieren la misma cantidad de energía para romperse. El reblandecimiento gradual de un material amorfo difiere drásticamente de la fusión clara de un sólido cristalino. Esto se debe a la falta de equivalencia estructural de las moléculas en el sólido amorfo. Algunas fuerzas son más débiles que otras, y cuando un material amorfo se calienta, las atracciones intermoleculares más débiles se rompen primero. A medida que aumenta la temperatura, se rompen las atracciones más fuertes. Así, los materiales amorfos se ablandan en un rango de temperaturas.</para>
+<table id="fs-idp121853232" class="top-titled" summary="Esta tabla tiene cinco filas y cinco columnas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Tipo de sólido&quot;, &quot;Tipo de partículas&quot;, &quot;Tipo de atracciones&quot;, &quot;Propiedades&quot; y &quot;Ejemplos&quot;. En la columna &quot;Tipo de sólido&quot; se encuentra lo siguiente: iónico, metálico, red covalente y molecular. En la columna &quot;Tipo de partículas&quot; se encuentra lo siguiente: iones, átomos de elementos electropositivos, átomos de elementos electronegativos y moléculas ( o átomos ). En la columna &quot;Tipo de atracciones&quot; se encuentra lo siguiente: enlaces iónicos, enlaces metálicos, enlaces covalentes, I M F s. En la columna &quot;Propiedades&quot; se encuentra lo siguiente: duro, frágil, conduce la electricidad como un líquido pero no como un sólido, puntos de fusión de altos a muy altos; brillante, maleable, dúctil, conduce bien el calor y la electricidad, dureza y temperatura de fusión variables; muy duro, no conductor, puntos de fusión muy altos; dureza variable, fragilidad variable, no conductor, puntos de fusión bajos. En la columna Ejemplos&quot; se encuentra lo siguiente: N a C l, A l subíndice 2 O subíndice 3, C u, F e, T I, P b, U; C (diamante), S I O subíndice 2, S i C; H subíndice 2 O, C O subíndice 2, I subíndice 2, C subíndice 12 H subíndice 22 O subíndice 11.">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead valign="middle">
+<row valign="middle">
+<entry namest="c1" nameend="c5" align="center">Tipos de sólidos cristalinos y sus propiedades</entry>
+</row>
+<row valign="middle">
+<entry align="left">Tipo de sólido</entry>
+<entry align="left">Tipo de partículas</entry>
+<entry align="left">Tipo de atracciones</entry>
+<entry align="left">Propiedades</entry>
+<entry align="left">Ejemplos</entry>
+</row>
+</thead>
+<tbody valign="middle">
+<row valign="middle">
+<entry align="left">iónico</entry>
+<entry align="left">iones</entry>
+<entry align="left">enlaces iónicos</entry>
+<entry align="left">duro, quebradizo, conduce la electricidad como un líquido pero no como un sólido, puntos de fusión de altos a muy altos</entry>
+<entry align="left">NaCl, Al<sub>2</sub>O<sub>3</sub></entry>
+</row>
+<row valign="middle">
+<entry align="left">metálico</entry>
+<entry align="left">átomos de elementos electropositivos</entry>
+<entry align="left">enlaces metálicos</entry>
+<entry align="left">brillante, maleable, dúctil, conduce bien el calor y la electricidad, dureza y temperatura de fusión variables</entry>
+<entry align="left">Cu, Fe, Ti, Pb, U</entry>
+</row>
+<row valign="middle">
+<entry align="left">red covalente</entry>
+<entry align="left">átomos de elementos electronegativos</entry>
+<entry align="left">enlaces covalentes</entry>
+<entry align="left">muy duro, no conductor, puntos de fusión muy altos</entry>
+<entry align="left">C (diamante), SiO<sub>2</sub>, SiC</entry>
+</row>
+<row valign="middle">
+<entry align="left">molecular</entry>
+<entry align="left">moléculas (o átomos)</entry>
+<entry align="left">IMF</entry>
+<entry align="left">dureza variable, fragilidad variable, no conductor, puntos de fusión bajos</entry>
+<entry align="left">H<sub>2</sub>O, CO<sub>2</sub>, I<sub>2</sub>, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idp29074784" class="chemistry sciences-interconnect">
+<title>El grafeno: material del futuro</title>
+<para id="fs-idm75890720">El carbono es un elemento esencial en nuestro mundo. Las propiedades únicas de los átomos de carbono permiten la existencia de formas de vida con base en el carbono, como nosotros. El carbono forma una enorme variedad de sustancias que utilizamos a diario, entre ellas las que se muestran en la <link target-id="CNX_Chem_10_05_Carbon"/>. Quizá conozca el diamante y el grafito, los dos <emphasis effect="italics">alótropos</emphasis> más comunes del carbono. (Los alótropos son formas estructurales diferentes de un mismo elemento). El diamante es una de las sustancias más duras que se conocen, mientras que el grafito es lo suficientemente blando como para ser utilizado como mina de lápiz. Estas propiedades tan diferentes se deben a las distintas disposiciones de los átomos de carbono en los distintos alótropos.</para>
+<figure id="CNX_Chem_10_05_Carbon">
+<media id="fs-idp76108928" alt="Se muestran tres pares de imágenes, cada una compuesta por una foto y un diagrama. En el primer par, la foto muestra un primer plano de un cristal incoloro y multifacético y el diagrama muestra muchas esferas grises unidas en una estructura similar a una red. La leyenda debajo de este par dice &quot;diamante&quot;. En el segundo par, la foto muestra un sólido gris oscuro de textura rugosa, mientras que la imagen muestra cuatro láminas horizontales, compuestas por esferas negras entrelazadas, superpuestas. Este par tiene una leyenda que dice &quot;grafito&quot;. El tercer par muestra una foto de doce hexágonos negros sobre un fondo amarillo en la que dos de esos hexágonos están rodeados por un borde gris y la leyenda &quot;1,4 veces 10, superíndice negativo 10, m, Distancia entre centros de átomos&quot; y una imagen de muchos hexágonos negros dispuestos uniformemente sobre un fondo amarillo. La leyenda debajo de este par de imágenes dice &quot;Superficie de grafito&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_05_Carbon.jpg"/>
+</media>
+<caption>El diamante es extremadamente duro debido a la fuerte unión entre los átomos de carbono en todas las direcciones. El grafito (en la mina del lápiz) se desprende del papel debido a las débiles atracciones entre las capas de carbono. Una imagen de una superficie de grafito muestra la distancia entre los centros de los átomos de carbono adyacentes. (Crédito de la foto de la izquierda: modificación del trabajo de Steve Jurvetson; crédito de la foto del medio: modificación del trabajo del Servicio Geológico de los Estados Unidos).</caption>
+</figure>
+<para id="fs-idp141658128">Es posible que esté menos familiarizado con una forma de carbono descubierta recientemente: el grafeno. El grafeno se aisló por primera vez en 2004 utilizando cinta adhesiva para desprender capas cada vez más finas del grafito. Se trata esencialmente de una sola hoja (de un átomo de espesor) de grafito. El grafeno, que se ilustra en la <link target-id="CNX_Chem_10_05_Graphene"/>, no solo es fuerte y ligero, sino que también es un excelente conductor de la electricidad y el calor. Estas propiedades pueden resultar muy útiles en una amplia gama de aplicaciones, como chips y circuitos informáticos enormemente mejorados, mejores baterías y celdas solares, y materiales estructurales más fuertes y ligeros. El Premio Nobel de Física 2010 fue concedido a Andre <term class="no-emphasis">Geim</term> y Konstantin <term class="no-emphasis">Novoselov</term> por sus trabajos pioneros con el grafeno.</para>
+<figure id="CNX_Chem_10_05_Graphene">
+<media id="fs-idp125807232" alt="Se muestran cuatro imágenes. En la imagen superior, marcada como &quot;hoja de grafeno&quot;, se dibuja una caja alrededor de una hoja de anillos hexagonales interconectados. En la imagen inferior izquierda, una esfera está compuesta por anillos hexagonales unidos entre sí y está marcada como &quot;Buckyball&quot; (forma de balón de fútbol). En la imagen inferior del medio, se muestra un tubo compuesto por muchos anillos hexagonales unidos entre sí y marcado como &quot;Nanotubo&quot;. En la imagen inferior derecha, se muestran cuatro láminas horizontales compuestas por anillos hexagonales unidos y marcadas como &quot;láminas apiladas&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_05_Graphene.jpg"/>
+</media>
+<caption>Las láminas de grafeno pueden formarse en buckyballs, nanotubos y capas apiladas.</caption>
+</figure>
+</note>
+</section>
+<section id="fs-idm64089200">
+<title>Defectos de los cristales</title>
+<para id="fs-idm62566768">En un sólido cristalino, los átomos, iones o moléculas están dispuestos en un patrón repetitivo definido, pero pueden producirse defectos ocasionales en el patrón. Se conocen varios tipos de defectos, como se ilustra en la <link target-id="CNX_Chem_10_05_CrystDfcts"/>. <term>Las vacantes</term> son defectos que se producen cuando las posiciones que deberían contener átomos o iones están vacantes. Con menor frecuencia, algunos átomos o iones de un cristal pueden ocupar posiciones, llamadas <term>espacios intersticiales</term>, situadas entre las posiciones regulares de los átomos. Otras distorsiones se encuentran en los cristales impuros, como, por ejemplo, cuando los cationes, aniones o moléculas de la impureza son demasiado grandes para encajar en las posiciones regulares sin distorsionar la estructura. A veces se añaden trazas de impurezas a un cristal (un proceso conocido como <emphasis effect="italics">dopaje)</emphasis> para crear defectos en la estructura que produzcan cambios deseables en sus propiedades. Por ejemplo, los cristales de silicio se dopan con cantidades variables de diferentes elementos para obtener propiedades eléctricas adecuadas para su uso en la fabricación de semiconductores y chips de ordenador.</para>
+<figure id="CNX_Chem_10_05_CrystDfcts" class="scaled-down">
+<media id="fs-idp137961072" alt="Se muestra un diagrama en el que ciento cuarenta y cuatro esferas están dispuestas en un cuadrado de doce por doce. Un hueco en el cuadrado se marca como &quot;Vacancia&quot;, mientras que una esfera de color diferente a todas las demás se marca como &quot;Impureza intersticial&quot;. La esquina superior derecha del cuadrado está perturbada y tiene insertada una esfera más grande que está marcada como &quot;Átomo de impureza de sustitución&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_05_CrystDfcts.jpg"/>
+</media>
+<caption>Los tipos de defectos del cristal incluyen vacantes, átomos intersticiales e impurezas de sustitución.</caption>
+</figure>
+</section>
+<section id="fs-idp41417328" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp156889184">Algunas sustancias forman sólidos cristalinos compuestos por partículas con una estructura muy organizada; otras forman sólidos amorfos (no cristalinos) con una estructura interna no ordenada. Los principales tipos de sólidos cristalinos son los sólidos iónicos, los metálicos, los de red covalente y los moleculares. Las propiedades de los distintos tipos de sólidos cristalinos se deben a los tipos de partículas que los componen, a la disposición de las partículas y a la fuerza de las atracciones entre ellas. Debido a que sus partículas experimentan atracciones idénticas, los sólidos cristalinos tienen temperaturas de fusión distintas; las partículas de los sólidos amorfos experimentan una serie de interacciones, por lo que se ablandan gradualmente y se funden en un rango de temperaturas. Algunos sólidos cristalinos tienen defectos en el patrón de repetición definido de sus partículas. Estos defectos (que incluyen vacantes, átomos o iones que no están en las posiciones regulares, e impurezas) cambian las propiedades físicas, como la conductividad eléctrica, que se aprovecha en los cristales de silicio utilizados para fabricar chips de ordenador.</para>
+</section>
+<section id="fs-idm10815344" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idp61090560">
+<problem id="fs-idp64694704">
+<para id="fs-idp41745840">¿Qué tipos de líquidos suelen formar sólidos amorfos?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm10952384">
+<problem id="fs-idm84592880">
+<para id="fs-idp27916784">A temperaturas muy bajas, el oxígeno, O<sub>2</sub>, se congela y forma un sólido cristalino. ¿Cómo se describe mejor estos cristales?</para>
+<para id="fs-idp121435344">(a) iónico</para>
+<para id="fs-idp141177968">b) red covalente</para>
+<para id="fs-idm20552832">c) metálico</para>
+<para id="fs-idm65714160">(d) amorfo</para>
+<para id="fs-idp33654208">e) cristales moleculares</para>
+</problem>
+<solution id="fs-idm51600944">
+<para id="fs-idm122833776">e) cristales moleculares</para>
+</solution>
+</exercise>
+<exercise id="fs-idp95742064">
+<problem id="fs-idp41851392">
+<para id="fs-idp139486336">Al enfriarse, el aceite de oliva se solidifica lentamente y forma un sólido en un rango de temperaturas. ¿Cómo se describe mejor el sólido?</para>
+<para id="fs-idp151758928">(a) iónico</para>
+<para id="fs-idm67931264">b) red covalente</para>
+<para id="fs-idm37852016">c) metálico</para>
+<para id="fs-idp60983504">(d) amorfo</para>
+<para id="fs-idm39069808">e) cristales moleculares</para>
+</problem>
+</exercise>
+<exercise id="fs-idp91522240">
+<problem id="fs-idm94419200">
+<para id="fs-idp75942032">Explique por qué el hielo, que es un sólido cristalino, tiene una temperatura de fusión de 0 °C, mientras que la mantequilla, que es un sólido amorfo, se ablanda en un rango de temperaturas.</para>
+</problem>
+<solution id="fs-idm138844688">
+<para id="fs-idm74685056">El hielo tiene una estructura cristalina estabilizada por enlaces de hidrógeno. Estas fuerzas intermoleculares tienen una fuerza comparable y, por tanto, requieren la misma cantidad de energía para ser superadas. En consecuencia, el hielo se funde a una sola temperatura y no en un rango de temperaturas. Las distintas moléculas de gran tamaño que componen la mantequilla experimentan diversas atracciones de Van der Waals de distinta fuerza que se superan a distintas temperaturas, por lo que el proceso de fusión se produce en un amplio rango de temperaturas.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm41685552">
+<problem id="fs-idm90302992">
+<para id="fs-idm40698816">Identifique el tipo de sólido cristalino (metálico, covalente de red, iónico o molecular) formado por cada una de las siguientes sustancias:</para>
+<para id="fs-idm74815568">(a) SiO<sub>2</sub></para>
+<para id="fs-idp22967904">(b) KCl</para>
+<para id="fs-idp16397792">(c) Cu</para>
+<para id="fs-idm104303120">(d) CO<sub>2</sub></para>
+<para id="fs-idm2801856">(e) C (diamante)</para>
+<para id="fs-idm82184496">(f) BaSO<sub>4</sub></para>
+<para id="fs-idm20239552">(g) NH<sub>3</sub></para>
+<para id="fs-idp144741184">(h) NH<sub>4</sub>F</para>
+<para id="fs-idm73664720">(i) C<sub>2</sub>H<sub>5</sub>OH</para>
+</problem>
+</exercise>
+<exercise id="fs-idp150351456">
+<problem id="fs-idm88545776">
+<para id="fs-idm56158384">Identifique el tipo de sólido cristalino (metálico, covalente de red, iónico o molecular) que cada una de las siguientes sustancias forma:</para>
+<para id="fs-idp76027056">(a) CaCl<sub>2</sub></para>
+<para id="fs-idp148583904">(b) SiC</para>
+<para id="fs-idp38742432">(c) N<sub>2</sub></para>
+<para id="fs-idp141096640">(d) Fe</para>
+<para id="fs-idp54719776">(e) C (grafito)</para>
+<para id="fs-idp39812928">(f) CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></para>
+<para id="fs-idp60374400">(g) HCl</para>
+<para id="fs-idm128937696">(h) NH<sub>4</sub>NO<sub>3</sub></para>
+<para id="fs-idm64156272">(i) K<sub>3</sub>PO<sub>4</sub></para>
+</problem>
+<solution id="fs-idm45182192">
+<para id="fs-idp151661632">(a) iónico; (b) red covalente; (c) molecular; (d) metálico; (e) red covalente; (f) molecular; (g) molecular; (h) iónico; (i) iónico</para>
+</solution>
+</exercise>
+<exercise id="fs-idm128882560">
+<problem id="fs-idp61136928">
+<para id="fs-idp69181888">Clasifique cada sustancia de la tabla como sólido metálico, iónico, molecular o de red covalente:<newline/>
+<table id="fs-idm7525216" class="unnumbered" summary="Esta tabla tiene cuatro filas y cinco columnas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Sustancia&quot;, &quot;Aspecto&quot;, &quot;Punto de fusión&quot;, &quot;Conductividad eléctrica&quot; y &quot;Solubilidad en agua&quot;. En la columna &quot;Sustancia&quot; se encuentra lo siguiente: X, Y y Z. Bajo la columna &quot;Aspecto&quot; se encuentra lo siguiente: lustroso, maleable; blando, amarillo; duro, blanco. En la columna &quot;Punto de fusión&quot; se encuentra lo siguiente: 1500 grados C, 113 grados C, y 800 grados C. Bajo la columna &quot;Conductividad eléctrica&quot; se encuentra lo siguiente: alta; ninguna; solo si se derrite / disuelve. En la columna &quot;Solubilidad en agua&quot; se encuentra lo siguiente: insoluble, insoluble y soluble.">
+<label/>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry align="left">Sustancia</entry>
+<entry align="left">Apariencia</entry>
+<entry align="left">Punto de fusión</entry>
+<entry align="left">Conductividad eléctrica</entry>
+<entry align="left">Solubilidad en agua</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">X</entry>
+<entry align="left">brillante, maleable</entry>
+<entry align="left">1500 °C</entry>
+<entry align="left">alto</entry>
+<entry align="left">insoluble</entry>
+</row>
+<row valign="top">
+<entry align="left">Y</entry>
+<entry align="left">suave, amarillo</entry>
+<entry align="left">113 °C</entry>
+<entry align="left">ninguno</entry>
+<entry align="left">insoluble</entry>
+</row>
+<row valign="top">
+<entry align="left">Z</entry>
+<entry align="left">duro, blanco</entry>
+<entry align="left">800 °C</entry>
+<entry align="left">solo si se funde/se disuelve</entry>
+<entry align="left">soluble</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-idm39063008">
+<problem id="fs-idm134639376">
+<para id="fs-idm77899792">Clasifique cada sustancia de la tabla como sólido metálico, iónico, molecular o de red covalente:<newline/>
+<table id="fs-idp139392608" class="unnumbered" summary="Esta tabla tiene cuatro filas y cinco columnas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Sustancia&quot;, &quot;Aspecto&quot;, &quot;Punto de fusión&quot;, &quot;Conductividad eléctrica&quot; y &quot;Solubilidad en agua&quot;. En la columna &quot;Sustancia&quot; se encuentra lo siguiente: X, Y, y Z. En la columna &quot;Aspecto&quot; se encuentra lo siguiente: frágil, blanco; brillante, maleable; duro, incoloro. En la columna &quot;Punto de fusión&quot; se encuentra lo siguiente: 800 grados C, 1100 grados C y 3550 grados C. En la columna &quot;Conductividad eléctrica&quot; se encuentra lo siguiente: solo si se derrite / disuelve, alta y ninguna. Bajo la columna &quot;Solubilidad en agua&quot; se encuentra lo siguiente: soluble, insoluble e insoluble.">
+<label/>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry align="left">Sustancia</entry>
+<entry align="left">Apariencia</entry>
+<entry align="left">Punto de fusión</entry>
+<entry align="left">Conductividad eléctrica</entry>
+<entry align="left">Solubilidad en agua</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">X</entry>
+<entry align="left">frágil, blanco</entry>
+<entry align="left">800 °C</entry>
+<entry align="left">solo si se funde/se disuelve</entry>
+<entry align="left">soluble</entry>
+</row>
+<row valign="top">
+<entry align="left">Y</entry>
+<entry align="left">brillante, maleable</entry>
+<entry align="left">1100 °C</entry>
+<entry align="left">alto</entry>
+<entry align="left">insoluble</entry>
+</row>
+<row valign="top">
+<entry align="left">Z</entry>
+<entry align="left">duro, incoloro</entry>
+<entry align="left">3550 °C</entry>
+<entry align="left">ninguno</entry>
+<entry align="left">insoluble</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+</problem>
+<solution id="fs-idm12335424">
+<para id="fs-idm45120288">X = iónico; Y = metálico; Z = red covalente</para>
+</solution>
+</exercise>
+<exercise id="fs-idm126229856">
+<problem id="fs-idm13217728">
+<para id="fs-idp141786208">Identifique las siguientes sustancias como sólidos iónicos, metálicos, de red covalente o moleculares:</para>
+<para id="fs-idm57155520">La sustancia A es maleable, dúctil, conduce bien la electricidad y tiene un punto de fusión de 1135 °C. La sustancia B es frágil, no conduce la electricidad como sólido pero sí cuando está fundido y tiene un punto de fusión de 2072 °C. La sustancia C es muy dura, no conduce la electricidad y tiene un punto de fusión de 3440 °C. La sustancia D es blanda, no conduce la electricidad y tiene un punto de fusión de 185 °C.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp33413008">
+<problem id="fs-idp72732112">
+<para id="fs-idm12905728">La sustancia A es brillante, conduce bien la electricidad y se funde a 975 °C. La sustancia A es probablemente a(n):</para>
+<para id="fs-idp126078592">(a) sólido iónico</para>
+<para id="fs-idm108613504">b) sólido metálico</para>
+<para id="fs-idm61807376">c) sólido molecular</para>
+<para id="fs-idm65086880">d) sólido de red covalente</para>
+</problem>
+<solution id="fs-idp38257328">
+<para id="fs-idm61682352">b) sólido metálico</para>
+</solution>
+</exercise>
+<exercise id="fs-idp12717008">
+<problem id="fs-idm31052256">
+<para id="fs-idm128907040">La sustancia B es dura, no conduce la electricidad y se funde a 1200 °C. La sustancia B es probablemente a(n):</para>
+<para id="fs-idm88036208">(a) sólido iónico</para>
+<para id="fs-idm133001760">b) sólido metálico</para>
+<para id="fs-idm142545632">c) sólido molecular</para>
+<para id="fs-idp133832976">d) sólido de red covalente</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm63193280">
+<term>sólido amorfo</term>
+<meaning id="fs-idp42698240">(también, sólido no cristalino) sólido en el que las partículas carecen de una estructura interna ordenada.</meaning>
+</definition>
+<definition id="fs-idp42521392">
+<term>sólido de red covalente</term>
+<meaning id="fs-idp78782928">sólido cuyas partículas se mantienen unidas por enlaces covalentes.</meaning>
+</definition>
+<definition id="fs-idp141680624">
+<term>sólido cristalino</term>
+<meaning id="fs-idp41646432">sólido en el que las partículas están dispuestas en un patrón repetitivo definido.</meaning>
+</definition>
+<definition id="fs-idm134621184">
+<term>espacios intersticiales</term>
+<meaning id="fs-idm61420144">espacios entre las posiciones regulares de las partículas en cualquier conjunto de átomos o iones.</meaning>
+</definition>
+<definition id="fs-idm37301360">
+<term>sólido iónico</term>
+<meaning id="fs-idm74810816">sólido compuesto por iones positivos y negativos que se mantienen unidos por fuertes atracciones electrostáticas.</meaning>
+</definition>
+<definition id="fs-idm21108640">
+<term>sólido metálico</term>
+<meaning id="fs-idm62450064">sólido compuesto por átomos de metal.</meaning>
+</definition>
+<definition id="fs-idp66006736">
+<term>sólido molecular</term>
+<meaning id="fs-idp45461232">sólido compuesto por moléculas neutras unidas por fuerzas de atracción intermoleculares.</meaning>
+</definition>
+<definition id="fs-idm37032656">
+<term>vacancia</term>
+<meaning id="fs-idm57335504">defecto que se produce cuando una posición que debería contener un átomo o un ion está vacía.</meaning>
+</definition>
+</glossary>
+</document>

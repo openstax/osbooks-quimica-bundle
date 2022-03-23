@@ -1,0 +1,613 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Símbolos y estructuras de Lewis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68739</md:content-id>
+  <md:title>Símbolos y estructuras de Lewis</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list><item>Escribir los símbolos de Lewis para los átomos e iones neutros.</item>
+<item>Dibujar estructuras de Lewis que representen el enlace en moléculas sencillas.</item></list></md:abstract>
+  <md:uuid>5b667ac9-afd2-4a51-b96b-9a86d58beef7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm38786224">Hasta ahora, en este capítulo, hemos hablado de los distintos tipos de enlaces que se forman entre átomos o iones. En todos los casos, estos enlaces implican el intercambio o la transferencia de electrones de la capa de valencia entre los átomos. En esta sección, exploraremos el método típico para representar los electrones de la capa de valencia y los enlaces químicos, es decir, los símbolos de Lewis y las estructuras de Lewis.</para>
+<section id="fs-idp35760672">
+<title>Símbolos de Lewis</title>
+<para id="fs-idp40754368">Utilizamos los símbolos de Lewis para describir las configuraciones de los electrones de valencia de los átomos e iones monoatómicos. Un <term>símbolo de Lewis</term> consiste en un símbolo elemental rodeado de un punto por cada uno de sus electrones de valencia:</para>
+<media id="fs-idm11037728" alt="Se muestra la estructura de Lewis del calcio. A la derecha del símbolo se muestra un par solitario de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Lewisstruct1_img.jpg"/>
+</media>
+<para id="fs-idm32212144">La <link target-id="CNX_Chem_07_03_3rowLewis"/> muestra los símbolos de Lewis para los elementos del tercer periodo de la tabla periódica.</para>
+<figure id="CNX_Chem_07_03_3rowLewis">
+<media id="fs-idm66863840" alt="Se muestra una tabla con tres columnas y nueve filas. La fila de encabezado dice &quot;Átomos&quot;, &quot;Configuración electrónica&quot; y &quot;Símbolo de Lewis&quot;. La primera columna contiene las palabras &quot;sodio&quot;, &quot;magnesio&quot;, &quot;aluminio&quot;, &quot;silicio&quot;, &quot;fósforo&quot;, &quot;azufre&quot;, &quot;cloro&quot; y &quot;argón&quot;. La segunda columna contiene los símbolos y números &quot;[ N e ] 3 s superíndice 2&quot;, &quot;[ N e ] 3 s superíndice 2, 3 p superíndice 1&quot;, &quot;[ N e ] 3 s superíndice 2, 3 p superíndice 2&quot;, &quot;[ N e ] 3 s superíndice 2, 3 p superíndice 3&quot;, &quot;[ N e ] 3 s superíndice 2, 3 p superíndice 5&quot; y &quot;[ N e ] 3 s superíndice 2, 3 p superíndice 6&quot;. La tercera columna contiene estructuras de Lewis para N a con un punto, M g con dos puntos, A l con tres puntos, Si con cuatro puntos, P con cinco puntos, S con seis puntos, C l con siete puntos y A r con ocho puntos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_3rowLewis.jpg"/>
+</media>
+<caption>Símbolos de Lewis que ilustran el número de electrones de valencia de cada elemento del tercer periodo de la tabla periódica.</caption>
+</figure>
+<para id="fs-idm29891360">Los símbolos de Lewis también pueden utilizarse para ilustrar la formación de cationes a partir de átomos, como se muestra aquí para el sodio y el calcio:</para>
+<media id="fs-idm10083072" alt="Se muestran dos diagramas. El diagrama de la izquierda muestra una estructura de puntos de Lewis del sodio con un punto, luego una flecha hacia la derecha que señala el símbolo de sodio con un signo positivo en superíndice, un signo positivo y la letra &quot;e&quot; con un signo negativo en superíndice. Los términos debajo de este diagrama dicen &quot;Átomo de sodio&quot; y &quot;Catión de sodio&quot;. El diagrama de la derecha muestra una estructura de puntos de Lewis del calcio con dos puntos, luego una flecha hacia la derecha que señala el símbolo de calcio con un dos en superíndice y un signo positivo, un signo positivo y el valor &quot;2e&quot; con un signo negativo en superíndice. Los términos debajo de este diagrama dicen &quot;Átomo de calcio&quot; y &quot;Catión de calcio&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_NaCa_img.jpg"/>
+</media>
+<para id="fs-idm57024464">Asimismo, pueden utilizarse para mostrar la formación de aniones a partir de átomos, como se muestra aquí para el cloro y el azufre:</para>
+<media id="fs-idp58155376" alt="Se muestran dos diagramas. El diagrama de la izquierda muestra una estructura de puntos de Lewis del cloro con siete puntos y la letra &quot;e&quot; con un signo negativo en superíndice, y luego una flecha hacia la derecha que lleva al símbolo de cloro con ocho puntos y un signo negativo en superíndice. Los términos debajo de este diagrama dicen: &quot;Átomo de cloro&quot; y &quot;Anión de cloro&quot;. El diagrama de la derecha muestra una estructura de puntos de Lewis del azufre con seis puntos y el símbolo &quot;2e&quot; con un signo negativo en superíndice, y luego una flecha hacia la derecha que lleva a un símbolo de azufre con ocho puntos y un dos en superíndice y signo negativo. Los términos debajo de este diagrama dicen: &quot;Átomo de azufre&quot; y &quot;Anión de azufre&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_ClS_img.jpg"/>
+</media>
+<para id="fs-idm11027888">La <link target-id="CNX_Chem_07_03_IonLewis"/> demuestra el uso de los símbolos de Lewis para mostrar la transferencia de electrones durante la formación de compuestos iónicos.</para>
+<figure id="CNX_Chem_07_03_IonLewis">
+<media id="fs-idp678720" alt="Se muestra una tabla con cuatro filas. La fila del encabezado dice &quot;Metal&quot;, &quot;No metal&quot; y &quot;Compuesto iónico&quot;. La segunda fila muestra las estructuras de Lewis de una reacción. Un símbolo de sodio con un punto, un signo positivo y un símbolo de cloro con siete puntos se encuentran a la izquierda de una flecha orientada hacia la derecha. A la derecha de la flecha se dibuja un símbolo de sodio con un signo positivo en superíndice junto a un símbolo de cloro con ocho puntos entre corchetes con un signo negativo en superíndice. Uno de los puntos del átomo de C l es rojo. Los términos &quot;átomo de sodio&quot;, &quot;átomo de cloro&quot; y &quot;cloruro de sodio (ion sodio e ion cloruro)&quot; se escriben debajo de la reacción. La tercera fila muestra las estructuras de Lewis de una reacción. Un símbolo de magnesio con dos puntos rojos, un signo positivo y un símbolo de oxígeno con seis puntos se encuentran a la izquierda de una flecha orientada hacia la derecha. A la derecha de la flecha se dibuja un símbolo de magnesio con un dos en superíndice y un signo positivo junto a un símbolo de oxígeno con ocho puntos, dos de ellos rojos, entre corchetes con un dos a como superíndice y un signo negativo. Los términos &quot;átomo de magnesio&quot;, &quot;átomo de oxígeno&quot; y &quot;óxido de magnesio (ion de magnesio e ion de óxido)&quot; se escriben bajo la reacción. La cuarta fila muestra las estructuras de Lewis de una reacción. Un símbolo de calcio con dos puntos rojos, un signo positivo y un símbolo de flúor con un coeficiente de dos y siete puntos se encuentran a la izquierda de una flecha orientada hacia la derecha. A la derecha de la flecha se dibuja un símbolo de calcio con un dos en superíndice y un signo positivo, junto a un símbolo de flúor con ocho puntos, uno de ellos rojo, entre corchetes con un signo negativo en superíndice y un dos en subíndice. Los términos &quot;átomo de calcio&quot;, &quot;átomos de flúor&quot; y &quot;fluoruro de calcio (ion de calcio y dos iones de flúor)&quot; se escriben bajo la reacción.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_IonLewis.jpg"/>
+</media>
+<caption>Los cationes se forman cuando los átomos pierden electrones, representados por menos puntos de Lewis, mientras que los aniones se forman cuando los átomos ganan electrones. El número total de electrones no cambia.</caption>
+</figure>
+</section>
+<section id="fs-idm44772400">
+<title>Estructuras de Lewis</title>
+<para id="fs-idp28276192">También utilizamos los símbolos de Lewis para indicar la formación de enlaces covalentes, que se muestran en <term>las estructuras de Lewis</term>, dibujos que describen el enlace en moléculas e iones poliatómicos. Por ejemplo, cuando dos átomos de cloro forman una molécula de cloro, comparten un par de electrones:</para>
+<media id="fs-idp157847984" alt="Un diagrama de puntos de Lewis muestra una reacción. Dos símbolos de cloro, cada uno rodeado de siete puntos, están separados por un signo positivo. Los puntos del primer átomo son todos negros y los del segundo son todos rojos. La frase &quot;átomos de cloro&quot; está escrita debajo. Una flecha hacia la derecha señala dos símbolos de cloro, cada uno con seis puntos rodeando sus bordes exteriores y un par de puntos compartidos entre ellos. Uno de los puntos compartidos es negro y otro rojo. La frase &quot;molécula de cloro&quot; está escrita debajo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_C12dot_img.jpg"/>
+</media>
+<para id="fs-idm75288528">La estructura de Lewis indica que cada átomo de Cl tiene tres pares de electrones que no se utilizan en el enlace (llamados <term>pares solitarios</term>) y un par de electrones compartido (escrito entre los átomos). A veces se utiliza un guion (o línea) para indicar un par de electrones compartido:</para>
+<media id="fs-idm49101552" alt="Se muestran dos estructuras de Lewis. La estructura de la izquierda muestra dos átomos de H conectados por un enlace simple. La estructura de la derecha muestra dos átomos de C l conectados por un enlace simple y cada uno rodeado por seis puntos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Cl2dash_img.jpg"/>
+</media>
+<para id="fs-idm97531888">Un único par de electrones compartido se denomina <term>enlace simple</term>. Cada átomo de Cl interactúa con ocho electrones de valencia: los seis de los pares solitarios y los dos del enlace simple.</para>
+<section id="fs-idp113967376">
+<title>La regla del octeto</title>
+<para id="fs-idm16266560">Las otras moléculas de halógeno (F<sub>2</sub>, Br<sub>2</sub>, I<sub>2</sub>, y At<sub>2</sub>) forman enlaces como los de la molécula de cloro: un enlace simple entre átomos y tres pares solitarios de electrones por átomo. Esto permite que cada átomo de halógeno tenga una configuración electrónica de gas noble. La tendencia de los átomos del grupo principal a formar suficientes enlaces para obtener ocho electrones de valencia se conoce como la <term>regla del octeto</term>.</para>
+<para id="fs-idm45369344">El número de enlaces que puede formar un átomo puede predecirse a menudo a partir del número de electrones necesarios para alcanzar un octeto (ocho electrones de valencia); esto es especialmente cierto en el caso de los no metales del segundo periodo de la tabla periódica (C, N, O y F). Por ejemplo, cada átomo de un elemento del grupo 14 tiene cuatro electrones en su capa más externa y, por tanto, necesita cuatro electrones más para alcanzar un octeto. Estos cuatro electrones se obtiene al formar cuatro enlaces covalentes, como se ilustra aquí con el carbono en CCl<sub>4</sub> (tetracloruro de carbono) y el silicio en SiH<sub>4</sub> (silano). Como el hidrógeno solo necesita dos electrones para llenar su capa de valencia, es una excepción a la regla del octeto. Los elementos de transición y los elementos de transición internos tampoco siguen la regla del octeto:</para>
+<media id="fs-idm75466464" alt="Se muestran dos conjuntos de estructuras de puntos de Lewis. Las estructuras de la izquierda representan cinco símbolos C l en forma de cruz con ocho puntos alrededor de cada uno, la palabra &quot;o&quot; y los mismos cinco símbolos C l, conectados por cuatro enlaces simples en forma de cruz. El nombre &quot;Tetracloruro de carbono&quot; está escrito debajo de la estructura. Las estructuras de la derecha muestran un símbolo S i, rodeado de ocho puntos y cuatro símbolos H en forma de cruz. La palabra &quot;o&quot; lo separa de un símbolo S i con cuatro enlaces simples que conectan los cuatro símbolos H en forma de cruz. El nombre &quot;Silano&quot; está escrito debajo de estos diagramas." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_XY4struc_img.jpg"/>
+</media>
+<para id="fs-idm5630800">Los elementos del grupo 15, como el nitrógeno, tienen cinco electrones de valencia en el símbolo atómico de Lewis: un par solitario y tres electrones no apareados. Para obtener un octeto, estos átomos forman tres enlaces covalentes, como en el NH<sub>3</sub> (amoníaco). El oxígeno y otros átomos del grupo 16 obtienen un octeto formando dos enlaces covalentes:</para>
+<media id="fs-idp15654864" alt="Se muestran tres estructuras de Lewis marcadas como &quot;amoníaco&quot;, &quot;agua&quot; y &quot;fluoruro de hidrógeno&quot;. La estructura de la izquierda muestra un átomo de nitrógeno con un par solitario de electrones y unido a tres átomos de hidrógeno. La estructura del medio muestra un átomo de oxígeno con dos pares solitarios de electrones y dos átomos de hidrógeno con enlace simple. La estructura de la derecha muestra un solo átomo de hidrógeno unido a un solo átomo de flúor que tiene tres pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_numbonds_img.jpg"/>
+</media>
+</section>
+<section id="fs-idm81855664"><title>Enlaces dobles y triples</title><para id="fs-idp27538208">Como se mencionó anteriormente, cuando un par de átomos comparte un par de electrones, lo llamamos enlace simple. Sin embargo, un par de átomos puede necesitar compartir más de un par de electrones para conseguir el octeto necesario. Un <term>doble enlace</term> se forma cuando se comparten dos pares de electrones entre un par de átomos, como ocurre entre los átomos de carbono y oxígeno del CH<sub>2</sub>O (formaldehído) y entre los dos átomos de carbono del C<sub>2</sub>H<sub>4</sub> (etileno):</para>
+<media id="fs-idp172874320" alt="Se muestran dos pares de estructuras de Lewis. El par de estructuras de la izquierda muestra un átomo de carbono formando enlaces simples con dos átomos de hidrógeno. Hay cuatro electrones entre el átomo de C y un átomo de O. El átomo de O también tiene dos pares de puntos. La palabra &quot;o&quot; separa esta estructura del mismo diagrama, excepto que esta vez hay un doble enlace entre el átomo de C y el átomo de O. El nombre &quot;Formaldehído&quot; está escrito debajo de estas estructuras. A la derecha hay dos estructuras más. La izquierda muestra dos átomos de C con cuatro puntos entre ellos y cada uno formando enlaces simples con dos átomos de H. La palabra &quot;o&quot; se encuentra a la izquierda de la segunda estructura, que es la misma salvo que los átomos de C forman dobles enlaces entre sí. El nombre &quot;Etileno&quot; está escrito debajo de estas estructuras.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_DoubleBond_img.jpg"/>
+</media>
+<para id="fs-idp15965904">Un <term>triple enlace</term> se forma cuando un par de átomos comparten tres pares de electrones, como en el monóxido de carbono (CO) y el ion cianuro (CN<sup>–</sup>):</para>
+<media id="fs-idm111669744" alt="Se muestran dos pares de estructuras de Lewis. El par de estructuras de la izquierda muestra un átomo de C y un átomo de O con seis puntos entre ellos y un par solitario en cada uno. También se muestra la palabra &quot;o&quot; y la misma estructura con un triple enlace entre el átomo de C y el átomo de O. Debajo de esta estructura dice &quot;monóxido de carbono&quot;. El par de estructuras de la derecha muestra un átomo de C y un átomo de N con seis puntos entre ellos y un par solitario en cada uno. También se muestra la palabra &quot;o&quot; y la misma estructura con un triple enlace entre el átomo de C y el átomo de N. Debajo de esta estructura está escrito el nombre &quot;ion cianuro&quot;." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_COCN_img.jpg"/>
+</media>
+</section></section>
+<section id="fs-idm53492672">
+<title>Escribir estructuras de Lewis con la regla del octeto</title>
+<para id="fs-idm12599184">En moléculas e iones moleculares muy simples, podemos escribir las estructuras de Lewis simplemente emparejando los electrones no pareados de los átomos que las componen. Vea estos ejemplos:</para>
+<media id="fs-idm19944352" alt="Se muestran tres reacciones con diagramas de puntos de Lewis. La primera muestra un hidrógeno con un punto rojo, un signo positivo y un bromo con siete puntos, uno de ellos rojo, conectados por una flecha hacia la derecha con un hidrógeno y un bromo con un par de puntos rojos entre ellos. También hay tres pares solitarios en el bromo. La segunda reacción muestra un hidrógeno con un coeficiente de dos y un punto rojo, un signo positivo, y un átomo de azufre con seis puntos, dos de los cuales son rojos, conectados por una flecha orientada hacia la derecha a dos átomos de hidrógeno y uno de azufre. Hay dos puntos rojos entre los dos átomos de hidrógeno y el átomo de azufre. Los dos pares de estos puntos son rojos. El átomo de azufre también tiene dos pares solitarios de puntos. La tercera reacción muestra dos átomos de nitrógeno con cinco puntos cada uno, tres de los cuales son rojos, separados por un signo positivo, y conectados por una flecha hacia la derecha a dos átomos de nitrógeno con seis puntos de electrones rojos entre ellos. Cada átomo de nitrógeno también tiene un par solitario de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Unprelec_img.jpg"/>
+</media>
+<para id="fs-idm49249888">En moléculas e iones moleculares más complicados, es útil seguir el procedimiento paso a paso que se describe aquí:</para>
+<list id="fs-idp55317056" list-type="enumerated" number-style="arabic">
+<item>Determine el número total de electrones de valencia (capa externa). Para los cationes, reste un electrón por cada carga positiva. Para los aniones, añada un electrón por cada carga negativa.</item>
+<item>Dibuje una estructura de esqueleto de la molécula o del ion, disponiendo los átomos alrededor de un átomo central. (Por lo general, el elemento menos electronegativo se colocar en el centro). Conecte cada átomo al átomo central con un enlace simple (un par de electrones).</item>
+<item>Distribuya los electrones restantes como pares solitarios en los átomos terminales (excepto el hidrógeno), completando un octeto alrededor de cada átomo.</item>
+<item>Coloque todos los electrones restantes en el átomo central.</item>
+<item>Reordene los electrones de los átomos exteriores para hacer enlaces múltiples con el átomo central a fin de obtener octetos cuando sea posible.</item>
+</list>
+<para id="fs-idm19702384">Determinemos las estructuras de Lewis del SiH<sub>4</sub>, <m:math><m:mrow><m:msub><m:mtext>CHO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>- −</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> NO<sup>+</sup>, y OF<sub>2</sub> como ejemplos al seguir este procedimiento:</para>
+<list id="fs-idm8107808" list-type="enumerated" number-style="arabic">
+<item>Determine el número total de electrones de valencia (capa externa) en la molécula o el ion <list id="fs-idp47568320" list-type="bulleted" bullet-style="bullet">
+<item>En una molécula, sumamos el número de electrones de valencia de cada uno de sus átomos:<newline/>
+<equation id="fs-idm31186656" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr>
+<m:mtr><m:mtd><m:mspace width="0.8em"/><m:msub><m:mtext>SiH</m:mtext><m:mn>4</m:mn></m:msub></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mspace width="0.8em"/><m:mtext>Si: 4 electrones de valencia/átomo</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>1 átomo</m:mtext><m:mo>=</m:mo><m:mn>4</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mtext>H: 1 electrón de valencia/átomo</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>4 átomos</m:mtext><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr>
+<m:mtr><m:mtd/></m:mtr>
+<m:mtr><m:mtd><m:mspace width="16.0em"/><m:mo>=</m:mo><m:mtext>8 electrones de valencia</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+<item>En un <emphasis effect="italics">ion negativo</emphasis>, como <m:math><m:mrow><m:msub><m:mtext>CHO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>- −</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> sumamos el número de electrones de valencia de los átomos al número de cargas negativas del ion (se gana un electrón por cada carga negativa):<newline/>
+<equation id="fs-idm69212352" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mspace width="0.5em"/><m:msub><m:mtext>CHO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mtd></m:mtr><m:mtr><m:mtd><m:mspace width="0.48em"/><m:mtext>C: 4 electrones de valencia/átomo</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>1 átomo</m:mtext><m:mo>=</m:mo><m:mn>4</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mspace width="0.8em"/><m:mtext>H: 1 electrón de valencia/átomo</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>1 átomo</m:mtext><m:mo>=</m:mo><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mspace width="0.05em"/><m:mtext>O: 6 electrones de valencia/átomo</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>2 átomos</m:mtext><m:mo>=</m:mo><m:mn>12</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mspace width="6.5em"/><m:mtext>1 electrón adicional</m:mtext><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mspace width="15.50em"/><m:mo>=</m:mo><m:mtext>18 electrones de valencia</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+<item>En un <emphasis effect="italics">ion positivo</emphasis>, como el NO<sup>+</sup>, sumamos el número de electrones de valencia de los átomos del ion y luego restamos el número de cargas positivas del ion (se pierde un electrón por cada carga positiva) del número total de electrones de valencia<newline/>
+<equation id="fs-idm16450944" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mspace width="0.1em"/><m:msup><m:mtext>NO</m:mtext><m:mo>+</m:mo></m:msup></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>N: 5 electrones de valencia/átomo</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>1 átomo</m:mtext><m:mo>=</m:mo><m:mn>5</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mspace width="0.4em"/><m:mtext>O: 6 electrones de valencia/átomo</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>1 átomo</m:mtext><m:mo>=</m:mo><m:mn>6</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mspace width="0.35em"/><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mspace width="0.5em"/><m:mtext>−1 electrón (carga positiva)</m:mtext><m:mspace width="1.8em"/><m:mo>=</m:mo><m:mn>-1</m:mn></m:mrow><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mspace width="15.02em"/><m:mo>=</m:mo><m:mtext>10 electrones de valencia</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+<item>Como OF<sub>2</sub> es una molécula neutra, simplemente sumamos el número de electrones de valencia<newline/>
+<equation id="fs-idm18474448" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mspace width="0.8em"/><m:msub><m:mtext>OF</m:mtext><m:mtext>2</m:mtext></m:msub></m:mtd></m:mtr><m:mtr><m:mtd><m:mspace width="1.25em"/><m:mtext>O: 6 electrones de valencia/átomo</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>1 átomo</m:mtext><m:mo>=</m:mo><m:mn>6</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mspace width="0.1em"/><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mtext>F: 7 electrones de valencia/átomo</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>2 átomos</m:mtext><m:mo>=</m:mo><m:mn>14</m:mn></m:mrow><m:mo stretchy="true">¯</m:mo></m:munder></m:mtd></m:mtr><m:mtr><m:mtd><m:mspace width="16.28em"/><m:mo>=</m:mo><m:mtext>20 electrones de valencia</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+</list></item>
+<item>Dibuje una estructura de esqueleto de la molécula o del ion, disponiendo los átomos alrededor de un átomo central y conectando cada átomo al átomo central con un enlace simple (un par de electrones). (Note que denotamos los iones con corchetes alrededor de la estructura, indicando la carga fuera de los corchetes:)<newline/>
+<media id="fs-idm53726752" alt="Se muestran cuatro diagramas de Lewis. El primero muestra un silicio unido a cuatro átomos de hidrógeno. El segundo muestra un carbono que forma un enlace simple con un oxígeno y un hidrógeno y un doble enlace con un segundo oxígeno. Esta estructura está entre corchetes y tiene un superíndice de signo negativo cerca de la esquina superior derecha. La tercera estructura muestra un nitrógeno unido a un oxígeno y entre corchetes con un superíndice de signo positivo en la esquina superior derecha. La última estructura muestra dos átomos de flúor en enlace simple con un oxígeno central.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Singlebond_img.jpg"/>
+</media><newline/> Cuando son posibles varias disposiciones de los átomos, como en el caso de <m:math><m:mrow><m:msub><m:mtext>CHO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>- −</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> debemos utilizar las pruebas experimentales para elegir la correcta. En general, los elementos menos electronegativos tienen más probabilidades de ser átomos centrales. En <m:math><m:mrow><m:msub><m:mtext>CHO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>- −</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> el átomo de carbono menos electronegativo ocupa la posición central y lo rodean los átomos de oxígeno e hidrógeno. Otros ejemplos son el P en POCl<sub>3</sub>, el S en SO<sub>2</sub> y el Cl en <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math> Una excepción es que el hidrógeno casi nunca es un átomo central. Al ser el elemento más electronegativo, el flúor tampoco puede ser un átomo central.</item>
+<item>Distribuya los electrones restantes como pares solitarios en los átomos terminales (excepto el hidrógeno) para completar sus capas de valencia con un octeto de electrones. <list id="fs-idp233104" list-type="bulleted" bullet-style="bullet">
+<item>No hay electrones restantes en el SiH<sub>4</sub>, por lo que no se modifica:<newline/>
+<media id="fs-idm41799728" alt="Se muestran cuatro estructuras de Lewis. El primero muestra un silicio unido a cuatro átomos de hidrógeno. La segunda muestra un carbono unido a dos átomos de oxígeno que tienen tres pares solitarios cada uno y un enlace simple con un hidrógeno. Esta estructura está entre corchetes y tiene un superíndice de signo negativo cerca de la esquina superior derecha. La tercera estructura muestra un nitrógeno unido a un oxígeno, cada uno con tres pares solitarios de electrones. Esta estructura está entre corchetes con un superíndice de signo positivo en la esquina superior derecha. La última estructura muestra dos átomos de flúor, cada uno de ellos con tres pares solitarios de electrones, unidos a un oxígeno central." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_SiH4_img.jpg"/>
+</media></item></list></item>
+<item>Coloque todos los electrones restantes en el átomo central. <list id="fs-idp28108576" list-type="bulleted" bullet-style="bullet">
+<item>En SiH<sub>4</sub>, <m:math><m:mrow><m:msub><m:mrow><m:mtext>CHO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>- −</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> y NO<sup>+</sup>, no hay electrones restantes; ya colocamos todos los electrones determinados en el Paso 1.</item>
+<item>En OF<sub>2</sub>, teníamos 16 electrones restantes en el paso 3, y colocamos 12, dejando 4 para colocarlos en el átomo central:<newline/>
+<media id="fs-idp88444896" alt="Una estructura de Lewis muestra dos átomos de flúor, cada uno con tres pares solitarios de electrones, en enlace simple con un oxígeno central que tiene dos pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_oxydiflor2_img.jpg"/>
+</media></item></list></item>
+<item>Reordene los electrones de los átomos exteriores para hacer enlaces múltiples con el átomo central a fin de obtener octetos siempre que sea posible. <list id="fs-idm72332608" list-type="bulleted" bullet-style="bullet"><item>SiH<sub>4</sub>: Si ya tiene un octeto no hay que hacer nada.</item>
+<item><m:math><m:mrow><m:msub><m:mrow><m:mtext>CHO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>:</m:mo></m:mrow></m:math> Hemos distribuido los electrones de valencia como pares solitarios en los átomos de oxígeno, pero el átomo de carbono carece de octeto:<newline/>
+<media id="fs-idm35910432" alt="Se muestran dos diagramas de Lewis con la palabra &quot;da&quot; entre ellos. El diagrama de la izquierda, entre corchetes y con un superíndice de signo negativo, muestra un átomo de carbono unido a dos átomos de oxígeno, cada uno con tres pares solitarios de electrones. El átomo de carbono también forma un enlace simple con un átomo de hidrógeno. Una flecha curva señala desde un par solitario en uno de los átomos de oxígeno hasta el átomo de carbono. El diagrama de la derecha, entre corchetes y con un signo negativo en superíndice, muestra un átomo de carbono con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones, con doble enlace a un átomo de oxígeno con dos pares solitarios de electrones y con enlace simple a un átomo de hidrógeno." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_formate2_img.jpg"/>
+</media></item>
+<item>NO<sup>+</sup>: A este ion le añadimos ocho electrones de valencia, pero ningún átomo tiene un octeto. No podemos añadir más electrones porque ya hemos utilizado el total que encontramos en el Paso 1, así que debemos mover electrones para formar un enlace múltiple:<newline/>
+<media id="fs-idm60125872" alt="Se muestran dos diagramas de Lewis con la palabra &quot;da&quot; entre ellos. El diagrama de la izquierda, entre corchetes y con un signo positivo en superíndice, muestra un átomo de nitrógeno unido con enlace simple a un átomo de oxígeno, cada uno con dos pares solitarios de electrones. El diagrama de la derecha, entre corchetes y con un signo positivo en superíndice, muestra un átomo de nitrógeno unido con doble enlace a un átomo de oxígeno. El átomo de nitrógeno tiene dos pares solitarios de electrones y el de oxígeno tiene uno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_nitrosoni2_img.jpg"/>
+</media><newline/> Así todavía no se produce un octeto, así que debemos mover otro par, formando un triple enlace:<newline/>
+<media id="fs-idm60080656" alt="Una estructura de Lewis muestra un átomo de nitrógeno con un par solitario de electrones unido con triple enlace a un oxígeno con un par solitario de electrones. La estructura está entre corchetes y tiene un signo positivo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_nitrosoni3_img.jpg"/>
+</media></item>
+<item>En OF<sub>2</sub>, cada átomo tiene un octeto como se ha dibujado, por lo que nada cambia.</item>
+</list></item>
+</list>
+<example id="fs-idm36798944">
+<para id="fs-idm67097232"><title>Escritura de las estructuras de Lewis</title>
+La misión Cassini-Huygens de la NASA detectó una gran nube de cianuro de hidrógeno (HCN) tóxico en Titán, una de las lunas de Saturno. Titán también contiene etano (H<sub>3</sub>CCH<sub>3</sub>), acetileno (HCCH) y amoníaco (NH<sub>3</sub>). ¿Cuáles son las estructuras de Lewis de estas moléculas?</para>
+<para id="fs-idp90944512"><title>Solución</title>
+<list id="fs-idm4698672" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Calcule el número de electrones de valencia.</emphasis><newline/> HCN: (1 <m:math><m:mo>×</m:mo></m:math> 1) + (4 <m:math><m:mo>×</m:mo></m:math> 1) + (5 <m:math><m:mo>×</m:mo></m:math> 1) = 10<newline/> H<sub>3</sub>CCH<sub>3</sub>: (1 <m:math><m:mo>×</m:mo></m:math> 3) + (2 <m:math><m:mo>×</m:mo></m:math> 4) + (1 <m:math><m:mo>×</m:mo></m:math> 3) = 14<newline/> HCCH: (1 <m:math><m:mo>×</m:mo></m:math> 1) + (2 <m:math><m:mo>×</m:mo></m:math> 4) + (1 <m:math><m:mo>×</m:mo></m:math> 1) = 10<newline/> NH<sub>3</sub>: (5 <m:math><m:mo>×</m:mo></m:math> 1) + (3 <m:math><m:mo>×</m:mo></m:math> 1) = 8</item>
+<item><emphasis effect="italics">Dibuje un esqueleto y conecte los átomos con enlaces simples.</emphasis> Recuerda que el H nunca es un átomo central:<newline/>
+<media id="fs-idm31781520" alt="Se muestran cuatro estructuras de Lewis. La primera estructura muestra un átomo de carbono con enlace simple con un átomo de hidrógeno y a un átomo de nitrógeno. La segunda estructura muestra dos átomos de carbono unidos con enlace simple. Cada uno de ellos tiene un enlace simple con tres átomos de hidrógeno. La tercera estructura muestra dos átomos de carbono unidos con enlaces simples entre sí y cada uno está unido a un átomo de hidrógeno. La cuarta estructura muestra un átomo de nitrógeno unidos con enlace simple a tres átomos de hidrógeno." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_ex070301_1_img.jpg"/>
+</media></item>
+<item><emphasis effect="italics">Si es necesario, distribuya los electrones a los átomos terminales:</emphasis><newline/>
+<media id="fs-idm61922704" alt="Se muestran cuatro estructuras de Lewis. La primera estructura muestra un átomo de carbono unido con enlace simple a un átomo de hidrógeno y a un átomo de nitrógeno, que tiene tres pares solitarios de electrones. La segunda estructura muestra dos átomos de carbono unidos con enlace simple. Cada uno de ellos tiene un enlace simple con tres átomos de hidrógeno. La tercera estructura muestra dos átomos de carbono unidos con enlaces simples entre sí y cada uno está unido a un átomo de hidrógeno. La cuarta estructura muestra un átomo de nitrógeno unidos con enlace simple a tres átomos de hidrógeno." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_ex070301_2_img.jpg"/>
+</media><newline/> HCN: seis electrones colocados en N<newline/> H<sub>3</sub>CCH<sub>3</sub>: no quedan electrones<newline/> HCCH: no hay átomos terminales capaces de aceptar electrones<newline/> NH<sub>3</sub>: no hay átomos terminales capaces de aceptar electrones</item>
+<item><emphasis effect="italics">Si es necesario, coloque los electrones restantes en el átomo central:</emphasis><newline/>
+<media id="fs-idm28491488" alt="Se muestran cuatro estructuras de Lewis. La primera estructura muestra un átomo de carbono unido con enlace simple a un átomo de hidrógeno y a un átomo de nitrógeno, que tiene tres pares solitarios de electrones. La segunda estructura muestra dos átomos de carbono unidos con enlace simple. Cada uno de ellos tiene un enlace simple con tres átomos de hidrógeno. La tercera estructura muestra dos átomos de carbono, cada uno con un par solitario de electrones, con enlace simple entre sí y cada uno unido a un átomo de hidrógeno. La cuarta estructura muestra un átomo de nitrógeno con un par solitario de electrones con enlace simple a tres átomos de hidrógeno." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_ex070301_3_img.jpg"/>
+</media><newline/> HCN: no quedan electrones<newline/> H<sub>3</sub>CCH<sub>3</sub>no quedan electrones<newline/> HCCH: cuatro electrones colocados en el carbono<newline/> NH<sub>3</sub>: dos electrones colocados en el nitrógeno</item>
+<item><emphasis effect="italics">Cuando sea necesario, reorganice los electrones para formar enlaces múltiples con el fin de obtener un octeto en cada átomo:</emphasis><newline/> HCN: forma dos enlaces C–N más<newline/> H<sub>3</sub>CCH<sub>3</sub>: todos los átomos tienen el número correcto de electrones<newline/> HCCH: forma un triple enlace entre los dos átomos de carbono<newline/> NH<sub>3</sub>: todos los átomos tienen el número correcto de electrones<newline/>
+<media id="fs-idp173031360" alt="Se muestran cuatro estructuras de Lewis. La primera estructura muestra un átomo de carbono unido con enlace simple a un átomo de hidrógeno y a un átomo de nitrógeno, que tiene tres pares solitarios de electrones. Dos flechas curvas apuntan del nitrógeno al carbono. Debajo de esta estructura está la palabra &quot;da&quot; y debajo la misma estructura, pero esta vez hay un triple enlace entre el carbono y el nitrógeno. La segunda estructura muestra dos carbonos con enlace simple entre sí y cada uno con enlace simple a tres átomos de hidrógeno. La tercera estructura muestra dos átomos de carbono, cada uno con un par solitario de electrones, con enlace simple entre sí y cada uno unido a un átomo de hidrógeno. Dos flechas curvas apuntan desde los átomos de carbono al espacio entre ambos. Debajo de esta estructura está la palabra &quot;da&quot; y la misma estructura, pero esta vez con un triple enlace entre los dos carbonos. La cuarta estructura muestra un átomo de nitrógeno con un par solitario de electrones con enlace simple a tres átomos de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_ex070301_4_img.jpg"/>
+</media></item>
+</list></para>
+<para id="fs-idm58848848"><title>Compruebe sus conocimientos</title>
+Tanto el monóxido de carbono, CO, como el dióxido de carbono, CO<sub>2</sub>, son productos de la combustión de los combustibles fósiles. Ambos gases también causan problemas: El CO es tóxico y el CO<sub>2</sub> se ha relacionado con el cambio climático global. ¿Cuáles son las estructuras de Lewis de estas dos moléculas?</para>
+<note id="fs-idm39244032"><title>Respuesta:</title>
+<media id="fs-idp87884384" alt="Se muestran dos estructuras de Lewis. La izquierda muestra un carbono con enlace tripe a un oxígeno, cada uno con un par solitario de electrones. La estructura de la derecha muestra un carbono doblemente enlazado a un oxígeno en cada lado. Cada oxígeno tiene dos pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_COCO2_img.jpg"/>
+</media></note>
+</example>
+<note id="fs-idp177244128" class="chemistry sciences-interconnect"><title>Química de fullerenos</title><para id="fs-idm18160736">El carbono, en diversas formas y compuestos, se conoce desde la prehistoria. El hollín se utilizó como pigmento (a menudo llamado negro carbón) durante miles de años. El carbón vegetal, con alto contenido en carbono, también fue decisivo para el desarrollo humano. El carbono es el aditivo clave del hierro en el proceso de fabricación del acero, y los diamantes ocupan un lugar único tanto en la cultura como en la industria. Con todo este uso surgieron importantes estudios, en particular con la aparición de la química orgánica. Incluso con todas las formas y funciones conocidas del elemento, los científicos comenzaron a descubrir el potencial de estructuras de carbono aún más variadas y extensas.
+</para>
+
+<para id="eip-idm1283470480">Ya en la década de 1960, los químicos empezaron a observar estructuras complejas de carbono, pero tenían pocas pruebas para respaldar sus conceptos, o su trabajo no llegaba al público en general. Eiji Osawa predijo una forma esférica basándose en observaciones de una estructura similar, pero su trabajo no fue muy conocido fuera de Japón. Del mismo modo, el avance más completo fue probablemente el de la química computacional Elena Galpern, que en 1973 predijo una molécula altamente estable de 60 carbonos; su trabajo también quedó aislado en su Rusia natal. Posteriormente, Harold Kroto, en colaboración con radioastrónomos canadienses, trató de desvelar la naturaleza de las largas cadenas de carbono que se descubrieron en el espacio interestelar. </para>
+
+<para id="eip-idm1447865312">Kroto trató de utilizar una máquina desarrollada por el equipo de Richard Smalley en la Universidad de Rice para conocer mejor estas estructuras. Junto con Robert Curl, que los presentó, y tres estudiantes de posgrado (James Heath, Sean O'Brien y Yuan Liu) realizaron una intensa serie de experimentos que condujeron a un importante descubrimiento. </para>
+
+<para id="eip-idm1447865056"> En 1996, el Premio Nobel de Química fue concedido a Richard <term class="no-emphasis">Smalley</term> (<link target-id="CNX_Chem_07_03_Smalley"/>), Robert Curl y Harold Kroto por su trabajo en el descubrimiento de una nueva forma de carbono, la molécula de buckminsterfullereno C<sub>60</sub> (<link target-id="CNX_Chem_07_00_Bucky" document="m68736"/>). A partir del C<sub>60</sub> se descubrió toda una clase de compuestos, incluyendo esferas y tubos de diversas formas. Este tipo de moléculas, denominadas fullerenos, son prometedoras en diversas aplicaciones. Debido a su tamaño y forma, los fullerenos pueden encapsular otras moléculas, por lo que han demostrado su potencial en diversas aplicaciones, desde el almacenamiento de hidrógeno hasta los sistemas de administración dirigida de fármacos. También poseen propiedades electrónicas y ópticas únicas que se han aprovechado en dispositivos de energía solar y sensores químicos.</para>
+<figure id="CNX_Chem_07_03_Smalley" class="scaled-down">
+<media id="fs-idm11755680" alt="Foto de Richard Smalley.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Smalley.jpg"/>
+</media>
+<caption>Richard Smalley (1943-2005), profesor de física, química y astronomía en la Universidad de Rice, fue uno de los principales defensores de la química de los fullerenos. A su muerte en 2005, el Senado de EE.UU. le honró como "Padre de la Nanotecnología". (Crédito: Departamento de Energía de los Estados Unidos)</caption>
+</figure>
+</note></section>
+<section id="fs-idm61779936">
+<title>Excepciones a la regla del octeto</title>
+<para id="fs-idm1862800">Muchas moléculas covalentes tienen átomos centrales que no tienen ocho electrones en sus estructuras de Lewis. Estas moléculas se dividen en tres categorías:</para>
+<list id="fs-idm41738208" list-type="bulleted" bullet-style="bullet"><item>Las moléculas de electrones impares tienen un número impar de electrones de valencia y, por tanto, un electrón no pareado.</item>
+<item>Las moléculas deficientes en electrones tienen un átomo central que tiene menos electrones de los necesarios para una configuración de gas noble.</item>
+<item>Las moléculas hipervalentes tienen un átomo central que tiene más electrones de los necesarios para una configuración de gas noble.</item>
+</list>
+<section id="fs-idm33391760">
+<title>Moléculas de electrones impares</title>
+<para id="fs-idp58165584">Llamamos <term>radicales libres</term> a las moléculas que contienen un número impar de electrones. El óxido nítrico, NO, es un ejemplo de molécula de electrones impares; se produce en los motores de combustión interna cuando el oxígeno y el nitrógeno reaccionan a altas temperaturas.</para>
+<para id="fs-idm51238992">Para dibujar la estructura de Lewis de una molécula de electrones impares como el NO, seguimos los mismos cinco pasos que para otras moléculas, pero con algunos cambios menores:</para><list id="fs-idp52495568" list-type="enumerated" number-style="arabic">
+<item><emphasis effect="italics">Determine el número total de electrones de valencia (capa externa)</emphasis>. La suma de los electrones de valencia es 5 (de N) + 6 (de O) = 11. El número impar nos indica inmediatamente que tenemos un radical libre, por lo que sabemos que no todos los átomos pueden tener ocho electrones en su capa de valencia.</item>
+<item><emphasis effect="italics">Dibuje una estructura de esqueleto de la molécula</emphasis>. Podemos dibujar fácilmente un esqueleto con un enlace simple N-O:<newline/> N-O</item>
+<item><emphasis effect="italics">Distribuir los electrones restantes como pares solitarios en los átomos terminales</emphasis>. En este caso, no hay un átomo central, por lo que distribuimos los electrones alrededor de ambos átomos. En estas situaciones le damos ocho electrones al átomo más electronegativo, por lo que el oxígeno tiene la capa de valencia llena:<newline/>
+<media id="fs-idp41904592" alt="Una estructura de Lewis muestra un átomo de nitrógeno, con un par solitario y un electrón solitario unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_NOsingle_img.jpg"/>
+</media></item>
+<item><emphasis effect="italics">Colocar todos los electrones restantes en el átomo central</emphasis>. Como no hay electrones restantes, este paso no se aplica.</item>
+<item><emphasis effect="italics">Reordenar los electrones para hacer enlaces múltiples con el átomo central para obtener octetos siempre que sea posible.</emphasis> Sabemos que una molécula de electrones impares no puede tener un octeto por cada átomo, pero queremos que cada átomo se acerque lo más posible a un octeto. En este caso, el nitrógeno solo tiene cinco electrones a su alrededor. Para acercarnos a un octeto para el nitrógeno, tomamos uno de los pares solitarios del oxígeno y lo utilizamos para formar un doble enlace NO. (No podemos tomar otro par solitario de electrones en el oxígeno y formar un triple enlace porque el nitrógeno tendría entonces nueve electrones:)<newline/>
+<media id="fs-idp21078896" alt="Una estructura de Lewis muestra un átomo de nitrógeno, con un par solitario y un electrón solitario unido con doble enlace a un átomo de oxígeno con dos pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_NODouble_img.jpg"/>
+</media></item>
+</list>
+</section>
+<section id="fs-idm70526624">
+<title>Moléculas deficientes en electrones</title>
+<para id="fs-idm12065312">También encontraremos algunas moléculas que contienen átomos centrales que no tienen una capa de valencia llena. Por lo general, se trata de moléculas con átomos centrales de los grupos 2 y 13, átomos exteriores que son hidrógeno u otros átomos que no forman enlaces múltiples. Por ejemplo, en las estructuras de Lewis del dihidruro de berilio, BeH<sub>2</sub>, y del trifluoruro de boro, BF<sub>3</sub>, los átomos de berilio y de boro solo tienen cuatro y seis electrones respectivamente. Es posible dibujar una estructura con un doble enlace entre un átomo de boro y un átomo de flúor en el BF<sub>3</sub>, satisfaciendo la regla del octeto, pero las pruebas experimentales indican que las longitudes de los enlaces se acercan más a las esperadas para los enlaces simples B-F. Esto sugiere que la mejor estructura de Lewis tiene tres enlaces simples B-F y un boro deficiente en electrones. La reactividad del compuesto también es consistente con un boro deficiente en electrones. Sin embargo, los enlaces B-F son ligeramente más cortos de lo que se espera en realidad para los enlaces simples B-F, lo que indica que se encuentra algún carácter de doble enlace en la molécula real.</para><media id="fs-idm19104608" alt="Se muestran dos estructuras de Lewis. La izquierda muestra un átomo de berilio unido con enlace simple a dos átomos de hidrógeno. La derecha muestra un átomo de boro enlazado a tres átomos de flúor, cada uno con tres pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_edeficient_img.jpg"/>
+</media>
+<para id="fs-idm31354416">Un átomo como el de boro en el BF<sub>3</sub>, que no tiene ocho electrones, es muy reactivo. Se combina fácilmente con una molécula que contenga un átomo con un par solitario de electrones. Por ejemplo, el NH<sub>3</sub> reacciona con el BF<sub>3</sub> porque el par solitario del nitrógeno puede compartirse con el átomo de boro:</para>
+<media id="fs-idp22450336" alt="Se muestra una reacción con tres diagramas de Lewis. El diagrama de la izquierda muestra un átomo de boro enlazado a tres átomos de flúor, cada uno con tres pares solitarios de electrones. Hay un signo positivo. La siguiente estructura muestra un átomo de nitrógeno con un par solitario de electrones unido con enlace simple a tres átomos de hidrógeno. La flecha hacia la derecha conduce a la estructura de Lewis final que muestra un átomo de boro unido con enlace simple a un átomo de nitrógeno y unido a tres átomos de flúor, cada uno con tres pares solitarios de electrones. El átomo de nitrógeno también está unido con enlace simple a tres átomos de hidrógeno. El enlace entre el átomo de boro y el átomo de nitrógeno está coloreado en rojo." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_dative_img.jpg"/>
+</media>
+</section>
+<section id="fs-idp21135648">
+<title>Moléculas hipervalentes</title>
+<para id="fs-idp22493408">Los elementos del segundo período de la tabla periódica (<emphasis effect="italics">n</emphasis> = 2) solo pueden albergar ocho electrones en sus orbitales de la capa de valencia porque solo tienen cuatro orbitales de valencia (un orbital 2<emphasis effect="italics">s</emphasis> y tres 2<emphasis effect="italics">p</emphasis>). Los elementos de los períodos tercero y superior (<emphasis effect="italics">n</emphasis> ≥ 3) tienen más de cuatro orbitales de valencia y pueden compartir más de cuatro pares de electrones con otros átomos porque tienen orbitales <emphasis effect="italics">d</emphasis> vacíos en la misma capa. Las moléculas formadas a partir de estos elementos se denominan a veces <term>moléculas hipervalentes</term>. <link target-id="CNX_Chem_07_03_PF5SF6_img"/> muestra las estructuras de Lewis de dos moléculas hipervalentes, PCl<sub>5</sub> y SF<sub>6.</sub></para>
+<figure id="CNX_Chem_07_03_PF5SF6_img" class="scaled-down">
+<media id="fs-idm13058144" alt="Se muestran dos estructuras de Lewis. La izquierda muestra un átomo de fósforo unido con enlace simple a cinco átomos de cloro, cada uno con tres pares solitarios de electrones. La derecha muestra un átomo de azufre unido con enlace simple a seis átomos de flúor, cada uno con tres pares solitarios de electrones">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_PF5SF6_img.jpg"/>
+</media>
+<caption>En el PCl<sub>5</sub>, el átomo central de fósforo comparte cinco pares de electrones. En el SF<sub>6</sub>, el azufre comparte seis pares de electrones.</caption>
+</figure>
+<para id="fs-idp47260368">En algunas moléculas hipervalentes, como el IF<sub>5</sub> y el XeF<sub>4</sub>, algunos de los electrones de la capa exterior del átomo central son pares solitarios:</para>
+<media id="fs-idp27219792" alt="Se muestran dos estructuras de Lewis. La izquierda muestra un átomo de yodo con un par solitario unido con enlace simple a cinco átomos de flúor, cada uno con tres pares solitarios de electrones. El diagrama de la derecha muestra un átomo de xenón con dos pares solitarios de electrones unido a cuatro átomos de flúor, cada uno con tres pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_IF5XeF4_img.jpg"/>
+</media>
+<para id="fs-idp23831296">Cuando escribimos las estructuras de Lewis de estas moléculas, encontramos que nos sobran electrones después de llenar las capas de valencia de los átomos exteriores con ocho electrones. Estos electrones adicionales deben asignarse al átomo central.</para>
+</section>
+<example id="fs-idp822144">
+<para id="fs-idp56477392"><title>Escribir las estructuras de Lewis: Violaciones de la regla del octeto</title>
+El xenón es un gas noble, pero forma una serie de compuestos estables. Ya examinamos el XeF<sub>4</sub>. ¿Cuáles son las estructuras de Lewis del XeF<sub>2</sub> y del XeF<sub>6</sub>?</para>
+<para id="fs-idm125111536"><title>Solución</title>
+Podemos dibujar la estructura de Lewis de cualquier molécula covalente siguiendo los seis pasos comentados anteriormente. En este caso, podemos condensar los últimos pasos, ya que no se aplican todos.</para>
+<list id="fs-idm17935232" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Calcular el número de electrones de valencia:</emphasis><newline/> XeF<sub>2</sub>: 8 + (2 <m:math><m:mo>×</m:mo></m:math> 7) = 22<newline/> XeF<sub>6</sub>: 8 + (6 <m:math><m:mo>×</m:mo></m:math> 7) = 50</item>
+<item><emphasis effect="italics">Dibujar un esqueleto uniendo los átomos mediante enlaces simples.</emphasis> El xenón será el átomo central porque el flúor no puede ser un átomo central:<newline/>
+<media id="fs-idm28566624" alt="Se muestran dos diagramas de Lewis. El izquierdo muestra un átomo de xenón unido con enlace simple a dos átomos de flúor. El derecho muestra un átomo de xenón unido con enlace simple a seis átomos de flúor." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Xeskeleton_img.jpg"/>
+</media></item>
+<item><emphasis effect="italics">Distribuir los electrones restantes.</emphasis><newline/> XeF<sub>2</sub>: Colocamos tres pares solitarios de electrones alrededor de cada átomo de F, lo que supone 12 electrones y da a cada átomo de F 8 electrones. Así, quedan seis electrones (tres pares solitarios). Estos pares solitarios deben situarse en el átomo de Xe. Esto es aceptable porque los átomos de Xe tienen orbitales <emphasis effect="italics">d</emphasis> de la capa de valencia vacíos y pueden acomodar más de ocho electrones. La estructura de Lewis del XeF<sub>2</sub> muestra dos pares de enlace y tres pares solitarios de electrones alrededor del átomo de Xe:<newline/>
+<media id="fs-idp89463984" alt="Un diagrama de Lewis muestra un átomo de xenón con tres pares solitarios de electrones unido a dos átomos de flúor, cada uno con tres pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_XeF2_img.jpg"/>
+</media><newline/> XeF<sub>6</sub>: Colocamos tres pares solitarios de electrones alrededor de cada átomo de F, lo que supone 36 electrones. Quedan dos electrones, y este par solitario se coloca en el átomo de Xe:<newline/>
+<media id="fs-idm4642592" alt="Esta estructura muestra un átomo de xenón con enlace simple a seis átomos de flúor. Cada átomo de flúor tiene tres pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_XeF6_img.jpg"/>
+</media></item>
+</list>
+<para id="fs-idm31505696"><title>Compruebe lo aprendido</title>
+Los halógenos forman una clase de compuestos llamados interhalógenos, en los que los átomos de halógeno tienen enlaces covalentes entre sí. Escriba las estructuras de Lewis para los interhalógenos BrCl<sub>3</sub> y <m:math><m:mrow><m:msub><m:mtext>ICl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+<note id="fs-idp48519744"><title>Respuesta:</title>
+<media id="fs-idp48495808" alt="Se muestran dos estructuras de Lewis. La izquierda muestra un átomo de bromo con dos pares solitarios de electrones unido con enlace simple a tres átomos de cloro, cada uno con tres pares solitarios de electrones. La derecha muestra un átomo de yodo, con dos pares solitarios de electrones, unido a cuatro átomos de cloro, cada uno con tres pares solitarios de electrones. Esta estructura está entre de corchetes y tiene un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Interhal_img.jpg"/>
+</media>
+</note>
+</example>
+</section>
+<section id="fs-idm103622960" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm18966656">Las estructuras electrónicas de valencia pueden visualizarse dibujando símbolos de Lewis (para átomos e iones monoatómicos) y estructuras de Lewis (para moléculas e iones poliatómicos). Los pares solitarios, los electrones no apareados y los enlaces simples, dobles o triples se utilizan para indicar dónde se encuentran los electrones de valencia alrededor de cada átomo en una estructura de Lewis. La mayoría de las estructuras -especialmente las que contienen elementos de segunda fila- obedecen a la regla del octeto, en la que cada átomo (excepto el H) está rodeado por ocho electrones. Las excepciones a la regla del octeto se presentan en las moléculas de electrones impares (radicales libres), en las moléculas deficientes en electrones y en las moléculas hipervalentes.</para>
+</section>
+<section id="fs-idm14528032" class="exercises"><title>Ejercicios de química del final del capítulo</title><exercise id="fs-idp52580272">
+<problem id="fs-idp106860224">
+<para id="fs-idm9324256">Escriba los símbolos de Lewis para cada uno de los siguientes iones:</para>
+<para id="fs-idp177307680">(a) As<sup>3–</sup></para>
+<para id="fs-idm80857216">(b) I<sup>–</sup></para>
+<para id="fs-idm129221296">(c) Be<sup>2+</sup></para>
+<para id="fs-idp177278176">(d) O<sup>2–</sup></para>
+<para id="fs-idp155553728">(e) Ga<sup>3+</sup></para>
+<para id="fs-idp149572688">(f) Li<sup>+</sup></para>
+<para id="fs-idm28688432">(g) N<sup>3–</sup></para>
+</problem>
+<solution id="fs-idm10958624">
+<para id="fs-idm9743232">(a) ocho electrones:<newline/>
+<media id="fs-idm17346240" alt="Un diagrama de puntos de Lewis muestra el símbolo del arsénico, A s, rodeado de ocho puntos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question1a_img.jpg"/>
+</media><newline/> (b) ocho electrones:<newline/>
+<media id="fs-idm17410192" alt="Un diagrama de puntos de Lewis muestra el símbolo del yodo, I, rodeado de ocho puntos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question1b_img.jpg"/>
+</media><newline/> (c) ningún electrón Be<sup>2+</sup><newline/> (d) ocho electrones<newline/>
+<media id="fs-idm86821824" alt="Un diagrama de puntos de Lewis muestra el símbolo del oxígeno, O, rodeado de ocho puntos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question1d_img.jpg"/>
+</media><newline/> (e) ningún electrón Ga<sup>3+</sup><newline/> (f) ningún electrón Li<sup>+</sup><newline/> (g) ocho electrones<newline/>
+<media id="fs-idp148922528" alt="Un diagrama de puntos de Lewis muestra el símbolo del nitrógeno, N, rodeado de ocho puntos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question1g_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idm53812240">
+<problem id="fs-idp90260880">
+<para id="fs-idm38456688">En el agua de mar se encuentran muchos iones monoatómicos, entre ellos los que se forman a partir de la siguiente lista de elementos. Escriba los símbolos de Lewis para los iones monoatómicos formados a partir de los siguientes elementos:</para>
+<para id="fs-idm45254800">(a) Cl</para>
+<para id="fs-idm42307872">(b) Na</para>
+<para id="fs-idm68089632">(c) Mg</para>
+<para id="fs-idp57726800">(d) Ca</para>
+<para id="fs-idm15599904">(e) K</para>
+<para id="fs-idp206985568">(f) Br</para>
+<para id="fs-idp20791328">(g) Sr</para>
+<para id="fs-idp163146192">(h) F</para>
+</problem>
+</exercise>
+<exercise id="fs-idm49800144">
+<problem id="fs-idm29144304">
+<para id="fs-idm71594288">Escriba los símbolos de Lewis de los iones de cada uno de los siguientes compuestos iónicos y los símbolos de Lewis del átomo del que están formados:</para>
+<para id="fs-idm81853760">(a) MgS</para>
+<para id="fs-idp47226400">(b) Al<sub>2</sub>O<sub>3</sub></para>
+<para id="fs-idp82644800">(c) GaCl<sub>3</sub></para>
+<para id="fs-idp86010704">(d) K<sub>2</sub>O</para>
+<para id="fs-idp93713744">(e) Li<sub>3</sub>N</para>
+<para id="fs-idp7068176">(f) KF</para>
+</problem>
+<solution id="fs-idp82871696">
+<para id="fs-idp56026944">(a)<newline/>
+<media id="fs-idp67986880" alt="Se muestran dos estructuras de Lewis. La izquierda muestra el símbolo M g con un signo positivo en superíndice, mientras que la derecha muestra el símbolo S rodeado de ocho puntos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Exercise3a_img.jpg"/>
+</media><newline/> (b)<newline/>
+<media id="fs-idp57056624" alt="Se muestran dos estructuras de Lewis. La izquierda muestra el símbolo A l con un superíndice tres signo positivo, mientras que la derecha muestra el símbolo O rodeado de ocho puntos y superíndice 2 signo negativo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Exercise3b_img.jpg"/>
+</media><newline/> (c)<newline/>
+<media id="fs-idm35960448" alt="Se muestran dos estructuras de Lewis. La izquierda muestra el símbolo G a con un superíndice tres signo positivo, mientras que la derecha muestra el símbolo C l rodeado de ocho puntos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Exercise3c_img.jpg"/>
+</media><newline/> (d)<newline/>
+<media id="fs-idp19097088" alt="Se muestran dos estructuras de Lewis. La izquierda muestra el símbolo K con un signo positivo en superíndice, mientras que la derecha muestra el símbolo O rodeado de ocho puntos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Exercise3d_img.jpg"/>
+</media><newline/> (e)<newline/>
+<media id="fs-idp58347648" alt="Se muestran dos estructuras de Lewis. La izquierda muestra el símbolo L i con un signo positivo en superíndice, mientras que la derecha muestra el símbolo N rodeado de ocho puntos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Exercise3e_img.jpg"/>
+</media><newline/> (f)<newline/>
+<media id="fs-idm128690288" alt="Se muestran dos estructuras de Lewis. La izquierda muestra el símbolo K con un signo positivo en superíndice, mientras que la derecha muestra el símbolo F rodeado de ocho puntos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Exercise3f_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp153695200">
+<problem id="fs-idp21121072">
+<para id="fs-idm62437600">En las estructuras de Lewis enumeradas aquí, M y X representan varios elementos del tercer período de la tabla periódica. Escriba la fórmula de cada compuesto utilizando los símbolos químicos de cada elemento:</para>
+<para id="fs-idm868160">(a)<newline/><media id="fs-idm72846160" alt="Se muestran dos estructuras de Lewis una al lado de la otra, cada una entre corchetes. La estructura de la izquierda muestra el símbolo M con superíndice dos signo positivo. La derecha muestra el símbolo X rodeado de cuatro pares solitarios de electrones con un signo negativo en superíndice fuera de los corchetes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_MXLewisa_img.jpg"/>
+</media></para>
+<para id="fs-idp51578688">(b)<newline/><media id="fs-idp37353440" alt="Se muestran dos estructuras de Lewis una al lado de la otra, cada una entre corchetes. La estructura de la izquierda muestra el símbolo M con un superíndice de tres y signo positivo. La estructura de la derecha muestra el símbolo X rodeado de cuatro pares solitarios de electrones con un signo negativo en superíndice y un tres en subíndice, ambos fuera de los corchetes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_MXLewisb_img.jpg"/>
+</media></para>
+<para id="fs-idm66507744">(c)<newline/><media id="fs-idm29392256" alt="Se muestran dos estructuras de Lewis una al lado de la otra, cada una entre corchetes. La estructura de la izquierda muestra el símbolo M con un signo positivo en superíndice y un dos en subíndice fuera de los corchetes. La estructura de la derecha muestra el símbolo X rodeado de cuatro pares solitarios de electrones con un signo negativo en superíndice fuera de los corchetes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_MXLewisc_img.jpg"/>
+</media></para>
+<para id="fs-idm14580800">(d)<newline/><media id="fs-idm32084208" alt="Se muestran dos estructuras de Lewis una al lado de la otra, cada una entre corchetes. La estructura de la izquierda muestra el símbolo M con un tres y signo positivo en superíndice y un dos en subíndice fuera de los corchetes. La estructura de la derecha muestra el símbolo X rodeado de cuatro pares solitarios de electrones con un dos con signo negativo en superíndice y un subíndice tres, ambos fuera de los corchetes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_MXLewisd_img.jpg"/>
+</media></para>
+</problem>
+</exercise>
+<exercise id="fs-idm764384">
+<problem id="fs-idp97873264">
+<para id="fs-idm41674448">Escriba la estructura de Lewis para la molécula diatómica P<sub>2</sub>, una forma inestable de fósforo que se encuentra en el vapor de fósforo a alta temperatura.</para>
+</problem>
+<solution id="fs-idm71632416">
+<para id="fs-idp122311792"><newline/>
+<media id="fs-idm68155776" alt="Un diagrama de Lewis muestra dos átomos de fósforo con triple enlace, cada uno con un par de electrones solitarios.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question5_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<exercise id="fs-idm60487856">
+<problem id="fs-idm48943744">
+<para id="fs-idp231456">Escriba las estructuras de Lewis de lo siguiente:</para>
+<para id="fs-idp68025184">(a) H<sub>2</sub></para>
+<para id="fs-idm82892176">(b) HBr</para>
+<para id="fs-idm62337952">(c) PCl<sub>3</sub></para>
+<para id="fs-idp6642928">(d) SF<sub>2</sub></para>
+<para id="fs-idp58186288">(e) H<sub>2</sub>CCH<sub>2</sub></para>
+<para id="fs-idp798944">(f) HNNH</para>
+<para id="fs-idp368592">(g) H<sub>2</sub>CNH</para>
+<para id="fs-idp155569264">(h) NO<sup>–</sup></para>
+<para id="fs-idp11573568">(i) N<sub>2</sub></para>
+<para id="fs-idp29036672">(j) CO</para>
+<para id="fs-idm15603264">(k) CN<sup>–</sup></para>
+</problem>
+</exercise>
+<exercise id="fs-idp15556576">
+<problem id="fs-idm60727488">
+<para id="fs-idp8243984">Escriba las estructuras de Lewis de lo siguiente:</para>
+<para id="fs-idm45128544">(a) O<sub>2</sub></para>
+<para id="fs-idp26025488">(b) H<sub>2</sub>CO</para>
+<para id="fs-idm44316544">(c) AsF<sub>3</sub></para>
+<para id="fs-idp22123520">(d) ClNO</para>
+<para id="fs-idm67206368">(e) SiCl<sub>4</sub></para>
+<para id="fs-idm5797408">(f) H<sub>3</sub>O<sup>+</sup></para>
+<para id="fs-idp37044768">(g) <m:math><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:mrow></m:math></para>
+<para id="fs-idm8157200">(h) <m:math><m:mrow><m:msub><m:mtext>BF</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp172886448">(i) HCCH</para>
+<para id="fs-idm45296576">(j) ClCN</para>
+<para id="fs-idm47759120">(k) <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2+</m:mtext></m:msup></m:mrow></m:math>
+</para>
+</problem>
+<solution id="fs-idm14944944">
+<para id="fs-idm41104416">(a)<newline/><media id="fs-idm63850832" alt="Una estructura de Lewis muestra dos átomos de oxígeno doblemente enlazados, y cada uno tiene dos pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7a_img.jpg"/>
+</media><newline/> En este caso, la estructura de Lewis es inadecuada para representar el hecho de que los estudios experimentales han mostrado dos electrones no apareados en cada molécula de oxígeno.<newline/> (b)<newline/><media id="fs-idm76406432" alt="Una estructura de Lewis muestra un átomo de carbono con enlace simple con dos átomos de hidrógeno y con doble enlace con un átomo de oxígeno. El átomo de oxígeno tiene dos pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7b_img.jpg"/>
+</media><newline/> (c)<newline/><media id="fs-idp37290624" alt="Una estructura de Lewis muestra un átomo de arsénico enlazado a tres átomos de flúor. Cada átomo de flúor tiene un par solitario de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7c_img.jpg"/>
+</media><newline/> (d)<newline/><media id="fs-idm29017600" alt="Una estructura de Lewis muestra un átomo de nitrógeno con un par solitario de electrones unido a un átomo de cloro que tiene tres pares solitarios de electrones. El nitrógeno también está doblemente enlazado a un oxígeno que tiene dos pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7d_img.jpg"/>
+</media><newline/> (e)<newline/><media id="fs-idm67346912" alt="Una estructura de Lewis muestra un átomo de silicio que tiene un enlace simple con cuatro átomos de cloro. Cada átomo de cloro tiene tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7e_img.jpg"/>
+</media><newline/> (f)<newline/><media id="fs-idm62683280" alt="Una estructura de Lewis muestra un átomo de oxígeno con un par solitario de electrones que tiene un enlace simple con tres átomos de hidrógeno. La estructura está entre corchetes con un signo positivo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7f_img.jpg"/>
+</media><newline/> (g)<newline/><media id="fs-idm804688" alt="Una estructura de Lewis muestra un átomo de nitrógeno con enlace simple con cuatro átomos de hidrógeno. La estructura está entre corchetes con un signo positivo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7g_img.jpg"/>
+</media><newline/> (h)<newline/><media id="fs-idp792848" alt="Una estructura de Lewis muestra un átomo de boro con enlace simple con cuatro átomos de flúor. Cada átomo de flúor tiene tres pares solitarios de electrones. La estructura está entre corchetes con un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7h_img.jpg"/>
+</media><newline/> (i)<newline/><media id="fs-idp7083808" alt="Una estructura de Lewis muestra dos átomos de carbono con triple enlace. Cada carbono también tiene un enlace simple con un átomo de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7i_img.jpg"/>
+</media><newline/> (j)<newline/><media id="fs-idm28530944" alt="Una estructura de Lewis muestra un átomo de carbono tiene un enlace triple con un átomo de nitrógeno que tiene un único par de electrones. El carbono también tiene un enlace simple con un átomo de cloro que tiene tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7j_img.jpg"/>
+</media><newline/> (k)<newline/><media id="fs-idm148703504" alt="Una estructura de Lewis muestra dos átomos de carbono unidos con un triple enlace. A la derecha del segundo carbono se encuentra un 2 con signo positivo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question7k_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idm78195216">
+<problem id="fs-idp57460704">
+<para id="fs-idp101298368">Escriba las estructuras de Lewis de lo siguiente:</para>
+<para id="fs-idm9812048">(a) ClF<sub>3</sub></para>
+<para id="fs-idp57412240">(b) PCl<sub>5</sub></para>
+<para id="fs-idm42705328">(c) BF<sub>3</sub></para>
+<para id="fs-idm69669440">(d) <m:math><m:mrow><m:msub><m:mtext>PF</m:mtext><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp37438640">
+<problem id="fs-idm29728048">
+<para id="fs-idm12452880">Escriba las estructuras de Lewis de lo siguiente:</para>
+<para id="fs-idm17992976">(a) SeF<sub>6</sub></para>
+<para id="fs-idm11221520">(b) XeF<sub>4</sub></para>
+<para id="fs-idp172162448">(c) <m:math><m:mrow><m:msub><m:mtext>SeCl</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:mrow></m:math></para>
+<para id="fs-idp100000144">(d) Cl<sub>2</sub>BBCl<sub>2</sub> (contiene un enlace B-B)</para>
+</problem>
+<solution id="fs-idm11069872">
+<para id="fs-idm123049856">(a) SeF<sub>6</sub>:<newline/>
+<media id="fs-idm63051472" alt="Una estructura de Lewis muestra un átomo de selenio con enlace simple con seis átomos de flúor, cada uno con tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question9a_img.jpg"/>
+</media><newline/> (b) XeF<sub>4</sub>:<newline/>
+<media id="fs-idm14960704" alt="Una estructura de Lewis muestra un átomo de xenón con dos pares solitarios de electrones. Tiene un enlace simple con cuatro átomos de flúor, cada uno con tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question9b_img.jpg"/>
+</media><newline/> (c) <m:math><m:mrow><m:msub><m:mtext>SeCl</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mtext>:</m:mtext></m:mrow></m:math><newline/>
+<media id="fs-idm32570400" alt="Una estructura de Lewis muestra un átomo de selenio con un par solitario de electrones que tiene un enlace simple con tres átomos de cloro, cada uno con tres pares solitarios de electrones. Toda la estructura está entre corchetes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question9c_img.jpg"/>
+</media><newline/> (d) Cl<sub>2</sub>BBCl<sub>2</sub>:<newline/>
+<media id="fs-idp22797840" alt="Una estructura de Lewis muestra dos átomos de boro que están unidos con enlace simple. Cada uno de ellos tiene un enlace simple con dos átomos de cloro que tienen tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question9d_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idm66409936">
+<problem id="fs-idm56276224">
+<para id="fs-idm60483152">Escriba las estructuras de Lewis para:</para>
+<para id="fs-idm49716576">(a) <m:math><m:mrow><m:msub><m:mtext>PO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>3−</m:mtext></m:msup></m:mrow></m:math>
+</para>
+<para id="fs-idp46530944">(b) <m:math><m:mrow><m:msub><m:mtext>ICl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para><para id="fs-idm8198304">(c) <m:math><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm10813680">(d) HONO</para>
+</problem>
+</exercise>
+<exercise id="fs-idm12035200">
+<problem id="fs-idm35671184">
+<para id="fs-idm31255600">Corrija la siguiente afirmación: "Los enlaces en el PbCl<sub>2</sub> sólido son iónicos; el enlace en una molécula de HCl es covalente. Así, todos los electrones de valencia del PbCl<sub>2</sub> se encuentran en los iones Cl<sup>–</sup>, y todos los electrones de valencia de una molécula de HCl se comparten entre los átomos de H y Cl".</para>
+</problem>
+<solution id="fs-idp15369984">
+<para id="fs-idm7862384">Dos electrones de valencia por átomo de Pb se transfieren a los átomos de Cl; el ion Pb<sup>2+</sup> resultante tiene una configuración de valencia 6<emphasis effect="italics">s</emphasis><sup>2</sup>. Dos de los electrones de valencia de la molécula de HCl son compartidos, y los otros seis se encuentran en el átomo de Cl como pares solitarios de electrones.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm35503888">
+<problem id="fs-idp55450672">
+<para id="fs-idp28075376">Escriba las estructuras de Lewis para las siguientes moléculas o iones:</para>
+<para id="fs-idm19814784">(a) SbH<sub>3</sub></para>
+<para id="fs-idp81079136">(b) XeF<sub>2</sub></para>
+<para id="fs-idm66267152">c) Se<sub>8</sub> (molécula cíclica con un anillo de ocho átomos de Se)</para>
+</problem>
+</exercise>
+<exercise id="fs-idp145119536">
+<problem id="fs-idp149481984">
+<para id="fs-idm80135200">El metanol, H<sub>3</sub>COH, se utiliza como combustible en algunos autos de carreras. El etanol, C<sub>2</sub>H<sub>5</sub>OH, se utiliza mucho como combustible en Brasil. Tanto el metanol como el etanol producen CO<sub>2</sub> and H<sub>2</sub>O cuando se queman. Escriba las ecuaciones químicas de estas reacciones de combustión utilizando estructuras de Lewis en lugar de fórmulas químicas.</para>
+</problem>
+<solution id="fs-idm65897888">
+<media id="fs-idp205470208" alt="Se muestran dos reacciones utilizando estructuras de Lewis. La reacción superior muestra un átomo de carbono, con un enlace simple a tres átomos de hidrógeno y un enlace simple a un átomo de oxígeno con dos pares solitarios de electrones. El átomo de oxígeno también tiene un enlace simple con un átomo de hidrógeno. Sigue un signo positivo y el número uno coma cinco, seguido de dos átomos de oxígeno unidos con un doble enlace y cada uno con dos pares solitarios de electrones. Una flecha hacia la derecha conduce a un átomo de carbono con doble enlace a dos átomos de oxígeno, cada uno de los cuales tiene dos pares solitarios de electrones. A esta estructura le sigue un signo positivo, un número dos, y una estructura formada por un oxígeno con dos pares solitarios de electrones con enlace simple a dos átomos de hidrógeno. La reacción inferior muestra un átomo de carbono, con un enlace simple a tres átomos de hidrógeno y un enlace simple a otro átomo de carbono. El segundo átomo de carbono tiene un enlace simple con dos átomos de hidrógeno y un átomo de oxígeno con dos pares solitarios de electrones. El átomo de oxígeno también tiene un enlace simple con un átomo de hidrógeno. A esto le sigue el signo positivo y el número tres, seguido de dos átomos de oxígeno unidos por un doble enlace. Cada átomo de oxígeno tiene dos pares solitarios de electrones. Una flecha orientada hacia la derecha conduce a un número dos y a un átomo de carbono unido con doble enlace a dos átomos de oxígeno, cada uno de los cuales tiene dos pares solitarios de electrones. A esta estructura le sigue un signo positivo, un número tres, y una estructura formada por un oxígeno con dos pares solitarios de electrones unidos con enlace simple a dos átomos de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Question18_img.jpg"/>
+</media>
+</solution>
+</exercise>
+<exercise id="fs-idm25571216">
+<problem id="fs-idm40893792">
+<para id="fs-idm113115520">Muchos planetas de nuestro sistema solar contienen sustancias químicas orgánicas como el metano (CH<sub>4</sub>) y trazas de etileno (C<sub>2</sub>H<sub>4</sub>), etano (C<sub>2</sub>H<sub>6</sub>), propina (H<sub>3</sub>CCCH) y diacetileno (HCCCCH). Escriba las estructuras de Lewis de cada una de estas moléculas.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm75285152">
+<problem id="fs-idm3431264">
+<para id="fs-idp147092224">El tetracloruro de carbono se utilizaba antiguamente en los extintores de incendios eléctricos. Ya no se utiliza para este fin debido a la formación del gas tóxico fosgeno, Cl<sub>2</sub>CO. Escriba las estructuras de Lewis para el tetracloruro de carbono y el fosgeno.</para>
+</problem>
+<solution id="fs-idm3643936">
+<para id="fs-idm32057744"><media id="fs-idm67261696" alt="Se muestran dos estructuras de Lewis. La izquierda muestra un átomo de carbono unido con enlace simple a cuatro átomos de cloro, cada uno con tres pares solitarios de electrones. La derecha muestra un átomo de carbono unido con doble enlace a un átomo de oxígeno que tiene dos pares solitarios de electrones. El átomo de carbono también está unido con enlace simple a dos átomos de cloro, cada uno de los cuales tiene tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Carbtet_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp86013824">
+<problem id="fs-idm32317648">
+<para id="fs-idm67282576">Identifique los átomos que corresponden a cada una de las siguientes configuraciones electrónicas. A continuación, escriba el símbolo de Lewis para el ion común formado a partir de cada átomo:</para>
+<para id="fs-idp19768176">(a) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>5</sup></para>
+<para id="fs-idm80153488">(b) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup></para>
+<para id="fs-idp65373872">(c) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup></para>
+<para id="fs-idp23448016">(d) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">p</emphasis><sup>4</sup></para>
+<para id="fs-idm116147776">(e) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">p</emphasis><sup>1</sup></para>
+</problem>
+</exercise>
+<exercise id="fs-idm8464272"><problem id="fs-idm70512464">
+<para id="fs-idp177246704">Aquí se presenta la disposición de los átomos en varias moléculas de importancia biológica. Complete las estructuras de Lewis de estas moléculas añadiendo enlaces múltiples y pares solitarios. No añada más átomos.</para>
+<para id="fs-idm80239808">(a) el aminoácido serina:</para>
+<media id="fs-idm41214176" alt="Se muestra una estructura de Lewis. Un átomo de nitrógeno está unido con enlace simple a dos átomos de hidrógeno y a un átomo de carbono. El átomo de carbono está unido con enlace simple a un átomo de hidrógeno y a otros dos átomos de carbono. Uno de estos átomos de carbono está unido con enlace simple a dos átomos de hidrógeno y a un átomo de oxígeno. El átomo de oxígeno está unido a un átomo de hidrógeno. El otro átomo de carbono está unido con enlace simple a dos átomos de oxígeno, uno de los cuales está unido a un átomo de hidrógeno." class="scaled-down-30">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbioa_img.jpg"/>
+</media>
+<para id="fs-idm147749792">b) urea:</para>
+<media id="fs-idm72883232" alt="Se muestra una estructura de Lewis. Un átomo de nitrógeno está unido con enlace simple a dos átomos de hidrógeno y a un átomo de carbono. El átomo de carbono está unido con enlace simple a un átomo de oxígeno y a otro de nitrógeno. Ese átomo de nitrógeno tiene un enlace simple a dos átomos de hidrógeno." class="scaled-down-30">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbiob_img.jpg"/>
+</media>
+<para id="fs-idp28905856">(c) ácido pirúvico:</para>
+<media id="fs-idm13924160" alt="Se muestra una estructura de Lewis. Un átomo de carbono está unido con enlace simple a tres átomos de hidrógeno y a otro átomo de carbono. El segundo átomo de carbono está unido a un átomo de oxígeno y a un tercer átomo de carbono. Este carbono está unido con enlace simple a dos átomos de oxígeno, uno de los cuales está unido a un átomo de hidrógeno." class="scaled-down-30">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbioc_img.jpg"/>
+</media>
+<para id="fs-idm104403040">(d) uracilo:</para>
+<media id="fs-idp22935856" alt="Se muestra una estructura de anillo hexagonal de Lewis. Desde la parte superior del anillo (moviéndose en el sentido de las agujas del reloj), tres átomos de carbono, un átomo de nitrógeno, un átomo de carbono y un átomo de nitrógeno están unidos con enlaces simples entre sí. El átomo de carbono superior está unido con enlace simple a un átomo de oxígeno. Los carbonos segundo y tercero y el átomo de nitrógeno están unidos con enlaces simples cada uno a un átomo de hidrógeno. El siguiente átomo de carbono está unido con enlace simple a un átomo de oxígeno y el último átomo de nitrógeno está unido enlace simple a un átomo de hidrógeno." class="scaled-down-30">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbiod_img.jpg"/>
+</media>
+<para id="fs-idp106603552">(e) ácido carbónico:</para>
+<media id="fs-idp35561104" alt="Se muestra una estructura de Lewis. Un átomo de carbono está unido con enlace simple a tres átomos de oxígeno. Dos de esos átomos de oxígeno están unidos con enlace simple a un átomo de hidrógeno." class="scaled-down-30">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbioe_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idm48004656">
+<para id="fs-idm17951840">(a)<newline/>
+<media id="fs-idp28661392" alt="Se muestra una estructura de Lewis. Un átomo de nitrógeno está unido con enlace simple a dos átomos de hidrógeno y a un átomo de carbono. El átomo de carbono está unido con enlace simple a un átomo de hidrógeno y a otros dos átomos de carbono. Uno de estos átomos de carbono está unido con enlace simple a dos átomos de hidrógeno y a un átomo de oxígeno. El átomo de oxígeno está unido a un átomo de hidrógeno. El otro carbono está unido a dos átomos de oxígeno, uno de los cuales está unido con enlace simple a un átomo de hidrógeno. Los átomos de oxígeno tienen dos pares solitarios de electrones, y el átomo de nitrógeno tiene un par de electrones solitarios.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbioansa_img.jpg"/>
+</media><newline/> (b)<newline/>
+<media id="fs-idm10384048" alt="Se muestra una estructura de Lewis. Un átomo de nitrógeno está unido con enlace simple a dos átomos de hidrógeno y a un átomo de carbono. El átomo de carbono está unido con enlace simple a un átomo de oxígeno y a un átomo de nitrógeno. Ese átomo de nitrógeno tiene un enlace simple a dos átomos de hidrógeno. El átomo de oxígeno tiene dos pares solitarios de electrones, y los átomos de nitrógeno tienen un par de electrones solitarios cada uno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbioansb_img.jpg"/>
+</media><newline/> (c)<newline/>
+<media id="fs-idp109751280" alt="Se muestra una estructura de Lewis. Un átomo de carbono está unido a tres átomos de hidrógeno y a un átomo de carbono. El átomo de carbono está unido a un átomo de oxígeno y a un tercer átomo de carbono. Este carbono está unido con enlace simple a dos átomos de oxígeno, uno de los cuales está unido a un átomo de hidrógeno. Cada átomo de oxígeno tiene dos pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbioansc_img.jpg"/>
+</media><newline/> (d)<newline/>
+<media id="fs-idm30856256" alt="Se muestra una estructura de anillo hexagonal de Lewis. Desde la parte superior del anillo, tres átomos de carbono, un átomo de nitrógeno, un átomo de carbono y un átomo de nitrógeno están unidos con enlaces simples entre sí. El carbono superior está unido con enlace simple a un oxígeno, el segundo y el tercer carbono y el átomo de nitrógeno están unidos con enlace simple a un átomo de hidrógeno. El siguiente carbono está unido con enlace simple a un átomo de oxígeno y el último nitrógeno está unido con enlace simple a un átomo de hidrógeno. Los átomos de oxígeno tienen dos pares solitarios de electrones y los de nitrógeno un par de electrones solitarios.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbioansd_img.jpg"/>
+</media><newline/> (e)<newline/>
+<media id="fs-idm60711072" alt="Se muestra una estructura de Lewis. Un átomo de carbono está unido con enlace simple a tres átomos de oxígeno. Dos de esos átomos de oxígeno están unidos con enlace simple a un átomo de hidrógeno. Cada átomo de oxígeno tiene dos pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Impbioanse_img.jpg"/>
+</media></para></solution>
+</exercise><exercise id="fs-idm40885728">
+<problem id="fs-idm68068800">
+<para id="fs-idp25804448">Un compuesto con una masa molar de unos 28 g/mol contiene un 85,7 % de carbono y un 14,3 % de hidrógeno en masa. Escriba la estructura de Lewis para una molécula del compuesto.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm74511072">
+<problem id="fs-idm13380672">
+<para id="fs-idm48822288">Un compuesto con una masa molar de unos 42 g/mol contiene un 85,7 % de carbono y un 14,3 % de hidrógeno en masa. Escriba la estructura de Lewis para una molécula del compuesto.</para>
+</problem>
+<solution id="fs-idm61796496">
+<para id="fs-idm69676240"><media id="fs-idm14049344" alt="Se muestra una estructura de Lewis. Un átomo de carbono está unido con enlace simple a tres átomos de hidrógeno y a otro átomo de carbono. El segundo átomo de carbono está doblemente enlazado a otro átomo de carbono y tiene un enlace simple a un átomo de hidrógeno. El último carbono está unido con un enlace a dos átomos de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_03_Exercise25_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp157470896">
+<problem id="fs-idp15841584">
+<para id="fs-idp204714384">Dos disposiciones de átomos son posibles para un compuesto con una masa molar de aproximadamente 45 g/mol que contiene 52,2 % de C, 13,1 % de H y 34,7 % de O en masa. Escriba las estructuras de Lewis para las dos moléculas.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm70503056">
+<problem id="fs-idm19365792">
+<para id="fs-idm10972096">¿En qué se parecen los enlaces simples, dobles y triples? ¿En qué se diferencian?</para>
+</problem>
+<solution id="fs-idp47206400">
+<para id="fs-idp205940864">Cada enlace incluye un reparto de electrones entre los átomos. En un enlace simple se comparten dos electrones, en un enlace doble se comparten cuatro electrones y en un enlace triple se comparten seis electrones.</para>
+</solution>
+</exercise>
+</section>   </content>
+<glossary>
+<definition id="fs-idm42302272">
+<term>doble enlace</term>
+<meaning id="fs-idp6229744">enlace covalente en el que se comparten dos pares de electrones entre dos átomos.</meaning>
+</definition>
+<definition id="fs-idm4719424">
+<term>radical libre</term>
+<meaning id="fs-idm16246608">molécula que contiene un número impar de electrones.</meaning>
+</definition>
+<definition id="fs-idp87877296">
+<term>molécula hipervalente</term>
+<meaning id="fs-idp101329312">molécula que contiene al menos un elemento del grupo principal que tiene más de ocho electrones en su capa de valencia.</meaning>
+</definition>
+<definition id="fs-idm67089472">
+<term>Estructura de Lewis</term>
+<meaning id="fs-idm42321936">diagrama que muestra los pares solitarios y los pares de enlace de los electrones en una molécula o un ion.</meaning>
+</definition>
+<definition id="fs-idm4190352">
+<term>Símbolo de Lewis</term>
+<meaning id="fs-idm57993552">símbolo de un elemento o ion monoatómico que utiliza un punto para representar cada electrón de valencia en el elemento o ion.</meaning>
+</definition>
+<definition id="fs-idm44296912">
+<term>par solitario</term>
+<meaning id="fs-idm63235984">dos (un par de) electrones de valencia que no se utilizan para formar un enlace covalente.</meaning>
+</definition>
+<definition id="fs-idm73604928">
+<term>regla del octeto</term>
+<meaning id="fs-idm31076704">directriz que establece que los átomos del grupo principal formarán estructuras en las que ocho electrones de valencia interactúan con cada núcleo, contando los electrones de enlace como en interacción con ambos átomos conectados por el enlace</meaning>
+</definition>
+<definition id="fs-idp177199648">
+<term>enlace simple</term>
+<meaning id="fs-idm69905424">enlace en el que un solo par de electrones se comparte entre dos átomos.</meaning>
+</definition>
+<definition id="fs-idm68093504">
+<term>triple enlace</term>
+<meaning id="fs-idp7114624">enlace en el que se comparten tres pares de electrones entre dos átomos.</meaning>
+</definition>
+</glossary>
+</document>

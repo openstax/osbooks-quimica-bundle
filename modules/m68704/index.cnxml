@@ -1,0 +1,226 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Otras unidades para las concentraciones de las soluciones</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68704</md:content-id>
+  <md:title>Otras unidades para las concentraciones de las soluciones</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Definir las unidades de concentración de porcentaje de masa, porcentaje de volumen, porcentaje de masa volumen, partes por millón (ppm) y partes por mil millones (parts-per-billion, ppb).</item>
+<item>Realizar cálculos que relacionen la concentración de una solución y los volúmenes o masas de sus componentes utilizando estas unidades.</item>
+</list></md:abstract>
+  <md:uuid>4fee0e14-2169-4e3b-bb15-def8b056b1a0</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm32304496">En el apartado anterior se ha introducido la molaridad, una unidad de medida muy útil para evaluar la concentración de las soluciones. Sin embargo, la molaridad es solo una medida de la concentración. Esta sección describirá algunas otras unidades de concentración que se utilizan comúnmente en varias aplicaciones, ya sea por conveniencia o por convención.</para>
+<section id="fs-idm8277808">
+<title>Porcentaje de masa</title>
+<para id="fs-idm26991728">Anteriormente en este capítulo, se introdujo la composición porcentual como una medida de la cantidad relativa de un elemento determinado en un compuesto. Los porcentajes también se utilizan habitualmente para expresar la composición de las mezclas, incluidas las soluciones. El <term>porcentaje de masa</term> de un componente de la solución se define como la relación entre la masa del componente y la masa de la solución, expresada en porcentaje:</para>
+<equation class="unnumbered" id="fs-idm5911152"><m:math><m:mrow><m:mtext>porcentaje de masa</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa del componente</m:mtext></m:mrow><m:mrow><m:mtext>masa de la solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm3484528">El porcentaje de masa también recibe nombres similares, como <emphasis effect="italics">tanto por ciento en masa, porcentaje de peso, porcentaje de peso/peso</emphasis>, y otras variaciones sobre este tema. El símbolo más común para el porcentaje de masa es simplemente el signo de porcentaje, %, aunque a menudo se utilizan símbolos más detallados cómo %masa, %peso y (p/p)%. El uso de estos símbolos más detallados puede evitar la confusión de los porcentajes de masa con otros tipos de porcentajes, como los porcentajes de volumen (que se tratarán más adelante en esta sección).</para>
+<para id="fs-idm21823696">Los porcentajes de masa son unidades de concentración populares para los productos de consumo. La etiqueta de una botella típica de blanqueador líquido (<link target-id="CNX_Chem_03_05_bleach"/>) indica que la concentración de su ingrediente activo, el hipoclorito de sodio (NaOCl), es del 7,4 %. Por lo tanto, una muestra de 100,0 g de blanqueador debería contener 7,4 g de NaOCl</para>
+<figure id="CNX_Chem_03_05_bleach" class="scaled-down">
+<media id="fs-idm21370256" alt="Se muestran los lados de dos contenedores cilíndricos. La etiqueta de cada contenedor se puede ver parcialmente. La etiqueta del contenedor de la izquierda dice &quot;Blanqueador&quot; La etiqueta derecha contiene más información sobre el producto, incluida la frase &quot;Contiene: hipoclorito de sodio 7,4 %”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_05_bleach.jpg"/>
+</media>
+<caption>El blanqueador líquido es una solución acuosa de hipoclorito de sodio (NaOCl). Esta marca tiene una concentración de 7,4 % de NaOCl en masa.</caption>
+</figure>
+<example id="fs-idm23566960">
+<para id="fs-idm2453280"><title>Cálculo del porcentaje en masa</title>
+Una muestra de 5,0 g de líquido cefalorraquídeo contiene 3,75 mg (0,00375 g) de glucosa. ¿Cuál es el porcentaje en masa de la glucosa en el líquido cefalorraquídeo?</para>
+<para id="fs-idp19396640"><title>Solución</title>
+La muestra de líquido cefalorraquídeo contiene aproximadamente 4 mg de glucosa en 5000 mg de líquido, por lo que la fracción de masa de la glucosa debería ser un poco menos de una parte en 1000, es decir, aproximadamente del 0,1 %. Al sustituir las masas dadas en la ecuación que define el porcentaje de masa se obtiene:</para>
+<equation class="unnumbered" id="fs-idm17789648"><m:math><m:mrow><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>de glucosa</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3,75</m:mn><m:mspace width="0.2em"/><m:mtext>mg de glucosa</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:mtext>mg</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mrow><m:mn>5,0</m:mn><m:mspace width="0.2em"/><m:mtext>g de líquido cefalorraquídeo</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,075</m:mn><m:mi>%</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm36099936">El porcentaje de masa calculado coincide con nuestra estimación aproximada (es un poco menos del 0,1 %).</para>
+<para id="fs-idm6973776">Observe que, aunque se puede utilizar cualquier unidad de masa para calcular un porcentaje de masa (mg, g, kg, oz, etc.), se debe utilizar la misma unidad tanto para el soluto como para la solución, de modo que las unidades de masa se cancelen, dando lugar a una relación adimensional. En este caso, la unidad de masa del soluto en el numerador se convirtió de mg a g para que coincidiera con las unidades en el denominador. Como alternativa, la unidad de masa del líquido cefalorraquídeo en el denominador podría haberse convertido de g a mg. Siempre que se utilicen unidades de masa idénticas para el soluto y la solución, el porcentaje de masa calculado será correcto.</para>
+<para id="fs-idm64146192"><title>Compruebe lo aprendido</title>
+Una botella de un limpiador de azulejos contiene 135 g de HCl y 775 g de agua. ¿Cuál es el porcentaje en masa de HCl en este limpiador?</para>
+<note id="fs-idp47230144"><title>Respuesta:</title><para id="fs-idm9307808">14,8 %</para></note>
+</example>
+<example id="fs-idm27131760">
+<para id="fs-idm32647264"><title>Cálculos con porcentaje de masa</title>
+El ácido clorhídrico "concentrado" es una solución acuosa de HCl al 37,2 % que se utiliza habitualmente como reactivo de laboratorio. La densidad de esta solución es de 1,19 g/mL. ¿Qué masa de HCl hay en 0,500 L de esta solución?</para>
+<para id="fs-idm37499888"><title>Solución</title>
+La concentración de HCl es cercana al 40 %, por lo que una porción de 100 g de esta solución contendría unos 40 g de HCl. Como la densidad de la solución no es muy diferente de la del agua (1 g/mL), una estimación razonable de la masa de HCl en 500 g (0,5 L) de la solución, es aproximadamente cinco veces mayor que la de una porción de 100 g, o 5 <m:math><m:mo>×</m:mo></m:math> 40 = 200 g. Para obtener la masa de soluto en una solución a partir de su porcentaje en masa, es necesario conocer la masa de la solución. Utilizando la densidad de la solución dada, convierta el volumen de la solución en masa, y luego utilice el porcentaje de masa dado para calcular la masa del soluto. Este enfoque matemático se resume en este diagrama de flujo:</para>
+<media id="fs-idm3435008" alt="Se muestra un diagrama con tres recuadros conectados por unas flechas hacia la derecha entre cada uno. El recuadro de la izquierda contiene la frase &quot;Volumen de la solución ( m L )&quot;, el del medio dice &quot;Masa de la solución ( g )&quot;, mientras que el de la derecha contiene la frase &quot;Masa de H C l ( g )”. Hay una frase bajo la flecha de la izquierda que dice: &quot;Multiplicar por la densidad ( g / m L )&quot; y bajo la flecha de la derecha dice: &quot;Multiplicar por el porcentaje de masa como una proporción ( g H C l / g de solución )&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_05_Example2_img.jpg"/>
+</media>
+<para id="fs-idm3493296">Para la correcta cancelación de la unidad, el volumen de 0,500 L se convierte en 500 mL, y el porcentaje de masa se expresa como una relación, 37,2 g de HCl/g de solución:</para>
+<equation class="unnumbered" id="fs-idm17430336"><m:math><m:mrow><m:mtext>Solución de 500 mL</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>1,19</m:mn><m:mspace width="0.2em"/><m:mtext>g de solución</m:mtext></m:mrow><m:mrow><m:mtext>mL de solución</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>37,2</m:mn><m:mspace width="0.2em"/><m:mtext>g de HCl</m:mtext></m:mrow><m:mrow><m:mn>100</m:mn><m:mspace width="0.2em"/><m:mtext>g de solución</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>221</m:mn><m:mspace width="0.2em"/><m:mtext>g de HCl</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm2814416">Esta masa de HCl es coherente con nuestra estimación aproximada de alrededor de 200 g.</para>
+<para id="fs-idp18799968"><title>Compruebe lo aprendido</title>
+¿Qué volumen de solución de HCl concentrado contiene 125 g de HCl?</para>
+<note id="fs-idm31069568"><title>Respuesta:</title><para id="fs-idm33390192"> 282 mL</para></note>
+</example>
+</section>
+<section id="fs-idm25064544"><title>Porcentaje de volumen</title>
+<para id="fs-idp14105408">Los volúmenes de líquidos en una amplia gama de magnitudes se miden de forma conveniente utilizando equipos de laboratorio comunes y relativamente baratos. Por lo tanto, la concentración de una solución formada por la disolución de un soluto líquido en un disolvente líquido suele expresarse como un <term>porcentaje de volumen</term>, %vol o (v/v)%:</para>
+<equation class="unnumbered" id="fs-idm2717488"><m:math><m:mrow><m:mtext>porcentaje de volumen</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>volumen de soluto</m:mtext></m:mrow><m:mrow><m:mtext>solución de volumen</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi></m:mrow></m:math></equation>
+<example id="fs-idm1441136">
+<para id="fs-idm5072752"><title>Cálculos mediante el porcentaje de volumen</title>
+El alcohol de fricción (isopropanol) suele venderse en forma de solución acuosa al 70 % vol. Si la densidad del alcohol isopropílico es de 0,785 g/mL, ¿cuántos gramos de alcohol isopropílico hay en una botella de 355 mL de alcohol de fricción?</para>
+<para id="fs-idm38697728"><title>Solución</title>
+Según la definición de porcentaje de volumen, el volumen de isopropanol es el 70 % del volumen total de la solución. Multiplicando el volumen de isopropanol por su densidad se obtiene la masa requerida:</para>
+<equation class="unnumbered" id="fs-idm3502064"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>355</m:mn><m:mspace width="0.2em"/><m:mtext>mL de solución</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>70</m:mn><m:mspace width="0.2em"/><m:mtext>mL de alcohol isopropílico</m:mtext></m:mrow><m:mrow><m:mn>100</m:mn><m:mspace width="0.2em"/><m:mtext>mL de solución</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>0,785</m:mn><m:mspace width="0.2em"/><m:mtext>g de alcohol isopropílico</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mL de alcohol isopropílico</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>195</m:mn><m:mspace width="0.2em"/><m:mtext>g de alcohol isopropílico</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp44207936"><title>Compruebe lo aprendido</title>
+El vino tiene aproximadamente un 12 % de etanol (CH<sub>3</sub>CH<sub>2</sub>OH) en volumen. El etanol tiene una masa molar de 46,06 g/mol y una densidad de 0,789 g/mL. ¿Cuántos moles de etanol hay en una botella de vino de 750 mL?</para>
+<note id="fs-idp41917088"><title>Respuesta:</title><para id="fs-idm15159936">1,5 mol de etanol</para></note>
+</example>
+</section>
+<section id="fs-idm6093792"><title>Porcentaje de masa volumen</title>
+<para id="fs-idm16796176">Las unidades porcentuales "mixtas", derivadas de la masa del soluto y el volumen de la solución, son populares para ciertas aplicaciones bioquímicas y médicas. Un <term>porcentaje de masa volumen</term> es una relación entre la masa de un soluto y el volumen de la solución, expresada en forma de porcentaje. Las unidades específicas utilizadas para la masa del soluto y el volumen de la solución pueden variar, dependiendo de la solución. Por ejemplo, la solución salina fisiológica, utilizada para preparar fluidos intravenosos, tiene una concentración de 0,9 % masa/volumen (m/v), lo que indica que la composición es de 0,9 g de soluto por 100 mL de solución. La concentración de glucosa en la sangre (comúnmente denominada "azúcar en la sangre") también suele expresarse en términos de una relación masa volumen. Aunque no se exprese explícitamente en porcentaje, su concentración suele darse en miligramos de glucosa por decilitro (100 mL) de sangre (<link target-id="CNX_Chem_03_05_saline"/>).</para>
+<figure id="CNX_Chem_03_05_saline">
+<media id="fs-idp12420736" alt="Se muestran dos imágenes marcadas como a y b. La imagen a muestra una solución transparente e incolora en una bolsa de plástico que se sostiene en la mano de una persona. La imagen b muestra la mano de una persona que sostiene un medidor de detección con una pantalla de lectura digital mientras que otra mano sostiene el dedo de alguien hasta el extremo del medidor. El medidor se presiona sobre la gota de sangre que está en la punta del dedo de la persona.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_05_saline.jpg"/>
+</media>
+<caption>Las unidades de masa volumen "mixtas" son habituales en el ámbito médico. (a) La concentración de NaCl de la solución salina fisiológica es del 0,9 % (m/v). (b) Este dispositivo mide los niveles de glucosa en una muestra de sangre. El rango normal de concentración de glucosa en sangre (en ayunas) es de unos 70-100 mg/dL (créditos a: modificación de la obra de "The National Guard"/Flickr; créditos b: modificación de la obra de Biswarup Ganguly).</caption>
+</figure>
+</section>
+<section id="fs-idm4329744">
+<title>Partes por millón y partes por mil millones </title>
+<para id="fs-idm39037584">Las concentraciones de solutos muy bajas se expresan a menudo utilizando unidades adecuadamente pequeñas, como <term>partes por millón (ppm)</term> o <term>partes por mil millones (ppb)</term>. Al igual que las unidades de porcentaje ("parte por cien"), las ppm y las ppb pueden definirse en términos de masas, volúmenes o unidades mixtas de masa y volumen. También hay unidades de ppm y ppb definidas con respecto al número de átomos y moléculas.</para>
+<para id="fs-idm18786352">A continuación, se dan las definiciones de ppm y ppb basadas en la masa:</para>
+<equation class="unnumbered" id="fs-idp17696176"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mtext>ppm</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa del soluto</m:mtext></m:mrow><m:mrow><m:mtext>masa de la solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>6</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>ppm</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>ppb</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa del soluto</m:mtext></m:mrow><m:mrow><m:mtext>masa de la solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>ppb</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm37568416">Tanto las ppm como las ppb son unidades convenientes para informar las concentraciones de contaminantes y de otros contaminantes en trazas en el agua. Las concentraciones de estos contaminantes suelen ser muy bajas en las aguas tratadas y naturales, y sus niveles no pueden superar los umbrales de concentración relativamente bajos sin causar efectos adversos en la salud y la fauna. Por ejemplo, la EPA ha determinado que el nivel máximo seguro de iones de flúor en el agua del grifo es de 4 ppm. Los filtros de agua en línea están diseñados para reducir la concentración de flúor y otros contaminantes del agua del grifo (<link target-id="CNX_Chem_03_05_faucet"/>).</para>
+<figure id="CNX_Chem_03_05_faucet">
+<media id="fs-idm10006048" alt="Se muestran dos imágenes marcadas como a y b. La imagen a es un primer plano del agua que sale de un grifo. La imagen b muestra una máquina con las palabras &quot;Dispensador de agua filtrada”. Esta máquina parece estar dentro de un refrigerador.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_05_faucet.jpg"/>
+</media>
+<caption>(a) En algunas zonas, las concentraciones de contaminantes a nivel de trazas pueden hacer que el agua del grifo sin filtrar no sea segura para beber ni cocinar. (b) Los filtros de agua en línea reducen la concentración de solutos en el agua del grifo (créditos a: modificación de la obra de Jenn Durfey; créditos b: modificación de la obra de "vastateparkstaff"/Wikimedia commons).</caption>
+</figure>
+<example id="fs-idm22950992">
+<para id="fs-idm5826976"><title>Cálculo de las concentraciones de partes por millón y partes por mil millones</title>
+Según la EPA, cuando la concentración de plomo en el agua del grifo alcanza las 15 ppb, se deben tomar determinadas acciones correctivas. ¿Cuál es esta concentración en ppm? Con esta concentración, ¿qué masa de plomo (μg) contendría un vaso normal de agua (300 mL)?</para>
+<para id="fs-idm2696240"><title>Solución</title>
+Las definiciones de las unidades ppm y ppb pueden utilizarse para convertir la concentración dada de ppb a ppm. Si se comparan estas dos definiciones de unidades, se observa que las ppm son 1000 veces mayores que las ppb (1 ppm = 10<sup>3</sup> ppb). Por lo tanto:</para>
+<equation class="unnumbered" id="fs-idm1779776"><m:math><m:mrow><m:mn>15</m:mn><m:mspace width="0.2em"/><m:mtext>ppb</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>ppm</m:mtext></m:mrow><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>ppb</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,015</m:mn><m:mspace width="0.2em"/><m:mtext>ppm</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm35694560">La definición de la unidad ppb puede utilizarse para calcular la masa solicitada si se proporciona la masa de la solución. Puesto que se da el volumen de la solución (300 mL), hay que utilizar su densidad para obtener la masa correspondiente. Suponga que la densidad del agua del grifo es aproximadamente la misma que la del agua pura (~1,00 g/mL), ya que las concentraciones de cualquier sustancia disuelta no deberían ser muy grandes. Al reordenar la ecuación que define la unidad de ppb y al sustituir las cantidades dadas se obtiene:</para>
+<equation class="unnumbered" id="fs-idm5250896"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mtext>ppb</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa del soluto</m:mtext></m:mrow><m:mrow><m:mtext>masa de la solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>ppb</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mtext>masa del soluto</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>ppb</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>masa de la solución</m:mtext></m:mrow><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>ppb</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mtext>masa del soluto</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>15</m:mn><m:mspace width="0.2em"/><m:mtext>ppb</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>300</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mtext>mL</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>ppb</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>4,5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-6</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp31649040">Por último, convierta esta masa a la unidad solicitada de microgramos:</para>
+<equation class="unnumbered" id="fs-idm4570368"><m:math><m:mrow><m:mn>4,5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-6</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>μg</m:mtext></m:mrow><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-6</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>4,5</m:mn><m:mspace width="0.2em"/><m:mtext>μg</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp21345280"><title>Compruebe lo aprendido</title>
+Se determinó que una muestra de 50,0 g de aguas residuales industriales contenía 0,48 mg de mercurio. Exprese la concentración de mercurio de las aguas residuales en unidades de ppm y ppb.</para>
+<note id="fs-idm45688384"><title>Respuesta:</title><para id="fs-idm2529904">9,6 ppm, 9600 ppb</para></note>
+</example>
+</section>
+<section id="fs-idm6539664" class="summary">
+<title>Resumen de la sección</title>
+<para id="fs-idm5081808">Además de la molaridad, se utilizan otras unidades de concentración de soluciones en diversas aplicaciones. Las concentraciones porcentuales basadas en las masas de los componentes de la solución, los volúmenes o ambos son útiles para expresar concentraciones relativamente altas, mientras que las concentraciones más bajas se expresan convenientemente utilizando unidades de ppm o ppb. Estas unidades son populares en los campos del medio ambiente, la medicina y otros en los que las unidades basadas en el mol, como la molaridad, no se utilizan con tanta frecuencia.</para>
+</section>
+<section id="fs-idm3018432" class="exercises">
+<exercise id="fs-idp14147136">
+<problem id="fs-idm39120864">
+<para id="fs-idm27367376">Considere esta pregunta: ¿Qué masa de una solución concentrada de ácido nítrico (68,0 % de HNO<sub>3</sub> en masa) se necesita para preparar 400,0 g de una solución al 10,0 % de HNO<sub>3</sub> en masa?</para>
+<para id="fs-idp3249520">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idp248743712">(b) Responda la pregunta.</para>
+</problem>
+<solution id="fs-idm38677968">
+<para id="fs-idm1849696">(a) Se puede utilizar la ecuación de dilución, modificada adecuadamente para acomodar las unidades de concentración basadas en la masa: <m:math><m:mrow><m:mi>%</m:mi><m:msub><m:mrow><m:mtext>masa</m:mtext></m:mrow><m:mn>1</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>masa</m:mtext></m:mrow><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mi>%</m:mi><m:msub><m:mrow><m:mtext>masa</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>masa</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>. Esta ecuación se puede reordenar para aislar la masa<sub>1</sub> y sustituir las cantidades dadas en esta ecuación. (b) 58,8 g</para></solution>
+</exercise>
+<exercise id="fs-idp18877920">
+<problem id="fs-idm43521632">
+<para id="fs-idm9508704">¿Qué masa de una solución de NaOH al 4,00 % en masa contiene 15,0 g de NaOH?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm26523680">
+<problem id="fs-idp10830704">
+<para id="fs-idm31393312">¿Qué masa de NaOH sólido (97,0 % de NaOH en masa) se necesita para preparar 1,00 L de una solución de NaOH al 10,0 % en masa? La densidad de la solución al 10,0 % es de 1,109 g/mL.</para>
+</problem>
+<solution id="fs-idm45621424">
+<para id="fs-idp64586416">114 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idp11082976">
+<problem id="fs-idp7146544">
+<para id="fs-idm2819984">¿Qué masa de HCl está contenida en 45,0 mL de una solución acuosa de HCl que tiene una densidad de 1,19 g cm<sup>-3</sup> y contiene un 37,21 % de HCl en masa?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm5149536">
+<problem id="fs-idm9292560">
+<para id="fs-idm23489136">La dureza del agua (recuento de dureza) suele expresarse en partes por millón (en masa) de CaCO<sub>3</sub>, lo que equivale a miligramos de CaCO<sub>3</sub> por litro de agua. ¿Cuál es la concentración molar de iones de Ca<sup>2+ </sup>en una muestra de agua con una dureza de 175 mg de CaCO<sub>3</sub>/L?</para>
+</problem>
+<solution id="fs-idm4961216">
+<para id="fs-idm8356352">1,75 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup> <emphasis effect="italics">M</emphasis></para></solution>
+</exercise>
+<exercise id="fs-idm1879104">
+<problem id="fs-idm5087552">
+<para id="fs-idp16215312">Se sospecha que el nivel de mercurio en un arroyo es superior al mínimo considerado seguro (1 parte por mil millones en peso). Un análisis indicó que la concentración era de 0,68 partes por mil millones. Suponga una densidad de 1,0 g/mL y calcule la molaridad del mercurio en el arroyo.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm39094144">
+<problem id="fs-idm1177120">
+<para id="fs-idp6805168">En Canadá y el Reino Unido, los dispositivos que miden los niveles de glucosa en sangre proporcionan una lectura en milimoles por litro. Si se observa una medición de 5,3 m<emphasis effect="italics">M</emphasis>, ¿cuál es la concentración de glucosa (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) en mg/dL?</para>
+</problem>
+<solution id="fs-idm80818992">
+<para id="fs-idp18917136">95 mg/dL</para>
+</solution>
+</exercise>
+<exercise id="fs-idm26515200">
+<problem id="fs-idp44695760">
+<para id="fs-idm2541936">Un aerosol para la garganta contiene un 1,40 % en masa de fenol, C<sub>6</sub>H<sub>5</sub>OH, en agua. Si la solución tiene una densidad de 0,9956 g/mL, calcule la molaridad de la solución.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm39075008">
+<problem id="fs-idm30333440">
+<para id="fs-idm32118672">El yoduro de cobre (I) (CuI) suele añadirse a la sal de mesa como fuente dietética de yodo. ¿Cuántos moles de CuI hay en 454 g (1,00 lb) de sal de mesa que contiene 0,0100 % de CuI en masa?</para>
+</problem>
+<solution id="fs-idm138218400">
+<para id="fs-idp24969648">2,38 <m:math><m:mo>×</m:mo></m:math> 10<sup>-4</sup> mol</para>
+</solution>
+</exercise>
+<exercise id="fs-idp22072496">
+<problem id="fs-idm30518896">
+<para id="fs-idm85228448">Un jarabe para la tos contiene un 5,0 % de alcohol etílico, C<sub>2</sub>H<sub>5</sub>OH, en masa. Si la densidad de la solución es de 0,9928 g/mL, determine la molaridad del alcohol en el jarabe para la tos.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp67228256">
+<problem id="fs-idm85549664">
+<para id="fs-idm1848576">El D5W es una solución utilizada como fluido intravenoso. Se trata de una solución al 5,0 % en masa de dextrosa (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) en agua. Si la densidad del D5W es de 1,029 g/mL, calcule la molaridad de la dextrosa en la solución.</para>
+</problem>
+<solution id="fs-idp10961984">
+<para id="fs-idp13989120">0,29 mol</para>
+</solution>
+</exercise>
+<exercise id="fs-idm9484992">
+<problem id="fs-idm19747008">
+<para id="fs-idm3980816">Calcule la molaridad de una solución acuosa del 40,0 % en masa de ácido sulfúrico, H<sub>2</sub>SO<sub>4</sub>, cuya densidad es de 1,3057 g/mL.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm8172720" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mtext>Porcentaje en masa</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa del soluto</m:mtext></m:mrow><m:mrow><m:mtext>masa de la solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mrow></m:math></entry>
+</row>
+<row><entry><m:math><m:mrow><m:mtext>ppm</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa del soluto</m:mtext></m:mrow><m:mrow><m:mtext>masa de la solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>6</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>ppm</m:mtext></m:mrow></m:math></entry>
+</row>
+<row><entry><m:math><m:mrow><m:mtext>ppb</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa del soluto</m:mtext></m:mrow><m:mrow><m:mtext>masa de la solución</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>ppb</m:mtext></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp13058656">
+<term>porcentaje de masa</term>
+<meaning id="fs-idp19445280">relación entre la masa de la solución y la masa del soluto expresada en porcentaje</meaning>
+</definition>
+<definition id="fs-idm12309360">
+<term>porcentaje de masa volumen</term>
+<meaning id="fs-idp44837024">relación entre la masa del soluto y el volumen de la solución, expresada en porcentaje</meaning>
+</definition>
+<definition id="fs-idp23298832">
+<term>partes por mil millones (ppb)</term>
+<meaning id="fs-idp65638576">relación entre la masa de la solución y la masa del soluto multiplicada por 10<sup>9</sup></meaning>
+</definition>
+<definition id="fs-idm85251264">
+<term>partes por millón (ppm)</term>
+<meaning id="fs-idp60135056">relación entre la masa de la solución y la masa del soluto multiplicada por 10<sup>6</sup></meaning>
+</definition>
+<definition id="fs-idp17597424">
+<term>porcentaje de volumen</term>
+<meaning id="fs-idp17598064">relación entre el volumen del soluto y el volumen de la solución, expresada en porcentaje</meaning>
+</definition>
+</glossary>
+</document>

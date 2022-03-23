@@ -1,0 +1,434 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Incertidumbre, exactitud y precisión de las mediciones</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68690</md:content-id>
+  <md:title>Incertidumbre, exactitud y precisión de las mediciones</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Definir la exactitud y la precisión.</item>
+<item>Distinguir números exactos e inciertos.</item>
+<item>Representar correctamente la incertidumbre en las cantidades utilizando cifras significativas.</item>
+<item>Aplicar las reglas de redondeo adecuadas a las cantidades calculadas.</item>
+</list></md:abstract>
+  <md:uuid>daeefb73-f141-4612-ae40-d4915efc253d</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm288863760">El conteo es el único tipo de medición que está libre de incertidumbre, siempre que el número de objetos contados no cambie mientras se realiza el proceso de conteo. El resultado de esta medición de conteo es un ejemplo de <term>número exacto</term>. Al contar los huevos de un cartón, se puede determinar <emphasis effect="italics">exactamente</emphasis> cuántos huevos contiene el cartón. Los números de las cantidades definidas también son exactos. Por definición, 1 pie es exactamente 12 pulgadas, 1 pulgada es exactamente 2,54 centímetros y 1 gramo es exactamente 0,001 kilogramos. Sin embargo, las cantidades derivadas de mediciones distintas del conteo son inciertas en mayor o menor medida debido a las limitaciones prácticas del proceso de medición utilizado.</para>
+<section id="fs-idm217277536">
+<title>Cifras significativas en la medición</title>
+<para id="fs-idp11446448">Los números de las cantidades medidas, a diferencia de las cantidades definidas o contadas directamente, no son exactos. Para medir el volumen de un líquido en una probeta graduada, debe hacer una lectura en el fondo del menisco, el punto más bajo de la superficie curva del líquido.</para>
+<figure id="fs-idm337865984">
+<media id="fs-idm262770592" alt="Este diagrama muestra una probeta graduada de 25 mililitros llena de unos 20,8 mililitros de líquido. El diagrama amplía el menisco, que es la superficie curva del agua que se ve cuando la probeta graduada se ve de lado. La lectura se realiza en el punto más bajo de la curva del menisco.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_05_Measure.jpg"/>
+</media>
+<caption>Para medir el volumen de líquido en esta probeta graduada, debe subdividir mentalmente la distancia entre las marcas de 21 y 22 mL en décimas de mililitro, y luego hacer una lectura (estimación) en el fondo del menisco.</caption>
+</figure>
+<para id="fs-idm176542448">Consulte la ilustración en la <link target-id="fs-idm337865984"/>. El fondo del menisco en este caso se encuentra claramente entre las marcas 21 y 22, lo que significa que el volumen de líquido es <emphasis effect="italics">ciertamente</emphasis> mayor de 21 mL, pero menor de 22 mL. El menisco parece estar un poco más cerca de la marca de 22 mL que de la de 21 mL, por lo que una estimación razonable del volumen del líquido sería de 21,6 mL. En el número 21,6, por tanto, los dígitos 2 y 1 son ciertos, pero el 6 es una estimación. Algunas personas podrían estimar que la posición del menisco está igualmente distante de cada una de las marcas y estimar el dígito de la décima posición como 5, mientras que otras podrían pensar que está aún más cerca de la marca de 22 mL y estimar este dígito como 7. Tenga en cuenta que sería inútil intentar estimar un dígito para la centésima, dado que el dígito de la décima es incierto. En general, las escalas numéricas como la de este cilindro graduado permitirán realizar mediciones hasta la décima parte de la división más pequeña de la escala. La escala en este caso tiene divisiones de 1 mL, por lo que los volúmenes pueden medirse con una precisión de 0,1 mL.</para>
+<para id="fs-idm254904560">Este concepto es válido para todas las mediciones, incluso si no se hace una estimación de forma activa. Si coloca una moneda de 25 centavos en una balanza electrónica estándar, puede obtener una lectura de 6,72 g. Las cifras 6 y 7 son ciertas, y el 2 indica que la masa de la moneda de 25 centavos está probablemente entre 6,71 y 6,73 gramos. La moneda de 25 centavos pesa <emphasis effect="italics">aproximadamente</emphasis> 6,72 gramos, con una incertidumbre nominal en la medición de ± 0,01 gramos. Si la moneda se pesa en una balanza más sensible, la masa podría ser de 6,723 g. Esto significa que su masa está entre 6,722 y 6,724 gramos, lo que supone una incertidumbre de 0,001 gramos. Toda medición tiene cierta <term>incertidumbre</term>, que depende del dispositivo utilizado (y de la habilidad del usuario). Todos los dígitos de una medida, incluido el último dígito incierto, se denominan <term>cifras significativas</term> o <term>dígitos significativos</term>. Tenga en cuenta que el cero puede ser un valor medido; por ejemplo, si se sube a una balanza que muestra el peso a la libra más cercana y muestra "120", entonces el 1 (centenas), el 2 (decenas) y el 0 (unidades) son todos valores significativos (medidos).</para>
+<para id="fs-idm264880544">Un resultado de medición se comunica correctamente cuando sus dígitos significativos representan con precisión la certeza del proceso de medición. Pero, ¿qué pasaría si se analizara un valor notificado y se intentara determinar qué es significativo y qué no? Bueno, para empezar, todos los dígitos que no son ceros son significativos, y los ceros son los únicos que requieren alguna reflexión. Utilizaremos los términos "inicial", “último" y "cautivo" para los ceros y estudiaremos cómo tratarlos.</para>
+<media id="fs-idm244068192" class="scaled-down" alt="El diagrama de la izquierda utiliza el ejemplo de 3090. El cero en el lugar de las centenas está marcado como &quot;cautivo&quot; y el cero en el lugar de las unidades está marcado como “último&quot;. El diagrama de la derecha utiliza el ejemplo 0,008020. Los tres ceros en los lugares de las unidades, décimas y centésimas se denominan &quot;inicial&quot;. El cero en el lugar de las diez milésimas está marcado como &quot;cautivo&quot; y el cero en el lugar de las millonésimas está marcado como “último&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_05_SigDigits5_img.jpg"/>
+</media>
+<para id="fs-idp31100592">Empezando por el primer dígito distinto de cero a la izquierda, cuente este dígito y todos los dígitos restantes a la derecha. Es el número de cifras significativas de la medida, a menos que el último dígito sea un cero a la izquierda del punto decimal.</para>
+<media id="fs-idp40720144" alt="El diagrama de la izquierda utiliza el ejemplo de 1267 metros. El número 1 es la primera cifra distinta de cero de la izquierda. El número 1267 tiene 4 cifras significativas en total. El diagrama de la derecha utiliza el ejemplo de 55,0 gramos. El número 5 en el lugar de las decenas es la primera cifra distinta de cero de la izquierda. El 55,0 tiene 3 cifras significativas. Tenga en cuenta que el 0 está a la derecha del punto decimal y, por tanto, es una cifra significativa.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_05_SigDigits1_img.jpg"/>
+</media>
+<para id="fs-idm177076640">Los ceros cautivos son el resultado de la medición y, por tanto, siempre son significativos. Los ceros a la izquierda, sin embargo, nunca son significativos; simplemente nos indican dónde se encuentra el punto decimal.</para>
+<media id="fs-idm113793344" alt="El diagrama de la izquierda utiliza el ejemplo de 70,607 mililitros. El número 7 es la primera cifra distinta de cero de la izquierda. El número 70,607 tiene 5 cifras significativas en total, ya que todas las cifras se miden incluidos los 2 ceros. El diagrama de la derecha utiliza el ejemplo de 0,00832407 M de L. El número 8 es la primera cifra distinta de cero de la izquierda. 0,00832407 tiene 6 cifras significativas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_05_SigDigits2_img.jpg"/>
+</media>
+<para id="fs-idm262013360">Los ceros a la izquierda en este ejemplo no son significativos. Podríamos utilizar la notación exponencial (como se describe en el <link document="m68860">Apéndice B</link>) y expresar el número como 8,32407 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup>; entonces el número 8,32407 contiene todas las cifras significativas, y 10<sup>-3</sup> ubica el punto decimal.</para><para id="fs-idm210460000">El número de cifras significativas es incierto en un número que termina con un cero a la izquierda de la ubicación del punto decimal. Los ceros de la medida 1300 gramos podrían ser significativos o simplemente indicar dónde se encuentra el punto decimal. La ambigüedad puede resolverse con el uso de la notación exponencial: 1,3 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> (dos cifras significativas), 1,30 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> (tres cifras significativas, si se miden las decenas), o 1300 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> (cuatro cifras significativas, si también se midió el lugar de las unidades). En los casos en los que solo se dispone del número con formato decimal, es prudente asumir que todos los últimos ceros no son significativos.</para>
+<media id="fs-idp29412624" class="scaled-down" alt="Esta cifra utiliza el ejemplo de 1300 gramos. El uno y el 3 son cifras significativas, ya que son claramente el resultado de la medición. Los 2 ceros podrían ser significativos si se midieran o podrían ser marcadores de posición.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_05_SigDigits3_img.jpg"/>
+</media>
+<para id="fs-idm173917264">Al determinar las cifras significativas, asegúrese de prestar atención a los valores comunicados y piense en la medición y las cifras significativas en términos de lo que es razonable o probable al evaluar si el valor tiene sentido. Por ejemplo, el censo oficial de enero de 2014 informó de que la población residente en los EE. UU. era de 317.297.725 personas. ¿Cree usted que la población de los EE. UU. se determinó correctamente con las nueve cifras significativas indicadas, es decir, con el número exacto de personas? Constantemente las personas nacen, mueren o se trasladan al país o fuera de él, y se hacen suposiciones para tener en cuenta el gran número de personas que no se contabilizan realmente. Debido a estas incertidumbres, podría ser más razonable esperar que conozcamos la población con una aproximación de un millón de personas, en cuyo caso la población debería indicarse como 3,17 <m:math><m:mo>×</m:mo></m:math> 10<sup>8</sup> personas.</para>
+</section>
+<section id="fs-idm191691888">
+<title>Cifras significativas en los cálculos</title>
+<para id="fs-idm277117616">Un segundo principio importante de la incertidumbre es que los resultados calculados a partir de una medición son al menos tan inciertos como la propia medición. Hay que tener en cuenta la incertidumbre de las mediciones para no tergiversarla en los resultados calculados. Una forma de hacerlo es informar del resultado de un cálculo con el número correcto de cifras significativas, que está determinado por las siguientes tres reglas de <term>redondeo</term> de números:</para>
+<list id="fs-idm65809616" list-type="enumerated" number-style="arabic">
+<item>Al sumar o restar números, redondee el resultado al mismo número de decimales que el número con menos decimales (el valor menos seguro en términos de suma y resta).</item>
+<item>Al multiplicar o dividir números, redondee el resultado al mismo número de cifras que el número con el menor número de cifras significativas (el menor valor seguro en términos de multiplicación y división).</item>
+<item>Si el dígito que hay que descartar (el que está inmediatamente a la derecha del dígito que hay que retener) es inferior a 5, "se redondea hacia abajo" y se mantiene el dígito sin modificar; si es superior a 5, "se redondea hacia arriba" y se incrementa el dígito retenido en 1. Si el dígito eliminado es 5, y es el último dígito del número o está seguido solo por ceros, redondee hacia arriba o hacia abajo, lo que dé un valor par para el dígito retenido. Si algún dígito distinto de cero sigue al 5 descartado, redondee hacia arriba. (La última parte de esta regla puede parecerle un poco extraña, pero se basa en estadísticas fiables y tiene por objeto evitar cualquier sesgo al descartar el dígito "5", ya que se acerca por igual a los dos valores posibles del dígito retenido).</item>
+</list>
+<para id="fs-idm107335696">Los siguientes ejemplos ilustran la aplicación de esta regla en el redondeo de algunos números diferentes a tres cifras significativas:</para>
+<list id="fs-idm192081680" list-type="bulleted" bullet-style="bullet"><item>0,028675 se redondea a 0,0287 (el dígito descartado, 7, es mayor que 5)</item>
+<item>18,3384 se redondea "hacia abajo" a 18,3 (el dígito descartado, 3, es menor que 5)</item>
+<item>6,8752 redondea "hacia arriba" a 6,88 (el dígito descartado es 5, y le sigue un dígito distinto de cero)</item>
+<item>92,85 redondea "hacia abajo" a 92,8 (el dígito descartado es 5, y el dígito retenido es par)</item>
+</list><para id="fs-idm178562592">Repasemos estas reglas con algunos ejemplos.</para>
+<example id="fs-idp40552528">
+<para id="fs-idm303504976">
+<title>Redondeo de números</title>
+Redondee lo siguiente al número de cifras significativas indicado:</para>
+<para id="fs-idm277227680">(a) 31,57 (a dos cifras significativas)</para>
+<para id="fs-idm113120528">(b) 8,1649 (a tres cifras significativas)</para>
+<para id="fs-idp33608880">(c) 0,051065 (a cuatro cifras significativas)</para>
+<para id="fs-idm208861552">(d) 0,90275 (a cuatro cifras significativas)</para>
+<para id="fs-idm125552432">
+<title>Solución</title>
+(a) 31,57 se redondea "hacia arriba" a 32 (el dígito descartado es 5, y el dígito retenido es par)</para>
+<para id="fs-idm180680048">(b) 8,1649 se redondea "hacia abajo" a 8,16 (el dígito descartado, 4, es menor que 5)</para><para id="fs-idm167789680">(c) 0,051065 se redondea "hacia abajo" a 0,05106 (el dígito descartado es 5, y el dígito retenido es par)</para>
+<para id="fs-idm174540832">(d) 0,90275 se redondea "hacia arriba" a 0,9028 (el dígito descartado es 5, y el dígito retenido es par)</para>
+<para id="fs-idm185983232">
+<title>Compruebe lo aprendido</title>
+Redondee lo siguiente al número de cifras significativas indicado:</para>
+<para id="fs-idm69923072">(a) 0,424 (a dos cifras significativas)</para>
+<para id="fs-idm65589936">(b) 0,0038661 (a tres cifras significativas)</para>
+<para id="fs-idm107300848">(c) 421,25 (a cuatro cifras significativas)</para>
+<para id="fs-idm258155488">(d) 28.683,5 (a cinco cifras significativas)</para>
+<note id="fs-idm155369456">
+<title>Respuesta:</title>
+<para id="fs-idm260724048">(a) 0,42; (b) 0,00387; (c) 421,2; (d) 28.684</para>
+</note>
+</example>
+<example id="fs-idp61408240">
+<para id="fs-idm327587104">
+<title>Suma y resta con cifras significativas</title>
+Regla: Al sumar o restar números, redondee el resultado al mismo número de decimales que el número con menos decimales (es decir, el valor menos seguro en términos de suma y resta).</para>
+<para id="fs-idm318611824">(a) Sume 1,0023 g y 4,383 g.</para>
+<para id="fs-idm288438480">(b) Reste 421,23 g de 486 g.</para>
+<para id="fs-idm277651872">
+<title>Solución</title>
+</para>
+<para id="fs-idm21393952">(a) <m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mtable columnalign="left"><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mspace width="1.4em"/><m:mn>1,0023 g</m:mn></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>+ 4,383 g</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow><m:mrow><m:mspace width="1.5em"/><m:mn>5,3853 g</m:mn></m:mrow></m:mfrac></m:mrow></m:mtd></m:mtr></m:mtable></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-idm107330240">La respuesta es 5,385 g (redondee a la milésima; tres decimales)</para>
+<para id="fs-idm257863024">(b) <m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mtable columnalign="left"><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd></m:mtr></m:mtable></m:mtd></m:mtr><m:mtr><m:mtd><m:mfrac><m:mrow><m:mtable columnalign="left"><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mtext>   </m:mtext><m:mspace width="0.8em"/><m:mn>486 g</m:mn></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mo>-</m:mo><m:mn>421,23 g</m:mn></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow><m:mrow><m:mspace width="1.3em"/><m:mn>64,77 g</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-idp47889280">La respuesta es 65 g (redondeado a la unidad; sin decimales)</para>
+<media id="fs-idm330284704" class="scaled-down" alt="La figura A muestra que 1,0023 se suma a 4,383 para obtener la respuesta 5,385. 1,0023 va al lugar de las diez milésimas, pero 4,383 va al lugar de las milésimas, por lo que es el número menos preciso de los dos. Por lo tanto, la respuesta, 5,3853, debe redondearse a las milésimas, para obtener 5,385. La figura B muestra 486 gramos menos 421,23 gramos, lo que da la respuesta 64,77 gramos. Esta respuesta debe ser redondeada a la unidad, lo que hace que la respuesta sea 65 gramos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_05_SigDigits4_img.jpg"/>
+</media>
+<para id="fs-idm97432976">
+<title>Compruebe lo aprendido</title>
+(a) Sume 2,334 mL y 0,31 mL.</para>
+<para id="fs-idm113279504">(b) Reste 55,8752 m de 56,533 m.</para>
+<note id="fs-idp26956096">
+<title>Respuesta:</title>
+<para id="fs-idp40053216">(a) 2,64 mL; (b) 0,658 m</para>
+</note>
+</example>
+<example id="fs-idp34148976">
+<para id="fs-idm194335568">
+<title>Multiplicación y división con cifras significativas</title>
+Regla: Al multiplicar o dividir números, redondee el resultado al mismo número de dígitos que el número con menos cifras significativas (el valor menos cierto en términos de multiplicación y división).</para>
+<para id="fs-idm176907440">(a) Multiplique 0,6238 cm por 6,6 cm.</para>
+<para id="fs-idp40092848">(b) Divida 421,23 g entre 486 mL.</para>
+<para id="fs-idm318303792">
+<title>Solución</title>
+</para>
+<para id="fs-idp11052048">(a) <m:math><m:mrow><m:mtable columnalign="left"><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mtable columnalign="left"><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mtext>0,6238 cm</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>6,6</m:mn><m:mspace width="0.2em"/><m:mtext>cm</m:mtext><m:mo>=</m:mo><m:mn>4,11708</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>el resultado es</m:mtext><m:mspace width="0.2em"/><m:mn>4,1</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>redondee a dos cifras significativas</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mtext>cuatro cifras significativas</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>dos cifras significativas</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>respuesta de dos cifras significativas</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-idm194468576">(b) <m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mfrac><m:mrow><m:mtext>421,23 g</m:mtext></m:mrow><m:mrow><m:mtext>486 mL</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,866728... g/mL</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>el resultado es 0,867 g/mL</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>redondee a tres cifras significativas</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mfrac><m:mrow><m:mtext>cinco cifras significativas</m:mtext></m:mrow><m:mrow><m:mtext>tres cifras significativas</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>respuesta de tres cifras significativas</m:mtext></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-idp45405152">
+<title>Compruebe lo aprendido</title>
+(a) Multiplique 2,334 cm y 0,320 cm.</para>
+<para id="fs-idm155228848">(b) Divida 55,8752 m entre 56,53 s.</para>
+<note id="fs-idm282773952">
+<title>Respuesta:</title>
+<para id="fs-idm154957312">(a) 0,747 cm<sup>2</sup> (b) 0,9884 m/s</para>
+</note>
+</example>
+<para id="fs-idp31178224">En medio de todos estos tecnicismos, es importante tener en cuenta la razón de ser de estas reglas sobre las cifras significativas y el redondeo: representar correctamente la certeza de los valores comunicados y garantizar que un resultado calculado no se represente como más seguro que el valor menos seguro utilizado en el cálculo.</para>
+<example id="fs-idp40680240">
+<para id="fs-idm180409728">
+<title>Cálculo con cifras significativas</title>
+Una bañera común mide 13,44 dm de largo, 5,920 dm de ancho y 2,54 dm de profundidad. Suponga que la bañera es rectangular y calcule su volumen aproximado en litros.</para>
+<para id="fs-idm209075984">
+<title>Solución</title>
+</para>
+<equation id="fs-idm15365184" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="left"><m:mi>V</m:mi></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>l</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>w</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>d</m:mi></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>13,44 dm</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>5,920 dm</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>2,54 dm</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mtext>202,09459</m:mtext><m:mn>...</m:mn><m:mspace width="0.2em"/><m:msup><m:mtext>dm</m:mtext><m:mn>3</m:mn></m:msup><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>valor de la calculadora</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msup><m:mtext>202 dm</m:mtext><m:mn>3</m:mn></m:msup><m:mtext>o 202 L</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>respuesta redondeada a tres cifras significativas</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm219800928">
+<title>Compruebe lo aprendido</title>
+¿Cuál es la densidad de un líquido con una masa de 31,1415 g y un volumen de 30,13 cm<sup>3</sup>?</para>
+<note id="fs-idm178680064">
+<title>Respuesta:</title>
+<para id="fs-idm178106592">1,034 g/mL</para>
+</note>
+</example>
+<example id="fs-idm148976192">
+<para id="fs-idp29940656">
+<title>Determinación experimental de la densidad mediante el desplazamiento del agua</title>
+Se pesa un trozo de barra de refuerzo y se sumerge en una probeta graduada parcialmente llena de agua, con los resultados que se muestran.</para>
+<media id="fs-idm332426528" class="scaled-down" alt="Este diagrama muestra que el volumen inicial de agua en una probeta graduada es de 13,5 mililitros. Se añade un trozo de barra de refuerzo metálica de 69,658 gramos a la probeta graduada, lo que hace que el agua alcance un volumen final de 22,4 mililitros">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_04_CylRebar.jpg"/>
+</media>
+<para id="fs-idm245394240">(a) Utilice estos valores para determinar la densidad de este trozo de barra de refuerzo.</para>
+<para id="fs-idm209220496">(b) Las barras de refuerzo son en su mayoría de hierro. ¿Su resultado en (a) apoya esta afirmación? ¿Cómo?</para>
+<para id="fs-idm325787440">
+<title>Solución</title>El volumen del trozo de barra de refuerzo es igual al volumen del agua desplazada:</para>
+<equation id="fs-idm180698816" class="unnumbered"><m:math><m:mrow><m:mtext>volumen</m:mtext><m:mo>=</m:mo><m:mtext>22,4 mL</m:mtext><m:mo>-</m:mo><m:mtext>13,5 mL</m:mtext><m:mo>=</m:mo><m:mtext>8,9 mL</m:mtext><m:mo>=</m:mo><m:msup><m:mrow><m:mtext>8,9 cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></equation><para id="fs-idm181276752">(redondeado al 0,1 mL más cercano, según la regla de la suma y la resta)</para>
+<para id="fs-idp36085040">La densidad es la relación de masa y volumen:</para>
+<equation id="fs-idp135143440" class="unnumbered"><m:math><m:mrow><m:mtext>densidad</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa</m:mtext></m:mrow><m:mrow><m:mtext>volumen</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>69,658 g</m:mtext></m:mrow><m:mrow><m:msup><m:mrow><m:mtext>8,9 cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:msup><m:mrow><m:mtext>7,8 g/cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm277303296">(redondeado a dos cifras significativas, según la regla de multiplicación y división)</para>
+<para id="fs-idm243666944">En la <link target-id="fs-idm45639696" document="m68674"/>, la densidad del hierro es de 7,9 g/cm<sup>3</sup>, muy cercana a la de la barra de refuerzo, lo que apoya el hecho de que la barra de refuerzo es principalmente de hierro.</para>
+<para id="fs-idm259990592">
+<title>Compruebe lo aprendido</title>
+Se pesa un trozo de forma irregular de un material amarillento y brillante y se sumerge en una probeta graduada, con los resultados que se muestran.</para>
+<media id="fs-idm283007920" class="scaled-down" alt="Este diagrama muestra que el volumen inicial de agua en una probeta graduada es de 17,1 mililitros. Se añade una roca de color dorado de 51,842 gramos a la probeta graduada, haciendo que el agua alcance un volumen final de 19,8 mililitros">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_04_CylGold.jpg"/>
+</media>
+<para id="fs-idm272657872">(a) Utilice estos valores para determinar la densidad de este material.</para>
+<para id="fs-idm166920160">(b) ¿Tiene alguna conjetura razonable sobre la identidad de este material? Explique su razonamiento.</para>
+<note id="fs-idm113054800">
+<title>Respuesta:</title>
+<para id="fs-idm287839728">(a) 19 g/cm<sup>3</sup>; (b) Es probable que sea oro; el aspecto es correcto para el oro y es muy cercana a la densidad dada para el oro en la <link target-id="fs-idm45639696" document="m68674"/>.</para>
+</note>
+</example>
+</section>
+<section id="fs-idp33954960">
+<title>Precisión y exactitud</title>
+<para id="fs-idp4474304">Los científicos suelen realizar mediciones repetidas de una cantidad para garantizar la calidad de sus hallazgos y evaluar tanto la <term>precisión</term> como la <term>exactitud</term> de sus resultados. Se dice que las mediciones son precisas si dan resultados muy similares cuando se repiten de la misma manera. Se considera que una medición es exacta si da un resultado muy cercano al valor verdadero o aceptado. Los valores precisos coinciden entre sí; los valores exactos coinciden con un valor verdadero. Estas caracterizaciones pueden extenderse a otros contextos, como los resultados de una competición de tiro con arco (<link target-id="fs-idm1827280"/>).</para>
+<figure id="fs-idm1827280">
+<media id="fs-idp4898080" alt="Las figuras desde la A hasta la C muestran cada una de las dianas con agujeros donde impactan las flechas. El arquero de la figura A fue exacto y preciso, ya que las 3 flechas están agrupadas en el centro de la diana. En la figura B, el arquero es preciso, pero no exacto, ya que las 3 flechas están agrupadas, pero a la derecha del centro de la diana. En la figura C, el arquero no es ni preciso ni exacto, ya que los 3 agujeros no están juntos y se encuentran tanto en la parte superior derecha como en la derecha de la diana.">
+<image mime-type="image/jpg" src="../../media/CNX_Chem_01_05_Archery.jpg"/>
+</media>
+<caption>(a) Estas flechas están cerca de la diana y la una de la otra, por lo que son exactas y precisas. (b) Estas flechas están cerca la una de la otra, pero no de la diana, por lo que son precisas, pero no exactas. (c) Estas flechas no están ni en la diana ni cerca la una de la otra, por lo que no son exactas ni precisas.</caption>
+</figure>
+<para id="fs-idp174984224">Supongamos que a una química de control de calidad de una empresa farmacéutica se le encarga la comprobación de la exactitud y la precisión de tres máquinas diferentes que deben dispensar 10 onzas (296 mL) de sirope para la tos en frascos de almacenamiento. Procede a utilizar cada máquina para llenar cinco botellas y luego determina cuidadosamente el volumen real dispensado, obteniendo los resultados tabulados en la <link target-id="fs-idp31780400"/>.</para>
+<table id="fs-idp31780400" class="top-titled" summary="El volumen, en mililitros, del medicamento para la tos suministrado por los dispensadores 1, 2 y 3 se muestra en una tabla. Los valores del dispensador 1 son 283,3, 284,1, 283,9, 284,0 y 284,1. Los valores del dispensador 2 son 298,3, 294,2, 296,0, 297,8 y 293,9. Los valores del dispensador 3 son 296,1, 295,9, 296,1, 296,0 y 296,1.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry namest="c1" nameend="c3" align="center">Volumen (mL) de medicamento para la tos suministrado por dispensadores de 10 onzas (296 mL)</entry>
+</row>
+<row valign="top">
+<entry align="left">Dispensador N.º 1</entry>
+<entry align="left">Dispensador N.º 2</entry>
+<entry align="left">Dispensador N.º 3</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">283,3</entry>
+<entry align="left">298,3</entry>
+<entry align="left">296,1</entry>
+</row>
+<row valign="top">
+<entry align="left">284,1</entry>
+<entry align="left">294,2</entry>
+<entry align="left">295,9</entry>
+</row>
+<row valign="top">
+<entry align="left">283,9</entry>
+<entry align="left">296,0</entry>
+<entry align="left">296,1</entry>
+</row>
+<row valign="top">
+<entry align="left">284,0</entry>
+<entry align="left">297,8</entry>
+<entry align="left">296,0</entry>
+</row>
+<row valign="top">
+<entry align="left">284,1</entry>
+<entry align="left">293,9</entry>
+<entry align="left">296,1</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+<para id="fs-idp4939264">Teniendo en cuenta estos resultados, informará de que el dispensador N.º 1 es preciso (los valores son todos cercanos entre sí, con una diferencia de unas pocas décimas de mililitro) pero no es exacto (ninguno de los valores se acerca al valor objetivo de 296 mL, siendo cada uno de ellos más de 10 mL demasiado bajo). Los resultados del dispensador N.º 2 representan una mayor exactitud (cada volumen está a menos de 3 mL de 296 mL) pero una peor precisión (los volúmenes varían en más de 4 mL). Por último, puede informar que el dispensador N.º 3 funciona bien, dispensando el sirope para la tos con precisión (todos los volúmenes están a 0,1 mL del volumen objetivo) y con exactitud (los volúmenes difieren entre sí en no más de 0,2 mL).</para>
+</section>
+<section id="fs-idp223627024" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp108718096">Las cantidades pueden definirse o medirse. Las cantidades medidas tienen una incertidumbre asociada que está representada por el número de cifras significativas del número de la cantidad. La incertidumbre de una cantidad calculada depende de las incertidumbres de las cantidades utilizadas en el cálculo y se refleja en el redondeo del valor. Las cantidades se caracterizan con respecto a la exactitud (proximidad a un valor verdadero o aceptado) y la precisión (variación entre los resultados de las mediciones repetidas).</para>
+</section>
+<section id="fs-idp243777760" class="exercises">
+<title>Ejercicios de Química del final del capítulo</title>
+<exercise id="fs-idm29064528">
+<problem id="fs-idm48613136">
+<para id="fs-idp4785280">Exprese cada uno de los siguientes números en notación científica con las cifras significativas correctas:</para>
+<para id="fs-idp96669248">(a) 711,0</para>
+<para id="fs-idp27687952">(b) 0,239</para>
+<para id="fs-idp31496192">(c) 90743</para>
+<para id="fs-idm49076928">(d) 134,2</para>
+<para id="fs-idp94731152">(e) 0,05499</para>
+<para id="fs-idp109822816">(f) 10000,0</para>
+<para id="fs-idp90485424">(g) 0,000000738592</para>
+</problem>
+</exercise>
+<exercise id="fs-idp24074624">
+<problem id="fs-idp90864864">
+<para id="fs-idp90495520">Exprese cada uno de los siguientes números en notación exponencial con las cifras significativas correctas:</para>
+<para id="fs-idp158645376">(a) 704</para>
+<para id="fs-idp31070976">(b) 0,03344</para>
+<para id="fs-idp133945968">(c) 547,9</para>
+<para id="fs-idp16168048">(d) 22086</para>
+<para id="fs-idp3115552">(e) 1000,00</para>
+<para id="fs-idp55691168">(f) 0,0000000651</para>
+<para id="fs-idp19768032">(g) 0,007157</para>
+</problem>
+<solution id="fs-idp74376528">
+<para id="fs-idp28073776">(a) 7,04 <m:math><m:mo>×</m:mo></m:math> 10<sup>2</sup>; (b) 3,344 <m:math><m:mo>×</m:mo></m:math> 10<sup>-2</sup>; (c) 5,479 <m:math><m:mo>×</m:mo></m:math> 10<sup>2</sup>; (d) 2,2086 <m:math><m:mo>×</m:mo></m:math> 10<sup>4</sup>; (e) 1,00000 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup>; (f) 6,51 <m:math><m:mo>×</m:mo></m:math> 10<sup>-8</sup>; (g) 7,157 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp26053648">
+<problem id="fs-idm33429632">
+<para id="fs-idp336803088">Indique si cada uno de los siguientes elementos puede determinarse con exactitud o debe medirse con cierto grado de incertidumbre:</para>
+<para id="fs-idp14630320">(a) el número de huevos en una cesta</para>
+<para id="fs-idp28370912">(b) la masa de una docena de huevos</para>
+<para id="fs-idp223534496">(c) el número de galones de gasolina necesarios para llenar el tanque de un automóvil</para>
+<para id="fs-idp288981408">(d) el número de cm en 2 m</para>
+<para id="fs-idp223527280">(e) la masa de un libro de texto</para>
+<para id="fs-idp115215296">(f) el tiempo necesario para ir de San Francisco a Kansas City a una velocidad media de 53 mi/h</para>
+</problem>
+</exercise>
+<exercise id="fs-idp30473840">
+<problem id="fs-idp255833248">
+<para id="fs-idp13543392">Indique si cada uno de los siguientes elementos puede determinarse con exactitud o debe medirse con cierto grado de incertidumbre:</para>
+<para id="fs-idp192668592">(a) el número de segundos de una hora</para>
+<para id="fs-idp131489888">(b) el número de páginas de este libro</para>
+<para id="fs-idp29050000">(c) el número de gramos de su peso</para>
+<para id="fs-idp40603568">(d) el número de gramos en 3 kilogramos</para>
+<para id="fs-idp42867296">(e) el volumen de agua que se bebe en un día</para>
+<para id="fs-idp5273504">(f) la distancia de San Francisco a Kansas City</para>
+</problem>
+<solution id="fs-idp32015744">
+<para id="fs-idp120430064">(a) exacto; (b) exacto; (c) incierto; (d) exacto; (e) incierto; (f) incierto</para>
+</solution>
+</exercise>
+<exercise id="fs-idp191983136">
+<problem id="fs-idp8201520">
+<para id="fs-idp44784160">¿Cuántas cifras significativas contienen cada una de las siguientes medidas?</para>
+<para id="fs-idp11261600">(a) 38,7 g</para>
+<para id="fs-idp108771792">(b) 2 <m:math><m:mo>×</m:mo></m:math> 10<sup>18</sup> m</para>
+<para id="fs-idp1326800">c) 3.486.002 kg</para>
+<para id="fs-idp45208768">(d) 9,74150 <m:math><m:mo>×</m:mo></m:math> 10<sup>-4</sup> J</para>
+<para id="fs-idp70796512">(e) 0,0613 cm<sup>3</sup></para>
+<para id="fs-idp11528432">(f) 17,0 kg</para>
+<para id="fs-idp18835104">(g) 0,01400 g/mL</para>
+</problem>
+</exercise>
+<exercise id="fs-idp16088144">
+<problem id="fs-idp36001056">
+<para id="fs-idp288732592">¿Cuántas cifras significativas contienen cada una de las siguientes medidas?</para>
+<para id="fs-idp191599120">(a) 53 cm</para>
+<para id="fs-idp349577664">(b) 2,05 <m:math><m:mo>×</m:mo></m:math> 10<sup>8</sup> m</para>
+<para id="fs-idp122538384">(c) 86.002 J</para>
+<para id="fs-idm7027952">(d) 9,740 <m:math><m:mo>×</m:mo></m:math> 10<sup>4</sup> m/s</para>
+<para id="fs-idp135014480">(e) 10,0613 m<sup>3</sup>
+</para>
+<para id="fs-idp115902336">(f) 0,17 g/mL</para>
+<para id="fs-idp89571696">(g) 0,88400 s</para>
+</problem>
+<solution id="fs-idp16481200">
+<para id="fs-idm1331360">(a) dos; (b) tres; (c) cinco; (d) cuatro; (e) seis; (f) dos; (g) cinco</para>
+</solution>
+</exercise>
+<exercise id="fs-idp334498416">
+<problem id="fs-idp18234160">
+<para id="fs-idp10861136">En las etiquetas de los productos comerciales se indicaban las siguientes cantidades. Determine el número de cifras significativas de cada una.</para>
+<para id="fs-idp18329968">(a) 0,0055 g de ingredientes activos</para>
+<para id="fs-idp42748272">(b) 12 tabletas</para>
+<para id="fs-idp220641424">(c) peróxido de hidrógeno al 3 %</para>
+<para id="fs-idm9127744">(d) 5,5 onzas</para>
+<para id="fs-idp30889968">(e) 473 mL</para>
+<para id="fs-idm29427408">(f) 1,75 % de bismuto</para>
+<para id="fs-idp10568624">(g) 0,001 % de ácido fosfórico</para>
+<para id="fs-idp26918208">(h) 99,80 % de ingredientes inertes</para>
+</problem>
+</exercise>
+<exercise id="fs-idp15391168">
+<problem id="fs-idp28803232">
+<para id="fs-idp71208752">Redondee cada uno de los siguientes números a dos cifras significativas:</para>
+<para id="fs-idp367138576">(a) 0,436</para>
+<para id="fs-idp42876384">(b) 9,000</para>
+<para id="fs-idp319885952">(c) 27,2</para>
+<para id="fs-idp3364208">(d) 135</para>
+<para id="fs-idp180954912">(e) 1,497 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></para>
+<para id="fs-idm38730144">(f) 0,445</para>
+</problem>
+<solution id="fs-idp334708000">
+<para id="fs-idp133316128">(a) 0,44; (b) 9,0; (c) 27; (d) 140; (e) 1,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup>; (f) 0,44</para></solution>
+</exercise>
+<exercise id="fs-idp108082000">
+<problem id="fs-idp131536960">
+<para id="fs-idp133328560">Redondee cada uno de los siguientes números a dos cifras significativas:</para>
+<para id="fs-idp119500528">(a) 517</para>
+<para id="fs-idp329265168">(b) 86,3</para>
+<para id="fs-idp79802960">(c) 6,382 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup></para>
+<para id="fs-idp79596720">(d) 5,0008</para>
+<para id="fs-idp10810592">(e) 22,497</para>
+<para id="fs-idp329422320">(f) 0,885</para>
+</problem>
+</exercise>
+<exercise id="fs-idp358584288">
+<problem id="fs-idp95370032">
+<para id="fs-idp192379952">Realice los siguientes cálculos e informe de cada respuesta con el número correcto de cifras significativas.</para>
+<para id="fs-idp101772784">(a) 628 <m:math><m:mo>×</m:mo></m:math> 342</para>
+<para id="fs-idp64911376">(b) (5,63 <m:math><m:mo>×</m:mo></m:math> 10<sup>2</sup>) <m:math><m:mo>×</m:mo></m:math> (7,4 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup>)</para>
+<para id="fs-idp43333760">(c) <m:math><m:mrow><m:mfrac><m:mrow><m:mn>28,0</m:mn></m:mrow><m:mrow><m:mn>13,483</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+<para id="fs-idp33766256">(d) 8119 <m:math><m:mo>×</m:mo></m:math> 0,000023</para>
+<para id="fs-idp2544704">(e) 14,98 + 27.340 + 84,7593</para>
+<para id="fs-idp114767776">(f) 42,7 + 0,259</para>
+</problem>
+<solution id="fs-idp10779280">
+<para id="fs-idp42820064">(a) 2,15 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup>; (b) 4,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>6</sup>; (c) 2,08; (d) 0,19; (e) 27.440; (f) 43,0</para>
+</solution>
+</exercise>
+<exercise id="fs-idp356573616">
+<problem id="fs-idp10636032">
+<para id="fs-idp7188816">Realice los siguientes cálculos e informe de cada respuesta con el número correcto de cifras significativas.</para>
+<para id="fs-idm37142896">(a) 62,8 <m:math><m:mo>×</m:mo></m:math> 34</para>
+<para id="fs-idp61690240">(b) 0,147 + 0,0066 + 0,012</para>
+<para id="fs-idp24061616">(c) 38 <m:math><m:mo>×</m:mo></m:math> 95 <m:math><m:mo>×</m:mo></m:math> 1,792</para>
+<para id="fs-idp27126640">(d) 15 - 0,15 - 0,6155</para>
+<para id="fs-idp288811424">(e) <m:math><m:mrow><m:mn>8,78</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>0,0500</m:mn></m:mrow><m:mrow><m:mn>0,478</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-idp67824512">(f) 140 + 7,68 + 0,014</para>
+<para id="fs-idp133759616">(g) 28,7 – 0,0483</para>
+<para id="fs-idp14335968">(h) <m:math><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>88,5</m:mn><m:mo>-</m:mo><m:mn>87,57</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>45,13</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp30946992">
+<problem id="fs-idp4924640">
+<para id="fs-idp14168896">Tome en cuenta los resultados del concurso de tiro con arco que se muestra en esta figura.</para>
+<para id="fs-idp29005776">(a) ¿Qué arquero es más preciso?</para>
+<para id="fs-idp32003568">(b) ¿Qué arquero es más exacto?</para>
+<para id="fs-idp110085200">(c) ¿Quién es el menos preciso y el menos exacto?</para>
+<media id="fs-idp94481888" class="scaled-down" alt="Se muestran 4 dianas, cada una con 4 agujeros que indican dónde impactan las flechas. El arquero W impacta las 4 flechas muy cerca del centro de la diana. El arquero X impacta las 4 flechas en un grupo apretado, pero lejos de la parte inferior derecha de la diana. El arquero Y impacta las 4 flechas en diferentes esquinas de la diana. Las 4 flechas están muy lejos del centro de la diana. El arquero Z pone 2 flechas cerca de la diana y otras 2 flechas lejos de la diana.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_05_Archer2_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp175189888">
+<para id="fs-idp27840096">(a) Arquero X; (b) Arquero W; (c) Arquero Y</para>
+</solution>
+</exercise>
+<exercise id="fs-idp33718320">
+<problem id="fs-idp29543472">
+<para id="fs-idp221159488">Clasifique los siguientes conjuntos de medidas como exactas, precisas, ambas o ninguna.</para>
+<para id="fs-idp3093664">(a) Comprobación de la consistencia del peso de las galletas de chocolate: 17,27 g, 13,05 g, 19,46 g, 16,92 g</para>
+<para id="fs-idp29102224">(b) Comprobación del volumen de un lote de pipetas de 25 mL: 27,02 mL, 26,99 mL, 26,97 mL, 27,01 mL</para>
+<para id="fs-idp223487632">(c) Determinación de la pureza del oro: 99,9999 %, 99,9998 %, 99,9998 %, 99,9999 %</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp330245120">
+<term>exactitud</term>
+<meaning id="fs-idp158598000">el grado de igualdad de una medida con un valor correcto</meaning>
+</definition>
+<definition id="fs-idp17670352">
+<term>número exacto</term>
+<meaning id="fs-idp332502464">número derivado por conteo o por definición</meaning>
+</definition>
+<definition id="fs-idp28800512">
+<term>precisión</term>
+<meaning id="fs-idp121044464">el grado de igualdad de una medida con la misma cuando se repite</meaning>
+</definition>
+<definition id="fs-idp68905696">
+<term>redondeo</term>
+<meaning id="fs-idp21808480">procedimiento utilizado para garantizar que los resultados calculados reflejan adecuadamente la incertidumbre de las mediciones utilizadas en el cálculo</meaning>
+</definition>
+<definition id="fs-idp3346000">
+<term>cifras significativas</term>
+<meaning id="fs-idp130723504">(también, dígitos significativos) todos los dígitos medidos en una determinación, incluido el último dígito incierto</meaning>
+</definition>
+<definition id="fs-idp96606928">
+<term>incertidumbre</term>
+<meaning id="fs-idp190958640">estimación de la cantidad en la que la medición difiere del valor real</meaning>
+</definition>
+</glossary>
+</document>

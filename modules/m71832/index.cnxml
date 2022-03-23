@@ -1,0 +1,73 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="introduction">
+<title>Introducción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71832</md:content-id>
+  <md:title>Introducción</md:title>
+  <md:abstract><list>
+<item>Equilibrio químico</item>
+<item>Constantes de equilibrio</item>
+<item>Desplazamiento de equilibrios: principio de Le Châtelier</item>
+<item>Cálculos de equilibrio</item>
+</list></md:abstract>
+  <md:uuid>4c2a35c8-ed8c-429c-9e49-25e0d3003bdc</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_13_00_Blood" class="splash">
+<media id="fs-idm45772400" alt="Una imagen muestra tres cuadrados de color marrón claro, colocados uno al lado del otro en la esquina superior izquierda. En la esquina inferior derecha también se encuentran dos de los mismos cuadrados, uno al lado del otro. Cada cuadrado tiene un punto negro en el centro. Uno de los cuadrados está etiquetado como &quot;C O subíndice 2&quot; y tiene una flecha de doble punta que apunta a una estructura roja en forma de tubo que atraviesa los cuadrados de la imagen desde la parte superior derecha hasta la inferior izquierda. Esta flecha está etiquetada como &quot;C O subíndice 2 disuelto en plasma&quot;. El tubo rojo tiene dos formas rojas redondas en él, y la superior está etiquetada como &quot;C O subíndice 2 transportado en los glóbulos rojos&quot;. Los huecos entre los cuadrados y el tubo rojo son de color azul claro. Uno de los cuadrados de la parte superior de la imagen está etiquetado como &quot;C O subíndice 2&quot; y está conectado por una flecha de doble punta a una ecuación en el tubo rojo que está etiquetada como &quot;C O subíndice 2, un signo más, H subíndice 2 O, flecha hacia la derecha, H subíndice 2 C O subíndice 3, flecha hacia la derecha, H C O subíndice 3 signo negativo, signo de suma, H superíndice signo positivo&quot;. El compuesto &quot;H C O subíndice 3 superíndice signo negativo&quot; se conecta entonces con una flecha de doble punta al espacio del tubo rojo y se etiqueta &quot;H C O subíndice 3 superíndice signo negativo disuelto en el plasma como ácido carbónico&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_13_00_Blood.jpg"/>
+</media>
+<caption>El transporte de dióxido de carbono en el cuerpo implica varias reacciones químicas reversibles, como la hidrólisis y la ionización de ácidos (entre otras).</caption>
+</figure>
+<para id="fs-idp51855856">Imagine una playa llena de bañistas y nadadores. Cuando los que toman el sol se acaloran demasiado, entran en las olas para nadar y refrescarse. Cuando los nadadores se cansan, vuelven a la playa para descansar. Si el ritmo con el que los bañistas entran en el mar fuera igual al ritmo con el que los nadadores regresan a la arena, el número (aunque no la identidad) de bañistas y nadadores se mantendría constante. Este escenario ilustra un fenómeno dinámico conocido como <emphasis effect="italics">equilibrio</emphasis> en el que procesos opuestos ocurren a igual ritmo. Los procesos químicos y físicos están sujetos a este fenómeno; estos procesos están en equilibrio cuando las velocidades de reacción directa e inversa son iguales. Los sistemas de equilibrio son omnipresentes en la naturaleza; las diversas reacciones en las que interviene el dióxido de carbono disuelto en la sangre son ejemplos de ello (vea la <link target-id="CNX_Chem_13_00_Blood"/>). Este capítulo ofrece una introducción completa a los aspectos esenciales del equilibrio químico.</para>
+<para id="fs-id1167299508841">Ahora tenemos una buena comprensión del cambio químico y físico que nos permite determinar, para cualquier proceso dado:<list id="fs-id1167296136723" list-type="enumerated" number-style="arabic"><item>Si el proceso es endotérmico o exotérmico.</item>
+<item>Si el proceso va acompañado de un aumento o disminución de la entropía.</item>
+<item>Si un proceso será espontáneo, no espontáneo, o lo que hemos llamado un proceso de equilibrio.</item>
+</list></para>
+<para id="fs-id1167299569802">Recordemos que cuando el valor ∆<emphasis effect="italics">G</emphasis> de una reacción es cero, consideramos que no hay cambio de energía libre, es decir, no hay energía libre disponible para realizar un trabajo útil. ¿Significa esto que una reacción en la que Δ<emphasis effect="italics">G</emphasis> = 0 se detiene por completo? No, no es así. Al igual que un líquido existe en equilibrio con su vapor en un recipiente cerrado, donde los ritmos de evaporación y condensación son iguales, existe una conexión con el estado de equilibrio para un cambio de fase o una reacción química. Es decir, en el equilibrio, las velocidades directa e inversa de la reacción son iguales. Más adelante desarrollaremos este concepto y lo ampliaremos a una relación entre el equilibrio y la energía libre.
+</para><para id="fs-id1167296156886">
+En la explicación que sigue, utilizaremos el término <emphasis effect="italics">Q</emphasis> para referirnos a cualquier concentración o presión de reactivo o producto. Cuando las concentraciones o la presión de los reactivos y los productos están en equilibrio, se utilizará el término <emphasis effect="italics">K</emphasis>. Esto se explicará más claramente a medida que avancemos en este capítulo.
+</para>
+<para id="fs-id1167296157132">Ahora consideraremos la conexión entre el cambio de energía libre y la constante de equilibrio. La relación fundamental es:<newline/> <m:math><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>=</m:mo><m:mi>−R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>K</m:mi></m:math>- esto puede ser para <m:math><m:msub><m:mrow><m:mi>K</m:mi></m:mrow><m:mrow><m:mi>c</m:mi></m:mrow></m:msub></m:math> o <m:math><m:msub><m:mrow><m:mi>K</m:mi></m:mrow><m:mrow><m:mi>p</m:mi></m:mrow></m:msub></m:math> (y veremos más adelante, cualquier constante de equilibrio que encontremos).</para><para id="fs-id1167296157399">También sabemos que la forma de <emphasis effect="italics">K</emphasis> puede utilizarse en condiciones de no equilibrio como el cociente de reacción, <emphasis effect="italics">Q</emphasis>. La relación que define aquí es
+<equation class="unnumbered" id="eip-id1169899962411"><m:math><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>=</m:mo><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>Q</m:mi></m:math></equation>
+Sin el superíndice, el valor de ∆<emphasis effect="italics">G</emphasis> puede calcularse en cualquier conjunto de concentraciones.
+</para><para id="fs-id1167299731582">Observe que como <emphasis effect="italics">Q</emphasis> es una reacción de acción de masas de productos / reactivos, a medida que una reacción avanza de izquierda a derecha, las concentraciones de productos aumentan a medida que las concentraciones de reactivos disminuyen, hasta que <emphasis effect="italics">Q = K</emphasis>, y en ese momento ∆<emphasis effect="italics">G</emphasis> se hace cero:<newline/> <m:math><m:mn>0</m:mn><m:mo>=</m:mo><m:mo>∆</m:mo><m:mi>G</m:mi><m:mo>°</m:mo><m:mo>+</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mtext>ln</m:mtext><m:mi>K</m:mi></m:math>, una relación que se reduce a nuestra conexión determinante entre <emphasis effect="italics">Q</emphasis> y <emphasis effect="italics">K</emphasis>.</para><para id="fs-id1167299679770">Así, podemos ver claramente que a medida que una reacción se mueve hacia el equilibrio, el valor de ∆<emphasis effect="italics">G</emphasis> va a cero.</para>
+<para id="fs-id1167299786035">Ahora, piense en la conexión entre los signos de ∆<emphasis effect="italics">G</emphasis>° y ∆<emphasis effect="italics">H</emphasis>°
+</para>
+<para id="fs-id1167299549911">
+<table id="fs-id1167299748444" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="3">
+<tbody>
+<row>
+  <entry>∆<emphasis effect="italics">H</emphasis>°</entry>
+  <entry>∆<emphasis effect="italics">S</emphasis>°</entry>
+  <entry>Resultado</entry>
+</row>
+<row>
+  <entry>Negativo</entry>
+  <entry>Positivo</entry>
+  <entry>Siempre espontáneo</entry>
+</row>
+<row>
+  <entry>Positivo</entry>
+  <entry>Negativo</entry>
+  <entry>Nunca espontáneo</entry>
+</row>
+<row>
+<entry>Positivo</entry>
+<entry>Positivo</entry>
+<entry>Espontáneo a altas temperaturas</entry>
+</row>
+<row>
+<entry>Negativo</entry>
+<entry>Negativo</entry>
+<entry>Espontáneo a bajas temperaturas</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+Solo en los dos últimos casos hay un punto en el que el proceso pasa de espontáneo a no espontáneo (o a la inversa); en estos casos, el proceso debe pasar por el equilibrio cuando se produce el cambio. El concepto de la conexión entre el cambio de energía libre y la constante de equilibrio es un concepto importante que ampliaremos en futuras secciones. El hecho de que el cambio en la energía libre en un proceso de equilibrio sea cero, y que el desplazamiento de un proceso desde ese punto cero resulte en un impulso para restablecer el equilibrio es fundamental para entender el comportamiento de las reacciones químicas y los cambios de fase.
+</para>
+ </content>
+</document>

@@ -1,0 +1,240 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Teoría de enlace de valencia</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68744</md:content-id>
+  <md:title>Teoría del enlace de valencia</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list><item>Describir la formación de enlaces covalentes en términos de superposición de orbitales atómicos.</item>
+<item>Definir y dar ejemplos de enlaces σ y π.</item></list></md:abstract>
+  <md:uuid>2b690768-dca5-4bbd-9780-22bc32852476</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp42936208">Como sabemos, una teoría científica es una explicación firmemente respaldada de las leyes naturales observadas o de grandes conjuntos de datos experimentales. Para ser aceptada, una teoría debe explicar los datos experimentales y ser capaz de predecir comportamientos. Por ejemplo, la teoría VSEPR ha sido ampliamente aceptada porque predice formas moleculares tridimensionales coherentes con los datos experimentales recopilados de miles de moléculas diferentes. Sin embargo, la teoría VSEPR no proporciona una explicación del enlace químico.</para>
+<para id="fs-idp41602432">Existen teorías exitosas que describen la estructura electrónica de los átomos. Podemos utilizar la mecánica cuántica para predecir las regiones específicas alrededor de un átomo donde es probable que se encuentren los electrones: Una forma esférica para un orbital <emphasis effect="italics">s</emphasis>, una forma de campana para un orbital <emphasis effect="italics">p</emphasis>, etc. Sin embargo, estas predicciones solo describen los orbitales alrededor de los átomos libres. Cuando los átomos se unen para formar moléculas, los orbitales atómicos no son suficientes para describir las regiones donde se ubicarán los electrones en la molécula. Una comprensión más completa de las distribuciones de electrones requiere un modelo que pueda dar cuenta de la estructura electrónica de las moléculas. Una teoría popular sostiene que un enlace covalente se forma cuando un par de electrones es compartido por dos átomos y es atraído simultáneamente por los núcleos de ambos átomos. En las siguientes secciones, analizaremos cómo se describen dichos enlaces mediante la teoría del enlace de valencia y la hibridación.</para>
+<para id="fs-idp56452464">La<term>teoría del enlace de valencia</term> describe un enlace covalente como la superposición de orbitales atómicos medio llenos (cada uno de los cuales contiene un solo electrón) que dan lugar a un par de electrones compartidos entre los dos átomos enlazados. Decimos que los orbitales de dos átomos diferentes <term>se superponen</term> cuando una porción de un orbital y una porción de un segundo orbital ocupan la misma región del espacio. Según la teoría del enlace de valencia, un enlace covalente se produce cuando se cumplen dos condiciones: (1) un orbital de un átomo se superpone con un orbital de un segundo átomo y (2) los electrones individuales de cada orbital se combinan para formar un par de electrones. La atracción mutua entre este par de electrones cargados negativamente y los núcleos cargados positivamente de los dos átomos sirve para unir físicamente los dos átomos mediante una fuerza que definimos como enlace covalente. La fuerza de un enlace covalente depende del grado de superposición de los orbitales implicados. Los orbitales que se superponen mucho forman enlaces más fuertes que los que se superponen menos.</para>
+<para id="fs-idp45162384">La energía del sistema depende del grado de superposición de los orbitales. La <link target-id="CNX_Chem_08_01_Morse"/> ilustra cómo cambia la suma de las energías de dos átomos de hidrógeno (la curva coloreada) a medida que se acercan. Cuando los átomos están muy separados no hay superposición, y por convención fijamos la suma de las energías en cero. A medida que los átomos se mueven juntos, sus orbitales comienzan a superponerse. Cada electrón comienza a sentir la atracción del núcleo del otro átomo. Además, los electrones comienzan a repelerse entre sí, al igual que los núcleos. Aunque los átomos siguen estando muy separados, las atracciones son ligeramente más fuertes que las repulsiones, y la energía del sistema disminuye. (Se empieza a formar un vínculo). A medida que los átomos se acercan, la superposición aumenta, por lo que la atracción de los núcleos por los electrones sigue aumentando (al igual que las repulsiones entre los electrones y entre los núcleos). A cierta distancia específica entre los átomos, que varía en función de los átomos involucrados, la energía alcanza su valor más bajo (más estable). Esta distancia óptima entre los dos núcleos enlazados es la longitud de enlace entre los dos átomos. El enlace es estable porque en este punto, las fuerzas de atracción y repulsión se combinan para crear la configuración de menor energía posible. Si la distancia entre los núcleos disminuyera aún más, las repulsiones entre los núcleos y las repulsiones al estar los electrones confinados más cerca unos de otros serían más fuertes que las fuerzas de atracción. La energía del sistema aumentaría entonces (haciendo que el sistema se desestabilice), como se muestra en el extremo izquierdo de la <link target-id="CNX_Chem_08_01_Morse"/>.</para>
+<figure id="CNX_Chem_08_01_Morse" class="scaled-down">
+<media id="fs-idp39719248" alt="Se muestran un par de diagramas marcados como &quot;a&quot; y &quot;b&quot;. El diagrama a muestra tres imágenes consecutivas. La primera imagen muestra dos círculos borrosos separados, cada uno de ellos marcado con un signo positivo y el término &quot;átomo H&quot;. Debajo de ellos dice: &quot;Suficientemente separados para no tener interacción&quot;. La segunda imagen muestra los mismos dos círculos, pero ahora están mucho más juntos y llevan la marca &quot;Los átomos empiezan a interactuar al acercarse&quot;. La tercera imagen muestra los dos círculos superpuestos, marcados como &quot;H subíndice 2&quot; y &quot;Distancia óptima para conseguir la menor energía global del sistema&quot;. El diagrama b muestra un gráfico en el que el eje y está marcado como &quot;Energía ( J )&quot;, y el eje x está marcado como &quot;Distancia internuclear ( p m )&quot;. El punto medio del eje y está marcado como cero. La curva del gráfico comienza en cero p m y en lo alto del eje Y. El gráfico tiene una fuerte pendiente hacia abajo hasta un punto muy por debajo de la línea de cero julios en el eje y y el punto más bajo dice &quot;0,74 p m&quot; y &quot;longitud de enlace H a H&quot;. También está marcado como &quot;negativo 7,24 veces 10 superíndice negativo 19 J&quot;. A continuación, el gráfico vuelve a subir hasta llegar a cero J, y va acompañado de las mismas imágenes del diagrama a; la primera imagen se corresponde con el punto del gráfico en el que se cruza el punto cero del eje y, la tercera imagen en el punto más bajo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_01_Morse-3a8e.jpg"/>
+</media>
+<caption>(a) La interacción de dos átomos de hidrógeno cambia en función de la distancia. (b) La energía del sistema cambia cuando los átomos interactúan. La energía más baja (más estable) se produce a una distancia de 74 pm, que es la longitud de enlace observada para la molécula de H<sub>2</sub>.</caption>
+</figure>
+<para id="fs-idm5865744">La energía de enlace es la diferencia entre el mínimo energético (que se produce en la longitud de enlace) y la energía de los dos átomos separados. Es la cantidad de energía liberada cuando se forma el enlace. A la inversa, se requiere la misma cantidad de energía para romper el enlace. En la molécula de H<sub>2</sub> que se muestra en la <link target-id="CNX_Chem_08_01_Morse"/>, a la distancia de enlace de 74 pm el sistema es de 7,24 <m:math><m:mo>×</m:mo></m:math> 10<sup>−19</sup> J menor en energía que los dos átomos de hidrógeno separados. Esto puede parecer una cifra pequeña. Sin embargo, sabemos por nuestra anterior descripción de la termoquímica que las energías de los enlaces se discuten a menudo sobre una base por mol. Por ejemplo, requiere 7,24 <m:math><m:mo>×</m:mo></m:math> 10<sup>−19</sup> para romper un enlace H-H, pero se necesitan 4,36 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup> J para romper 1 mol de enlaces H-H. En la <link target-id="fs-idp43355056"/> se muestra una comparación de algunas longitudes y energías de enlace. Podemos encontrar muchos de estos enlaces en una gran variedad de moléculas, y esta tabla proporciona valores medios. Por ejemplo, la ruptura del primer enlace C-H en el CH<sub>4</sub> requiere 439,3 kJ/mol, mientras que la ruptura del primer enlace C-H en el H–CH<sub>2</sub>C<sub>6</sub>H<sub>5</sub> (un diluyente de pintura común) requiere 375,5 kJ/mol.</para>
+<table id="fs-idp43355056" class="top-titled" summary="Se muestra una tabla que contiene seis columnas y once filas. La fila del encabezado dice &quot;Enlace&quot;, &quot;Longitud ( p m )&quot;, &quot;Energía ( k J / mol )&quot;, &quot;Enlace&quot;, &quot;Longitud ( p m )&quot; y &quot;Energía ( k J / mol )&quot;. La primera columna contiene los símbolos: &quot;H enlace H&quot;, &quot;H enlace C&quot;, &quot;H enlace N&quot;, &quot;H enlace O&quot;, &quot;C enlace C&quot;, &quot;C doble enlace C&quot;, &quot;C triple enlace C&quot;, &quot;C enlace N&quot;, &quot;C doble enlace N&quot; y &quot;C triple enlace N&quot;. La segunda columna contiene los números &quot;74&quot;, &quot;106,8&quot;, &quot;101,5&quot;, &quot;97,5&quot;, &quot;150,6&quot;, &quot;133,5&quot;, &quot;120,8&quot;, &quot;142,1&quot;, &quot;130,0&quot; y &quot;116,1&quot;. La tercera columna contiene los números: &quot;436&quot;, &quot;413&quot;, &quot;391&quot;, &quot;467&quot;, &quot;347&quot;, &quot;614&quot;, &quot;839&quot;, &quot;305&quot;, &quot;615&quot; y &quot;891&quot;. La cuarta columna contiene los símbolos: &quot;C enlace O&quot;, &quot;C doble enlace O&quot;, &quot;C triple enlace O&quot;, &quot;H enlace C l&quot;, &quot;H enlace B r&quot;, &quot;H enlace I&quot;, &quot;O enlace O&quot;, &quot;O doble enlace O&quot;, &quot;F enlace F&quot; y &quot;C l enlace C l&quot;. La quinta columna contiene los números &quot;140,1&quot;, &quot;119,7&quot;, &quot;113,7&quot;, &quot;127,5&quot;, &quot;141,4&quot;, &quot;160,9&quot;, &quot;148&quot;, &quot;120,8&quot;, &quot;141,2&quot; y &quot;198,8&quot;. La sexta columna contiene los números &quot;358&quot;, &quot;745&quot;, &quot;1072&quot;, &quot;431&quot;, &quot;366&quot;, &quot;298&quot;, &quot;146&quot;, &quot;498&quot;, &quot;159&quot; y &quot;243&quot;."><tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c6" align="center">Energías y longitudes de enlace representativas</entry>
+</row>
+<row valign="middle">
+<entry align="left">Enlace</entry>
+<entry align="left">Longitud (pm)</entry>
+<entry align="left">Energía (kJ/mol)</entry>
+<entry align="left">Enlace</entry>
+<entry align="left">Longitud (pm)</entry>
+<entry align="left">Energía (kJ/mol)</entry></row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">H-H</entry>
+<entry align="left">74</entry>
+<entry align="left">436</entry>
+<entry align="left">C-O</entry>
+<entry align="left">140,1</entry>
+<entry align="left">358</entry></row>
+<row valign="middle">
+<entry align="left">H-C</entry>
+<entry align="left">106,8</entry>
+<entry align="left">413</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">119,7</entry>
+<entry align="left">745</entry></row>
+<row valign="middle">
+<entry align="left">H-N</entry>
+<entry align="left">101,5</entry>
+<entry align="left">391</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">113,7</entry>
+<entry align="left">1.072</entry></row>
+<row valign="middle">
+<entry align="left">H-O</entry>
+<entry align="left">97,5</entry>
+<entry align="left">467</entry>
+<entry align="left">H-Cl</entry>
+<entry align="left">127,5</entry>
+<entry align="left">431</entry></row>
+<row valign="middle">
+<entry align="left">C-C</entry>
+<entry align="left">150,6</entry>
+<entry align="left">347</entry>
+<entry align="left">H-Br</entry>
+<entry align="left">141,4</entry>
+<entry align="left">366</entry></row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">133,5</entry>
+<entry align="left">614</entry>
+<entry align="left">H-I</entry>
+<entry align="left">160,9</entry>
+<entry align="left">298</entry></row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math></entry>
+<entry align="left">120,8</entry>
+<entry align="left">839</entry>
+<entry align="left">O-O</entry>
+<entry align="left">148</entry>
+<entry align="left">146</entry></row>
+<row valign="middle">
+<entry align="left">C-N</entry>
+<entry align="left">142,1</entry>
+<entry align="left">305</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>O</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left">120,8</entry>
+<entry align="left">498</entry></row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">130,0</entry>
+<entry align="left">615</entry>
+<entry align="left">F-F</entry>
+<entry align="left">141,2</entry>
+<entry align="left">159</entry></row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></entry>
+<entry align="left">116,1</entry>
+<entry align="left">891</entry>
+<entry align="left">Cl-Cl</entry>
+<entry align="left">198,8</entry>
+<entry align="left">243</entry></row>
+</tbody>
+</tgroup>
+</table><para id="fs-idm10626416">Además de la distancia entre dos orbitales, la orientación de estos también afecta a su superposición (salvo en el caso de dos orbitales <emphasis effect="italics">s</emphasis>, que son esféricamente simétricos). Es posible una mayor superposición cuando los orbitales están orientados de tal manera que se superponen en una línea directa entre los dos núcleos. La <link target-id="CNX_Chem_08_01_overlap"/> ilustra esto en dos orbitales <emphasis effect="italics">p</emphasis> de diferentes átomos; la superposición es mayor cuando los orbitales se superponen de extremo a extremo en lugar de en ángulo.</para>
+<figure id="CNX_Chem_08_01_overlap" class="scaled-down"><media id="fs-idp75347888" alt="Se muestran dos diagramas. El diagrama a contiene dos moléculas cuyos orbitales p, que se representan como dos estructuras en forma de globo que se juntan para formar una forma de maní, están colocados uno sobre otro, creando un área de superposición. En el diagrama b, se muestran las mismas dos moléculas, pero esta vez están dispuestas de forma que forman un ángulo de casi noventa grados. En este diagrama, los extremos de dos de estos orbitales con forma de maní no se superponen tanto.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_01_overlap.jpg"/>
+</media>
+
+<caption>(a) La superposición de dos orbitales <emphasis effect="italics">p</emphasis> es mayor cuando estos van de extremo a extremo. (b) Cualquier otra disposición da lugar a una menor superposición. Los puntos indican la ubicación de los núcleos.</caption></figure><para id="fs-idp40817312">La superposición de dos orbitales <emphasis effect="italics">s</emphasis> (como en el H<sub>2</sub>), la superposición de un orbital <emphasis effect="italics">s</emphasis> y un orbital <emphasis effect="italics">p</emphasis> (como en el HCl) y la superposición de extremo a extremo de dos orbitales <emphasis effect="italics">p</emphasis> (como en el Cl<sub>2</sub>) producen <term>enlaces sigma (enlaces σ)</term>, como se muestra en la <link target-id="CNX_Chem_08_01_sigma"/>. Un enlace σ es un enlace covalente en el que la densidad electrónica se concentra en la región a lo largo del eje internuclear; es decir, una línea entre los núcleos pasaría por el centro de la región de superposición. Los enlaces simples en las estructuras de Lewis se describen como enlaces σ en la teoría del enlace de valencia.</para>
+<figure id="CNX_Chem_08_01_sigma" class="scaled-down"><media id="fs-idp92578528" alt="Se muestran tres diagramas marcados como &quot;a&quot;, &quot;b&quot; y &quot;c&quot;. El diagrama a muestra dos orbitales esféricos colocados uno al lado del otro y superpuestos. El diagrama b muestra un orbital esférico y otro con forma de maní situados uno cerca del otro, de modo que el orbital esférico se superpone con un extremo del orbital con forma de maní. El diagrama c muestra dos orbitales con forma de maní colocados uno al lado del otro, de forma que un extremo de cada orbital se superpone al otro.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_01_sigma.jpg"/>
+</media>
+
+<caption>Los enlaces sigma (σ) se forman a partir de la superposición de: (a) dos orbitales <emphasis effect="italics">s</emphasis>, (b) un orbital <emphasis effect="italics">s</emphasis> y un orbital <emphasis effect="italics">p</emphasis>, y (c) dos orbitales <emphasis effect="italics">p</emphasis>. Los puntos indican la ubicación de los núcleos.</caption></figure><para id="fs-idp92007424">Un enlace <term>pi (enlace π)</term> es un tipo de enlace covalente que resulta de la superposición lado a lado de dos orbitales <emphasis effect="italics">p</emphasis>, como se muestra en la <link target-id="CNX_Chem_08_01_pi"/>. En un enlace π, las regiones de superposición orbital se encuentran en lados opuestos del eje internuclear. A lo largo del propio eje, hay un <term>nodo</term>, es decir, un plano sin probabilidad de encontrar un electrón.</para>
+<figure id="CNX_Chem_08_01_pi" class="scaled-down"><media id="fs-idp213482864" alt="Se muestran dos orbitales en forma de maní, situados verticalmente y paralelos entre sí. Se superponen entre sí a lo largo de la parte superior e inferior del orbital.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_01_pi.jpg"/>
+</media>
+
+<caption>Los enlaces Pi (π) se forman a partir de la superposición lateral de dos orbitales <emphasis effect="italics">p</emphasis>. Los puntos indican la ubicación de los núcleos.</caption></figure><para id="fs-idp46373312">Mientras que todos los enlaces simples son enlaces σ, los enlaces múltiples están formados por enlaces σ y π. Como sugieren las estructuras de Lewis de abajo, el O<sub>2</sub> contiene un doble enlace y el N<sub>2</sub> un triple enlace. El doble enlace está formado por un enlace σ y un enlace π, y el triple enlace está formado por un enlace σ y dos enlaces π. Entre dos átomos cualesquiera, el primer enlace formado será siempre un enlace σ, pero solo puede haber un enlace σ en cualquier ubicación. En todo enlace múltiple, habrá un enlace σ, y los restantes uno o dos enlaces serán enlaces π. Estos enlaces se describen con más detalle más adelante en este capítulo.</para><media id="fs-idp200689696" class="scaled-down" alt="Un diagrama contiene tres estructuras de Lewis. La estructura de la izquierda muestra un átomo de H unido a un átomo de C l por un enlace simple. El átomo de C l tiene tres pares solitarios de electrones. Debajo del dibujo se lee &quot;Un enlace sigma, no hay enlaces pi&quot;. La estructura central muestra dos átomos de O unidos por un doble enlace. Los átomos de O tienen cada uno dos pares solitarios de electrones. Debajo del dibujo se lee &quot;Un enlace sigma Un enlace pi&quot;. La estructura de la derecha muestra dos átomos de N unidos por un triple enlace. Cada átomo de N tiene un par solitario de electrones. La frase &quot;Un enlace sigma Dos enlaces pi&quot; se lee debajo del dibujo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_01_bondtype_img.jpg"/>
+</media>
+<para id="fs-idp228190304">Como se ve en la <link target-id="fs-idp43355056"/>, un enlace simple carbono-carbono tiene un promedio de 347 kJ/mol, mientras que en un doble enlace carbono-carbono, el enlace π aumenta la fuerza del enlace en 267 kJ/mol. La adición de un enlace π adicional produce un aumento adicional de 225 kJ/mol. Podemos ver un patrón similar cuando comparamos otros enlaces σ y π. Así, cada enlace π individual es generalmente más débil que un enlace σ correspondiente entre los mismos dos átomos. En un enlace σ, hay un mayor grado de superposición de orbitales que en un enlace π.</para>
+<example id="fs-idp85049088">
+<para id="fs-idm26209776"><title>Contar enlaces σ y π</title>
+<media id="fs-idp98308768" class="scaled-down" alt="Esta figura muestra una molécula compuesta por cuatro átomos de carbono. Hay un doble enlace entre los carbonos uno y dos y tres y cuatro, mientras que un enlace simple mantiene unidos los carbonos dos y tres. Los carbonos uno y cuatro también están unidos a dos hidrógenos con un enlace simple, mientras que los carbonos dos y tres están unidos a un hidrógeno cada uno mediante un enlace simple.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_01_C4H6_img.jpg"/>
+</media></para>
+<para id="fs-idm57104384">El butadieno, C<sub>4</sub>H<sub>6</sub>, se utiliza para fabricar caucho sintético. Identifique el número de enlaces σ y π que contiene esta molécula.</para><para id="fs-idm9825456"><title>Solución</title>
+Hay seis enlaces σ C-H y un enlace σ C-C, para un total de siete de los enlaces simples. Hay dos dobles enlaces que tienen cada uno un enlace π además del enlace σ. Esto da un total de nueve enlaces σ y dos π en total.</para>
+<para id="fs-idp46378096"><title>Compruebe sus conocimientos</title>
+Identifique cada ilustración como representación de un enlace σ o π:</para>
+<para id="fs-idp138827456">(a) superposición lateral de un orbital 4<emphasis effect="italics">p</emphasis> y uno 2<emphasis effect="italics">p</emphasis></para>
+<para id="fs-idp7133408">(b) superposición de extremo a extremo de un orbital 4<emphasis effect="italics">p</emphasis> y 4<emphasis effect="italics">p</emphasis></para>
+<para id="fs-idp145728832">(c) superposición de extremo a extremo de un orbital 4<emphasis effect="italics">p</emphasis> y uno 2<emphasis effect="italics">p</emphasis></para>
+<media id="fs-idm5769888" class="scaled-down" alt="Se muestran tres diagramas marcados como &quot;a&quot;, &quot;b&quot; y &quot;c&quot; El diagrama &quot;a&quot; representa dos orbitales con forma de maní que se encuentran en posición vertical uno al lado del otro y se superponen. Un orbital es más pequeño que el otro. El diagrama &quot;b&quot; muestra dos orbitales con forma de maní que se superponen. El diagrama &quot;c&quot; muestra dos orbitales con forma de maní de tamaño desigual que se encuentran uno al lado del otro y se superponen.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_01_Exover_img.jpg"/>
+</media>
+<note id="fs-idp42592272">
+<title>Respuesta:</title>
+<para id="fs-idp204958944">(a) es un enlace π con un nodo a lo largo del eje que conecta los núcleos mientras que (b) y (c) son enlaces σ que se superponen a lo largo del eje.</para>
+</note>
+</example>
+<section id="fs-idp111264480" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp52352272">La teoría del enlace de valencia describe el enlace como consecuencia de la superposición de dos orbitales atómicos separados en átomos diferentes que crea una región con un par de electrones compartidos entre los dos átomos. Cuando los orbitales se superponen a lo largo de un eje que contiene los núcleos, forman un enlace σ. Cuando se superponen de forma que se crea un nodo a lo largo de este eje, forman un enlace π.</para>
+</section>
+<section id="fs-idp52122896" class="exercises"><title>Ejercicios de fin de capítulo de Química</title><exercise id="fs-idp92773152">
+<problem id="fs-idp39612288">
+<para id="fs-idp78431584">Explique en qué se parecen y en qué se diferencian los enlaces σ y π.</para>
+</problem>
+<solution id="fs-idp1772208">
+<para id="fs-idp274311280">Similitudes: Ambos tipos de enlaces son el resultado de la superposición de orbitales atómicos en átomos adyacentes y contienen un máximo de dos electrones. Diferencias: los enlaces σ son más fuertes y resultan de la superposición de extremo a extremo y todos los enlaces simples son enlaces σ; los enlaces π entre los mismos dos átomos son más débiles porque resultan de la superposición de lado a lado, y los enlaces múltiples contienen uno o más enlaces π (además de un enlace σ).</para>
+</solution>
+</exercise>
+<exercise id="fs-idp204835968">
+<problem id="fs-idp50326720">
+<para id="fs-idp227808144">Dibuje una curva que describa la energía de un sistema con átomos de H y Cl a diferentes distancias. A continuación, encuentre la energía mínima de esta curva de dos maneras.</para>
+<para id="fs-idp51886016">(a) Utilice la energía de enlace encontrada en la <link target-id="fs-idp43355056"/> para calcular la energía de un solo enlace de HCl (Pista: ¿Cuántos enlaces hay en un mol?)</para>
+<para id="fs-idp111417136">(b) Utilice la entalpía de reacción y las energías de enlace del H<sub>2</sub> y del Cl<sub>2</sub> para resolver la energía de enlace de un mol de HCl.</para>
+<equation class="unnumbered" id="fs-idm27099520"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mn>2</m:mn><m:mtext>HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="2em"/><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mrow><m:mtext>rxn</m:mtext></m:mrow><m:mo>°</m:mo></m:msubsup><m:mo>=</m:mo><m:mtext>-184,7 kJ/mol</m:mtext></m:mrow></m:math></equation>
+</problem>
+</exercise>
+<exercise id="fs-idm21893728">
+<problem id="fs-idp16697296">
+<para id="fs-idp52335344">Explique por qué los enlaces se producen a longitudes de enlace promedio específicas en lugar de que los átomos se acerquen infinitamente.</para>
+</problem>
+<solution id="fs-idm5881648">
+<para id="fs-idm6551584">La longitud de enlace media específica es la distancia con la energía más baja. A distancias inferiores a la longitud de enlace, las cargas positivas de los dos núcleos se repelen y la energía global aumenta.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp92050208">
+<problem id="fs-idp55481536">
+<para id="fs-idp93350272">Utilice la teoría del enlace de valencia para explicar el enlace en F<sub>2</sub>, HF y ClBr. Dibuje la superposición de los orbitales atómicos implicados en los enlaces.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp84623072">
+<problem id="fs-idm18308240">
+<para id="fs-idp162827936">Utilice la teoría del enlace de valencia para explicar el enlace en el O<sub>2</sub>. Haga un esquema de la superposición de los orbitales atómicos implicados en los enlaces del O<sub>2</sub>.</para>
+</problem>
+<solution id="fs-idp150643856">
+<para id="fs-idp227973568">Enlace: Un enlace σ y un enlace π. Los orbitales <emphasis effect="italics">s</emphasis> están llenos y no se superponen. Los orbitales <emphasis effect="italics">p</emphasis> se superponen a lo largo del eje para formar un enlace σ y de lado a lado para formar el enlace π<newline/>
+<media id="fs-idp41750256" alt="Esta figura muestra los orbitales de dos átomos que se suman al formar enlaces. Los dos átomos se muestran por separado a la derecha, cada uno de ellos con dos orbitales en forma de maní situados perpendicularmente entre sí. Una flecha hacia la derecha muestra que los dos se acercaron y ahora las porciones superior e inferior de los orbitales verticales en forma de maní se muestran como fusionados por encima y por debajo del plano de la molécula, mientras que los orbitales horizontales en forma de maní se superponen entre los dos núcleos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_01_O2bonds_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<exercise id="fs-idp78672368">
+<problem id="fs-idp114737440">
+<para id="fs-idp19340608">¿Cuántos enlaces σ y π hay en la molécula HCN?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp108425904">
+<problem id="fs-idp36841744">
+<para id="fs-idp43811376">Un amigo le dice que el N<sub>2</sub> tiene tres enlaces π debido al superposición de los tres orbitales <emphasis effect="italics">p</emphasis> de cada átomo de N. ¿Está de acuerdo?</para>
+</problem>
+<solution id="fs-idp75120720">
+<para id="fs-idp200708192">No, dos de los orbitales <emphasis effect="italics">p</emphasis> (uno en cada N) estarán orientados extremo a extremo y formarán un enlace σ.<newline/>
+<media id="fs-idp50252080" class="scaled-down" alt="Dos átomos de nitrógeno se muestran tanto en una estructura de Lewis como en un diagrama. La estructura de Lewis representa los dos átomos de nitrógeno unidos por un triple enlace. El diagrama muestra dos átomos de nitrógeno y sus tres orbitales p en forma de maní. Uno de los orbitales se encuentra en posición horizontal y se superpone entre los dos núcleos. Está marcado como &quot;enlace sigma&quot;. Los otros dos se sitúan verticalmente y en el plano z de la página. Se superponen por encima y por debajo y dentro y fuera de la página en relación con los núcleos. Cada uno está marcado como &quot;enlace pi&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_01_N2LewStru_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp42077552">
+<problem id="fs-idp45853632">
+<para id="fs-idm1603952">Dibuje las estructuras de Lewis del CO<sub>2</sub> y el CO, y prediga el número de enlaces σ y π de cada molécula.</para>
+<para id="fs-idp120788224">(a) CO<sub>2</sub></para>
+<para id="fs-idp137369488">(b) CO</para>
+</problem>
+</exercise>
+</section>  </content>
+<glossary>
+<definition id="fs-idp42480608">
+<term>superposición</term><meaning id="fs-idp260552304">coexistencia de orbitales de dos átomos diferentes que comparten la misma región del espacio, lo que ocasiona la formación de un enlace covalente.</meaning>
+</definition>
+<definition id="fs-idp123920528">
+<term>nodo</term><meaning id="fs-idp176232256">plano que separa los diferentes lóbulos de los orbitales, donde la probabilidad de encontrar un electrón es cero.</meaning>
+</definition>
+<definition id="fs-idp94790208">
+<term>enlace pi (enlace π)</term><meaning id="fs-idm26277904">enlace covalente formado por la superposición lateral de los orbitales atómicos; la densidad electrónica se encuentra en lados opuestos del eje internuclear.</meaning>
+</definition>
+<definition id="fs-idp36919168">
+<term>enlace sigma (enlace σ)</term><meaning id="fs-idp43719792">enlace covalente formado por la superposición de los orbitales atómicos a lo largo del eje internuclear.</meaning>
+</definition>
+<definition id="fs-idp81645184">
+<term>teoría del enlace de valencia</term><meaning id="fs-idp46181600">descripción del enlace que implica la superposición de orbitales atómicos para formar enlaces σ o π, dentro de los cuales se comparten pares de electrones.</meaning>
+</definition>
+</glossary>
+</document>

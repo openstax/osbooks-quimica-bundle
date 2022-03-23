@@ -1,0 +1,161 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Propiedades físicas y químicas</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68670</md:content-id>
+  <md:title>Propiedades físicas y químicas</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Identificar las propiedades y los cambios de la materia como físicos o químicos.</item>
+<item>Identificar las propiedades de la materia como extensivas o intensivas.</item>
+</list></md:abstract>
+  <md:uuid>dfdd5419-1eac-4c06-a0af-e73023e6b015</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp58271744">Las características que distinguen una sustancia de otra se llaman propiedades. Una <term>propiedad física</term> es una característica de la materia que no está asociada a un cambio en su composición química. Algunos ejemplos conocidos de propiedades físicas son la densidad, el color, la dureza, los puntos de fusión y ebullición y la conductividad eléctrica. Algunas propiedades físicas, como la densidad y el color, pueden observarse sin cambiar el estado físico de la materia. Otras propiedades físicas, como la temperatura de fusión del hierro o la temperatura de congelación del agua, solo pueden observarse cuando la materia sufre un cambio físico. Un <term>cambio físico</term> es un cambio en el estado o las propiedades de la materia sin que se produzca un cambio en las identidades químicas de las sustancias contenidas en la materia. Los cambios físicos se observan cuando la cera se derrite, cuando el azúcar se disuelve en el café y cuando el vapor se condensa en agua líquida (<link target-id="CNX_Chem_01_03_PhysChange"/>). Otros ejemplos de cambios físicos son la magnetización y desmagnetización de metales (como se hace con las etiquetas de seguridad antirrobo habituales) y la molienda de sólidos en polvo (que a veces puede producir cambios de color notables). En cada uno de estos ejemplos, hay un cambio en el estado físico, la forma o las propiedades de la sustancia, pero no hay cambio en su composición química.</para>
+<figure id="CNX_Chem_01_03_PhysChange" class="scaled-down"><media id="fs-idp82580544" alt="La figura A es una fotografía de la mantequilla derritiéndose en una olla sobre una estufa. La figura B es una fotografía de algo que se calienta en una estufa en una olla. Se están formando gotas de agua en la parte inferior de una tapa de cristal que se ha colocado sobre la olla.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_03_PhysChange.jpg"/>
+</media>
+
+<caption>(a) La cera sufre un cambio físico cuando la cera sólida se calienta y forma cera líquida. (b) El vapor que se condensa dentro de una olla es un cambio físico, ya que el vapor de agua se convierte en agua líquida (créditos a: modificación de la obra por "95jb14"/Wikimedia Commons; créditos b: modificación de la obra por "mjneuby"/Flickr).</caption></figure><para id="fs-idp135749488">El cambio de un tipo de materia en otro tipo (o la incapacidad de cambiar) es una <term>propiedad química</term>. Algunos ejemplos de propiedades químicas son la inflamabilidad, la toxicidad, la acidez y muchos otros tipos de reactividad. El hierro, por ejemplo, se combina con el oxígeno en presencia del agua para formar óxido; el cromo no se oxida (<link target-id="CNX_Chem_01_03_Rust"/>). La nitroglicerina es muy peligrosa porque explota con facilidad; el neón no representa casi ningún peligro porque es muy poco reactivo.</para>
+<figure id="CNX_Chem_01_03_Rust" class="scaled-down">
+<media id="fs-idp91834496" alt="La figura A es una foto de maquinaria metálica que ahora está cubierta en su mayor parte de óxido naranja rojizo. La figura B muestra las partes cromadas de color plateado de una motocicleta. Una de las partes es tan brillante que se puede ver un reflejo de la calle y los edificios adyacentes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_03_Rust.jpg"/>
+</media>
+<caption>(a) Una de las propiedades químicas del hierro es que se oxida; (b) una de las propiedades químicas del cromo es que no se oxida (créditos a: modificación del trabajo de Tony Hisgett; créditos b: modificación del trabajo de "Atoma"/Wikimedia Commons).</caption>
+</figure>
+<para id="fs-idp137402768">Un <term>cambio químico</term> siempre produce uno o más tipos de materia que difieren de la materia presente antes del cambio. La formación de óxido es un cambio químico porque el óxido es un tipo de materia diferente del hierro, el oxígeno y el agua presentes antes de que se formara el óxido. La explosión de la nitroglicerina es un cambio químico porque los gases producidos son tipos de materia muy diferentes de la sustancia original. Otros ejemplos de cambios químicos son las reacciones que se llevan a cabo en un laboratorio (como la reacción del cobre con el ácido nítrico), todas las formas de combustión (quema) y la cocción, digestión o putrefacción de los alimentos (<link target-id="CNX_Chem_01_03_ChemChange"/>).</para>
+<figure id="CNX_Chem_01_03_ChemChange" class="scaled-down">
+<media id="fs-idp96887536" alt="La figura A es una foto del matraz que contiene un líquido azul. Varias hebras de cobre pardo se sumergen en el líquido azul. Hay un gas de color marrón que sale del líquido y llena la parte superior del matraz. La figura B muestra una cerilla encendida. La figura C muestra la carne roja cocinada en una sartén. La figura D muestra un pequeño racimo de plátanos amarillos que tienen muchas manchas negras.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_03_ChemChange.jpg"/>
+</media>
+<caption>(a) El cobre y el ácido nítrico sufren un cambio químico para formar nitrato de cobre y dióxido de nitrógeno gaseoso de color marrón. (b) Durante la combustión de una cerilla, la celulosa de la cerilla y el oxígeno del aire sufren un cambio químico para formar dióxido de carbono y vapor de agua. (c) La cocción de la carne roja provoca una serie de cambios químicos, entre ellos la oxidación del hierro de la mioglobina que da lugar al conocido cambio de color rojo a marrón. (d) El hecho de que un plátano se vuelva marrón es un cambio químico al formarse nuevas sustancias más oscuras (y menos sabrosas) (créditos b: modificación del trabajo de Jeff Turner; créditos c: modificación del trabajo de Gloria Cabada-Leman; créditos d: modificación del trabajo de Roberto Verzo).</caption>
+</figure>
+<para id="fs-idp29966736">Las propiedades de la materia se dividen en dos categorías. Si la propiedad depende de la cantidad de materia presente, es una <term>propiedad extensiva</term>. La masa y el volumen de una sustancia son ejemplos de propiedades extensivas; por ejemplo, un galón de leche tiene una masa mayor que un vaso de leche. El valor de una propiedad extensiva es directamente proporcional a la cantidad de materia en cuestión. Si la propiedad de una muestra de materia no depende de la cantidad de materia presente, es una <term>propiedad intensiva</term>. La temperatura es un ejemplo de propiedad intensiva. Si el galón y la taza de leche están cada uno a 20 °C (temperatura ambiente), cuando se combinan, la temperatura sigue siendo de 20 °C. Como otro ejemplo, considere las propiedades distintas, pero relacionadas del calor y la temperatura. Una gota de aceite de cocina caliente salpicada en el brazo provoca una breve y leve molestia, mientras que una olla de aceite caliente produce graves quemaduras. Tanto la gota como la olla de aceite están a la misma temperatura (propiedad intensiva), pero la olla contiene claramente mucho más calor (propiedad extensiva).</para>
+<note id="fs-idm51398400" class="chemistry everyday-life">
+<title>Diamante de Peligro</title>
+<para id="fs-idp7982032">Es posible que haya visto el símbolo que aparece en la <link target-id="CNX_Chem_01_03_HazDiamond"/> en los envases de productos químicos en un laboratorio o lugar de trabajo. A veces lo llaman "diamante de fuego" o "diamante de peligro", este diamante de peligro químico proporciona una valiosa información que resume brevemente los diversos peligros de los que hay que ser consciente cuando se trabaja con una sustancia concreta.</para>
+<figure id="CNX_Chem_01_03_HazDiamond">
+<media id="fs-idp131195760" alt="El diamante se subdivide en cuatro diamantes más pequeños. El diamante superior es de color rojo y se asocia a los riesgos de incendio. Los números del diamante de riesgo de incendio van de 0 a 4. A medida que los números aumentan, el punto de inflamabilidad del producto químico disminuye. El 0 indica una sustancia que no arde, el 1 indica una sustancia con un punto de inflamabilidad superior a 200 grados Fahrenheit, el 2 indica una sustancia con un punto de inflamabilidad superior a 100 grados Fahrenheit y que no supera los 200 grados Fahrenheit, el 3 indica una sustancia con un punto de inflamabilidad inferior a 100 grados Fahrenheit y el 4 indica una sustancia con un punto de inflamabilidad inferior a 73 grados Fahrenheit. El diamante de la derecha es amarillo y se asocia a la reactividad. Los números de reactividad van de 0 a 4. El 0 indica una sustancia química estable, el 1 indica una sustancia química inestable si se calienta, el 2 indica la posibilidad de un cambio químico violento, el 3 indica que el choque y el calor pueden detonar la sustancia química y el 4 indica que la sustancia química puede detonar. El diamante inferior es blanco y se asocia a peligros específicos. Contienen abreviaturas que describen características peligrosas específicas del producto químico. O X indica un oxidante, A C I D indica un ácido, A L K indica un álcali, C O R indica corrosivo, una W con una línea atravesada indica que no se debe usar agua, y un símbolo de un punto rodeado de tres triángulos indica radiactivo. El diamante de la izquierda es azul y está asociado a los riesgos para la salud. Los números del diamante de peligro para la salud van de 0 a 4. El 0 indica que es un material normal, el 1 que es ligeramente peligroso, el 2 que es peligroso, el 3 que es extremadamente peligroso y el 4 que es mortal.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_03_HazDiamond.jpg"/>
+</media>
+
+<caption>El diamante de peligro de la Agencia Nacional de Protección contra Incendios (National Fire Protection Agency, NFPA) resume los principales peligros de una sustancia química.</caption>
+</figure>
+<para id="fs-idp114795152">El Sistema de Identificación de Peligros 704 de la Agencia Nacional de Protección contra Incendios (NFPA) fue desarrollado por la NFPA para proporcionar información de seguridad sobre ciertas sustancias. El sistema describe los riesgos de inflamabilidad, reactividad, salud y otros. Dentro del símbolo general del diamante, el diamante superior (rojo) especifica el nivel de riesgo de incendio (rango de temperatura para el punto de inflamabilidad). El diamante azul (izquierda) indica el nivel de peligro para la salud. El diamante amarillo (derecha) describe los riesgos de reactividad, como la facilidad con la que la sustancia sufrirá una detonación o un cambio químico violento. El diamante blanco (inferior) señala los peligros especiales, como si es un oxidante (que permite que la sustancia arda en ausencia de aire/oxígeno), sufre una reacción inusual o peligrosa con el agua, es corrosiva, acídica, alcalina, un peligro biológico, radiactiva, etc. Cada peligro se clasifica en una escala de 0 a 4, siendo 0 ningún peligro y 4 extremadamente peligroso.</para>
+</note>
+<para id="fs-idp147199744">Aunque muchos elementos difieren drásticamente en sus propiedades químicas y físicas, algunos elementos tienen propiedades similares. Por ejemplo, muchos elementos conducen bien el calor y la electricidad, mientras que otros son conductores deficientes. Estas propiedades pueden utilizarse para clasificar los elementos en tres clases: metales (elementos que conducen bien), no metales (elementos que conducen de forma deficiente) y metaloides (elementos que tienen conductividades intermedias).</para>
+<para id="fs-idp108454304">La tabla periódica es una tabla que agrupa los elementos con propiedades similares. (<link target-id="CNX_Chem_01_03_PeriodicPU"/>). Aprenderá más sobre la tabla periódica a medida que continúe su estudio de la química.</para>
+<figure id="CNX_Chem_01_03_PeriodicPU">
+<media id="fs-idm104246448" alt="En esta representación de la tabla periódica, los metales se indican con un color amarillo y dominan los dos tercios izquierdos de la tabla periódica. Los no metales son de color melocotón y se limitan en gran medida a la zona superior derecha de la tabla, con la excepción del hidrógeno, H, que se encuentra en el extremo superior izquierdo de la tabla. Los metaloides son de color púrpura y forman una frontera diagonal entre las zonas metálicas y no metálicas de la tabla. El grupo 13 contiene metales y metaloides. El grupo 17 contiene no metales y metaloides. Los grupos 14 a 16 contienen al menos un representante de un metal, un metaloide y un no metal. Una leyenda muestra que, a temperatura ambiente, los metales son sólidos, los metaloides son líquidos y los no metales son gases.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_03_PeriodicPU.jpg"/>
+</media>
+<caption>La tabla periódica muestra cómo los elementos pueden agruparse según ciertas propiedades similares. Tenga en cuenta que el color de fondo indica si un elemento es un metal, un metaloide o un no metal, mientras que el color del símbolo del elemento indica si es un sólido, un líquido o un gas.</caption>
+</figure>
+<section id="fs-idp74996960" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp236281408">Todas las sustancias tienen propiedades físicas y químicas distintas, y pueden sufrir cambios físicos o químicos. Las propiedades físicas, como la dureza y el punto de ebullición, y los cambios físicos, como la fusión o la congelación, no implican un cambio en la composición de la materia. Las propiedades químicas, como la inflamabilidad y la acidez, y los cambios químicos, como la oxidación, implican la producción de una materia diferente a la presente.</para>
+<para id="fs-idp132347232">Las propiedades medibles pertenecen a una de las dos categorías. Las propiedades extensivas dependen de la cantidad de materia presente, por ejemplo, la masa del oro. Las propiedades intensivas no dependen de la cantidad de materia presente, por ejemplo, la densidad del oro. El calor es un ejemplo de propiedad extensiva, y la temperatura es un ejemplo de propiedad intensiva.</para>
+</section>
+<section id="fs-idp111561136" class="exercises">
+<title>Ejercicios de Química del final del capítulo</title>
+<exercise id="fs-idp14236032">
+<problem id="fs-idp159143072">
+<para id="fs-idp147009680">Clasifique las seis propiedades subrayadas en el siguiente párrafo como químicas o físicas:</para>
+<para id="fs-idp67379424">El flúor es un <emphasis effect="underline">gas</emphasis> amarillo pálido que <emphasis effect="underline">reacciona con la mayoría de las sustancias</emphasis>. El elemento libre se <emphasis effect="underline">funde a -220 °C</emphasis> y <emphasis effect="underline">hierve a -188 °C</emphasis>. Los <emphasis effect="underline">metales finamente divididos arden en flúor</emphasis> con una llama brillante. <emphasis effect="underline">Diecinueve gramos de flúor reaccionarán con 1,0 gramos de hidrógeno</emphasis>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp131775248">
+<problem id="fs-idm10872448">
+<para id="fs-idp241388320">Clasifique cada uno de los siguientes cambios como físicos o químicos:</para>
+<para id="fs-idp360895776">(a) condensación del vapor</para>
+<para id="fs-idp360895778">(b) quema de gasolina</para>
+<para id="fs-idp360895779">(c) acidificación de la leche</para>
+<para id="fs-idp360895780">(d) disolución del azúcar en el agua</para>
+<para id="fs-idp360895781">(e) fundición del oro</para>
+</problem>
+<solution id="fs-idm31476064">
+<para id="fs-idp167334304">(a) físico; (b) químico; (c) químico; (d) físico; (e) físico</para>
+</solution>
+</exercise>
+<exercise id="fs-idp293285456">
+<problem id="fs-idp121565760">
+<para id="fs-idm3075200">Clasifique cada uno de los siguientes cambios como físicos o químicos:</para>
+<para id="fs-idp33159104">(a) la quema de carbón</para>
+<para id="fs-idp360895782">(b) fusión del hielo</para>
+<para id="fs-idp360895783">(c) mezclar sirope de chocolate con leche</para>
+<para id="fs-idp360895784">(d) explosión de un petardo</para>
+<para id="fs-idp360895785">(e) magnetización de un destornillador</para>
+</problem>
+</exercise>
+<exercise id="fs-idm547056">
+<problem id="fs-idp73333568">
+<para id="fs-idp35474752">El volumen de una muestra de oxígeno gaseoso cambió de 10 mL a 11 mL al cambiar la temperatura. ¿Es un cambio químico o físico?</para>
+</problem>
+<solution id="fs-idp10857184">
+<para id="fs-idp28776912">físico</para>
+</solution>
+</exercise>
+<exercise id="fs-idp144519488">
+<problem id="fs-idp132159952">
+<para id="fs-idm4628544">Un volumen de 2,0 litros de hidrógeno gaseoso se combina con 1,0 litros de oxígeno gaseoso para producir 2,0 litros de vapor de agua. ¿El oxígeno sufre un cambio químico o físico?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp42952176">
+<problem id="fs-idm39450576">
+<para id="fs-idp217861216">Explique la diferencia entre propiedades extensivas y propiedades intensivas.</para>
+</problem>
+<solution id="fs-idp15832400">
+<para id="fs-idp206310368">El valor de una propiedad extensiva depende de la cantidad de materia considerada, mientras que el valor de una propiedad intensiva es el mismo independientemente de la cantidad de materia considerada.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp85586464">
+<problem id="fs-idp60039776">
+<para id="fs-idp308135184">Identifique las siguientes propiedades como extensivas o intensivas.</para>
+<para id="fs-idp81282624">(a) volumen</para>
+<para id="fs-idp81282625">(b) la temperatura</para>
+<para id="fs-idp81282626">(c) humedad</para>
+<para id="fs-idp81282627">(d) calor</para>
+<para id="fs-idp81282628">(e) punto de ebullición</para>
+</problem>
+</exercise>
+<exercise id="fs-idp121106016">
+<problem id="fs-idp120485696">
+<para id="fs-idp153016768">La densidad (d) de una sustancia es una propiedad intensiva que se define como la relación entre su masa (m) y su volumen (V).</para>
+<equation class="unnumbered" id="eip-idm75994368"><m:math><m:mrow><m:mtext>densidad</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa</m:mtext></m:mrow><m:mrow><m:mtext>volumen</m:mtext></m:mrow></m:mfrac><m:mspace width="2em"/><m:mtext>d</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mtext>m</m:mtext><m:mtext>V</m:mtext></m:mfrac></m:mrow></m:math></equation><para id="fs-idp178060896">Considerando que tanto la masa como el volumen son propiedades extensivas, explique por qué su relación, la densidad, es intensiva.</para>
+</problem>
+<solution id="fs-idp160222736">
+<para id="fs-idp166947136">Al ser propiedades extensivas, tanto la masa como el volumen son directamente proporcionales a la cantidad de sustancia estudiada. Al dividir una propiedad extensiva entre otra, se "anula" esta dependencia de la cantidad, dando lugar a una relación independiente de la cantidad (una propiedad intensiva).</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp392534800">
+<term>cambio químico</term>
+<meaning id="fs-idp144051808">cambio que produce un tipo de materia diferente a la original</meaning>
+</definition>
+<definition id="fs-idm88320752">
+<term>propiedad química</term>
+<meaning id="fs-idp160053072">comportamiento relacionado con el cambio de un tipo de materia en otro tipo de materia</meaning>
+</definition>
+<definition id="fs-idp102584192">
+<term>propiedad extensiva</term>
+<meaning id="fs-idp88171856">propiedad de una sustancia que depende de la cantidad de la misma</meaning>
+</definition>
+<definition id="fs-idp42386976">
+<term>propiedad intensiva</term>
+<meaning id="fs-idm2175008">propiedad de una sustancia que es independiente de la cantidad de la misma
+</meaning>
+</definition>
+<definition id="fs-idm13656928">
+<term>cambio físico</term>
+<meaning id="fs-idp98812768">cambio en el estado o las propiedades de la materia que no implica un cambio en su composición química</meaning>
+</definition>
+<definition id="fs-idm12232368">
+<term>propiedad física</term>
+<meaning id="fs-idp99116768">característica de la materia que no está asociada a ningún cambio en su composición química</meaning>
+</definition>
+</glossary>
+</document>

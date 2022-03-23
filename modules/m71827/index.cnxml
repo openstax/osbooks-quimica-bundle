@@ -1,0 +1,276 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Determinación de fórmulas empíricas y moleculares</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71827</md:content-id>
+  <md:title>Determinación de fórmulas empíricas y moleculares</md:title>
+  <md:abstract/>
+  <md:uuid>3c929abd-8cc0-4267-a017-a508815dac43</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp63066960">En un capítulo anterior se analizó la relación entre la masa aparente de una sustancia y el número de átomos o moléculas que contiene (moles). Dada la fórmula química de la sustancia, se puede determinar la cantidad de la misma (moles) a partir de su masa, y viceversa. Pero, ¿qué ocurre si se desconoce la fórmula química de una sustancia? En esta sección, estos mismos principios se aplicarán para derivar las fórmulas químicas de sustancias desconocidas a partir de mediciones experimentales de masa.</para><section id="fs-idm175230352">
+<title>Composición porcentual</title>
+<para id="fs-idm144417840">La composición elemental de un compuesto define su identidad química y las fórmulas químicas son la forma más sucinta de representar esta composición elemental. Cuando se desconoce la fórmula de un compuesto, la medición de la masa de cada uno de sus elementos constitutivos suele ser el primer paso en el proceso de determinación experimental de la fórmula. Los resultados de estas mediciones permiten calcular la <term>composición porcentual</term> del compuesto, definida como el porcentaje en masa de cada elemento en el compuesto. Por ejemplo, consideremos un compuesto gaseoso formado únicamente por carbono e hidrógeno. La composición porcentual de este compuesto podría representarse como sigue:</para>
+<equation id="fs-idp62101552" class="unnumbered"><m:math><m:mrow><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa de H</m:mtext></m:mrow><m:mrow><m:mtext>masa del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi></m:mrow></m:math></equation>
+<equation id="fs-idp85788016" class="unnumbered"><m:math><m:mrow><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa de C</m:mtext></m:mrow><m:mrow><m:mtext>masa del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm144352192">Si el análisis de una muestra de 10,0 g de este gas muestra que contiene 2,5 g de H y 7,5 g de C, la composición porcentual se calcularía en un 25 % de H y un 75 % de C:</para>
+<equation id="fs-idm95716912" class="unnumbered"><m:math><m:mrow><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2,5</m:mn><m:mspace width="0.2em"/><m:mtext>g de H</m:mtext></m:mrow><m:mrow><m:mn>10,0</m:mn><m:mspace width="0.2em"/><m:mtext>g del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi><m:mo>=</m:mo><m:mn>25</m:mn><m:mi>%</m:mi></m:mrow></m:math></equation>
+<equation id="fs-idp9583632" class="unnumbered"><m:math><m:mrow><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>7,5</m:mn><m:mspace width="0.2em"/><m:mtext>g de C</m:mtext></m:mrow><m:mrow><m:mn>10,0</m:mn><m:mspace width="0.2em"/><m:mtext>g del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi><m:mo>=</m:mo><m:mn>75</m:mn><m:mi>%</m:mi></m:mrow></m:math></equation>
+<example id="fs-idm150394080">
+<para id="fs-idm20386912"><title>Calcular la composición porcentual</title>
+El análisis de una muestra de 12,04 g de un compuesto líquido formado por carbono, hidrógeno y nitrógeno mostró que contiene 7,34 g de C, 1,85 g de H y 2,85 g de N. ¿Cuál es la composición porcentual de este compuesto?</para>
+<para id="fs-idm111369568"><title>Solución</title>
+Para calcular la composición porcentual, hay que dividir la masa de cada elemento obtenida experimentalmente entre la masa total del compuesto y, a continuación, convertirla en un porcentaje:</para>
+<equation id="fs-idm181555088" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>7,34</m:mn><m:mspace width="0.2em"/><m:mtext>g de C</m:mtext></m:mrow><m:mrow><m:mn>12,04</m:mn><m:mspace width="0.2em"/><m:mtext>g del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi><m:mo>=</m:mo><m:mn>61,0</m:mn><m:mi>%</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1,85</m:mn><m:mspace width="0.2em"/><m:mtext>g de H</m:mtext></m:mrow><m:mrow><m:mn>12,04</m:mn><m:mspace width="0.2em"/><m:mtext>g del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi><m:mo>=</m:mo><m:mn>15,4</m:mn><m:mi>%</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>N</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2,85</m:mn><m:mspace width="0.2em"/><m:mtext>g de N</m:mtext></m:mrow><m:mrow><m:mn>12,04</m:mn><m:mspace width="0.2em"/><m:mtext>g del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi><m:mo>=</m:mo><m:mn>23,7</m:mn><m:mi>%</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm125592496">Los resultados del análisis indican que el compuesto tiene un 61,0 % de C, un 15,4 % de H y un 23,7 % de N en masa.</para>
+<para id="fs-idp63575312"><title>Compruebe lo aprendido</title>
+Se determina que una muestra de 24,81 g de un compuesto gaseoso que solo contiene carbono, oxígeno y cloro contiene 3,01 g de C, 4,00 g de O y 17,81 g de Cl. ¿Cuál es la composición porcentual de este compuesto?</para>
+<note id="fs-idp63474576"><title>Respuesta:</title>
+<para id="fs-idm146819008">12,1 % de C, 16,1 % de O, 71,79 % de Cl</para></note>
+</example>
+<section id="fs-idm114973648">
+<title>Determinar la composición porcentual a partir de fórmulas moleculares o empíricas</title>
+<para id="fs-idm153839088">La composición porcentual también es útil para evaluar la abundancia relativa de un elemento determinado en diferentes compuestos de fórmulas conocidas. Como ejemplo, consideremos los fertilizantes comunes que contienen nitrógeno: amoníaco (NH<sub>3</sub>), nitrato de amonio (NH<sub>4</sub>NO<sub>3</sub>) y urea (CH<sub>4</sub>N<sub>2</sub>O). El elemento nitrógeno es el ingrediente activo para fines agrícolas, por lo que el porcentaje de masa de nitrógeno en el compuesto es una preocupación práctica y económica para los consumidores que eligen entre estos fertilizantes. Para este tipo de aplicaciones, la composición porcentual de un compuesto se obtiene fácilmente a partir de su fórmula de masa y de las masas atómicas de sus elementos constitutivos. Una molécula de NH<sub>3</sub> contiene un átomo de N que pesa 14,01 u y tres átomos de H que pesan un total de (3 <m:math><m:mo>×</m:mo></m:math> 1,008 u) = 3,024 u. La fórmula de masa del amoníaco es, por tanto, (14,01 u + 3,024 u) = 17,03 u, y su composición porcentual es:</para>
+<equation id="fs-idm150406144" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>N</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>14,01</m:mn><m:mspace width="0.2em"/><m:mtext>u de N</m:mtext></m:mrow><m:mrow><m:mn>17,03</m:mn><m:mspace width="0.2em"/><m:mtext>u de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi><m:mo>=</m:mo><m:mn>82,27</m:mn><m:mi>%</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3,024</m:mn><m:mspace width="0.2em"/><m:mtext>u de H</m:mtext></m:mrow><m:mrow><m:mn>17,03</m:mn><m:mspace width="0.2em"/><m:mtext>u de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi><m:mo>=</m:mo><m:mn>17,76</m:mn><m:mi>%</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm159904272">Este mismo enfoque puede adoptarse considerando un par de moléculas, una docena de moléculas o un mol de moléculas, etc. Esta última cantidad es la más conveniente y simplemente implicaría el uso de masas molares en lugar de fórmulas de masa y atómicas, como se ha demostrado en el <link target-id="fs-idm162294688"/>. Siempre que se conozca la fórmula molecular o empírica del compuesto en cuestión, la composición porcentual puede derivarse de las masas atómicas o molares de los elementos del compuesto.</para>
+<example id="fs-idm162294688">
+<para id="fs-idm28923440"><title>Determinar la composición porcentual a partir de una fórmula molecular</title>
+La aspirina es un compuesto con la fórmula molecular C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>. ¿Cuál es su composición porcentual?</para>
+<para id="fs-idm77779888"><title>Solución</title>
+Para calcular la composición porcentual, se necesitan las masas de C, H y O en una masa conocida de C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>. Es conveniente considerar 1 mol de C<sub>9</sub>H<sub>8</sub>O<sub>4</sub> y utilizar su masa molar (180,159 g/mol, determinada a partir de la fórmula química) para calcular los porcentajes de cada uno de sus elementos:</para>
+<equation id="fs-idm106112" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>9</m:mn><m:mspace width="0.2em"/><m:mtext>mol de C</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>masa molar de C</m:mtext></m:mrow><m:mrow><m:mtext>masa molar de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>9</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>8</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>12,01</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow><m:mrow><m:mn>180,159</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>108,09</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow><m:mrow><m:mn>180,159</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mn>60,00</m:mn><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>C</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><equation id="fs-idm172254128" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>% de</m:mi><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mtext>mol de H</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>masa molar de H</m:mtext></m:mrow><m:mrow><m:mtext>masa molar de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>9</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>8</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1,008</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow><m:mrow><m:mn>180,159</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>8,064</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow><m:mrow><m:mn>180,159</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>H</m:mtext><m:mo>=</m:mo><m:mn>4,476</m:mn><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>H</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><equation id="fs-idp8443552" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>O</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mtext>mol de O</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>masa molar de O</m:mtext></m:mrow><m:mrow><m:mtext>masa molar de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>9</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>8</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>16,00</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow><m:mrow><m:mn>180,159</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>64,00</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow><m:mrow><m:mn>180,159</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>O</m:mtext><m:mo>=</m:mo><m:mn>35,52</m:mn><m:mi>%</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp47168">Tenga en cuenta que la suma de estos porcentajes es igual al 100,00 % cuando se redondea adecuadamente.</para>
+<para id="fs-idm29762576"><title>Compruebe lo aprendido</title>
+Con tres dígitos significativos, ¿cuál es el porcentaje en masa del hierro en el compuesto Fe<sub>2</sub>O<sub>3</sub>?</para>
+<note id="fs-idm63137328"><title>Respuesta:</title>
+<para id="fs-idm72116192">69,9 % de Fe</para>
+</note>
+</example>
+</section>
+</section>
+<section id="fs-idm186235344">
+<title>Determinación de fórmulas empíricas</title>
+<para id="fs-idm181573632">Como se ha mencionado anteriormente, el enfoque más común para determinar la fórmula química de un compuesto es medir primero las masas de sus elementos constitutivos. Sin embargo, hay que tener en cuenta que las fórmulas químicas representan los <emphasis effect="italics">números</emphasis> relativos, no las masas, de los átomos de la sustancia. Por lo tanto, cualquier dato derivado experimentalmente que involucre la masa debe ser utilizado para derivar los números correspondientes de átomos en el compuesto. Esto se consigue utilizando las masas molares para convertir la masa de cada elemento en un número de moles. Estas cantidades molares se utilizan para calcular las relaciones de números enteros que pueden utilizarse para obtener la fórmula empírica de la sustancia. Considere una muestra de compuesto que contiene 1,71 g de C y 0,287 g de H. Los números correspondientes de átomos (en moles) son:</para>
+<equation id="fs-idm182904000" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mn>1,71</m:mn><m:mspace width="0.2em"/><m:mtext>g de C</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol de C</m:mtext></m:mrow><m:mrow><m:mn>12,01</m:mn><m:mspace width="0.2em"/><m:mtext>g de C</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,142</m:mn><m:mspace width="0.2em"/><m:mtext>mol de C</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>0,287</m:mn><m:mspace width="0.2em"/><m:mtext>g de H</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol de H</m:mtext></m:mrow><m:mrow><m:mn>1,008</m:mn><m:mspace width="0.2em"/><m:mtext>g de H</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,284</m:mn><m:mspace width="0.2em"/><m:mtext>mol de H</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm89096592">Por lo tanto, este compuesto puede estar representado por la fórmula C<sub>0,142</sub>H<sub>0,284</sub>. Por convención, las fórmulas contienen subíndices de números enteros, lo que puede lograrse dividiendo cada subíndice por el subíndice menor:</para><equation id="fs-idm173344864" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,142</m:mn></m:mrow><m:mrow><m:mn>0,142</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:msub><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,284</m:mn></m:mrow><m:mrow><m:mn>0,142</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:msub><m:mspace width="0.2em"/><m:mtext>o</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm154418400">(Recordemos que los subíndices de "1" no se escriben, sino que se suponen si no hay ningún otro número)</para>
+<para id="fs-idm83793840">La fórmula empírica de este compuesto es, pues, CH<sub>2</sub>. Esta puede ser o no la <emphasis effect="italics">fórmula molecular</emphasis> del compuesto; sin embargo, se necesita información adicional para hacer esa determinación (como se trata más adelante en esta sección).</para>
+<para id="fs-idm172411952">Consideremos como otro ejemplo una muestra de compuesto que se ha determinado que contiene 5,31 g de Cl y 8,40 g de O. Siguiendo el mismo enfoque se obtiene una fórmula empírica tentativa de:</para>
+<equation id="fs-idm153644640" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mrow><m:mn>0,150</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>0,525</m:mn></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,150</m:mn></m:mrow><m:mrow><m:mn>0,150</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:msub><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,525</m:mn></m:mrow><m:mrow><m:mn>0,150</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mrow><m:mn>3,5</m:mn></m:mrow></m:msub></m:mrow></m:math></equation><para id="fs-idm146854160">En este caso, al dividir por el subíndice más pequeño todavía nos queda un subíndice decimal en la fórmula empírica. Para convertir esto en un número entero, multiplique cada uno de los subíndices por dos, conservando la misma proporción de átomos y dando como resultado Cl<sub>2</sub>O<sub>7</sub> como fórmula empírica final.</para>
+<para id="fs-idm99418064">En resumen, las fórmulas empíricas se derivan de las masas de los elementos que se miden experimentalmente al:</para>
+<list id="fs-idm105983184" list-type="enumerated" number-style="arabic">
+<item>Derivar el número de moles de cada elemento a partir de su masa.</item>
+<item>Dividir la cantidad molar de cada elemento entre la cantidad molar más pequeña para obtener los subíndices de una fórmula empírica tentativa.</item>
+<item>Multiplicar todos los coeficientes por un número entero, si es necesario, para garantizar que se obtiene la menor relación de números enteros de los subíndices.</item>
+</list>
+<para id="fs-idm116173824">En la <link target-id="CNX_Chem_03_03_empform"/> se describe este procedimiento en forma de diagrama de flujo para una sustancia que contiene los elementos A y X.</para>
+<figure id="CNX_Chem_03_03_empform">
+<media id="fs-idm114759824" alt="Se muestra un diagrama de flujo compuesto por seis recuadros, dos de las cuales están conectados entre sí por una flecha orientada hacia la derecha y situados encima de otros dos que también están conectados por una flecha orientada hacia la derecha. Estas dos filas de recuadros están conectadas verticalmente por una línea que lleva a una flecha orientada a la derecha y los dos últimos recuadros, conectados por una última flecha orientada a la derecha. Los dos primeros recuadros superiores tienen las frases &quot;Masa de átomos A&quot; y &quot;Moles de átomos A&quot; respectivamente, mientras que la flecha que los une tiene la frase &quot;Dividir entre la masa molar&quot; escrita debajo. Los dos segundos recuadros inferiores tienen las frases &quot;Masa de átomos X&quot; y &quot;Moles de átomos X&quot; respectivamente, mientras que la flecha que los une tiene la frase &quot;Dividir entre la masa molar” escrita debajo. La flecha que une los recuadros superior e inferior con los dos últimos recuadros tiene la frase &quot;Dividir entre el menor número de moles” escrita debajo. Los dos últimos recuadros tienen las frases &quot;Relación molar de A a X&quot; y &quot;Fórmula empírica&quot; respectivamente, mientras que la flecha que los une tiene la frase &quot;Convertir la relación a los números enteros más bajos” escrita debajo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_03_empform.jpg"/>
+</media>
+<caption>La fórmula empírica de un compuesto puede derivarse de las masas de todos los elementos de la muestra.</caption>
+</figure>
+<example id="fs-idp70151968">
+<para id="fs-idm148697040">
+<title>Determinación de la fórmula empírica de un compuesto a partir de las masas de sus elementos</title>
+Una muestra del mineral negro hematita (<link target-id="CNX_Chem_03_03_hematite"/>), un óxido de hierro que se encuentra en muchos minerales de hierro, contiene 34,97 g de hierro y 15,03 g de oxígeno. ¿Cuál es la fórmula empírica de la hematita?</para>
+<figure id="CNX_Chem_03_03_hematite">
+<media id="fs-idm156718064" alt="Se muestran dos piedras negras redondeadas y lisas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_03_hematite.jpg"/>
+</media>
+<caption>La hematita es un óxido de hierro que se utiliza en joyería (créditos: Mauro Cateb).</caption>
+</figure>
+<para id="fs-idp9584080"><title>Solución</title>
+Este problema proporciona la masa en gramos de cada elemento. Empieza por encontrar los moles de cada uno:</para>
+<equation id="fs-idp81202080" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mn>34,97</m:mn><m:mspace width="0.2em"/><m:mtext>g de Fe</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>mol de Fe</m:mtext></m:mrow><m:mrow><m:mn>55,85</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>0,6261</m:mn><m:mspace width="0.2em"/><m:mtext>mol de Fe</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>15,03</m:mn><m:mspace width="0.2em"/><m:mtext>g de O</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>mol de O</m:mtext></m:mrow><m:mrow><m:mn>16,00</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>0,9394</m:mn><m:mspace width="0.2em"/><m:mtext>mol de O</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp19490304">Luego, obtenga la relación molar entre el hierro y el oxígeno dividiendo entre el número menor de moles:</para>
+<equation id="fs-idm186572544" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,6261</m:mn></m:mrow><m:mrow><m:mn>0,6261</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1,000</m:mn><m:mspace width="0.2em"/><m:mtext>mol de Fe</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,9394</m:mn></m:mrow><m:mrow><m:mn>0,6261</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1,500</m:mn><m:mspace width="0.2em"/><m:mtext>mol de O</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm169565728">La proporción es de 1000 mol de hierro por 1500 mol de oxígeno (Fe<sub>1</sub>O<sub>1,5</sub>). Por último, multiplique la relación por dos para obtener el menor número entero posible de subíndices, manteniendo la relación correcta entre el hierro y el oxígeno:</para>
+<equation id="fs-idm9646560" class="unnumbered"><m:math><m:mrow><m:mn>2 </m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>1</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>1,5</m:mn></m:mrow></m:msub></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm196066368">La fórmula empírica es Fe<sub>2</sub>O<sub>3</sub>.</para>
+<para id="fs-idm180356384"><title>Compruebe lo aprendido</title>
+¿Cuál es la fórmula empírica de un compuesto si una muestra contiene 0,130 g de nitrógeno y 0,370 g de oxígeno?</para>
+<note id="fs-idp52798448"><title>Respuesta:</title>
+<para id="fs-idm112291760">N<sub>2</sub>O<sub>5</sub></para>
+</note>
+</example>
+<note id="fs-idm160004320" class="chemistry link-to-learning">
+<para id="fs-idp89502368">Para ver otros ejemplos trabajados que ilustran la derivación de fórmulas empíricas, vea este breve <link url="http://openstax.org/l/16empforms">videoclip</link>.</para></note>
+<section id="fs-idp48607392">
+<title>Derivar fórmulas empíricas a partir de la composición porcentual</title>
+<para id="fs-idm130157248">Por último, con respecto a la derivación de fórmulas empíricas, considere los casos en los que se dispone de la composición porcentual de un compuesto en lugar de las masas absolutas de los elementos que lo componen. En estos casos, la composición porcentual puede utilizarse para calcular las masas de los elementos presentes en cualquier masa conveniente del compuesto; estas masas pueden utilizarse entonces para derivar la fórmula empírica de la manera habitual.</para>
+<example id="fs-idp11336208"><para id="fs-idm16856224"><title>Determinar una fórmula empírica a partir de la composición porcentual</title>
+La fermentación bacteriana del grano para producir etanol forma un gas con una composición porcentual de 27,29 % de C y 72,71 % de O (<link target-id="CNX_Chem_03_03_BrewTank"/>). ¿Cuál es la fórmula empírica de este gas?</para>
+<figure id="CNX_Chem_03_03_BrewTank">
+<media id="fs-idm183208576" alt="Se muestra una imagen de cuatro contenedores industriales de color cobre con una gran tubería conectada a la parte superior de cada uno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_03_BrewTank.jpg"/>
+</media>
+<caption>El óxido de carbono se extrae de estos depósitos de fermentación a través de los grandes tubos de cobre de la parte superior (créditos: "Dual Freq"/Wikimedia Commons).</caption>
+</figure>
+<para id="fs-idp8854528"><title>Solución</title>
+Como la escala de porcentajes es 100, lo más conveniente es calcular la masa de elementos presentes en una muestra que pesa 100 g. El cálculo es "más conveniente" porque, según la definición de composición porcentual, la masa de un elemento dado en gramos es numéricamente equivalente al porcentaje de masa del elemento. Esta equivalencia numérica resulta de la definición de la unidad "porcentaje", cuyo nombre deriva de la frase latina <emphasis effect="italics">per centum</emphasis> que significa "por cien". Teniendo en cuenta esta definición, es más conveniente expresar los porcentajes de masa como fracciones:</para>
+<equation id="fs-idm50369216" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mn>27,29</m:mn><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>C</m:mtext></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>27,29</m:mn><m:mspace width="0.2em"/><m:mtext>g de C</m:mtext></m:mrow><m:mrow><m:mn>100</m:mn><m:mspace width="0.2em"/><m:mtext>g del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>72,71</m:mn><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>O</m:mtext></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>72,71</m:mn><m:mspace width="0.2em"/><m:mtext>g de O</m:mtext></m:mrow><m:mrow><m:mn>100</m:mn><m:mspace width="0.2em"/><m:mtext>g del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp6456464">Las cantidades molares de carbono y oxígeno en una muestra de 100 g se calculan dividiendo la masa de cada elemento entre su masa molar:</para><equation id="fs-idm107059040" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mn>27,29</m:mn><m:mspace width="0.2em"/><m:mtext>g de C</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>mol de C</m:mtext></m:mrow><m:mrow><m:mn>12,01</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>2,272</m:mn><m:mspace width="0.2em"/><m:mtext>mol de C</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>72,71</m:mn><m:mspace width="0.2em"/><m:mtext>g de O</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>mol de O</m:mtext></m:mrow><m:mrow><m:mn>16,00</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>4,544</m:mn><m:mspace width="0.2em"/><m:mtext>mol de O</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm174491744">Los coeficientes de la fórmula empírica tentativa se obtienen dividiendo cada cantidad molar por la menor de las dos:</para>
+<equation id="fs-idm112786736" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr/><m:mtr><m:mtd><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2,272</m:mn><m:mspace width="0.2em"/><m:mtext>mol de C</m:mtext></m:mrow><m:mrow><m:mn>2,272</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>4,544</m:mn><m:mspace width="0.2em"/><m:mtext>mol de O</m:mtext></m:mrow><m:mrow><m:mn>2,272</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2 </m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm106276304">Como la proporción resultante es de un átomo de carbono por dos de oxígeno, la fórmula empírica es CO<sub>2</sub>.</para>
+<para id="fs-idm153398992"><title>Compruebe lo aprendido</title>
+¿Cuál es la fórmula empírica de un compuesto que contiene 40,0 % de C, 6,71 % de H y 53,28 % de O?</para>
+<note id="fs-idm61160608"><title>Respuesta:</title>
+<para id="fs-idm49848016">CH<sub>2</sub>O</para>
+</note>
+</example>
+</section>
+</section>
+<section id="fs-idp23895104">
+<title>Calcular fórmulas moleculares</title>
+<para id="fs-idp60635424">Recordemos que las fórmulas empíricas son símbolos que representan los números <emphasis effect="italics">relativos</emphasis> de los elementos de un compuesto. Para determinar el número <emphasis effect="italics">absoluto</emphasis> de átomos que componen una única molécula de un compuesto covalente es necesario conocer tanto su fórmula empírica como su masa molecular o masa molar. Estas magnitudes pueden determinarse experimentalmente mediante diversas técnicas de medición. La masa molecular, por ejemplo, suele derivarse del espectro de masas del compuesto (véase la exposición de esta técnica en un capítulo anterior sobre átomos y moléculas). La masa molar puede medirse mediante una serie de métodos experimentales, muchos de los cuales se presentarán en capítulos posteriores de este texto.</para><para id="fs-idm152826480">Las fórmulas moleculares se obtienen comparando la masa molecular o molar del compuesto con su <term>masa de fórmula empírica</term>. Como su nombre indica, una masa de fórmula empírica es la suma de las masas atómicas medias de todos los átomos representados en una fórmula empírica. Si se conoce la masa molecular (o molar) de la sustancia, puede dividirse por la masa de fórmula empírica para obtener el número de unidades de fórmula empírica por molécula(<emphasis effect="italics">n</emphasis>):</para>
+<equation id="fs-idm157027008" class="unnumbered"><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa molecular o molar</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>u o</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mtext>g</m:mtext><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>masa de fórmula empírica</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>u o</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mtext>g</m:mtext><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mi>n</m:mi><m:mspace width="0.2em"/><m:mtext>unidades/moléculas de fórmula</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp7653408">La fórmula molecular se obtiene entonces multiplicando cada subíndice de la fórmula empírica por <emphasis effect="italics">n</emphasis>, como muestra la fórmula empírica genérica A<sub>x</sub>B<sub>y</sub>:</para>
+<equation id="fs-idp3369296" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>A</m:mtext></m:mrow><m:mtext>x</m:mtext></m:msub><m:msub><m:mtext>B</m:mtext><m:mtext>y</m:mtext></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mtext>n</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mtext>A</m:mtext><m:mrow><m:mtext>nx</m:mtext></m:mrow></m:msub><m:msub><m:mtext>B</m:mtext><m:mrow><m:mtext>ny</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation><para id="fs-idm149844688">Por ejemplo, consideremos un compuesto covalente cuya fórmula empírica se determina como CH<sub>2</sub>O. La masa de fórmula empírica de este compuesto es de aproximadamente 30 u (la suma de 12 u para un átomo de C, 2 u para dos átomos de H y 16 u para un átomo de O). Si se determina que la masa molecular del compuesto es de 180 u, esto indica que las moléculas de este compuesto contienen seis veces el número de átomos representados en la fórmula empírica:</para>
+<equation id="fs-idm11480608" class="unnumbered"><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>180</m:mn><m:mspace width="0.2em"/><m:mtext>u/molécula</m:mtext></m:mrow><m:mrow><m:mn>30</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>u de</m:mtext></m:mrow><m:mrow><m:mtext>unidad de fórmula</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mtext>unidades/moléculas de fórmula</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm156812016">Las moléculas de este compuesto se representan entonces con fórmulas moleculares cuyos subíndices son seis veces mayores que los de la fórmula empírica:</para>
+<equation id="fs-idp29668368" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>(CH</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:msub><m:mrow><m:mtext>O)</m:mtext></m:mrow><m:mtext>6</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mtext>C</m:mtext><m:mtext>6</m:mtext></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mtext>12</m:mtext></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mtext>6</m:mtext></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm146366240">Observe que este mismo enfoque puede utilizarse cuando se emplea la masa molar (g/mol) en lugar de la masa molecular (u). En este caso, se considera <emphasis effect="italics">un mol</emphasis> de unidades y moléculas de fórmula empírica, a diferencia de las unidades y moléculas individuales.</para>
+<example id="fs-idm153155296"><para id="fs-idm56345360">
+<title>Determinar la fórmula molecular de la nicotina</title>
+La nicotina, un alcaloide de la familia de las solanáceas que es el principal responsable de la naturaleza adictiva de los cigarrillos, contiene un 74,02 % de C, un 8,710 % de H y un 17,27 % de N. Si 40,57 g de nicotina contienen 0,2500 mol de nicotina, ¿cuál es la fórmula molecular?</para>
+<para id="fs-idm146789392"><title>Solución</title>
+La determinación de la fórmula molecular a partir de los datos proporcionados requerirá la comparación de la masa de la fórmula empírica del compuesto con su masa molar. Como primer paso, utilice la composición porcentual para obtener la fórmula empírica del compuesto. Suponiendo que sea conveniente, una muestra de 100 g de nicotina produce las siguientes cantidades molares de sus elementos:</para>
+<equation id="fs-idm165807504" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>74,02</m:mn><m:mspace width="0.2em"/><m:mtext>g de C</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol de C</m:mtext></m:mrow><m:mrow><m:mn>12,01</m:mn><m:mspace width="0.2em"/><m:mtext>g de C</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>6,163</m:mn><m:mspace width="0.2em"/><m:mtext>mol de C</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>8,710</m:mn><m:mspace width="0.2em"/><m:mtext>g de H</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol de H</m:mtext></m:mrow><m:mrow><m:mn>1,01</m:mn><m:mspace width="0.2em"/><m:mtext>g de H</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>8,624</m:mn><m:mspace width="0.2em"/><m:mtext>mol de H</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>17,27</m:mn><m:mspace width="0.2em"/><m:mtext>g de N</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol de N</m:mtext></m:mrow><m:mrow><m:mn>14,01</m:mn><m:mspace width="0.2em"/><m:mtext>g de N</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>1,233</m:mn><m:mspace width="0.2em"/><m:mtext>mol de N</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idm3598576">A continuación, calcule las proporciones molares de estos elementos en relación con el elemento menos abundante, el N.</para><equation id="eip-876" class="unnumbered"><m:math><m:mn>6,163</m:mn><m:mspace width="0.2em"/><m:mtext>mol </m:mtext><m:mspace width="0.2em"/><m:mo>C</m:mo><m:mo>/</m:mo><m:mspace width="0.2em"/><m:mn>1,233</m:mn><m:mspace width="0.2em"/><m:mtext> mol  </m:mtext><m:mspace width="0.2em"/><m:mn>N</m:mn><m:mo>=</m:mo><m:mn>5</m:mn>
+</m:math></equation><equation id="eip-272" class="unnumbered"><m:math>
+<m:mn>8,264</m:mn><m:mspace width="0.2em"/><m:mtext>mol </m:mtext><m:mspace width="0.2em"/><m:mo>H</m:mo><m:mo>/</m:mo><m:mspace width="0.2em"/><m:mn>1,233</m:mn><m:mspace width="0.2em"/><m:mtext> mol  </m:mtext><m:mspace width="0.2em"/><m:mn>N</m:mn><m:mo>=</m:mo><m:mn>7</m:mn>
+
+
+</m:math></equation><equation id="eip-610" class="unnumbered"><m:math><m:mn>1,233</m:mn><m:mspace width="0.2em"/><m:mtext>mol </m:mtext><m:mspace width="0.2em"/><m:mo>N</m:mo><m:mo>/</m:mo><m:mspace width="0.2em"/><m:mn>1,233</m:mn><m:mspace width="0.2em"/><m:mtext> mol  </m:mtext><m:mspace width="0.2em"/><m:mn>N</m:mn><m:mo>=</m:mo><m:mn>1</m:mn></m:math></equation><equation id="eip-909" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>1,233</m:mn></m:mrow><m:mrow><m:mn>1,233</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mtd>
+<m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>1,000</m:mn><m:mspace width="0.2em"/><m:mtext>mol de N</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mrow><m:mfrac><m:mrow><m:mn>6,163</m:mn></m:mrow><m:mrow><m:mn>1,233</m:mn></m:mrow></m:mfrac></m:mrow></m:mtd>
+<m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>4,998</m:mn><m:mspace width="0.2em"/><m:mtext>mol de C</m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd><m:mrow><m:mfrac><m:mrow><m:mn>8,624</m:mn></m:mrow><m:mrow><m:mn>1,233</m:mn></m:mrow></m:mfrac></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>6,994</m:mn><m:mspace width="0.2em"/><m:mtext>mol de H</m:mtext></m:mtd>
+</m:mtr></m:mtable></m:math></equation><para id="fs-idm152642880">Las proporciones molares de C a N y de H a N se aproximan adecuadamente a los números enteros, por lo que la fórmula empírica es C<sub>5</sub>H<sub>7</sub>N. La masa de fórmula empírica para este compuesto es, por lo tanto, de 81,13 u/unidad de fórmula, o de 81,13 g/mol de unidad de fórmula.</para>
+<para id="fs-idm172291248">Calcule la masa molar de la nicotina a partir de la masa y la cantidad molar del compuesto dadas:</para>
+<equation id="fs-idp7634272" class="unnumbered"><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>40,57</m:mn><m:mspace width="0.2em"/><m:mtext>g de nicotina</m:mtext></m:mrow><m:mrow><m:mn>0,2500</m:mn><m:mspace width="0.2em"/><m:mtext>mol de nicotina</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>162,3</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:math></equation>
+<para id="fs-idm113144656">La comparación de la masa molar y la masa de fórmula empírica indica que cada molécula de nicotina contiene dos unidades de fórmula:</para>
+<equation id="fs-idp64453248" class="unnumbered"><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>162,3</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow><m:mrow><m:mn>81,13</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mtext>g</m:mtext><m:mrow><m:mtext>de unidad de fórmula</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>unidades/moléculas de fórmula</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm217123120">Por último, obtenga la fórmula molecular de la nicotina a partir de la fórmula empírica multiplicando cada subíndice por dos:</para>
+<equation id="fs-idp60197184" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>(C</m:mtext></m:mrow><m:mtext>5</m:mtext></m:msub><m:msub><m:mtext>H</m:mtext><m:mtext>7</m:mtext></m:msub><m:msub><m:mtext>N)</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mtext>C</m:mtext><m:mrow><m:mtext>10</m:mtext></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mtext>14</m:mtext></m:mrow></m:msub><m:msub><m:mtext>N</m:mtext><m:mtext>2</m:mtext></m:msub></m:mrow></m:math></equation><para id="fs-idp8627344"><title>Compruebe lo aprendido</title>
+¿Cuál es la fórmula molecular de un compuesto con una composición porcentual de 49,47 % de C, 5,201 % de H, 28,84 % de N y 16,48 % de O, y una masa molecular de 194,2 u?</para>
+<note id="fs-idm149132352"><title>Respuesta:</title>
+<para id="fs-idm152847216">C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub></para>
+</note>
+</example>
+</section>
+<section id="fs-idm130412048" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm171937152">La identidad química de una sustancia se define por los tipos y números relativos de átomos que componen sus entidades fundamentales (moléculas en el caso de los compuestos covalentes, iones en el caso de los compuestos iónicos). La composición porcentual de un compuesto proporciona el porcentaje de masa de cada elemento en el compuesto, y a menudo se determina experimentalmente y se utiliza para derivar la fórmula empírica del compuesto. La masa de la fórmula empírica de un compuesto covalente puede compararse con la masa molecular o molar del compuesto para obtener una fórmula molecular.</para>
+</section>
+<section id="fs-idm151713456" class="exercises">
+<exercise id="fs-idm115920688">
+<problem id="fs-idm175734160">
+<para id="fs-idm219427632">¿Qué información se necesita para determinar la fórmula molecular de un compuesto a partir de la fórmula empírica?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm130496608"><problem id="fs-idp36347168">
+<para id="fs-idm160000">Calcule lo siguiente con cuatro cifras significativas:</para>
+<para id="fs-idm177315056">a) la composición porcentual del amoníaco, NH<sub>3</sub></para>
+<para id="fs-idm105706256">b) la composición porcentual de la solución de fijador fotográfico "hipo", Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub></para>
+<para id="fs-idm105710800">(c) el porcentaje de ion calcio en Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub></para>
+</problem>
+<solution id="fs-idm167888272"><para id="fs-idm8723440">
+(a) % N = 82,24 %<newline/> % H = 17,76 %;<newline/> (b) % Na = 29,08 %<newline/> % S = 40,56 %<newline/> % O = 30,36 %;<newline/> (c) % Ca<sup>2+</sup> = 38,76 %</para></solution>
+</exercise>
+<exercise id="fs-idm99186192">
+<problem id="fs-idp106952544">
+<para id="fs-idp268768">Determine lo siguiente con cuatro cifras significativas:</para>
+<para id="fs-idm149211856">(a) la composición porcentual del ácido hidrazoico, HN<sub>3</sub></para>
+<para id="fs-idm162962720">(b) la composición porcentual del TNT, C<sub>6</sub>H<sub>2</sub>(CH<sub>3</sub>)(NO<sub>2</sub>)<sub>3</sub></para>
+<para id="fs-idm183984960">(c) el porcentaje de SO<sub>4</sub><sup>2-</sup> en Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp103798128">
+<problem id="fs-idm33204800">
+<para id="fs-idm151196704">Determine el porcentaje de amoníaco, NH<sub>3</sub>, en Co(NH<sub>3</sub>)<sub>6</sub>Cl<sub>3</sub>, con tres cifras significativas.</para></problem>
+<solution id="fs-idm168846720">
+<para id="fs-idp36459552">% de NH<sub>3</sub> = 38,2 %</para></solution>
+</exercise>
+<exercise id="fs-idm78648848">
+<problem id="fs-idp2095568">
+<para id="fs-idm107182224">Determine el porcentaje de agua en CuSO<sub>4</sub>∙5H<sub>2</sub>O con tres cifras significativas.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm2827872">
+<problem id="fs-idm153658944">
+<para id="fs-idm157957232">Determine las fórmulas empíricas de los compuestos con las siguientes composiciones porcentuales:</para>
+<para id="fs-idm115884896">(a) 15,8 % de carbono y 84,2 % de azufre</para>
+<para id="fs-idm154543312">b) 40,0 % de carbono, 6,7 % de hidrógeno y 53,3 % de oxígeno</para>
+</problem>
+<solution id="fs-idm165665504"><para id="fs-idm165665376">(a) CS<sub>2</sub><newline/> (b) CH<sub>2</sub>O</para></solution>
+</exercise>
+<exercise id="fs-idm106900080">
+<problem id="fs-idp82011888">
+<para id="fs-idm133574896">Determine las fórmulas empíricas de los compuestos con las siguientes composiciones porcentuales:</para>
+<para id="fs-idp103824992">(a) 43,6 % de fósforo y 56,4 % de oxígeno</para>
+<para id="fs-idm117014832">(b) 28,7 % de K, 1,5 % de H, 22,8 % de P y 47,0 % de O</para>
+</problem>
+</exercise>
+<exercise id="fs-idm108358432">
+<problem id="fs-idp35192144">
+<para id="fs-idm116098896">Un compuesto de carbono e hidrógeno contiene un 92,3 % de C y tiene una masa molar de 78,1 g/mol. ¿Cuál es su fórmula molecular?</para>
+</problem>
+<solution id="fs-idp2588192"><para id="fs-idp6839584">C<sub>6</sub>H<sub>6</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idm234233056">
+<problem id="fs-idm234232800">
+<para id="fs-idm8281104">El dicloroetano, un compuesto que suele utilizarse para la limpieza en seco, contiene carbono, hidrógeno y cloro. Tiene una masa molar de 99 g/mol. El análisis de una muestra indica que contiene un 24,3 % de carbono y un 4,1 % de hidrógeno. ¿Cuál es su fórmula molecular?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm149528800">
+<problem id="fs-idp1815456">
+<para id="fs-idp1815712">Determine la fórmula empírica y molecular del amianto crisotilo. El crisotilo tiene la siguiente composición porcentual: 28,03 % de Mg, 21,60 % de Si, 1,16 % de H y 49,21 % de O. La masa molar del crisotilo es de 520,8 g/mol.</para>
+</problem>
+<solution id="fs-idp28427520">
+<para id="fs-idp63157456">Mg<sub>3</sub>Si<sub>2</sub>H<sub>3</sub>O<sub>8</sub> (fórmula empírica), Mg<sub>6</sub>Si<sub>4</sub>H<sub>6</sub>O<sub>16</sub> (fórmula molecular)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp2230736">
+<problem id="fs-idm174074016">
+<para id="fs-idm174073760">Los polímeros son grandes moléculas compuestas por unidades simples que se repiten muchas veces. Por ello, suelen tener fórmulas empíricas relativamente sencillas. Calcule las fórmulas empíricas de los siguientes polímeros:</para>
+<para id="fs-idm12982896">(a) Lucita (plexiglás); 59,9 % de C, 8,06 % de H, 32,0 % de O</para>
+<para id="fs-idm174073504">(b) Saran; 24,8 % de C, 2,0 % de H, 73,1 % de Cl</para>
+<para id="fs-idm157598016">(c) polietileno; 86 % de C, 14 % de H</para>
+<para id="fs-idm157597632">(d) poliestireno; 92,3 % de C, 7,7 % de H</para>
+<para id="fs-idp44067504">(e) Orlon; 67,9 % de C, 5,70 % de H, 26,4 % de N</para>
+</problem>
+</exercise>
+<exercise id="fs-idp63104368">
+<problem id="fs-idp63104624">
+<para id="fs-idp14848">Un importante fabricante de tintes textiles ha desarrollado un nuevo tinte amarillo. El colorante tiene una composición porcentual de 75,95 % de C, 17,72 % de N y 6,33 % de H en masa con una masa molar de aproximadamente 240 g/mol. Determine la fórmula molecular del colorante.</para>
+</problem>
+<solution id="fs-idm160039264"><para id="fs-idm160039136">C<sub>15</sub>H<sub>15</sub>N<sub>3</sub></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp39993248" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mi>%</m:mi><m:mspace width="0.2em"/><m:mtext>de X</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa de X</m:mtext></m:mrow><m:mrow><m:mtext>masa del compuesto</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi></m:mrow></m:math></entry>
+</row>
+<row><entry><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa molecular o molar</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>u o</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mtext>g</m:mtext><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>masa de fórmula empírica</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>u o</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mtext>g</m:mtext><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mi>n</m:mi><m:mspace width="0.2em"/><m:mtext>unidades/moléculas de fórmula</m:mtext></m:mrow></m:math></entry>
+</row>
+<row><entry>(A<sub>x</sub>B<sub>y</sub>)<sub>n</sub> = A<sub>nx</sub>B<sub>ny</sub></entry>
+</row>
+</tbody></tgroup></table></section>
+ </content>
+<glossary>
+<definition id="fs-idp78258880">
+<term>masa de fórmula empírica</term>
+<meaning id="fs-idp78259520">suma de las masas atómicas medias de todos los átomos representados en una fórmula empírica</meaning>
+</definition>
+<definition id="fs-idp78260032">
+<term>composición porcentual</term>
+<meaning id="fs-idp78260672">porcentaje en masa de los distintos elementos en un compuesto</meaning>
+</definition>
+</glossary>
+</document>

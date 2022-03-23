@@ -1,0 +1,448 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Fases y clasificación de la materia</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68667</md:content-id>
+  <md:title>Fases y clasificación de la materia</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Describir las propiedades básicas de cada estado físico de la materia: sólido, líquido y gaseoso.</item>
+<item>Distinguir entre masa y peso.</item>
+<item>Aplicar la ley de conservación de la materia.</item>
+<item>Clasificar la materia como elemento, compuesto, mezcla homogénea o mezcla heterogénea con respecto a su estado físico y composición.</item>
+<item>Definir y dar ejemplos de átomos y moléculas.</item>
+</list></md:abstract>
+  <md:uuid>7d9dde51-8917-4f91-8cbb-24f7712c80dd</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm2368272">
+La <term>materia</term> se define como todo lo que ocupa espacio y tiene masa, y está a nuestro alrededor. Los sólidos y los líquidos son más obviamente materia: podemos ver que ocupan espacio y su peso nos indica que tienen masa. Los gases también son materia; si los gases no ocuparan espacio, un globo no se inflaría (aumentaría su volumen) al llenarse de gas.</para>
+<para id="fs-idm13881920">Sólido, líquido y gaseoso son los tres estados de la materia que se encuentran comúnmente en la tierra (<link target-id="CNX_Chem_01_02_StatesMatt"/>). Un <term>sólido</term> es rígido y posee una forma definida. Un <term>líquido</term> fluye y adopta la forma de su recipiente, salvo que forme una superficie superior plana o ligeramente curvada al actuar sobre ella la gravedad (en gravedad cero, los líquidos adoptan una forma esférica). Tanto las muestras líquidas como las sólidas tienen volúmenes que son casi independientes de la presión. Un <term>gas</term> toma la forma y el volumen de su recipiente.</para>
+<figure id="CNX_Chem_01_02_StatesMatt">
+<media id="fs-idm894896" alt="Un vaso de precipitados marcado como sólido contiene un cubo de materia roja y dice que tiene forma y volumen fijos. Un vaso de precipitados marcado como líquido contiene un líquido de color rojo pardo. Este vaso dice que tiene forma de recipiente, forma superficies horizontales y tiene volumen fijo. El vaso de precipitados marcado como gaseoso está lleno con un gas de color marrón claro. Este vaso de precipitado dice que se expande para llenar el recipiente.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_StatesMatt.jpg"/>
+</media>
+<caption>Los tres estados o fases más comunes de la materia son sólido, el líquido y el gaseoso.</caption>
+</figure>
+<para id="fs-idm10031184">Un cuarto estado de la materia, el plasma, se da de forma natural en el interior de las estrellas. Un <term>plasma</term> es un estado gaseoso de la materia que contiene un número apreciable de partículas cargadas eléctricamente (<link target-id="CNX_Chem_01_02_Plasma"/>). La presencia de estas partículas cargadas confiere propiedades únicas a los plasmas que justifican su clasificación como un estado de la materia distinto de los gases. Además de las estrellas, los plasmas se encuentran en algunos otros ambientes de alta temperatura (tanto naturales como artificiales), como los rayos, ciertas pantallas de televisión e instrumentos analíticos especializados que se utilizan para detectar trazas de metales.</para>
+<figure id="CNX_Chem_01_02_Plasma" class="scaled-down">
+<media id="fs-idm25079184" alt="Se usa un soplete para cortar una pieza de metal. El plasma brillante y de color blanco se puede ver cerca de la punta de la antorcha, donde está en contacto con el metal.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_Plasma.jpg"/>
+</media>
+<caption>Un soplete de plasma puede utilizarse para cortar metal (créditos: "Hypertherm"/Wikimedia Commons).</caption>
+</figure>
+<note id="fs-idp140507125319040" class="chemistry link-to-learning">
+<para id="fs-idp140507125044944">En una minúscula célula de un televisor de plasma, el plasma emite luz ultravioleta, que a su vez hace que la pantalla de ese lugar tenga un color específico. La composición de estos pequeños puntos de color constituye la imagen que se ve. Vea este <link url="http://openstax.org/l/16plasma">video</link> para saber más sobre el plasma y los lugares donde se encuentra.</para>
+</note>
+<para id="fs-idp85792432">Algunas muestras de materia parecen tener propiedades de sólidos, líquidos o gases al mismo tiempo. Esto puede ocurrir cuando la muestra está compuesta por muchos trozos pequeños. Por ejemplo, podemos verter la arena como si fuera un líquido porque está compuesta por muchos granos pequeños de arena sólida. La materia también puede tener propiedades de más de un estado cuando es una mezcla, como ocurre con las nubes. Las nubes parecen comportarse como gases, pero en realidad son mezclas de aire (gas) y pequeñas partículas de agua (líquida o sólida).</para>
+<para id="fs-idp46064176">La <term>masa</term> de un objeto es una medida de la cantidad de materia que contiene. Una forma de medir la masa de un objeto es medir la fuerza que se necesita para acelerar el objeto. Se necesita mucha más fuerza para acelerar un automóvil que una bicicleta porque el automóvil tiene mucha más masa. Una forma más común de determinar la masa de un objeto es utilizar una balanza para comparar su masa con una masa estándar.</para>
+<para id="fs-idp63221808">Aunque el peso está relacionado con la masa, no es lo mismo. El <term>peso</term> se refiere a la fuerza que la gravedad ejerce sobre un objeto. Esta fuerza es directamente proporcional a la masa del objeto. El peso de un objeto cambia cuando cambia la fuerza de gravedad, pero su masa no. La masa de un astronauta no cambia solo porque vaya a la luna. Pero su peso en la luna es solo una sexta parte de su peso en la tierra porque la gravedad de la luna es solo una sexta parte de la de la tierra. Puede sentirse "sin peso" durante su viaje cuando experimenta fuerzas externas insignificantes (gravitacionales o de cualquier otro tipo), aunque, por supuesto, nunca está "sin masa".</para>
+<para id="fs-idp40529184">La <term>ley de conservación de la materia</term> resume muchas observaciones científicas sobre la materia: Afirma que <emphasis effect="italics">no hay ningún cambio detectable en la cantidad total de materia presente cuando la materia se convierte de un tipo a otro (un cambio químico) o cambia entre los estados sólido, líquido o gaseoso (un cambio físico)</emphasis>. La fabricación de cerveza y el funcionamiento de las pilas son ejemplos de la conservación de la materia (<link target-id="CNX_Chem_01_02_ConsMatter"/>). Durante la elaboración de la cerveza, los ingredientes (agua, levadura, cereales, malta, lúpulo y azúcar) se convierten en cerveza (agua, alcohol, carbonatación y sustancias aromáticas) sin que se produzca una pérdida real de sustancia. Esto se ve más claramente durante el proceso de embotellado, cuando la glucosa se convierte en etanol y dióxido de carbono y la masa total de las sustancias no cambia. Esto también puede verse en una batería de plomo y ácido de un automóvil: Las sustancias originales (plomo, óxido de plomo y ácido sulfúrico), que son capaces de producir electricidad, se transforman en otras sustancias (sulfato de plomo y agua) que no producen electricidad, sin que cambie la cantidad real de materia.</para>
+<figure id="CNX_Chem_01_02_ConsMatter">
+<media id="fs-idp18802448" alt="El diagrama A muestra una botella de cerveza que contiene cerveza previa y azúcar. Una flecha señala desde esta botella a una segunda botella. Esta segunda botella contiene el mismo volumen de líquido, sin embargo, el azúcar se ha convertido en etanol y carbonatación al transformarse en cerveza. El diagrama B muestra una batería de automóvil que contiene láminas de P B y P B O subíndice 2 junto con H subíndice 2 S O subíndice 4. Una vez utilizada la batería, contiene una masa igual de P B S O subíndice 4 y H subíndice 2 O.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_ConsMatter.jpg"/>
+</media>
+<caption>(a) La masa de materiales precursores de la cerveza es la misma que la masa de cerveza producida: El azúcar se ha convertido en alcohol y dióxido de carbono. (b) La masa del plomo, del óxido de plomo y del ácido sulfúrico consumida por la producción de electricidad es exactamente igual a la masa del sulfato de plomo y del agua que se forma.</caption>
+</figure>
+<para id="fs-idp109544240">Aunque esta ley de conservación es válida para todas las conversiones de la materia, los ejemplos convincentes son escasos y poco frecuentes porque, fuera de las condiciones controladas de un laboratorio, rara vez recogemos todo el material que se produce durante una conversión determinada. Por ejemplo, cuando se come, se digiere y se asimila la comida, se conserva toda la materia del alimento original. Pero como una parte de la materia se incorpora al cuerpo y otra parte se excreta en forma de diversos tipos de residuos, es difícil de verificar mediante mediciones.</para>
+<section id="fs-idm129745056">
+<title>Clasificación de la materia</title>
+<para id="fs-idm27277840">La materia puede clasificarse en varias categorías. Dos grandes categorías son las mezclas y las sustancias puras. Una <term>sustancia pura</term> tiene una composición constante. Todas las muestras de una sustancia pura tienen exactamente la misma composición y propiedades. Cualquier muestra de sacarosa (azúcar de mesa) está compuesta por un 42,1 % de carbono, un 6,5 % de hidrógeno y un 51,4 % de oxígeno en masa. Cualquier muestra de sacarosa tiene también las mismas propiedades físicas, como el punto de fusión, el color y el dulzor, independientemente de la fuente de la que se haya aislado.</para>
+<para id="fs-idm96243408">Las sustancias puras pueden dividirse en dos clases: elementos y compuestos. Las sustancias puras que no pueden descomponerse en sustancias más simples mediante cambios químicos se denominan <term>elementos</term>. El hierro, la plata, el oro, el aluminio, el azufre, el oxígeno y el cobre son ejemplos comunes de los más de 100 elementos, de los cuales unos 90 se dan de forma natural en la Tierra y unas dos docenas se han creado en laboratorios.</para>
+<para id="fs-idm75785376">Las sustancias puras, formadas por dos o más elementos, se denominan <term>compuestos</term>. Los compuestos se descomponen mediante cambios químicos para producir elementos u otros compuestos, o ambos. El óxido de mercurio (II), un sólido anaranjado y cristalino, puede descomponerse por el calor en los elementos mercurio y oxígeno (<link target-id="CNX_Chem_01_02_decomp"/>). Cuando se calienta en ausencia de aire, el compuesto sacarosa se descompone en el elemento carbono y el compuesto agua (la fase inicial de este proceso, cuando el azúcar se vuelve marrón, se conoce como caramelización, y es lo que confiere el característico sabor dulce y a nuez a las manzanas caramelizadas, las cebollas caramelizadas y el caramelo). El cloruro de plata(I) es un sólido blanco que puede descomponerse en sus elementos, plata y cloro, por absorción de la luz. Esta propiedad es la base del uso de este compuesto en las películas fotográficas y en los lentes fotocromáticos (aquellos que se oscurecen al exponerse a la luz).</para><figure id="CNX_Chem_01_02_decomp" class="scaled-down">
+<media id="fs-idm1678528" alt="Esta figura muestra una serie de tres fotos marcadas como a, b y c. La foto a muestra el fondo de un tubo de ensayo que está lleno de una sustancia de color rojo anaranjado. También es visible una ligera cantidad de una sustancia plateada. La foto b muestra la sustancia en el tubo de ensayo que se calienta sobre una llama. La foto c muestra un tubo de ensayo que ya no se calienta. La sustancia de color rojo anaranjado ha desaparecido casi por completo y quedan pequeñas gotas plateadas de una sustancia.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_decomp.jpg"/>
+</media>
+<caption>(a) El compuesto óxido de mercurio(II), (b) cuando se calienta, (c) se descompone en gotas plateadas de mercurio líquido y oxígeno gaseoso invisible (créditos: modificación del trabajo de Paul Flowers).</caption>
+</figure>
+<note id="fs-idm144044816" class="chemistry link-to-learning">
+<para id="fs-idm138330144">Muchos compuestos se descomponen al calentarse. Este <link url="http://openstax.org/l/16mercury">sitio</link> muestra la descomposición del óxido de mercurio, HgO. También puede ver un ejemplo de la <link url="http://openstax.org/l/16silvchloride">descomposición fotoquímica del cloruro de plata</link> (AgCl), base del origen de la fotografía.</para>
+</note>
+<para id="fs-idm50488272">Las propiedades de los elementos combinados son diferentes a las del estado libre o no combinado. Por ejemplo, el azúcar blanco cristalino (sacarosa) es un compuesto resultante de la combinación química del elemento carbono, que es un sólido negro en una de sus formas no combinadas, y los dos elementos hidrógeno y oxígeno, que son gases incoloros cuando no están combinados. El sodio libre, un elemento que es un sólido metálico suave y brillante, y el cloro libre, un elemento que es un gas amarillo-verde, se combinan para formar el cloruro de sodio (sal de mesa), un compuesto que es un sólido blanco y cristalino.</para>
+<para id="fs-idm77724752">Una <term>mezcla</term> está compuesta por dos o más tipos de materia que pueden estar presentes en cantidades variables y que pueden separarse mediante cambios físicos, como la evaporación (más adelante aprenderá más sobre esto). Una mezcla cuya composición varía de un punto a otro se denomina <term>mezcla heterogénea</term>. El aderezo italiano es un ejemplo de mezcla heterogénea (<link target-id="CNX_Chem_01_02_Mixtures"/>). Su composición puede variar, ya que puede prepararse con distintas cantidades de aceite, vinagre y hierbas. No es igual de un punto a otro de la mezcla: una gota puede ser mayoritariamente vinagre, mientras que otra gota puede ser mayoritariamente aceite o hierbas porque el aceite y el vinagre se separan y las hierbas se asientan. Otros ejemplos de mezclas heterogéneas son las galletas de chocolate (podemos ver los trozos de chocolate, las nueces y la masa de las galletas por separado) y el granito (podemos ver el cuarzo, la mica, el feldespato, etc.).</para>
+<para id="fs-idm12481392">Una <term>mezcla homogénea</term>, también llamada <term>solución</term>, presenta una composición uniforme y parece visualmente igual en todo momento. Un ejemplo de solución es una bebida deportiva, que consiste en agua, azúcar, colorante, aromatizante y electrolitos mezclados uniformemente (<link target-id="CNX_Chem_01_02_Mixtures"/>). Cada gota de una bebida deportiva sabe igual porque cada gota contiene las mismas cantidades de agua, azúcar y otros componentes. Tenga en cuenta que la composición de una bebida deportiva puede variar: puede estar hecha con algo más o menos de azúcar, saborizantes u otros componentes, y seguir siendo una bebida deportiva. Otros ejemplos de mezclas homogéneas son el aire, el sirope de arce, la gasolina y una solución de sal en agua.</para>
+<figure id="CNX_Chem_01_02_Mixtures" class="scaled-down">
+<media id="fs-idm84857312" alt="El diagrama A muestra un vaso que contiene un líquido rojo con una capa de aceite amarillo que flota en la superficie del líquido rojo. Un cuadro de acercamiento amplía una porción del líquido rojo que contiene parte del aceite amarillo. La imagen ampliada muestra que el aceite está formando gotas redondas dentro del líquido rojo. El diagrama B muestra una foto de Gatorade G 2. Un cuadro de acercamiento amplía una porción de Gatorade, que es uniformemente roja.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_Mixtures.jpg"/>
+</media>
+<caption>(a) El aderezo de aceite y vinagre para ensaladas es una mezcla heterogénea porque su composición no es uniforme en todas sus partes. (b) Una bebida deportiva comercial es una mezcla homogénea porque su composición es uniforme en toda su extensión. (créditos de la foto (a) a la "izquierda": modificación del trabajo de John Mayer; créditos de la foto (a) a la "derecha": modificación del trabajo de Umberto Salvagnin; créditos de la foto (b) a la "izquierda: modificación del trabajo de Jeff Bedford).</caption>
+</figure>
+<para id="fs-idm113901040">Aunque hay poco más de 100 elementos, decenas de millones de compuestos químicos resultan de diferentes combinaciones de estos elementos. Cada compuesto tiene una composición específica y posee propiedades químicas y físicas definidas que lo distinguen de todos los demás compuestos. Y, por supuesto, hay innumerables formas de combinar elementos y compuestos para formar diferentes mezclas. En la (<link target-id="CNX_Chem_01_02_MattType"/>) se muestra un resumen de cómo distinguir entre las distintas clasificaciones principales de la materia.</para>
+<figure id="CNX_Chem_01_02_MattType">
+<media id="fs-idm6448800" alt="Este diagrama de flujo comienza con la materia en la parte superior y la pregunta: ¿tiene la materia propiedades y composición constantes? Si no es así, entonces es una mezcla. Esto nos lleva a la siguiente pregunta: ¿es uniforme en todo? Si no es así, es heterogénea. En caso afirmativo, es homogénea. Si la materia tiene propiedades y composición constantes, es una sustancia pura. Esto nos lleva a la siguiente pregunta: ¿se puede simplificar químicamente? Si no es así, es un elemento. En caso afirmativo, se trata de un compuesto.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_MattType.jpg"/>
+</media>
+<caption>En función de sus propiedades, una sustancia determinada puede clasificarse como una mezcla homogénea, una mezcla heterogénea, un compuesto o un elemento.</caption>
+</figure>
+<para id="fs-idm39281712">El 99 % de la corteza terrestre y la atmósfera están compuestas por, aproximadamente, once elementos (<link target-id="fs-idp31507504"/>). El oxígeno constituye casi la mitad y el silicio alrededor de la cuarta parte de la cantidad total de estos elementos. La mayoría de los elementos de la Tierra se encuentran en combinaciones químicas con otros elementos; aproximadamente una cuarta parte de los elementos se encuentran también en estado libre.</para>
+<table id="fs-idp31507504" class="top-titled" summary="El oxígeno, simbolizado por O, tiene una masa porcentual de 49,20. El silicio, simbolizado por S I, tiene un porcentaje de masa de 25,67. El aluminio, simbolizado por A L, tiene un porcentaje de masa de 7,50. El hierro, simbolizado por F E, tiene un porcentaje de masa de 4,71. El calcio, simbolizado por C A, tiene un porcentaje de masa de 3,39. El sodio, simbolizado por N A, tiene un porcentaje de masa de 2,63. El potasio, simbolizado por K, tiene un porcentaje de masa de 2,40. El magnesio, simbolizado por M G, tiene un porcentaje de masa de 1,93. El hidrógeno, simbolizado por H, tiene un porcentaje de masa de 0,87. El titanio, simbolizado por T I, tiene un porcentaje de masa de 0,58. El cloro, simbolizado por C L, tiene un porcentaje de masa de 0,19. El fósforo, simbolizado por P, tiene un porcentaje de masa de 0,11. El manganeso, simbolizado por M N, tiene un porcentaje de masa de 0,09. El carbono, simbolizado por C, tiene un porcentaje de masa de 0,08. El azufre, simbolizado por S, tiene una masa porcentual de 0,06. El bario, simbolizado por B A, tiene un porcentaje de masa de 0,04. El nitrógeno, simbolizado por N, tiene un porcentaje de masa de 0,03. El flúor, simbolizado por F, tiene un porcentaje de masa de 0,03. El estroncio, simbolizado por S R, tiene un porcentaje de masa de 0,02. Todos los demás tienen un porcentaje de masa de 0,47."><tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c6" align="center">Composición elemental de la Tierra</entry>
+</row>
+<row valign="top">
+<entry align="left">Elemento</entry>
+<entry align="left">Símbolo</entry>
+<entry align="left">Porcentaje de masa</entry>
+<entry align="left">Elemento</entry>
+<entry align="left">Símbolo</entry>
+<entry align="left">Porcentaje de masa</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">oxígeno</entry>
+<entry align="left">O</entry>
+<entry align="left">49,20</entry>
+<entry align="left">cloro</entry>
+<entry align="left">Cl</entry>
+<entry align="left">0,19</entry>
+</row>
+<row valign="top">
+<entry align="left">silicio</entry>
+<entry align="left">Si</entry>
+<entry align="left">25,67</entry>
+<entry align="left">fósforo</entry>
+<entry align="left">P</entry>
+<entry align="left">0,11</entry>
+</row>
+<row valign="top">
+<entry align="left">aluminio</entry>
+<entry align="left">Al</entry>
+<entry align="left">7,50</entry>
+<entry align="left">manganeso</entry>
+<entry align="left">Mn</entry>
+<entry align="left">0,09</entry>
+</row>
+<row valign="top">
+<entry align="left">hierro</entry>
+<entry align="left">Fe</entry>
+<entry align="left">4,71</entry>
+<entry align="left">carbono</entry>
+<entry align="left">C</entry>
+<entry align="left">0,08</entry>
+</row>
+<row valign="top">
+<entry align="left">calcio</entry>
+<entry align="left">Ca</entry>
+<entry align="left">3,39</entry>
+<entry align="left">azufre</entry>
+<entry align="left">S</entry>
+<entry align="left">0,06</entry>
+</row>
+<row valign="top">
+<entry align="left">sodio</entry>
+<entry align="left">Na</entry>
+<entry align="left">2,63</entry>
+<entry align="left">bario</entry>
+<entry align="left">Ba</entry>
+<entry align="left">0,04</entry>
+</row>
+<row valign="top">
+<entry align="left">potasio</entry>
+<entry align="left">K</entry>
+<entry align="left">2,40</entry>
+<entry align="left">nitrógeno</entry>
+<entry align="left">N</entry>
+<entry align="left">0,03</entry>
+</row>
+<row valign="top">
+<entry align="left">magnesio</entry>
+<entry align="left">Mg</entry>
+<entry align="left">1,93</entry>
+<entry align="left">flúor</entry>
+<entry align="left">F</entry>
+<entry align="left">0,03</entry>
+</row>
+<row valign="top">
+<entry align="left">hidrógeno</entry>
+<entry align="left">H</entry>
+<entry align="left">0,87</entry>
+<entry align="left">estroncio</entry>
+<entry align="left">Sr</entry>
+<entry align="left">0,02</entry>
+</row>
+<row valign="top">
+<entry align="left">titanio</entry>
+<entry align="left">Ti</entry>
+<entry align="left">0,58</entry>
+<entry align="left">todos los demás</entry>
+<entry align="left">-</entry>
+<entry align="left">0,47</entry>
+</row>
+</tbody>
+</tgroup>
+</table></section>
+<section id="fs-idm9685536">
+<title>Átomos y moléculas</title>
+<para id="fs-idp25156032">Un <term>átomo</term> es la partícula más pequeña de un elemento que tiene las propiedades de ese elemento y puede entrar en una combinación química. Consideremos el elemento oro, por ejemplo. Imagine que corta una pepita de oro por la mitad, luego corta una de las mitades por la mitad y repite este proceso hasta que queda un trozo de oro tan pequeño que no se puede cortar por la mitad (por muy pequeño que sea su cuchillo). Esta pieza de oro de tamaño mínimo es un átomo (del griego <emphasis effect="italics">átomos</emphasis>, que significa "indivisible") (<link target-id="CNX_Chem_01_02_GoldAtoms"/>). Este átomo dejaría de ser oro si se dividiera más.</para>
+<figure id="CNX_Chem_01_02_GoldAtoms">
+<media id="fs-idp99062768" alt="La figura A muestra una pepita de oro tal y como se ve a simple vista. La pepita de oro es muy irregular, con muchos bordes afilados. Parece de color dorado. La imagen al microscopio de un cristal de oro muestra muchas franjas de oro de tamaño similar que están separadas por zonas oscuras. Si se observa con atención, se puede ver que las franjas de oro están formadas por muchos átomos circulares diminutos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_GoldAtoms.jpg"/>
+</media>
+<caption>(a) Esta fotografía muestra una pepita de oro. (b) Un microscopio de túnel de barrido (Scanning-Tunneling Microscope, STM) puede generar vistas de las superficies de los sólidos, como esta imagen de un cristal de oro. Cada esfera representa un átomo de oro (créditos a: modificación del trabajo del Servicio Geológico de los Estados Unidos; créditos b: modificación del trabajo de "Erwinrossen"/Wikimedia Commons).</caption>
+</figure>
+<para id="fs-idm15008032">La primera sugerencia de que la materia está compuesta por átomos se atribuye a los filósofos griegos Leucipo y Demócrito, que desarrollaron sus ideas en el siglo V a. C. Sin embargo, no fue hasta principios del siglo XIX cuando John <term class="no-emphasis">Dalton</term> (1766 a 1844), un maestro de escuela británico muy interesado en la ciencia, apoyó esta hipótesis con mediciones cuantitativas. Desde entonces, repetidos experimentos han confirmado muchos aspectos de esta hipótesis, y se ha convertido en una de las teorías centrales de la química. Otros aspectos de la teoría atómica de Dalton se siguen utilizando, pero con pequeñas revisiones (los detalles de la teoría de Dalton se proporcionan en el capítulo sobre átomos y moléculas).</para>
+<para id="fs-idp64376128">Un átomo es tan pequeño que su tamaño es difícil de imaginar. Una de las cosas más pequeñas que podemos ver a simple vista es un solo hilo de una tela de araña: Estas hebras tienen un diámetro de aproximadamente 1/10.000 de un centímetro (0,0001 cm). Aunque la sección transversal de una hebra es casi imposible de ver sin un microscopio, es enorme a escala atómica. Un solo átomo de carbono en la red tiene un diámetro de unos 0,000000015 centímetros, y se necesitarían unos 7000 átomos de carbono para abarcar el diámetro de la hebra. Para ponerlo en perspectiva, si un átomo de carbono tuviera el tamaño de una moneda de diez centavos, la sección transversal de una hebra sería mayor que un campo de fútbol, lo que requeriría unos 150 millones de “monedas de diez centavos" de átomos de carbono para cubrirla. La (<link target-id="CNX_Chem_01_02_Cellulose"/>) muestra vistas microscópicas y a nivel atómico cada vez más cercanas de algodón ordinario.</para><figure id="CNX_Chem_01_02_Cellulose">
+<media id="fs-idm10849248" alt="La figura A muestra una mota de algodón blanca y acolchada que crece en una rama marrón. La figura B muestra una hebra de algodón ampliada. La hebra parece transparente, pero contiene zonas oscuras en su interior. La figura C muestra la superficie de varias fibras de algodón entrecruzadas y superpuestas. Su superficie es áspera en los bordes, pero suave cerca del centro de cada hebra. La figura D muestra tres hilos de moléculas conectados en tres cadenas verticales. Cada hebra contiene unas cinco moléculas. La figura E muestra que la molécula de algodón contiene una docena de átomos. Los átomos de carbono negros forman anillos que están conectados por átomos de oxígeno rojos. Muchos de los átomos de carbono también están enlazados a átomos de hidrógeno, que se muestran como esferas blancas, o a otros átomos de oxígeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_Cellulose.jpg"/>
+</media>
+<caption>Estas imágenes ofrecen una visión cada vez más cercana: (a) una mota de algodón, (b) una sola fibra de algodón vista con un microscopio óptico (ampliada 40 veces), (c) una imagen de una fibra de algodón obtenida con un microscopio electrónico (con un aumento mucho mayor que el del microscopio óptico); y (d y e) modelos a nivel atómico de la fibra (las esferas de diferentes colores representan átomos de diferentes elementos) (créditos c: modificación de la obra de "Featheredtar"/Wikimedia Commons).</caption>
+</figure>
+<para id="fs-idp92844000">Un átomo es tan ligero que su masa también es difícil de imaginar. Mil millones de átomos de plomo (1.000.000.000 de átomos) pesan aproximadamente 3 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>-13</sup> gramos, una masa demasiado ligera para ser pesada incluso en las balanzas más sensibles del mundo. Se necesitarían más de 300.000.000.000.000 de átomos de plomo (300 billones, o 3 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>14</sup>) para ser pesados, y solo pesarían 0,0000001 gramos.</para>
+<para id="fs-idp23257696">Es raro encontrar colecciones de átomos individuales. Solo unos pocos elementos, como los gases helio, neón y argón, están formados por un conjunto de átomos individuales que se mueven independientemente unos de otros. Otros elementos, como los gases hidrógeno, nitrógeno, oxígeno y cloro, se componen de unidades formadas por pares de átomos (<link target-id="CNX_Chem_01_02_Molecules"/>). Una forma del elemento fósforo consiste en unidades compuestas por cuatro átomos de fósforo. El elemento azufre existe en varias formas, una de las cuales consiste en unidades compuestas por ocho átomos de azufre. Estas unidades se denominan moléculas. Una <term>molécula</term> está formada por dos o más átomos unidos por fuerzas fuertes llamadas enlaces químicos. Los átomos de una molécula se mueven como una unidad, como las latas de refresco de un paquete de seis o un manojo de llaves unidas en un mismo llavero. Una molécula puede estar formada por dos o más átomos idénticos, como las moléculas de los elementos hidrógeno, oxígeno y azufre, o puede estar formada por dos o más átomos diferentes, como las moléculas del agua. Cada molécula de agua es una unidad que contiene dos átomos de hidrógeno y uno de oxígeno. Cada molécula de glucosa es una unidad que contiene 6 átomos de carbono, 12 de hidrógeno y 6 de oxígeno. Al igual que los átomos, las moléculas son increíblemente pequeñas y ligeras. Si un vaso de agua ordinario se ampliara al tamaño de la Tierra, las moléculas de agua de su interior tendrían el tamaño de una pelota de golf.</para>
+<figure id="CNX_Chem_01_02_Molecules">
+<media id="fs-idp95667712" alt="La molécula de hidrógeno, H subíndice 2, se muestra como dos pequeñas esferas blancas unidas entre sí. La molécula de oxígeno O subíndice 2, se muestra como dos esferas rojas enlazadas. La molécula de fósforo, P subíndice 4, se muestra como cuatro esferas de color naranja enlazadas fuertemente entre sí. La molécula de azufre, S subíndice 8, se muestra como 8 esferas amarillas enlazadas entre sí. Las moléculas de agua, H subíndice 2 O, están formadas por un átomo de oxígeno rojo enlazado a dos átomos de hidrógeno blancos más pequeños. Los átomos de hidrógeno están en ángulo en la molécula de oxígeno. El dióxido de carbono, C O subíndice 2, está formado por un átomo de carbono y dos de oxígeno. Un átomo de oxígeno está enlazado al lado derecho del carbono y el otro oxígeno está enlazado al lado izquierdo del carbono. La glucosa, C subíndice 6 H subíndice 12 O subíndice 6, contiene una cadena de átomos de carbono que tienen unidos átomos de oxígeno o de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_Molecules.jpg"/>
+</media>
+<caption>Los elementos hidrógeno, oxígeno, fósforo y azufre forman moléculas compuestas por dos o más átomos del mismo elemento. Los compuestos agua, dióxido de carbono y glucosa están formados por combinaciones de átomos de diferentes elementos.</caption>
+</figure>
+<note id="fs-idm86364640" class="chemistry everyday-life">
+<title>Descomposición del agua / producción de hidrógeno</title>
+<para id="fs-idm107801696">El agua está formada por los elementos hidrógeno y oxígeno combinados en una relación de 2 a 1. El agua puede descomponerse en gases de hidrógeno y oxígeno mediante la adición de energía. Una forma de hacerlo es con una batería o fuente de alimentación, como se muestra en la (<link target-id="CNX_Chem_01_01_Electrolys"/>).</para>
+<figure id="CNX_Chem_01_01_Electrolys">
+<media id="fs-idm22586448" alt="Una batería rectangular se sumerge en un vaso de precipitados lleno de líquido. Cada uno de los terminales de la batería está cubierto por un tubo de ensayo en posición invertida. Cada uno de los tubos de ensayo contiene un líquido burbujeante. Las áreas ampliadas indican que el líquido en el vaso de precipitados es agua, 2 H subíndice 2 O líquido. Las burbujas en el tubo de ensayo sobre el terminal negativo son hidrógeno gaseoso, 2 H subíndice 2 gas. Las burbujas en el tubo de ensayo sobre el terminal positivo son oxígeno gaseoso, O subíndice 2 gas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_01_Electrolys.jpg"/>
+</media>
+<caption>La descomposición del agua se muestra a nivel macroscópico, microscópico y simbólico. La batería proporciona una corriente eléctrica (microscópica) que descompone el agua. A nivel macroscópico, el líquido se separa en los gases hidrógeno (a la izquierda) y oxígeno (a la derecha). Simbólicamente, este cambio se presenta mostrando cómo el H<sub>2</sub>O líquido se separa en los gases H<sub>2</sub> y O<sub>2</sub>.</caption>
+</figure>
+<para id="fs-idm89185312">La descomposición del agua implica una reordenación de los átomos de las moléculas de agua en diferentes moléculas, cada una de ellas compuesta por dos átomos de hidrógeno y dos átomos de oxígeno, respectivamente. Dos moléculas de agua forman una molécula de oxígeno y dos de hidrógeno. La representación de lo que ocurre, <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mtext>,</m:mtext></m:mrow></m:math> se analizará con mayor profundidad en capítulos posteriores.</para>
+<para id="fs-idm74337664">Los dos gases producidos tienen propiedades claramente diferentes. El oxígeno no es inflamable, pero es necesario para la combustión de un combustible, y el hidrógeno es altamente inflamable y una potente fuente de energía. ¿Cómo se puede aplicar este conocimiento en nuestro mundo? Una de las aplicaciones es la investigación de un transporte más eficiente en cuanto al combustible. Los vehículos de pilas de combustible (fuel-cell vehicles, FCV) funcionan con hidrógeno en lugar de gasolina (<link target-id="CNX_Chem_01_01_FuelCell"/>). Son más eficientes que los vehículos con motor de combustión interna, no son contaminantes y reducen las emisiones de gases de efecto invernadero, haciéndonos menos dependientes de los combustibles fósiles. Sin embargo, los FCV aún no son económicamente viables y la producción actual de hidrógeno depende del gas natural. Si conseguimos desarrollar un proceso para descomponer el agua de forma económica, o producir hidrógeno de otra forma respetuosa con el medio ambiente, los FCV podrían ser el camino del futuro.</para>
+<figure id="CNX_Chem_01_01_FuelCell" class="scaled-down">
+<media id="fs-idp123844096" alt="La pila de combustible consiste en una membrana de intercambio de protones situada entre un ánodo y un cátodo. El gas hidrógeno entra en la pila cerca del ánodo. El gas oxígeno entra en la pila cerca del cátodo. El hidrógeno gaseoso que entra se descompone en esferas blancas individuales que tienen cada una carga positiva. Estos son protones. Los protones repelen los electrones cargados negativamente dentro del ánodo. Estos electrones viajan a través de un circuito, proporcionando electricidad a cualquier cosa conectada a la pila. Los protones continúan a través de la membrana de intercambio de protones y a través del cátodo para llegar a las moléculas de gas oxígeno en el extremo opuesto de la pila. Allí, los átomos de oxígeno se dividen en esferas rojas individuales. Cada átomo de oxígeno toma dos de los protones entrantes para formar una molécula de agua.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_01_FuelCell.jpg"/>
+</media>
+<caption>Una pila de combustible genera energía eléctrica a partir de hidrógeno y oxígeno mediante un proceso electroquímico y solo produce agua como producto de desecho.</caption>
+</figure>
+</note>
+<note id="fs-idm6260000" class="chemistry everyday-life">
+<title>La química de los teléfonos móviles</title>
+<para id="fs-idm49120320">Imagine lo diferente que sería su vida sin teléfonos móviles (<link target-id="CNX_Chem_01_02_CellPhone"/>) y otros dispositivos inteligentes. Los teléfonos móviles se fabrican a partir de numerosas sustancias químicas, que se extraen, refinan, purifican y ensamblan utilizando un amplio y profundo conocimiento de los principios químicos. Alrededor del 30 % de los elementos que se encuentran en la naturaleza se encuentran en un típico teléfono inteligente. La carcasa/cuerpo/marco está formada por una combinación de polímeros resistentes y duraderos compuestos principalmente por carbono, hidrógeno, oxígeno y nitrógeno [acrilonitrilo butadieno estireno (Acrylonitrile Butadiene Styrene, ABS) y policarbonato termoplástico], y metales estructurales ligeros y resistentes, como el aluminio, el magnesio y el hierro. La pantalla de visualización está hecha de un vidrio especialmente endurecido (vidrio de sílice reforzado por la adición de aluminio, sodio y potasio) y recubierto con un material para hacerlo conductor (como el óxido de indio y estaño). La placa de circuito utiliza un material semiconductor (normalmente silicio), metales de uso común como el cobre, el estaño, la plata y el oro, y elementos más desconocidos como el itrio, el praseodimio y el gadolinio. La batería se basa en iones de litio y otros materiales, como hierro, cobalto, cobre, óxido de polietileno y poliacrilonitrilo.</para>
+<figure id="CNX_Chem_01_02_CellPhone">
+<media id="fs-idm54034640" alt="Un teléfono móvil está marcado para mostrar de qué están hechos sus componentes. Los componentes de la carcasa están hechos de polímeros como el A B S o metales como el aluminio, el hierro y el magnesio. Los componentes del procesador están hechos de silicio, metales comunes como el cobre, el estaño y el oro, y elementos poco comunes como el itrio y el gadolinio. Los componentes de la pantalla están hechos de óxido de silicio, también conocido como vidrio. El vidrio se refuerza con la adición de aluminio, sodio y potasio. Los componentes de la batería contienen litio combinado con otros metales como cobalto, hierro y cobre.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_02_CellPhone.jpg"/>
+</media>
+<caption>Casi un tercio de los elementos naturales se utilizan para fabricar un teléfono móvil (créditos: modificación del trabajo de John Taylor).</caption>
+</figure>
+</note>
+</section>
+<section id="fs-idp11969024" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp42086864">La materia es todo lo que ocupa espacio y tiene masa. El bloque básico de la materia es el átomo, la unidad más pequeña de un elemento que puede formar combinaciones con átomos del mismo tipo o con átomos de otros elementos. En muchas sustancias, los átomos se combinan en moléculas. En la Tierra, la materia existe comúnmente en tres estados: sólidos, de forma y volumen fijos; líquidos, de forma variable, pero volumen fijo; y gases, de forma y volumen variables. En condiciones de alta temperatura, la materia también puede existir como plasma. La mayor parte de la materia es una mezcla: Se compone de dos o más tipos de materias que pueden estar presentes en cantidades variables y pueden separarse por medios físicos. Las mezclas heterogéneas varían su composición de un punto a otro; las mezclas homogéneas tienen la misma composición de un punto a otro. Las sustancias puras están formadas por un solo tipo de materia. Una sustancia pura puede ser un elemento, que consta de un solo tipo de átomo y no puede descomponerse mediante un cambio químico, o un compuesto, que consta de dos o más tipos de átomos.</para>
+</section>
+<section id="fs-idm173241344" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idm68837632">
+<problem id="fs-idp35025344">
+<para id="fs-idm37552560">¿Por qué se utiliza la masa de un objeto, en lugar de su peso, para indicar la cantidad de materia que contiene?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp51841840">
+<problem id="fs-idm28549264">
+<para id="fs-idm41402864">¿Qué propiedades distinguen a los sólidos de los líquidos? ¿A los líquidos de los gases? ¿Sólidos a partir de gases?</para>
+</problem>
+<solution id="fs-idm12668272">
+<para id="fs-idm31794752">Los líquidos pueden cambiar su forma (fluir); los sólidos no. Los gases pueden sufrir grandes cambios de volumen al cambiar la presión; los líquidos no. Los gases fluyen y cambian de volumen; los sólidos no.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm29164608">
+<problem id="fs-idp58703184">
+<para id="fs-idm60766480">¿En qué se diferencia una mezcla heterogénea de una homogénea? ¿En qué se parecen?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp135248192">
+<problem id="fs-idm46403072">
+<para id="fs-idm95732192">¿En qué se diferencia una mezcla homogénea de una sustancia pura? ¿En qué se parecen?</para>
+</problem>
+<solution id="fs-idm27921552">
+<para id="fs-idm36867712">La mezcla puede tener diversas composiciones; una sustancia pura tiene una composición definida. Ambos tienen la misma composición de punto a punto.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm23683040">
+<problem id="fs-idm47679328">
+<para id="fs-idm36562352">¿En qué se diferencia un elemento de un compuesto? ¿En qué se parecen?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm34556656">
+<problem id="fs-idm27799376">
+<para id="fs-idp38854704">¿En qué se diferencian las moléculas de los elementos y las moléculas de los compuestos? ¿En qué se parecen?</para>
+</problem>
+<solution id="fs-idp125553904">
+<para id="fs-idm44214960">Las moléculas de los elementos solo contienen un tipo de átomo; las moléculas de los compuestos contienen dos o más tipos de átomos. Se parecen en que ambos están formados por dos o más átomos unidos químicamente.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm12578096">
+<problem id="fs-idp56640272">
+<para id="fs-idm50322464">¿En qué se diferencia un átomo de una molécula? ¿En qué se parecen?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm11351120">
+<problem id="fs-idm47644832">
+<para id="fs-idm27492032">Muchos de los artículos que se compran son mezclas de compuestos puros. Seleccione tres de estos productos comerciales y prepare una lista de los ingredientes que son compuestos puros.</para>
+</problem>
+<solution id="fs-idm21502784">
+<para id="fs-idm27166864">Las respuestas variarán. Ejemplo de respuesta: Gatorade contiene agua, azúcar, dextrosa, ácido cítrico, sal, cloruro de sodio, fosfato monopotásico y acetato isobutirato de sacarosa.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm27722240">
+<problem id="fs-idm12537424">
+<para id="fs-idm50197744">Clasifique cada uno de los artículos de la siguiente lista como un elemento, un compuesto o una mezcla:</para>
+<para id="fs-idm36590512">(a) cobre</para>
+<para id="fs-idp119897840">(b) agua</para>
+<para id="fs-idm27475040">(c) nitrógeno</para>
+<para id="fs-idm57388992">(d) azufre</para>
+<para id="fs-idp46394096">(e) aire</para>
+<para id="fs-idm240528">(f) sacarosa</para>
+<para id="fs-idm12629264">(g) una sustancia compuesta por moléculas que contienen cada una dos átomos de yodo</para>
+<para id="fs-idm44105296">(h) gasolina</para>
+</problem>
+</exercise>
+<exercise id="fs-idp134896512">
+<problem id="fs-idm28247040">
+<para id="fs-idm21928736">Clasifique cada uno de los artículos de la siguiente lista como un elemento, un compuesto o una mezcla:</para>
+<para id="fs-idm55285392">(a) hierro</para>
+<para id="fs-idm24958688">(b) oxígeno</para>
+<para id="fs-idm54726592">(c) óxido de mercurio</para>
+<para id="fs-idm30020688">(d) sirope para panqueques</para>
+<para id="fs-idp45967184">(e) el dióxido de carbono</para>
+<para id="fs-idm50326880">(f) una sustancia compuesta por moléculas que contienen cada una un átomo de hidrógeno y un átomo de cloro</para>
+<para id="fs-idm43008064">(g) bicarbonato de sodio</para>
+<para id="fs-idp57566720">(h) el polvo de hornear</para>
+</problem>
+<solution id="fs-idm29836368">
+<para id="fs-idm36674816">(a) elemento; (b) elemento; (c) compuesto; (d) mezcla; (e) compuesto; (f) compuesto; (g) compuesto; (h) mezcla</para></solution>
+</exercise>
+<exercise id="fs-idm25131712">
+<problem id="fs-idp12577808">
+<para id="fs-idp44836960">Un átomo de azufre y una molécula de azufre no son idénticos. ¿Cuál es la diferencia?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm38551280">
+<problem id="fs-idp45981440">
+<para id="fs-idp13303968">¿En qué se parecen las moléculas del oxígeno gaseoso, las del hidrógeno gaseoso y las del agua? ¿En qué se diferencian?</para>
+</problem>
+<solution id="fs-idm39199504">
+<para id="fs-idp134899616">En cada caso, una molécula está formada por dos o más átomos combinados. Se diferencian en que los tipos de átomos cambian de una sustancia a otra.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm29444768">
+<problem id="fs-idp56467824">
+<para id="fs-idm25237936">¿Por qué se dice que los astronautas en el espacio “no tienen peso", pero sí “tienen masa"?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm50582272">
+<problem id="fs-idm83318448">
+<para id="fs-idp101351088">Prepare una lista de los principales productos químicos consumidos y producidos durante el funcionamiento de un automóvil.</para>
+</problem>
+<solution id="fs-idm27825120">
+<para id="fs-idm42737680">Se consume gasolina (una mezcla de compuestos), oxígeno y, en menor medida, nitrógeno. El dióxido de carbono y el agua son los principales productos. El monóxido de carbono y los óxidos de nitrógeno se producen en menor cantidad.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm10469360">
+<problem id="fs-idp12119776">
+<para id="fs-idp15433488">La materia está en todas partes a nuestro alrededor. Haga una lista con los nombres de los quince tipos de materia que se encuentra cada día. Su lista debe incluir (y marcar al menos un ejemplo de cada uno) lo siguiente: un sólido, un líquido, un gas, un elemento, un compuesto, una mezcla homogénea, una mezcla heterogénea y una sustancia pura.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp17429552">
+<problem id="fs-idp17429808">
+<para id="fs-idp17430064">Cuando el hierro elemental se corroe, se combina con el oxígeno del aire y acaba formando un óxido de hierro(III) de color marrón rojizo llamado óxido. (a) Si un clavo de hierro brillante con una masa inicial de 23,2 g se pesa después de ser recubierto con una capa de óxido, ¿esperaría que la masa hubiera aumentado, disminuido o permanecido igual? Explique. (b) Si la masa del clavo de hierro aumenta a 24,1 g, ¿qué masa de oxígeno se ha combinado con el hierro?</para>
+</problem>
+<solution id="fs-idm1547632">
+<para id="fs-idm1547376">(a) Aumentó ya que se habría combinado con el oxígeno del aire aumentando así la cantidad de materia y por lo tanto la masa. (b) 0,9 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idm1546416">
+<problem id="fs-idm1546160">
+<para id="fs-idm1545904">Como se indica en el texto, los ejemplos convincentes que demuestran la ley de conservación de la materia fuera del laboratorio son escasos. Indique si la masa aumentaría, disminuiría o se mantendría igual para los siguientes escenarios en los que se producen reacciones químicas:</para>
+<para id="fs-idm1692336">(a) Se coloca exactamente una libra de masa de pan en un molde. La masa se cuece en un horno a 350 °F liberando un maravilloso aroma a pan recién horneado durante el proceso de cocción. ¿La masa del pan horneado es menor, mayor o igual que la libra de masa original? Explique.</para>
+<para id="fs-idm1691344">(b) Cuando el magnesio arde en el aire se produce una ceniza blanca y escamosa de óxido de magnesio. ¿La masa de óxido de magnesio es menor, mayor o igual que el trozo de magnesio original? Explique.</para>
+<para id="fs-idm1690752">(c) Antoine Lavoisier, el científico francés al que se le atribuye la primera ley de conservación de la materia, calentó una mezcla de estaño y aire en un matraz sellado para producir óxido de estaño. ¿La masa del matraz cerrado y del contenido disminuyó, aumentó o permaneció igual después del calentamiento?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp17769472">
+<problem id="fs-idp17769728">
+<para id="fs-idp17769984">La levadura convierte la glucosa en etanol y dióxido de carbono durante la fermentación anaeróbica, tal y como se representa en la sencilla ecuación química que aparece aquí:<newline/>
+<equation id="fs-idp17770496" class="unnumbered"><m:math><m:mrow><m:mtext>glucosa</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>etanol</m:mtext><m:mo>+</m:mo><m:mtext>dióxido de carbono</m:mtext></m:mrow></m:math></equation></para>
+<para id="fs-idp49584">(a) Si se convierten completamente 200,0 g de glucosa, ¿cuál será la masa total de etanol y dióxido de carbono producida?</para>
+<para id="fs-idp50096">b) Si la fermentación se lleva a cabo en un recipiente abierto, ¿esperaría que la masa del recipiente y del contenido después de la fermentación fuera menor, mayor o igual que la masa del recipiente y del contenido antes de la fermentación? Explique.</para>
+<para id="fs-idp50752">(c) Si se producen 97,7 g de dióxido de carbono, ¿qué masa de etanol se produce?</para>
+</problem>
+<solution id="fs-idp51264">
+<para id="fs-idm1607856">(a) 200,0 g; (b) La masa del recipiente y del contenido disminuiría ya que el dióxido de carbono es un producto gaseoso y saldría del recipiente. (c) 102,3 g</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm8143856">
+<term>átomo</term>
+<meaning id="fs-idm4948064">partícula más pequeña de un elemento que puede entrar en una combinación química</meaning>
+</definition>
+<definition id="fs-idm115227296">
+<term>compuesto</term>
+<meaning id="fs-idm8106848">sustancia pura que puede descomponerse en dos o más elementos</meaning>
+</definition>
+<definition id="fs-idm6667232">
+<term>elemento</term>
+<meaning id="fs-idm24590016">sustancia que se compone de un solo tipo de átomo; una sustancia que no puede descomponerse por un cambio químico</meaning>
+</definition>
+<definition id="fs-idm37203312">
+<term>gas</term>
+<meaning id="fs-idm17792464">estado en el que la materia no tiene ni volumen ni forma definidos</meaning>
+</definition>
+<definition id="fs-idp85033264">
+<term>mezcla heterogénea</term>
+<meaning id="fs-idm8534928">combinación de sustancias con una composición que varía de un punto a otro</meaning>
+</definition>
+<definition id="fs-idm25215648">
+<term>mezcla homogénea</term>
+<meaning id="fs-idp2739312">(también, solución) combinación de sustancias con una composición uniforme en toda su extensión</meaning>
+</definition>
+<definition id="fs-idp9074576">
+<term>líquido</term>
+<meaning id="fs-idp7189904">estado de la materia que tiene un volumen definido, pero una forma indefinida</meaning>
+</definition>
+<definition id="fs-idp19511536">
+<term>ley de conservación de la materia</term>
+<meaning id="fs-idm13846928">cuando la materia se convierte de un tipo a otro o cambia de forma, no hay un cambio detectable en la cantidad total de materia presente</meaning>
+</definition>
+<definition id="fs-idm23882384">
+<term>masa</term>
+<meaning id="fs-idp54870224">propiedad fundamental que indica la cantidad de materia</meaning>
+</definition>
+<definition id="fs-idm23865104">
+<term>materia</term>
+<meaning id="fs-idm31070000">cualquier cosa que ocupe espacio y tenga masa</meaning>
+</definition>
+<definition id="fs-idm5111888">
+<term>mezcla</term>
+<meaning id="fs-idp74162384">materia que puede separarse en sus componentes por medios físicos</meaning>
+</definition>
+<definition id="fs-idm6673632">
+<term>molécula</term>
+<meaning id="fs-idm14471952">conjunto de enlaces de dos o más átomos de un mismo o diferente elemento</meaning>
+</definition>
+<definition id="fs-idm37314320">
+<term>plasma</term>
+<meaning id="fs-idm13849072">estado gaseoso de la materia que contiene un gran número de átomos o moléculas cargadas eléctricamente</meaning>
+</definition>
+<definition id="fs-idm37107584">
+<term>sustancia pura</term>
+<meaning id="fs-idm24481728">sustancia homogénea que tiene una composición constante</meaning>
+</definition>
+<definition id="fs-idm10806528">
+<term>sólido</term>
+<meaning id="fs-idp73610480">estado de la materia que es rígido, tiene una forma definida y tiene un volumen bastante constante</meaning>
+</definition>
+<definition id="fs-idm6297360">
+<term>peso</term>
+<meaning id="fs-idm12408032">fuerza que la gravedad ejerce sobre un objeto</meaning>
+</definition>
+</glossary>
+</document>

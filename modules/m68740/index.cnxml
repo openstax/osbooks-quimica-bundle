@@ -1,0 +1,384 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Cargas formales y resonancia</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68740</md:content-id>
+  <md:title>Cargas formales y resonancia</md:title>
+  <md:abstract><para>Al final de esta sección podrá:</para><list><item>Calcular las cargas formales de los átomos en cualquier estructura de Lewis.</item>
+<item>Utilizar las cargas formales para identificar la estructura de Lewis más razonable para una molécula dada.</item>
+<item>Explicar el concepto de resonancia y dibujar estructuras de Lewis que representen las formas de resonancia de una molécula determinada.</item></list></md:abstract>
+  <md:uuid>bdd8ac14-71e8-4a87-9cc7-361f0a3157c2</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm49375088">En la sección anterior, discutimos cómo escribir estructuras de Lewis para moléculas e iones poliatómicos. Sin embargo, como hemos visto, en algunos casos parece haber más de una estructura válida para una molécula. Podemos utilizar el concepto de cargas formales para predecir la estructura de Lewis más apropiada cuando más de una es razonable.</para>
+<section id="fs-idp11710128">
+<title>Cálculo de la carga formal</title>
+<para id="fs-idm16217792">La <term>carga formal</term> de un átomo en una molécula es la carga <emphasis effect="italics">hipotética</emphasis> que tendría el átomo si pudiéramos redistribuir los electrones de los enlaces de manera uniforme entre los átomos. Otra forma de decir esto es que la carga formal es el resultado de tomar el número de electrones de valencia de un átomo neutro, restar los electrones no enlazantes y luego restar el número de enlaces conectados a ese átomo en la estructura de Lewis.</para>
+<para id="fs-idp126842624">Así, calculamos la carga formal de la siguiente manera:</para>
+<equation id="fs-idp90018832" class="unnumbered"><m:math><m:mrow><m:mtext>carga formal</m:mtext><m:mo>=</m:mo><m:mtext># electrones de la capa de valencia (átomo libre)</m:mtext><m:mo>-</m:mo><m:mtext># electrones de par solitario</m:mtext><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>número de electrones de enlace</m:mtext></m:mrow></m:math>
+</equation>
+<para id="fs-idp88204016">Podemos volver a comprobar los cálculos de las cargas formales determinando la suma de las cargas formales de toda la estructura. La suma de las cargas formales de todos los átomos de una molécula debe ser cero; la suma de las cargas formales de un ion debe ser igual a la carga del ion.</para>
+<para id="fs-idp15200480">Debemos recordar que la carga formal calculada en un átomo no es la carga <emphasis effect="italics">real</emphasis> del átomo en la molécula. La carga formal es solo un procedimiento para contabilizar; no indica la presencia de cargas reales.</para>
+<example id="fs-idm21031296">
+<para id="fs-idp63607984"><title>Cálculo de la carga formal a partir de las estructuras de Lewis</title>
+Asignar cargas formales a cada átomo del ion interhalógeno <m:math><m:mrow><m:msub><m:mtext>ICl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idp251046608"><title>Solución</title>
+</para>
+<list id="fs-idm30182496" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Dividimos los pares de electrones de enlace por igual para todos los enlaces I-Cl:</emphasis><newline/>
+<media id="fs-idm8015440" alt="Se muestra una estructura de Lewis. Un átomo de yodo con dos pares solitarios de electrones está unido con enlace simple a cuatro átomos de cloro, cada uno de los cuales tiene tres pares solitarios de electrones. Los corchetes rodean la estructura y hay un signo negativo en superíndice." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_ICL4_img.jpg"/>
+</media></item>
+<item><emphasis effect="italics">Asignamos pares solitarios de electrones a sus átomos</emphasis>. Cada átomo de Cl tiene ahora siete electrones asignados, y el átomo de I tiene ocho.</item>
+<item><emphasis effect="italics">Resta este número del número de electrones de valencia del átomo neutro:</emphasis><newline/> I: 7 - 8 = -1<newline/> Cl: 7 - 7 = 0<newline/> La suma de las cargas formales de todos los átomos es igual a -1, que es idéntica a la carga del ion (–1).</item>
+</list>
+<para id="fs-idp65521520"><title>Compruebe sus conocimientos</title>
+Calcule la carga formal de cada átomo de la molécula de monóxido de carbono:</para>
+<media id="fs-idp11533504" alt="Se muestra una estructura de Lewis. Un átomo de carbono con un par solitario de electrones unido con un triple enlace a un oxígeno con un par solitario de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_CO_img.jpg"/>
+</media>
+<note id="fs-idm19244912"><title>Respuesta:</title>
+<para id="fs-idm87344256">C -1, O +1</para>
+</note>
+</example>
+<example id="fs-idp59620704">
+<para id="fs-idp26752688"><title>Cálculo de la carga formal a partir de las estructuras de Lewis</title>
+Asigne cargas formales a cada átomo de la molécula interhalógena BrCl<sub>3</sub>.</para>
+<para id="fs-idp34669824"><title>Solución</title></para>
+<list id="fs-idp8784496" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><emphasis effect="italics">Asigne uno de los electrones de cada enlace Br-Cl al átomo de Br y otro al átomo de Cl en ese enlace:</emphasis><newline/>
+<media id="fs-idm34880288" alt="Se muestra una estructura de Lewis. Un átomo de bromo con dos pares solitarios de electrones está unido con enlace simple a tres átomos de cloro, cada uno de los cuales tiene tres pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_BRCL3_img.jpg"/>
+</media></item>
+<item><emphasis effect="italics">Asigne los pares solitarios a su átomo.</emphasis> Ahora cada átomo de Cl tiene siete electrones y el átomo de Br tiene siete electrones.</item>
+<item><emphasis effect="italics">Reste este número del número de electrones de valencia del átomo neutro.</emphasis> Esto da la carga formal:<newline/> Br: 7 - 7 = 0<newline/> Cl: 7 - 7 = 0<newline/> Todos los átomos del BrCl<sub>3</sub> tienen una carga formal de cero, y la suma de las cargas formales suma cero, como debe ser en una molécula neutra.</item>
+</list>
+<para id="fs-idp245106544"><title>Compruebe sus conocimientos</title>
+Determine la carga formal de cada átomo en NCl<sub>3</sub>.</para>
+<note id="fs-idp11154656"><title>Respuesta:</title>
+<para id="fs-idm22650544">N: 0; los tres átomos de Cl: 0</para>
+<media id="fs-idm2350000" alt="Se muestra una estructura de Lewis. Un átomo de nitrógeno con un par solitario de electrones está unido por enlace simple a tres átomos de cloro, cada uno de los cuales tiene tres pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Ex070402_img.jpg"/>
+</media>
+</note>
+</example>
+</section>
+<section id="fs-idp27335568">
+<title>Uso de la carga formal para predecir la estructura molecular</title>
+<para id="fs-idp93581584">La disposición de los átomos en una molécula o ion se denomina <term>estructura molecular</term>. En muchos casos, seguir los pasos para escribir las estructuras de Lewis puede conducir a más de una estructura molecular posible -diferentes colocaciones de enlaces múltiples y de electrones de un solo par o diferentes disposiciones de los átomos, por ejemplo. Unas cuantas pautas relacionadas con la carga formal pueden ser útiles para decidir cuál de las posibles estructuras es la más probable para una molécula o un ion en particular:</para>
+<list id="fs-idp69636800" list-type="enumerated" number-style="arabic">
+<item>Una estructura molecular en la que todas las cargas formales son cero es preferible a otra en la que algunas cargas formales son diferentes a cero.</item>
+<item>Si la estructura de Lewis debe tener cargas formales diferentes a cero, es preferible la disposición con las menores cargas formales diferentes a cero.</item>
+<item>Las estructuras de Lewis son preferibles cuando las cargas formales adyacentes son cero o de signo contrario.</item>
+<item>Cuando debemos elegir entre varias estructuras de Lewis con distribuciones similares de cargas formales, es preferible la estructura con las cargas formales negativas en los átomos más electronegativos.</item>
+</list>
+<para id="fs-idp52450560">Para ver cómo se aplican estas directrices, consideremos algunas estructuras posibles en el dióxido de carbono,<sub>CO2</sub>. Por nuestro análisis anterior sabemos que el átomo menos electronegativo suele ocupar la posición central, pero las cargas formales nos permiten entender <emphasis effect="italics">por qué</emphasis> ocurre esto. Podemos dibujar tres posibilidades para la estructura: carbono en el centro y dobles enlaces, carbono en el centro con un enlace simple y triple, y oxígeno en el centro con dobles enlaces:</para>
+<media id="fs-idp21768928" alt="Se muestran tres estructuras de Lewis. Las estructuras de la izquierda y la derecha muestran un átomo de carbono con doble enlace a dos átomos de oxígeno, cada uno de los cuales tiene dos pares solitarios de electrones. La estructura central muestra un átomo de carbono con triple enlace a un átomo de oxígeno con un par solitario de electrones y un enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. La tercera estructura muestra un átomo de oxígeno con doble enlace a otro átomo de oxígeno con dos pares solitarios de electrones. El primer átomo de oxígeno también tiene un doble enlace con un átomo de carbono con dos pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_CO2pos_img.jpg"/>
+</media>
+<para id="fs-idp58268848">Comparando las tres cargas formales, podemos identificar definitivamente la estructura de la izquierda como preferible porque solo tiene cargas formales de cero (directriz 1).</para>
+<para id="fs-idp198975168">Otro ejemplo es el ion tiocianato, un ion formado por un átomo de carbono, un átomo de nitrógeno y un átomo de azufre, que puede tener tres estructuras moleculares diferentes: NCS<sup>–</sup>, CNS<sup>–</sup>, o CSN<sup>–</sup>. Las cargas formales presentes en cada una de estas estructuras moleculares pueden ayudarnos a elegir la disposición más probable de los átomos. Aquí se muestran las posibles estructuras de Lewis y las cargas formales en cada una de las tres posibles estructuras del ion tiocianato:</para><media id="fs-idm21731296" alt="Se muestran dos filas de estructuras y números. La fila superior está marcada como &quot;Estructura&quot; y representa tres estructuras de Lewis y la fila inferior está marcada como &quot;Carga formal&quot;. La estructura de la izquierda muestra un átomo de carbono con doble enlace a un átomo de nitrógeno con dos pares solitarios de electrones en un lado y con doble enlace a un átomo de azufre con dos pares solitarios de electrones en el otro. La estructura está rodeada de corchetes y tiene un signo negativo en superíndice. Debajo de esta estructura están los números negativos uno, cero y cero. La estructura del medio muestra un átomo de carbono con dos pares solitarios de electrones unidos con doble enlace a un átomo de nitrógeno que tiene un enlace doble con un átomo de azufre con dos pares solitarios de electrones. La estructura está rodeada de corchetes y tiene un signo negativo en superíndice. Debajo de esta estructura se encuentran los números negativos dos, positivos uno y cero. La estructura de la derecha muestra un átomo de carbono con dos pares solitarios de electrones unidos con doble enlace con un átomo de azufre unido con doble enlace a un átomo de nitrógeno con dos pares solitarios de electrones. La estructura está rodeada de corchetes y tiene un signo negativo en superíndice. Debajo de esta estructura se encuentran los números dos negativo, signo positivo dos y uno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Thiocyan_img.jpg"/>
+</media>
+<para id="fs-idp142093872">Note que la suma de las cargas formales en cada caso es igual a la carga del ion (–1). Sin embargo, es preferible la primera disposición de los átomos porque tiene el menor número de átomos con cargas formales no nulas (directriz 2). Además, esta disposición coloca el átomo menos electronegativo en el centro, y la carga negativa en el elemento más electronegativo (directriz 4).</para>
+<example id="fs-idp56478288"><para id="fs-idm17761552"><title>Uso de la carga formal para determinar la estructura molecular</title>El óxido nitroso, N<sub>2</sub>O, comúnmente conocido como gas de la risa, se utiliza como anestesia en cirugías menores, como la extracción rutinaria de las muelas del juicio. ¿Cuál es la estructura probable del óxido nitroso?</para>
+<media id="fs-idp27289968" alt="Se muestran dos estructuras de Lewis con la palabra &quot;o&quot; entre ellas. La estructura de la izquierda muestra un átomo de nitrógeno con un par solitario de electrones unido por triple enlace a un nitrógeno que está unido por enlace simple con un oxígeno con tres pares solitarios de electrones. La estructura de la derecha muestra un átomo de nitrógeno con dos pares solitarios de electrones unido con doble enlace a un átomo de oxígeno que tiene un enlace doble con átomo de nitrógeno con dos pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_N2O_img.jpg"/>
+</media>
+<para id="fs-idp200124576"><title>Solución</title>
+Al determinar la carga formal se obtiene lo siguiente:</para>
+<media id="fs-idp30477296" alt="Se muestran dos estructuras de Lewis con la palabra &quot;o&quot; entre ellas. La estructura de la izquierda muestra un átomo de nitrógeno con un par solitario de electrones unido por triple enlace con un átomo de nitrógeno que está unido por enlace simple con un átomo de oxígeno con tres pares solitarios de electrones. Debajo de esta estructura se escriben los números cero, uno positivo y uno negativo. La estructura de la derecha muestra un átomo de nitrógeno con dos pares solitarios de electrones unido con doble enlace a un átomo de oxígeno que tiene un enlace doble con átomo de nitrógeno con dos pares solitarios de electrones. Debajo de esta estructura se escriben los números uno negativo, dos positivo y uno negativo." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_N2Ofc_img.jpg"/>
+</media>
+<para id="fs-idp52242480">La estructura con un átomo de oxígeno terminal es la que mejor satisface los criterios de la distribución más estable de la carga formal:</para>
+<media id="fs-idp61736672" alt="Se muestra una estructura de Lewis. Un átomo de nitrógeno con un par solitario de electrones está unido por triple enlace con un átomo de nitrógeno que está unido por enlace simple con un átomo de oxígeno con tres pares solitarios de electrones." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NNO_img.jpg"/>
+</media>
+<para id="fs-idp29868224">Se minimiza el número de átomos con cargas formales (directriz 2), no hay ninguna carga formal con una magnitud superior a uno (directriz 2), la carga formal negativa está en el elemento más electronegativo (directriz 4) y el átomo menos electronegativo está en la posición central.</para><para id="fs-idp67397856"><title>Compruebe lo aprendido</title>
+¿Cuál es la estructura molecular más probable para el ion de nitrito <m:math><m:mrow><m:mo>(</m:mo><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>)</m:mo></m:mrow></m:math>?</para>
+<media id="fs-idp250861152" alt="Se muestran dos estructuras de Lewis con la palabra &quot;o&quot; escrita entre ellas. La estructura de la izquierda muestra un átomo de nitrógeno con dos pares solitarios de electrones unido con doble enlace a un átomo de oxígeno con un par solitario de electrones que está unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. Los corchetes rodean esta estructura y esta tiene un signo negativo en superíndice. La estructura de la derecha muestra un átomo de oxígeno con dos pares solitarios de electrones unido con doble enlace a un átomo de nitrógeno con un par solitario de electrones que está unido con enlace simple a un oxígeno con tres pares solitarios de electrones. Los corchetes rodean esta estructura y esta tiene un signo negativo en superíndice." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NO2ion_img.jpg"/>
+</media>
+<note id="fs-idp94183792"><title>Respuesta:</title>
+<para id="fs-idm26159840">ONO<sup>–</sup></para>
+</note>
+</example></section>
+<section id="fs-idp26392016"><title>Resonancia</title><para id="fs-idp81027344">Observe que la estructura más probable para el anión nitrito en el <link target-id="fs-idp56478288"/> puede dibujarse en realidad de dos formas diferentes, que se distinguen por la ubicación de los enlaces N-O y N=O:</para>
+<media id="fs-idp25860608" alt="Se muestran dos estructuras de Lewis. La estructura de la izquierda muestra un átomo de oxígeno con tres pares solitarios de electrones unido con enlace simple a un átomo de nitrógeno con un par solitario de electrones unido con doble enlace a un oxígeno con dos pares solitarios de electrones. La estructura está entre corchetes y lleva un signo negativo en superíndice. La estructura de la derecha muestra un átomo de oxígeno con dos pares solitarios de electrones unido con doble enlace a un átomo de nitrógeno con un par solitario de electrones que está unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. La estructura está entre corchetes y lleva un signo negativo en superíndice." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NO2res_img.jpg"/>
+</media>
+<para id="fs-idm7645504">Si los iones de nitrito contienen efectivamente un enlace simple y uno doble, cabría esperar que las dos longitudes de enlace fueran diferentes. Un doble enlace entre dos átomos es más corto (y más fuerte) que un enlace simple entre los mismos dos átomos. Los experimentos muestran, sin embargo, que los dos enlaces N-O en <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> tienen la misma resistencia y longitud, y son idénticos en todas las demás propiedades.</para>
+<para id="fs-idp203952864">No es posible escribir una única estructura de Lewis para <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> en el que el nitrógeno tiene un octeto y ambos enlaces son equivalentes. En su lugar, utilizamos el concepto de <term>resonancia</term>: si se pueden escribir dos o más estructuras de Lewis con la misma disposición de los átomos en una molécula o un ion, la distribución real de los electrones es una <emphasis effect="italics">media</emphasis> de la que muestran las distintas estructuras de Lewis. La distribución real de electrones en cada uno de los enlaces nitrógeno-oxígeno en <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> es la media de un doble enlace y un enlace simple. Llamamos a las estructuras individuales de Lewis <term>formas de resonancia</term>. La estructura electrónica real de la molécula (la media de las formas de resonancia) se denomina <term>híbrido de resonancia</term> de las formas de resonancia individuales. Una flecha de doble punta entre las estructuras de Lewis indica que son formas de resonancia.</para>
+<media id="fs-idp40211808" alt="Se muestran dos estructuras de Lewis con una flecha de doble punta entre ellas. La estructura de la izquierda muestra un átomo de oxígeno con tres pares solitarios de electrones unido con enlace simple a un átomo de nitrógeno con un par solitario de electrones unido con doble enlace a un oxígeno con dos pares solitarios de electrones. La estructura está entre corchetes y lleva un signo negativo en superíndice. La estructura de la derecha muestra un átomo de oxígeno con dos pares solitarios de electrones unido con doble enlace a un átomo de nitrógeno con un par solitario de electrones que está unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. La estructura está entre corchetes y lleva un signo negativo en superíndice." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NO2resarr_img.jpg"/>
+</media>
+<para id="fs-idm12853328">Debemos recordar que una molécula descrita como un híbrido de resonancia <emphasis effect="italics">nunca</emphasis> posee una estructura electrónica descrita por cualquiera de las dos formas de resonancia. No fluctúa entre las formas de resonancia, sino que la estructura electrónica real es <emphasis effect="italics">siempre</emphasis> la media de la que muestran todas las formas de resonancia. George Wheland, uno de los pioneros de la teoría de la resonancia, utilizó una analogía histórica para describir la relación entre las formas de resonancia y los híbridos de resonancia. Un viajero medieval, que nunca había visto un rinoceronte, lo describió como un híbrido de dragón y unicornio porque tenía muchas características en común con ambos. Así como un rinoceronte no es un dragón a veces ni un unicornio en otras ocasiones, un híbrido de resonancia no es ninguna de sus formas de resonancia en un momento dado. Al igual que el rinoceronte, es una entidad real cuya existencia ha sido demostrada por pruebas experimentales. Tiene algunas características en común con sus formas de resonancia, pero las propias formas de resonancia son imágenes convenientes e imaginarias (como el unicornio y el dragón).</para>
+<para id="fs-idp245720144">El anión carbonato, <m:math><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> ofrece un segundo ejemplo de resonancia:</para>
+<media id="fs-idm34742304" alt="Se muestran tres estructuras de Lewis con flechas de doble punta entre ellas. Cada estructura está rodeada de corchetes, y cada una tiene un signo negativo en superíndice. La estructura de la izquierda representa un átomo de carbono unido a tres átomos de oxígeno. Tiene un enlace simple con dos de estos átomos de oxígeno, cada uno de los cuales tiene tres pares solitarios de electrones, y un doble enlace con el tercero, que tiene dos pares solitarios de electrones. El doble enlace se encuentra entre el átomo de oxígeno inferior izquierdo y el átomo de carbono. Las estructuras central y derecha son las mismas que la primera, pero la posición del oxígeno de doble enlace se ha desplazado al oxígeno inferior derecho en la estructura central y al oxígeno superior en la estructura derecha." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_CO3res_img.jpg"/>
+</media>
+<para id="fs-idp6151664">Un átomo de oxígeno debe tener un doble enlace con el carbono para completar el octeto en el átomo central. Sin embargo, todos los átomos de oxígeno son equivalentes, y el doble enlace podría formarse a partir de cualquiera de los tres átomos. Esto da lugar a tres formas de resonancia del ion carbonato. Como podemos escribir tres estructuras de resonancia idénticas, sabemos que la disposición real de los electrones en el ion carbonato es la media de las tres estructuras. De nuevo, los experimentos muestran que los tres enlaces C-O son exactamente iguales.</para>
+<note id="fs-idp77544496" class="chemistry link-to-learning">
+<para id="fs-idp64654736">Utilice esta <link url="http://openstax.org/l/16LewisMake">prueba rápida en línea</link> para practicar sus habilidades en el dibujo de estructuras de resonancia y la estimación de cargas formales.</para></note>
+</section><section id="fs-idm30786384" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp91470432">En una estructura de Lewis, se pueden asignar cargas formales a cada átomo tratando cada enlace como si la mitad de los electrones estuvieran asignados a cada átomo. Estas cargas formales hipotéticas son una guía para determinar la estructura Lewis más adecuada. Es preferible una estructura en la que las cargas formales sean lo más cercanas a cero posible. La resonancia se produce en los casos en los que se pueden escribir dos o más estructuras de Lewis con idéntica disposición de los átomos pero diferente distribución de los electrones. La distribución real de electrones (el híbrido de resonancia) es la media de la distribución indicada por las estructuras individuales de Lewis (las formas de resonancia).</para>
+</section>
+<section id="fs-idp77377632" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mtext>carga formal</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext># electrones de la capa de valencia (átomo libre)</m:mtext><m:mspace width="0.1em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mtext># electrones de par solitario</m:mtext><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.3em"/><m:mtext>número de electrones de enlace</m:mtext></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idp27655616" class="exercises"><title>Ejercicios de fin de capítulo de Química</title><exercise id="fs-idm30094208">
+<problem id="fs-idp135564336">
+<para id="fs-idm31598368">Escriba formas de resonancia que describan la distribución de electrones en cada una de estas moléculas o iones.</para>
+<para id="fs-idp23454288">a) dióxido de selenio, OSeO</para>
+<para id="fs-idp37794160">b) ion nitrato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp213179184">(c) ácido nítrico, HNO<sub>3</sub> (el N está unido a un grupo OH y a dos átomos de O)</para>
+<para id="fs-idp77939504">d) benceno, C<sub>6</sub>H<sub>6</sub>:</para>
+<media id="fs-idp6338064" alt="Una estructura de Lewis muestra un anillo hexagonal compuesto por seis átomos de carbono. Forman enlaces simples entre sí y enlaces simples con un átomo de hidrógeno cada uno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_CHOOd_img.jpg"/>
+</media>
+<para id="fs-idp63312576">e) el ion formiato:</para>
+<media id="fs-idm22375248" alt="Una estructura de Lewis muestra un átomo de carbono unido con enlace simple a dos átomos de oxígeno y a un átomo de hidrógeno. La estructura está rodeada de corchetes y tiene un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_CHOOe_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idp11428640">
+<problem id="fs-idm41485040">
+<para id="fs-idm26550544">Escriba formas de resonancia que describan la distribución de electrones en cada una de estas moléculas o iones.</para>
+<para id="fs-idm12563008">(a) dióxido de azufre, SO<sub>2</sub></para>
+<para id="fs-idm34089184">b) ion carbonato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp28289264">(c) ion hidrogenocarbonato, <m:math><m:mrow><m:msub><m:mtext>HCO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> (el C está unido a un grupo OH y a dos átomos de O)</para>
+<para id="fs-idp4938192">d) piridina:</para>
+<media id="fs-idp77072272" alt="Una estructura de Lewis representa un anillo hexagonal compuesto por cinco átomos de carbono y uno de nitrógeno. Cada átomo de carbono está unido con enlace simple a un átomo de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_SO2resd_img.jpg"/>
+</media>
+<para id="fs-idp27230032">e) ion alilo:</para>
+<media id="fs-idp30893072" alt="Una estructura de Lewis muestra un átomo de carbono unido con enlace simple a dos átomos de hidrógeno y a un segundo átomo de carbono. El segundo átomo de carbono está unido con enlace simple a un átomo de hidrógeno y a un tercer átomo de carbono. El tercer átomo de carbono está unido con enlace simple a dos átomos de hidrógeno. Toda la estructura está rodeada de corchetes y tiene un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_SO2rese_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp76561488"><para id="fs-idp22600016">(a)<newline/>
+<media id="fs-idp76917152" alt="Se muestran dos estructuras de Lewis con una flecha de doble punta entre ellas. La estructura de la izquierda muestra un átomo de azufre con un par solitario de electrones unido con enlace simple por la izquierda a un átomo de oxígeno con tres pares solitarios de electrones. El átomo de azufre también tiene un doble enlace por la derecha con un átomo de oxígeno con dos pares solitarios de electrones. La estructura de la derecha muestra los mismos átomos, pero esta vez el doble enlace está entre el oxígeno izquierdo y el átomo de azufre. Los pares solitarios de electrones también se han desplazado para explicar el cambio de tipos de enlace. El átomo de azufre en las estructuras de la derecha también tiene un tercer punto de electrones debajo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Ques2ansa_img.jpg"/>
+</media><newline/> (b)<newline/>
+<media id="fs-idp21708272" alt="Se muestran tres estructuras de Lewis, con flechas de doble punta entre ellas, cada una rodeada de corchetes y un signo negativo en superíndice. La estructura de la izquierda representa un átomo de carbono unido a tres átomos de oxígeno. Tiene un enlace simple con dos de estos átomos de oxígeno, cada uno de los cuales tiene tres pares solitarios de electrones, y un doble enlace con el tercero, que tiene dos pares solitarios de electrones. El doble enlace se encuentra entre el oxígeno inferior y el carbono. Las estructuras central y derecha son las mismas que la primera, pero la posición del oxígeno con doble enlace se ha desplazado al oxígeno izquierdo en la estructura derecha, mientras que la estructura central solo tiene enlaces simples. Los pares solitarios de electrones también cambian para corresponder a los enlaces.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Ques2ansb_img.jpg"/>
+</media><newline/> (c)<newline/>
+<media id="fs-idm57805984" alt="Se muestran dos estructuras de Lewis, con una flecha de doble punta entre ellas, cada una rodeada de corchetes y un signo negativo en superíndice. La estructura de la izquierda representa un átomo de carbono unido a tres átomos de oxígeno. Tiene un enlace simple con uno de estos átomos de oxígeno, que tiene tres pares solitarios de electrones, y un doble enlace con los otros dos, que tienen dos pares solitarios de electrones. Uno de los átomos de oxígeno con doble enlace también tiene un enlace simple con un átomo de hidrógeno. La estructura correcta es la misma que la primera, pero solo hay un oxígeno con doble enlace. El átomo de oxígeno con el átomo de hidrógeno de enlace simple tiene ahora un enlace simple a el átomo de carbono. Los pares solitarios de electrones también cambiaron para corresponder a los enlaces.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Ques2ansc_img.jpg"/>
+</media><newline/> (d)<newline/>
+<media id="fs-idp98647232" alt="Se muestran dos estructuras de Lewis con una flecha de doble punta entre ellas. La estructura de la izquierda representa un anillo hexagonal compuesto por cinco átomos de carbono, cada uno de ellos unido con enlace simple a un átomo de hidrógeno, y un átomo de nitrógeno que tiene un par solitario de electrones. El anillo tiene enlaces simples y dobles alternados. La estructura derecha es la misma que la primera, pero cada doble enlace ha girado a una nueva posición.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Ques2ansd_img.jpg"/>
+</media><newline/> (e)<newline/>
+<media id="fs-idp255926848" alt="Se muestran dos estructuras de Lewis con una flecha de doble punta entre ellas. La estructura de la izquierda muestra un átomo de carbono unido con enlace simple a dos átomos de hidrógeno y a un segundo átomo de carbono. El segundo átomo de carbono tiene un enlace simple con un átomo de hidrógeno y un doble enlace con un tercer átomo de carbono. El tercer átomo de carbono está unido con enlace simple a dos átomos de hidrógeno. Toda la estructura está rodeada de corchetes y tiene un signo negativo en superíndice. La estructura de la derecha muestra un átomo de carbono con enlace simple a dos átomos de hidrógeno y con doble enlace a un segundo átomo de carbono. El segundo átomo de carbono está unido con enlace simple a un átomo de hidrógeno y a un tercer átomo de carbono. El tercer átomo de carbono está unido con enlace simple a dos átomos de hidrógeno. Toda la estructura está rodeada de corchetes y tiene un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Ques2anse_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp106918432">
+<problem id="fs-idm88088320">
+<para id="fs-idm21450320">Escriba las formas de resonancia del ozono, O<sub>3</sub>, el componente de la atmósfera superior que protege a la Tierra de la radiación ultravioleta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm29150896">
+<problem id="fs-idm891584">
+<para id="fs-idp52476592">El nitrito de sodio, que se ha utilizado para conservar el tocino y otras carnes, es un compuesto iónico. Escriba las formas de resonancia del ion nitrito, <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup><m:mtext>.</m:mtext></m:mrow></m:math>
+</para>
+</problem>
+<solution id="fs-idp97930176">
+<para id="fs-idm77390448"> <newline/><media id="fs-idp4932640" alt="Se muestran un par de estructuras Lewis con una flecha de doble punta entre el mismo. La estructura de la izquierda del primer par muestra un átomo de nitrógeno con un par solitario de electrones unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. También tiene un doble enlace con un oxígeno con dos pares solitarios de electrones. La imagen derecha de este par representa la imagen invertida de la izquierda. Ambas imágenes están rodeadas de corchetes y tienen un signo negativo en superíndice. Están marcados &quot;Para N O subíndice dos superíndice signo negativo&quot;">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Ques11ans_img.jpg"/>
+</media>
+</para>
+</solution>
+</exercise>
+<exercise id="fs-idp216023872">
+<problem id="fs-idp11794720">
+<para id="fs-idp100357024">En cuanto a los enlaces presentes, explique por qué el ácido acético, CH<sub>3</sub>CO<sub>2</sub>H, contiene dos tipos distintos de enlaces carbono-oxígeno, mientras que el ion acetato, formado por la pérdida de un ion hidrógeno del ácido acético, solo contiene un tipo de enlace carbono-oxígeno. Se muestran las estructuras del esqueleto de estas especies:</para>
+<media id="fs-idm19699600" alt="Se muestran dos estructuras de Lewis con una flecha de doble punta entre ellas. La estructura de la izquierda indica un átomo de carbono con enlace simple a tres átomos de hidrógeno y a un segundo átomo de carbono. El segundo carbono está unido con enlace simple a dos átomos de oxígeno. Uno de los átomos de oxígeno está unido con enlace simple a un átomo de hidrógeno. La estructura de la derecha, rodeada de corchetes y con un signo negativo en superíndice, representa un átomo de carbono unido con enlace simple a tres átomos de hidrógeno y a un segundo átomo de carbono. El segundo átomo de carbono está unido con enlace simple a dos átomos de oxígeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Acet_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idp30217376">
+<problem id="fs-idp245602592">
+<para id="fs-idm25604816">Escriba las estructuras de Lewis de lo siguiente, e incluya las estructuras de resonancia si corresponde. Indique cuál tiene el enlace carbono-oxígeno más fuerte.</para>
+<para id="fs-idp9268576">(a) CO<sub>2</sub></para>
+<para id="fs-idm17614608">(b) CO</para>
+</problem>
+<solution id="fs-idp32842640">
+<para id="fs-idp32184800">(a)<newline/>
+<media id="fs-idm35689072" alt="Esta estructura muestra un átomo de carbono unido con doble enlace a dos átomos de oxígeno, cada uno de los cuales tiene dos pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Ques13ansb_img.jpg"/>
+</media><newline/> (b)<newline/>
+<media id="fs-idp52448512" alt="La estructura de la derecha de este par muestra un átomo de carbono con un par solitario de electrones unido con triple enlace a un oxígeno con un par solitario de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Ques13ansc_img.jpg"/>
+</media><newline/> El CO tiene el enlace carbono-oxígeno más fuerte porque hay un triple enlace que une el C y el O. El CO<sub>2</sub> tiene dobles enlaces.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp29752720">
+<problem id="fs-idp190371664">
+<para id="fs-idm15185536">Los dentífricos que contienen carbonato ácido de sodio (bicarbonato de sodio) y peróxido de hidrógeno son muy utilizados. Escriba las estructuras de Lewis para el ion carbonato de hidrógeno y la molécula de peróxido de hidrógeno, con las formas de resonancia si corresponde.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp23408944">
+<problem id="fs-idm62310560">
+<para id="fs-idp134601472">Determine la carga formal de cada elemento en lo siguiente:</para>
+<para id="fs-idp36610048">(a) HCl</para>
+<para id="fs-idp223116352">(b) CF<sub>4</sub></para>
+<para id="fs-idm16885392">(c) PCl<sub>3</sub></para>
+<para id="fs-idm32027408">(d) PF<sub>5</sub></para>
+</problem>
+<solution id="fs-idp93168608">
+<para id="fs-idm21325744">(a) H: 0, Cl: 0; (b) C: 0, F: 0; (c) P: 0, Cl 0; (d) P: 0, F: 0</para>
+</solution>
+</exercise>
+<exercise id="fs-idm33617232">
+<problem id="fs-idp99546640">
+<para id="fs-idp5193952">Determine la carga formal de cada elemento en lo siguiente:</para>
+<para id="fs-idp87268656">(a) H<sub>3</sub>O<sup>+</sup></para>
+<para id="fs-idp28450944">(b) <m:math><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp109041968">(c) NH<sub>3</sub></para>
+<para id="fs-idp47951984">(d) <m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp91448368">(e) H<sub>2</sub>O<sub>2</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp25221456">
+<problem id="fs-idp8015248">
+<para id="fs-idp137795936">Calcule la carga formal del cloro en las moléculas Cl<sub>2</sub>, BeCl<sub>2</sub>, y ClF<sub>5</sub>.</para>
+</problem>
+<solution id="fs-idp31585296">
+<para id="fs-idm369848352">Cl en Cl<sub>2</sub>: 0; Cl en BeCl<sub>2</sub>: 0; Cl en ClF<sub>5</sub>: 0</para>
+</solution>
+</exercise>
+<exercise id="fs-idp138240">
+<problem id="fs-idp30232944">
+<para id="fs-idm242192">Calcule la carga formal de cada elemento en los siguientes compuestos e iones:</para>
+<para id="fs-idp61606880">(a) F<sub>2</sub>CO</para>
+<para id="fs-idp8204656">(b) NO<sup>–</sup></para>
+<para id="fs-idp135234752">(c) <m:math><m:mrow><m:msub><m:mtext>BF</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp93361152">(d) <m:math><m:mrow><m:msub><m:mtext>SnCl</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp56044224">(e) H<sub>2</sub>CCH<sub>2</sub></para>
+<para id="fs-idp250816336">(f) ClF<sub>3</sub></para>
+<para id="fs-idm32764688">(g) SeF<sub>6</sub></para>
+<para id="fs-idm30255888">(h) <m:math><m:mrow><m:msub><m:mtext>PO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>3−</m:mtext></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp137881216">
+<problem id="fs-idp80665872">
+<para id="fs-idp56625152">Dibuje todas las estructuras de resonancia posibles para cada uno de estos compuestos. Determine la carga formal de cada átomo en cada una de las estructuras de resonancia:</para>
+<para id="fs-idp131483136">(a) O<sub>3</sub></para>
+<para id="fs-idp134896400">(b) SO<sub>2</sub></para>
+<para id="fs-idp213461280">(c) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm63534048">(d) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp32967664">
+<para id="fs-idp124490112">(a)<newline/>
+<media id="fs-idp9590704" alt="Se muestran dos estructuras de Lewis con una flecha de doble punta entre ellas. La estructura de la izquierda muestra un átomo de oxígeno con un par solitario de electrones unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. También tiene un doble enlace con un átomo de oxígeno con dos pares solitarios de electrones. Los símbolos y números debajo de esta estructura dicen: &quot;( 0 ), ( 1 positivo ), ( 1 negativo )&quot; La frase &quot;Carga formal&quot; y una flecha hacia la derecha se encuentran a la izquierda de esta estructura. La estructura de la derecha aparece como una imagen invertida de la izquierda y los símbolos y números debajo de aquella dicen: &quot;( 1 negativo ), ( 1 positivo ), ( 0 )&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Exercis12a_img.jpg"/>
+</media><newline/> (b)<newline/>
+<media id="fs-idm13086640" alt="Se muestran dos estructuras de Lewis, con una flecha de doble punta entre ellas. La estructura de la izquierda muestra un átomo de azufre con un par solitario de electrones unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. El átomo de azufre también tiene un doble enlace a un átomo de oxígeno con dos pares solitarios de electrones. Los símbolos y números debajo de esta estructura dicen: &quot;( 1 negativo ), ( 1 positivo ), ( 0 )&quot; La estructura de la derecha aparece como una imagen invertida de la izquierda y los símbolos y números debajo de esta estructura dicen: &quot;( 0 ), ( 1 positivo ), ( 1 negativo )&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Exercis12b_img.jpg"/>
+</media><newline/> (c)<newline/>
+<media id="fs-idm26418288" alt="Se muestran dos estructuras de Lewis, cada una entre paréntesis con un signo negativo en superíndice y una flecha de doble punta entre ellas. La estructura de la izquierda muestra un átomo de nitrógeno con un par solitario de electrones unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones y unido con doble enlace a un átomo de oxígeno con dos pares solitarios de electrones. Los símbolos y números debajo de esta estructura dicen &quot;paréntesis abierto, 0, paréntesis cerrado, paréntesis abierto, 0, paréntesis cerrado, paréntesis abierto, 1 negativo, paréntesis cerrado&quot;. La estructura de la derecha aparece como una imagen invertida de la izquierda y los símbolos y números debajo de ella dicen &quot;paréntesis abierto, 1 negativo, paréntesis cerrado, paréntesis abierto, 0, paréntesis cerrado, paréntesis abierto, 0, paréntesis cerrado&quot;].">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Exercis12c_img.jpg"/>
+</media><newline/> (d)<newline/>
+<media id="fs-idp61775696" alt="Se muestran tres estructuras de Lewis, cada una entre corchetes con un signo negativo en superíndice y una flecha de doble punta entre ellas. La estructura de la izquierda muestra un átomo de nitrógeno con un enlace simple a dos átomos de oxígeno, cada uno con tres pares solitarios de electrones, y unido con doble enlace a un átomo de oxígeno con dos pares solitarios de electrones. Los átomos de oxígeno de enlace simple se marcan, desde la parte superior de la estructura y en el sentido de las agujas del reloj, &quot;paréntesis abierto, 1 negativo, paréntesis cerrado, paréntesis abierto, 1 positivo, paréntesis cerrado&quot;. Los símbolos y números debajo de esta estructura dicen &quot;paréntesis abierto, 0, paréntesis cerrado, paréntesis abierto, 1 negativo, paréntesis cerrado&quot;. La estructura del medio muestra un átomo de nitrógeno unido con enlace simple a dos átomos de oxígeno, cada uno con tres pares solitarios de electrones, uno de los cuales está marcado como &quot;paréntesis abierto, 1 positivo, paréntesis cerrado&quot; y unido con doble enlace a un átomo de oxígeno con dos pares solitarios de electrones marcado como &quot;paréntesis abierto, 0, paréntesis cerrado&quot;. Los símbolos y números debajo de esta estructura dicen &quot;paréntesis abierto, 1 negativo, paréntesis cerrado, paréntesis abierto, 1 negativo, paréntesis cerrado&quot;. La estructura de la derecha muestra un átomo de nitrógeno con enlace simple a dos átomos de oxígeno, cada uno con tres pares solitarios de electrones, y un doble enlace con un átomo de oxígeno con dos pares solitarios de electrones. Uno de los átomos de oxígeno de enlace simple está marcado como &quot;paréntesis abierto, 1 negativo, paréntesis cerrado&quot; mientras que el oxígeno de doble enlace está marcado como &quot;paréntesis abierto, 1 positivo, paréntesis cerrado&quot;. Los símbolos y números debajo de esta estructura dicen &quot;paréntesis abierto, 1 negativo, paréntesis cerrado&quot; y &quot;paréntesis abierto, 0, paréntesis cerrado&quot;].">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_Exercis12d_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp109056096">
+<problem id="fs-idp3252288">
+<para id="fs-idp132239136">Con base en las consideraciones de carga formal, cuál de las siguientes sería probablemente la disposición correcta de los átomos en el cloruro de nitrosilo: ¿ClNO o ClON?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp7647248">
+<problem id="fs-idp31187056">
+<para id="fs-idp47991712">Con base en las consideraciones de carga formal, cuál de las siguientes sería probablemente la disposición correcta de los átomos en el ácido hipocloroso: ¿HOCl o OClH?</para>
+</problem>
+<solution id="fs-idm245483776">
+<para id="fs-idm333542560">HOCl</para>
+</solution>
+</exercise>
+<exercise id="fs-idp77526928">
+<problem id="fs-idp26780528">
+<para id="fs-idm19951696">Con base en las consideraciones de carga formal, cuál de las siguientes sería probablemente la disposición correcta de los átomos en el dióxido de azufre: ¿OSO o SOO?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp27867056">
+<problem id="fs-idm30920064">
+<para id="fs-idp28728528">Dibuje la estructura de la hidroxilamina, H<sub>3</sub>NO, y asigne las cargas formales; busque la estructura. ¿La estructura real coherente es coherente con los cargas formales?</para>
+</problem>
+<solution id="fs-idp34547536"><para id="fs-idp6445072">La estructura que da cero cargas formales es consistente con la estructura real:<newline/>
+<media id="fs-idp26230352" alt="Una estructura de Lewis muestra un átomo de nitrógeno con un par solitario de electrones unido con enlace simple a dos átomos de hidrógeno y a un átomo de oxígeno que tiene dos pares solitarios de electrones. El átomo de oxígeno está unido con enlace simple a un átomo de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_OHamine_img.jpg"/>
+</media>
+</para></solution>
+</exercise>
+<exercise id="fs-idp123681728">
+<problem id="fs-idp8480224">
+<para id="fs-idm33460160">El yodo forma una serie de fluoruros (enumerados aquí). Escriba las estructuras de Lewis en cada uno de los cuatro compuestos y determine la carga formal del átomo de yodo en cada molécula:</para>
+<para id="fs-idp36471920">(a) SI</para>
+<para id="fs-idp63619952">(b) IF<sub>3</sub></para>
+<para id="fs-idp60493712">(c) IF<sub>5</sub></para>
+<para id="fs-idm19744736">(d) IF<sub>7</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp26472064">
+<problem id="fs-idp61588208">
+<para id="fs-idp104648272">Escriba la estructura de Lewis y la fórmula química del compuesto con una masa molar de unos 70 g/mol que contiene un 19,7 % de nitrógeno y un 80,3 % de flúor en masa, y determina la carga formal de los átomos de este compuesto.</para>
+</problem>
+<solution id="fs-idp198370064"><para id="fs-idp35441312">NF<sub>3</sub>;<newline/>
+<media id="fs-idp98852848" alt="Una estructura de Lewis muestra un átomo de nitrógeno con un par solitario de electrones unido con enlace simple a tres átomos de flúor, cada uno con tres pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NF3_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<exercise id="fs-idp123779760">
+<problem id="fs-idm12579680">
+<para id="fs-idp60472592">¿Cuál de las siguientes estructuras esperaríamos para el ácido nitroso? Determine los cargas formales:</para>
+<media id="fs-idp76630304" alt="Se muestran dos estructuras de Lewis, con la palabra &quot;o&quot; entre ellas. La estructura de la izquierda muestra un átomo de nitrógeno unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. También tiene un enlace simple con un átomo de hidrógeno y un doble enlace con un átomo de oxígeno con dos pares solitarios de electrones. La estructura de la derecha muestra un átomo de hidrógeno unido con enlace simple a un átomo de oxígeno con dos pares solitarios de electrones. El átomo de oxígeno está unido con enlace simple a un átomo de nitrógeno unido con doble enlace a un átomo de oxígeno con dos pares solitarios de electrones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_HNO2_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm30783968">
+<problem id="fs-idm26287472">
+<para id="fs-idp101954928">El ácido sulfúrico es el producto químico industrial que se produce en mayor cantidad en todo el mundo. Tan solo en Estados Unidos se producen unos 90.000 millones de libras al año. Escriba la estructura de Lewis del ácido sulfúrico, H<sub>2</sub>SO<sub>4</sub>, que tiene dos átomos de oxígeno y dos grupos OH unidos al azufre.</para>
+</problem>
+<solution id="fs-idp189635616">
+<para id="fs-idm118650128"> <newline/><media id="fs-idp5472672" alt="Una estructura de Lewis muestra un átomo de hidrógeno unido con enlace simple a un átomo de oxígeno con dos pares solitarios de electrones. El átomo de oxígeno está unido con enlace simple a un átomo de azufre. El átomo de azufre está unido con doble enlace a dos átomos de oxígeno, cada uno de los cuales tiene tres pares solitarios de electrones, y está unido con enlace simple a un átomo de oxígeno con dos pares solitarios de electrones. Este átomo de oxígeno está unido con enlace simple a un átomo de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_H2SO4.jpg"/>
+</media></para>
+</solution>
+</exercise>
+</section>   </content>
+<glossary>
+<definition id="fs-idp10384768">
+<term>carga formal</term>
+<meaning id="fs-idp12494960">carga que resultaría en un átomo al tomar el número de electrones de valencia en el átomo neutro y restando los electrones no enlazantes y el número de enlaces (la mitad de los electrones enlazantes).</meaning>
+</definition>
+<definition id="fs-idp31379776">
+<term>estructura molecular</term>
+<meaning id="fs-idp96845776">disposición de los átomos en una molécula o ion.</meaning>
+</definition>
+<definition id="fs-idp213363824">
+<term>resonancia</term>
+<meaning id="fs-idm25625200">situación en la que una estructura de Lewis es insuficiente para describir el enlace en una molécula y se observa la media de múltiples estructuras.</meaning>
+</definition>
+<definition id="fs-idp9239856">
+<term>formas de resonancia</term>
+<meaning id="fs-idp31508000">dos o más estructuras de Lewis que tienen la misma disposición de los átomos pero diferentes disposiciones de los electrones.</meaning>
+</definition>
+<definition id="fs-idp8038096">
+<term>híbrido de resonancia</term>
+<meaning id="fs-idp9672576">media de las formas de resonancia mostradas por las estructuras individuales de Lewis.</meaning>
+</definition>
+</glossary>
+</document>

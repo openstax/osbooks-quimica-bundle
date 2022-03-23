@@ -1,0 +1,273 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Rendimiento de la reacción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68714</md:content-id>
+  <md:title>Rendimiento de la reacción</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list><item>Explicar los conceptos de rendimiento teórico y catalizadores/reactivos limitantes.</item>
+<item>Deducir el rendimiento teórico de una reacción en condiciones específicas.</item>
+<item>Calcular el porcentaje de rendimiento de una reacción.</item></list></md:abstract>
+  <md:uuid>3da1a637-2826-47bf-8b06-e32ffbdfd60a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp24998416">Las cantidades relativas de reactivos y productos representadas en una ecuación química balanceada suelen denominarse <emphasis effect="italics">cantidades estequiométricas</emphasis>. Todos los ejercicios del módulo anterior incluían cantidades estequiométricas de reactivos. Por ejemplo, al calcular la cantidad de producto generado a partir de una determinada cantidad de reactivo, se asumió que cualquier otro reactivo necesario estaba disponible en cantidades estequiométricas (o mayores). En este módulo se consideran situaciones más realistas, en las que los reactivos no están presentes en cantidades estequiométricas.</para>
+<section id="fs-idp5731792">
+<title>Reactivo limitante</title>
+<para id="fs-idp103911360">Consideremos otra analogía alimenticia, la preparación de sándwiches de queso a la parrilla (<link target-id="CNX_Chem_04_04_sandwich"/>):</para>
+<equation class="unnumbered" id="fs-idp59817360"><m:math><m:mrow><m:mtext>1 rebanada de queso</m:mtext><m:mspace width="0.2em"/><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mtext>2 rebanadas de pan</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>1 sándwich</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp39531056">Las cantidades estequiométricas de los ingredientes del sándwich para esta receta son pan y rebanadas de queso en un cociente de 2:1. Si se dispone de 28 rebanadas de pan y 11 rebanadas de queso, se pueden preparar 11 sándwiches de acuerdo con la receta proporcionada, utilizando todo el queso proporcionado y sobrándole seis rebanadas de pan. En este escenario, el número de sándwiches preparados ha sido <emphasis effect="italics">limitado</emphasis> por el número de rebanadas de queso, y las rebanadas de pan se han proporcionado en <emphasis effect="italics">exceso</emphasis>.</para>
+<figure id="CNX_Chem_04_04_sandwich">
+<media id="fs-idm59912944" alt="Esta figura tiene tres filas que muestran los ingredientes necesarios para hacer un sándwich. La primera fila dice: &quot;1 sándwich = 2 rebanadas de pan + 1 rebanada de queso&quot;. Se muestran dos rebanadas de pan y una de queso. En la segunda fila se puede leer: &quot;Provisto de: 28 rebanadas de pan + 11 rebanadas de queso&quot;. Se muestran 28 rebanadas de pan y 11 rebanadas de queso. La tercera fila dice: &quot;Podemos hacer: 11 sándwiches + 6 rebanadas de pan sobrantes&quot;. Se muestran 11 sándwiches con seis rebanadas de pan adicionales.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_04_sandwich.jpg"/>
+</media>
+<caption>La elaboración de sándwiches puede ilustrar los conceptos de reactivos limitantes y en exceso.</caption>
+</figure>
+<para id="fs-idm48112848">Consideremos ahora este concepto con respecto a un proceso químico, la reacción del hidrógeno con el cloro para producir cloruro de hidrógeno:</para>
+<equation class="unnumbered" id="fs-idp62209424"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2HCl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></equation><para id="fs-idp157494624">La ecuación balanceada muestra que el hidrógeno y el cloro reaccionan en un cociente estequiométrico de 1:1. Si estos reactivos se suministran en cualquier otra cantidad, uno de los reactivos se consumirá casi siempre por completo, limitando así la cantidad de producto que puede generarse. Esta sustancia es el <term>reactivo limitante</term>, y la otra sustancia es el <term>exceso de reactivo</term>. La identificación de los reactivos limitantes y en exceso de reactivo para una situación dada requiere el cálculo de las cantidades molares de cada reactivo proporcionado y su comparación con las cantidades estequiométricas representadas en la ecuación química balanceada. Por ejemplo, imagine que combina 3 moles de H<sub>2</sub> y 2 moles de Cl<sub>2</sub>. Esto representa un cociente 3:2 (o 1,5:1) entre el hidrógeno y el cloro presentes para la reacción, que es mayor que el cociente estequiométrico de 1:1. Por lo tanto, el hidrógeno está presente en exceso y el cloro es el reactivo limitante. La reacción de todo el cloro proporcionado (2 mol) consumirá 2 mol de los 3 mol de hidrógeno proporcionados, dejando 1 mol de hidrógeno sin reaccionar.</para>
+<para id="fs-idp22005824">Un enfoque alternativo para identificar el reactivo limitante consiste en comparar la cantidad de producto esperada para la reacción completa de cada reactivo. Cada cantidad de reactivo se utiliza para calcular por separado la cantidad de producto que se formaría según la estequiometría de la reacción. El reactivo que da la menor cantidad de producto es el reactivo limitante. Para el ejemplo del párrafo anterior, la reacción completa del hidrógeno produciría</para>
+<equation class="unnumbered" id="fs-idp67209632"><m:math><m:mrow><m:mtext>mol de HCl producido</m:mtext><m:mo>=</m:mo><m:mtext>3 mol de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>2 mol de HCl</m:mtext></m:mrow><m:mrow><m:mtext>1 mol de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>6 mol de HCl</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm20022400">La reacción completa del cloro suministrado produciría</para>
+<equation class="unnumbered" id="fs-idp10471024"><m:math><m:mrow><m:mtext>mol de HCl producido</m:mtext><m:mo>=</m:mo><m:mtext>2 mol de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>2 mol de HCl</m:mtext></m:mrow><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>4 mol de HCl</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm39942944">El cloro se consumirá completamente cuando se hayan producido 4 moles de HCl. Dado que se proporcionó suficiente hidrógeno para producir 6 moles de HCl, habrá hidrógeno sin reaccionar una vez que la reacción se haya completado. Por lo tanto, el cloro es el reactivo limitante y el hidrógeno es el exceso de reactivo (<link target-id="CNX_Chem_04_04_limiting"/>).</para>
+<figure id="CNX_Chem_04_04_limiting">
+<media id="fs-idp182564432" alt="La figura muestra una reacción de modelos moleculares de espacio lleno. Hay una flecha de reacción que apunta a la derecha en el centro. A la izquierda de la flecha de reacción hay tres moléculas formadas por dos esferas verdes unidas entre sí. También hay cinco moléculas, cada una de ellas formada por dos esferas blancas más pequeñas, unidas entre sí. Encima de estas moléculas está la etiqueta &quot;Antes de la reacción&quot; y debajo de estas moléculas está la etiqueta &quot;6 H subíndice 2 y 4 C l subíndice 2&quot;. A la derecha de la flecha de reacción, hay ocho moléculas, cada una de ellas formada por una esfera verde unida a una esfera blanca más pequeña. También hay dos moléculas formadas por dos esferas blancas unidas entre sí. Encima de estas moléculas está la etiqueta &quot;Después de la reacción&quot; y debajo de estas moléculas está la etiqueta &quot;8 H C l y 2 H subíndice 2&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_04_limiting.jpg"/>
+</media>
+<caption>Cuando el H<sub>2</sub> y el Cl<sub>2</sub> se combinan en cantidades no estequiométricas, uno de estos reactivos limitará la cantidad de HCl que puede producirse. Esta ilustración muestra una reacción en la que el hidrógeno está presente en exceso y el cloro es el reactivo limitante.</caption>
+</figure>
+<note id="fs-idp162031984" class="chemistry link-to-learning">
+<para id="fs-idm52028528">Vea esta <link url="http://openstax.org/l/16reactantprod">simulación</link> interactiva que ilustra los conceptos de reactivos limitantes y exceso de reactivo.</para>
+</note>
+<example id="fs-idp70587344">
+<para id="fs-idm3583984"><title>Identificación del reactivo limitante</title>
+El nitruro de silicio es una cerámica muy dura y resistente a las altas temperaturas que se utiliza como componente de los álabes de las turbinas de los motores a reacción. Se prepara según la siguiente ecuación:</para>
+<equation class="unnumbered" id="fs-idm22587536"><m:math><m:mrow><m:mtext>3Si</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp52711328">¿Cuál es el reactivo limitante cuando reaccionan 2,00 g de Si y 1,50 g de N<sub>2</sub>?</para>
+<para id="fs-idm18749312"><title>Solución</title>
+Calcule las cantidades molares de reactivos proporcionadas y, a continuación, compare estas cantidades con la ecuación balanceada para identificar el reactivo limitante.</para>
+<equation class="unnumbered" id="fs-idp16604400"><m:math><m:mrow><m:mtext>mol de Si</m:mtext><m:mo>=</m:mo><m:mn>2,00</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g de Si</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol de Si</m:mtext></m:mrow><m:mrow><m:mn>28,09</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g de Si</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,0712 mol de Si</m:mtext></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idp42210944"><m:math><m:mrow><m:mtext>mol de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2 </m:mn></m:msub><m:mo>=</m:mo><m:mn>1,50</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mn>28,02</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2 </m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,0535 mol de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation><para id="fs-idp47057824">El cociente molar Si:N<sub>2</sub> proporcionado es:</para>
+<equation class="unnumbered" id="fs-idp107313360"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>0,0712 mol de Si</m:mtext></m:mrow><m:mrow><m:mtext>0,0535 mol de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1,33 mol de Si</m:mtext></m:mrow><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm100978944">El cociente estequiométrico Si:N<sub>2</sub> es:</para>
+<equation class="unnumbered" id="fs-idm60202256"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>3 mol de Si</m:mtext></m:mrow><m:mrow><m:mtext>2 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1,5 mol de Si</m:mtext></m:mrow><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm1915936">La comparación de estos cocientes muestra que el Si se aporta en una cantidad inferior a la estequiométrica, por lo que es el reactivo limitante.</para>
+<para id="fs-idm9495168">Alternativamente, calcule la cantidad de producto esperada para la reacción completa de cada uno de los reactivos proporcionados. Los 0,0712 moles de silicio producirían</para>
+<equation class="unnumbered" id="fs-idp161973712"><m:math><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>producido</m:mtext><m:mo>=</m:mo><m:mtext>0,0712 mol de Si</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub></m:mrow><m:mrow><m:mtext>3 mol de Si</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,0237 mol de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm3691696">mientras que los 0,0535 moles de nitrógeno producirían</para>
+<equation class="unnumbered" id="fs-idm62043536"><m:math><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>producido</m:mtext><m:mo>=</m:mo><m:mtext>0,0535 mol de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub></m:mrow><m:mrow><m:mtext>2 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2 </m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,0268 mol de</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.1em"/><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idm55343248">Dado que el silicio da la menor cantidad de producto, es el reactivo limitante.</para>
+<para id="fs-idp70544208"><title>Compruebe sus conocimientos</title>
+¿Cuál es el reactivo limitante cuando 5,00 g de H<sub>2</sub> y 10,0 g de O<sub>2</sub> reaccionan y forman agua?</para>
+<note id="fs-idm19095728">
+<title>Respuesta:</title>
+<para id="fs-idp69025056">O<sub>2</sub></para>
+</note>
+</example>
+</section>
+<section id="fs-idm20935792">
+<title>Porcentaje de rendimiento</title>
+<para id="fs-idm22072192">La cantidad de producto que <emphasis effect="italics">puede</emphasis> producir una reacción en condiciones específicas, calculada según la estequiometría de una ecuación química balanceada adecuada, se denomina <term>rendimiento teórico</term> de la reacción. En la práctica, la cantidad de producto obtenida se denomina <term>rendimiento real</term> y suele ser inferior al rendimiento teórico por varias razones. Algunas reacciones son intrínsecamente ineficaces, ya que van acompañadas de <emphasis effect="italics">reacciones secundarias</emphasis> que generan otros productos. Otras son, por naturaleza, incompletas (considere las reacciones parciales de las bases y ácidos débiles que se discutieron anteriormente en este capítulo). Algunos productos son difíciles de recoger sin que se produzcan algunas pérdidas, por lo que una recuperación no perfecta reducirá el rendimiento real. El grado en que se alcanza el rendimiento teórico de una reacción se suele expresar como su <term>porcentaje de rendimiento</term>:</para>
+<equation class="unnumbered" id="fs-idp47653952"><m:math><m:mrow><m:mtext>porcentaje de rendimiento</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>rendimiento real</m:mtext></m:mrow><m:mrow><m:mtext>rendimiento teórico</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm52282816">Los rendimientos reales y teóricos pueden expresarse como masas o cantidades molares (o cualquier otra propiedad apropiada; por ejemplo, el volumen, si el producto es un gas). Siempre que ambos rendimientos se expresen con las mismas unidades, éstas se cancelarán cuando se calcule el porcentaje de rendimiento.</para>
+<example id="fs-idm49018784">
+<para id="fs-idm68646768"><title>Cálculo del porcentaje de rendimiento</title>
+Al reaccionar 1,274 g de sulfato de cobre con un exceso de zinc metálico, se obtuvieron 0,392 g de cobre metálico según la ecuación:</para>
+<equation class="unnumbered" id="fs-idp101757552"><m:math><m:mrow><m:msub><m:mtext>CuSO</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>Zn</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>ZnSO</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp104261712">¿Cuál es el porcentaje de rendimiento?</para>
+<para id="fs-idp98890704"><title>Solución</title>
+La información proporcionada identifica al sulfato de cobre como el reactivo limitante, por lo que el rendimiento teórico se encuentra mediante el enfoque ilustrado en el módulo anterior, como se muestra aquí:</para>
+<equation class="unnumbered" id="fs-idp104521856"><m:math><m:mrow><m:mn>1,274</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CuSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CuSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>159,62</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CuSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol de Cu</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CuSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>63,55</m:mn><m:mspace width="0.2em"/><m:mtext>g de Cu</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol de Cu</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,5072 g de Cu</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp47540336">Utilizando este rendimiento teórico y el valor proporcionado para el rendimiento real, se calcula que el porcentaje de rendimiento es</para>
+<equation class="unnumbered" id="fs-idp217309712"><m:math><m:mrow><m:mtext>porcentaje de rendimiento</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>rendimiento real</m:mtext></m:mrow><m:mrow><m:mtext>rendimiento teórico</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idp182503696"><m:math><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mtext>porcentaje de rendimiento</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>0,392 g de Cu</m:mtext></m:mrow><m:mrow><m:mtext>0,5072 g de Cu</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mo>=</m:mo><m:mn>77,3</m:mn><m:mi>%</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp38988928"><title>Compruebe lo aprendido</title>¿Cuál es el porcentaje de rendimiento de una reacción que produce 12,5 g del gas freón CF<sub>2</sub>Cl<sub>2</sub> a partir de 32,9 g de CCl<sub>4</sub> y un exceso de HF?</para><equation class="unnumbered" id="fs-idp61435552"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>HF</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CF</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>HCl</m:mtext></m:mrow></m:math></equation>
+<note id="fs-idp47749920">
+<title>Respuesta:</title>
+<para id="fs-idp47655136">48,3 %</para>
+</note>
+</example>
+<note id="fs-idm21958480" class="chemistry sciences-interconnect">
+<title>Química sostenible y economía atómica</title>
+<para id="fs-idm49080288">El diseño intencionado de productos y procesos químicos que minimizan el uso de sustancias peligrosas para el medio ambiente y la generación de residuos se conoce como <emphasis effect="italics">química sostenible</emphasis>. La química sostenible es un enfoque filosófico que se está aplicando a muchos ámbitos de la ciencia y la tecnología, y su práctica se resume en unas directrices conocidas como los "Doce Principios de la Química Sostenible" (consulte los detalles en este <link url="http://openstax.org/l/16greenchem">sitio web</link>). Uno de los 12 principios está dirigido específicamente a maximizar la eficiencia de los procesos de síntesis de productos químicos. La <emphasis effect="italics">economía atómica</emphasis> de un proceso es una medida de esta eficiencia, definida como el porcentaje en masa del producto final de una síntesis en relación con las masas de <emphasis effect="italics">todos</emphasis> los reactivos utilizados:</para>
+<equation class="unnumbered" id="fs-idp116950848"><m:math><m:mrow><m:mtext>economía atómica</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>masa del producto</m:mtext></m:mrow><m:mrow><m:mtext>masa de los reactivos</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mi> %</m:mi></m:mrow></m:math></equation>
+<para id="fs-idp59920960">Aunque la definición de economía atómica parece a primera vista muy similar a la del porcentaje de rendimiento, hay que tener en cuenta que esta propiedad representa una diferencia en las eficiencias <emphasis effect="italics">teóricas</emphasis> de los <emphasis effect="italics">distintos</emphasis> procesos químicos. El porcentaje de rendimiento de un proceso químico determinado, por otra parte, evalúa la eficiencia de un proceso comparando el rendimiento del producto realmente obtenido con el rendimiento máximo previsto por la estequiometría.</para>
+<para id="fs-idp167996000">La síntesis del analgésico común de venta libre, el ibuprofeno, ilustra muy bien el éxito de un enfoque de química sostenible (<link target-id="CNX_Chem_04_04_GreenChem"/>). Comercializado por primera vez a principios de la década de 1960, el ibuprofeno se producía mediante una síntesis de seis pasos que requería 514 g de reactivos para generar cada mol (206 g) de ibuprofeno, lo que supone una economía atómica del 40%. En la década de 1990, la empresa BHC (ahora BASF Corporation) desarrolló un proceso alternativo que solo requiere tres pasos y tiene una economía atómica de ~80%, casi el doble que el proceso original. El proceso BHC genera muchos menos residuos químicos, utiliza materiales menos peligrosos y reciclables y supone un importante ahorro de costes para el fabricante (y, posteriormente, para el consumidor). En reconocimiento al impacto medioambiental positivo del proceso BHC, la empresa recibió el premio Greener Synthetic Pathways de la Agencia de Protección Medioambiental en 1997.</para>
+<figure id="CNX_Chem_04_04_GreenChem" class="scaled-down">
+<media id="fs-idp994368" alt="Esta figura está etiquetada como &quot;a&quot; y &quot;b&quot;. La parte a muestra un frasco abierto de ibuprofeno y una pequeña pila de pastillas de ibuprofeno al lado. La parte b muestra una reacción junto con estructuras lineales. La primera estructura lineal parece una línea diagonal que apunta hacia abajo y hacia la derecha, luego hacia arriba y hacia la derecha y luego hacia abajo y hacia la derecha. En este punto se conecta a un hexágono con dobles enlaces alternos. En la primera inserción hay una línea que apunta hacia abajo. Desde esta estructura, hay una flecha que apunta hacia abajo. La flecha está etiquetada, &quot;H F&quot;, a la izquierda y &quot;( C H subíndice 3 C O ) subíndice 2 O&quot;, a la derecha. La siguiente estructura lineal es exactamente igual que la primera, pero tiene una línea en ángulo hacia abajo y hacia la derecha desde el punto inferior derecho del hexágono. Esta línea está conectada a otra línea que apunta directamente hacia abajo. Donde estas dos líneas se encuentran, hay un doble enlace con un átomo de O. Hay otra flecha que apunta hacia abajo, y está etiquetada como &quot;H subíndice 2, Raney N i&quot;. La siguiente estructura es muy similar a la segunda estructura anterior, excepto que en lugar del O de doble enlace, hay un grupo O H de enlace simple. Hay una flecha de reacción final que apunta hacia abajo, y está etiquetada, &quot;C O, [ P d ]&quot;. La estructura final es similar a la tercera estructura anterior, excepto que en lugar del grupo O H, hay otra línea que apunta hacia abajo y hacia la derecha a un grupo O H. En estas dos líneas, hay un doble enlace O.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_04_GreenChem.jpg"/>
+</media>
+<caption>(a) El ibuprofeno es un popular analgésico de venta libre que se suele vender en forma de comprimidos de 200 mg. (b) El proceso BHC para sintetizar ibuprofeno solo requiere tres pasos y presenta una impresionante economía atómica. (crédito a: modificación del trabajo de Derrick Coetzee)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-idm64875168" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm5314032">Cuando las reacciones se llevan a cabo utilizando cantidades de reactivos inferiores a las estequiométricas, la cantidad de producto generado vendrá determinada por el reactivo limitante. La cantidad de producto generado por una reacción química es su rendimiento real. Este rendimiento suele ser inferior a la cantidad de producto prevista por la estequiometría de la ecuación química balanceada que representa la reacción (su rendimiento teórico). El grado en que una reacción genera la cantidad teórica de producto se expresa como su porcentaje de rendimiento.</para>
+</section>
+<section id="fs-idp36036608" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mtext>porcentaje de rendimiento</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>rendimiento real</m:mtext></m:mrow><m:mrow><m:mtext>rendimiento teórico</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idm49138160" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idm72007808">
+<problem id="fs-idp58837040">
+<para id="fs-idp158025632">Las siguientes cantidades se colocan en un recipiente: 1,5 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>24</sup> átomos de hidrógeno, 1,0 mol de azufre y 88,0 g de oxígeno diatómico.</para>
+<para id="fs-idp10708080">(a) ¿Cuál es la masa total en gramos del grupo de los tres elementos?</para>
+<para id="fs-idm64569408">(b) ¿Cuál es el número total de moles de átomos de los tres elementos?</para>
+<para id="fs-idp46468992">(c) Si la mezcla de los tres elementos forma un compuesto con moléculas que contienen dos átomos de hidrógeno, un átomo de azufre y cuatro átomos de oxígeno, ¿qué sustancia se consume primero?</para>
+<para id="fs-idm56547920">(d) ¿Cuántos átomos de cada elemento restante quedarían sin reaccionar en el cambio descrito en (c)?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm48529264">
+<problem id="fs-idp11141376">
+<para id="fs-idp101303920">¿Cuál es el reactivo limitante en una reacción que produce cloruro de sodio a partir de 8 g de sodio y 8 g de cloro diatómico?</para>
+</problem>
+<solution id="fs-idp69899344">
+<para id="fs-idp22297728">El reactivo limitante es el Cl2.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm47361200">
+<problem id="fs-idp26308256">
+<para id="fs-idp62729328">¿Cuál de los postulados de la teoría atómica de Dalton explica por qué podemos calcular el rendimiento teórico de una reacción química?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm38653920">
+<problem id="fs-idp98512336">
+<para id="fs-idp10358416">Un estudiante aisló 25 g de un compuesto siguiendo un procedimiento que teóricamente produciría 81 g. ¿Cuál era su porcentaje de rendimiento?</para>
+</problem>
+<solution id="fs-idm45772288">
+<para id="fs-idp46323152">
+<m:math><m:mrow><m:mtext>Porcentaje de rendimiento</m:mtext><m:mo>=</m:mo><m:mtext>31%</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idp61299760">
+<problem id="fs-idp221706336">
+<para id="fs-idp6755168">Una muestra de 0,53 g de dióxido de carbono se obtuvo calentando 1,31 g de carbonato de calcio. ¿Cuál es el porcentaje de rendimiento de esta reacción?</para>
+<para id="fs-idp4609920"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CaCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CaO</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm57693344">
+<problem id="fs-idm6761360">
+<para id="fs-idp5068384">El freón-12, CCl<sub>2</sub>F<sub>2</sub>, se prepara a partir del CCl<sub>4</sub> por reacción con HF. El otro producto de esta reacción es el HCl. Resuma los pasos necesarios para determinar el porcentaje de rendimiento de una reacción que produce 12,5 g de CCl<sub>2</sub>F<sub>2</sub> a partir de 32,9 g de CCl<sub>4</sub>. El freón-12 ha sido prohibido y ya no se utiliza como refrigerante porque cataliza la descomposición del ozono y tiene una vida muy larga en la atmósfera. Determine el porcentaje de rendimiento.</para>
+</problem>
+<solution id="fs-idp215202608">
+<para id="fs-idp59773152"><m:math><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>F</m:mtext><m:mn>2 </m:mn></m:msub><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mtext>porcentaje de rendimiento</m:mtext><m:mo>=</m:mo><m:mtext>48,3 %</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idp99327968">
+<problem id="fs-idm34002944">
+<para id="fs-idp27686272">El ácido cítrico, C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>, componente de mermeladas, jaleas y refrescos afrutados, se prepara industrialmente mediante la fermentación de la sacarosa por el moho <emphasis effect="italics">Aspergillus niger</emphasis>. La ecuación que representa esta reacción es<newline/> <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>22</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>11</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>7</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+<para id="fs-idm8793984">¿Qué masa de ácido cítrico se produce a partir de exactamente 1 tonelada métrica (1000 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>3</sup> kg) de sacarosa si el rendimiento es del 92,30%?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp34342864">
+<problem id="fs-idm26296528">
+<para id="fs-idm48555120">El tolueno, C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>, se oxida con el aire en condiciones cuidadosamente controladas hasta convertirse en ácido benzoico, C<sub>6</sub>H<sub>5</sub>CO<sub>2</sub>H, que se utiliza para preparar el conservante alimentario benzoato sódico, C<sub>6</sub>H<sub>5</sub>CO<sub>2</sub>Na. ¿Cuál es el porcentaje de rendimiento de una reacción que convierte 1000 kg de tolueno en 1,21 kg de ácido benzoico?</para>
+<para id="fs-idp58383920"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp161963872">
+<para id="fs-idm18984464"><m:math><m:mrow><m:mtext>porcentaje de rendimiento</m:mtext><m:mo>=</m:mo><m:mtext>91,3 %</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idm7557120">
+<problem id="fs-idp67978352">
+<para id="fs-idp94004800">En un experimento de laboratorio, la reacción de 3,0 mol de H<sub>2</sub> con 2,0 mol de I<sub>2</sub> produjo 1,0 mol de HI. Determine el rendimiento teórico en gramos y el porcentaje de rendimiento para esta reacción.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm46525040">
+<problem id="fs-idp107511744">
+<para id="fs-idm3264240">Esboce los pasos necesarios para resolver el siguiente problema, y luego haga los cálculos. El éter, (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>O, que se utilizaba originalmente como anestésico pero que ha sido sustituido por medicamentos más seguros y eficaces, se prepara mediante la reacción del etanol con el ácido sulfúrico.</para>
+<para id="fs-idm120301824">2C<sub>2</sub>H<sub>5</sub>OH + H<sub>2</sub>SO<sub>4</sub> ⟶ (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>O + H<sub>2</sub>SO<sub>4</sub>·H<sub>2</sub>O</para><para id="fs-idp39307056">¿Cuál es el porcentaje de rendimiento de éter si se aíslan 1,17 L (d = 0,7134 g/mL) de la reacción de 1,500 L de C<sub>2</sub>H<sub>5</sub>OH<newline/>(d = 0,7894 g/mL)?</para>
+</problem>
+<solution id="fs-idp98805200">
+<para id="fs-idm48114608">Convierta la masa de etanol en moles de etanol; relacione los moles de etanol con los moles de éter producidos utilizando la estequiometría de la ecuación balanceada. Convierta los moles de éter en gramos; divida los gramos reales de éter (determinados mediante la densidad) por la masa teórica para determinar el porcentaje de rendimiento; 87,6%</para>
+</solution>
+</exercise>
+<exercise id="fs-idm43326768">
+<problem id="fs-idp52880736">
+<para id="fs-idp68715040">Resuma los pasos necesarios para determinar el reactivo limitante cuando se queman 30,0 g de propano, C<sub>3</sub>H<sub>8</sub>, con 75,0 g de oxígeno.</para><para id="fs-idp201350320">Determine el reactivo limitante.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm49726752">
+<problem id="fs-idp65728368">
+<para id="fs-idp101414208">Resuma los pasos necesarios para determinar el reactivo limitante cuando 0,50 mol de Cr y 0,75 mol de H<sub>3</sub>PO<sub>4</sub> reaccionan según la siguiente ecuación química.<newline/> <m:math><m:mrow><m:mn>2</m:mn><m:mtext>Cr</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CrPO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></para><para id="fs-idm522144">Determine el reactivo limitante.</para>
+</problem>
+<solution id="fs-idp31491504">
+<para id="fs-idm38791728">La conversión necesaria es <m:math><m:mrow><m:mtext>mol de Cr</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math> A continuación, compare la cantidad de Cr con la cantidad de ácido presente. El Cr es el reactivo limitante.</para></solution>
+</exercise>
+<exercise id="fs-idm21873728">
+<problem id="fs-idp26219728">
+<para id="fs-idp47839312">¿Cuál es el reactivo limitante cuando 1,50 g de litio y 1,50 g de nitrógeno se combinan para formar nitruro de litio, un componente de las baterías avanzadas, según la siguiente ecuación desbalanceada?<newline/> <m:math><m:mrow><m:mtext>Li</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Li</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>N</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp70668864">
+<problem id="fs-idm47524112">
+<para id="fs-idp62392768">El uranio puede aislarse de sus minerales disolviéndolo como UO<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub> y separándolo después como UO<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)-3H<sub>2</sub>O sólido. La adición de 0,4031 g de oxalato de sodio, Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub>, a una solución que contiene 1,481 g de nitrato de uranilo, UO<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub>, produce 1,073 g de UO<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>) 3H<sub>2</sub>O sólido.</para><para id="fs-idm72766640">Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub> + UO<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub> + 3H<sub>2</sub>O ⟶ UO<sub>2</sub>(C<sub>2</sub>O<sub>4</sub>)·3H<sub>2</sub>O + 2NaNO<sub>3</sub></para>
+<para id="fs-idp232896464">Determine el reactivo limitante y el porcentaje de rendimiento de esta reacción.</para>
+</problem>
+<solution id="fs-idp91587744"><para id="fs-idp74993536">El Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub> es el reactivo limitante. Porcentaje de rendimiento = 86,56%</para></solution>
+</exercise>
+<exercise id="fs-idm574992">
+<problem id="fs-idm64892416">
+<para id="fs-idm51429104">¿Cuántas moléculas de C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub> se pueden preparar a partir de 15 moléculas de C<sub>2</sub>H<sub>4</sub> y 8 moléculas de Cl<sub>2</sub>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm71853216">
+<problem id="fs-idp98807392">
+<para id="fs-idp16595856">¿Cuántas moléculas del edulcorante sacarina se pueden preparar a partir de 30 átomos de C, 25 átomos de H, 12 átomos de O, 8 átomos de S y 14 átomos de N?</para>
+<media id="fs-idp36082896" alt="Se muestra una fórmula estructural. Un anillo hexagonal de 6 átomos de C con dobles enlaces alternos tiene átomos de H simples unidos a cuatro átomos de C consecutivos en el lado izquierdo del anillo. Los dos átomos de C del lado derecho del anillo, que están unidos por un doble enlace, también están incluidos en un anillo de 5 átomos a su derecha. El átomo de C del par que está más cerca de la parte superior de la estructura está unido individualmente a un átomo de C en la parte superior del anillo de 5 átomos que tiene un átomo de O con doble enlace por encima. Un átomo de N está unido individualmente a la parte inferior derecha de este mismo átomo de C. El átomo de N tiene un átomo de H unido a su derecha y en su parte inferior izquierda está unido a un átomo de S. El átomo de S está conectado al segundo átomo de C que se comparte en los dos anillos. El átomo de S también tiene doble enlace a un átomo de O en su parte inferior derecha y tiene doble enlace a un segundo átomo de O directamente debajo de él.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_04_saccharin_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp30000464"><para id="fs-idp81228400">Solo se pueden fabricar cuatro moléculas.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp41861648">
+<problem id="fs-idp130711232">
+<para id="fs-idm1521280">El pentóxido de fósforo utilizado para producir ácido fosfórico para los refrescos de cola se prepara quemando fósforo en oxígeno.</para>
+<para id="fs-idm55530368">(a) ¿Cuál es el reactivo limitante cuando 0,200 mol de P<sub>4</sub> y 0,200 mol de O<sub>2</sub> reaccionan según <m:math><m:mrow><m:msub><m:mtext>P</m:mtext><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>P</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>10</m:mn></m:mrow></m:msub></m:mrow></m:math></para>
+<para id="fs-idp39236672">(b) Calcule el porcentaje de rendimiento si se aíslan 10,0 g de P<sub>4</sub>O<sub>10</sub> de la reacción.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm19471568">
+<problem id="fs-idp215625584">
+<para id="fs-idp8946384">¿Aceptaría usted comprar 1 billón (1 000 000 000 000) de átomos de oro por 5 dólares? Explique por qué o por qué no. Encuentre el precio actual del oro en http://money.cnn.com/data/commodities/ <m:math><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>1 onza troy</m:mtext><m:mo>=</m:mo><m:mtext>31,1 g</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp17552400"><para id="fs-idp8960064">Esta cantidad no puede ser ponderada por los saldos ordinarios y carece de valor.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm47393392">
+<term>rendimiento real</term>
+<meaning id="fs-idp169189008">cantidad de producto formado en una reacción
+</meaning>
+</definition>
+<definition id="fs-idm46343008">
+<term>exceso de reactivo</term>
+<meaning id="fs-idp169769328">reactivo presente en una cantidad superior a la requerida por la estequiometría de la reacción
+</meaning>
+</definition>
+<definition id="fs-idp182610272">
+<term>reactivo limitante</term>
+<meaning id="fs-idp67500512">reactivo presente en una cantidad inferior a la requerida por la estequiometría de la reacción, limitando así la cantidad de producto generado</meaning>
+</definition>
+<definition id="fs-idp51447712">
+<term>porcentaje de rendimiento</term>
+<meaning id="fs-idp172539984">medida de la eficacia de una reacción, expresada en porcentaje del rendimiento teórico
+</meaning>
+</definition>
+<definition id="fs-idp30967968">
+<term>rendimiento teórico</term>
+<meaning id="fs-idm94035648">cantidad de producto que puede obtenerse a partir de una cantidad determinada de reactivo(s) según la estequiometría de la reacción</meaning>
+</definition>
+</glossary>
+</document>

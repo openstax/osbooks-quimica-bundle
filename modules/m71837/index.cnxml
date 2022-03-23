@@ -1,0 +1,29 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introducción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71837</md:content-id>
+  <md:title>Introducción</md:title>
+  <md:abstract><list>
+<item>Tasas de reacciones químicas</item>
+<item>Factores que afectan las tasas de reacción</item>
+<item>Leyes de velocidad</item>
+<item>Leyes de tasas integradas</item>
+<item>Teoría de colisiones</item>
+<item>Mecanismos de reacción</item>
+<item>Catálisis</item>
+</list></md:abstract>
+  <md:uuid>9d111d7d-7cb8-4688-9cd2-46774c477da9</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_12_00_Ectotherm" class="splash">
+<media id="fs-idm5395072" alt="Una fotografía muestra la cabeza y parte del cuerpo de un lagarto sobre una roca en una zona bien iluminada.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_00_Ectotherm.jpg"/>
+</media>
+<caption>Un lagarto agama toma el sol. A medida que su cuerpo se calienta, las reacciones químicas de su metabolismo se aceleran.</caption>
+</figure>
+<para id="fs-idp115543984">El lagarto de la fotografía no está simplemente disfrutando del sol o trabajando en su bronceado. El calor de los rayos del sol es fundamental para la supervivencia del lagarto. Un lagarto caliente puede moverse más rápido que uno frío porque las reacciones químicas que permiten que sus músculos se muevan ocurren más rápidamente a temperaturas más altas. Un lagarto frío es un lagarto más lento y una comida más fácil para los depredadores.</para>
+<para id="eip-894">Desde la cocción de un pastel hasta la determinación de la vida útil de un puente, las tasas de las reacciones químicas desempeñan un papel importante en nuestra comprensión de los procesos que implican cambios químicos. Cuando se planea llevar a cabo una reacción química se suelen plantear dos preguntas. La primera es: "¿La reacción producirá los productos deseados en cantidades útiles?" La segunda pregunta es: "¿Con qué rapidez se producirá la reacción?" A menudo se plantea una tercera pregunta cuando se investigan las reacciones con más detalle: "¿Qué procesos específicos a nivel molecular tienen lugar mientras se produce la reacción?" Conocer la respuesta a esta pregunta tiene una importancia práctica cuando es necesario controlar el rendimiento o la tasa de una reacción.</para>
+<para id="fs-idp260947472">El estudio de la cinética química se refiere a la segunda y tercera preguntas, es decir, a la tasa a la que una reacción da lugar a productos y a los medios a escala molecular por los que se produce una reacción. En este capítulo se examinan los factores que influyen en las tasas de las reacciones químicas, los mecanismos por los que se producen las reacciones y las técnicas cuantitativas utilizadas para describir las tasas a las que se producen las reacciones.</para>
+ </content>
+</document>

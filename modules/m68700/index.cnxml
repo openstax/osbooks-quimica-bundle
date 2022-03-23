@@ -1,0 +1,572 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>La fórmula de masa y el concepto de mol</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68700</md:content-id>
+  <md:title>La fórmula de masa y el concepto de mol</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Calcular las fórmulas de masa de los compuestos covalentes e iónicos.</item>
+<item>Definir la unidad de cantidad molar y la cantidad relacionada número de Avogadro. Explicar la relación entre la masa, los moles y el número de átomos o moléculas, y realizar cálculos que relacionen estas cantidades entre sí.</item>
+</list></md:abstract>
+  <md:uuid>daaceb82-341e-496e-a8b9-acd8fa32d9f7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm28512">Muchos sostienen que la ciencia química moderna comenzó cuando los científicos empezaron a explorar los aspectos cuantitativos y cualitativos de la química. Por ejemplo, la teoría atómica de Dalton fue un intento de explicar los resultados de las mediciones que le permitieron calcular las masas relativas de los elementos combinados en diversos compuestos. Entender la relación entre las masas de los átomos y las fórmulas químicas de los compuestos nos permite describir cuantitativamente la composición de las sustancias.</para>
+<section id="fs-idm30815968">
+<title>Fórmula de masa</title>
+<para id="fs-idp76705136">En un capítulo anterior de este texto se describía el desarrollo de la unidad de masa atómica, el concepto de masas atómicas medias y el uso de fórmulas químicas para representar la composición elemental de las sustancias. Estas ideas pueden ampliarse para calcular la <term>fórmula de masa</term> de una sustancia sumando las masas atómicas medias de todos los átomos representados en la fórmula de la sustancia.</para>
+<section id="fs-idp16940464">
+<title>Fórmula de masa de las sustancias covalentes</title>
+<para id="fs-idp128238864">En el caso de las sustancias covalentes, la fórmula representa el número y el tipo de átomos que componen una única molécula de la sustancia; por tanto, la fórmula de masa puede denominarse correctamente masa molecular. Pensemos en el cloroformo (CHCl<sub>3</sub>), un compuesto covalente que en su día se utilizaba como anestesia quirúrgica y que ahora se emplea principalmente en la producción de tetrafluoroetileno, el componente básico del polímero "antiadherente", el teflón. La fórmula molecular del cloroformo indica que una sola molécula contiene un átomo de carbono, uno de hidrógeno y tres de cloro. La masa molecular media de una molécula de cloroformo es, por tanto, igual a la suma de las masas atómicas medias de estos átomos. La <link target-id="CNX_Chem_03_01_chloroform"/> resume los cálculos utilizados para obtener la masa molecular del cloroformo, que es de 119,37 u.</para><figure id="CNX_Chem_03_01_chloroform"><media id="fs-idp71460256" alt="Se muestran una tabla y un diagrama. La tabla se compone de seis columnas y cinco filas. La fila de encabezado dice: &quot;Elemento&quot;, &quot;Cantidad&quot;, un espacio en blanco, &quot;Masa atómica media (u)&quot;, un espacio en blanco y &quot;Subtotal (u)”. La primera columna contiene los símbolos &quot;C&quot;, &quot;H&quot;, &quot;C l&quot; y una celda en blanco y combinada que recorre el ancho de las cinco primeras columnas. La segunda columna contiene los números &quot;1&quot;, &quot;1&quot; y &quot;3&quot;, así como la celda combinada. La tercera columna contiene el símbolo de la multiplicación en cada celda, excepto en la última celda combinada. La cuarta columna contiene los números &quot;12,01&quot;, &quot;1,008&quot; y &quot;35,45&quot;, así como la celda combinada. La quinta columna contiene el símbolo &quot;=&quot; en cada celda, excepto en la última celda combinada. La sexta columna contiene los valores &quot;12,01&quot;, &quot;1,008&quot;, &quot;106,35&quot; y &quot;119,37”. Hay una línea negra gruesa debajo del número 106,35. La celda combinada bajo las cinco primeras columnas dice &quot;Masa molecular”. A la derecha de la tabla hay un diagrama de una molécula. Tres esferas verdes están unidas a una esfera negra un poco más pequeña, que a su vez está unida a una esfera blanca más pequeña. Las esferas verdes se sitúan debajo y a los lados de la esfera negra, mientras que la esfera blanca se encuentra directamente arriba de la esfera negra.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_chloroform.jpg"/>
+</media>
+<caption>La masa media de una molécula de cloroformo, CHCl<sub>3</sub>, es de 119,37 u, que es la suma de las masas atómicas medias de cada uno de sus átomos constituyentes. El modelo muestra la estructura molecular del cloroformo.</caption></figure><para id="fs-idp139124096">Asimismo, la masa molecular de una molécula de aspirina, C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>, es la suma de las masas atómicas de nueve átomos de carbono, ocho átomos de hidrógeno y cuatro átomos de oxígeno, que asciende a 180,15 u (<link target-id="CNX_Chem_03_01_aspirin"/>).</para>
+<figure id="CNX_Chem_03_01_aspirin"><media id="fs-idp41603456" alt="Se muestran una tabla y un diagrama. La tabla se compone de seis columnas y cinco filas. La fila de encabezado dice: &quot;Elemento&quot;, &quot;Cantidad&quot;, un espacio en blanco, &quot;Masa atómica media (u)&quot;, un espacio en blanco y &quot;Subtotal (u)”. La primera columna contiene los símbolos &quot;C&quot;, &quot;H&quot;, &quot;O&quot; y una celda combinada. La celda combinada tiene la longitud de las cinco primeras columnas. La segunda columna contiene los números &quot;9&quot;, &quot;8&quot; y &quot;4&quot;, así como la celda combinada. La tercera columna contiene el símbolo de la multiplicación en cada celda, excepto en la última celda combinada. La cuarta columna contiene los números &quot;12,01&quot;, &quot;1,008&quot; y &quot;16,00&quot;, así como la celda combinada. La quinta columna contiene el símbolo &quot;=&quot; en cada celda, excepto en la última celda combinada. La sexta columna contiene los valores: &quot;108,09&quot;, &quot;8,064&quot;, &quot;64,00&quot; y &quot;180,15”. Hay una línea negra gruesa debajo del número 64,00. La celda combinada bajo las cinco primeras columnas dice &quot;Masa molecular”. A la derecha de la tabla hay un diagrama de una molécula. Seis esferas negras están situadas en un anillo de seis lados y conectadas por doble enlaces negros y enlaces simples alternativamente. A cada una de las cuatro esferas negras se une una esfera blanca más pequeña. A la esfera negra más alejada de la derecha se une una esfera roja, conectada a otras dos esferas negras, todas en fila. Junto a la última esfera negra de esa fila hay otras dos esferas blancas. Unida a la primera esfera negra de esa fila hay otra esfera roja. Una esfera negra, unida a dos esferas rojas y una esfera blanca está unida a la esfera negra en la parte superior derecha del anillo de seis lados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_aspirin-859b.jpg"/>
+</media>
+<caption>La masa media de una molécula de aspirina es de 180,15 u. El modelo muestra la estructura molecular de la aspirina, C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>.</caption></figure><example id="fs-idp17719968"><para id="fs-idp1127280"><title>Calcular la masa molecular de un compuesto covalente</title>
+El ibuprofeno, C<sub>13</sub>H<sub>18</sub>O<sub>2</sub>, es un compuesto covalente y el ingrediente activo de varios medicamentos populares para el dolor sin receta, como Advil y Motrin. ¿Cuál es la masa molecular (u) de este compuesto?</para>
+<para id="fs-idm3892496"><title>Solución</title>
+Las moléculas de este compuesto están formadas por 13 átomos de carbono, 18 de hidrógeno y 2 de oxígeno. Siguiendo el enfoque descrito anteriormente, la masa molecular media de este compuesto es, por lo tanto, de:</para>
+<media id="fs-idm9191936" alt="Se muestra una tabla formada por seis columnas y cinco filas. La fila de encabezado dice: &quot;Elemento&quot;, &quot;Cantidad&quot;, un espacio en blanco, &quot;Masa atómica media (u)&quot;, un espacio en blanco y &quot;Subtotal (u)”. La primera columna contiene los símbolos &quot;C&quot;, &quot;H&quot;, &quot;O&quot; y una celda combinada. La celda combinada tiene la longitud de las cinco primeras columnas. La segunda columna contiene los números &quot;13&quot;, &quot;8&quot; y &quot;2&quot;, así como la celda combinada. La tercera columna contiene el símbolo de la multiplicación en cada celda, excepto en la última celda combinada. La cuarta columna contiene los números &quot;12,01&quot;, &quot;1,008&quot; y &quot;16,00&quot;, así como la celda combinada. La quinta columna contiene el símbolo &quot;=&quot; en cada celda, excepto en la última celda combinada. La sexta columna contiene los valores &quot;156,13&quot;, &quot;18,114&quot;, &quot;32,00&quot; y &quot;206,27”. Hay una línea negra gruesa debajo del número 32,00. La celda combinada bajo las cinco primeras columnas dice &quot;Masa molecular”. A la derecha se ve un modelo de barras y esferas de la estructura. En el centro, muestra seis esferas negras dispuestas en un anillo de seis lados con dobles enlaces alternados. Las dos esferas negras de la parte superior e inferior del anillo de seis lados están enlazadas a una esfera blanca más pequeña. La esfera negra del lado izquierdo del anillo de seis lados está conectada a otra esfera negra. Esta esfera está conectada a dos esferas blancas más pequeñas y a otra esfera negra. Esta esfera negra está conectada a una esfera blanca más pequeña y a otras dos esferas negras. Cada una de estas dos últimas esferas negras está conectada a dos esferas blancas más pequeñas. La esfera negra del lado derecho del anillo de seis lados está conectada a otra esfera negra. Esta esfera negra está conectada a una esfera blanca más pequeña y a otras dos esferas negras. La esfera negra que está conectada a ella y está situada arriba a la derecha está conectada a dos esferas blancas más pequeñas. La esfera negra conectada hacia la parte inferior derecha está conectada a dos esferas rojas. Forma un doble enlace con una de estas esferas rojas y la otra esfera roja está conectada a una esfera blanca más pequeña.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_ibuprofenmass_img.jpg"/>
+</media>
+<para id="fs-idm58442752">
+<title>Compruebe lo aprendido</title>
+El acetaminofén, C<sub>8</sub>H<sub>9</sub>NO<sub>2</sub>, es un compuesto covalente y el ingrediente activo de varios medicamentos populares para el dolor sin receta, como Tylenol. ¿Cuál es la masa molecular (u) de este compuesto?</para>
+<note id="fs-idp13703888"><title>Respuesta:</title>
+<para id="fs-idm8152064">151,16 u</para></note>
+</example></section>
+<section id="fs-idm60917056">
+<title>Fórmula de masa de los compuestos iónicos</title>
+<para id="fs-idp13429376">Los compuestos iónicos están formados por cationes y aniones discretos combinados en proporciones que dan lugar a una materia masiva eléctricamente neutra. La fórmula de masa de un compuesto iónico se calcula de la misma manera que la fórmula de masa de los compuestos covalentes: sumando las masas atómicas medias de todos los átomos de la fórmula del compuesto. Sin embargo, hay que tener en cuenta que la fórmula de un compuesto iónico no representa la composición de una molécula discreta, por lo que no puede denominarse correctamente "masa molecular”.</para>
+<para id="fs-idm4173824">Como ejemplo, consideremos el cloruro de sodio, NaCl, el nombre químico de la sal de mesa común. El cloruro de sodio es un compuesto iónico formado por cationes de sodio, Na<sup>+</sup>, y aniones de cloruro, Cl<sup>-</sup>, combinados en una relación 1:1. La fórmula de masa de este compuesto se calcula en 58,44 u (vea la <link target-id="CNX_Chem_03_01_saltMass"/>).</para>
+<figure id="CNX_Chem_03_01_saltMass"><media id="fs-idm4901808" alt="Se muestran una tabla y un diagrama. La tabla se compone de seis columnas y cuatro filas. La fila de encabezado dice: &quot;Elemento&quot;, &quot;Cantidad&quot;, un espacio en blanco, &quot;Masa atómica media (u)&quot;, un espacio en blanco y &quot;Subtotal (u)&quot;. La primera columna contiene los símbolos &quot;N a&quot;, &quot;C l&quot; y una celda combinada. La celda combinada tiene la longitud de las cinco primeras columnas. La segunda columna contiene los números &quot;1&quot; y &quot;1&quot;, así como la celda combinada. La tercera columna contiene el símbolo de la multiplicación en cada celda, excepto en la última celda combinada. La cuarta columna contiene los números &quot;22,99&quot; y &quot;35,45&quot;, así como la celda combinada. La quinta columna contiene el símbolo &quot;=&quot; en cada celda, excepto en la última celda combinada. La sexta columna contiene los valores &quot;22,99&quot;, &quot;35,45&quot; y &quot;58,44&quot;. Hay una línea negra gruesa debajo del número &quot;35,45&quot;. La celda combinada bajo las cinco primeras columnas dice &quot;fórmula de masa”. A la derecha de la tabla hay un diagrama de una estructura química. El diagrama muestra esferas verdes y púrpuras colocadas en un patrón alternado, formando las esquinas de ocho cubos apilados para formar un cubo más grande. Las esferas verdes son ligeramente más pequeñas que las púrpura.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_saltMass.jpg"/>
+</media>
+<caption>La sal de mesa, NaCl, contiene un conjunto de iones de sodio y cloruro combinados en una relación de 1:1. Su fórmula de masa es de 58,44 u.</caption></figure><para id="fs-idm31455504">Observe que en este cálculo se han utilizado las masas medias de los átomos neutros de sodio y cloro, en lugar de las masas de los cationes de sodio y los aniones de cloro. Este enfoque es perfectamente aceptable cuando se calcula la fórmula de masa de un compuesto iónico. Aunque un catión de sodio tiene una masa ligeramente menor que un átomo de sodio (ya que le falta un electrón), esta diferencia se verá compensada por el hecho de que un anión de cloruro es ligeramente más masivo que un átomo de cloruro (debido al electrón extra). Además, la masa de un electrón es insignificante con respecto a la masa de un átomo típico. Incluso cuando se calcula la masa de un ion aislado, los electrones faltantes o adicionales pueden generalmente ignorarse, ya que su contribución a la masa total es insignificante, reflejándose solo en los dígitos no significativos que se perderán al redondear adecuadamente la masa calculada. Las pocas excepciones a esta norma son los iones muy ligeros derivados de elementos con masas atómicas conocidas con precisión.</para>
+<example id="fs-idm73270640"><para id="fs-idm19285728"><title>Calcular la fórmula de masa de un compuesto iónico</title>
+El sulfato de aluminio, Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>, es un compuesto iónico que se utiliza en la fabricación de papel y en diversos procesos de purificación del agua. ¿Cuál es la fórmula de masa (u) de este compuesto?</para>
+<para id="fs-idm31510704"><title>Solución</title>
+La fórmula de este compuesto indica que contiene iones Al<sup>3+</sup> y SO<sub>4</sub><sup>2-</sup> combinados en una relación 2:3. Para calcular la fórmula de masa, es útil reescribir la fórmula en el formato más simple, Al<sub>2</sub>S<sub>3</sub>O<sub>12</sub>. Siguiendo el enfoque descrito anteriormente, la fórmula de masa de este compuesto se calcula de la siguiente manera:</para>
+<media id="fs-idm34238496" alt="Se muestra una tabla formada por seis columnas y cinco filas. La fila de encabezado dice: &quot;Elemento&quot;, &quot;Cantidad&quot;, un espacio en blanco, &quot;Masa atómica media (u)&quot;, un espacio en blanco y &quot;Subtotal (u)”. La primera columna contiene los símbolos &quot;A l&quot;, &quot;S&quot;, &quot;O&quot; y una celda combinada. La celda combinada tiene la longitud de las cinco primeras columnas. La segunda columna contiene los números &quot;2&quot;, &quot;3&quot; y &quot;12&quot;, así como la celda combinada. La tercera columna contiene el símbolo de la multiplicación en cada celda, excepto en la última celda combinada. La cuarta columna contiene los números &quot;26,98&quot;, &quot;32,06&quot; y &quot;16,00&quot;, así como la celda combinada. La quinta columna contiene el símbolo &quot;=&quot; en cada celda, excepto en la última celda combinada. La sexta columna contiene los valores &quot;53,96&quot;, &quot;96,18&quot;, &quot;192,00&quot; y &quot;342,14”. Hay una línea negra gruesa bajo el número 192,00. La celda combinada bajo las cinco primeras columnas dice &quot;Masa molecular”. A la derecha de esta tabla hay una estructura de barras y esferas. Muestra esferas amarillas y grises conectadas a esferas rojas en un patrón complejo. Las esferas amarilla y gris tienen un tamaño similar, pero las rojas parecen ser más pequeñas en comparación.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_alsulfatemass_img-019d.jpg"/>
+</media>
+<para id="fs-idp70748048"><title>Compruebe lo aprendido</title>
+El fosfato de calcio, Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>, es un compuesto iónico y un antiaglomerante muy común que se añade a los productos alimenticios. ¿Cuál es la fórmula de masa (u) del fosfato de calcio?</para>
+<note id="fs-idm5833232"><title>Respuesta:</title>
+<para id="fs-idm33165520">310,18 u</para></note>
+</example></section>
+</section>
+<section id="fs-idp3385536"><title>El mol</title><para id="fs-idm38739232">La identidad de una sustancia se define no solo por los tipos de átomos o iones que contiene, sino por la cantidad de cada tipo de átomo o ion. Por ejemplo, el agua, H<sub>2</sub>O, y el peróxido de hidrógeno, H<sub>2</sub>O<sub>2</sub>, se parecen en que sus respectivas moléculas están compuestas por átomos de hidrógeno y oxígeno. Sin embargo, como una molécula de peróxido de hidrógeno contiene dos átomos de oxígeno, a diferencia de la molécula de agua, que solo tiene uno, ambas sustancias presentan propiedades muy diferentes. Hoy en día, instrumentos sofisticados permiten la medición directa de estos rasgos microscópicos definitorios; sin embargo, los mismos rasgos se derivaron originalmente de la medición de las propiedades macroscópicas (las masas y los volúmenes de las cantidades de materia a granel) utilizando herramientas relativamente simples (balanzas y cristalería volumétrica). Este enfoque experimental requirió la introducción de una nueva unidad para la cantidad de sustancias, el <emphasis effect="italics">mol</emphasis>, que sigue siendo indispensable en la ciencia química moderna.</para>
+<para id="fs-idp4269776">El <emphasis effect="italics">mol</emphasis> es una unidad de cantidad similar a las unidades familiares como el par, la docena, el bruto, etc. Proporciona una medida específica <emphasis effect="italics">del número</emphasis> de átomos o moléculas en una muestra de materia. Una de las connotaciones latinas de la palabra "mol" es "gran masa" o “gran cantidad", lo que coincide con su uso como nombre de esta unidad. El mol proporciona un vínculo entre una propiedad macroscópica fácil de medir, la masa aparente, y una propiedad fundamental extremadamente importante, el número de átomos, moléculas, etc. Un <term>mol</term> de sustancia es la cantidad en la que hay 6,02214076 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> entidades discretas (átomos o moléculas). Este gran número es una constante fundamental conocida como <term>número de Avogadro (<emphasis effect="italics">N<sub>A</sub></emphasis>)</term> o constante de Avogadro en honor al científico italiano Amedeo Avogadro. Esta constante se indica correctamente con una unidad explícita de "por mol", siendo una versión convenientemente redondeada 6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup>/mol.</para><para id="fs-idm42768912">De acuerdo con su definición como unidad de cantidad, 1 mol de cualquier elemento contiene el mismo número de átomos que 1 mol de cualquier otro elemento. Sin embargo, las masas de 1 mol de diferentes elementos son diferentes, ya que las masas de los átomos individuales son drásticamente diferentes. La <term>masa molar</term> de un elemento (o compuesto) es la masa en gramos de 1 mol de esa sustancia, propiedad que se expresa en unidades de gramos por mol (g/mol) (vea la <link target-id="CNX_Chem_03_02_moles"/>).</para>
+<figure id="CNX_Chem_03_02_moles" class="scaled-down">
+<media id="fs-idm272620112" alt="Esta figura contiene ocho sustancias diferentes mostradas en círculos blancos. La cantidad de cada sustancia es visiblemente diferente.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_moles-6296.jpg"/>
+</media>
+<caption>Cada muestra contiene 6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> átomos -1,00 mol de átomos. De izquierda a derecha (fila superior): 65,4 g de zinc, 12,0 g de carbono, 24,3 g de magnesio y 63,5 g de cobre. De izquierda a derecha (fila inferior): 32,1 g de azufre, 28,1 g de silicio, 207 g de plomo y 118,7 g de estaño (créditos: modificación del trabajo de Mark Ott).</caption>
+</figure>
+<para id="fs-idm26436032">La masa molar de cualquier sustancia equivale numéricamente a su peso atómico o de fórmula en u. Según la definición de u, un solo átomo <sup>12</sup>C pesa 12 u (su masa atómica es de 12 u). Un mol de <sup>12</sup>C pesa 12 g (su masa molar es 12 g/mol). Esta relación es válida para todos los elementos, ya que sus masas atómicas se miden en relación con la de la sustancia de referencia de u, <sup>12</sup>C. Ampliando este principio, la masa molar de un compuesto en gramos es igualmente equivalente numéricamente a su fórmula de masa en u (<link target-id="CNX_Chem_03_02_compound"/>).</para><figure id="CNX_Chem_03_02_compound" class="scaled-down"><media id="fs-idm24308080" alt="Esta foto muestra dos viales llenos de un líquido incoloro. También muestra dos cuencos: uno lleno de un polvo blanquecino y otro lleno de un polvo rojo brillante.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_compound.jpg"/>
+</media>
+
+<caption>Cada muestra contiene 6,02 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> moléculas o unidades de fórmula-1,00 mol del compuesto o elemento. En el sentido de las agujas del reloj desde la parte superior izquierda: 130,2 g de C<sub>8</sub>H<sub>17</sub>OH (1-octanol, fórmula de masa 130,2 u), 454,4 g de HgI<sub>2</sub> (yoduro de mercurio(II), fórmula de masa 454,4 u), 32,0 g de CH<sub>3</sub>OH (metanol, fórmula de masa 32,0 u) y 256,5 g de S<sub>8</sub> (azufre, fórmula de masa 256,5 u) (créditos: Sahar Atwa).</caption></figure><table id="fs-idp17650992" class="unnumbered" summary="Se muestra una tabla formada por cuatro columnas y seis filas. La fila de encabezado dice: &quot;Elemento&quot;, &quot;Masa atómica promedio (a m u)&quot;, &quot;Masa molar (g / m o l)&quot; y &quot;Átomos / mol&quot;. La primera columna contiene los símbolos &quot;C&quot;, &quot;H&quot;, &quot;O&quot;, &quot;N a&quot; y &quot;C l&quot;. La segunda columna contiene los valores &quot;12,01&quot;, &quot;1,008&quot;, &quot;16,00&quot;, &quot;22,99&quot; y &quot;35,45&quot;. La tercera columna contiene los valores &quot;12,01&quot;, &quot;1,008&quot;, &quot;16,00&quot;, &quot;22,99&quot; y &quot;33,45&quot;. La última columna contiene el valor &quot;6,022 por 10 superíndice 23&quot; en cada celda."><label/>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="center">Elemento</entry>
+<entry align="center">Masa atómica (u) promedio</entry>
+<entry align="center">Masa molar (g/mol)</entry>
+<entry align="center">Átomos/Mol</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="center">C</entry>
+<entry align="center">12,01</entry>
+<entry align="center">12,01</entry>
+<entry align="center">6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup></entry>
+</row>
+<row valign="top">
+<entry align="center">H</entry>
+<entry align="center">1,008</entry>
+<entry align="center">1,008</entry>
+<entry align="center">6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup></entry>
+</row>
+<row valign="top">
+<entry align="center">O</entry>
+<entry align="center">16,00</entry>
+<entry align="center">16,00</entry>
+<entry align="center">6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup></entry></row>
+<row valign="top">
+<entry align="center">Na</entry>
+<entry align="center">22,99</entry>
+<entry align="center">22,99</entry>
+<entry align="center">6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup></entry></row>
+<row valign="top">
+<entry align="center">Cl</entry>
+<entry align="center">35,45</entry>
+<entry align="center">35,45</entry>
+<entry align="center">6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup></entry></row>
+</tbody>
+
+
+</tgroup>
+</table><para id="fs-idp18068224">Aunque la masa atómica y la masa molar son numéricamente equivalentes, hay que tener en cuenta que son enormemente diferentes en términos de escala, como lo representa la gran diferencia en las magnitudes de sus respectivas unidades (u frente a g). Para apreciar la enormidad del mol, considere una pequeña gota de agua que pesa aproximadamente 0,03 g (vea la <link target-id="CNX_Chem_03_02_water"/>). Aunque esto representa solo una pequeña fracción de 1 mol de agua (~18 g), contiene más moléculas de agua de las que se pueden imaginar claramente. Si las moléculas se distribuyeran por igual entre los aproximadamente siete mil millones de habitantes de la Tierra, cada persona recibiría más de 100 mil millones de moléculas.</para>
+<figure id="CNX_Chem_03_02_water" class="scaled-down">
+<media id="fs-idm47391008" alt="Se muestra un primer plano de una gota de agua en una hoja. La gota de agua no es perfectamente esférica.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_water.jpg"/>
+</media>
+<caption>El número de moléculas en una sola gota de agua es aproximadamente 100.000 millones de veces mayor que el número de personas en la Tierra (créditos: "tanakawho"/Wikimedia commons).</caption>
+</figure>
+<note id="fs-idm10521392" class="chemistry link-to-learning">
+<para id="fs-idp18455776">El mol se utiliza en química para representar 6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> de algo, pero puede ser difícil conceptualizar un número tan grande. Vea este <link url="http://openstax.org/l/16molevideo">video</link> y luego complete las preguntas “para pensar" que siguen. Explore más sobre el mol revisando la información en "Dig Deeper" ("Profundizar en el tema").</para>
+</note>
+<para id="fs-idm4828384">Las relaciones entre la fórmula de masa, el mol y el número de Avogadro pueden aplicarse para calcular diversas cantidades que describen la composición de sustancias y compuestos, como se demuestra en los siguientes problemas de ejemplo.</para>
+<example id="fs-idp76540048">
+<para id="fs-idp15725488"><title>Cálculo de los moles a partir de los gramos de un elemento</title>
+Según las normas nutricionales del Departamento de Agricultura de los EE. UU., la necesidad media estimada de potasio en la dieta es de 4,7 g. ¿Cuál es la necesidad media estimada de potasio en moles?</para>
+<para id="fs-idm16014480"><title>Solución</title>
+Se proporciona la masa de K y se solicita la cantidad correspondiente de K en moles. En la tabla periódica, la masa atómica del K es de 39,10 u, por lo que su masa molar es de 39,10 g/mol. La masa dada de K (4,7 g) es un poco más de una décima parte de la masa molar (39,10 g), por lo que una estimación razonable del número de moles sería ligeramente superior a 0,1 mol.</para>
+<para id="fs-idm1867456">La cantidad molar de una sustancia puede calcularse dividiendo su masa (g) entre su masa molar (g/mol):</para>
+<media id="fs-idm11797312" class="scaled-down" alt="Se muestra un diagrama de dos recuadros conectados por una flecha hacia la derecha. El recuadro de la izquierda contiene la frase &quot;Masa de átomos de K ( g )&quot; mientras que el de la derecha contiene la frase &quot;Moles de átomos de K ( mol )”. Hay una frase debajo de la flecha que dice: &quot;Dividir entre la masa molar (g / mol)”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_potassium_img-f1d1.jpg"/>
+</media>
+<para id="fs-idp14697696">El método de factores de conversión admite este enfoque matemático, ya que la unidad "g" se cancela y la respuesta tiene unidades de “mol”.</para>
+<equation id="fs-idp8892544" class="unnumbered"><m:math><m:mrow><m:mn>4,7</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext></m:menclose><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>K</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>mol K</m:mtext></m:mrow><m:mrow><m:mn>39,10</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g K</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,12</m:mn><m:mspace width="0.2em"/><m:mtext>mol K</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm29254000">La magnitud calculada (0,12 mol K) es coherente con nuestra expectativa aproximada, ya que es un poco mayor que 0,1 mol.</para>
+<para id="fs-idm33771376"><title>Compruebe lo aprendido</title>
+El berilio es un metal ligero que se utiliza para fabricar ventanas transparentes de rayos X para instrumentos de imagen médica. ¿Cuántos moles de Be hay en una ventana de lámina delgada que pesa 3,24 g?</para>
+<note id="fs-idp73845104"><title>Respuesta:</title>
+<para id="fs-idm9505408">0,360 mol</para></note>
+</example>
+<example id="fs-idp15853040">
+<para id="fs-idp15452464"><title>Calcular los gramos a partir de los moles de un elemento</title>
+Un litro de aire contiene 9,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>-4</sup> mol de argón. ¿Cuál es la masa de Ar en un litro de aire?</para>
+<para id="fs-idm19496816"><title>Solución</title>
+Se proporciona la cantidad molar de Ar y debe utilizarse para calcular la masa correspondiente en gramos. Como la cantidad de Ar es inferior a 1 mol, la masa será inferior a la masa de 1 mol de Ar, aproximadamente 40 g. La cantidad molar es aproximadamente una milésima (~10<sup>-3</sup>) de un mol, por lo que la masa correspondiente debería ser aproximadamente una milésima de la masa molar (~0,04 g):</para>
+<media id="fs-idp10919328" class="scaled-down" alt="Se muestra un diagrama de dos recuadros conectados por una flecha hacia la derecha. El recuadro de la izquierda contiene la frase &quot;Moles de átomos de A r ( mol )&quot; mientras que el de la derecha contiene la frase &quot;Masa de átomos de A r ( g )”. Hay una frase debajo de la flecha que dice &quot;Multiplicar por la masa molar ( g / mol )”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_argon_img-9025.jpg"/>
+</media>
+<para id="fs-idm1982944">En este caso, la lógica dicta (y el método de factores de conversión apoya) multiplicar la cantidad proporcionada (mol) por la masa molar (g/mol):</para>
+<equation id="fs-idp10617648" class="unnumbered"><m:math><m:mrow><m:mn>9,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>Ar</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>39,95</m:mn><m:mspace width="0.2em"/><m:mtext>g de Ar</m:mtext></m:mrow><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mspace width="0.2em"/><m:mtext>Ar</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,037</m:mn><m:mspace width="0.2em"/><m:mtext>g de Ar</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm31048000">El resultado está de acuerdo con nuestras expectativas, alrededor de 0,04 g de Ar.</para>
+<para id="fs-idm25528064"><title>Compruebe lo aprendido</title>
+¿Cuál es la masa de 2,561 mol de oro?</para>
+<note id="fs-idm64655584"><title>Respuesta:</title>
+<para id="fs-idp11414864">504,4 g</para></note>
+</example>
+<example id="fs-idm8741648">
+<para id="fs-idm24646960"><title>Calcular el número de átomos a partir de la masa de un elemento</title>
+El cobre se utiliza habitualmente para fabricar cables eléctricos (<link target-id="CNX_Chem_03_02_copper"/>). ¿Cuántos átomos de cobre hay en 5,00 g de alambre de cobre?</para>
+<figure id="CNX_Chem_03_02_copper" class="scaled-down">
+<media id="fs-idm20298688" alt="Se muestra una foto en primer plano de una bobina de alambre de cobre.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_copper.jpg"/>
+</media>
+<caption>El alambre de cobre está compuesto por muchos, muchos átomos de Cu (créditos: Emilian Robert Vicol).</caption>
+</figure>
+<para id="fs-idm40043360"><title>Solución</title>
+El número de átomos de Cu en el alambre puede derivarse convenientemente de su masa mediante un cálculo de dos pasos: primero se calcula la cantidad molar de Cu y luego se utiliza el número de Avogadro (<emphasis effect="italics">N<sub>A</sub></emphasis>) para convertir esta cantidad molar en número de átomos de Cu:</para>
+<media id="fs-idm28023104" alt="Se muestra un diagrama de tres recuadros conectados por una flecha hacia la derecha entre cada uno. El recuadro de la izquierda contiene la frase &quot;Masa de átomos de C u ( g )&quot;, el del medio dice &quot;Moles de átomos de C u ( mol )&quot;, mientras que el de la derecha contiene la frase &quot;Número de átomos de C u”. Hay una frase bajo la flecha de la izquierda que dice &quot;Dividir entre la masa molar (g / mol)&quot;, y bajo la flecha de la derecha dice: &quot;Multiplicar por el número de Avogadro ( mol superíndice uno negativo)”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_copperMoles_img-a962.jpg"/>
+</media>
+<para id="fs-idp18362672">Teniendo en cuenta que la masa de la muestra proporcionada (5,00 g) es un poco menos de una décima parte de la masa de 1 mol de Cu (~64 g), una estimación razonable del número de átomos de la muestra sería del orden de una décima parte de <emphasis effect="italics">N<sub>A</sub></emphasis>, o aproximadamente 10<sup>22</sup> átomos de Cu. Al realizar el cálculo en dos pasos se obtiene:</para>
+<equation id="fs-idp20004432" class="unnumbered"><m:math><m:mrow><m:mn>5,00</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext></m:menclose><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>Cu</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext></m:menclose></m:mrow><m:mrow><m:mn>63,55</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g de Cu</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>6,022</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>Átomos de Cu</m:mtext></m:mrow><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol de Cu</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>4,74</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>22</m:mn></m:mrow></m:msup><m:mtext>Átomos de Cu</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp27818080">El método de los factores de conversión produce la cancelación deseada de las unidades, y el resultado calculado es del orden de 10<sup>22</sup> como se esperaba.</para>
+<para id="fs-idp18156240"><title>Compruebe lo aprendido</title>
+Un buscador de oro en un río recoge 15,00 g de oro puro. ¿Cuántos átomos de Au hay en esta cantidad de oro?</para>
+<note id="fs-idm4952320"><title>Respuesta:</title>
+<para id="fs-idm3056704">4,586 <m:math><m:mo>×</m:mo></m:math> 10<sup>22</sup> átomos de Au</para></note>
+</example>
+<example id="fs-idm1714048">
+<para id="fs-idp75300336"><title>Calcular los moles a partir de los gramos de un compuesto</title>
+Nuestro cuerpo sintetiza las proteínas a partir de los aminoácidos. Uno de estos aminoácidos es la glicina, cuya fórmula molecular es C<sub>2</sub>H<sub>5</sub>O<sub>2</sub>N. ¿Cuántos moles de moléculas de glicina hay en 28,35 g de glicina?</para>
+<para id="fs-idp1446192"><title>Solución</title>
+Calcule el número de moles de un compuesto a partir de su masa siguiendo el mismo procedimiento utilizado para un elemento en el <link target-id="fs-idp76540048"/>:</para>
+<media id="fs-idm4806704" alt="Se muestra un diagrama de dos recuadros conectados por una flecha hacia la derecha. El recuadro de la izquierda contiene la frase &quot;Masa de C subíndice 2 H subíndice 5 O subíndice 2 N ( g )&quot; mientras que el recuadro de la derecha contiene la frase &quot;Moles de C subíndice 2 H subíndice 5 O subíndice 2 N ( mol )”. Hay una frase debajo de la flecha que dice &quot;Dividir entre la masa molar (g / mol)”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_glycine_img-7c96.jpg"/>
+</media>
+<para id="fs-idm36743808">La masa molar de la glicina es necesaria para este cálculo, y se calcula de la misma manera que su masa molecular. Un mol de glicina, C<sub>2</sub>H<sub>5</sub>O<sub>2</sub>N, contiene 2 moles de carbono, 5 moles de hidrógeno, 2 moles de oxígeno y 1 mol de nitrógeno:</para>
+<media id="fs-idm4204416" alt="Se muestra una tabla formada por seis columnas y seis filas. La fila de encabezado dice: &quot;Elemento&quot;, &quot;Cantidad (mol del elemento / mol del compuesto&quot;, un espacio en blanco, &quot;Masa molar (g / mol del elemento)&quot;, un espacio en blanco y &quot;Subtotal (u)”. La primera columna contiene los símbolos &quot;C&quot;, &quot;H&quot;, &quot;O&quot;, &quot;N&quot; y una celda combinada. La celda combinada tiene el ancho de las cinco primeras columnas. La segunda columna contiene los números &quot;2&quot;, &quot;5&quot;, &quot;2&quot; y &quot;1&quot;, así como la celda combinada. La tercera columna contiene el símbolo de la multiplicación en cada celda, excepto en la última celda combinada. La cuarta columna contiene los números &quot;12,01&quot;, &quot;1,008&quot;, &quot;16,00&quot; y &quot;14,007&quot;, así como la celda combinada. La quinta columna contiene el símbolo &quot;=&quot; en cada celda, excepto en la última celda combinada. La sexta columna contiene los valores &quot;24,02&quot;, &quot;5040&quot;, &quot;32,00&quot;, &quot;14,007&quot; y “75,07”. Hay una línea negra gruesa bajo el número 14,007. La celda combinada bajo las cinco primeras columnas dice &quot;Masa molar (g / mol de compuesto)&quot;. A la derecha de esta tabla se encuentra un dibujo de barras y esferas. Muestra una esfera negra que forma un doble enlace con una esfera roja ligeramente más pequeña, un enlace simple con otra esfera roja y un enlace simple con otra esfera negra. La esfera roja que forma un enlace simple con la esfera negra, también forma un enlace simple con una esfera blanca más pequeña. La segunda esfera negra forma un enlace simple con una esfera blanca más pequeña y una esfera azul más pequeña. La esfera azul forma un enlace simple con cada una de las dos esferas blancas más pequeñas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_glycinemass_img.jpg"/>
+</media>
+<para id="fs-idm24120480">La masa proporcionada de la glicina (~28 g) es un poco más de un tercio de la masa molar (~75 g/mol), por lo que se espera que el resultado calculado sea un poco mayor que un tercio de mol (~0,33 mol). Dividiendo la masa del compuesto por su masa molar se obtiene:</para>
+<equation id="fs-idp15857520" class="unnumbered"><m:math><m:mrow><m:mn>28,35</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:mtext>glicina</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mtext>mol de glicina</m:mtext></m:mrow><m:mrow><m:mn>75,07</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g de glicina</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,378</m:mn><m:mspace width="0.2em"/><m:mtext>mol de glicina</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp10905424">Este resultado es coherente con la estimación aproximada.</para>
+<para id="fs-idm30097376"><title>Compruebe lo aprendido</title>
+¿Cuántos moles de sacarosa, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>, hay en una muestra de 25 g de sacarosa?</para>
+<note id="fs-idm27877216"><title>Respuesta:</title>
+<para id="fs-idm70604176">0,073 mol</para></note>
+</example>
+<example id="fs-idp10913296">
+<para id="fs-idm15991984"><title>Calcular los gramos a partir de los moles de un compuesto</title>
+La vitamina C es un compuesto covalente con la fórmula molecular C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>. La cantidad diaria recomendada de vitamina C en la dieta de los niños de 4 a 8 años es de 1,42 <m:math><m:mo>×</m:mo></m:math> 10<sup>-4</sup> mol. ¿Cuál es la masa de esta asignación en gramos?</para>
+<para id="fs-idm22795264"><title>Solución</title>
+Como en el caso de los elementos, la masa de un compuesto puede calcularse a partir de su cantidad molar, como se indica:</para>
+<media id="fs-idm20822880" class="scaled-down" alt="Se muestra un diagrama de dos recuadros conectados por una flecha hacia la derecha. El recuadro de la izquierda contiene la frase &quot;Moles de vitamina C ( mol )&quot; mientras que el de la derecha contiene la frase &quot;Masa de vitamina C ( g )&quot;. Hay una frase debajo de la flecha que dice &quot;Multiplicar por la masa molar (g / mol)”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_vitC_img-e537.jpg"/>
+</media>
+<para id="fs-idp17223008">La masa molar de este compuesto se calcula en 176,124 g/mol. El número dado de moles es una fracción muy pequeña de un mol (~10<sup>-4</sup> o una diezmilésima); por lo tanto, se espera que la masa correspondiente sea aproximadamente una diezmilésima parte de la masa molar (~0,02 g). Realizando el cálculo se obtiene:</para>
+<equation id="fs-idm25244336" class="unnumbered"><m:math><m:mrow><m:mn>1,42</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mspace width="0.2em"/><m:mtext>vitamina C</m:mtext></m:menclose><m:mrow><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>176,124</m:mn><m:mspace width="0.2em"/><m:mtext>g de vitamina C</m:mtext></m:mrow><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mspace width="0.2em"/><m:mtext>vitamina C</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0,0250</m:mn><m:mspace width="0.2em"/><m:mtext>g de vitamina C</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp907024">Esto es coherente con el resultado previsto.</para>
+<para id="fs-idm28230576"><title>Compruebe lo aprendido</title>
+¿Cuál es la masa de 0,443 mol de hidracina, N<sub>2</sub>H<sub>4</sub>?</para>
+<note id="fs-idp75070976"><title>Respuesta:</title>
+<para id="fs-idm15513488">14,2 g</para></note>
+</example>
+<example id="fs-idp13749376">
+<para id="fs-idm5631088"><title>Calcular el número de átomos y moléculas a partir de la masa de un compuesto</title>
+Un paquete de un edulcorante artificial contiene 40,0 mg de sacarina (C<sub>7</sub>H<sub>5</sub>NO<sub>3</sub>S), que tiene la fórmula estructural:</para>
+<media id="fs-idp74120656" class="scaled-down" alt="Se muestra un diagrama de una molécula formada por dos estructuras de anillo unidas. El anillo izquierdo tiene forma hexagonal con átomos de C en cada punto del anillo y alternando enlaces simples y dobles enlaces. Se produce un doble enlace entre el átomo de C del vértice superior del hexágono y el átomo de C situado abajo y a la izquierda de este. Los átomos de C de la izquierda, la parte superior y la parte inferior de la estructura forman un enlace simple con un átomo de H cada uno. Los dos átomos de C de la derecha forman un lado de un pentágono y los otros puntos del pentágono están formados por un átomo de C, un átomo de N y un átomo de S si se lee en el sentido de las agujas del reloj. El átomo de C forma un doble enlace con un átomo de O. El átomo de N forma un enlace simple con un átomo de H. El átomo de S forma dos dobles enlaces con dos átomos de O.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_saccharin_img.jpg"/>
+</media>
+<para id="fs-idp33552">Dado que la sacarina tiene una masa molar de 183,18 g/mol, ¿cuántas moléculas de sacarina hay en una muestra de 40,0 mg (0,0400 g) de sacarina? ¿Cuántos átomos de carbono hay en la misma muestra?</para>
+<para id="fs-idm20251168"><title>Solución</title>
+El número de moléculas en una masa dada de un compuesto se calcula calculando primero el número de moles, como se demuestra en el <link target-id="fs-idm1714048"/>, y multiplicando después por el número de Avogadro:</para>
+<media id="fs-idm1701808" alt="Se muestra un diagrama de tres recuadros conectados por una flecha hacia la derecha entre cada uno. El recuadro de la izquierda contiene la frase &quot;Masa de C subíndice siete H subíndice cinco N O subíndice tres S ( g )&quot;, el recuadro del medio dice &quot;Moles de C subíndice siete H subíndice cinco N O subíndice tres S ( mol )&quot;, mientras que el de la derecha contiene la frase &quot;Número de moléculas de C subíndice siete H subíndice cinco N O subíndice tres S”. Hay una frase bajo la flecha de la izquierda que dice: &quot;Dividir entre la masa molar (g / mol)&quot;, y bajo la flecha de la derecha dice: &quot;Multiplicar por el número de Avogadro ( mol superíndice uno negativo)”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_sacch_img-3278.jpg"/>
+</media>
+<para id="fs-idp195552">Al utilizar la masa y la masa molar proporcionadas para la sacarina obtenemos:</para>
+<equation id="fs-idp15266832" class="unnumbered"><m:math>
+  <m:mtable columnalign="left">
+    <m:mtr><m:mtd><m:mn>0,0400</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>7</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:mtext>S</m:mtext></m:menclose>
+    <m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>7</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>S</m:mtext></m:menclose>
+  </m:mrow><m:mrow><m:mn>183,18</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>7</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>S</m:mtext></m:menclose>
+</m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>6,022</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>7</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>S</m:mtext>
+<m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>7</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>S</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mtd></m:mtr>
+    <m:mtr><m:mtd><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,31</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>20</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>7</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:mtext>S</m:mtext><m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext>
+  </m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp11370272">La fórmula del compuesto muestra que cada molécula contiene siete átomos de carbono, por lo que el número de átomos de C en la muestra proporcionada es:</para>
+<equation id="fs-idp3901232" class="unnumbered"><m:math><m:mrow><m:mn>1,31</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>20</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>7</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>Moléculas de S</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn><m:mspace width="0.2em"/><m:mtext>Átomos de C</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>7</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>Molécula de S</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>9,17</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>20</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>Átomos de C</m:mtext></m:mrow></m:math></equation><para id="fs-idp13712512"><title>Compruebe lo aprendido</title>
+¿Cuántas moléculas de C<sub>4</sub>H<sub>10</sub> hay en 9,213 g de este compuesto? ¿Cuántos átomos de hidrógeno?</para>
+<note id="fs-idp51031648"><title>Respuesta:</title>
+<para id="fs-idp14642528">9,545 <m:math><m:mo>×</m:mo></m:math> 10<sup>22</sup> moléculas de C<sub>4</sub> H<sub>10</sub>; 9,545 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> átomos de H</para>
+</note>
+</example>
+<note id="fs-idp25788096" class="chemistry sciences-interconnect">
+<title>Contar las moléculas neurotransmisoras en el cerebro</title>
+<para id="fs-idm4217280">El cerebro es el centro de control del sistema nervioso central (<link target-id="CNX_Chem_03_01_brain"/>). Este envía y recibe señales hacia y desde los músculos y otros órganos internos para supervisar y controlar sus funciones; procesa los estímulos detectados por los órganos sensoriales para guiar las interacciones con el mundo exterior; y alberga los complejos procesos fisiológicos que dan lugar a nuestro intelecto y nuestras emociones. El amplio campo de la neurociencia abarca todos los aspectos de la estructura y la función del sistema nervioso central, incluida la investigación sobre la anatomía y la fisiología del cerebro. En las últimas décadas se han hecho grandes progresos en la investigación del cerebro, y la iniciativa de investigación del cerebro mediante el avance de las neurotecnologías innovadoras (Brain Research Through Advancing Innovative Neurotechnologies, BRAIN), una iniciativa federal anunciada en 2013, tiene como objetivo acelerar y capitalizar estos avances a través de los esfuerzos concertados de varias agencias industriales, académicas y gubernamentales (más detalles disponibles en www.whitehouse.gov/share/brain-initiative).</para>
+<figure id="CNX_Chem_03_01_brain" class="scaled-down"><media id="fs-idp71769904" alt="Se muestran dos imágenes. La imagen de la izquierda muestra el cerebro humano. La imagen de la derecha es una imagen microscópica que muestra dos grandes masas de forma irregular en un campo de material filiforme intercalado con masas más pequeñas y relativamente redondas. Las dos masas más grandes están marcadas con flechas y la frase &quot;Células neuronales”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_brain-ec0b.jpg"/>
+</media>
+<caption>(a) Un cerebro humano típico pesa alrededor de 1,5 kg y ocupa un volumen de aproximadamente 1,1 L. (b) La información se transmite en el tejido cerebral y en todo el sistema nervioso central por medio de células especializadas llamadas neuronas (la micrografía muestra las células a 1600× de aumento).</caption></figure><para id="fs-idm14541088">Unas células especializadas, llamadas neuronas, transmiten información entre diferentes partes del sistema nervioso central mediante señales eléctricas y químicas. La señalización química se produce en la interfaz entre diferentes neuronas cuando una de las células libera moléculas (llamadas neurotransmisores) que se difunden a través del pequeño espacio entre las células (llamado sinapsis) y se unen a la superficie de la otra célula. Estas moléculas neurotransmisoras se almacenan en pequeñas estructuras intracelulares denominadas vesículas que se fusionan con la membrana celular y luego se abren para liberar su contenido cuando la neurona recibe la estimulación adecuada. Este proceso se denomina exocitosis (vea la <link target-id="CNX_Chem_03_01_exocytosis"/>). Un neurotransmisor muy estudiado es la dopamina, C<sub>8</sub>H<sub>11</sub>NO<sub>2</sub>. La dopamina está implicada en varios procesos neurológicos que afectan una gran variedad de comportamientos humanos. Las disfunciones en los sistemas dopaminérgicos del cerebro son la base de graves enfermedades neurológicas como el Parkinson y la esquizofrenia.</para>
+<figure id="CNX_Chem_03_01_exocytosis">
+<media id="fs-idp18792480" alt="Se muestran dos diagramas. En la esquina superior izquierda del diagrama de la izquierda, se muestra un óvalo con un centro oscurecido que tiene cinco extremos cortos y ramificados y un extremo largo en forma de cola, conectado por una flecha a otra imagen. Esta imagen muestra un primer plano de la sección ovalada y su interacción con la parte de la cola de una estructura similar. La vista de cerca se compone de un tubo estrecho marcado como &quot;neurona&quot; que desciende hasta una base bulbosa que alberga trece círculos llenos de pequeños puntos. Estos círculos están marcados como &quot;vesículas&quot; La base de la estructura bulbosa está al lado de un objeto curvado marcado como &quot;neurona&quot; y unos puntos muy pequeños salen de la base del bulbo y fluyen hacia la estructura curvada. El espacio entre las dos estructuras está marcado como &quot;sinapsis&quot; y los puntos pequeños están marcados como “neurotransmisores”. El diagrama de la derecha representa una molécula compuesta por seis esferas negras conectadas por dobles enlaces y enlaces simples alternados en un anillo hexagonal con otras esferas unidas a él. Tres de las esferas negras están conectadas a una esfera blanca más pequeña cada una. Dos de las esferas negras están conectadas a una esfera roja más pequeña cada una. Cada esfera roja está conectada a una esfera blanca más pequeña. Una esfera negra está conectada a otra esfera negra. Esta a su vez, está conectada a dos esferas blancas más pequeñas y a otra esfera negra. Esta segunda esfera negra está conectada a dos esferas blancas más pequeñas y a una esfera azul algo más pequeña. La esfera azul está conectada a dos esferas blancas más pequeñas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_exocytosis-88f6.jpg"/>
+</media>
+<caption>(a) Las señales químicas se transmiten desde las neuronas a otras células mediante la liberación de moléculas neurotransmisoras en los pequeños huecos (sinapsis) entre las células. (b) La dopamina, C<sub>8</sub>H<sub>11</sub>NO<sub>2</sub>, es un neurotransmisor que interviene en varios procesos neurológicos.</caption>
+</figure>
+<para id="fs-idp15499232">Un aspecto importante de los complejos procesos relacionados con la señalización de la dopamina es el número de moléculas neurotransmisoras liberadas durante la exocitosis. Dado que este número es un factor central en la determinación de la respuesta neurológica (y el subsiguiente pensamiento y acción humanos), es importante saber cómo cambia este número con ciertas estimulaciones controladas, como la administración de fármacos. También es importante entender el mecanismo responsable de cualquier cambio en el número de moléculas neurotransmisoras liberadas -por ejemplo, alguna disfunción en la exocitosis, un cambio en el número de vesículas en la neurona o un cambio en el número de moléculas neurotransmisoras en cada vesícula.</para>
+<para id="fs-idm2962416">Recientemente se han realizado avances significativos en la medición directa del número de moléculas de dopamina almacenadas en vesículas individuales y la cantidad realmente liberada cuando la vesícula sufre exocitosis. Utilizando sondas miniaturizadas que pueden detectar selectivamente moléculas de dopamina en cantidades muy pequeñas, los científicos han determinado que las vesículas de cierto tipo de neuronas del cerebro de los ratones contienen una media de 30.000 moléculas de dopamina por vesícula (aproximadamente <m:math><m:mrow><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-20</m:mn></m:mrow></m:msup></m:mrow></m:math> mol o 50 zmol). El análisis de estas neuronas de ratones sometidos a diversas terapias farmacológicas muestra cambios significativos en el número medio de moléculas de dopamina contenidas en vesículas individuales, aumentando o disminuyendo hasta tres veces, dependiendo del fármaco específico utilizado. Estos estudios también indican que no toda la dopamina de una vesícula determinada se libera durante la exocitosis, lo que sugiere que puede ser posible regular la fracción liberada mediante terapias farmacéuticas.<footnote id="fs-idp50539888">Omiatek, Donna M., Amanda J. Bressler, Ann-Sofie Cans, Anne M. Andrews, Michael L. Heien y Andrew G. Ewing. “The Real Catecholamine Content of Secretory Vesicles in the CNS Revealed by Electrochemical Cytometry” ("El contenido real de catecolamina de las vesículas secretoras en el SNC revelado por citometría electroquímica"). <emphasis effect="italics">Informe científico</emphasis> 3 (2013): 1447, consultado el 14 de enero de 2015, doi:10.1038/srep01447.</footnote></para>
+</note>
+</section><section id="fs-idp1413072" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp1202080">La fórmula de masa de una sustancia es la suma de las masas atómicas medias de cada átomo representado en la fórmula química y se expresa en unidades de masa atómica. La fórmula de masa de un compuesto covalente también se llama masa molecular. Una unidad de cantidad conveniente para expresar números muy grandes de átomos o moléculas es el mol. Las mediciones experimentales han determinado que el número de entidades que componen 1 mol de sustancia es de 6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup>, una cantidad llamada número de Avogadro. La masa en gramos de 1 mol de sustancia es su masa molar. Debido al uso de la misma sustancia de referencia para definir la unidad de masa atómica y el mol, la fórmula de masa (u) y la masa molar (g/mol) de cualquier sustancia son numéricamente equivalentes (por ejemplo, una molécula de H<sub>2</sub>O pesa aproximadamente 18 u y 1 mol de moléculas de H<sub>2</sub>O pesa aproximadamente 18 g).</para>
+</section>
+<section id="fs-idp13430448" class="exercises">
+<title>Ejercicios de Química del final del capítulo</title>
+<exercise id="fs-idp14760336">
+<problem id="fs-idm9492960">
+<para id="fs-idp66967088">¿Cuál es la masa total (u) del carbono en cada una de las siguientes moléculas?</para>
+<para id="fs-idp15394896">(a) CH<sub>4</sub></para>
+<para id="fs-idp74952320">(b) CHCl<sub>3</sub></para>
+<para id="fs-idp16776928">(c) C<sub>12</sub>H<sub>10</sub>O<sub>6</sub></para>
+<para id="fs-idm16945392">(d) CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></para>
+</problem>
+<solution id="fs-idp50221568"><para id="fs-idp50221696">(a) 12,01 u; (b) 12,01 u; (c) 144,12 u; (d) 60,05 u</para></solution>
+</exercise>
+<exercise id="fs-idp23290000">
+<problem id="fs-idm3204960">
+<para id="fs-idp12657920">¿Cuál es la masa total de hidrógeno en cada una de las moléculas?</para>
+<para id="fs-idp14913040">(a) CH<sub>4</sub></para>
+<para id="fs-idp13933872">(b) CHCl<sub>3</sub></para>
+<para id="fs-idp18791104">(c) C<sub>12</sub>H<sub>10</sub>O<sub>6</sub></para>
+<para id="fs-idm2014656">(d) CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp14091664">
+<problem id="fs-idp13719856">
+<para id="fs-idm4748784">Calcule la masa molecular o la fórmula de masa de cada uno de los siguientes elementos:</para>
+<para id="fs-idp75123488">(a) P<sub>4</sub></para>
+<para id="fs-idp11323648">(b) H<sub>2</sub>O</para>
+<para id="fs-idp17374816">(c) Ca(NO<sub>3</sub>)<sub>2</sub></para>
+<para id="fs-idm4666224">(d) CH<sub>3</sub>CO<sub>2</sub>H (ácido acético)</para>
+<para id="fs-idp17618896">(e) C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> (sacarosa, azúcar de caña)</para></problem>
+<solution id="fs-idp74756080">
+<para id="fs-idm15352224">(a) 123,896 u; (b) 18,015 u; (c) 164,086 u; (d) 60,052 u; (e) 342,297 u</para>
+</solution>
+</exercise>
+<exercise id="fs-idp1038448">
+<problem id="fs-idp18734768"><para id="fs-idp14186992">Determine la masa molecular de los siguientes compuestos:</para>
+<para id="fs-idm10660032">(a)<newline/>
+<media id="fs-idm8076928" class="scaled-down-30" alt="Se muestra una estructura. Un átomo de C está enlazado a dos átomos de C l y forma un doble enlace con un átomo de O.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_05a_img.jpg"/>
+</media></para><para id="fs-idp16510560">(b)<newline/>
+<media id="fs-idp149776" class="scaled-down-30" alt="Se muestra una estructura. Dos átomos de C forman un triple enlace entre sí. Cada átomo de C también forma un enlace simple con un átomo de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_05b_img.jpg"/>
+</media>
+</para><para id="fs-idp76406016">(c)<newline/>
+<media id="fs-idm29301504" class="scaled-down-30" alt="Se muestra una estructura. Dos átomos de C forman dobles enlaces entre sí. Cada átomo de C también forma un enlace simple con un átomo de H y un átomo de B r.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_05c_img.jpg"/>
+</media>
+</para><para id="fs-idp9023344">(d)<newline/>
+<media id="fs-idm31327616" class="scaled-down-30" alt="Se muestra una estructura. Un átomo de S forma dobles enlaces con dos átomos de O. El átomo de S también forma un enlace simple con un átomo de O que forma un enlace simple con un átomo de H. El átomo de S también forma un enlace simple con otro átomo de O que forma un enlace simple con otro átomo de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_05d_img.jpg"/>
+</media>
+</para></problem>
+</exercise>
+<exercise id="fs-idp20009152">
+<problem id="fs-idp51844864"><para id="fs-idp52450416">Determine la masa molecular de los siguientes compuestos:</para>
+<para id="fs-idp12831088">(a)<newline/>
+<media id="fs-idp13412608" class="scaled-down-30" alt="Se muestra una estructura. Dos átomos de C forman dobles enlaces entre sí. El átomo de C de la izquierda forma un enlace simple con cada uno de los dos átomos de H. El átomo de C de la derecha forma un enlace simple con un átomo de H y con un grupo C H subíndice 2 C H subíndice 3.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_06a_img.jpg"/>
+</media></para><para id="fs-idp76139456">(b)<newline/>
+<media id="fs-idp47952992" class="scaled-down-30" alt="Se muestra una estructura. Hay un átomo de C que forma enlaces simples con tres átomos de H cada uno. Este átomo de C está enlazado a otro átomo de C. Este segundo átomo de C forma un triple enlace con otro átomo de C que forma un enlace simple con un cuarto átomo de C. El cuarto átomo de C forma enlaces simples con cada uno de los tres átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_06b_img.jpg"/>
+</media></para><para id="fs-idp55882592">(c)<newline/>
+<media id="fs-idp49963664" class="scaled-down-30" alt="Se muestra una estructura. Un átomo de S i forma un enlace simple con un átomo de C l, un enlace simple con un átomo de C l, un enlace simple con un átomo de H y un enlace simple con otro átomo de S i. El segundo átomo de S i tiene un enlace simple con un átomo de C l, un enlace simple con un átomo de C l y un enlace simple con un átomo de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_06c_img.jpg"/>
+</media></para><para id="fs-idp17404336">(d)<newline/>
+<media id="fs-idp56968256" class="scaled-down-30" alt="Se muestra una estructura. Un átomo de P forma un doble enlace con un átomo de O. También forma un enlace simple con un átomo de O que forma un enlace simple con un átomo de H. También forma un enlace simple con otro átomo de O que forma un enlace simple con un átomo de H. También forma un enlace simple con otro átomo de O que forma un enlace simple con un átomo de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_06d_img.jpg"/>
+</media></para></problem>
+<solution id="fs-idp49927232">
+<para id="fs-idp18584256">(a) 56,107 amu; (b) 54,091 amu; (c) 199,9976 amu; (d) 97,9950 amu</para></solution>
+</exercise>
+<exercise id="fs-idp50213376">
+<problem id="fs-idp50213632"><para id="fs-idp50213760">¿Qué molécula tiene una masa molecular de 28,05 u?</para>
+<para id="fs-idp50214144">(a)<newline/>
+<media id="fs-idp52022448" class="scaled-down-30" alt="Se muestra una estructura. Un átomo de C forma un triple enlace con otro átomo de C. Cada átomo de C también forma un enlace simple con un átomo de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_07a_img.jpg"/>
+</media></para><para id="fs-idp66877424">(b)<newline/>
+<media id="fs-idp66877936" class="scaled-down-30" alt="Se muestra una estructura. Dos átomos de C forman un doble enlace entre sí. Cada átomo de C también forma un enlace simple con dos átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_07b_img.jpg"/>
+</media></para><para id="fs-idp49595584">(c)<newline/>
+<media id="fs-idp49596096" class="scaled-down-30" alt="Se muestra una estructura. Un átomo de C forma un enlace simple con cada uno de los tres átomos de H y con otro átomo de C. El segundo átomo de C también forma un enlace simple con cada uno de los tres átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_01_Ex01_07c_img.jpg"/>
+</media></para></problem>
+</exercise>
+<exercise id="fs-idp17737968">
+<problem id="fs-idp17738224"><para id="fs-idp17738352">Escriba una frase que describa cómo determinar el número de moles de un compuesto en una masa conocida del mismo utilizando su fórmula molecular.</para></problem>
+<solution id="fs-idp55880640">
+<para id="fs-idp55880896">Utilice la fórmula molecular para hallar la masa molar; para obtener el número de moles, divida la masa del compuesto entre la masa molar del compuesto expresada en gramos.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp25588816">
+<problem id="fs-idp25589072"><para id="fs-idp25589200">Compare 1 mol de H<sub>2</sub>, 1 mol de O<sub>2</sub>, y 1 mol de F<sub>2</sub>.</para>
+<para id="fs-idm34170816">(a) ¿Cuál tiene el mayor número de moléculas? Explique por qué.</para>
+<para id="fs-idm147492048">(b) ¿Cuál tiene la mayor masa? Explique por qué.</para></problem>
+</exercise>
+<exercise id="fs-idp50267072">
+<problem id="fs-idp50267328"><para id="fs-idp75868160">¿Cuál contiene la mayor masa de oxígeno: ¿0,75 mol de etanol (C<sub>2</sub>H<sub>5</sub>OH), 0,60 mol de ácido fórmico (HCO<sub>2</sub>H), o 1,0 mol de agua (H<sub>2</sub>O)? Explique por qué.</para></problem>
+<solution id="fs-idp73465488">
+<para id="fs-idp73465744">Ácido fórmico. Su fórmula tiene el doble de átomos de oxígeno que los otros dos compuestos (uno cada uno). Por lo tanto, 0,60 mol de ácido fórmico equivaldría a 1,20 mol de un compuesto que contiene un solo átomo de oxígeno.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp69842848">
+<problem id="fs-idp69843104"><para id="fs-idp69843232">¿Cuál contiene el mayor número de moles de átomos de oxígeno: ¿1 mol de etanol (C<sub>2</sub>H<sub>5</sub>OH), 1 mol de ácido fórmico (HCO<sub>2</sub>H), o 1 mol de agua (H<sub>2</sub>O)? Explique por qué.</para></problem>
+</exercise>
+<exercise id="fs-idp23072">
+<problem id="fs-idp23328"><para id="fs-idp23456">¿En qué se parecen y en qué se diferencian la masa molecular y la masa molar de un compuesto?</para></problem>
+<solution id="fs-idp2592"><para id="fs-idp2720">Las dos masas tienen el mismo valor numérico, pero las unidades son diferentes: La masa molecular es la masa de 1 molécula mientras que la masa molar es la masa de 6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> moléculas.</para></solution>
+</exercise>
+<exercise id="fs-idp52331008">
+<problem id="fs-idp52331264">
+<para id="fs-idp52331520">Calcule la masa molar de cada uno de los siguientes compuestos:</para>
+<para id="fs-idp52331904">(a) fluoruro de hidrógeno, HF</para>
+<para id="fs-idp52332288">(b) amoníaco, NH<sub>3</sub></para>
+<para id="fs-idp70670144">(c) ácido nítrico, HNO<sub>3</sub></para>
+<para id="fs-idp70670784">(d) sulfato de plata, Ag<sub>2</sub>SO<sub>4</sub></para>
+<para id="fs-idp76943728">(e) ácido bórico, B(OH)<sub>3</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp51968592">
+<problem id="fs-idp51968848">
+<para id="fs-idp51969104">Calcule la masa molar de cada uno de los siguientes elementos:</para>
+<para id="fs-idp50614928">(a) S<sub>8</sub></para>
+<para id="fs-idp50615568">(b) C<sub>5</sub>H<sub>12</sub></para>
+<para id="fs-idp50616592">(c) Sc<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></para>
+<para id="fs-idp52011344">(d) CH<sub>3</sub>COCH<sub>3</sub> (acetona)</para>
+<para id="fs-idp50200608">(e) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (glucosa)</para>
+</problem>
+<solution id="fs-idp27797232">
+<para id="fs-idp27797488">(a) 256,48 g/mol; (b) 72,150 g mol<sup>-1</sup>; (c) 378,103 g mol<sup>-1</sup>; (d) 58,080 g mol<sup>-1</sup>; (e) 180,158 g mol<sup>-1</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp56579584">
+<problem id="fs-idp56579840">
+<para id="fs-idp56580096">Calcule la fórmula de masa empírica o molecular y la masa molar de cada uno de los siguientes minerales:</para>
+<para id="fs-idp56580480">(a) piedra caliza, CaCO<sub>3</sub></para>
+<para id="fs-idp51267344">(b) halita, NaCl</para>
+<para id="fs-idp51267728">(c) berilo, Be<sub>3</sub>Al<sub>2</sub>Si<sub>6</sub>O<sub>18</sub></para>
+<para id="fs-idp51269520">(d) malaquita, Cu<sub>2</sub>(OH)<sub>2</sub>CO<sub>3</sub></para>
+<para id="fs-idp51505312">(e) turquesa, CuAl<sub>6</sub>(PO<sub>4</sub>)<sub>4</sub>(OH)<sub>8</sub>(H<sub>2</sub>O)<sub>4</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp56656128">
+<problem id="fs-idp56656384">
+<para id="fs-idp56656640">Calcule la masa molar de cada uno de los siguientes elementos:</para>
+<para id="fs-idp56657024">(a) el anestésico halotano, C<sub>2</sub>HBrClF<sub>3</sub></para>
+<para id="fs-idp56658048">(b) el herbicida paraquat, C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>Cl<sub>2</sub></para>
+<para id="fs-idp56659840">(c) cafeína, C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub></para>
+<para id="fs-idp56661680">(d) urea, CO(NH<sub>2</sub>)<sub>2</sub></para>
+<para id="fs-idp56662704">(e) un jabón típico, C<sub>17</sub>H<sub>35</sub>CO<sub>2</sub>Na</para>
+</problem>
+<solution id="fs-idp56664368">
+<para id="fs-idp56664624">(a) 197,382 g mol<sup>-1</sup>; (b) 257,163 g mol<sup>-1</sup>; (c) 194,193 g mol<sup>-1</sup>; (d) 60,056 g mol<sup>-1</sup>; (e) 306,464 g mol<sup>-1</sup></para></solution>
+</exercise>
+<exercise id="fs-idp51940080">
+<problem id="fs-idp51940336">
+<para id="fs-idp51940592">Determine el número de moles del compuesto y el número de moles de cada tipo de átomo en cada uno de los siguientes:</para>
+<para id="fs-idp51941104">(a) 25,0 g de propileno, C<sub>3</sub>H<sub>6</sub></para>
+<para id="fs-idp42713120">(b) 3,06 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup> g del aminoácido glicina, C<sub>2</sub>H<sub>5</sub>NO<sub>2</sub></para>
+<para id="fs-idp42717200">(c) 25 libras del herbicida Treflan, C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>O<sub>4</sub>F (1 libra = 454 g)</para>
+<para id="fs-idp42719120">(d) 0,125 kg del insecticida Paris Green, Cu<sub>4</sub>(AsO<sub>3</sub>)<sub>2</sub>(CH<sub>3</sub>CO<sub>2</sub>)<sub>2</sub></para>
+<para id="fs-idp42721680">(e) 325 mg de aspirina, C<sub>6</sub>H<sub>4</sub>(CO<sub>2</sub>H)(CO<sub>2</sub>CH<sub>3</sub>)</para>
+</problem>
+</exercise>
+<exercise id="fs-idp56804240">
+<problem id="fs-idp56804496">
+<para id="fs-idp56804752">Determine la masa de cada uno de los siguientes elementos:</para>
+<para id="fs-idp56805136">(a) 0,0146 mol de KOH</para>
+<para id="fs-idp56805520">(b) 10,2 mol de etano, C<sub>2</sub>H<sub>6</sub></para>
+<para id="fs-idp56806544">(c) 1,6 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup> mol de Na<sub>2</sub> SO<sub>4</sub></para>
+<para id="fs-idp56811376">(d) 6,854 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> mol de glucosa, C<sub>6</sub> H<sub>12</sub> O<sub>6</sub></para>
+<para id="fs-idp56817216">(e) 2,86 mol de Co(NH<sub>3</sub>)<sub>6</sub>Cl<sub>3</sub></para>
+</problem>
+<solution id="fs-idp56818752">
+<para id="fs-idp56819008">(a) 0,819 g; (b) 307 g; (c) 0,23 g; (d) 1235 <m:math><m:mo>×</m:mo></m:math> 10<sup>6</sup> g (1235 kg); (e) 765 g
+</para></solution>
+</exercise>
+<exercise id="fs-idp51218400">
+<problem id="fs-idp51218656">
+<para id="fs-idp51218912">Determine el número de moles del compuesto y determine el número de moles de cada tipo de átomo en cada uno de los siguientes:</para>
+<para id="fs-idp51219440">(a) 2,12 g de bromuro de potasio, KBr</para>
+<para id="fs-idp51219824">(b) 0,1488 g de ácido fosfórico, H<sub>3</sub>PO<sub>4</sub></para>
+<para id="fs-idp51220848">(c) 23 kg de carbonato de calcio, CaCO<sub>3</sub></para>
+<para id="fs-idp51221488">(d) 78,452 g de sulfato de aluminio, Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></para>
+<para id="fs-idp51222896">(e) 0,1250 mg de cafeína, C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp50969136">
+<problem id="fs-idp50969392">
+<para id="fs-idp50969648">Determine la masa de cada uno de los siguientes elementos:</para>
+<para id="fs-idp50970032">(a) 2,345 mol de LiCl</para>
+<para id="fs-idp50970416">(b) 0,0872 mol de acetileno, C<sub>2</sub>H<sub>2</sub></para>
+<para id="fs-idp50971440">(c) 3,3 <m:math><m:mo>×</m:mo></m:math> 10<sup>-2</sup> mol de Na<sub>2</sub> CO<sub>3</sub></para>
+<para id="fs-idp51036384">(d) 1,23 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> mol de fructosa, C<sub>6</sub> H<sub>12</sub> O<sub>6</sub></para>
+<para id="fs-idp51041968">(e) 0,5758 mol de FeSO<sub>4</sub>(H<sub>2</sub>O)<sub>7</sub></para>
+</problem>
+<solution id="fs-idp51043504">
+<para id="fs-idp51043760">(a) 99,41 g; (b) 2,27 g; (c) 3,5 g; (d) 222 kg; (e) 160,1 g<newline/></para></solution>
+</exercise>
+<exercise id="fs-idp41399808">
+<problem id="fs-idp41400064">
+<para id="fs-idp41400320">Los requisitos nutricionales mínimos diarios aproximados del aminoácido leucina, C<sub>6</sub>H<sub>13</sub>NO<sub>2</sub>, son de 1,1 g. ¿Cuánto es este requisito en moles?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp41416224">
+<problem id="fs-idp41416480">
+<para id="fs-idp41416736">Determine la masa en gramos de cada uno de los siguientes elementos:</para>
+<para id="fs-idp41417120">(a) 0,600 mol de átomos de oxígeno</para>
+<para id="fs-idp41417504">(b) 0,600 mol de moléculas de oxígeno, O<sub>2</sub></para>
+<para id="fs-idp41418144">(c) 0,600 mol de moléculas de ozono, O<sub>3</sub></para>
+</problem>
+<solution id="fs-idp41418912">
+<para id="fs-idp41419168">(a) 9,60 g; (b) 19,2 g; (c) 28,8 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idp42845584">
+<problem id="fs-idp42845840">
+<para id="fs-idp42846096">Una mujer de 55 kg tiene 7,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>-3</sup> mol de hemoglobina (masa molar = 64.456 g/mol) en su sangre. ¿Cuántas moléculas de hemoglobina son? ¿Cuánto es esta cantidad en gramos?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp42864672">
+<problem id="fs-idp42864928">
+<para id="fs-idp42865184">Determine el número de átomos y la masa de zirconio, silicio y oxígeno que se encuentran en 0,3384 mol de zircón, ZrSiO<sub>4</sub>, una piedra semipreciosa.</para>
+</problem>
+<solution id="fs-idp42866208">
+<para id="fs-idp42866464">zirconio: 2,038 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> átomos; 30,87 g; silicio: 2,038 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> átomos; 9504 g; oxígeno: 8,151 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> átomos; 21,66 g </para>
+</solution>
+</exercise>
+<exercise id="fs-idp40477040">
+<problem id="fs-idp40477296">
+<para id="fs-idp40477552">Determine cuál de los siguientes contiene la mayor masa de hidrógeno: 1 mol de CH<sub>4</sub>, 0,6 mol de C<sub>6</sub>H<sub>6</sub>, o 0,4 mol de C<sub>3</sub>H<sub>8</sub>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp40492096">
+<problem id="fs-idp40492352">
+<para id="fs-idp40492608">Determine cuál de los siguientes contiene la mayor masa de aluminio: 122 g de AlPO<sub>4</sub>, 266 g de Al<sub>2</sub>Cl<sub>6</sub>, o 225 g de Al<sub>2</sub>S<sub>3</sub>.</para></problem>
+<solution id="fs-idp40495040">
+<para id="fs-idp40495296">AlPO<sub>4</sub>: 1,000 mol, o 26,98 g de Al; Al<sub>2</sub>Cl<sub>6</sub>: 1,994 mol, o 53,74 g de Al; Al<sub>2</sub>S<sub>3</sub>: 3,00 mol, o 80,94 g de Al; la muestra de Al<sub>2</sub>S<sub>3</sub> contiene, por lo tanto, la mayor masa de Al.</para></solution>
+</exercise>
+<exercise id="fs-idp48697456">
+<problem id="fs-idp48697712">
+<para id="fs-idp48697968">El diamante es una forma de carbono elemental. Un anillo de compromiso contiene un diamante de 1,25 quilates (1 quilate = 200 mg). ¿Cuántos átomos hay en el diamante?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp41325184">
+<problem id="fs-idp41325440">
+<para id="fs-idp41325696">El diamante Cullinan fue el mayor diamante natural jamás encontrado (25 de enero de 1905). Pesaba 3104 quilates (1 quilate = 200 mg). ¿Cuántos átomos de carbono había en la piedra?</para>
+</problem>
+<solution id="fs-idp41326400">
+<para id="fs-idp41326656">3,113 <m:math><m:mo>×</m:mo></m:math> 10<sup>25</sup> átomos de C
+</para></solution>
+</exercise>
+<exercise id="fs-idp41347136">
+<problem id="fs-idp41347392">
+<para id="fs-idp41347648">Una ración de 55 gramos de un determinado cereal aporta 270 mg de sodio, el 11 % de la cantidad diaria recomendada. ¿Cuántos moles y átomos de sodio hay en la cantidad diaria recomendada?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp71747216">
+<problem id="fs-idp71747472">
+<para id="fs-idp71747728">Un determinado cereal crujiente de nueces contiene 11,0 gramos de azúcar (sacarosa, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>) por una ración de 60,0 gramos. ¿Cuántas raciones de este cereal hay que comer para consumir 0,0278 moles de azúcar?</para>
+</problem>
+<solution id="fs-idp71749520">
+<para id="fs-idp71749776">0,865 raciones, es decir, aproximadamente 1 porción.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp40440256">
+<problem id="fs-idp40440512">
+<para id="fs-idp40440768">Un tubo de pasta de dientes contiene 0,76 g de monofluorofosfato de sodio (Na<sub>2</sub>PO<sub>3</sub>F) en 100 mL.</para>
+<para id="fs-idm180787456">(a) ¿Qué masa de átomos de flúor en mg estaba presente?</para>
+<para id="fs-idm180787072">(b) ¿Cuántos átomos de flúor había?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp40890272">
+<problem id="fs-idp40890528">
+<para id="fs-idp40890784">¿Cuál de las siguientes opciones representa el menor número de moléculas?</para>
+<para id="fs-idp40891168">(a) 20,0 g de H<sub>2</sub>O (18,02 g/mol)</para>
+<para id="fs-idp40891936">(b) 77,0 g de CH<sub>4</sub> (16,06 g/mol)</para>
+<para id="fs-idp40892704">(c) 68,0 g de C<sub>3</sub>H<sub>6</sub> (42,08 g/mol)</para><para id="fs-idp40893472">(d) 100,0 g de N<sub>2</sub>O (44,02 g/mol)</para>
+<para id="fs-idp40894240">(e) 84,0 g de HF (20,01 g/mol)</para>
+</problem>
+<solution id="fs-idp40894752">
+<para id="fs-idp40895008">20,0 g de H<sub>2</sub>O representa el menor número de moléculas ya que tiene el menor número de moles.</para>
+</solution>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idp40901280">
+<term>Número de Avogadro (<emphasis effect="italics">N<sub>A</sub></emphasis>)</term>
+<meaning id="fs-idp40901920">valor determinado experimentalmente del número de entidades que componen 1 mol de sustancia, igual a 6,022 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> mol<sup>-1</sup></meaning>
+</definition>
+<definition id="fs-idp40905984">
+<term>fórmula de masa</term>
+<meaning id="fs-idp40906624">suma de las masas medias de todos los átomos representados en una fórmula química; para los compuestos covalentes, es también la masa molecular</meaning>
+</definition>
+<definition id="fs-idp40907280">
+<term>masa molar</term>
+<meaning id="fs-idp40907920">masa en gramos de 1 mol de una sustancia</meaning>
+</definition>
+<definition id="fs-idp40908432">
+<term>mol</term>
+<meaning id="fs-idp40909072">cantidad de sustancia que contiene el mismo número de átomos, moléculas, iones u otras entidades que el número de átomos en exactamente 12 gramos de <sup>12</sup>C</meaning>
+</definition>
+</glossary>
+</document>

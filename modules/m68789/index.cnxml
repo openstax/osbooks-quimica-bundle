@@ -1,0 +1,729 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Leyes de velocidad</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68789</md:content-id>
+  <md:title>Leyes de velocidad</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list><item>Explicar la forma y la función de una ley de velocidad</item>
+<item>Utilizar las leyes de velocidad para calcular las velocidades de reacción</item>
+<item>Utilizar los datos de velocidad y concentración para identificar los órdenes de reacción y deducir las leyes de velocidad</item></list></md:abstract>
+  <md:uuid>eac21754-bb36-49fa-9fa1-6ea0c734ee22</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm238441168">Como se describió en el módulo anterior, la velocidad de una reacción suele verse afectada por las concentraciones de los reactivos. Las <term>leyes de velocidad</term> (a veces llamadas <emphasis effect="italics">leyes diferenciales de velocidad</emphasis>) o <term>ecuaciones de velocidad</term> son expresiones matemáticas que describen la relación entre la velocidad de una reacción química y la concentración de sus reactivos. Como ejemplo, consideremos la reacción descrita por la ecuación química</para>
+<equation id="fs-idm248316432" class="unnumbered"><m:math><m:mrow><m:mi>a</m:mi><m:mi>A</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>B</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>p</m:mi><m:mi>r</m:mi><m:mi>o</m:mi><m:mi>d</m:mi><m:mi>u</m:mi><m:mi>c</m:mi><m:mi>to</m:mi><m:mi>s</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm656673904">donde <emphasis effect="italics">a</emphasis> y <emphasis effect="italics">b</emphasis> son coeficientes estequiométricos. La ley de velocidad para esta reacción se escribe como:</para>
+<equation id="fs-idm276589968" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo>[</m:mo><m:mi>A</m:mi><m:msup><m:mrow><m:mo>]</m:mo></m:mrow><m:mi>m</m:mi></m:msup><m:mo>[</m:mo><m:mi>B</m:mi><m:msup><m:mrow><m:mo>]</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp18257184">en la que [<emphasis effect="italics">A</emphasis>] y [<emphasis effect="italics">B</emphasis>] representan las concentraciones molares de los reactivos, y <emphasis effect="italics">k</emphasis> es la <term>constante de velocidad</term>, que es específica para una reacción concreta a una temperatura determinada. Los exponentes <emphasis effect="italics">m</emphasis> y <emphasis effect="italics">n</emphasis> son los <term>órdenes de reacción</term> y suelen ser enteros positivos, aunque pueden ser fracciones, negativos o cero. La constante de velocidad <emphasis effect="italics">k</emphasis> y los órdenes de reacción <emphasis effect="italics">m</emphasis> y <emphasis effect="italics">n</emphasis> deben determinarse experimentalmente observando cómo cambia la velocidad de una reacción cuando se cambian las concentraciones de los reactivos. La constante de velocidad <emphasis effect="italics">k</emphasis> es independiente de las concentraciones de los reactivos, pero varía con la temperatura.</para>
+<para id="fs-idm115903376">Los órdenes de reacción en una ley de velocidad describen la dependencia matemática de la velocidad con respecto a las concentraciones de los reactivos. Refiriéndose a la ley de velocidad genérica anterior, la reacción es de orden <emphasis effect="italics">m</emphasis> con respecto a <emphasis effect="italics">A</emphasis> y de orden <emphasis effect="italics">n</emphasis> con respecto a <emphasis effect="italics">B</emphasis>. Por ejemplo, si <emphasis effect="italics">m</emphasis> = 1 y <emphasis effect="italics">n</emphasis> = 2, la reacción es de primer orden en <emphasis effect="italics">A</emphasis> y de segundo orden en <emphasis effect="italics">B</emphasis>. El <term>orden de reacción global</term> es simplemente la suma de los órdenes de cada reactivo. Para la ley de velocidad del ejemplo, la reacción es de tercer orden global (1 + 2 = 3). A continuación se muestran algunos ejemplos concretos para ilustrar mejor este concepto.</para>
+<para id="fs-idm217470464">La ley de velocidad:</para>
+<equation id="fs-idm204886480" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm388320">describe una reacción que es de primer orden en el peróxido de hidrógeno y de primer orden global. La ley de velocidad:</para>
+<equation id="fs-idm185553664" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm105991808">describe una reacción que es de segundo orden en C<sub>4</sub>H<sub>6</sub> y de segundo orden global. La ley de velocidad:</para>
+<equation id="fs-idm41933536" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msup><m:mtext>H</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm221631328">describe una reacción que es de primer orden en H<sup>+</sup>, de primer orden en OH<sup>−</sup>, y de segundo orden global.</para>
+<example id="fs-idm235878704">
+<para id="fs-idm114205984"><title>Escribir leyes de velocidad a partir de órdenes de reacción</title>
+Un experimento muestra que la reacción del dióxido de nitrógeno con el monóxido de carbono:</para>
+<equation id="fs-idm189808080" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>CO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm213018368">es de segundo orden en NO<sub>2</sub> y de orden cero en CO a 100 °C. ¿Cuál es la ley de velocidad de la reacción?</para>
+<para id="fs-idm222185424"><title>Solución</title>
+La reacción tendrá la forma:</para>
+<equation id="fs-idm212887136" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:msup><m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mi>m</m:mi></m:msup><m:msup><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:math></equation><para id="fs-idm221521296">La reacción es de segundo orden en NO<sub>2</sub>; por tanto, <emphasis effect="italics">m</emphasis> = 2. La reacción es de orden cero en CO; por tanto, <emphasis effect="italics">n</emphasis> = 0. La ley de velocidad es:</para>
+<equation id="fs-idm49710800" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mo stretchy="false">]</m:mo><m:mn>2</m:mn></m:msup><m:mo stretchy="false">[</m:mo><m:mtext>CO</m:mtext><m:msup><m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>0</m:mn></m:msup><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></equation><para id="fs-idm250199824">Recordemos que un número elevado a la potencia cero es igual a 1, por tanto [CO]<sup>0</sup> = 1, por lo que el término de concentración de CO puede omitirse en la ley de velocidad: la velocidad de reacción depende únicamente de la concentración de NO<sub>2</sub>. En una sección posterior del capítulo sobre los mecanismos de reacción se explicará cómo la concentración de un reactivo puede no tener ningún efecto sobre la velocidad de reacción a pesar de estar involucrado en la misma.</para>
+<para id="fs-idm273206544"><title>Compruebe lo aprendido</title>
+La ley de velocidad para la reacción:</para>
+<equation id="fs-idm122197664" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm122425904">se ha determinado como velocidad = <emphasis effect="italics">k</emphasis>[NO]<sup>2</sup>[H<sub>2</sub>]. ¿Cuáles son los órdenes con respecto a cada reactivo y cuál es el orden global de la reacción?</para>
+<note id="fs-idm168583904"><title>Respuesta:</title>
+<para id="fs-idm141295376">orden en NO = 2; orden en H<sub>2</sub> = 1; orden global = 3</para>
+</note>
+<para id="fs-idm117052240"><title>Compruebe lo aprendido</title>
+En una reacción de transesterificación, un triglicérido reacciona con un alcohol para formar un éster y glicerol. Muchos alumnos aprenden la reacción entre el metanol (CH<sub>3</sub>OH) y el acetato de etilo (CH<sub>3</sub>CH<sub>2</sub>OCOCH<sub>3</sub>) como reacción de muestra antes de estudiar las reacciones químicas que producen el biodiésel:</para>
+<equation id="fs-idm155639824" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>OCOCH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>OCOCH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm213233440">La ley de velocidad para la reacción entre el metanol y el acetato de etilo se determina, bajo ciertas condiciones, como:</para>
+<equation id="fs-idm236204576" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm219218784">¿Cuál es el orden de reacción con respecto al metanol y al acetato de etilo, y cuál es el orden de reacción global?</para>
+<note id="fs-idm253536096"><title>Respuesta:</title>
+<para id="fs-idm215326320">orden en CH<sub>3</sub>OH = 1; orden en CH<sub>3</sub>CH<sub>2</sub>OCOCH<sub>3</sub> = 0; orden global = 1</para>
+</note>
+</example>
+<para id="fs-idm147402384">Un enfoque experimental común para la determinación de las leyes de velocidad es el <term>método de las velocidades iniciales</term>. Este método consiste en medir la velocidad de reacción de múltiples ensayos experimentales realizados con diferentes concentraciones iniciales de reactivos. La comparación de las velocidades medidas para estos ensayos permite determinar los órdenes de reacción y, posteriormente, la constante de velocidad, que juntas se utilizan para formular una ley de velocidad. Este enfoque se ilustra en los dos siguientes ejercicios de ejemplo.</para>
+<example id="fs-idm234815200">
+<para id="fs-idm162746544"><title>Determinación de una ley de velocidad a partir de la tasa inicial</title>
+El ozono de la atmósfera superior se agota cuando reacciona con los óxidos de nitrógeno. Las velocidades de las reacciones de los óxidos de nitrógeno con el ozono son factores importantes para decidir la importancia de estas reacciones en la formación del agujero de ozono sobre la Antártida (<link target-id="CNX_Chem_12_03_OzoneHole"/>). Una de estas reacciones es la combinación del óxido nítrico, NO, con el ozono, O<sub>3</sub>:</para>
+<figure id="CNX_Chem_12_03_OzoneHole" class="scaled-down">
+<media id="fs-idm204213280" alt="Se muestra una vista del hemisferio sur de la Tierra. Una región casi circular de aproximadamente la mitad del diámetro de la imagen se muestra en tonos de púrpura y se muestra la Antártida en un color ligeramente más claro que las zonas oceánicas circundantes. Inmediatamente fuera de esta región hay una zona azul brillante y estrecha seguida de una zona verde brillante. En la mitad superior de la figura, la región púrpura se extiende ligeramente hacia fuera del círculo y la zona azul se extiende más hacia la derecha del centro en comparación con la mitad inferior de la imagen. En la mitad superior de la imagen, la mayor parte del espacio fuera de la región púrpura está sombreada en verde, con algunas pequeñas franjas de regiones azules intercaladas. Sin embargo, la mitad inferior muestra la mayor parte del espacio fuera de la zona central púrpura en amarillo, naranja y rojo. Las zonas rojas aparecen en la parte inferior central y en la izquierda, fuera de la zona púrpura. En la parte inferior derecha de esta imagen hay una escala de colores etiquetada como &quot;Ozono total (unidades Dobsone)&quot;. Esta escala comienza en 0 y aumenta de 100 en 100 hasta 700. En el extremo izquierdo de la escala, el valor 0 muestra un color púrpura muy intenso, 100 es índigo, 200 es azul, 300 es verde, 400 es un amarillo-naranja, 500 es rojo, 600 es rosa y 700 es blanco.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_12_03_OzoneHole.jpg"/>
+</media>
+<caption>Un mapa de contorno que muestra la concentración de ozono estratosférico y el "agujero de ozono" que se produce sobre la Antártida durante los meses de primavera. (crédito: modificación de un trabajo de la NASA).</caption>
+</figure>
+<equation id="fs-idm215850976" class="unnumbered"><m:math><m:mrow><m:mtext>NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm116899456">Esta reacción se ha estudiado en el laboratorio y se han determinado los siguientes datos de velocidad a 25 °C.</para>
+<table id="fs-idm205685856" class="unnumbered" summary="Esta tabla tiene cuatro columnas y seis filas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Prueba&quot;, &quot;[ N O ] ( mol / L)&quot;, &quot;[ O subíndice 3 ] ( mol / L )&quot;, y &quot;delta mayúscula [ N O subíndice 2 ] dividido entre delta mayúscula t ( mol L superíndice 1 negativo s superíndice 1 negativo )&quot;. En la columna &quot;Prueba&quot; están los números: 1, 2, 3, 4, y 5. En la columna &quot;[ N O ] ( mol / L)&quot; están los números: 1,00 por diez a la sexta potencia negativa, 1,00 por diez a la sexta potencia negativa, 1,00 por diez a la sexta potencia negativa, 2,00 por diez a la sexta potencia negativa y 3,00 por diez a la sexta potencia negativa. En la columna &quot;[ O subíndice 3 ] ( mol / L)&quot; están los números: 3,00 por diez al seis negativo, 6,00 por diez al seis negativo, 9,00 por diez al seis negativo, 9,00 por diez al seis negativo y 9,00 por diez al seis negativo. En la columna &quot;delta mayúscula [ N O subíndice 2 ] dividida entre delta mayúscula t ( mol L superíndice 1 negativo s superíndice 1 negativo )&quot; están los números: 6,60 por diez al cinco negativo, 1,32 por diez al cuatro negativo, 1,98 por diez al cuatro negativo, 3,96 por diez al cuatro negativo y 5,94 por diez al cuatro negativo.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="middle">
+<entry align="left">Ensayo</entry>
+<entry align="left">[NO] (mol/L)</entry>
+<entry align="left">[O<sub>3</sub>] (mol/L)</entry>
+<entry align="left"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>t</m:mi></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo stretchy="false">(</m:mo><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo></m:mrow></m:math></entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">1</entry>
+<entry align="left">1,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">3,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">6,60 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−5</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">2</entry>
+<entry align="left">1,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">6,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">1,32 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">3</entry>
+<entry align="left">1,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">9,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">1,98 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">4</entry>
+<entry align="left">2,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">9,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">3,96 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−4</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">5</entry>
+<entry align="left">3,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">9,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup></entry>
+<entry align="left">5,94 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−4</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm234408416">Determine la ley de velocidad y la constante de velocidad para la reacción a 25 °C.</para>
+<para id="fs-idm236104112"><title>Solución</title>
+La ley de velocidad tendrá la forma:</para>
+<equation id="fs-idm14888352" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mtext>NO</m:mtext><m:msup><m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mi>m</m:mi></m:msup><m:mo>[</m:mo><m:msub><m:mtext>O</m:mtext><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow><m:mo>]</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm187393984">Determine los valores de <emphasis effect="italics">m</emphasis>, <emphasis effect="italics">n</emphasis> y <emphasis effect="italics">k</emphasis> a partir de los datos experimentales utilizando el siguiente proceso de tres partes:</para>
+<list id="fs-idp46707232" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><para id="fs-idp221247360"><emphasis effect="italics">Determine el valor de</emphasis> m <emphasis effect="italics">a partir de los datos en los que [NO] varía y [O<sub>3</sub>] es constante.</emphasis> En los tres últimos experimentos, [NO] varía mientras que [O<sub>3</sub>] permanece constante. Cuando [NO] se duplica del ensayo 3 al 4, la velocidad se duplica, y cuando [NO] se triplica del ensayo 3 al 5, la velocidad también se triplica. Por lo tanto, la velocidad también es directamente proporcional a [NO], y <emphasis effect="italics">m</emphasis> en la ley de velocidad es igual a 1.</para></item>
+<item><para id="fs-idm59663552"><emphasis effect="italics">Determine el valor de</emphasis> n <emphasis effect="italics">a partir de datos en los que [O<sub>3</sub>] varía y [NO] es constante.</emphasis> En los tres primeros experimentos, [NO] es constante y [O<sub>3</sub>] varía. La velocidad de reacción cambia en proporción directa al cambio de [O<sub>3</sub>]. Cuando [O<sub>3</sub>] se duplica del ensayo 1 al 2, la velocidad se duplica, y cuando [O<sub>3</sub>] se triplica del ensayo 1 al 3, la velocidad también se triplica. Por lo tanto, la velocidad es directamente proporcional a [O<sub>3</sub>], y <emphasis effect="italics">n</emphasis> es igual a 1. Por lo tanto, la ley de velocidad es:<newline/>
+<equation id="fs-idm236326672" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mn>1</m:mn></m:msup><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mn>1</m:mn></m:msup><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:math></equation></para></item>
+<item><para id="fs-idm10220816"><emphasis effect="italics">Determine el valor de</emphasis> k <emphasis effect="italics">a partir de un conjunto de concentraciones y la velocidad correspondiente</emphasis>. A continuación se utilizan los datos del ensayo 1:<newline/>
+<equation id="fs-idm208899344" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mi>k</m:mi></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mtext>velocidad</m:mtext></m:mrow><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mn>6,60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-5</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>mol L</m:mtext></m:mrow><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:menclose><m:msup><m:mtext>s</m:mtext><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-6</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>mol L</m:mtext></m:mrow><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow></m:menclose></m:mrow><m:mo>).</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>3,00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-6</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mo>- −</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mtext>2 </m:mtext><m:mo>.</m:mo><m:mtext>2</m:mtext><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>7</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>L</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>mol</m:mtext><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:msup><m:mtext>s</m:mtext><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mtd></m:mtr></m:mtable></m:math></equation></para></item>
+</list>
+<para id="fs-idm352713280"><title>Compruebe lo aprendido</title>
+El acetaldehído se descompone cuando se calienta para producir metano y monóxido de carbono según la ecuación:</para>
+<equation id="fs-idm196768496" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>CHO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mtext>4</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>CO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm167718688">Determine la ley de velocidad y la constante de velocidad para la reacción a partir de los siguientes datos experimentales:</para>
+<table id="fs-idm276791216" class="unnumbered" summary="Esta tabla tiene tres columnas y cuatro filas. La primera fila es una fila de encabezado, y marca cada columna, &quot;Prueba&quot;, &quot;[ C H subíndice 3 C H O ] ( mol / L)&quot;, y &quot;delta mayúscula negativa [ C H subíndice 3 C H O ] dividida entre delta mayúscula t ( mol L superíndice 1 negativo s superíndice 1 )&quot;. En la columna &quot;Prueba&quot; están los números: 1, 2 y 3. En la columna &quot;[ C H subíndice 3 C H O ] ( mol / L)&quot; están los números: 1,75 por diez al tres negativo, 3,50 por diez al tres negativo y 7,00 por diez al tres negativo. En la columna &quot;delta mayúscula negativa [ C H subíndice 3 C H O ] dividida entre delta mayúscula t ( mol L superíndice 1 negativo s superíndice 1 negativo )&quot; están los números: 2,06 por diez al 11 negativo, 8,24 por diez al 11 negativo y 3,30 por diez al diez negativo.">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry align="left">Ensayo</entry>
+<entry align="left">[CH<sub>3</sub>CHO] (mol/L)</entry>
+<entry align="left"><m:math><m:mrow><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mrow><m:mtext>Δ[CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>CHO]</m:mtext></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>t</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo></m:mrow></m:math></entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">1</entry>
+<entry align="left">1,75 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup></entry>
+<entry align="left">2,06 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−11</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">2</entry>
+<entry align="left">3,50 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup></entry>
+<entry align="left">8,24 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−11</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">3</entry>
+<entry align="left">7,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup></entry>
+<entry align="left">3,30 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−10</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idm217041008"><title>Respuesta:</title>
+<para id="fs-idm234756944"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>CHO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math> con <emphasis effect="italics">k</emphasis> = 6,73 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−6</sup> L/mol/s</para>
+</note>
+</example>
+<example id="fs-idm285627376">
+<para id="fs-idm27901936"><title>Determinación de las leyes de velocidad a partir de la tasa inicial</title>
+Utilizando el método de la tasa inicial y los datos experimentales, determine la ley de velocidad y el valor de la constante de velocidad para esta reacción:</para>
+<equation id="fs-idm275365520" class="unnumbered"><m:math><m:mrow><m:mtext>2NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2NOCl(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<table id="fs-idm285249664" class="unnumbered" summary="Esta tabla tiene cuatro columnas y cuatro filas. La primera fila es una fila de encabezado, y marca las columnas como &quot;Prueba&quot;, &quot;[ N O ] ( mol / L)&quot;, &quot;[ C l subíndice 2 ] ( mol / L )&quot;, y &quot;delta mayúscula negativa [ N O] dividida entre delta mayúscula t ( mol L superíndice 1 negativo s superíndice 1 negativo )&quot;. En la columna &quot;Prueba&quot; están los números: 1, 2 y 3. En la columna &quot;[ N O ] ( mol / L)&quot; están los números: 0,10, 0,10 y 0,15 En la columna &quot;[ C l subíndice 2 ] ( mol / L )&quot; están los números: 0,10, 0,15, y 0,10. En la columna &quot;delta negativo [ N O] dividido entre delta t ( mol L superíndice 1 negativo s superíndice 1 negativo&quot; están los números: 0,00300, 0,00450, 0,00675.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="middle">
+<entry align="left">Ensayo</entry>
+<entry align="left">[NO] (mol/L)</entry>
+<entry align="left">[Cl<sub>2</sub>] (mol/L)</entry>
+<entry align="left"><m:math><m:mrow><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>t</m:mi></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo stretchy="false">(</m:mo><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo></m:mrow></m:math></entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">1</entry>
+<entry align="left">0,10</entry>
+<entry align="left">0,10</entry>
+<entry align="left">0,00300</entry>
+</row>
+<row valign="middle">
+<entry align="left">2</entry>
+<entry align="left">0,10</entry>
+<entry align="left">0,15</entry>
+<entry align="left">0,00450</entry>
+</row>
+<row valign="middle">
+<entry align="left">3</entry>
+<entry align="left">0,15</entry>
+<entry align="left">0,10</entry>
+<entry align="left">0,00675</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm237007488"><title>Solución</title>
+La ley de velocidad para esta reacción tendrá la forma:</para>
+<equation id="fs-idm220277104" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo>[</m:mo><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:msup><m:mrow><m:mo>]</m:mo></m:mrow><m:mi>m</m:mi></m:msup><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm256345824">Al igual que en el <link target-id="fs-idm234815200"/>, aborde este problema de forma escalonada, determinando los valores de <emphasis effect="italics">m</emphasis> y <emphasis effect="italics">n</emphasis> a partir de los datos experimentales y utilizando después estos valores para determinar el valor de <emphasis effect="italics">k</emphasis>. En este ejemplo, sin embargo, se utilizará un enfoque algebraico explícito (versus el enfoque implícito del ejemplo anterior) para determinar los valores de <emphasis effect="italics">m</emphasis> y <emphasis effect="italics">n</emphasis>:</para>
+<list id="fs-idm47375696" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><para id="fs-idm45955472"><emphasis effect="italics">Determine el valor de</emphasis> m <emphasis effect="italics">a partir de los datos en los que [NO] varía y [Cl<sub>2</sub>] es constante</emphasis>. Escriba los cocientes con los subíndices <emphasis effect="italics">x</emphasis> e <emphasis effect="italics">y</emphasis> para indicar los datos de dos ensayos diferentes:<newline/>
+<equation id="fs-idm359376496" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:msub><m:mrow><m:mtext>velocidad</m:mtext></m:mrow><m:mi>x</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mrow><m:mtext>velocidad</m:mtext></m:mrow><m:mi>y</m:mi></m:msub></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mi>k</m:mi><m:msubsup><m:mrow><m:mtext>[</m:mtext><m:mtext>NO</m:mtext><m:mtext>]</m:mtext></m:mrow><m:mi>x</m:mi><m:mi>m</m:mi></m:msubsup><m:msubsup><m:mrow><m:mtext>[</m:mtext><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>]</m:mtext></m:mrow><m:mi>x</m:mi><m:mi>n</m:mi></m:msubsup></m:mrow><m:mrow><m:mi>k</m:mi><m:msubsup><m:mrow><m:mtext>[</m:mtext><m:mtext>NO</m:mtext><m:mtext>]</m:mtext></m:mrow><m:mi>y</m:mi><m:mi>m</m:mi></m:msubsup><m:msubsup><m:mrow><m:mtext>[</m:mtext><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>]</m:mtext></m:mrow><m:mi>y</m:mi><m:mi>n</m:mi></m:msubsup></m:mrow></m:mfrac></m:mrow></m:math></equation></para>
+<para id="fs-idm287583408">Utilizando el tercer ensayo y el primer ensayo, en el que [Cl<sub>2</sub>] no varía, da como resultado:<newline/>
+<equation id="fs-idp81408128" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>velocidad 3</m:mtext></m:mrow><m:mrow><m:mtext>velocidad 1</m:mtext></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mn>0,00675</m:mn></m:mrow><m:mrow><m:mn>0,00300</m:mn></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0,15</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>m</m:mi></m:msup><m:mo stretchy="false">(</m:mo><m:mn>0,10</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:mrow><m:mrow><m:mi>k</m:mi><m:msup><m:mrow><m:mtext>(0,10)</m:mtext></m:mrow><m:mi>m</m:mi></m:msup><m:mo stretchy="false">(</m:mo><m:mn>0,10</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation></para>
+<para id="fs-idm272297280">Anulando los términos equivalentes en el numerador y el denominador queda:<newline/>
+<equation id="fs-idm185610624" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>0,00675</m:mn></m:mrow><m:mrow><m:mn>0,00300</m:mn></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0,15</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>m</m:mi></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0,10</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>m</m:mi></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation></para>
+<para id="fs-idm187825008">que se simplifica a:<newline/>
+<equation id="fs-idm285203088" class="unnumbered"><m:math><m:mrow><m:mn>2,25</m:mn><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mi>m</m:mi></m:msup></m:mrow></m:math></equation></para>
+<para id="fs-idm253983824">Utilice los logaritmos para determinar el valor del exponente <emphasis effect="italics">m</emphasis>:<newline/>
+<equation id="fs-idm222931920" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>ln</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2,25</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>m</m:mi><m:mtext>ln</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mfrac><m:mrow><m:mtext>ln</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2,25</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>ln</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,5</m:mn></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:mfrac></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>m</m:mi></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>2 </m:mn></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>m</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation></para>
+<para id="fs-idm137061360">Confirme el resultado<newline/>
+<equation id="fs-idm10561024" class="unnumbered"><m:math><m:mrow><m:msup><m:mrow><m:mn>1,5</m:mn></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>2,25</m:mn></m:mrow></m:math></equation></para></item>
+<item><para id="fs-idm355457040"><emphasis effect="italics">Determine el valor de</emphasis> n <emphasis effect="italics">a partir de los datos en los que [Cl<sub>2</sub>] varía y [NO] es constante.</emphasis><newline/>
+<equation id="fs-idp69093344" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>velocidad 2</m:mtext></m:mrow><m:mrow><m:mtext>velocidad 1</m:mtext></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mn>0,00450</m:mn></m:mrow><m:mrow><m:mn>0,00300</m:mn></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0,10</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>m</m:mi></m:msup><m:mo stretchy="false">(</m:mo><m:mn>0,15</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0,10</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>m</m:mi></m:msup><m:mo stretchy="false">(</m:mo><m:mn>0,10</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation></para>
+<para id="fs-idm221941584">La cancelación da como resultado:<newline/>
+<equation id="fs-idp5205776" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>0,0045</m:mn></m:mrow><m:mrow><m:mn>0,0030</m:mn></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,15</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mi>n</m:mi></m:msup></m:mrow><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation></para>
+<para id="fs-idm265109792">que se simplifica a:</para>
+<equation id="fs-idm97106784" class="unnumbered"><m:math><m:mrow><m:mn>1,5</m:mn><m:mo>=</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>1,5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm256497008">Por lo tanto <emphasis effect="italics">n</emphasis> debe ser 1, y la forma de la ley de velocidad es:<newline/>
+<equation id="fs-idm215496784" class="unnumbered"><m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mi>m</m:mi></m:msup><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:math></equation></para></item>
+<item><para id="fs-idm110493584"><emphasis effect="italics">Determine el valor numérico de la constante de velocidad</emphasis> k <emphasis effect="italics">con las unidades adecuadas.</emphasis> Las unidades para la velocidad de una reacción son mol/L/s. Las unidades para <emphasis effect="italics">k</emphasis> son las necesarias para que la sustitución en la expresión de la ley de velocidad proporcione las unidades adecuadas para la velocidad. En este ejemplo, las unidades de concentración son mol<sup>3</sup>/L<sup>3</sup>. Las unidades para <emphasis effect="italics">k</emphasis> deben ser mol<sup>−2</sup> L<sup>2</sup>/s para que la velocidad esté en términos de mol/L/s.</para>
+<para id="fs-idm53387488">Para determinar el valor de <emphasis effect="italics">k</emphasis> una vez que se ha resuelto la expresión de la ley de velocidad, simplemente introduzca los valores del primer ensayo experimental y resuelva para <emphasis effect="italics">k</emphasis>:<newline/>
+<equation id="fs-idm263345248" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>0,00300</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mo>- −</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>k</m:mi><m:msup><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,10</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow><m:mo>).</m:mo></m:mrow><m:mn>2 </m:mn></m:msup><m:msup><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,10</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow><m:mo>).</m:mo></m:mrow><m:mn>1</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mi>k</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>3,0</m:mn><m:mspace width="0.2em"/><m:msup><m:mtext>mol</m:mtext><m:mrow><m:mn>-2</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mtd></m:mtr></m:mtable></m:math></equation></para></item>
+</list>
+<para id="fs-idm209905104"><title>Compruebe lo aprendido</title>
+Utilice los datos de la tasa inicial proporcionada para derivar la ley de velocidad para la reacción cuya ecuación es:</para>
+<equation id="fs-idm205740176" class="unnumbered"><m:math><m:mrow><m:msup><m:mrow><m:mtext>OCl</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>I</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>OI</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>Cl</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<table id="fs-idm275492048" class="unnumbered" summary="Esta tabla tiene cuatro columnas y cuatro filas. La primera fila es una fila de encabezado y marca cada columna como &quot;Prueba&quot;, &quot;[ O C l superíndice signo negativo ] ( mol / L)&quot;, &quot;[ I superíndice signo negativo ] ( mol / l )&quot;, y &quot;Tasa inicial ( mol / L / s)&quot;. En la columna &quot;Prueba&quot; están los números: 1, 2 y 3. En la columna &quot;[ O C l superíndice signo negativo ] ( mol / L)&quot; están los números 0,0040, 0,0020 y 0,0020. En la columna &quot;[ I superíndice signo negativo ] ( mol / l )&quot; están los números: 0,0020, 0,0040, y 0,0020. En la columna &quot;Tasa inicial ( mol / L / s)&quot; están los números: 0,00184, 0,00092 y 0,00046.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="middle">
+<entry align="left">Ensayo</entry>
+<entry align="left">[OCl<sup>−</sup>] (mol/L)</entry>
+<entry align="left">[I<sup>−</sup>] (mol/L)</entry>
+<entry align="left">Tasa inicial (mol/L/s)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">1</entry>
+<entry align="left">0,0040</entry>
+<entry align="left">0,0020</entry>
+<entry align="left">0,00184</entry>
+</row>
+<row valign="middle">
+<entry align="left">2</entry>
+<entry align="left">0,0020</entry>
+<entry align="left">0,0040</entry>
+<entry align="left">0,00092</entry>
+</row>
+<row valign="middle">
+<entry align="left">3</entry>
+<entry align="left">0,0020</entry>
+<entry align="left">0,0020</entry>
+<entry align="left">0,00046</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm296296016">Determine la expresión de la ley de velocidad y el valor de la constante de velocidad <emphasis effect="italics">k</emphasis> con las unidades adecuadas para esta reacción.</para>
+<note id="fs-idm214856768"><title>Respuesta:</title>
+<para id="fs-idm19062704"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>velocidad 2</m:mtext></m:mrow><m:mrow><m:mtext>velocidad 3</m:mtext></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mn>0,00092</m:mn></m:mrow><m:mrow><m:mn>0,00046</m:mn></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0,0020</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>x</m:mi></m:msup><m:mo stretchy="false">(</m:mo><m:mn>0,0040</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>y</m:mi></m:msup></m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0,0020</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>x</m:mi></m:msup><m:mo stretchy="false">(</m:mo><m:mn>0,0020</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>y</m:mi></m:msup></m:mrow></m:mfrac></m:mrow></m:math><newline/> 2,00 = 2,00<sup><emphasis effect="italics">y</emphasis></sup><newline/> <emphasis effect="italics">y</emphasis> = 1<newline/> <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>velocidad 1</m:mtext></m:mrow><m:mrow><m:mtext>velocidad 2</m:mtext></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mn>0,00184</m:mn></m:mrow><m:mrow><m:mn>0,00092</m:mn></m:mrow></m:mfrac><m:mspace width="0.1em"/><m:mo>=</m:mo><m:mspace width="0.1em"/><m:mfrac><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0,0040</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>x</m:mi></m:msup><m:mo stretchy="false">(</m:mo><m:mn>0,0020</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>y</m:mi></m:msup></m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0,0020</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>x</m:mi></m:msup><m:mo stretchy="false">(</m:mo><m:mn>0,0040</m:mn><m:msup><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>y</m:mi></m:msup></m:mrow></m:mfrac></m:mrow></m:math><newline/> <m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>2,00</m:mn></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:msup><m:mn>2 </m:mn><m:mi>x</m:mi></m:msup></m:mrow><m:mrow><m:msup><m:mn>2 </m:mn><m:mi>y</m:mi></m:msup></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>2,00</m:mn></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:msup><m:mn>2 </m:mn><m:mi>x</m:mi></m:msup></m:mrow><m:mrow><m:msup><m:mn>2 </m:mn><m:mn>1</m:mn></m:msup></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>4,00</m:mn></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msup><m:mn>2 </m:mn><m:mi>x</m:mi></m:msup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="rihgt"><m:mi>x</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>2</m:mn></m:mtd></m:mtr></m:mtable></m:math><newline/> Al sustituir los datos de concentración del ensayo 1 y resolver para <emphasis effect="italics">k</emphasis> se obtiene:<newline/> <m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mtext>velocidad</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>k</m:mi><m:msup><m:mrow><m:mo>[</m:mo><m:msup><m:mrow><m:mtext>OCl</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo>]</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:msup><m:mrow><m:mo>[</m:mo><m:msup><m:mtext>I</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo>]</m:mo></m:mrow><m:mn>1</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>0,00184</m:mn></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>k</m:mi><m:msup><m:mrow><m:mtext>(0,0040)</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msup><m:msup><m:mrow><m:mtext>(0,0020)</m:mtext></m:mrow><m:mn>1</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mi>k</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>5,75</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>mol</m:mtext><m:mrow><m:mo>-</m:mo><m:mn>2 </m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mn>2</m:mn></m:msup><m:msup><m:mtext>s</m:mtext><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mtd></m:mtr></m:mtable></m:math></para>
+</note>
+</example>
+<section id="fs-idm197875360">
+<title>Unidades de orden de reacción y de constante de velocidad</title>
+<para id="fs-idp9200128">En algunos de nuestros ejemplos, los órdenes de reacción en la ley de velocidad resultan ser los mismos que los coeficientes en la ecuación química de la reacción. Esto es una mera coincidencia y muy a menudo no es el caso.</para>
+<para id="fs-idm178764304">Las leyes de velocidad pueden presentar órdenes fraccionarios para algunos reactivos, y a veces se observan órdenes de reacción negativos cuando un aumento de la concentración de un reactivo provoca una disminución de la velocidad de reacción. Se ofrecen algunos ejemplos que ilustran estos puntos:</para>
+<equation id="fs-idm213140144" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr/><m:mtr><m:mtd><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mtext>CO</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>CO</m:mtext><m:mtext>2</m:mtext></m:msub><m:mspace width="3em"/><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:msup><m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>CH</m:mtext><m:mn>3</m:mn></m:msub><m:mtext>CHO</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>CH</m:mtext><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mtext>CO</m:mtext><m:mspace width="3em"/><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>CHO</m:mtext></m:mrow><m:msup><m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>2N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>5</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub><m:mspace width="2em"/><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>5</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>2NO</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>2NO</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>F</m:mtext><m:mspace width="3em"/><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mspace width="0.2em"/><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>2NO</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>Cl</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>2NO</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>Cl</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="3em"/><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>Cl</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm284144576">Es importante tener en cuenta que las <emphasis effect="italics">leyes de velocidad se determinan únicamente mediante experimentos y no se pueden predecir de forma fiable mediante la estequiometría de la reacción.</emphasis></para>
+<para id="fs-idm218845648">Las unidades de una constante de velocidad variarán según convenga para adaptarse al orden de reacción global. La unidad de la constante de velocidad para la reacción de segundo orden descrita en el <link target-id="fs-idm234815200"/> se determinó como <m:math><m:mrow><m:mtext>L</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> Para la reacción de tercer orden descrita en el <link target-id="fs-idm285627376"/>, se dedujo la unidad para <emphasis effect="italics">k</emphasis> para que fuera <m:math><m:mrow><m:msup><m:mtext>L</m:mtext><m:mn>2</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mn>-2</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> El análisis dimensional requiere que la unidad de la constante de velocidad para una reacción, cuyo orden global es <emphasis effect="italics">x</emphasis>, sea <m:math><m:mrow><m:msup><m:mtext>L</m:mtext><m:mrow><m:mi>x</m:mi><m:mo>–</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:mi>x</m:mi></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> La <link target-id="fs-idm233742304"/> resume las unidades de la constante de velocidad para órdenes de reacción comunes.</para><table id="fs-idm233742304" class="top-titled" summary="Esta tabla tiene dos columnas y cuatro filas. La primera fila es una fila de encabezado y marca cada columna, &quot;Orden de reacción&quot; y &quot;Unidades de k&quot;. En la columna &quot;Orden de reacción&quot; están: &quot;( m + n )&quot;, &quot;cero&quot;, &quot;primero&quot;, &quot;segundo&quot; y &quot;tercero&quot;. En la columna &quot;Unidades de k&quot; se encuentran: &quot;mol superíndice 1 menos ( m + n) L superíndice ( m + n) 1 menos s superíndice uno negativo&quot;, &quot;mol / L / s&quot;, &quot;s superíndice 1 negativo&quot;, &quot;L / mol / s&quot; y &quot;mol superíndice 2 negativo L superíndice 2 s superíndice 1 negativo&quot;.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c2" align="center">Unidades de la constante de velocidad para órdenes de reacción comunes</entry>
+</row>
+<row valign="middle">
+<entry align="left">Orden de reacción global (<emphasis effect="italics">x</emphasis>)</entry>
+<entry align="left">Unidad de la constante de velocidad (L<sup><emphasis effect="italics">x</emphasis>−1</sup> mol<sup>1−<emphasis effect="italics">x</emphasis></sup> s<sup>−1</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">0 (cero)</entry>
+<entry align="left">mol L<sup>−1</sup> s<sup>−1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">1 (primero)</entry>
+<entry align="left">s<sup>−1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">2 (segundo)</entry>
+<entry align="left">L mol<sup>−1</sup> s<sup>−1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">3 (tercero)</entry>
+<entry align="left">L<sup>2</sup> mol<sup>−2</sup> s<sup>−1</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm235810768">Observe que las unidades de esta tabla se han obtenido utilizando unidades específicas para la concentración (mol/L) y el tiempo (s), aunque se puede utilizar cualquier unidad válida para estas dos propiedades.</para>
+</section>
+<section id="fs-idm168364064" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm262547408">Las leyes de velocidad (<emphasis effect="italics">leyes diferenciales de velocidad</emphasis>) proporcionan una descripción matemática de cómo los cambios en la concentración de una sustancia afectan a la velocidad de una reacción química. Las leyes de velocidad se determinan experimentalmente y no pueden predecirse mediante la estequiometría de la reacción. El orden de reacción describe en qué medida un cambio en la concentración de cada sustancia afecta a la velocidad global, y el orden global de una reacción es la suma de los órdenes de cada sustancia presente en la reacción. Los órdenes de reacción suelen ser de primer orden, de segundo orden o de orden cero, pero son posibles los órdenes fraccionarios e incluso negativos.</para></section>
+<section id="fs-idm273385984" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idm181252208">
+<problem id="fs-idm263515632">
+<para id="fs-idm262018416">¿En qué se diferencian la velocidad de una reacción y su constante de velocidad?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm256410736">
+<problem id="fs-idm123795104">
+<para id="fs-idm271487376">Duplicar la concentración de un reactivo aumenta cuatro veces la velocidad de una reacción. Con estos conocimientos, responda a las siguientes preguntas:</para>
+<para id="fs-idm152653536">(a) ¿Cuál es el orden de la reacción con respecto a ese reactivo?</para>
+<para id="fs-idm273518816">(b) Si se triplica la concentración de un reactivo diferente, la velocidad de una reacción se triplica. ¿Cuál es el orden de la reacción con respecto a ese reactivo?</para>
+</problem>
+<solution id="fs-idm146323536">
+<para id="fs-idm221624896">(a) 2; (b) 1</para>
+</solution>
+</exercise>
+<exercise id="fs-idm211287824">
+<problem id="fs-idm272280256">
+<para id="fs-idm241985680">Triplicar la concentración de un reactivo multiplica por nueve la velocidad de una reacción. Con estos conocimientos, responda a las siguientes preguntas:</para>
+<para id="fs-idm194420784">(a) ¿Cuál es el orden de la reacción con respecto a ese reactivo?</para>
+<para id="fs-idm207624880">(b) El aumento de la concentración de un reactivo por cuatro aumenta la velocidad de una reacción cuatro veces. ¿Cuál es el orden de la reacción con respecto a ese reactivo?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm291799584">
+<problem id="fs-idm224202064">
+<para id="fs-idm222859792">¿Cómo cambiará la velocidad de reacción para el proceso: <m:math><m:mrow><m:mtext>CO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math> si la ley de velocidad de la reacción es <m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mo>con dígito d?</m:mo></m:math></para>
+<para id="fs-idm178016176">(a) Disminuyendo la presión de NO<sub>2</sub> de 0,50 atm a 0,250 atm.</para>
+<para id="fs-idp38847392">(b) Aumentando la concentración de CO de 0,01 <emphasis effect="italics">M</emphasis> a 0,03 <emphasis effect="italics">M</emphasis>.</para>
+</problem>
+<solution id="fs-idm94396448">
+<para id="fs-idm107041296">(a) El proceso reduce la velocidad por 4. (b) Como el CO no aparece en la ley de velocidad, esta no se ve afectada.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm207653024">
+<problem id="fs-idm32510432">
+<para id="fs-idm176826112">¿Cómo afectará cada uno de los siguientes elementos a la velocidad de la reacción: <m:math><m:mrow><m:mtext>CO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math> si la ley de velocidad de la reacción es <m:math><m:mrow><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mrow><m:mo>[</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow></m:math>?</para>
+<para id="fs-idm170891328">(a) Aumentando la presión del NO<sub>2</sub> de 0,1 atm a 0,3 atm.</para>
+<para id="fs-idm178794544">(b) Aumentando la concentración de CO de 0,02 <emphasis effect="italics">M</emphasis> a 0,06 <emphasis effect="italics">M</emphasis>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm222164384">
+<problem id="fs-idm111393920">
+<para id="fs-idm192992480">Los vuelos regulares de aviones supersónicos en la estratosfera son preocupantes porque estos aviones producen óxido nítrico, NO, como subproducto en el escape de sus motores. El óxido nítrico reacciona con el ozono, y se ha sugerido que esto podría contribuir al agotamiento de la capa de ozono. La reacción <m:math><m:mrow><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math> es de primer orden con respecto al NO y al O<sub>3</sub> con una constante de velocidad de 2,20 <m:math><m:mo>×</m:mo></m:math> 10<sup>7</sup> L/mol/s. ¿Cuál es la tasa instantánea de desaparición del NO cuando [NO] = 3,3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup> <emphasis effect="italics">M</emphasis> y [O<sub>3</sub>] = 5,9 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup> <emphasis effect="italics">M</emphasis>?</para>
+</problem>
+<solution id="fs-idm147647504">
+<para id="fs-idm220241088">4,3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup> mol/L/s</para>
+</solution>
+</exercise>
+<exercise id="fs-idm53134032">
+<problem id="fs-idm158374656">
+<para id="fs-idm275577216">El fósforo radiactivo se utiliza en el estudio de los mecanismos de reacción bioquímica porque los átomos de fósforo son componentes de muchas moléculas bioquímicas. La ubicación del fósforo (y la ubicación de la molécula en la que está unido) puede detectarse a partir de los electrones (partículas beta) que produce:<newline/> <m:math><m:mrow><m:msubsup><m:mrow/><m:mtext>15</m:mtext><m:mtext>32</m:mtext></m:msubsup><m:mtext>P</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/>
+<m:msubsup><m:mrow/><m:mn>16</m:mn><m:mn>32</m:mn></m:msubsup><m:mtext>S</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup></m:mrow></m:math> <newline/> velocidad = 4,85 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup> <m:math><m:msup><m:mtext>día</m:mtext><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo>[</m:mo><m:msup><m:mrow/><m:mn>32</m:mn></m:msup><m:mtext>P</m:mtext><m:mo>]</m:mo></m:math></para>
+<para id="fs-idm122111920">¿Cuál es la tasa instantánea de producción de electrones en una muestra con una concentración de fósforo de 0,0033 <emphasis effect="italics">M</emphasis>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm140350624">
+<problem id="fs-idm84975536">
+<para id="fs-idm234311904">La constante de velocidad para el decaimiento radiactivo del <sup>14</sup>C es 1,21 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup> año<sup>−1</sup>. Los productos del decaimiento son átomos de nitrógeno y electrones (partículas beta):<newline/> <m:math><m:msubsup><m:mrow/><m:mn>6</m:mn><m:mrow><m:mn>14</m:mn></m:mrow></m:msubsup><m:mtext>C</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msubsup><m:mrow/><m:mn>7</m:mn><m:mrow><m:mn>14</m:mn></m:mrow></m:msubsup><m:mtext>N</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup></m:math><newline/> <m:math><m:mtext>velocidad</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo>[</m:mo><m:msubsup><m:mrow/><m:mn>6</m:mn><m:mrow><m:mn>14</m:mn></m:mrow></m:msubsup><m:mtext>C</m:mtext><m:mo>]</m:mo></m:math></para><para id="fs-idm233654624">¿Cuál es la tasa instantánea de producción de átomos de N en una muestra con un contenido de carbono-14 de 6,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup> <emphasis effect="italics">M</emphasis>?</para>
+</problem>
+<solution id="fs-idm259321632">
+<para id="fs-idm333817728">7,9 <m:math><m:mo>×</m:mo></m:math> 10<sup>−13</sup> mol/L/año</para>
+</solution>
+</exercise>
+<exercise id="fs-idm147604432">
+<problem id="fs-idm197731520">
+<para id="fs-idm278447280">La descomposición del acetaldehído es una reacción de segundo orden con una constante de velocidad de 4,71 <m:math><m:mo>×</m:mo></m:math> 10<sup>−8</sup> L mol<sup>−1</sup> s<sup>−1</sup>. ¿Cuál es la tasa instantánea de descomposición del acetaldehído en una solución con una concentración de 5,55 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup> <emphasis effect="italics">M</emphasis>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm32841312">
+<problem id="fs-idm176201552">
+<para id="fs-idm84914160">El alcohol se elimina del torrente sanguíneo mediante una serie de reacciones metabólicas. La primera reacción produce acetaldehído; luego se forman otros productos. Se han determinado los siguientes datos para la velocidad de eliminación de alcohol de la sangre de un hombre promedio, aunque las velocidades individuales pueden variar en un 25–30%. Las mujeres metabolizan el alcohol un poco más lentamente que los hombres:<newline/>
+<table id="fs-idm121830912" class="column-header unnumbered" summary="Esta tabla tiene cuatro columnas y dos filas. La primera columna sirve de encabezado y marca cada fila, &quot;[ C subíndice 2 H subíndice 5 O H ] ( M )&quot;, y, &quot;Tasa ( mol / L / h )&quot;. A la derecha del encabezado &quot;Tasa inicial ( mol / L / s)&quot; están los números: 4,4 por diez al 2 negativo; 3,3 por diez al 2 negativo; 2,2 por diez al 2 negativo. A la derecha del encabezado &quot;Tasa ( mol / L / h )&quot; están los números: 2,0 por diez al 2 negativo, 2,0 por diez al 2 negativo y 2,0 por diez al 2 negativo.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row valign="middle">
+<entry align="left">[C<sub>2</sub>H<sub>5</sub>OH] (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">4,4 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+<entry align="left">3,3 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+<entry align="left">2,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Velocidad (mol L<sup>−1</sup> h<sup>−1</sup>)</entry>
+<entry align="left">2,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+<entry align="left">2,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+<entry align="left">2,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+<para id="fs-idm233198896">Determine la ley de velocidad, la constante de velocidad y el orden global para esta reacción.</para>
+</problem>
+<solution id="fs-idm182997088">
+<para id="fs-idm204335424">velocidad = <emphasis effect="italics">k</emphasis>; <emphasis effect="italics">k</emphasis> = 2,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup> mol L<sup>−1</sup> h<sup>−1</sup> (aproximadamente 0,9 g L<sup>−1</sup> h<sup>−1</sup> para el hombre promedio); la reacción es de orden cero.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm233306880">
+<problem id="fs-idm254597216">
+<para id="fs-idm222957616">En determinadas condiciones, la descomposición del amoníaco en una superficie metálica arroja los siguientes datos:</para>
+<table id="fs-idm155842464" class="column-header unnumbered" summary="Esta tabla tiene cuatro columnas y dos filas. La primera columna marca cada fila, &quot;[ N H subíndice 3 ] ( M )&quot;, y &quot;Tasa ( mol / L / h superíndice 1 )&quot;. Los números a la derecha del encabezado, &quot;[ N H subíndice 3 ] ( M )&quot; son: 1,0 por diez al tres negativo, 2,0 por diez al tres negativo y 3,0 por diez al tres negativo. Los números a la derecha del encabezado, &quot;Tasa ( mol / L / h superíndice 1&quot; son: 1,5 por diez al seis negativo, 1,50 por diez al 6 negativo y 1,5 por diez al seis negativo.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row valign="middle">
+<entry align="left">[NH<sub>3</sub>] (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">1,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+<entry align="left">2,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+<entry align="left">3,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Velocidad (mol L<sup>−1</sup> h<sup>−1</sup>)</entry>
+<entry align="left">1,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+<entry align="left">1,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+<entry align="left">1,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm279312480">Determine la ley de velocidad, la constante de velocidad y el orden global para esta reacción.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm263803776">
+<problem id="fs-idm219334592">
+<para id="fs-idm217433968">El cloruro de nitrosilo, NOCl, se descompone en NO y Cl<sub>2</sub>.<newline/> <m:math><m:mrow><m:mtext>2NOCl(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm105942144">Determine la ley de velocidad, la constante de velocidad y el orden global para esta reacción a partir de los siguientes datos:</para>
+<table id="fs-idm176170864" class="column-header unnumbered" summary="Esta tabla tiene cuatro columnas y dos filas. La primera columna marca cada fila, &quot;[ N O C l ] ( M )&quot;, y, &quot;Tasa ( mol / L / h )&quot;. A la derecha del encabezado, &quot;[ N O C l ] ( M )&quot; están los números: 0,10, 0,20, y 0,30. A la derecha del encabezado, &quot;Tasa ( mol / L / h )&quot; están los números: 8,0 por diez al diez negativo, 3,2 por diez al 9 negativo y 7,2 por diez al 9 negativo.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row valign="middle">
+<entry align="left">[NOCl] (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">0,10</entry>
+<entry align="left">0,20</entry>
+<entry align="left">0,30</entry>
+</row>
+<row valign="middle">
+<entry align="left">Velocidad (mol L<sup>−1</sup> h<sup>−1</sup>)</entry>
+<entry align="left">8,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−10</sup></entry>
+<entry align="left"> 3,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup></entry>
+<entry align="left">7,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-idm147669584">
+<para id="fs-idp5189312">velocidad = <emphasis effect="italics">k</emphasis>[NOCl]<sup>2</sup>; <emphasis effect="italics">k</emphasis> = 8,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−8</sup> L/mol/h; segundo orden</para></solution>
+</exercise>
+<exercise id="fs-idm146074112">
+<problem id="fs-idm176758704">
+<para id="fs-idm254308880">A partir de los siguientes datos, determine la ley de velocidad, la constante de velocidad y el orden con respecto a <emphasis effect="italics">A</emphasis> para la reacción <m:math><m:mrow><m:mi>A</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mi>C</m:mi><m:mo>.</m:mo></m:mrow></m:math></para>
+<table id="fs-idm146675536" class="column-header unnumbered" summary="Esta tabla tiene cuatro columnas y dos filas. La primera columna marca cada fila, &quot;[ A ] ( M )&quot;, y &quot;Tasa ( mol / L / h)&quot;. A la derecha del encabezado, &quot;[ A ] ( M )&quot;, están los números: 1,33 por diez al 2 negativo, 2,66 por diez al 2 negativo y 3,99 por diez al 2 negativo&quot;. A la derecha del encabezado, &quot;Tasa ( mol / L / h)&quot;, están los números 3,80 por diez al 7 negativo, 1,52 por diez al 6 negativo y 3,42 por diez al 6 negativo.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row valign="middle">
+<entry align="left">[<emphasis effect="italics">A</emphasis>] (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">1,33 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+<entry align="left">2,66 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+<entry align="left">3,99 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">Velocidad (mol L<sup>−1</sup> h<sup>−1</sup>)</entry>
+<entry align="left">3,80 <m:math><m:mo>×</m:mo></m:math> 10<sup>−7</sup></entry>
+<entry align="left">1,52 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+<entry align="left">3,42 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm238094880">
+<problem id="fs-idm219633024">
+<para id="fs-idm262783024">El monóxido de nitrógeno reacciona con el cloro según la ecuación:<newline/> <m:math><m:mrow><m:mtext>2NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2NOCl(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para><para id="fs-idm268051184">Se han observado las siguientes velocidades de reacción iniciales para determinadas concentraciones de reactivos:</para>
+<table id="fs-idp1859024" class="unnumbered" summary="Esta tabla tiene tres columnas y cuatro filas. La primera fila sirve de encabezado y marca cada columna, &quot;[ N O ] ( mol / L superíndice 1 )&quot;, &quot;[ C l subíndice 2 ] ( mol / L )&quot; y &quot;Tasa ( mol / L / h )&quot;. En la columna &quot;[ N O ] ( mol / L superíndice 1 )&quot; están los números: 0,50, 1,00, y 1,00. En la columna &quot;[ C l subíndice 2 ] ( mol / L)&quot; están los números: 0,50, 0,50, y 1,00. En la columna &quot;Tasa ( mol / L / h )&quot; están los números: 1,14, 4,56, y 9,12."><label/>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry align="left">[NO] (mol/L)</entry>
+<entry align="left">[Cl<sub>2</sub>] (mol/L)</entry>
+<entry align="left">Velocidad (mol L<sup>−1</sup> h<sup>−1</sup>)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">0,50</entry>
+<entry align="left">0,50</entry>
+<entry align="left">1,14</entry>
+</row>
+<row valign="middle">
+<entry align="left">1,00</entry>
+<entry align="left">0,50</entry>
+<entry align="left">4,56</entry>
+</row>
+<row valign="middle">
+<entry align="left">1,00</entry>
+<entry align="left">1,00</entry>
+<entry align="left">9,12</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-idm185311088">¿Cuál es la ley de velocidad que describe la dependencia de la velocidad de las concentraciones de NO y Cl<sub>2</sub>? ¿Cuál es la constante de velocidad? ¿Cuáles son los órdenes con respecto a cada reactivo?</para>
+</problem>
+<solution id="fs-idm268986480">
+<para id="fs-idm174039344">velocidad = <emphasis effect="italics">k</emphasis>[NO]<sup>2</sup>[Cl<sub>2</sub>]; <emphasis effect="italics">k</emphasis> = 9,1 L<sup>2</sup> mol<sup>−2</sup> h<sup>−1</sup>; segundo orden en NO; primer orden en Cl<sub>2</sub></para></solution>
+</exercise>
+<exercise id="fs-idm168734944">
+<problem id="fs-idm114198000">
+<para id="fs-idm219404160">El hidrógeno reacciona con el monóxido de nitrógeno para formar monóxido de dinitrógeno (gas hilarante) según la ecuación: <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>2NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm148410512">Determine la ley de velocidad, la constante de velocidad y los órdenes con respecto a cada reactivo a partir de los siguientes datos:</para>
+<table id="fs-idm261821504" class="column-header unnumbered" summary="Esta tabla tiene cuatro columnas y tres filas. La primera columna marca cada fila, &quot;[ N O ] ( M )&quot;, &quot;[ H subíndice 2 ] ( M )&quot; y &quot;Tasa ( mol / L / s )&quot;. A la derecha del encabezado &quot;[ N O ] ( M )&quot; están los números: 0,30, 0,60, y 0,60. A la derecha del encabezado &quot;[ H subíndice 2 ] ( M )&quot; están los números: 0,35, 0,35, y 0,70. A la derecha del encabezado, &quot;Tasa ( mol / L / s )&quot; están los números 2,835 por diez al 3 negativo, 1,134 por 10 al dos negativo y 2,268 por diez al 2 negativo&quot;.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row valign="middle">
+<entry align="left">[NO] (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">0,30</entry>
+<entry align="left">0,60</entry>
+<entry align="left">0,60</entry>
+</row>
+<row valign="middle">
+<entry align="left">[H<sub>2</sub>] (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">0,35</entry>
+<entry align="left">0,35</entry>
+<entry align="left">0,70</entry>
+</row>
+<row valign="middle">
+<entry align="left">Velocidad (mol L<sup>−1</sup> s<sup>−1</sup>)</entry>
+<entry align="left">2,835 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+<entry align="left">1,134 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+<entry align="left">2,268 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-idm49483024">
+<problem id="fs-idm215926240">
+<para id="fs-idm253875200">Para la reacción <m:math><m:mrow><m:mi>A</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>B</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:mo>,</m:mo></m:mrow></m:math> se obtuvieron los siguientes datos a 30 °C:</para>
+<table id="fs-idm262119440" class="column-header unnumbered" summary="Esta tabla tiene cuatro columnas y dos filas. La primera columna marca cada fila, &quot;[ A ] ( M )&quot;, y &quot;Tasa ( mol / L / s )&quot;. A la derecha del encabezado, &quot;[ A ] ( M )&quot;, están los números: 0,230, 0,356, y 0,557. A la derecha del encabezado, &quot;Tasa ( mol / L / s )&quot;, están los números: 4,7 por diez al 4 negativo, 9,99 por diez al 4 negativo y 2,44 por diez al 3 negativo.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row valign="middle">
+<entry align="left">[<emphasis effect="italics">A</emphasis>] (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">0,230</entry>
+<entry align="left">0,356</entry>
+<entry align="left">0,557</entry>
+</row>
+<row valign="middle">
+<entry align="left">Velocidad (mol L<sup>−1</sup> s<sup>−1</sup>)</entry>
+<entry align="left">4,17 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+<entry align="left">9,99 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+<entry align="left">2,44 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm356651248">(a) ¿Cuál es el orden de la reacción con respecto a [<emphasis effect="italics">A</emphasis>] y cuál es la ley de velocidad?</para>
+<para id="fs-idm110876512">(b) ¿Cuál es la constante de velocidad?</para>
+</problem>
+<solution id="fs-idm168970400">
+<para id="fs-idm168970144">(a) La ley de velocidad es de segundo orden en A y se escribe como velocidad = <emphasis effect="italics">k</emphasis>[<emphasis effect="italics">A</emphasis>]<sup>2</sup>. (b) <emphasis effect="italics">k</emphasis> = 7,88 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup> L mol<sup>−1</sup> s<sup>−1</sup></para></solution>
+</exercise>
+<exercise id="fs-idm140371280">
+<problem id="fs-idm189702064">
+<para id="fs-idm189701808">Para la reacción <m:math><m:mrow><m:mi>Q</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>W</m:mi><m:mo>+</m:mo><m:mi>X</m:mi><m:mo>,</m:mo></m:mrow></m:math> se obtuvieron los siguientes datos a 30 °C:</para>
+<table id="fs-idm53317088" class="column-header unnumbered" summary="Esta tabla tiene cuatro columnas y dos filas. La primera columna marca cada fila, &quot;[ Q ] subíndice inicial ( M )&quot;, y &quot;Tasa ( mol / L / s )&quot;. A la derecha del encabezado, &quot;[ Q ] subíndice inicial ( M )&quot;, están los números: 0,170, 0,212, y 0,357. A la derecha del encabezado, &quot;Tasa ( mol / L / s )&quot;, están los números: 6,68 por diez al 3 negativo, 1,04 por diez al 2 negativo y 2,94 por diez al 2 negativo.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<tbody>
+<row valign="middle">
+<entry align="left">[<emphasis effect="italics">Q</emphasis>]<sub>inicial</sub> (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">0,170</entry>
+<entry align="left">0,212</entry>
+<entry align="left">0,357</entry>
+</row>
+<row valign="middle">
+<entry align="left">Velocidad (mol L<sup>−1</sup> s<sup>−1</sup>)</entry>
+<entry align="left">6,68 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup></entry>
+<entry align="left">1,04 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+<entry align="left">2,94 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm157857072">(a) ¿Cuál es el orden de la reacción con respecto a [<emphasis effect="italics">Q</emphasis>] y cuál es la ley de velocidad?</para>
+<para id="fs-idm187916448">(b) ¿Cuál es la constante de velocidad?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm57376432">
+<problem id="fs-idm245906208">
+<para id="fs-idm245905952">La constante de velocidad para la descomposición de primer orden a 45 °C del pentóxido de dinitrógeno, N<sub>2</sub>O<sub>5</sub>, disuelto en cloroformo, CHCl<sub>3</sub>, es de 6,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup> min<sup>−1</sup>.<newline/> <m:math><m:mrow><m:msub><m:mrow><m:mtext>2N</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>5</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>4NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+<para id="fs-idm287521616">¿Cuál es la velocidad de la reacción cuando [N<sub>2</sub>O<sub>5</sub>] = 0,40 <emphasis effect="italics">M</emphasis>?</para>
+</problem>
+<solution id="fs-idm182857840">
+<para id="fs-idm180347168">(a) 2,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup> mol/L/min</para>
+</solution>
+</exercise>
+<exercise id="fs-idm152420960">
+<problem id="fs-idm152420704">
+<para id="fs-idm122065680">La producción anual de HNO<sub>3</sub> en 2013 fue de 60 millones de toneladas métricas. La mayor parte se preparó mediante la siguiente secuencia de reacciones, cada una de ellas ejecutada en un recipiente de reacción distinto.</para>
+<para id="fs-idm119022896">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>4NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>5O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>4NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>6H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm193369040">(b) <m:math><m:mrow><m:mtext>2NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm207045120">(c) <m:math><m:mrow><m:msub><m:mrow><m:mtext>3NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O(</m:mtext><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2HNO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>NO(</m:mtext><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idm179213568">La primera reacción se lleva a cabo quemando amoníaco en aire sobre un catalizador de platino. Esta reacción es rápida. La reacción de la ecuación (c) también es rápida. La segunda reacción limita la velocidad a la que se puede preparar el ácido nítrico a partir del amoníaco. Si la ecuación (b) es de segundo orden en el NO y de primer orden en el O<sub>2</sub>, ¿cuál es la velocidad de formación del NO<sub>2</sub> cuando la concentración de oxígeno es de 0,50 <emphasis effect="italics">M</emphasis> y la de óxido nítrico es de 0,75 <emphasis effect="italics">M</emphasis>? La constante de velocidad de la reacción es de 5,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup> L<sup>2</sup> mol<sup>−2</sup> s<sup>−1</sup>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm237267424">
+<problem id="fs-idm237267168">
+<para id="fs-idm136971952">Se han determinado los siguientes datos para la reacción:<newline/> <m:math><m:mrow><m:msup><m:mtext>I</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OCl</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>IO</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<table id="fs-idm189410736" class="unnumbered" summary="Esta tabla tiene cuatro columnas y cuatro filas. La primera columna marca cada fila. La primera celda de la primera columna está en blanco, y luego cada fila está marcada, &quot;[ I superíndice signo negativo ] subíndice inicial ( M )&quot;, &quot;[ O C l superíndice signo negativo ] subíndice inicial ( M )&quot;, y, &quot;Tasa ( mol / L / s )&quot;. A la derecha de la celda en blanco están los números: 1, 2 y 3. A la derecha del encabezado, &quot;[ I superíndice signo negativo ] subíndice inicial ( M )&quot;, están los números: 0,10, 0,20, y 0,30. A la derecha del encabezado, &quot;[ O C l superíndice signo negativo ] subíndice inicial ( M )&quot;, están los números: 0,050, 0,050, y 0,010. A la derecha del encabezado, &quot;Tasa ( mol / L / s )&quot;, están los números: 3,05 por diez al 4 negativo, 6,20 por diez al 4 negativo y 1,83 por diez al 4 negativo.">
+<label/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="middle">
+<entry align="left"/>
+<entry align="left">1</entry>
+<entry align="left">2 </entry>
+<entry align="left">3</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mtext>I</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mtext>inicial</m:mtext></m:mrow></m:msub></m:mrow></m:math> (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">0,10</entry>
+<entry align="left">0,20</entry>
+<entry align="left">0,30</entry>
+</row>
+<row valign="middle">
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>OCl</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mtext>inicial</m:mtext></m:mrow></m:msub></m:mrow></m:math> (<emphasis effect="italics">M</emphasis>)</entry>
+<entry align="left">0,050</entry>
+<entry align="left">0,050</entry>
+<entry align="left">0,010</entry>
+</row>
+<row valign="middle">
+<entry align="left">Velocidad (mol L<sup>−1</sup> s<sup>−1</sup>)</entry>
+<entry align="left">3,05 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+<entry align="left">6,20 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+<entry align="left">1,83 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm152575552">Determine la ley de velocidad y la constante de velocidad para esta reacción.</para>
+</problem>
+<solution id="fs-idm220253760">
+<para id="fs-idm220253504">velocidad = <emphasis effect="italics">k</emphasis>[I<sup>−</sup>][OCl<sup>−</sup>]; <emphasis effect="italics">k</emphasis> = 6,1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup> L mol <sup>−1</sup> s<sup>−1</sup></para></solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm176826832">
+<term>método de las velocidades iniciales</term>
+<meaning id="fs-idm176826448">enfoque experimental común para determinar las leyes de velocidad que implica la medición de las velocidades de reacción a diferentes concentraciones iniciales de reactivos</meaning></definition>
+<definition id="fs-idm276164832">
+<term>orden de reacción global</term>
+<meaning id="fs-idm263526528">suma de los órdenes de reacción para cada sustancia representada en la ley de velocidad</meaning></definition>
+<definition id="fs-idm185628880">
+<term>constante de velocidad (<emphasis effect="italics">k</emphasis>)</term>
+<meaning id="fs-idm213521696">constante de proporcionalidad en una ley de velocidad</meaning></definition>
+<definition id="fs-idm215968704">
+<term>ley de velocidad</term>
+<meaning id="fs-idm215968320">(también, ecuación de velocidad o leyes diferenciales de velocidad) ecuación matemática que muestra la dependencia de la velocidad de reacción de la constante de velocidad y la concentración de uno o más reactivos</meaning></definition>
+<definition id="fs-idm333854336">
+<term>orden de reacción</term>
+<meaning id="fs-idm47186480">valor de un exponente en una ley de velocidad (por ejemplo, orden cero para 0, primer orden para 1, segundo orden para 2, etc.)</meaning></definition>
+</glossary>
+</document>

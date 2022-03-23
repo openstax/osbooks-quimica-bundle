@@ -1,0 +1,138 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Electrolitos</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68781</md:content-id>
+  <md:title>Electrolitos</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Definir y dar ejemplos de electrolitos.</item>
+<item>Distinguir entre los cambios físicos y químicos que acompañan a la disolución de los electrolitos iónicos y covalentes.</item>
+<item>Relacionar la fuerza del electrolito con las fuerzas de atracción soluto-solvente.</item>
+</list></md:abstract>
+  <md:uuid>ddeb42d9-e09a-4c0c-afd0-633c0bf6b125</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp18381520">Cuando algunas sustancias se disuelven en agua, sufren un cambio físico o químico que produce iones en solución. Estas sustancias constituyen una importante clase de compuestos llamados <term>electrolitos</term>. Las sustancias que no producen iones cuando se disuelven se denominan <term>no electrolitos</term>. Si el proceso físico o químico que genera los iones es esencialmente eficiente al 100 % (todo el compuesto disuelto produce iones), entonces la sustancia se conoce como un <term>electrolito fuerte</term>. Si solo una fracción relativamente pequeña de la sustancia disuelta sufre el proceso de producción de iones, se denomina <term>electrolito débil</term>.</para>
+<para id="fs-idm8509568">Las sustancias pueden identificarse como fuertes, débiles o no electrolíticas midiendo la conductancia eléctrica de una solución acuosa que contenga la sustancia. Para conducir la electricidad, una sustancia debe contener especies cargadas y libremente móviles. La más conocida es la conducción de electricidad a través de cables metálicos, en cuyo caso las entidades móviles y cargadas son los electrones. Las soluciones también pueden conducir la electricidad si contienen iones disueltos, y la conductividad aumenta a medida que aumenta la concentración de iones. La aplicación de un voltaje a los electrodos sumergidos en una solución permite evaluar la concentración relativa de los iones disueltos, ya sea cuantitativamente, midiendo el flujo de corriente eléctrica, o cualitativamente, observando el brillo de una bombilla incluida en el circuito (<link target-id="CNX_Chem_11_02_electrolyt"/>).</para>
+<figure id="CNX_Chem_11_02_electrolyt">
+<media id="fs-idm7287312" alt="Este diagrama muestra tres vasos de precipitados separados. Cada uno tiene un cable que se conecta a una toma de corriente. En cada caso, el cable va desde la pared hasta el vaso de precipitados y se divide dando lugar a dos extremos. Un extremo conduce a una bombilla y continúa hasta un rectángulo marcado con un signo positivo. El otro extremo conduce a un rectángulo marcado con un signo negativo. Los rectángulos están en una solución. En el primer vaso de precipitados, marcado como &quot;Etanol sin conductividad&quot;, hay cuatro pares de pequeñas esferas verdes unidas y suspendidas en la solución entre los rectángulos. En el segundo vaso de precipitados, marcado como &quot;K C l Conductividad fuerte&quot;, se encuentran suspendidas en la solución seis esferas verdes individuales, tres marcadas con signo positivo y tres con signo negativo. Cada una de las seis esferas tiene una flecha que sale de ella y apunta al rectángulo marcado con el signo contrario. En el tercer vaso, marcado como &quot;Solución de ácido acético Conductividad débil&quot;, se muestran dos pares de esferas verdes unidas y dos esferas individuales, una marcada con un signo positivo y otra con el signo negativo, suspendidas entre los dos rectángulos. La esfera marcada con el signo positivo tiene una flecha que apunta al rectángulo marcado con el signo negativo y la esfera marcada con el signo negativo tiene una flecha que apunta al rectángulo marcado con el signo positivo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_02_electrolyt.jpg"/>
+</media>
+<caption>Las soluciones de no electrolitos, como el etanol, no contienen iones disueltos y no pueden conducir la electricidad. Las soluciones de electrolitos contienen iones que permiten el paso de la electricidad. La conductividad de una solución electrolítica está relacionada con la fuerza del electrolito.</caption>
+</figure>
+<section id="fs-idm25275856">
+<title>Electrolitos iónicos</title>
+<para id="fs-idp2501472">El agua y otras moléculas polares son atraídas por los iones, como se muestra en la <link target-id="CNX_Chem_11_02_waterions"/>. La atracción electrostática entre un ion y una molécula con un dipolo se denomina <term>atracción ion-dipolo</term>. Estas atracciones desempeñan un papel importante en la disolución de los compuestos iónicos en el agua.</para>
+<figure id="CNX_Chem_11_02_waterions" class="scaled-down">
+<media id="fs-idm117781392" alt="El diagrama muestra ocho esferas púrpuras marcadas como K superíndice signo positivo y ocho esferas verdes marcadas como C l superíndice signo negativo mezcladas y tocándose cerca del centro del diagrama. Fuera de este grupo de esferas hay diecisiete grupos de tres esferas, que incluyen una roja y dos blancas. Una esfera roja en uno de estos racimos está marcada como O. Una esfera blanca está marcada como H. Dos de las esferas verdes C l superíndice signo negativo están rodeadas por tres de los racimos rojos y blancos, con las esferas rojas más cerca de las esferas verdes que de las blancas. Una de las esferas K superíndice signo positivo púrpura está rodeada por cuatro de los racimos rojos y blancos. Las esferas blancas de estos cúmulos están más cerca de las esferas moradas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_02_waterions.jpg"/>
+</media>
+<caption>Al disolverse el cloruro de potasio (KCl) en el agua, los iones se hidratan. Las moléculas polares de agua son atraídas por las cargas de los iones K<sup>+</sup> y Cl<sup>−</sup>. No se muestran las moléculas de agua situadas delante y detrás de los iones.</caption>
+</figure>
+<para id="fs-idp43584496">Cuando los compuestos iónicos se disuelven en agua, los iones del sólido se separan y se dispersan uniformemente por la solución porque las moléculas de agua rodean y disuelven los iones, reduciendo las fuertes fuerzas electrostáticas entre ellos. Este proceso representa un cambio físico conocido como <term>disociación</term>. En la mayoría de las condiciones, los compuestos iónicos se disocian casi por completo cuando se disuelven, por lo que se clasifican como electrolitos fuertes. Incluso con poca frecuencia, los compuestos iónicos solubles son electrolitos fuertes, ya que la pequeña cantidad que se disuelve se disociará completamente.</para>
+<para id="fs-idp39918704">Considere lo que ocurre a nivel microscópico cuando se añade KCl sólido al agua. Las fuerzas iónicas dipolares atraen el extremo positivo (hidrógeno) de las moléculas polares de agua a los iones negativos de cloruro en la superficie del sólido, y atraen los extremos negativos (oxígeno) a los iones positivos de potasio. Las moléculas de agua rodean a los iones K<sup>+</sup> y Cl<sup>−</sup> individuales, reduciendo las fuertes fuerzas interiónicas que unen a los iones y permitiendo que se desplacen hacia la solución como iones solvatados, como muestra la <link target-id="CNX_Chem_11_02_waterions"/>. La superación de la atracción electrostática permite el movimiento independiente de cada ion hidratado en una solución diluida a medida que los iones pasan de posiciones fijas en el compuesto no disuelto a iones ampliamente dispersos y solvatados en la solución.</para>
+</section>
+<section id="fs-idp29082528">
+<title>Electrolitos covalentes</title>
+<para id="fs-idp617792">El agua pura es un conductor extremadamente pobre de electricidad porque está muy poco ionizada: solo dos de cada mil millones de moléculas se ionizan a 25 °C. El agua se ioniza cuando una molécula de agua cede un protón (ion H<sup>+</sup>) a otra molécula de agua, dando lugar a iones de hidronio e hidróxido.</para><equation class="unnumbered" id="fs-idp45812272"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mtext>OH</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm10993712">En algunos casos, las soluciones preparadas a partir de compuestos covalentes conducen la electricidad porque las moléculas del soluto reaccionan químicamente con el solvente para producir iones. Por ejemplo, el cloruro de hidrógeno puro es un gas formado por moléculas covalentes de HCl. Este gas no contiene iones. Sin embargo, una solución acuosa de HCl es muy buena conductora, lo que indica que existe una concentración apreciable de iones en la solución.</para>
+<para id="fs-idm25981680">Como el HCl es un <emphasis effect="italics">ácido</emphasis>, sus moléculas reaccionan con el agua, transfiriendo iones H<sup>+</sup> para formar iones hidronio (H<sub><sub>3</sub></sub>O<sup>+</sup>) e iones cloruro (Cl<sup>−</sup>):</para>
+<media id="fs-idp29456368" class="scaled-down" alt="Se muestra una ecuación química. A la izquierda, dos átomos de hidrógeno están unidos, cada uno con un solo guion a un átomo de oxígeno central a la izquierda y debajo del símbolo de oxígeno, que tiene dos pares de puntos, por encima y a la derecha del átomo. Se muestra un signo positivo a la derecha y, a continuación, un átomo de hidrógeno unido al lado izquierdo del átomo de cloro mediante un único guion con tres pares de puntos, encima, a la derecha y debajo del símbolo del elemento. Una flecha señala los productos que son tres átomos de hidrógeno unidos por guiones simples a un átomo de oxígeno central mostrado entre paréntesis con superíndice signo positivo. El átomo de oxígeno tiene un solo par de puntos sobre el símbolo del elemento. Esto va seguido de un signo positivo y de un superíndice signo negativo. Este símbolo está rodeado por cuatro pares de puntos, por encima y por debajo y a la izquierda y a la derecha del símbolo del elemento.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_02_H3O_CL_img.jpg"/>
+</media>
+<para id="fs-idm4855136">Esta reacción es esencialmente 100 % completa para el HCl (es decir, es un <emphasis effect="italics">ácido fuerte</emphasis> y, en consecuencia, un electrolito fuerte). Asimismo, los ácidos y las bases débiles que solo reaccionan parcialmente generan concentraciones relativamente bajas de iones cuando se disuelven en el agua y se clasifican como electrolitos débiles. El lector puede repasar el análisis de los ácidos fuertes y débiles que se expuso en el capítulo anterior de este texto en las clases de reacciones y la estequiometría.</para>
+</section>
+<section id="fs-idm11909136" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp18654544">Las sustancias que se disuelven en el agua para dar lugar a iones se denominan electrolitos. Los electrolitos pueden ser compuestos covalentes que reaccionan químicamente con el agua para producir iones (por ejemplo, ácidos y bases), o pueden ser compuestos iónicos que se disocian para dar lugar a sus cationes y aniones constitutivos, cuando se disuelven. La disolución de un compuesto iónico se ve facilitada por las atracciones ion-dipolo entre los iones del compuesto y las moléculas polares de agua. Las sustancias iónicas solubles y los ácidos fuertes se ionizan completamente y son electrolitos fuertes, mientras que los ácidos y las bases débiles se ionizan solo en una pequeña medida y son electrolitos débiles. Los no electrolitos son sustancias que no producen iones cuando se disuelven en agua.</para>
+</section>
+<section id="fs-idm559200" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idp1366224">
+<problem id="fs-idp15031216">
+<para id="fs-idm27333072">Explique por qué los iones Na<sup>+</sup> y Cl<sup>−</sup> se disuelven fuertemente en el agua pero no en el hexano, un disolvente compuesto por moléculas no polares.</para></problem>
+<solution id="fs-idp22937920">
+<para id="fs-idp840624">Los cristales de NaCl se disuelven en agua, un líquido polar con un momento dipolar muy grande, y los iones individuales se solvatan fuertemente. El hexano es un líquido no polar con un momento dipolar nulo y, por tanto, no interactúa significativamente con los iones de los cristales de NaCl.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm26375616">
+<problem id="fs-idm48317472">
+<para id="fs-idm11906688">Explique por qué las soluciones de HBr en benceno (un solvente no polar) son no conductoras, mientras que las soluciones en agua (un solvente polar) son conductoras.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp608736">
+<problem id="fs-idm46212160">
+<para id="fs-idm30316720">Considere las soluciones presentadas:</para>
+<para id="fs-idm78750672">(a) ¿Cuál de los siguientes esquemas representa mejor los iones de una solución de Fe(NO<sub>3</sub>)<sub>3</sub>(<emphasis effect="italics">aq</emphasis>)?</para>
+<media id="fs-idm58752" alt="En esta figura, se muestran tres vasos de precipitados marcados como x, y y z que contienen varias disposiciones de esferas azules y rojas suspendidas en una solución. En el vaso x, tres pequeñas esferas rojas rodean una única esfera azul central en pequeños grupos que, a su vez, se agrupan de tres en tres alrededor de una única esfera roja, formando cuatro grupos más grandes. En el vaso y, los cuatro grandes grupos están presentes sin las esferas rojas centrales. Ahora hay cuatro esferas rojas individuales. En el vaso z, los grandes grupos no están presentes. Hay doce de los pequeños grupos de tres esferas rojas y una azul, junto con cuatro esferas rojas individuales.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_02_Fe(NO3)3_img.jpg"/>
+</media>
+<para id="fs-idm44321280">(b) Escriba una ecuación química equilibrada que muestre los productos de la disolución del Fe(NO<sub>3</sub>)<sub>3</sub>.</para>
+</problem>
+<solution id="fs-idm15172320">
+<para id="fs-idm125662992">(a) El Fe(NO<sub>3</sub>)<sub>3</sub> es un electrolito fuerte, por lo que debería disociarse completamente en Fe<sup>3+</sup> y los iones de <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math>. Por lo tanto, (z) representa mejor la solución. (b) <m:math><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>-</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-idm785520">
+<problem id="fs-idm57125184">
+<para id="fs-idm67036112">Compare los procesos que ocurren cuando el metanol (CH<sub>3</sub>OH), el cloruro de hidrógeno (HCl) y el hidróxido de sodio (NaOH) se disuelven en agua. Escriba ecuaciones y prepare esquemas que muestren la forma en que cada uno de estos compuestos está presente en su respectiva solución.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp40604768">
+<problem id="fs-idm10702048">
+<para id="fs-idp55791360">¿Cuál es la conductividad eléctrica esperada de las siguientes soluciones?</para>
+<para id="fs-idm38868560">(a) NaOH(<emphasis effect="italics">aq</emphasis>)</para>
+<para id="fs-idm10517104">(b) HCl(<emphasis effect="italics">aq</emphasis>)</para>
+<para id="fs-idm50140880">(c) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(<emphasis effect="italics">aq</emphasis>) (glucosa)</para>
+<para id="fs-idm49304096">(d) NH<sub>3</sub>(<emphasis effect="italics">aq</emphasis>)</para></problem>
+<solution id="fs-idm6139600">
+<para id="fs-idm70158128">(a) alta conductividad (el soluto es un compuesto iónico que se disociará cuando se disuelva); (b) alta conductividad (el soluto es un ácido fuerte y se ionizará completamente cuando se disuelva); (c) no conductivo (el soluto es un compuesto covalente, ni ácido ni base, no reacciona con el agua); (d) baja conductividad (el soluto es una base débil y se ionizará parcialmente cuando se disuelva).</para>
+</solution>
+</exercise>
+<exercise id="fs-idm22188736">
+<problem id="fs-idm44373776">
+<para id="fs-idm5817440">¿Por qué la mayoría de los compuestos iónicos <emphasis effect="italics">sólidos</emphasis> no son conductores de la electricidad, mientras que las soluciones acuosas de compuestos iónicos son buenas conductoras? ¿Espera que un compuesto iónico <emphasis effect="italics">líquido</emphasis> (fundido) sea conductor o no conductor de la electricidad? Explique.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm39772000">
+<problem id="fs-idm69993344">
+<para id="fs-idp23193408">Indique el tipo de atracción intermolecular más importante responsable de la solvatación en cada una de las siguientes soluciones:</para>
+<para id="fs-idm12881936">(a) las soluciones en la <link target-id="CNX_Chem_11_02_waterions"/></para>
+<para id="fs-idp1970576">b) metanol, CH<sub>3</sub>OH, disuelto en etanol, C<sub>2</sub>H<sub>5</sub>OH.</para>
+<para id="fs-idp26142352">c) metano, CH<sub>4</sub>, disuelto en benceno, C<sub>6</sub>H<sub>6</sub>.</para>
+<para id="fs-idm143739184">d) el halocarburo polar CF<sub>2</sub>Cl<sub>2</sub> disuelto en el halocarburo polar CF<sub>2</sub>ClCFCl<sub>2</sub>.</para>
+<para id="fs-idp26201488">(e) O<sub>2</sub>(<emphasis effect="italics">l</emphasis>) en N<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</para>
+</problem>
+<solution id="fs-idm99654464">
+<para id="fs-idp39750656">(a) ion-dipolo; (b) enlaces de hidrógeno; (c) fuerzas de dispersión; (d) atracciones dipolo-dipolo; (e) fuerzas de dispersión.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm32680960">
+<term>disociación</term>
+<meaning id="fs-idm272144">proceso físico que acompaña la disolución de un compuesto iónico en la que los iones que constituyen el compuesto se disuelven y se dispersan por la solución.</meaning>
+</definition>
+<definition id="fs-idm10926960">
+<term>electrolito</term>
+<meaning id="fs-idm11847584">sustancia que produce iones cuando se disuelve en agua.</meaning>
+</definition>
+<definition id="fs-idp1071840">
+<term>atracción ion-dipolo</term>
+<meaning id="fs-idm121741424">atracción electrostática entre un ion y una molécula polar.</meaning>
+</definition>
+<definition id="fs-idp10683312">
+<term>no electrolítico</term>
+<meaning id="fs-idp15468208">sustancia que no produce iones cuando se disuelve en agua.</meaning>
+</definition>
+<definition id="fs-idm7742384">
+<term>electrolito fuerte</term>
+<meaning id="fs-idp1025072">sustancia que se disocia o ioniza completamente cuando se disuelve en agua.</meaning>
+</definition>
+<definition id="fs-idp4277680">
+<term>electrolito débil</term>
+<meaning id="fs-idm39786640">sustancia que se ioniza solo parcialmente cuando se disuelve en agua.</meaning>
+</definition>
+</glossary>
+</document>

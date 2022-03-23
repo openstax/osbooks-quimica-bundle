@@ -1,0 +1,334 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Propiedades de los líquidos</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68764</md:content-id>
+  <md:title>Propiedades de los líquidos</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Distinguir entre fuerzas adhesivas y cohesivas.</item>
+<item>Definir la viscosidad, la tensión superficial y el ascenso capilar.</item>
+<item>Describa el papel de las fuerzas de atracción intermoleculares en cada una de estas propiedades/fenómenos.</item>
+</list></md:abstract>
+  <md:uuid>846e6c50-e81e-4658-b938-857b5169e73c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm130666608">Cuando se vierte un vaso de agua, o se carga un automóvil de gasolina, se observa que el agua y la gasolina fluyen libremente. Pero cuando se vierte jarabe en las tortitas o se añade aceite al motor de un automóvil, se observa que el jarabe y el aceite de motor no fluyen con tanta facilidad. La <term>viscosidad</term> de un líquido es una medida de su resistencia al flujo. El agua, la gasolina y otros líquidos que fluyen libremente tienen una baja viscosidad. La miel, el jarabe, el aceite de motor y otros líquidos que no fluyen libremente, como los que se muestran en la <link target-id="CNX_Chem_10_02_Viscosity"/>, tienen viscosidades más altas. Podemos medir la viscosidad midiendo la velocidad con la que una bola de metal cae a través de un líquido (la bola cae más lentamente a través de un líquido más viscoso) o midiendo la velocidad con la que un líquido fluye a través de un tubo estrecho (los líquidos más viscosos fluyen más lentamente).</para>
+<figure id="CNX_Chem_10_02_Viscosity" class="scaled-down">
+<media id="fs-idm87904672" alt="Se muestran dos fotografías marcadas como &quot;a&quot; y &quot;b&quot;. La foto a muestra un tarro de miel con un cuchara mielera que la rocía sobre una galleta. Al fondo se ven más galletas en una cesta. La foto b muestra el motor de un automóvil y una persona que añade aceite al motor.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_Viscosity.jpg"/>
+</media>
+<caption>(a) La miel y (b) el aceite de motor son ejemplos de líquidos con altas viscosidades; fluyen lentamente. (Crédito a: modificación del trabajo de Scott Bauer; crédito b: modificación del trabajo de David Nagy).</caption>
+</figure>
+<para id="fs-idm133174592">Las IMF entre las moléculas de un líquido, el tamaño y la forma de las moléculas y la temperatura determinan la facilidad con la que fluye un líquido. Como muestra la <link target-id="fs-idm123780960"/>, cuanto más complejas sean las moléculas de un líquido desde el punto de vista estructural y más fuertes sean las IMF entre ellas, más difícil será que se desplacen entre sí y mayor será la viscosidad del líquido. A medida que aumenta la temperatura, las moléculas se mueven más rápidamente y sus energías cinéticas son más capaces de superar las fuerzas que las mantienen unidas; así, la viscosidad del líquido disminuye.</para>
+<table id="fs-idm123780960" class="top-titled" summary="Esta tabla tiene tres columnas y ocho filas. La primera fila es una fila de encabezado, y marca cada columna como &quot;Sustancia&quot;, &quot;Fórmula&quot; y &quot;Viscosidad ( m P a punto s )&quot;. En la columna &quot;Sustancia&quot; se encuentra lo siguiente: agua, mercurio, etanol, octano, etilenglicol, miel y aceite de motor. En la columna &quot;Fórmula&quot; se encuentra lo siguiente: H subíndice 2 O, H g, C subíndice 2 H subíndice 5 O H, C subíndice 8 H subíndice 18, C H subíndice 2 ( O H ) C H subíndice 2 ( O H ), variable y variable. En la columna &quot;Viscosidad ( m P a dot s )&quot; se encuentra lo siguiente: 0,890, 1,526, 1,074, 0,508, 16,1, aproximadamente de 2000 a 10000, y aproximadamente de 50 a 500.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c3" align="center">Viscosidades de sustancias comunes a 25 °C</entry>
+</row>
+<row valign="middle">
+<entry align="center">Sustancia</entry>
+<entry align="center">Fórmula</entry>
+<entry align="center">Viscosidad en miliPascales (mPa-s)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="center">agua</entry>
+<entry align="center">H<sub>2</sub>O</entry>
+<entry align="center">0,890</entry>
+</row>
+<row valign="middle">
+<entry align="center">mercurio</entry>
+<entry align="center">Hg</entry>
+<entry align="center">1,526</entry>
+</row>
+<row valign="middle">
+<entry align="center">etanol</entry>
+<entry align="center">C<sub>2</sub>H<sub>5</sub>OH</entry>
+<entry align="center">1,074</entry>
+</row>
+<row valign="middle">
+<entry align="center">octanaje</entry>
+<entry align="center">C<sub>8</sub>H<sub>18</sub></entry>
+<entry align="center">0,508</entry>
+</row>
+<row valign="middle">
+<entry align="center">etilenglicol</entry>
+<entry align="center">CH<sub>2</sub>(OH)CH<sub>2</sub>(OH)</entry>
+<entry align="center">16,1</entry>
+</row>
+<row valign="middle">
+<entry align="center">miel</entry>
+<entry align="center">variable</entry>
+<entry align="center">~2.000–10.000</entry>
+</row>
+<row valign="middle">
+<entry align="center">aceite de motor</entry>
+<entry align="center">variable</entry>
+<entry align="center">~50–500</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm45103712">Las distintas IMF entre moléculas idénticas de una sustancia son ejemplos de <term>fuerzas de cohesión</term>. Las moléculas de un líquido están rodeadas por otras moléculas y las fuerzas de cohesión del líquido las atraen por igual en todas las direcciones. Sin embargo, las moléculas de la superficie de un líquido solo son atraídas por la mitad de las moléculas. Debido a las atracciones moleculares desequilibradas en las moléculas de la superficie, los líquidos se contraen para formar una forma que minimiza el número de moléculas en la superficie, es decir, la forma con el área superficial mínima. Una pequeña gota de líquido tiende a adoptar una forma esférica, como se muestra en la <link target-id="CNX_Chem_10_02_Droplet"/>, porque en una esfera, la relación entre la superficie y el volumen es mínima. Las gotas más grandes se ven más afectadas por la gravedad, la resistencia del aire, las interacciones de la superficie, etc., y, por tanto, son menos esféricas.</para>
+<figure id="CNX_Chem_10_02_Droplet" class="scaled-down">
+<media id="fs-idm162957840" alt="Se muestra una foto de una tela de araña con gotas de agua adheridas. A la derecha de la foto aparecen dos imágenes y las flechas van de la foto a las imágenes. La imagen superior muestra veintiocho esferas azules apiladas una encima de otra en el fondo de un fondo circular. Se dibujan cinco flechas que apuntan hacia los lados y hacia abajo desde la esfera en la parte superior central del dibujo. La imagen inferior muestra otro fondo circular del mismo tamaño que el primero, pero esta vez las esferas azules llenan la imagen y están muy juntas. Una esfera en el centro tiene seis flechas que apuntan en todas las direcciones alejándose de ella.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_Droplet.jpg"/>
+</media>
+<caption>Las fuerzas de atracción dan lugar a una gota de agua esférica que minimiza la superficie; las fuerzas de cohesión mantienen la esfera unida; las fuerzas de adhesión mantienen la gota unida a la red. (Foto de crédito: modificación del trabajo de "OliBac»/Flickr).</caption>
+</figure>
+<para id="fs-idm78773504">La<term>tensión superficial</term> se define como la energía necesaria para aumentar el área superficial de un líquido, o la fuerza necesaria para aumentar la longitud de una superficie líquida en una cantidad determinada. Esta propiedad es el resultado de las fuerzas de cohesión entre las moléculas en la superficie de un líquido, y hace que la superficie de un líquido se comporte como una membrana de goma estirada. Las tensiones superficiales de varios líquidos se presentan en la <link target-id="fs-idm139826368"/>. Entre los líquidos comunes, el agua presenta una tensión superficial claramente elevada debido al fuerte enlace de hidrógeno entre sus moléculas. Como resultado de esta elevada tensión superficial, la superficie del agua representa una "piel dura" que puede soportar una fuerza considerable sin romperse. Una aguja de acero colocada cuidadosamente en el agua flotará. Algunos insectos, como el que se muestra en la <link target-id="CNX_Chem_10_02_Strider"/>, aunque son más densos que el agua, se mueven en su superficie porque se apoyan en la tensión superficial.</para>
+<table id="fs-idm139826368" class="top-titled" summary="Esta tabla tiene tres columnas y seis filas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Sustancia&quot;, &quot;Fórmula&quot; y &quot;Tensión superficial ( m N / m )&quot;. En la columna &quot;Sustancia&quot; se encuentra lo siguiente: agua, mercurio, etanol, octano, etilenglicol. En la columna &quot;Fórmula&quot; se encuentra lo siguiente: H subíndice 2 O, H g, C subíndice 2 H subíndice 5 O H, C subíndice 8 H subíndice 18, C H subíndice 2 ( O H ) C H subíndice 2 ( O H ). En la columna &quot;Tensión superficial ( m N / m )&quot; se encuentra lo siguiente: 71,99, 458,48, 21,97, 21,14, 47,99.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c3" align="center">Tensiones superficiales de sustancias comunes a 25 °C</entry>
+</row>
+<row valign="middle">
+<entry align="center">Sustancia</entry>
+<entry align="center">Fórmula</entry>
+<entry align="center">Tensión superficial (mN/m)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="center">agua</entry>
+<entry align="center">H<sub>2</sub>O</entry>
+<entry align="center">71,99</entry>
+</row>
+<row valign="middle">
+<entry align="center">mercurio</entry>
+<entry align="center">Hg</entry>
+<entry align="center">458,48</entry>
+</row>
+<row valign="middle">
+<entry align="center">etanol</entry>
+<entry align="center">C<sub>2</sub>H<sub>5</sub>OH</entry>
+<entry align="center">21,97</entry>
+</row>
+<row valign="middle">
+<entry align="center">octanaje</entry>
+<entry align="center">C<sub>8</sub>H<sub>18</sub></entry>
+<entry align="center">21,14</entry>
+</row>
+<row valign="middle">
+<entry align="center">etilenglicol</entry>
+<entry align="center">CH<sub>2</sub>(OH)CH<sub>2</sub>(OH)</entry>
+<entry align="center">47,99</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure id="CNX_Chem_10_02_Strider" class="scaled-down">
+<media id="fs-idm60357712" alt="Una foto y un diagrama como los que se muestran y una flecha hacia la derecha que va de la foto a la imagen. La foto muestra un insecto parado en la superficie de una muestra de agua. La imagen muestra un fondo cuadrado que está cubierto en sus dos terceras partes por esferas azules muy juntas. Una línea marrón comienza en la esquina superior izquierda del fondo y se apoya sobre la primera fila de esferas. La esfera que está directamente debajo de este punto bajo de la línea tiene dibujadas cuatro flechas que miran hacia ambos lados y hacia abajo. Una esfera en la parte inferior central de la imagen tiene dibujadas seis flechas que miran hacia fuera en diferentes direcciones.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_Strider.jpg"/>
+</media>
+<caption>La tensión superficial (a la derecha) impide que este insecto, un "zancero del agua", se hunda en ella.</caption>
+</figure>
+<para id="eip-424">La tensión superficial se ve afectada por una serie de variables, como la introducción de sustancias adicionales en la superficie. A finales del siglo XIX, Agnes Pockels, que en un principio se vio impedida de seguir una carrera científica pero estudió por su cuenta, comenzó a investigar el impacto y las características de las películas jabonosas y grasientas en el agua. Utilizando materiales caseros, desarrolló un instrumento conocido como canaleta para medir los contaminantes de la superficie y sus efectos. Con el apoyo del renombrado científico Lord Rayleigh, su artículo de 1891 demostró que la contaminación de la superficie reduce significativamente la tensión superficial, y que el cambio de las características de la superficie (comprimiéndola o expandiéndola) también afecta a la tensión superficial. Décadas más tarde, Irving Langmuir y Katharine Blodgett se basaron en el trabajo de Pockels en su propia canaleta y en importantes avances en la química de superficies. Langmuir fue pionero en los métodos para producir capas de película de una sola molécula; Blodgett los aplicó al desarrollo de vidrio no reflectante (fundamental para la fabricación de películas y otras aplicaciones), y también estudió métodos relacionados con la limpieza de superficies, que son importantes en la fabricación de semiconductores.
+
+</para><para id="fs-idm245342800">Las fuerzas intermoleculares de atracción entre dos moléculas <emphasis effect="italics">diferentes</emphasis> se denominan <term>fuerzas adhesivas</term>. Piense en lo que ocurre cuando el agua entra en contacto con alguna superficie. Si las fuerzas adhesivas entre las moléculas de agua y las moléculas de la superficie son débiles en comparación con las fuerzas de cohesión entre las moléculas de agua, el agua no "moja" la superficie. Por ejemplo, el agua no moja las superficies enceradas ni muchos plásticos como el polietileno. El agua forma gotas en estas superficies porque las fuerzas de cohesión dentro de las gotas son mayores que las fuerzas adhesivas entre el agua y el plástico. El agua se extiende sobre el vidrio porque la fuerza de adhesión entre el agua y el vidrio es mayor que las fuerzas de cohesión dentro del agua. Cuando el agua está confinada en un tubo de vidrio, su menisco (superficie) tiene una forma cóncava porque el agua moja el vidrio y se arrastra por el lateral del tubo. Por otro lado, las fuerzas de cohesión entre los átomos de mercurio son mucho mayores que las fuerzas adhesivas entre el mercurio y el vidrio. Por lo tanto, el mercurio no moja el vidrio, y forma un menisco convexo cuando está confinado en un tubo porque las fuerzas de cohesión dentro del mercurio tienden a atraerlo en forma de gota (<link target-id="CNX_Chem_10_02_Meniscus"/>).</para>
+<figure id="CNX_Chem_10_02_Meniscus" class="scaled-down">
+<media id="fs-idm172871296" alt="Esta figura muestra dos tubos de ensayo. El tubo de ensayo de la izquierda contiene mercurio con un menisco que se redondea hacia arriba. El tubo de ensayo de la derecha contiene agua con un menisco que se redondea hacia abajo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_Meniscus.jpg"/>
+</media>
+<caption>Las diferencias en la fuerza relativa de las fuerzas cohesivas y adhesivas dan lugar a diferentes formas de menisco para el mercurio (izquierda) y el agua (derecha) en tubos de vidrio. (Crédito: Mark Ott).</caption>
+</figure>
+<para id="fs-idp26089824">Si se coloca un extremo de una toalla de papel en el vino derramado, como se muestra en la <link target-id="CNX_Chem_10_02_Wicking"/>, el líquido absorbe la toalla de papel. Un proceso similar ocurre en una toalla de tela cuando la usa para secarse después de la ducha. Se trata de ejemplos de <term>acción capilar</term>, cuando un líquido fluye dentro de un material poroso debido a la atracción de las moléculas del líquido hacia la superficie del material y hacia otras moléculas del líquido. Las fuerzas adhesivas entre el líquido y el material poroso, combinadas con las fuerzas de cohesión dentro del líquido, pueden ser lo suficientemente fuertes como para mover el líquido hacia arriba en contra de la gravedad.</para>
+<figure id="CNX_Chem_10_02_Wicking">
+<media id="fs-idp30571392" alt="Se muestra una foto y un diagrama. En la foto, una toalla de papel se sumerge en un cuenco lleno de un líquido rojo que está sobre la encimera. El líquido rojo sube por la parte inferior de la toalla de papel, y esta sección de la foto tiene un cuadrado dibujado alrededor. Una flecha que va hacia la derecha conduce desde este cuadro a la imagen. La imagen es cuadrada y tiene un fondo de dos tipos de moléculas, mezcladas. El primer tipo de molécula se compone de dos esferas negras enlazadas, una de las cuales tiene un enlace simple con tres esferas blancas y otra tiene un enlace simple con dos esferas blancas y a una esfera roja que a su vez está unida a una esfera blanca. El otro tipo de molécula se compone de seis esferas negras unidas entre sí en una fila y unidas a otras esferas rojas y blancas. Sobre este fondo se dibujan seis flechas que apuntan hacia arriba. Tienen signos positivos en sus extremos inferiores y signos negativos en sus puntas. Se dibujan cuatro flechas hacia arriba con sus signos invertidos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_Wicking.jpg"/>
+</media>
+<caption>El vino absorbe una toalla de papel (izquierda) debido a la fuerte atracción que ejercen las moléculas de agua (y etanol) sobre los grupos −OH de las fibras de celulosa de la toalla y a la fuerte atracción que ejercen las moléculas de agua sobre otras moléculas de agua (y etanol) (derecha). (Crédito de la fotografía: modificación del trabajo de Mark Blaser).</caption>
+</figure>
+<para id="fs-idm57496496">Las toallas absorben los líquidos como el agua porque las fibras de una toalla están hechas de moléculas que son atraídas por las moléculas de agua. La mayoría de las toallas de tela son de algodón, y las de papel suelen estar hechas de pasta de papel. Ambos están formados por largas moléculas de celulosa que contienen muchos grupos −OH. Las moléculas de agua son atraídas por estos grupos −OH y forman enlaces de hidrógeno con ellos, lo que atrae a las moléculas de H<sub>2</sub>O hacia las moléculas de celulosa. Las moléculas de agua también se atraen entre sí, por lo que grandes cantidades de agua suben por las fibras de celulosa.</para>
+<para id="fs-idm84525088">La acción capilar también puede producirse cuando un extremo de un tubo de pequeño diámetro se sumerge en un líquido, como se ilustra en la <link target-id="CNX_Chem_10_02_CapRise"/>. Si las moléculas del líquido son fuertemente atraídas por las moléculas del tubo, el líquido sube por el interior del tubo hasta que el peso del líquido y las fuerzas adhesivas se equilibran. Cuanto menor es el diámetro del tubo, más sube el líquido. El agua y los nutrientes disueltos se transportan desde el suelo a través de las raíces hasta la planta, en parte gracias a la acción capilar que se produce en las células de la planta, llamada xilema. La acción capilar es la base de la cromatografía en capa fina, una técnica de laboratorio utilizada habitualmente para separar pequeñas cantidades de mezclas. Usted depende de un suministro constante de lágrimas para mantener sus ojos lubricados y de la acción capilar para bombear el líquido lagrimal.</para>
+<figure id="CNX_Chem_10_02_CapRise">
+<media id="fs-idm60323520" alt="Se muestra una imagen de dos vasos de precipitados y un tubo. El primer vaso que se ve a la izquierda y está marcado como &quot;Agua&quot;, está medio lleno de un líquido azul. Se colocan dos tubos capilares abiertos verticalmente en el vaso de precipitados y se introducen en el líquido. El líquido se muestra más alto en los tubos que en el vaso de precipitados y se rotula &quot;Atracción capilar&quot;. El segundo vaso, dibujado en el centro y marcado como &quot;Mercurio&quot;, está dibujado medio lleno de un líquido gris. Se colocan dos tubos capilares abiertos verticalmente en el vaso de precipitados y se introducen en el líquido. El líquido se muestra más bajo en los tubos que en el vaso de precipitados y se rotula &quot;Repulsión capilar&quot;. Las líneas señalan los tubos verticales y los marcan como &quot;Tubos capilares&quot;. A la derecha se muestra un dibujo de uno de los tubos verticales del primer vaso de precipitados. Una flecha orientada a la derecha conduce del líquido en el tubo a un recuadro cuadrado que muestra un primer plano de la superficie del líquido. En esta imagen la distancia a través del tubo está marcada como &quot;2 r&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_CapRise.jpg"/>
+</media>
+<caption>Dependiendo de las fuerzas relativas de adhesión y cohesión, un líquido puede subir (como el agua) o bajar (como el mercurio) en un tubo capilar de vidrio. La magnitud del ascenso (o descenso) es directamente proporcional a la tensión superficial del líquido e inversamente proporcional a la densidad del líquido y al radio del tubo.</caption>
+</figure>
+<para id="fs-idm45302000">La altura a la que ascenderá un líquido en un tubo capilar se determina por varios factores, como se muestra en la siguiente ecuación:</para>
+<equation id="fs-idm228846576" class="unnumbered"><m:math><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>cos</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi></m:mrow><m:mrow><m:mi>r</m:mi><m:mi>ρ</m:mi><m:mi>g</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm202037120">En esta ecuación, <emphasis effect="italics">h</emphasis> es la altura del líquido dentro del tubo capilar con respecto a la superficie del líquido fuera del tubo, <emphasis effect="italics">T</emphasis> es la tensión superficial del líquido, <emphasis effect="italics">θ</emphasis> es el ángulo de contacto entre el líquido y el tubo, <emphasis effect="italics">r</emphasis> es el radio del tubo, <emphasis effect="italics">ρ</emphasis> es la densidad del líquido y <emphasis effect="italics">g</emphasis> es la aceleración debida a la gravedad, 9,8 m/s<sup>2</sup>. Cuando el tubo está hecho de un material al que las moléculas del líquido son fuertemente atraídas, se extenderán completamente por la superficie, lo que corresponde a un ángulo de contacto de 0°. Esta es la situación del agua que sube en un tubo de vidrio.</para>
+<example id="fs-idp7578512">
+<para id="fs-idm96381152"><title>Subida capilar</title>
+A 25 °C, ¿a qué altura subirá el agua en un tubo capilar de vidrio con un diámetro interior de 0,25 mm?</para>
+<para id="fs-idm132283168">Para el agua, <emphasis effect="italics">T</emphasis> = 71,99 mN/m y <emphasis effect="italics">ρ</emphasis> = 1,0 g/cm<sup>3</sup>.</para>
+<para id="fs-idm215629536"><title>Solución</title>
+El líquido subirá hasta una altura <emphasis effect="italics">h</emphasis> dada por <m:math><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>cos</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi></m:mrow><m:mrow><m:mi>r</m:mi><m:mi>ρ</m:mi><m:mi>g</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+<para id="fs-idm131978784">El Newton se define como un kg m/s<sup>2</sup>, por lo que la tensión superficial proporcionada equivale a 0,07199 kg/s<sup>2</sup>. La densidad proporcionada debe convertirse en unidades que se anulen adecuadamente: <emphasis effect="italics">ρ</emphasis> = 1000 kg/m<sup>3</sup> El diámetro del tubo en metros es de 0,00025 m, por lo que el radio es de 0,000125 m. En un tubo de vidrio sumergido en agua, el ángulo de contacto es <emphasis effect="italics">θ</emphasis> = 0°, por lo que cos θ = <emphasis effect="italics">1</emphasis>. Finalmente, la aceleración debida a la gravedad en la Tierra es <emphasis effect="italics">g</emphasis> = 9,8 m/s<sup>2</sup>. Sustituyendo estos valores en la ecuación, y cancelando las unidades, tenemos:</para>
+<equation id="fs-idm60135360" class="unnumbered"><m:math><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2 </m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,07199</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>kg/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,000125</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>kg/m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9,8</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,12</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>12 cm</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp19907056"><title>Compruebe lo aprendido</title>
+El agua sube en un tubo capilar de vidrio hasta una altura de 8,4 cm. ¿Cuál es el diámetro del tubo capilar?</para>
+<note id="fs-idm209726944">
+<title>Respuesta:</title>
+<para id="fs-idm166392576">diámetro = 0,36 mm</para>
+</note>
+</example>
+<note id="fs-idm192709088" class="chemistry everyday-life">
+<title>Aplicaciones biomédicas de la acción capilar</title>
+<para id="fs-idm184385920">Muchas pruebas médicas requieren la extracción de una pequeña cantidad de sangre, por ejemplo para determinar la cantidad de glucosa en una persona con diabetes o el nivel de hematocrito en un deportista. Este procedimiento puede realizarse fácilmente gracias a la acción capilar, la capacidad de un líquido de subir por un tubo pequeño en contra de la gravedad, como se muestra en la <link target-id="CNX_Chem_10_02_BloodDraw"/>. Cuando se pincha el dedo, se forma una gota de sangre que se mantiene unida debido a la tensión superficial, es decir, a las atracciones intermoleculares desequilibradas en la superficie de la gota. Entonces, cuando el extremo abierto de un tubo de vidrio de diámetro estrecho toca la gota de sangre, las fuerzas adhesivas entre las moléculas de la sangre y las de la superficie del vidrio hacen que la sangre suba por el tubo. La distancia que sube la sangre por el tubo depende del diámetro del tubo (y del tipo de líquido). Un tubo pequeño tiene una superficie relativamente grande para un determinado volumen de sangre, lo que se traduce en fuerzas de atracción mayores (relativas), que permiten que la sangre suba más por el tubo. El propio líquido se mantiene unido por sus propias fuerzas de cohesión. Cuando el peso del líquido en el tubo genera una fuerza descendente igual a la fuerza ascendente asociada a la acción capilar, el líquido deja de subir.</para>
+<figure id="CNX_Chem_10_02_BloodDraw" class="scaled-down">
+<media id="fs-idm141860432" alt="Fotografía que muestra la mano de una persona sostenida por una persona con guantes médicos. Se presiona un fino tubo de cristal contra el dedo de la persona y la sangre sube por el tubo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_BloodDraw.jpg"/>
+</media>
+<caption>La sangre se recoge para el análisis médico por acción capilar, que extrae la sangre en un tubo de vidrio de pequeño diámetro. (Crédito: modificación del trabajo de los Centros para el Control y la Prevención de Enfermedades).</caption>
+</figure>
+</note>
+<section id="fs-idm72910144" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm161069280">Las fuerzas intermoleculares entre las moléculas en estado líquido varían en función de sus identidades químicas y dan lugar a las correspondientes variaciones en diversas propiedades físicas. Las fuerzas de cohesión entre moléculas similares son responsables de la viscosidad de un líquido (resistencia al flujo) y de la tensión superficial (elasticidad de la superficie de un líquido). Las fuerzas adhesivas entre las moléculas de un líquido y las diferentes moléculas que componen una superficie en contacto con el líquido son responsables de fenómenos como la humectación de la superficie y el ascenso capilar.</para>
+</section>
+<section id="fs-idm31673664" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>T</m:mi><m:mspace width="0.2em"/><m:mtext>cos</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi></m:mrow><m:mrow><m:mi>r</m:mi><m:mi>ρ</m:mi><m:mi>g</m:mi></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idm81325184" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idm178529488">
+<problem id="fs-idp20517968">
+<para id="fs-idm197064800">Los tubos de ensayo mostrados aquí contienen cantidades iguales de los aceites de motor especificados. Se dejaron caer esferas metálicas idénticas al mismo tiempo en cada uno de los tubos, y un breve momento después, las esferas habían caído a las alturas indicadas en la ilustración.</para>
+<para id="fs-idm141902368">Clasifique los aceites de motor por orden de mayor viscosidad y explique su razonamiento:</para>
+<media id="fs-idp21803824" class="scaled-down" alt="Se muestra una imagen de cuatro cilindros graduados sentados en una mesa con la marca &quot;Viscosidad del aceite ( S A E )&quot;. El cilindro de la izquierda, marcado como &quot;20&quot;, está lleno en su mayor parte de líquido de color amarillo tostado claro y en la quinta parte inferior del cilindro se dibuja una bola metálica, pero no en el fondo. El segundo cilindro, marcado como &quot;30&quot;, está lleno en su mayor parte de líquido de color marrón claro y una bola de metal se dibuja a unos tres cuartos del cilindro. El tercer cilindro, marcado como &quot;40&quot;, está lleno en su mayor parte de un líquido marrón medio y una bola metálica es arrastrada hasta la mitad del cilindro. El cilindro de la derecha, marcado como &quot;50&quot;, está lleno en su mayor parte de líquido marrón y una bola de metal se dibuja cerca de la parte superior del líquido en el cilindro.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_Testtubeoi_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-idm82765632">
+<problem id="fs-idp7685184">
+<para id="fs-idm164104512">Aunque el acero es más denso que el agua, se puede hacer flotar una aguja de acero o un clip colocados con cuidado a lo largo de la superficie del agua tranquila. Explique a nivel molecular cómo eso es posible.<newline/>
+<figure id="CNX_Chem_10_02_Needlefloa" class="scaled-down">
+<media id="fs-idm208311120" alt="Foto que muestra un primer plano, por encima, de una aguja situada en la superficie de una muestra de agua.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_Needlefloa_img.jpg"/>
+</media>
+<caption>(Crédito: Cory Zanker).</caption>
+</figure>
+</para></problem>
+<solution id="fs-idm128797504">
+<para id="fs-idm152759136">Las moléculas de agua tienen fuertes fuerzas intermoleculares de enlace de hidrógeno. Así, las moléculas de agua se atraen fuertemente entre sí y presentan una tensión superficial relativamente grande, formando una especie de "piel" en su superficie. Esta piel puede soportar un insecto o un clip si se coloca suavemente en el agua.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm187023264">
+<problem id="fs-idp19910816">
+<para id="fs-idm45257152">Aquí se muestran los valores de tensión superficial y viscosidad del éter dietílico, la acetona, el etanol y el etilenglicol.<newline/>
+<media id="fs-idm61393264" alt="Esta tabla tiene cuatro columnas y cinco filas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Compuesto&quot;, &quot;Molécula&quot;, &quot;Tensión superficial ( m N / m )&quot; y &quot;Viscosidad ( m P a dot s )&quot;. Debajo de la columna &quot;compuesto&quot; están los siguientes: éter dietílico C subíndice 2 H subíndice 5 O C subíndice 2 H subíndice 5; acetona C subíndice 2 H subíndice 5 O C subíndice 2 H subíndice 5; etanol C subíndice 2 H subíndice 5 O H; etilenglicol C H subíndice 2 (O H) C H subíndice 2 (O H). Debajo de la columna &quot;Molécula&quot; hay representaciones en forma de bola de cada compuesto. La primera muestra dos esferas grises unidas. La primera esfera gris también está unida a tres esferas blancas. La segunda esfera gris está unida a dos esferas blancas y a una esfera roja. La esfera roja está unida a otra esfera gris. La esfera gris está unida a dos esferas blancas y a otra esfera gris. La última esfera gris está unida a tres esferas blancas. La segunda muestra tres esferas grises unidas con más fuerza. Las dos esferas grises del extremo están unidas a tres esferas blancas. La esfera gris del centro está unida a una esfera roja. La tercera muestra dos esferas grises unidas. La primera esfera gris está unida a tres esferas blancas y la segunda esfera gris está unida a dos esferas blancas y una esfera roja. La esfera roja está unida a una esfera blanca. La cuarta muestra dos esferas grises unidas. Cada esfera gris está unida a dos esferas blancas y a una esfera roja. Cada esfera roja también está unida a una esfera blanca. En la columna &quot;Tensión superficial ( m N / m )&quot; están los siguientes: 17, 23, 22 y 48. En la columna &quot;Viscosidad ( m P a dot s )&quot; se encuentra lo siguiente: 0,22, 0,31, 1,07 y 16,1.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_02_Question4_img.jpg"/>
+</media>
+</para>
+<para id="fs-idm59094592">(a) Explique sus diferencias de viscosidad en función del tamaño y la forma de sus moléculas y sus IMF.</para>
+<para id="fs-idm133108016">b) Explique sus diferencias de tensión superficial en función del tamaño y la forma de sus moléculas y sus IMF:</para>
+</problem>
+</exercise>
+<exercise id="fs-idm183311984">
+<problem id="fs-idm175606544">
+<para id="fs-idp31046720">Es posible que haya oído a alguien utilizar la figura retórica "más lento que la melaza en invierno" para describir un proceso que ocurre lentamente. Explique por qué es una expresión adecuada, utilizando conceptos de tamaño y forma molecular, interacciones moleculares y el efecto del cambio de temperatura.</para>
+</problem>
+<solution id="fs-idm78594320">
+<para id="fs-idm80358384">La temperatura tiene un efecto sobre las fuerzas intermoleculares: Cuanto mayor sea la temperatura, mayores serán las energías cinéticas de las moléculas y mayor será el grado de superación de sus fuerzas intermoleculares, por lo que el líquido será más fluido (menos viscoso). Cuanto más baja es la temperatura, menos se vencen las fuerzas intermoleculares y, por tanto, menos viscoso es el líquido.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm91274448">
+<problem id="fs-idm91274192">
+<para id="fs-idm84555824">A menudo se recomienda dejar el motor del automóvil al ralentí para que se caliente antes de conducir, especialmente en los días fríos de invierno. Aunque el beneficio del ralentí prolongado es dudoso, es cierto que un motor caliente es más eficiente en cuanto a combustible que uno frío. Explique la razón de ello.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm92213792">
+<problem id="fs-idm92213536">
+<para id="fs-idm57322944">En esta tabla se indican la tensión superficial y la viscosidad del agua a diferentes temperaturas.<newline/>
+<table id="fs-idm84550336" class="unnumbered" summary="Esta tabla contiene cinco filas y tres columnas. La primera fila es una fila de encabezado, y marca cada columna: &quot;Agua&quot;, &quot;Tensión superficial ( m N / m )&quot; y &quot;Viscosidad ( m P a do t s )&quot;. En la columna &quot;Agua&quot; se encuentran los siguientes datos: 0 grados C, 20 grados C, 60 grados C y 100 grados C. En la columna &quot;Tensión superficial ( m N / m )&quot; se encuentra lo siguiente: 75,6, 72,8, 66,2 y 58,9. En la columna &quot;Viscosidad ( m P a do t s )&quot; se encuentra lo siguiente: 1,79, 1,00, 0,47 y 0,28.">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry align="center">Agua</entry>
+<entry align="center">Tensión superficial (mN/m)</entry>
+<entry align="center">Viscosidad (mPa s)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="center">0 °C</entry>
+<entry align="center">75,6</entry>
+<entry align="center">1,79</entry>
+</row>
+<row valign="middle">
+<entry align="center">20 °C</entry>
+<entry align="center">72,8</entry>
+<entry align="center">1,00</entry>
+</row>
+<row valign="middle">
+<entry align="center">60 °C</entry>
+<entry align="center">66,2</entry>
+<entry align="center">0,47</entry>
+</row>
+<row valign="middle">
+<entry align="center">100 °C</entry>
+<entry align="center">58,9</entry>
+<entry align="center">0,28</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+<para id="fs-idm133407872">(a) Al aumentar la temperatura, ¿qué ocurre con la tensión superficial del agua? Explique por qué ocurre esto, en términos de interacciones moleculares y el efecto del cambio de temperatura.</para>
+<para id="fs-idm47328896">(b) Al aumentar la temperatura, ¿qué ocurre con la viscosidad del agua? Explique por qué ocurre esto, en términos de interacciones moleculares y el efecto del cambio de temperatura.</para>
+</problem>
+<solution id="fs-idm121605168">
+<para id="fs-idm52338928">(a) A medida que el agua alcanza mayores temperaturas, el aumento de las energías cinéticas de sus moléculas es más eficaz para superar el enlace de hidrógeno, por lo que su tensión superficial disminuye. La tensión superficial y las fuerzas intermoleculares están directamente relacionadas. (b) Se observa la misma tendencia en la viscosidad que en la tensión superficial, y por la misma razón.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp26872272">
+<problem id="fs-idp26872528">
+<para id="fs-idm237890176">A 25 °C, ¿a qué altura subirá el agua en un tubo capilar de vidrio con un diámetro interior de 0,63 mm? Consulte el <link target-id="fs-idp7578512"/> para obtener la información necesaria.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm169275296">
+<problem id="fs-idp576080">
+<para id="fs-idm189246496">El agua sube en un tubo capilar de vidrio hasta una altura de 17 cm. ¿Cuál es el diámetro del tubo capilar?</para>
+</problem>
+<solution id="fs-idm203216544">
+<para id="fs-idm115532848">1,7 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup> m</para></solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm87859280">
+<term>fuerza adhesiva</term>
+<meaning id="fs-idm186359168">fuerza de atracción entre moléculas de diferentes identidades químicas.</meaning>
+</definition>
+<definition id="fs-idm184465568">
+<term>acción capilar</term>
+<meaning id="fs-idm79490640">flujo de líquido dentro de un material poroso debido a la atracción de las moléculas de líquido a la superficie del material y a otras moléculas de líquido.</meaning>
+</definition>
+<definition id="fs-idm114308784">
+<term>fuerza de cohesión</term>
+<meaning id="fs-idm78612752">fuerza de atracción entre moléculas idénticas.</meaning>
+</definition>
+<definition id="fs-idm79392464">
+<term>tensión superficial</term>
+<meaning id="fs-idm77510064">energía necesaria para aumentar el área, o la longitud, de una superficie líquida en una cantidad determinada.</meaning>
+</definition>
+<definition id="fs-idm129199712">
+<term>viscosidad</term>
+<meaning id="fs-idm208761376">medida de la resistencia al flujo de un líquido.</meaning>
+</definition>
+</glossary>
+</document>

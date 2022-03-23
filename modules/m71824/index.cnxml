@@ -1,0 +1,662 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Nomenclatura química</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71824</md:content-id>
+  <md:title>Nomenclatura química</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Derivar los nombres de los tipos comunes de compuestos inorgánicos con un enfoque sistemático.</item>
+</list></md:abstract>
+  <md:uuid>af022e7e-64ba-4771-aca4-0cde75b66925</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp268117168">La <term>nomenclatura</term>, un conjunto de reglas para nombrar las cosas, es importante en la ciencia y en muchas otras situaciones. Este módulo describe un enfoque que se utiliza para nombrar compuestos iónicos y moleculares simples, como NaCl, CaCO<sub>3</sub> y N<sub>2</sub>O<sub>4</sub>. Los más sencillos son los <term>compuestos binarios</term>, los que contienen solo dos elementos, pero también consideraremos cómo nombrar los compuestos iónicos que contienen iones poliatómicos, y una clase específica y muy importante de compuestos conocidos como <term class="no-emphasis">ácidos</term> (los capítulos siguientes de este texto se centrarán en estos compuestos con gran detalle). Nos limitaremos aquí a los compuestos inorgánicos, compuestos que están formados principalmente por elementos distintos del carbono, y seguiremos las directrices de nomenclatura propuestas por la Unión Internacional de Química Pura y Aplicada (International Union of Pure and Applied Chemistry, IUPAC). Las reglas de los compuestos orgánicos, en los que el carbono es el elemento principal, se tratarán en un capítulo posterior sobre química orgánica.</para>
+<section id="fs-idp268266480">
+<title>Compuestos iónicos</title>
+<para id="fs-idp268131792">Para nombrar un compuesto inorgánico, debemos tener en cuenta las respuestas a las siguientes preguntas. En primer lugar, ¿el compuesto es iónico o molecular? Si el compuesto es iónico, ¿el metal forma iones de un solo tipo (carga fija) o de más de un tipo (carga variable)? ¿Los iones son monoatómicos o poliatómicos? Si el compuesto es molecular, ¿contiene hidrógeno? Si es así, ¿también contiene oxígeno? A partir de las respuestas que obtenemos, colocamos el compuesto en una categoría adecuada y le damos el nombre correspondiente.</para>
+</section>
+<section id="fs-idm335792">
+<title>Compuestos que solo contienen iones monoatómicos</title>
+<para id="fs-idp279143120">El nombre de un compuesto binario que contiene iones monoatómicos consiste en el nombre del catión (el nombre del metal) seguido del nombre del anión (el nombre del elemento no metálico con su terminación sustituida por el sufijo –<emphasis effect="italics">uro</emphasis>). Algunos ejemplos se recogen en la <link target-id="fs-idp282234816"/>.</para>
+<table id="fs-idp282234816" class="top-titled" summary="Los ejemplos de compuestos iónicos mostrados en esta tabla son N a C l cloruro de sodio, K B r bromuro de potasio, C a I subíndice 2 yoduro de calcio, C s F fluoruro de cesio, L i C l cloruro de litio, N a subíndice 2 O óxido de sodio, C d S sulfuro de cadmio, M g subíndice 3 N subíndice 2 nitruro de magnesio, C a subíndice 3 P subíndice 2 fosfuro de calcio y A l subíndice 4 C subíndice 3 carburo de aluminio.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Nombres de algunos compuestos iónicos</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">NaCl, cloruro de sodio</entry>
+<entry align="left">Na<sub>2</sub>O, óxido de sodio</entry>
+</row>
+<row>
+<entry align="left">KBr, bromuro de potasio</entry>
+<entry align="left">CdS, sulfuro de cadmio</entry>
+</row>
+<row>
+<entry align="left">CaI<sub>2</sub>, yoduro de calcio</entry>
+<entry align="left">Mg<sub>3</sub>N<sub>2</sub>, nitruro de magnesio</entry>
+</row>
+<row>
+<entry align="left">CsF, fluoruro de cesio</entry>
+<entry align="left">Ca<sub>3</sub>P<sub>2</sub>, fosfuro de calcio</entry>
+</row>
+<row>
+<entry align="left">LiCl, cloruro de litio</entry>
+<entry align="left">Al<sub>4</sub>C<sub>3</sub>, carburo de aluminio</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-idp279293712">
+<title>Compuestos que contienen iones poliatómicos</title>
+<para id="fs-idp282236928">Los compuestos que contienen iones poliatómicos se nombran de forma similar a los que solo contienen iones monatómicos, es decir, nombrando primero el catión y luego el anión. Los ejemplos se muestran en la <link target-id="fs-idp279316112"/>.</para><table id="fs-idp279316112" summary="Los ejemplos de compuestos iónicos poliatómicos mostrados en esta tabla son K C subíndice 2 H subíndice 3 O subíndice 2 acetato de potasio, N a H C O subíndice 3 bicarbonato de sodio, A l subíndice 2 ( C O subíndice 3 ) subíndice 3 carbonato de aluminio, (N H subíndice 4) CL, cloruro de amonio, C a S O subíndice 4 sulfato de calcio, y M g subíndice 3 ( P O subíndice 4 ) subíndice 2 fosfato de magnesio."><tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Nombres de algunos compuestos iónicos poliatómicos</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">KC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>, acetato de potasio</entry>
+<entry align="left">NH<sub>4</sub>Cl, cloruro de amonio</entry>
+</row>
+<row>
+<entry align="left">NaHCO<sub>3</sub>, bicarbonato de sodio</entry>
+<entry align="left">CaSO<sub>4</sub>, sulfato de calcio</entry>
+</row>
+<row>
+<entry align="left">Al<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub>, carbonato de aluminio</entry>
+<entry align="left">Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>, fosfato de magnesio</entry>
+</row>
+</tbody>
+</tgroup>
+</table><note id="fs-idm337456" class="chemistry everyday-life">
+<title>Compuestos iónicos en sus armarios</title>
+<para id="fs-idm70496">Cada día usted encuentra y utiliza un gran número de compuestos iónicos En la <link target-id="fs-idp268265360"/>, se listan algunos de estos compuestos, dónde se encuentran y para qué se utilizan. Observe la etiqueta o la lista de ingredientes de los distintos productos que utilice durante los próximos días, y compruebe si se encuentra con alguno de los que aparecen en esta tabla, o encuentre otros compuestos iónicos que ahora podría nombrar o escribir como fórmula.</para>
+<table id="fs-idp268265360" class="top-titled" summary="Los ejemplos de compuestos iónicos cotidianos incluidos en esta tabla son: N a C L cloruro de sodio, o sal de mesa común, K I yoduro de potasio que se añade a la sal yodada, N a F, fluoruro de sodio que es un ingrediente de la pasta de dientes, N a H C O subíndice 3 bicarbonato de sodio que es el polvo de hornear, utilizado en la cocina y como antiácido, N a subíndice 2 C O subíndice 3 carbonato de sodio que es soda cáustica y se utiliza en productos de limpieza, N a O C l hipoclorito de sodio que es el ingrediente activo de la lejía doméstica, C a C O subíndice 3 carbonato de calcio que es un ingrediente de los antiácidos, M g ( O H ) subíndice 2, hidróxido de magnesio que también es un ingrediente de los antiácidos, A l ( O H ) subíndice 3 hidróxido de aluminio que también es un ingrediente de los antiácidos, N a O H hidróxido de sodio que es lejía y se utiliza como limpiador de desagües, K subíndice 3 P O subíndice 4 fosfato de potasio que es un aditivo alimentario, M g S O subíndice 4 sulfato de magnesio que se añade al agua purificada, N a subíndice 2 H P O subíndice 4 fosfato de hidrógeno de sodio que es un agente antiaglomerante y se utiliza en productos en polvo, y N a subíndice 2 S O subíndice 3 sulfito de sodio que es un conservante.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Compuestos iónicos cotidianos</entry>
+</row>
+<row>
+<entry align="left">Compuesto iónico</entry>
+<entry align="left">Utilice</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">NaCl, cloruro de sodio</entry>
+<entry align="left">sal de mesa común</entry>
+</row>
+<row>
+<entry align="left">KI, yoduro de potasio</entry>
+<entry align="left">añadido a la sal "yodada" para la salud de la tiroides</entry>
+</row>
+<row>
+<entry align="left">NaF, fluoruro de sodio</entry>
+<entry align="left">ingrediente de la pasta de dientes</entry>
+</row>
+<row>
+<entry align="left">NaHCO<sub>3</sub>, bicarbonato de sodio</entry>
+<entry align="left">bicarbonato de sodio; se utiliza en la cocina (y como antiácido)</entry>
+</row>
+<row>
+<entry align="left">Na<sub>2</sub>CO<sub>3</sub>, carbonato de sodio</entry>
+<entry align="left">sosa; se utiliza en productos de limpieza</entry>
+</row>
+<row>
+<entry align="left">NaOCl, hipoclorito de sodio</entry>
+<entry align="left">ingrediente activo de la lejía de uso doméstico</entry>
+</row>
+<row>
+<entry align="left">CaCO<sub>3</sub>, carbonato de calcio</entry>
+<entry align="left">ingrediente de los antiácidos</entry>
+</row>
+<row>
+<entry align="left">Mg(OH)<sub>2</sub>, hidróxido de magnesio</entry>
+<entry align="left">ingrediente de los antiácidos</entry>
+</row>
+<row>
+<entry align="left">Al(OH)<sub>3</sub>, hidróxido de aluminio</entry>
+<entry align="left">ingrediente de los antiácidos</entry>
+</row>
+<row>
+<entry align="left">NaOH, hidróxido de sodio</entry>
+<entry align="left">lejía; se utiliza como limpiador de desagües</entry>
+</row>
+<row>
+<entry align="left">K<sub>3</sub>PO<sub>4</sub>, fosfato de potasio</entry>
+<entry align="left">aditivo alimentario (muchos propósitos)</entry>
+</row>
+<row>
+<entry align="left">MgSO<sub>4</sub>, sulfato de magnesio</entry>
+<entry align="left">añadido al agua purificada</entry>
+</row>
+<row>
+<entry align="left">Na<sub>2</sub>HPO<sub>4</sub>, hidrogenofosfato de sodio</entry>
+<entry align="left">agente antiaglomerante; utilizado en productos en polvo</entry>
+</row>
+<row>
+<entry align="left">Na<sub>2</sub>SO<sub>3</sub>, sulfito de sodio</entry>
+<entry align="left">conservante</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</note>
+</section>
+<section id="fs-idp282353488">
+<title>Compuestos que contienen un ion metálico con carga variable </title>
+<para id="fs-idp282354128">La mayoría de los metales de transición y algunos metales del grupo principal pueden formar dos o más cationes con cargas diferentes. Los compuestos de estos metales con no metales se nombran con el mismo método que los compuestos de la primera categoría, salvo que la carga del ion metálico se especifica con un número romano entre paréntesis después del nombre del metal. La carga del ion metálico se determina a partir de la fórmula del compuesto y la carga del anión. Por ejemplo, consideremos los compuestos iónicos binarios de hierro y cloro. El hierro suele presentar una carga de 2+ o 3+ (vea la <link document="m71822" target-id="CNX_Chem_02_06_IonCharges"/>), y las dos fórmulas compuestas correspondientes son FeCl<sub>2</sub> y FeCl<sub>3</sub>. El nombre más sencillo, "cloruro de hierro", será en este caso ambiguo, ya que no distingue entre estos dos compuestos. En estos casos, la carga del ion metálico se incluye como un número romano entre paréntesis inmediatamente después del nombre del metal. Estos dos compuestos se denominan inequívocamente cloruro de hierro(II) y cloruro de hierro(III), respectivamente. Otros ejemplos se encuentran en la <link target-id="fs-idp282283328"/>.</para><table id="fs-idp282283328" summary="Los ejemplos de compuestos iónicos de metales de transición incluidos en esta tabla son F e C L subíndice 3 o cloruro de hierro tres, H g subíndice 2 O o óxido de mercurio uno, H g O o óxido de mercurio dos, y C u subíndice 3 ( P O subíndice 4 ) subíndice 2 o fosfato de cobre dos.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Algunos compuestos iónicos con iones metálicos de carga variable</entry>
+</row>
+<row>
+<entry align="left">Compuesto</entry>
+<entry align="left">Nombre</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">FeCl<sub>2</sub></entry>
+<entry align="left">cloruro de hierro(II)</entry>
+</row>
+<row>
+<entry align="left">FeCl<sub>3</sub></entry>
+<entry align="left">cloruro de hierro(III)</entry>
+</row>
+<row>
+<entry align="left">Hg<sub>2</sub>O</entry>
+<entry align="left">óxido de mercurio(I)</entry>
+</row>
+<row>
+<entry align="left">HgO</entry>
+<entry align="left">óxido de mercurio(II)</entry>
+</row>
+<row>
+<entry align="left">SnF<sub>2</sub></entry>
+<entry align="left">fluoruro de estaño(II)</entry>
+</row>
+<row>
+<entry align="left">SnF<sub>4</sub></entry>
+<entry align="left">fluoruro de estaño(IV)</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-idp268391888">La nomenclatura anticuada utilizaba los sufijos –<emphasis effect="italics">ico</emphasis> y –<emphasis effect="italics">oso</emphasis> para designar los metales con mayor y menor carga, respectivamente: El cloruro de hierro(III), FeCl<sub>3</sub>, se denominaba anteriormente cloruro férrico, y el cloruro de hierro(II), FeCl<sub>2</sub>, se conocía como cloruro ferroso. Aunque la comunidad científica ha abandonado en gran medida esta convención de nomenclatura, sigue siendo utilizada por algunos segmentos de la industria. Por ejemplo, puede ver las palabras <emphasis effect="italics">fluoruro de estañoso</emphasis> en un tubo de pasta de dientes. Esto representa la fórmula SnF<sub>2</sub>, que se denomina más correctamente fluoruro de estaño(II). El otro fluoruro de estaño es el SnF<sub>4</sub>, que antes se llamaba fluoruro estánico, pero que ahora se denomina fluoruro de estaño(IV).</para>
+</section>
+<section id="fs-idm362433056">
+<title>Hidratos iónicos</title>
+<para id="fs-idm356802368">Los compuestos iónicos que contienen moléculas de agua como componentes integrales de sus cristales se denominan <term>hidratos</term>. El nombre de un hidrato iónico se obtiene añadiendo un término al nombre del compuesto <emphasis effect="italics">anhidro</emphasis> (que significa "no hidratado") que indica el número de moléculas de agua asociadas a cada unidad de fórmula del compuesto. La palabra añadida comienza con un prefijo griego que denota el número de moléculas de agua (véase la <link target-id="fs-idp268400368"/>) y termina con "hidrato". Por ejemplo, el compuesto anhidro de sulfato de cobre(II) también existe como un hidrato que contiene cinco moléculas de agua y se denomina sulfato de cobre(II) pentahidratado. La sosa es el nombre común de un hidrato de carbonato de sodio que contiene 10 moléculas de agua; el nombre sistemático es carbonato de sodio decahidratado.</para>
+<para id="fs-idm331074624">Las fórmulas de los hidratos iónicos se escriben añadiendo un punto centrado verticalmente, un coeficiente que representa el número de moléculas de agua y la fórmula del agua. Los dos ejemplos mencionados en el párrafo anterior están representados por las fórmulas</para>
+<equation class="unnumbered" id="fs-idm339311552"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>sulfato de cobre(II) pentahidratado</m:mtext><m:mspace width="0.5em"/><m:msub><m:mtext>CuSO</m:mtext><m:mn>4</m:mn></m:msub><m:mtext>∙</m:mtext><m:msub><m:mtext>5H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>carbonato sódico decahidratado</m:mtext><m:mspace width="0.5em"/><m:msub><m:mtext>Na</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>CO</m:mtext><m:mn>3</m:mn></m:msub><m:mtext>∙</m:mtext><m:msub><m:mtext>10H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<table id="fs-idp268400368" class="top-titled" summary="Esta tabla tiene dos columnas denominadas &quot;prefijo&quot; y &quot;número&quot;. Mono se asocia con uno, aunque a veces se omite este prefijo. Di se asocia con dos. Tri se asocia con tres. Tetra se asocia con cuatro. Penta se asocia con cinco. Hexa se asocia con seis. Hepta se asocia con siete. Octa se asocia con ocho. Nona se asocia con nueve. Deca se asocia con diez.">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5" align="center">Prefijos de la nomenclatura</entry>
+</row>
+<row>
+<entry align="left">Número</entry>
+<entry align="left">Prefijo</entry>
+<entry align="left"/>
+<entry align="left">Número</entry>
+<entry align="left">Prefijo</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">1 (a veces se omite)</entry>
+<entry align="left">mono-</entry>
+<entry align="left" morerows="5"/>
+<entry align="left">6</entry>
+<entry align="left">hexa-</entry>
+</row>
+<row>
+<entry align="left">2</entry>
+<entry align="left">di-</entry>
+<entry align="left">7</entry>
+<entry align="left">hepta-</entry>
+</row>
+<row>
+<entry align="left">3</entry>
+<entry align="left">tri-</entry>
+<entry align="left">8</entry>
+<entry align="left">octa-</entry>
+</row>
+<row>
+<entry align="left">4</entry>
+<entry align="left">tetra-</entry>
+<entry align="left">9</entry>
+<entry align="left">nona-</entry>
+</row>
+<row>
+<entry align="left">5</entry>
+<entry align="left">penta-</entry>
+<entry align="left">10</entry>
+<entry align="left">deca-</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="fs-idm194224">
+<para id="fs-idm193552"><title>Cómo nombrar los compuestos iónicos</title>
+Nombre los siguientes compuestos iónicos:</para>
+<para id="fs-idm193056">(a) Fe<sub>2</sub>S<sub>3</sub></para>
+<para id="fs-idm341872">(b) CuSe</para>
+<para id="fs-idm341488">(c) GaN</para>
+<para id="fs-idm341104">(d) MgSO<sub>4</sub>∙7H<sub>2</sub>O</para>
+<para id="fs-idp156278112">(e) Ti<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></para>
+<para id="fs-idp282326320"><title>Solución</title>Los aniones de estos compuestos tienen una carga negativa fija (S<sup>2-</sup>, Se<sup>2- </sup>, N<sup>3-</sup>, y <m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>),</m:mo></m:mrow></m:math> y los compuestos deben ser neutros. Como el número total de cargas positivas en cada compuesto debe ser igual al número total de cargas negativas, los iones positivos deben ser Fe<sup>3+</sup>, Cu<sup>2+</sup>, Ga<sup>3+</sup>, Mg<sup>2+</sup>, and Ti<sup>3+</sup>. Estas cargas se utilizan en los nombres de los iones metálicos:</para><para id="fs-idm104688">(a) sulfuro de hierro(III)</para>
+<para id="fs-idm104272">(b) seleniuro de cobre(II)</para>
+<para id="fs-idp283457040">(c) nitruro de galio(III)</para>
+<para id="fs-idp283457424">(d) sulfato de magnesio heptahidratado</para>
+<para id="fs-idp283457808">(e) sulfato de titanio(III)</para>
+<para id="fs-idp283458192"><title>Compruebe lo aprendido</title>
+Escriba las fórmulas de los siguientes compuestos iónicos:</para>
+<para id="fs-idp283458864">(a) fosfuro de cromo(III)</para>
+<para id="fs-idp283459248">(b) sulfuro de mercurio(II)</para>
+<para id="fs-idp268146864">(c) fosfato de manganeso(II)</para>
+<para id="fs-idp268147248">(d) óxido de cobre(I) </para>
+<para id="fs-idp268147664">(e) cloruro de hierro(III) dihidratado</para>
+<note id="fs-idp268148048"><title>Respuesta:</title>
+<para id="fs-idp268148560">(a) CrP; (b) HgS; (c) Mn<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>; (d) Cu<sub>2</sub>O; (e) FeCl<sub>3</sub>∙2H<sub>2</sub>O</para>
+</note>
+</example>
+<note id="fs-idm8768" class="chemistry everyday-life">
+<title>Erin Brokovich y la contaminación por cromo</title>
+<para id="fs-idm7968">A principios de los años 90, la asistente legal Erin Brockovich (<link target-id="CNX_Chem_02_07_ErinBrocko"/>) descubrió un alto índice de enfermedades graves en la pequeña ciudad de Hinckley, California. Su investigación acabó relacionando las enfermedades con las aguas subterráneas contaminadas por Cr(VI) utilizadas por Pacific Gas &amp; Electric (PG&amp;E) para evitar la corrosión en una tubería de gas natural cercana. Tal y como se narra en la película <emphasis effect="italics">Erin Brokovich</emphasis> (por la que Julia Roberts ganó un Oscar), Erin y el abogado Edward Masry demandaron a PG&amp;E por contaminar el agua cerca de Hinckley en 1993. El acuerdo que obtuvieron en 1996, 333 millones de dólares, fue la mayor cantidad jamás concedida por una demanda de acción directa en los EE. UU. en ese momento.</para>
+<figure id="CNX_Chem_02_07_ErinBrocko"><media id="fs-idp282351072" alt="La figura A muestra una foto de Erin Brockovich. La figura B muestra un modelo de barras y esferas tridimensional del cromato. El cromato tiene un átomo de cromo en su centro que forma enlaces con cada uno de los cuatro átomos de oxígeno. Dos de los átomos de oxígeno forman enlaces simples con el átomo de cromo, mientras que los otros dos forman dobles enlaces cada uno. La estructura del dicromato consiste en dos iones de cromato que están enlazados y comparten uno de sus átomos de oxígeno al que cada átomo de cromato tiene un enlace simple.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_02_07_ErinBrocko.jpg"/>
+</media>
+
+<caption>(a) Erin Brockovich descubrió que el Cr(VI), utilizado por PG&amp;E, había contaminado el suministro de agua de Hinckley, California. (b) El ion Cr(VI) suele estar presente en el agua en forma de iones poliatómicos de cromato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>CrO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> (izquierda), y el dicromato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>7</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> (derecha).</caption></figure><para id="fs-idp279149248">Los compuestos de cromo se utilizan ampliamente en la industria, por ejemplo, para el cromado, en la fabricación de tintes, como conservantes y para evitar la corrosión en las torres de enfriamiento, como ocurrió cerca de Hinckley. En el medio ambiente, el cromo existe principalmente en las formas de Cr(III) o Cr(VI). El Cr(III), ingrediente de muchos suplementos vitamínicos y nutricionales, forma compuestos poco solubles en el agua y tiene una baja toxicidad. Pero el Cr(VI) es mucho más tóxico y forma compuestos razonablemente solubles en agua. La exposición a pequeñas cantidades de Cr(VI) puede provocar daños en los sistemas respiratorio, gastrointestinal e inmunitario, así como en los riñones, el hígado, la sangre y la piel. </para>
+<para id="fs-idp279150320">A pesar de los esfuerzos de limpieza, la contaminación de las aguas subterráneas por Cr(VI) sigue siendo un problema en Hinckley y en otros lugares del mundo. Un estudio realizado en 2010 por el Grupo de Trabajo Ambiental descubrió que, de las 35 ciudades estadounidenses analizadas, 31 tenían niveles de Cr(VI) en el agua del grifo superiores a la meta de salud pública de 0,02 partes por mil millones establecido por la Agencia de Protección Ambiental de California.</para>
+</note>
+</section>
+
+<section id="fs-idp279151472">
+<title>Compuestos moleculares (covalentes)</title>
+<para id="fs-idp268164784">Las características de enlace de los compuestos moleculares inorgánicos son diferentes a las de los compuestos iónicos, y también se nombran utilizando un sistema diferente. Las cargas de los cationes y aniones dictan sus proporciones en los compuestos iónicos, por lo que especificar los nombres de los iones proporciona información suficiente para determinar las fórmulas químicas. Sin embargo, como el enlace covalente permite una variación significativa en las relaciones de combinación de los átomos de una molécula, los nombres de los compuestos moleculares deben identificar explícitamente estas relaciones.</para>
+<section id="fs-idp268165696">
+<title>Compuestos formados por dos elementos</title>
+<para id="fs-idp268166336">Cuando dos elementos no metálicos forman un compuesto molecular, suelen ser posibles varias relaciones de combinación. Por ejemplo, el carbono y el oxígeno pueden formar los compuestos CO y CO<sub>2</sub>. Como se trata de sustancias diferentes con propiedades distintas, no pueden tener ambas el mismo nombre (no pueden llamarse ambas óxido de carbono). Para hacer frente a esta situación, utilizamos un método de nomenclatura algo similar al utilizado para los compuestos iónicos, pero con prefijos añadidos para especificar el número de átomos de cada elemento. El nombre del elemento más metálico (el que está más a la izquierda o abajo de la tabla periódica) va primero, seguido del nombre del elemento que sea más no metálico (el que está más a la derecha o arriba) con su terminación cambiada por el sufijo–<emphasis effect="italics">uro</emphasis>. Los números de átomos de cada elemento se designan con los prefijos griegos que aparecen en la <link target-id="fs-idp268400368"/>.</para>
+<para id="fs-idm325632">Cuando solo hay un átomo del primer elemento, se suele eliminar el prefijo <emphasis effect="italics">mono</emphasis>- de esa parte. Así, el CO se denomina monóxido de carbono y CO<sub>2</sub> dióxido de carbono. Cuando dos vocales son adyacentes, la <emphasis effect="italics">a</emphasis> del prefijo griego se suele suprimir. Algunos otros ejemplos se muestran en la <link target-id="fs-idp269568176"/>.</para>
+<table id="fs-idp269568176" class="top-titled" summary="Se muestra una tabla de dos columnas. La columna de la izquierda se titula &quot;Compuesto&quot; y la de la derecha &quot;Nombre&quot;. De izquierda a derecha, la primera fila dice &quot;S O subíndice 2&quot; y &quot;dióxido de azufre&quot;. La segunda fila dice &quot;S O subíndice 3&quot; y &quot;trióxido de azufre&quot;. La tercera fila dice &quot;N O subíndice 2&quot; y &quot;dióxido de nitrógeno&quot;. La cuarta fila dice &quot;N subíndice 2 O subíndice 4&quot; y &quot;tetróxido de dinitrógeno&quot;. La quinta fila dice &quot;N subíndice 2 O subíndice 5&quot; y &quot;pentóxido de dinitrógeno&quot;. La sexta fila dice &quot;B C l subíndice 3&quot; y &quot;tricloruro de boro&quot;. La séptima fila dice &quot;S F subíndice 6&quot; y &quot;hexafluoruro de azufre&quot;. La octava fila dice &quot;P F subíndice 5&quot; y &quot;pentafluoruro de fósforo&quot;. La novena fila dice &quot;P subíndice 4 O subíndice 10&quot; y &quot;decaóxido de tetrafósforo&quot;. La décima fila dice &quot;I F subíndice 7&quot; y &quot;heptafluoruro de yodo&quot;.">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5" align="center">Nombres de algunos compuestos moleculares formados por dos elementos</entry>
+</row>
+<row>
+<entry align="left">Compuesto</entry>
+<entry align="left">Nombre</entry>
+<entry align="left"/>
+<entry align="left">Compuesto</entry>
+<entry align="left">Nombre</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">SO<sub>2</sub></entry>
+<entry align="left">dióxido de azufre</entry>
+<entry align="left" morerows="5"/>
+<entry align="left">BCl<sub>3</sub></entry>
+<entry align="left">tricloruro de boro</entry>
+</row>
+<row>
+<entry align="left">SO<sub>3</sub></entry>
+<entry align="left">trióxido de azufre</entry>
+<entry align="left">SF<sub>6</sub></entry>
+<entry align="left">hexafluoruro de azufre</entry>
+</row>
+<row>
+<entry align="left">NO<sub>2</sub></entry>
+<entry align="left">dióxido de nitrógeno</entry>
+<entry align="left">PF<sub>5</sub></entry>
+<entry align="left">pentafluoruro de fósforo</entry>
+</row>
+<row>
+<entry align="left">N<sub>2</sub>O<sub>4</sub></entry>
+<entry align="left">tetróxido de dinitrógeno</entry>
+<entry align="left">P<sub>4</sub>O<sub>10</sub></entry>
+<entry align="left">decaóxido de tetrafósforo</entry>
+</row>
+<row>
+<entry align="left">N<sub>2</sub>O<sub>5</sub></entry>
+<entry align="left">pentóxido de dinitrógeno</entry>
+<entry align="left">IF<sub>7</sub></entry>
+<entry align="left">heptafluoruro de yodo</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm207744">Hay algunos nombres comunes que encontrará a medida que continúe su estudio de la química. Por ejemplo, aunque el NO se llama a menudo óxido nítrico, su nombre correcto es monóxido de nitrógeno. Del mismo modo, el N<sub>2</sub>O se conoce como óxido nitroso aunque nuestras normas especificarían el nombre de monóxido de dinitrógeno. (Y el H<sub>2</sub>O suele llamarse agua, no monóxido de dihidrógeno). Debe memorizar los nombres comunes de los compuestos a medida que los encuentre.</para>
+<example id="fs-idm206240">
+<para id="fs-idm205600"><title>Nombrar compuestos covalentes</title>
+Nombre los siguientes compuestos covalentes:</para>
+<para id="fs-idm205216">(a) SF<sub>6</sub></para>
+<para id="fs-idp268178064">(b) N<sub>2</sub>O<sub>3</sub></para>
+<para id="fs-idp268179088">(c) Cl<sub>2</sub>O<sub>7</sub></para>
+<para id="fs-idp268180112">(d) P<sub>4</sub>O<sub>6</sub></para>
+<para id="fs-idp268181136"><title>Solución</title>
+Como estos compuestos están formados únicamente por no metales, utilizamos prefijos para designar el número de átomos de cada elemento:</para>
+<para id="fs-idm335200">(a) hexafluoruro de azufre</para>
+<para id="fs-idm334784">(b) trióxido de dinitrógeno</para>
+<para id="fs-idm334368">(c) heptóxido de dicloro</para>
+<para id="fs-idm333984">(d) hexóxido de tetrafósforo</para>
+<para id="fs-idm333600"><title>Compruebe lo aprendido</title>
+Escriba las fórmulas de los siguientes compuestos:</para>
+<para id="fs-idm332928">(a) pentacloruro de fósforo</para>
+<para id="fs-idm332544">(b) monóxido de dinitrógeno</para>
+<para id="fs-idp283400752">(c) heptafluoruro de yodo</para>
+<para id="fs-idp283401136">(d) tetracloruro de carbono</para>
+<note id="fs-idp283401520"><title>Respuesta:</title>
+<para id="fs-idp283402032">(a) PCl<sub>5</sub>; (b) N<sub>2</sub>O; (c) IF<sub>7</sub>; (d) CCl<sub>4</sub></para>
+</note>
+</example>
+<note id="fs-idp283404080" class="chemistry link-to-learning">
+<para id="fs-idp268192304">La siguiente <link url="http://openstax.org/l/16chemcompname">página web</link> permite practicar el nombre de los compuestos químicos y la escritura de las fórmulas químicas. Puede elegir compuestos iónicos binarios, poliatómicos y de carga variable, así como compuestos moleculares.</para></note>
+</section>
+<section id="fs-idp268193776">
+<title>Ácidos binarios</title>
+<para id="fs-idp282238096">Algunos compuestos que contienen hidrógeno son miembros de una importante clase de sustancias conocidas como ácidos. La química de estos compuestos se explora con más detalle en capítulos posteriores de este texto, pero por ahora bastará con señalar que muchos ácidos liberan iones de hidrógeno, H<sup>+</sup>, cuando se disuelven en agua. Para denotar esta propiedad química distintiva, una mezcla de agua con un ácido recibe un nombre derivado del nombre del compuesto. Si el compuesto es un <term>ácido binario</term> (formado por hidrógeno y otro elemento no metálico):</para>
+<list id="fs-idp282239904" list-type="enumerated" number-style="arabic">
+<item>La palabra "hidrógeno" se cambia por el prefijo <emphasis effect="italics">hidro-</emphasis></item>
+<item>El nombre del otro elemento no metálico se modifica añadiendo el sufijo -<emphasis effect="italics">ico</emphasis></item>
+<item>La palabra "ácido" se agrega como segunda palabra </item>
+</list>
+<para id="fs-idm109568">Por ejemplo, cuando el gas HCl (cloruro de hidrógeno) se disuelve en agua, la solución se llama <emphasis effect="italics">ácido clorhídrico</emphasis>. Otros ejemplos de esta nomenclatura se muestran en la <link target-id="fs-idp272649888"/>.</para>
+<table id="fs-idp272649888" class="top-titled" summary="Los nombres de los ácidos simples incluidos en esta tabla son: El gas H F, que es fluoruro de hidrógeno, el gas H C l que es cloruro de hidrógeno, el gas H B r que es bromuro de hidrógeno, el gas H I que es yoduro de hidrógeno, el gas H subíndice 2 S que es sulfuro de hidrógeno, el H F acuoso que es ácido fluorhídrico, el H C l acuoso que es ácido clorhídrico, el H B r acuoso que es ácido bromhídrico, el H I acuoso que es ácido yodhídrico y el H subíndice 2 S acuoso que es ácido hidrosulfúrico.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Nombres de algunos ácidos simples</entry>
+</row>
+<row>
+<entry align="left">Nombre del gas</entry>
+<entry align="left">Nombre del ácido</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">HF(<emphasis effect="italics">g</emphasis>), fluoruro de hidrógeno</entry>
+<entry align="left">HF(<emphasis effect="italics">aq</emphasis>), ácido hidrofluorhídrico</entry>
+</row>
+<row>
+<entry align="left">HCl(<emphasis effect="italics">g</emphasis>), cloruro de hidrógeno</entry>
+<entry align="left">HCl(<emphasis effect="italics">aq</emphasis>), ácido clorhídrico</entry>
+</row>
+<row>
+<entry align="left">HBr(<emphasis effect="italics">g</emphasis>), bromuro de hidrógeno</entry>
+<entry align="left">HBr(<emphasis effect="italics">aq</emphasis>), ácido bromhídrico</entry>
+</row>
+<row>
+<entry align="left">HI(<emphasis effect="italics">g</emphasis>), yoduro de hidrógeno</entry>
+<entry align="left">HI(<emphasis effect="italics">aq</emphasis>), ácido yodhídrico</entry>
+</row>
+<row>
+<entry align="left">H<sub>2</sub>S(<emphasis effect="italics">g</emphasis>), sulfuro de hidrógeno</entry>
+<entry align="left">H<sub>2</sub>S(<emphasis effect="italics">aq</emphasis>), ácido hidrosulfúrico</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-idp268349296">
+<title>Oxiácidos</title>
+<para id="fs-idp279162704">Muchos compuestos que contienen tres o más elementos (como los compuestos orgánicos o de coordinación) están sujetos a reglas de nomenclatura especializadas que aprenderá más adelante. Sin embargo, hablaremos brevemente de los importantes compuestos conocidos como <term>oxiácidos</term>, compuestos que contienen hidrógeno, oxígeno y al menos otro elemento, y que se enlazan de tal manera que imparten propiedades ácidas al compuesto (aprenderá los detalles de esto en un capítulo posterior). Los oxiácidos típicos están formados por hidrógeno combinado con un ion poliatómico que contiene oxígeno. Para nombrar a los oxiácidos:</para>
+<list id="fs-idp279164064" list-type="enumerated" number-style="arabic">
+<item>Omita el "hidrógeno"</item>
+<item>Comience con el nombre de la raíz del anión</item>
+<item>Sustituya –<emphasis effect="italics">ato</emphasis> con –<emphasis effect="italics">ico</emphasis>, o –<emphasis effect="italics">ito</emphasis> con –<emphasis effect="italics">oso</emphasis></item>
+<item>Añada "ácido"</item>
+</list>
+<para id="fs-idp282461232">Por ejemplo, consideremos el H<sub>2</sub>CO<sub>3</sub> (que podríamos llamar "carbonato de hidrógeno"). Para nombrarlo correctamente, se omite el "hidrógeno"; se sustituye el –<emphasis effect="italics">ato</emphasis> de carbonato por –<emphasis effect="italics">ico</emphasis>; y se añade ácido, por lo que su nombre es ácido carbónico. Otros ejemplos se encuentran en la <link target-id="fs-idp268340336"/>. Hay algunas excepciones al método general de denominación (por ejemplo, el H<sub>2</sub>SO<sub>4</sub> se denomina ácido sulfúrico, no ácido súlfico, y el H<sub>2</sub>SO<sub>3</sub> es ácido sulfuroso, no ácido sulfoso).</para>
+<table id="fs-idp268340336" class="top-titled" summary="Esta tabla tiene tres columnas denominadas &quot;fórmula&quot;, &quot;nombre del anión&quot; y &quot;nombre del ácido&quot;. H C subíndice 2 H subíndice 3 O subíndice 2 se denomina acetato o ácido acético. El H N O subíndice 3 se denomina nitrato o ácido nítrico. El H N O subíndice 2 se denomina nitrito o ácido nitroso, el H C l O subíndice 4 se denomina perclorato o ácido perclórico. H subíndice 2 C O subíndice 3 se denomina carbonato o ácido carbónico. H subíndice 2 S O subíndice 4 se denomina sulfato o ácido sulfúrico. H subíndice 2 S O subíndice 3 se denomina sulfito o ácido sulfuroso. H subíndice 3 P O subíndice 4 se denomina fosfato o ácido fosfórico.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Nombres de oxiácidos comunes</entry>
+</row>
+<row>
+<entry align="left">Fórmula</entry>
+<entry align="left">Nombre del anión</entry>
+<entry align="left">Nombre del ácido</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">HC<sub>2</sub>H<sub>3</sub>O<sub>2</sub></entry>
+<entry align="left">acetato</entry>
+<entry align="left">ácido acético</entry>
+</row>
+<row>
+<entry align="left">HNO<sub>3</sub></entry>
+<entry align="left">nitrato</entry>
+<entry align="left">ácido nítrico</entry>
+</row>
+<row>
+<entry align="left">HNO<sub>2</sub></entry>
+<entry align="left">nitrito</entry>
+<entry align="left">ácido nitroso</entry>
+</row>
+<row>
+<entry align="left">HClO<sub>4</sub></entry>
+<entry align="left">perclorato</entry>
+<entry align="left">ácido perclórico</entry>
+</row>
+<row>
+<entry align="left">H<sub>2</sub>CO<sub>3</sub></entry>
+<entry align="left">carbonato</entry>
+<entry align="left">ácido carbónico</entry>
+</row>
+<row>
+<entry align="left">H<sub>2</sub>SO<sub>4</sub></entry>
+<entry align="left">sulfato</entry>
+<entry align="left">ácido sulfúrico</entry>
+</row>
+<row>
+<entry align="left">H<sub>2</sub>SO<sub>3</sub></entry>
+<entry align="left">sulfito</entry>
+<entry align="left">ácido sulfuroso</entry>
+</row>
+<row>
+<entry align="left">H<sub>3</sub>PO<sub>4</sub></entry>
+<entry align="left">fosfato</entry>
+<entry align="left">ácido fosfórico</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</section>
+<section id="fs-idp282340144" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp282340912">Los químicos utilizan reglas de nomenclatura para nombrar claramente los compuestos. Los compuestos iónicos y moleculares se nombran con métodos algo diferentes. Los compuestos iónicos binarios suelen estar formados por un metal y un no metal. Primero se escribe el nombre del metal, seguido del nombre del no metal con su terminación cambiada a<emphasis effect="italics">uro/ido</emphasis>. Por ejemplo, el K<sub>2</sub>O se llama óxido de potasio. Si el metal puede formar iones con diferentes cargas, un número romano entre paréntesis sigue al nombre del metal para especificar su carga. Así, el FeCl<sub>2</sub> es cloruro de hierro(II) y el FeCl<sub>3</sub> es cloruro de hierro(III). Algunos compuestos contienen iones poliatómicos; hay que memorizar los nombres de los iones poliatómicos más comunes. Los compuestos moleculares pueden formar compuestos con diferentes proporciones de sus elementos, por lo que se utilizan prefijos para especificar el número de átomos de cada elemento en una molécula del compuesto. Algunos ejemplos son el SF<sub>6</sub>, hexafluoruro de azufre, y el N<sub>2</sub>O<sub>4</sub>, tetróxido de dinitrógeno. Los ácidos son una clase importante de compuestos que contienen hidrógeno y tienen reglas de nomenclatura especiales. Los ácidos binarios se nombran utilizando el prefijo <emphasis effect="italics">hidro-</emphasis>, cambiando el sufijo –<emphasis effect="italics">uro</emphasis> por –<emphasis effect="italics">ico</emphasis>, y añadiendo "ácido"; HCl es ácido clorhídrico. Los oxiácidos se nombran cambiando la terminación del anión (–<emphasis effect="italics">ato</emphasis> a –<emphasis effect="italics">ico</emphasis> e –<emphasis effect="italics">ito</emphasis> a –<emphasis effect="italics">oso</emphasis>), y añadiendo "ácido"; H<sub>2</sub>CO<sub>3</sub> es ácido carbónico.</para></section>
+<section id="fs-idm121332480" class="exercises">
+<title>Ejercicios de Química del final del capítulo</title>
+<exercise id="fs-idp282297472">
+<problem id="fs-idp282297728">
+<para id="fs-idp282297984">Nombre los siguientes compuestos:</para>
+<para id="fs-idp282298368">(a) CsCl</para>
+<para id="fs-idp282298752">(b) BaO</para>
+<para id="fs-idp283372304">(c) K<sub>2</sub>S</para>
+<para id="fs-idp283373072">(d) BeCl<sub>2</sub></para>
+<para id="fs-idp283373712">(e) HBr</para>
+<para id="fs-idp283374096">(f) AlF<sub>3</sub></para>
+</problem>
+<solution id="fs-idp283374864"><para id="fs-idp283374992">(a) cloruro de cesio; (b) óxido de bario; (c) sulfuro de potasio; (d) cloruro de berilio; (e) bromuro de hidrógeno; (f) fluoruro de aluminio</para>
+</solution>
+</exercise>
+<exercise id="fs-idp283375776">
+<problem id="fs-idp283376032">
+<para id="fs-idp283376288">Nombre los siguientes compuestos:</para>
+<para id="fs-idp283376672">(a) NaF</para>
+<para id="fs-idp283377056">(b) Rb<sub>2</sub>O</para>
+<para id="fs-idm254736">(c) BCl<sub>3</sub></para>
+<para id="fs-idm254096">(d) H<sub>2</sub>Se</para>
+<para id="fs-idm253328"/>
+<para id="fs-idm253072">(e) P<sub>4</sub>O<sub>6</sub></para>
+<para id="fs-idm252048">(f) ICl<sub>3</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idm250352">
+<problem id="fs-idm250096">
+<para id="fs-idm249840">Escriba las fórmulas de los siguientes compuestos:</para>
+<para id="fs-idm306848">(a) bromuro de rubidio</para>
+<para id="fs-idm306432">(b) seleniuro de magnesio</para>
+<para id="fs-idm306016">(c) óxido de sodio</para>
+<para id="fs-idm305600">(d) cloruro de calcio</para>
+<para id="fs-idm305184">(e) fluoruro de hidrógeno</para>
+<para id="fs-idm304768">(f) fosfuro de galio</para>
+<para id="fs-idm304352">(g) bromuro de aluminio</para>
+<para id="fs-idm303936">(h) sulfato de amonio</para>
+</problem>
+<solution id="fs-idm303392"><para id="fs-idm303264">(a) RbBr; (b) MgSe; (c) Na<sub>2</sub>O; (d) CaCl<sub>2</sub>; (e) HF; (f) GaP; (g) AlBr<sub>3</sub>; (h) (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp279465312">
+<problem id="fs-idp279465568">
+<para id="fs-idp279465824">Escriba las fórmulas de los siguientes compuestos:</para>
+<para id="fs-idp279466208">(a) carbonato de litio</para>
+<para id="fs-idp279466624">(b) perclorato de sodio</para>
+<para id="fs-idp279467040">(c) hidróxido de bario	</para>
+<para id="fs-idp279467456">(d) carbonato de amonio</para>
+<para id="fs-idp279467872">(e) ácido sulfúrico</para>
+<para id="fs-idp279468288">(f) acetato de calcio</para>
+<para id="fs-idp279468704">(g) fosfato de magnesio</para>
+<para id="fs-idp279469120">(h) sulfito de sodio</para>
+</problem>
+</exercise>
+<exercise id="fs-idp268321696">
+<problem id="fs-idp268321952">
+<para id="fs-idp268322208">Escriba las fórmulas de los siguientes compuestos:</para>
+<para id="fs-idp268322592">(a) dióxido de cloro</para>
+<para id="fs-idp268323008">(b) tetraóxido de dinitrógeno</para>
+<para id="fs-idp268323392">(c) fosfuro de potasio</para>
+<para id="fs-idp268323808">(d) sulfuro de plata(I)</para>
+<para id="fs-idp268324224">(e) fluoruro de aluminio trihidratado</para>
+<para id="fs-idp268324640">f) dióxido de silicio</para>
+</problem>
+<solution id="fs-idp268325184"><para id="fs-idp268325312">(a) ClO<sub>2</sub>; (b) N<sub>2</sub>O<sub>4</sub>; (c) K<sub>3</sub>P; (d) Ag<sub>2</sub>S; (e) AIF<sub>3</sub>∙3H<sub>2</sub>O; (f) SiO<sub>2</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp279319168">
+<problem id="fs-idp279319424">
+<para id="fs-idp279319680">Escriba las fórmulas de los siguientes compuestos:</para>
+<para id="fs-idp279320064">(a) cloruro de bario</para>
+<para id="fs-idp279320480">(b) nitruro de magnesio</para>
+<para id="fs-idp279320896">(c) dióxido de azufre</para>
+<para id="fs-idp279321312">(d) tricloruro de nitrógeno</para>
+<para id="fs-idp279321696">(e) trióxido de dinitrógeno</para>
+<para id="fs-idp279322112">(f) cloruro de estaño(IV)</para>
+</problem>
+</exercise>
+<exercise id="fs-idp279515392">
+<problem id="fs-idp279515648">
+<para id="fs-idp279515904">Cada uno de los siguientes compuestos contiene un metal que puede presentar más de una carga iónica. Nombre estos compuestos:</para>
+<para id="fs-idp279516416">(a) Cr<sub>2</sub>O<sub>3</sub></para>
+<para id="fs-idp279517440">(b) FeCl<sub>2</sub></para>
+<para id="fs-idp279518080">(c) CrO<sub>3</sub></para>
+<para id="fs-idp268272192">(d) TiCl<sub>4</sub></para>
+<para id="fs-idp268272832">(e) CoCl<sub>2</sub>∙6H<sub>2</sub>O</para>
+<para id="fs-idp268273216">(f) MoS<sub>2</sub></para>
+</problem>
+<solution id="fs-idp268273984"><para id="fs-idp268274112">(a) óxido de cromo(III); (b) cloruro de hierro(II); (c) óxido de cromo(VI); (d) cloruro de titanio(IV); (e) cloruro de cobalto(II) hexahidratado; (f) sulfuro de molibdeno(IV)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp268274912">
+<problem id="fs-idp268275168">
+<para id="fs-idp268275424">Cada uno de los siguientes compuestos contiene un metal que puede presentar más de una carga iónica. Nombre estos compuestos:</para>
+<para id="fs-idp268275936">(a) NiCO<sub>3</sub></para>
+<para id="fs-idp268276576">(b) MoO<sub>3</sub></para>
+<para id="fs-idp268277216">(c) Co(NO<sub>3</sub>)<sub>2</sub></para>
+<para id="fs-idp268361424">(d) V<sub>2</sub>O<sub>5</sub></para>
+<para id="fs-idp268362448">(e) MnO<sub>2</sub></para>
+<para id="fs-idp268363088">(f) Fe<sub>2</sub>O<sub>3</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp268365168">
+<problem id="fs-idp268365424">
+<para id="fs-idp268365680">Los siguientes compuestos iónicos se encuentran en productos domésticos comunes. Escriba las fórmulas de cada compuesto:</para>
+<para id="fs-idp268366192">(a) fosfato de potasio</para>
+<para id="fs-idp268366608">(b) sulfato de cobre(II)</para>
+<para id="fs-idp268367024">(c) cloruro de calcio</para>
+<para id="fs-idp282328976">(d) óxido de titanio(IV)</para><para id="fs-idp282329392">(e) nitrato de amonio</para>
+<para id="fs-idp282329808">(f) bisulfato de sodio (nombre común del hidrogenosulfato de sodio)</para>
+</problem>
+<solution id="fs-idp282330320"><para id="fs-idp282330448">(a) K<sub>3</sub>PO<sub>4</sub>; (b) CuSO<sub>4</sub>; (c) CaCl<sub>2</sub>; (d) TiO<sub>2</sub>; (e) NH<sub>4</sub>NO<sub>3</sub>; (f) NaHSO<sub>4</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp282334032">
+<problem id="fs-idp282334288">
+<para id="fs-idp282334544">Los siguientes compuestos iónicos se encuentran en productos domésticos comunes. Nombre cada uno de los compuestos:</para>
+<para id="fs-idp282334928">(a) Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub></para>
+<para id="fs-idp268307168">(b) FeSO<sub>4</sub></para>
+<para id="fs-idp268307808">(c) CaCO<sub>3</sub></para>
+<para id="fs-idp268308448">(d) MgO</para>
+<para id="fs-idp268308832">(e) NaNO<sub>2</sub></para>
+<para id="fs-idp268309472">(f) KI</para>
+</problem>
+</exercise>
+<exercise id="fs-idp268310912">
+<problem id="fs-idp268311168">
+<para id="fs-idp268311424">¿Cuáles son los nombres Unión Internacional de Química Pura y Aplicada (International Union of Pure and Applied Chemistry, IUPAC) de los siguientes compuestos?</para>
+<para id="fs-idp268311808">(a) dióxido de manganeso</para>
+<para id="fs-idp268312224">(b) cloruro de mercurio (Hg<sub>2</sub>Cl<sub>2</sub>)</para>
+<para id="fs-idp282285904">(c) nitrato férrico [Fe(NO<sub>3</sub>)<sub>3</sub>]</para>
+<para id="fs-idp282287056">(d) tetracloruro de titanio</para>
+<para id="fs-idp282287440">(e) bromuro cúprico (CuBr<sub>2</sub>)</para>
+</problem>
+<solution id="fs-idp282288336"><para id="fs-idp282288464">(a) óxido de manganeso (IV); (b) cloruro de mercurio (I); (c) nitrato de hierro (III); (d) cloruro de titanio (IV); (e) bromuro de cobre (II)</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp282291040">
+<term>ácido binario</term><meaning id="fs-idp282291552">compuesto que contiene hidrógeno y otro elemento, unido de forma que le confiere propiedades ácidas (capacidad de liberar iones H<sup>+</sup> cuando se disuelve en agua)</meaning>
+</definition>
+<definition id="fs-idp282226176">
+<term>compuesto binario</term><meaning id="fs-idp282226688">compuesto que contiene dos elementos diferentes.</meaning>
+</definition>
+<definition id="fs-idp282227200">
+<term>nomenclatura</term><meaning id="fs-idp282227712">sistema de reglas para nombrar objetos de interés</meaning>
+</definition>
+<definition id="fs-idp282228224">
+<term>oxiácido</term><meaning id="fs-idp282228736">compuesto que contiene hidrógeno, oxígeno y otro elemento, unidos de forma que le confieren propiedades ácidas (capacidad de liberar iones H<sup>+</sup> al disolverse en agua)</meaning>
+</definition>
+</glossary>
+</document>

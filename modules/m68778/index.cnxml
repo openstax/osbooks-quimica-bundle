@@ -1,0 +1,206 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>El proceso de disolución</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68778</md:content-id>
+  <md:title>El proceso de disolución</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Describir las propiedades básicas de las soluciones y cómo se forman.</item>
+<item>Predecir si una mezcla dada dará lugar a una solución con base en las propiedades moleculares de sus componentes.</item>
+<item>Explique por qué algunas soluciones producen o absorben calor cuando se forman.</item>
+</list></md:abstract>
+  <md:uuid>c6004026-5f7c-4474-81ca-2b52ef029d8b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp27309280">En un capítulo anterior de este texto se presentaron las <emphasis effect="italics">soluciones</emphasis>, que se definen como mezclas homogéneas de dos o más sustancias. A menudo, uno de los componentes de una solución está presente en una concentración significativamente mayor, en cuyo caso se denomina <emphasis effect="italics">solvente</emphasis>. Los otros componentes de la solución presentes en concentraciones relativamente menores se llaman <emphasis effect="italics">solutos</emphasis>. El azúcar es un sólido covalente compuesto por moléculas de sacarosa, C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>. Cuando este compuesto se disuelve en el agua, sus moléculas se distribuyen uniformemente entre las moléculas del agua:</para>
+<equation id="fs-idp4046912" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>22</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>11</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>22</m:mn></m:mrow></m:msub><m:msub><m:mtext>O</m:mtext><m:mrow><m:mn>11</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm1696368">El subíndice "<emphasis effect="italics">aq</emphasis>" en la ecuación significa que las moléculas de sacarosa son solutos y, por tanto, están <emphasis effect="italics">dispersas individualmente</emphasis> en la <emphasis effect="italics">solución acuosa</emphasis> (el agua es el solvente). Aunque las moléculas de sacarosa son más pesadas que las de agua, permanecen dispersas en la solución; la gravedad no hace que se "asienten" con el tiempo.</para>
+<para id="fs-idm75208096">El dicromato de potasio, K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, es un compuesto iónico formado por iones incoloros de potasio, K<sup>+</sup>, e iones anaranjados de dicromato, <m:math><m:mrow><m:mtext>C</m:mtext><m:msub><m:mtext>r</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>7</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> Cuando se añade una pequeña cantidad de dicromato de potasio sólido al agua, el compuesto se disuelve y se disocia para dar lugar a iones de potasio e iones de dicromato distribuidos uniformemente en la mezcla (<link target-id="CNX_Chem_11_01_K2Cr2O7_1"/>), como se indica en esta ecuación:</para><equation id="fs-idm25804880" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>K</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:msub><m:mtext>r</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>7</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msup><m:mtext>K</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>C</m:mtext><m:msub><m:mtext>r</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>7</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation><para id="fs-idm32498064">Al igual que la mezcla de azúcar y agua, esta mezcla también es una solución acuosa. Sus solutos, los iones potasio y dicromato, permanecen dispersos individualmente entre las moléculas del solvente (agua).</para><figure id="CNX_Chem_11_01_K2Cr2O7_1" class="scaled-down">
+<media id="fs-idm31373696" alt="La primera foto muestra un pequeño montículo de un sólido cristalino de color naranja. Hay una flecha hacia la derecha. La segunda foto muestra un líquido translúcido e incoloro en un recipiente transparente. Hay una flecha hacia la derecha. La tercera foto muestra un líquido anaranjado translúcido en un recipiente transparente con tapa.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_01_K2Cr2O7_1.jpg"/>
+</media>
+<caption>Cuando el dicromato de potasio (K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>) se mezcla con agua, forma una solución homogénea de color naranja. (Crédito: modificación del trabajo de Mark Ott).</caption>
+</figure>
+<note id="fs-idm80955760" class="chemistry link-to-learning">
+<para id="fs-idm40076400">Visite este <link url="http://openstax.org/l/16Phetsugar">laboratorio virtual</link> para ver simulaciones de la disolución de sustancias covalentes e iónicas comunes (azúcar y sal) en agua.</para>
+</note>
+<para id="fs-idm72001728">El agua se utiliza tan a menudo como solvente que la palabra solución ha llegado a implicar una solución acuosa para muchas personas. Sin embargo, casi cualquier gas, líquido o sólido puede actuar como solvente. Muchas <term>aleaciones</term> son soluciones sólidas de un metal disuelto en otro; por ejemplo, las monedas estadounidenses de cinco céntimos contienen níquel disuelto en cobre. El aire es una solución gaseosa, una mezcla homogénea de nitrógeno, oxígeno y otros gases. El oxígeno (un gas), el alcohol (un líquido) y el azúcar (un sólido) se disuelven en agua (un líquido) para formar soluciones líquidas. La <link target-id="fs-idp13681744"/> da ejemplos de varias soluciones diferentes y de las fases de los solutos y los solventes.</para>
+<table id="fs-idp13681744" class="top-titled" summary="La tabla presenta los solutos y los solventes para una variedad de soluciones. En el aire, el soluto es O subíndice 2 g y el solvente es N subíndice 2 g. En los refrescos, el soluto es C O subíndice 2 g y el solvente es H subíndice 2 O l. En el hidrógeno en el paladio, H subíndice 2 g es el soluto y P d s es el solvente. En el alcohol para frotar, el H subíndice 2 O l es el soluto y el C subíndice 3 H subíndice 8 O l o 2 - propanol es el solvente. En el agua salada, el N a C l s es el soluto y el H subíndice 2 O l es el solvente. En el latón, Z n s es el soluto y C u s es el solvente.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c3" align="center">Diferentes tipos de soluciones</entry>
+</row>
+<row valign="middle">
+<entry align="left">Solución</entry>
+<entry align="left">Soluto</entry>
+<entry align="left">Solvente</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">aire</entry>
+<entry align="left">O<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">N<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+</row>
+<row valign="middle">
+<entry align="left">bebidas no alcohólicas<footnote id="fs-idm28264816">Si se observan burbujas de gas dentro del líquido, la mezcla no es homogénea y, por tanto, no es una solución.</footnote></entry>
+<entry align="left">CO<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>)</entry>
+</row>
+<row valign="middle">
+<entry align="left">hidrógeno en paladio</entry>
+<entry align="left">H<sub>2</sub>(<emphasis effect="italics">g</emphasis>)</entry>
+<entry align="left">Pd(<emphasis effect="italics">s</emphasis>)</entry>
+</row>
+<row valign="middle">
+<entry align="left">alcohol para fricciones</entry>
+<entry align="left">H<sub>2</sub>O(<emphasis effect="italics"><emphasis effect="italics">l</emphasis></emphasis>)</entry>
+<entry align="left">C<sub>3</sub>H<sub>8</sub>O(<emphasis effect="italics"><emphasis effect="italics">l</emphasis></emphasis>) (2-propanol)</entry>
+</row>
+<row valign="middle">
+<entry align="left">agua salada</entry>
+<entry align="left">NaCl(<emphasis effect="italics"><emphasis effect="italics">s</emphasis></emphasis>)</entry>
+<entry align="left">H<sub>2</sub>O(<emphasis effect="italics"><emphasis effect="italics">l</emphasis></emphasis>)</entry>
+</row>
+<row valign="middle">
+<entry align="left">latón</entry>
+<entry align="left">Zn(<emphasis effect="italics"><emphasis effect="italics">s</emphasis></emphasis>)</entry>
+<entry align="left">Cu(<emphasis effect="italics"><emphasis effect="italics">s</emphasis></emphasis>)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm100903680">Las soluciones presentan estos rasgos definitorios:</para>
+<list id="fs-idm73911888" list-type="bulleted" bullet-style="bullet">
+<item>Son homogéneas; después de mezclar una solución, esta tiene la misma composición en todos los puntos (su composición es uniforme).</item>
+<item>El estado físico de una solución -sólida, líquida o gaseosa- suele ser el mismo que el del solvente, como demuestran los ejemplos de la <link target-id="fs-idp13681744"/>.</item>
+<item>Los componentes de una solución están dispersos a escala molecular; consisten en una mezcla de partículas de soluto separadas (moléculas, átomos o iones), cada una de ellas estrechamente rodeada por especies de solvente.</item>
+<item>El soluto disuelto en una solución no se sedimenta ni se separa del solvente.</item>
+<item>La composición de una solución, o las concentraciones de sus componentes, pueden variar de forma continua (dentro de unos límites determinados por la <emphasis effect="italics">solubilidad</emphasis> de los componentes, que se analizan en detalle más adelante en este capítulo).</item>
+</list>
+<section id="fs-idp65888">
+<title>La formación de soluciones</title>
+<para id="fs-idm54470368">La formación de una solución es un ejemplo de <term>proceso espontáneo</term>, un proceso que se produce en condiciones específicas sin necesidad de energía de alguna fuente externa. A veces se agita la mezcla para acelerar el proceso de disolución, pero no es necesario; al final se formará una solución homogénea. El tema de la espontaneidad es de vital importancia para el estudio de la termodinámica química y se trata con más detalle en un capítulo posterior de este texto. Para el análisis de este capítulo, bastará con considerar dos criterios que <emphasis effect="italics">favorecen</emphasis>, pero no garantizan, la formación espontánea de una solución:</para>
+<list id="fs-idm93605392" list-type="enumerated" number-style="arabic"><item>una disminución de la energía interna del sistema (un cambio exotérmico, como se ha comentado en el capítulo anterior sobre termoquímica).</item>
+<item>un aumento de la dispersión de la materia en el sistema (lo que indica un aumento de la <emphasis effect="italics">entropía</emphasis> del sistema, como se verá en el capítulo posterior sobre termodinámica).</item>
+</list><para id="fs-idm32719984">En el proceso de disolución, a menudo, pero no siempre, se produce un cambio de energía interna al absorber o evolucionar el calor. Cuando se forma una solución a partir de la distribución uniforme de las moléculas de soluto en un solvente, siempre se produce un aumento de la dispersión de la materia.</para>
+<para id="fs-idm23823840">Cuando las fuerzas intermoleculares de atracción entre las especies del soluto y del solvente en una solución no son diferentes de las presentes en los componentes separados, la solución se forma sin ningún cambio de energía. Esta solución se denomina <term>solución ideal</term>. Una mezcla de gases ideales (o de gases como el helio y el argón, que se acercan mucho al comportamiento ideal) es un ejemplo de solución ideal, ya que las entidades que componen estos gases no experimentan atracciones intermoleculares significativas.</para>
+<para id="fs-idm90097568">Cuando se conectan recipientes de helio y argón, los gases se mezclan espontáneamente debido a la difusión y forman una solución (<link target-id="CNX_Chem_11_01_HeArsol"/>). La formación de esta solución implica claramente un aumento de la dispersión de la materia, ya que los átomos de helio y de argón ocupan un volumen dos veces mayor que el que cada uno ocupaba antes de la mezcla.</para><figure id="CNX_Chem_11_01_HeArsol">
+<media id="fs-idm50751088" alt="Se muestran dos figuras. La primera contiene dos recipientes esféricos unidos por una llave de paso cerrada. El contenedor de la izquierda está marcado como H e. Contiene una treintena de pequeñas esferas de color azul claro uniformemente dispersas. El recipiente de la derecha está marcado como A r y contiene una treintena de esferas azul-verde ligeramente más grandes. La segunda figura, similar, tiene una llave de paso abierta entre los dos recipientes esféricos. Las esferas de color azul claro y verde están uniformemente dispersas y presentes en ambos contenedores.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_01_HeArsol.jpg"/>
+</media>
+<caption>Las muestras de helio y argón se mezclan espontáneamente para dar una solución.</caption>
+</figure>
+<para id="fs-idm67575520">También pueden formarse soluciones ideales cuando se mezclan líquidos estructuralmente similares. Por ejemplo, las mezclas de los alcoholes metanol (CH<sub>3</sub>OH) y etanol (C<sub>2</sub>H<sub>5</sub>OH) forman soluciones ideales, al igual que las mezclas de los hidrocarburos pentano, C<sub>5</sub>H<sub>12</sub>, y hexano, C<sub>6</sub>H<sub>14</sub>. Al colocar metanol y etanol, o pentano y hexano, en las bombillas mostradas en la <link target-id="CNX_Chem_11_01_HeArsol"/> se producirá la misma difusión y posterior mezcla de estos líquidos que se observa para los gases He y Ar (aunque a un ritmo mucho más lento), lo que da lugar a soluciones sin cambios significativos en la energía. Sin embargo, a diferencia de una mezcla de gases, los componentes de estas soluciones líquido-líquido sí experimentan fuerzas de atracción intermoleculares. Pero como las moléculas de las dos sustancias que se mezclan son estructuralmente muy similares, las fuerzas de atracción intermoleculares entre las moléculas similares y las diferentes son esencialmente las mismas, y el proceso de disolución, por lo tanto, no implica ningún aumento o disminución apreciable de la energía. Estos ejemplos ilustran cómo el aumento de la dispersión de la materia puede proporcionar por sí solo la fuerza motriz necesaria para provocar la formación espontánea de una solución. Sin embargo, en algunos casos, las magnitudes relativas de las fuerzas intermoleculares de atracción entre las especies de soluto y solvente pueden impedir la disolución.</para>
+<para id="fs-idm24702144">En el proceso de disolución intervienen tres tipos de fuerzas de atracción intermoleculares: soluto-soluto, solvente-solvente y soluto-solvente. Como se ilustra en la <link target-id="CNX_Chem_11_01_solusolv"/>, la formación de una solución puede verse como un proceso escalonado en el que se consume energía para superar las atracciones soluto-soluto y solvente-solvente (procesos endotérmicos) y se libera cuando se establecen las atracciones soluto-solvente (un proceso exotérmico denominado <term>solvatación</term>). Las magnitudes relativas de los cambios de energía asociados a estos procesos escalonados determinan si el proceso de disolución en general liberará o absorberá energía. En algunos casos, las soluciones no se forman porque la energía necesaria para separar las especies de soluto y solvente es mucho mayor que la energía liberada por la solvatación.</para>
+<figure id="CNX_Chem_11_01_solusolv">
+<media id="fs-idm145554960" alt="La región superior y central de la figura muestra las partículas de soluto como siete esferas azules y las partículas de solvente como 16 esferas rojas en cajas separadas y marcadas. Las partículas de estas cajas se tocan. Una flecha marcada como &quot;Paso 1&quot; apunta a la izquierda de la caja del soluto y muestra las esferas azules que ya no se tocan en otra caja marcada como &quot;soluto expandido&quot;. Una flecha marcada como &quot;Paso 2&quot; apunta a la derecha de la caja del solvente y muestra las esferas rojas que ya no se tocan en otra caja marcada como &quot;solvente expandido&quot;. Las flechas parten de la parte inferior de las cajas de soluto expandido y de solvente expandido y se unen en la parte inferior de la figura, donde se muestra la marca del paso 3. Las flechas unidas señalan una caja justo encima en la que las esferas roja y azul se mezclan y se tocan. Las cajas de soluto y solvente están unidas por otra flecha marcada como &quot;formación directa de la solución&quot; que apunta hacia abajo en el centro de la figura. Esta flecha también apunta a la caja que contiene esferas rojas y azules mezcladas cerca de la parte inferior de la figura.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_01_solusolv.jpg"/>
+</media>
+<caption>Esta representación esquemática de la disolución muestra un proceso escalonado que implica la separación endotérmica de las especies de soluto y solvente (pasos 1 y 2) y la disolución exotérmica (paso 3).</caption>
+</figure>
+<para id="fs-idm96486640">Consideremos el ejemplo de un compuesto iónico que se disuelve en agua. La formación de la solución requiere que las fuerzas electrostáticas entre los cationes y los aniones del compuesto (soluto-soluto) se superen por completo, ya que se establecen fuerzas de atracción entre estos iones y las moléculas de agua (soluto-solvente). El enlace de hidrógeno entre una fracción relativamente pequeña de las moléculas de agua también debe superarse para dar cabida a cualquier soluto disuelto. Si las fuerzas electrostáticas del soluto son significativamente mayores que las fuerzas de solvatación, el proceso de disolución es significativamente endotérmico y el compuesto puede no disolverse en una medida apreciable. El carbonato de calcio, principal componente de los arrecifes de coral, es un ejemplo de este tipo de compuestos iónicos "insolubles" (vea la <link document="m68776" target-id="CNX_Chem_11_00_coralreef"/>). Por otro lado, si las fuerzas de solvatación son mucho más fuertes que las fuerzas electrostáticas del compuesto, la disolución es significativamente exotérmica y el compuesto puede ser altamente soluble. Un ejemplo común de este tipo de compuesto iónico es el cloruro de sodio, comúnmente conocido como sal de mesa.</para>
+<para id="fs-idm37742128">Como se señaló al principio de este módulo, la formación de soluciones espontáneas se ve favorecida, pero no garantizada, por los procesos de disolución exotérmica. Aunque muchos compuestos solubles se disuelven con la liberación de calor, algunos se disuelven de forma endotérmica. El nitrato de amonio (NH<sub>4</sub>NO<sub>3</sub>) es uno de esos ejemplos y se utiliza para hacer compresas frías instantáneas, como la que aparece en la <link target-id="CNX_Chem_11_01_Icepack"/>, que se usan para tratar lesiones. Una bolsa de plástico de paredes finas con agua se sella dentro de una bolsa más grande con NH<sub>4</sub>NO<sub>3</sub> sólido. Cuando se rompe la bolsa más pequeña, se forma una solución de NH<sub>4</sub>NO<sub>3</sub> que absorbe el calor del entorno (la zona lesionada a la que se aplica la compresa) y proporciona una compresa fría que disminuye la hinchazón. Las disoluciones endotérmicas como esta requieren un mayor aporte de energía para separar las especies de solutos que el que se recupera cuando los solutos se disuelven, pero son, no obstante, espontáneas debido al aumento del desorden que acompaña a la formación de la solución.</para><figure id="CNX_Chem_11_01_Icepack" class="scaled-down">
+<media id="fs-idm26849248" alt="Esta figura muestra una bolsa de frío instantánea de un solo uso con etiquetas que indican una bolsa interior de agua rodeada de partículas blancas de nitrato de amonio.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_01_Icepack.jpg"/>
+</media>
+<caption>Una bolsa de frío instantánea se enfría cuando ciertas sales, como el nitrato de amonio, se disuelven en el agua, un proceso endotérmico.</caption>
+</figure>
+<note id="fs-idm57797360" class="chemistry link-to-learning">
+<para id="fs-idm36370704">Vea este breve <link url="http://openstax.org/l/16endoexo">video</link> que ilustra los procesos de disolución endotérmicos y exotérmicos.</para>
+</note>
+<section id="fs-idm71104864" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm78884832">Una solución se forma cuando dos o más sustancias se combinan físicamente para producir una mezcla que es homogénea a nivel molecular. El solvente es el componente más concentrado y determina el estado físico de la solución. Los solutos son los otros componentes que suelen estar presentes en concentraciones inferiores a las del solvente. Las soluciones pueden formarse de forma endotérmica o exotérmica, dependiendo de las magnitudes relativas de las fuerzas de atracción intermolecular del soluto y del solvente. Las soluciones ideales se forman sin un cambio apreciable de energía.</para>
+</section>
+<section id="fs-idm34912672" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idm71361392">
+<problem id="fs-idm41078320">
+<para id="fs-idm53906736">¿En qué se diferencian las soluciones de los compuestos? ¿De otras mezclas?</para>
+</problem>
+<solution id="fs-idm54101280">
+<para id="fs-idm30909248">Una solución puede variar su composición, mientras que un compuesto no puede variar su composición. Las soluciones son homogéneas a nivel molecular, mientras que otras mezclas son heterogéneas.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm105740080">
+<problem id="fs-idm55265584">
+<para id="fs-idm52012368">¿Cuáles de las principales características de las soluciones son evidentes en las soluciones de K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> mostradas en la <link target-id="CNX_Chem_11_01_K2Cr2O7_1"/>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm84066432">
+<problem id="fs-idm35525072">
+<para id="fs-idm25522416">Cuando el KNO<sub>3</sub> se disuelve en agua, la solución resultante es significativamente más fría que el agua original.</para>
+<para id="fs-idm75633264">(a) ¿La disolución del KNO<sub>3</sub> es un proceso endotérmico o exotérmico?</para>
+<para id="fs-idm41516112">(b) ¿Qué conclusiones puede sacar sobre las atracciones intermoleculares que intervienen en el proceso?</para>
+<para id="fs-idm80982688">(c) ¿Es la solución resultante una solución ideal?</para>
+</problem>
+<solution id="fs-idm53013312">
+<para id="fs-idm55862704">(a) El proceso es endotérmico ya que la solución está consumiendo calor. (b) La atracción entre los iones K<sup>+</sup> y <m:math><m:mrow><m:mtext>N</m:mtext><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>- −</m:mtext></m:msup></m:mrow></m:math> es más fuerte que entre los iones y las moléculas de agua (las interacciones ion-ion tienen una energía más baja y negativa). Por lo tanto, el proceso de disolución aumenta la energía de las interacciones moleculares y consume la energía térmica de la solución para compensar la diferencia. c) No, se forma una solución ideal sin desprendimiento ni consumo de calor apreciable.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm33766240">
+<problem id="fs-idm36557168">
+<para id="fs-idm96684496">Dé un ejemplo de cada uno de los siguientes tipos de soluciones:</para>
+<para id="fs-idm82255936">a) un gas en un líquido</para>
+<para id="fs-idp3899904">b) un gas en un gas</para>
+<para id="fs-idp4106416">c) un sólido en un sólido</para>
+</problem>
+</exercise>
+<exercise id="fs-idm6481344">
+<problem id="fs-idm61332992">
+<para id="fs-idm51192336">Indique los tipos de atracción intermolecular más importantes en cada una de las siguientes soluciones:</para>
+<para id="fs-idm96983392">(a) La solución en la <link target-id="CNX_Chem_11_01_K2Cr2O7_1"/>.</para>
+<para id="fs-idm57903504">(b) NO(<emphasis effect="italics">l</emphasis>) in CO(<emphasis effect="italics">l</emphasis>)</para>
+<para id="fs-idm24779824">(c) Cl<sub>2</sub>(<emphasis effect="italics">g</emphasis>) in Br<sub>2</sub>(<emphasis effect="italics">l</emphasis>)</para>
+<para id="fs-idm58115840">(d) HCl(<emphasis effect="italics">g</emphasis>) en benceno C<sub>6</sub>H<sub>6</sub>(<emphasis effect="italics">l</emphasis>)</para><para id="fs-idm98708672">(e) Metanol CH<sub>3</sub>OH(<emphasis effect="italics">l</emphasis>) in H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>)</para>
+</problem>
+<solution id="fs-idm55414080">
+<para id="fs-idm73055536">(a) fuerzas ion-dipolo; (b) fuerzas dipolo-dipolo; (c) fuerzas de dispersión; (d) fuerzas de dispersión; (e) enlace de hidrógeno.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm118513216">
+<problem id="fs-idm95538736">
+<para id="fs-idm3077840">Prediga si cada una de las siguientes sustancias sería más soluble en agua (solvente polar) o en un hidrocarburo como el heptano (C<sub>7</sub>H<sub>16</sub>, solvente no polar):</para>
+<para id="fs-idm72378352">a) aceite vegetal (no polar)</para>
+<para id="fs-idm39465280">b) alcohol isopropílico (polar)</para>
+<para id="fs-idm10471328">c) bromuro de potasio (iónico)</para>
+</problem>
+</exercise>
+<exercise id="fs-idm95777520">
+<problem id="fs-idp54896">
+<para id="fs-idm75932528">El calor se libera cuando se forman algunas soluciones; el calor se absorbe cuando se forman otras soluciones. Proporcione una explicación molecular de la diferencia entre estos dos tipos de procesos espontáneos.</para>
+</problem>
+<solution id="fs-idm21267712">
+<para id="fs-idp542224">El calor se libera cuando el total de las fuerzas intermoleculares (intermolecular forces, IMF) entre las moléculas del soluto y del solvente son más fuertes que el total de las IMF en el soluto puro y en el solvente puro: Romper las IMF más débiles y formar las más fuertes libera calor. El calor se absorbe cuando el total de las IMF en la solución es más débil que el total de las del soluto puro y del solvente puro: Romper las IMF más fuertes y formar las más débiles absorbe el calor.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm30601328"><problem id="fs-idm1141728">
+<para id="fs-idm95752816">Se pueden formar soluciones de hidrógeno en paladio exponiendo el metal Pd al gas H<sub>2</sub>. La concentración de hidrógeno en el paladio depende de la presión de gas H<sub>2</sub> aplicada, pero de una forma más compleja que la que puede describir la ley de Henry. En determinadas condiciones, se disuelven 0,94 g de hidrógeno gaseoso en 215 g de paladio metálico (densidad de la solución = 10,8 g cm<sup>3</sup>).</para><para id="fs-idm57599376">(a) Determine la molaridad de esta solución.</para><para id="fs-idm1141216">(b) Determine la molalidad de esta solución.</para><para id="fs-idm10434256">(c) Determine el porcentaje en masa de átomos de hidrógeno en esta solución.</para></problem>
+</exercise>
+</section>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm104294208">
+<term>aleación</term>
+<meaning id="fs-idm41964048">mezcla sólida de un elemento metálico y uno o más elementos adicionales.</meaning>
+</definition>
+<definition id="fs-idm54772688">
+<term>solución ideal</term>
+<meaning id="fs-idm53004512">solución que se forma sin que se produzca un cambio de energía.</meaning>
+</definition>
+<definition id="fs-idm91470352">
+<term>solvatación</term>
+<meaning id="fs-idm93793152">proceso exotérmico en el que se establecen fuerzas de atracción intermoleculares entre el soluto y el solvente en una solución.</meaning>
+</definition>
+<definition id="fs-idm55870880">
+<term>proceso espontáneo</term>
+<meaning id="fs-idm75555280">cambio físico o químico que se produce sin la adición de energía de una fuente externa.</meaning>
+</definition>
+</glossary>
+</document>

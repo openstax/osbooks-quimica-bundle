@@ -1,0 +1,190 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Enlace iónico</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68737</md:content-id>
+  <md:title>Enlace iónico</md:title>
+  <md:abstract><para>Al final de esta sección podrá:</para>
+<list><item>Explicar la formación de cationes, aniones y compuestos iónicos</item>
+<item>Predecir la carga de los elementos comunes metálicos y no metálicos, y escribir su configuración de electrones</item></list></md:abstract>
+  <md:uuid>30abf24f-5db5-4f44-b275-62908b3f1f4b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm163451984">Como ha aprendido, los iones son átomos o moléculas con carga eléctrica. Un catión (un ion positivo) se forma cuando un átomo neutro pierde uno o más electrones de su capa de valencia, y un anión (un ion negativo) se forma cuando un átomo neutro gana uno o más electrones en su capa de valencia.</para>
+<para id="fs-idm91147568">Los compuestos formados por iones se denominan compuestos iónicos (o sales), y sus iones constituyentes se mantienen unidos por <term>enlaces iónicos</term>: fuerzas electrostáticas de atracción entre cationes y aniones de carga opuesta. Las propiedades de los compuestos iónicos arrojan algo de luz sobre la naturaleza de los enlaces iónicos. Los sólidos iónicos presentan una estructura cristalina y tienden a ser rígidos y quebradizos; también suelen tener puntos de fusión y ebullición elevados, lo que sugiere que los enlaces iónicos son muy fuertes. Los sólidos iónicos también son malos conductores de la electricidad por la misma razón: la fuerza de los enlaces iónicos impide que los iones se muevan libremente en el estado sólido. Sin embargo, la mayoría de los sólidos iónicos se disuelven fácilmente en el agua. Una vez disueltos o fundidos, los compuestos iónicos son excelentes conductores de la electricidad y el calor porque los iones pueden moverse libremente.</para>
+<para id="fs-idm91254256">Los átomos neutros y sus iones asociados tienen propiedades físicas y químicas muy diferentes. Los <emphasis effect="italics">átomos</emphasis> de sodio forman el sodio metal, un metal blando de color blanco plateado que arde vigorosamente en el aire y reacciona de forma explosiva con el agua. Los <emphasis effect="italics">átomos</emphasis> de cloro forman el gas cloro, Cl<sub>2</sub>, un gas amarillo-verde que es extremadamente corrosivo para la mayoría de los metales y muy venenoso para los animales y las plantas. La vigorosa reacción entre los elementos sodio y cloro forma el compuesto blanco y cristalino, cloruro de sodio, la sal de mesa común, que contiene <emphasis effect="italics">cationes</emphasis> de sodio y <emphasis effect="italics">aniones</emphasis> de cloruro (<link target-id="CNX_Chem_07_01_NaClPhotos"/>). El compuesto formado por estos iones presenta propiedades totalmente diferentes a las de los elementos sodio y cloro. El cloro es venenoso, pero el cloruro de sodio es esencial para la vida; los átomos de sodio reaccionan vigorosamente con el agua, pero el cloruro de sodio simplemente se disuelve en el agua.</para>
+<figure id="CNX_Chem_07_01_NaClPhotos">
+<media id="fs-idp90678016" alt="Se muestran tres imágenes etiquetadas como &quot;a&quot;, &quot;b&quot; y &quot;c&quot;, de izquierda a derecha. La imagen a muestra un envase de cristal con tapa que está lleno de un líquido transparente e incoloro en el que está suspendido un sólido plateado. La imagen b muestra una botella de vidrio con tapa azul llena de un gas amarillo-verde. La imagen c muestra un plato negro lleno de un sólido blanco y cristalino.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_01_NaClPhotos.jpg"/>
+</media>
+<caption>(a) El sodio es un metal blando que debe almacenarse en aceite mineral para evitar la reacción con el aire o el agua. (b) El cloro es un gas de color amarillo-verde pálido. (c) Cuando se combinan, forman cristales blancos de cloruro de sodio (sal de mesa). (Crédito a: modificación de la obra de "Jurii"/Wikimedia Commons).</caption>
+</figure>
+<section id="fs-idm22319248">
+<title>Formación de compuestos iónicos</title>
+<para id="fs-idm71257872">Los compuestos iónicos binarios están compuestos por solo dos elementos: un metal (que forma los cationes) y un no metal (que forma los aniones). Por ejemplo, el NaCl es un compuesto iónico binario. Podemos pensar en la formación de tales compuestos en términos de las propiedades periódicas de los elementos. Muchos elementos metálicos tienen potenciales de ionización relativamente bajos y pierden electrones con facilidad. Estos elementos se sitúan a la izquierda en un periodo o cerca de la parte inferior de un grupo en la tabla periódica. Los átomos no metálicos tienen afinidades electrónicas relativamente altas y, por lo tanto, ganan fácilmente los electrones perdidos por los átomos metálicos, llenando así sus capas de valencia. Los elementos no metálicos se encuentran en la esquina superior derecha de la tabla periódica.</para>
+<para id="fs-idm190724416">Como todas las sustancias deben ser eléctricamente neutras, el número total de cargas positivas de los cationes de un compuesto iónico debe ser igual al número total de cargas negativas de sus aniones. La fórmula de un compuesto iónico representa el cociente más sencillo entre el número de iones necesarios para dar un número idéntico de cargas positivas y negativas. Por ejemplo, la fórmula del óxido de aluminio, Al<sub>2</sub>O<sub>3</sub>, indica que este compuesto iónico contiene dos cationes de aluminio, Al<sup>3+</sup>, por cada tres aniones de óxido, O<sup>2−</sup> [así, (2 <m:math><m:mo>×</m:mo></m:math> +3) + (3 <m:math><m:mo>×</m:mo></m:math> –2) = 0].</para>
+<para id="fs-idm111206416">Sin embargo, es importante señalar que la fórmula de un compuesto iónico <emphasis effect="italics">no</emphasis> representa la disposición física de sus iones. Es incorrecto referirse a una "molécula" de cloruro de sodio (NaCl) porque no hay un solo enlace iónico, per se, entre ningún par específico de iones de sodio y cloruro. Las fuerzas de atracción entre los iones son isotrópicas, es decir, son iguales en todas las direcciones, lo que significa que cualquier ion particular es atraído por igual por todos los iones cercanos de carga opuesta. Esto hace que los iones se organicen en una estructura de red tridimensional fuertemente unida. El cloruro de sodio, por ejemplo, está formado por una disposición regular de igual número de cationes Na<sup>+</sup> y aniones Cl<sup>–</sup> (<link target-id="CNX_Chem_07_01_NaClStruc"/>).</para>
+<figure id="CNX_Chem_07_01_NaClStruc" class="scaled-down">
+<media id="fs-idm160477712" alt="Se muestran dos diagramas etiquetados como &quot;a&quot; y &quot;b&quot;. El diagrama a muestra un cubo formado por veintisiete esferas alternas de color púrpura y verde. Las esferas púrpura son más pequeñas que las verdes. El diagrama b muestra las mismas esferas, pero esta vez están extendidas y conectadas en tres dimensiones por varillas blancas. Las esferas púrpura están marcadas con &quot;N superíndice signo positivo&quot; mientras que las verdes están marcadas con &quot;C l superíndice signo negativo&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_07_01_NaClStruc-1938.jpg"/>
+</media>
+<caption>Los átomos del cloruro de sodio (sal de mesa común) están dispuestos para (a) maximizar la interacción de cargas opuestas. Las esferas más pequeñas representan iones de sodio, las más grandes representan iones de cloruro. En la vista ampliada (b), la geometría puede verse más claramente. Observe que cada ion está "unido" a todos los iones circundantes, seis en este caso.</caption>
+</figure>
+<para id="fs-idm8803008">La fuerte atracción electrostática entre los iones Na<sup>+</sup> and Cl<sup>–</sup> los mantiene fuertemente unidos en el NaCl sólido. Se necesitan 769 kJ de energía para disociar un mol de NaCl sólido en iones gaseosos separados de Na<sup>+</sup> y Cl<sup>–</sup>:</para>
+<equation class="unnumbered" id="fs-idm29135648"><m:math><m:mrow><m:mtext>NaCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>- –</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="3em"/><m:mtext>Δ</m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>769</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
+</section>
+<section id="fs-idm114665152">
+<title>Estructuras electrónicas de los cationes</title>
+<para id="fs-idm59366528">Al formar un catión, un átomo de un elemento del grupo principal tiende a perder todos sus electrones de valencia, asumiendo así la estructura electrónica del gas noble que le precede en la tabla periódica. En los grupos 1 (los metales alcalinos) y 2 (los metales alcalinotérreos), los números de grupo son iguales a los números de electrones de la capa de valencia y, en consecuencia, a las cargas de los cationes formados a partir de átomos de estos elementos cuando se eliminan todos los electrones de la capa de valencia. Por ejemplo, el calcio es un elemento del grupo 2 cuyos átomos neutros tienen 20 electrones y una configuración de electrones en estado fundamental de 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>. Cuando un átomo de Ca pierde sus dos electrones de valencia, el resultado es un catión con 18 electrones, una carga 2+ y una configuración electrónica de 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>. Por lo tanto, el ion Ca<sup>2+</sup> es isoelectrónico con el gas noble Ar.</para>
+<para id="fs-idm66552496">Para los grupos 13–17, los números de grupo superan en 10 el número de electrones de valencia (teniendo en cuenta la posibilidad de subcapas <emphasis effect="italics">d</emphasis> completas en los átomos de los elementos del cuarto periodo y superiores). Así, la carga de un catión formado por la pérdida de todos los electrones de valencia es igual al número de grupo menos 10. Por ejemplo, el aluminio (en el grupo 13) forma iones 3+ (Al<sup>3+</sup>).</para><para id="fs-idm147404048">Las excepciones al comportamiento esperado afectan a los elementos situados en la parte inferior de los grupos. Además de los iones esperados Tl<sup>3+</sup>, Sn<sup>4+</sup>, Pb<sup>4+</sup>, y Bi<sup>5+</sup>, una pérdida parcial de los electrones de la capa de valencia de estos átomos también puede conducir a la formación de iones Tl<sup>+</sup>, Sn<sup>2+</sup>, Pb<sup>2+</sup>, y Bi<sup>3+</sup>. La formación de estos cationes 1+, 2+ y 3+, se atribuye al <term>efecto de par inerte</term>, que refleja la energía relativamente baja del par de electrones de valencia <emphasis effect="italics">s</emphasis> en los átomos de los elementos pesados de los grupos 13, 14 y 15. El mercurio (grupo 12) también presenta un comportamiento inesperado: forma un ion diatómico, <m:math><m:mrow><m:msub><m:mtext>Hg</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2+</m:mtext></m:msup></m:mrow></m:math> (un ion formado por dos átomos de mercurio, con un enlace Hg-Hg), además del esperado ion monatómico Hg<sup>2+</sup> (formado por un solo átomo de mercurio).</para>
+<para id="fs-idm124552288">Los elementos metálicos de transición y de transición interna se comportan de manera diferente a los elementos del grupo principal. La mayoría de los cationes de los metales de transición tienen cargas 2+ o 3+ que resultan de la pérdida de sus electrones <emphasis effect="italics">s</emphasis> más externos en primer lugar, a veces seguido de la pérdida de uno o dos electrones <emphasis effect="italics">d</emphasis> de la capa más próxima. Por ejemplo, el hierro (1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>6</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>) forma el ion Fe<sup>2+</sup> (1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>6</sup>) por la pérdida de los electrones 4<emphasis effect="italics">s</emphasis> y el ion Fe<sup>3+</sup> (1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>5</sup>) por la pérdida de los electrones 4<emphasis effect="italics">s</emphasis> y uno de los 3<emphasis effect="italics">d</emphasis>. Aunque los orbitales <emphasis effect="italics">d</emphasis> de los elementos de transición son (según el principio de Aufbau) los últimos en llenarse al construir la configuración de electrones, los electrones <emphasis effect="italics">s</emphasis> más externos son los primeros en perderse cuando estos átomos se ionizan. Cuando los metales de transición interna forman iones, suelen tener una carga 3+, resultado de la pérdida de sus electrones <emphasis effect="italics">s</emphasis> más externos y de un electrón <emphasis effect="italics">d</emphasis> o <emphasis effect="italics">f</emphasis>.</para><example id="fs-idm91310448">
+<para id="fs-idm140480368"><title>Determinación de las estructuras electrónicas de los cationes</title>
+Hay al menos 14 elementos clasificados como "oligoelementos esenciales" para el cuerpo humano. Se denominan "esenciales" porque son necesarios para las funciones corporales saludables, "trazas" porque se requieren solo en pequeñas cantidades y "elementos" a pesar de que son realmente iones. Dos de estos oligoelementos esenciales, el cromo y el zinc, se requieren como Cr<sup>3+</sup> and Zn<sup>2+</sup>. Escriba las configuraciones electrónicas de estos cationes.</para>
+<para id="fs-idm35002848"><title>Solución</title>
+En primer lugar, escriba la configuración electrónica de los átomos neutros:</para>
+<para id="fs-idp41530480">Zn: [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup></para>
+<para id="fs-idp41555744">Cr: [Ar]3<emphasis effect="italics">d</emphasis><sup>5</sup>4<emphasis effect="italics">s</emphasis><sup>1</sup></para><para id="fs-idp100897408">A continuación, se eliminan los electrones del orbital de mayor energía. En el caso de los metales de transición, los electrones se eliminan primero del orbital <emphasis effect="italics">s</emphasis> y luego del <emphasis effect="italics">d</emphasis>. En los elementos del bloque <emphasis effect="italics">p</emphasis>, los electrones se eliminan de los orbitales <emphasis effect="italics">p</emphasis> y luego del orbital <emphasis effect="italics">s</emphasis>. El zinc es un miembro del grupo 12, por lo que debe tener una carga de 2+ y, por lo tanto, pierde sólo los dos electrones en su orbital <emphasis effect="italics">s</emphasis>. El cromo es un elemento de transición y debe perder sus electrones <emphasis effect="italics">s</emphasis> y luego sus electrones <emphasis effect="italics">d</emphasis> al formar un catión. Así, encontramos las siguientes configuraciones de electrones de los iones:</para>
+<para id="fs-idp89267472">Zn<sup>2+</sup>: [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup></para>
+<para id="fs-idp88797392">Cr<sup>3+</sup>: [Ar]3<emphasis effect="italics">d</emphasis><sup>3</sup></para>
+<para id="fs-idp6456720"><title>Compruebe sus conocimientos</title>
+El potasio y el magnesio son necesarios en nuestra dieta. Escriba las configuraciones electrónicas de los iones esperados de estos elementos.</para>
+<note id="fs-idm94190752"><title>Respuesta:</title>
+<para id="fs-idm62185056">K<sup>+</sup>: [Ar], Mg<sup>2+</sup>: [Ne]</para></note>
+</example>
+</section>
+<section id="fs-idp123287888">
+<title>Estructuras de electrones de los aniones</title>
+<para id="fs-idm135761888">La mayoría de los aniones monatómicos se forman cuando un átomo neutro no metálico gana suficientes electrones para llenar completamente sus orbitales exteriores <emphasis effect="italics">s</emphasis> y <emphasis effect="italics">p</emphasis>, alcanzando así la configuración de electrones del siguiente gas noble. Por lo tanto, es sencillo determinar la carga de dicho ion negativo: La carga es igual al número de electrones que hay que ganar para llenar los orbitales <emphasis effect="italics">s</emphasis> y <emphasis effect="italics">p</emphasis> del átomo padre. El oxígeno, por ejemplo, tiene la configuración electrónica 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>4</sup>, mientras que el anión oxígeno tiene la configuración electrónica del gas noble neón (Ne), 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>. Los dos electrones adicionales necesarios para llenar los orbitales de valencia dan al ion óxido la carga de 2– (O<sup>2–</sup>).</para>
+<example id="fs-idp63594560">
+<para id="fs-idm80663072"><title>Determinación de la estructura de electrones de los aniones</title>
+El selenio y el yodo son dos oligoelementos esenciales que forman aniones. Escriba las configuraciones de electrones de los aniones.</para>
+<para id="fs-idm91841088"><title>Solución</title>
+Se<sup>2–</sup>: [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup></para>
+<para id="fs-idp213059984">I<sup>–</sup>: [Kr]4<emphasis effect="italics">d</emphasis><sup>10</sup>5<emphasis effect="italics">s</emphasis><sup>2</sup>5<emphasis effect="italics">p</emphasis><sup>6</sup></para>
+<para id="fs-idm44394960"><title>Compruebe lo aprendido</title>
+Escriba las configuraciones de electrones de un átomo de fósforo y su ion negativo. Indique la carga del anión.</para>
+<note id="fs-idm157421568"><title>Respuesta:</title>
+<para id="fs-idm78503856">P: [Ne]3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>3</sup>; P<sup>3–</sup>: [Ne]3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup></para></note>
+</example>
+</section>
+<section id="fs-idm20865904" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm91340640">Los átomos ganan o pierden electrones para formar iones con configuraciones de electrones especialmente estables. Las cargas de los cationes formados por los metales representativos pueden determinarse fácilmente porque, con pocas excepciones, las estructuras de electrones de estos iones tienen una configuración de gas noble o una capa de electrones completamente llena. Las cargas de los aniones formados por los no metales también pueden determinarse fácilmente porque estos iones se forman cuando los átomos no metálicos ganan suficientes electrones para llenar sus capas de valencia.</para>
+</section>
+<section id="fs-idm7304032" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idm118463568">
+<problem id="fs-idm84537920">
+<para id="fs-idp109455392">¿Un catión gana protones para formar una carga positiva o pierde electrones?</para>
+</problem>
+<solution id="fs-idm58878480">
+<para id="fs-idm32049296">Los protones del núcleo no cambian durante las reacciones químicas normales. Solo se mueven los electrones exteriores. Las cargas positivas se forman cuando se pierden electrones.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp12729440">
+<problem id="fs-idm60424368">
+<para id="fs-idm80636720">El sulfato de hierro(III) [Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>] se compone de iones de Fe<sup>3+</sup> + e iones <m:math><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math>. Explique por qué una muestra de sulfato de hierro(III) no está cargada.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp63165504">
+<problem id="fs-idm95601616">
+<para id="fs-idm86462848">¿Cuáles de los siguientes átomos se espera que formen iones negativos en los compuestos iónicos binarios y cuáles se espera que formen iones positivos: P, I, Mg, Cl, In, Cs, O, Pb, Co?</para>
+</problem>
+<solution id="fs-idm114818128">
+<para id="fs-idp81646832">P, I, Cl y O formarían aniones porque son no metales. El Mg, el In, el Cs, el Pb y el Co formarían cationes porque son metales.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm89581104">
+<problem id="fs-idm71344160">
+<para id="fs-idm57572832">¿Cuáles de los siguientes átomos se espera que formen iones negativos en los compuestos iónicos binarios y cuáles se espera que formen iones positivos: Br, Ca, Na, N, F, Al, Sn, S, Cd?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm94727984">
+<problem id="fs-idm107091360">
+<para id="fs-idm126879312">Prediga la carga de los iones monatómicos que se forman a partir de los siguientes átomos en compuestos iónicos binarios:</para>
+<para id="fs-idm59142176">(a) P</para>
+<para id="fs-idm110082128">(b) Mg</para>
+<para id="fs-idm95281776">(c) Al</para>
+<para id="fs-idm22594368">(d) O</para>
+<para id="fs-idm113961552">(e) Cl</para>
+<para id="fs-idm115826528">f) Cs</para>
+</problem>
+<solution id="fs-idm138992784">
+<para id="fs-idm110255632">(a) P<sup>3–</sup>; (b) Mg<sup>2+</sup>; (c) Al<sup>3+</sup>; (d) O<sup>2–</sup>; (e) Cl<sup>–</sup>; (f) Cs<sup>+</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm143212928">
+<problem id="fs-idm55263072">
+<para id="fs-idm77430784">Prediga la carga de los iones monatómicos que se forman a partir de los siguientes átomos en compuestos iónicos binarios:</para>
+<para id="fs-idm81455120">(a) I</para>
+<para id="fs-idm30695056">(b) Sr</para>
+<para id="fs-idm113665072">(c) K</para>
+<para id="fs-idm113151072">d) N</para>
+<para id="fs-idm90142656">(e) S</para>
+<para id="fs-idm139225568">(f) In</para>
+</problem>
+</exercise>
+<exercise id="fs-idm69463840">
+<problem id="fs-idm87376">
+<para id="fs-idp63531536">Escriba la configuración electrónica de cada uno de los siguientes iones:</para>
+<para id="fs-idp93631616">(a) As<sup>3–</sup></para>
+<para id="fs-idm32025168">(b) I<sup>–</sup></para>
+<para id="fs-idm66278448">(c) Be<sup>2+</sup></para>
+<para id="fs-idm163951824">(d) Cd<sup>2+</sup></para>
+<para id="fs-idm135841552">(e) O<sup>2–</sup></para>
+<para id="fs-idm86341584">(f) Ga<sup>3+</sup></para>
+<para id="fs-idm29164848">(g) Li<sup>+</sup></para>
+<para id="fs-idm143374160">(h) N<sup>3–</sup></para>
+<para id="fs-idm149778240">(i) Sn<sup>2+</sup></para>
+<para id="fs-idm81618624">(j) Co<sup>2+</sup></para>
+<para id="fs-idm33540640">(k) Fe<sup>2+</sup></para>
+<para id="fs-idm99558160">(l) As<sup>3+</sup></para>
+</problem>
+<solution id="fs-idp12032624">
+<para id="fs-idp109450000">(a) [Ar]4<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>; (b) [Kr]4<emphasis effect="italics">d</emphasis><sup>10</sup>5<emphasis effect="italics">s</emphasis><sup>2</sup>5<emphasis effect="italics">p</emphasis><sup>6</sup> (c) 1<emphasis effect="italics">s</emphasis><sup>2</sup> (d) [Kr]4<emphasis effect="italics">d</emphasis><sup>10</sup>; (e) [He]2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>; (f) [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup>; (g) 1<emphasis effect="italics">s</emphasis><sup>2</sup> (h) [He]2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup> (i) [Kr]4<emphasis effect="italics">d</emphasis><sup>10</sup>5<emphasis effect="italics">s</emphasis><sup>2</sup> (j) [Ar]3<emphasis effect="italics">d</emphasis><sup>7</sup> (k) [Ar]3<emphasis effect="italics">d</emphasis><sup>6</sup>, (l) [Ar]3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup></para></solution>
+</exercise>
+<exercise id="fs-idm58592256">
+<problem id="fs-idm114811392">
+<para id="fs-idm153920672">Escriba la configuración de electrones para los iones monatómicos formados a partir de los siguientes elementos (que forman la mayor concentración de iones monatómicos en el agua de mar):</para>
+<para id="fs-idm30515408">(a) Cl</para>
+<para id="fs-idm118304928">(b) Na</para>
+<para id="fs-idm39179072">(c) Mg</para>
+<para id="fs-idm20436000">(d) Ca</para>
+<para id="fs-idm138595184">(e) K</para>
+<para id="fs-idm156302256">(f) Br</para>
+<para id="fs-idm152100848">(g) Sr</para>
+<para id="fs-idm57621568">(h) F</para>
+</problem>
+</exercise>
+<exercise id="fs-idm117401984">
+<problem id="fs-idm110267600">
+<para id="fs-idp57837184">Escriba la configuración de electrones completa para cada uno de los siguientes átomos y para el ion monatómico que se encuentra en los compuestos iónicos binarios que contienen el elemento:</para>
+<para id="fs-idm132230176">(a) Al</para>
+<para id="fs-idm110914672">(b) Br</para>
+<para id="fs-idm91893216">(c) Sr</para>
+<para id="fs-idp63567584">(d) Li</para>
+<para id="fs-idm166290688">(e) As</para>
+<para id="fs-idm89694656">f) S</para>
+</problem>
+<solution id="fs-idm122761936">
+<para id="fs-idm61271680">(a) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>1</sup>; Al<sup>3+</sup>: 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>; (b) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>5</sup>; 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>; (c) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>5<emphasis effect="italics">s</emphasis><sup>2</sup>; Sr<sup>2+</sup>: 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>; (d) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>1</sup>; Li<sup>+</sup>: 1<emphasis effect="italics">s</emphasis><sup>2</sup>; (e) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>3</sup>; 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">d</emphasis><sup>10</sup>4<emphasis effect="italics">s</emphasis><sup>2</sup>4<emphasis effect="italics">p</emphasis><sup>6</sup>; (f) 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>4</sup>; 1<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">s</emphasis><sup>2</sup>2<emphasis effect="italics">p</emphasis><sup>6</sup>3<emphasis effect="italics">s</emphasis><sup>2</sup>3<emphasis effect="italics">p</emphasis><sup>6</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm677136">
+<problem id="fs-idm163727216">
+<para id="fs-idm149901376">Utilizando las etiquetas de varios productos comerciales, prepare una lista de seis compuestos iónicos en los productos. Escriba la fórmula de cada compuesto. (Es posible que tenga que buscar algunas fórmulas en una referencia adecuada).</para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idm113628896">
+<term>efecto de par inerte</term>
+<meaning id="fs-idm29656464">tendencia de los átomos pesados a formar iones en los que no se pierden sus electrones de valencia <emphasis effect="italics">s</emphasis>.</meaning>
+</definition>
+<definition id="fs-idm118453184">
+<term>enlace iónico</term>
+<meaning id="fs-idm101179264">fuerza electrostática fuerte de atracción entre cationes y aniones en un compuesto iónico.</meaning>
+</definition>
+</glossary>
+</document>

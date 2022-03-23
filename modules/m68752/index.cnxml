@@ -1,0 +1,637 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Estequiometría de sustancias gaseosas, mezclas y reacciones</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68752</md:content-id>
+  <md:title>Estequiometría de sustancias gaseosas, mezclas y reacciones</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list><item>Utilizar la ley de los gases ideales para calcular las densidades de los gases y las masas molares.</item>
+<item>Realizar cálculos estequiométricos con sustancias gaseosas.</item>
+<item>Enunciar la ley de presiones parciales de Dalton y utilizarla en los cálculos relativos a las mezclas gaseosas.</item></list></md:abstract>
+  <md:uuid>15f67dd0-8548-4ac0-875f-f5cbf789ee94</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp201619456">El estudio del comportamiento químico de los gases formó parte de la base de la que quizá sea la revolución química más fundamental de la historia. El noble francés Antoine <term class="no-emphasis">Lavoisier</term>, ampliamente considerado como el "padre de la química moderna", cambió la química de una ciencia cualitativa a una cuantitativa a través de su trabajo con los gases. Descubrió la ley de conservación de la materia, descubrió el papel del oxígeno en las reacciones de combustión, determinó la composición del aire, explicó la respiración en términos de reacciones químicas, y mucho más. Fue víctima de la Revolución Francesa, guillotinado en 1794. De su muerte, el matemático y astrónomo Joseph-Louis Lagrange dijo: "La turba tardó solo un momento en quitarle la cabeza; un siglo no bastará para producir otra igual".<footnote id="fs-idp208659264">"Quotations by Joseph-Louis Lagrange", modificado por última vez en febrero de 2006, consultado el 10 de febrero de 2015, http://www-history.mcs.st-andrews.ac.uk/Quotations/Lagrange.html</footnote> Gran parte de los conocimientos que tenemos sobre los aportes de Lavoisier se deben a su esposa, Marie-Anne Paulze Lavoisier, que trabajó con él en su laboratorio. Una artista de formación que dominaba varios idiomas, creó ilustraciones detalladas de los equipos del laboratorio de su esposo y tradujo textos de científicos extranjeros para complementar sus conocimientos. Tras su ejecución, ella fue fundamental en la publicación del principal tratado de Lavoisier, que unificó muchos conceptos de la química y sentó las bases de importantes estudios posteriores.
+</para><para id="fs-idm31863392">Como se ha descrito en un capítulo anterior de este texto, podemos recurrir a la estequiometría química para responder a muchas de las preguntas que plantean "¿Cuánto?" La propiedad esencial implicada en este uso de la estequiometría es la cantidad de sustancia, que suele medirse en moles (<emphasis effect="italics">n</emphasis>). En el caso de los gases, la cantidad molar puede obtenerse a partir de mediciones experimentales prácticas de la presión, la temperatura y el volumen. Por lo tanto, estas mediciones son útiles para evaluar la estequiometría de los gases puros, las mezclas de gases y las reacciones químicas en las que intervienen los gases. Esta sección no introducirá ningún material o idea nueva, sino que proporcionará ejemplos de aplicaciones y formas de integrar los conceptos ya discutidos.</para>
+<section id="fs-idp78729184">
+<title>Densidad de los gases y masa molar</title>
+<para id="fs-idm206784496">La ley de los gases ideales descrita anteriormente en este capítulo relaciona las propiedades de presión <emphasis effect="italics">P</emphasis>, volumen <emphasis effect="italics">V</emphasis>, temperatura <emphasis effect="italics">T</emphasis> y cantidad molar <emphasis effect="italics">n</emphasis>. Esta ley es universal y relaciona estas propiedades de forma idéntica independientemente de la identidad química del gas:</para>
+<equation id="fs-idm185500528" class="unnumbered"><m:math><m:mrow><m:mi>P</m:mi><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm169385680">La densidad <emphasis effect="italics">d</emphasis> de un gas, en cambio, viene determinada por su identidad. Como se describe en otro capítulo de este texto, la densidad de una sustancia es una propiedad característica que puede utilizarse para identificarla.</para>
+<equation id="fs-idm214345680" class="unnumbered"><m:math><m:mrow><m:mi>d</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>m</m:mi><m:mi>V</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm208643456">Al reordenar la ecuación del gas ideal para aislar <emphasis effect="italics">V</emphasis> y sustituir en la ecuación de la densidad se obtiene</para>
+<equation id="fs-idm162939760" class="unnumbered"><m:math><m:mrow><m:mi>d</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>P</m:mi></m:mrow><m:mrow><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mi>m</m:mi><m:mi>n</m:mi></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mfrac><m:mi>P</m:mi><m:mrow><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm191484432">La relación <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">n</emphasis> es la definición de la masa molar, <emphasis effect="italics">ℳ:</emphasis></para>
+<equation id="fs-idm465259200" class="unnumbered"><m:math><m:mrow><m:mi>ℳ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>m</m:mi><m:mi>n</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm475542288">Luego, la ecuación de la densidad se escribe:</para>
+<equation id="fs-idm487853552" class="unnumbered"><m:math><m:mrow><m:mi>d</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>ℳ</m:mi><m:mi>P</m:mi></m:mrow><m:mrow><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm178080080">Esta relación puede utilizarse para calcular las densidades de gases de identidades conocidas a valores específicos de presión y temperatura, como se demuestra en el <link target-id="fs-idp128586304"/>.</para><example id="fs-idp128586304">
+<para id="fs-idm63453648"><title>Medición de la densidad del gas</title>
+¿Cuál es la densidad del gas nitrógeno molecular a STP?</para>
+<para id="fs-idp146685296"><title>Solución</title></para>
+<para id="fs-idm163799328">La masa molar del nitrógeno molecular, N<sub>2</sub>, es de 28,01 g/mol. Al sustituir este valor junto con la temperatura y la presión estándar en la ecuación de la densidad del gas se obtiene</para>
+<equation id="fs-idm200230128" class="unnumbered"><m:math><m:mrow><m:mi>d</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi mathvariant="script">ℳ</m:mi><m:mi>P</m:mi></m:mrow><m:mrow><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>28,01</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0,0821</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>L·atm·mol</m:mtext></m:mrow><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup><m:msup><m:mtext>K</m:mtext><m:mrow><m:mtext>-</m:mtext><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo><m:mo stretchy="false">(</m:mo><m:mn>273</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>1,25</m:mn><m:mspace width="0.2em"/><m:mtext>g/L</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm8187184"><title>Compruebe lo aprendido</title>
+¿Cuál es la densidad del gas hidrógeno molecular a 17,0 °C y a una presión de 760 torr?</para>
+<note id="fs-idp1319536">
+<title>Respuesta:</title>
+<para id="fs-idp21300512">d = 0,0847 g/L</para>
+</note>
+</example>
+<para id="fs-idp140587168">Cuando se desconoce la identidad de un gas, las mediciones de la masa, la presión, el volumen y la temperatura de una muestra pueden utilizarse para calcular la masa molar del gas (una propiedad útil para su identificación). Combinando la ecuación de los gases ideales</para>
+<equation id="fs-idm200001904" class="unnumbered"><m:math><m:mrow><m:mi>P</m:mi><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm191612128"> y la definición de masa molar</para>
+<equation id="fs-idm479492256" class="unnumbered"><m:math><m:mrow><m:mi>ℳ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>m</m:mi><m:mi>n</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm482518736">se obtiene la siguiente ecuación:</para>
+<equation id="fs-idm441399648" class="unnumbered"><m:math><m:mrow><m:mi>ℳ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mrow><m:mi>P</m:mi><m:mi>V</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm183947392">La determinación de la masa molar de un gas mediante este enfoque se demuestra en el <link target-id="fs-idp74274064"/>.</para>
+<example id="fs-idp74274064">
+<para id="fs-idm20853312"><title>Determinación de la fórmula molecular de un gas a partir de su masa molar y su fórmula empírica</title>
+El ciclopropano, un gas que antiguamente se utilizaba con el oxígeno como anestésico general, está compuesto por un 85,7 % de carbono y un 14,3 % de hidrógeno en masa. Halle la fórmula empírica. Si 1,56 g de ciclopropano ocupan un volumen de 1,00 L a 0,984 atm y 50 °C, ¿cuál es la fórmula molecular del ciclopropano?</para>
+<para id="fs-idp234218112"><title>Solución</title>
+Primero determine la fórmula empírica del gas. Suponga 100 g y convierta el porcentaje de cada elemento en gramos. Determine el número de moles de carbono e hidrógeno en la muestra de 100 g de ciclopropano. Divida por el menor número de moles para relacionar el número de moles de carbono con el número de moles de hidrógeno. En el último paso, dese cuenta de que la relación de números enteros más pequeña es la fórmula empírica:</para>
+<equation id="fs-idm18588864" class="unnumbered"><m:math><m:mtext>85,7 g C</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol C</m:mtext></m:mrow><m:mrow><m:mtext>12,01 g C</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>7,136 mol C</m:mtext><m:mspace width="2em"/><m:mfrac><m:mrow><m:mn>7,136</m:mn></m:mrow><m:mrow><m:mn>7,136</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>1,00 mol C</m:mtext></m:math></equation>
+<equation id="fs-idm150258896" class="unnumbered"><m:math><m:mtext>14,3 g H</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1 mol de H</m:mtext></m:mrow><m:mrow><m:mtext>1,01 g H</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>14,158 mol de H</m:mtext><m:mspace width="2em"/><m:mfrac><m:mrow><m:mn>14,158</m:mn></m:mrow><m:mrow><m:mn>7,136</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>1,98 mol de H</m:mtext></m:math></equation>
+<para id="fs-idp144237600">La fórmula empírica es CH<sub>2</sub> [masa empírica (EM) de 14,03 g/unidad empírica].</para>
+<para id="fs-idp40237504">A continuación, utilice los valores proporcionados de masa, presión, temperatura y volumen para calcular la masa molar del gas:</para>
+<equation id="fs-idp110330000" class="unnumbered"><m:math><m:mrow><m:mi>ℳ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mrow><m:mi>P</m:mi><m:mi>V</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>1,56</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mo stretchy="false">).</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0,0821</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>L·atm·mol</m:mtext></m:mrow><m:mrow><m:mtext>-</m:mtext><m:mn>1</m:mn></m:mrow></m:msup><m:msup><m:mtext>K</m:mtext><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo><m:mo stretchy="false">(</m:mo><m:mn>323</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext><m:mo stretchy="false">).</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0,984</m:mn><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:mtext>L</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>42,0</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp221616976">La comparación de la masa molar con la masa de la fórmula empírica muestra cuántas unidades de fórmula empírica componen una molécula:</para>
+<equation id="fs-idm220246400" class="unnumbered"><m:math><m:mrow><m:mfrac><m:mi>ℳ</m:mi><m:mrow><m:mi>E</m:mi><m:mi>M</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>42,0</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow><m:mrow><m:mn>14,0</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm216078960">La fórmula molecular se obtiene así de la fórmula empírica multiplicando por tres cada uno de sus subíndices:</para>
+<equation id="fs-idm171124064" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>C</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub><m:msub><m:mrow><m:mtext>H</m:mtext></m:mrow><m:mrow><m:mn>6</m:mn></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp259910672"><title>Compruebe lo aprendido</title>El acetileno, combustible utilizado en los sopletes, está compuesto por un 92,3 % de C y un 7,7 % de H en masa. Halle la fórmula empírica. Si 1,10 g de acetileno ocupan un volumen de 1,00 L a 1,15 atm y 59,5 °C, ¿cuál es la fórmula molecular del acetileno?</para><note id="fs-idp130463408">
+<title>Respuesta:</title>
+<para id="fs-idm51491440">Fórmula empírica, CH; fórmula molecular, C<sub>2</sub>H<sub>2</sub></para>
+</note>
+</example>
+<example id="fs-idp207136496">
+<para id="fs-idp30589168"><title>Determinación de la masa molar de un líquido volátil</title>
+La masa molar aproximada de un líquido volátil puede determinarse mediante:</para>
+<list id="fs-idp104043696" list-type="enumerated" number-style="arabic">
+<item>Calentar una muestra de líquido en un matraz con un pequeño orificio en la parte superior, que convierte el líquido en gas que puede escapar por el orificio.</item>
+<item>Retirar el matraz del calor en el instante en que el último trozo de líquido se convierta en gas, momento en el que el matraz estará lleno solo de muestra gaseosa a presión ambiente.</item>
+<item>Sellar el matraz y permitir que la muestra gaseosa se condense a líquido, y luego pesar el matraz para determinar la masa de la muestra (vea la <link target-id="CNX_Chem_09_03_liquidgas"/>)</item>
+</list>
+<figure id="CNX_Chem_09_03_liquidgas">
+<media id="fs-idm73431936" alt="Esta figura muestra cuatro fotos conectadas por una flecha hacia la derecha. La primera foto muestra un frasco de vidrio con la parte superior cubierta con papel aluminio sobre una balanza.   La escala marca 89,516. La segunda foto muestra una jeringa que se introduce en el matraz a través de la cubierta de papel de aluminio. La tercera foto muestra el matraz de vidrio que se introduce en un vaso de precipitados con agua. El agua parece estar calentada a 100. La cuarta foto muestra el frasco de vidrio siendo pesado de nuevo. Esta vez la escala marca 89,512.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_03_liquidgas.jpg"/>
+</media>
+<caption>Cuando el líquido volátil del matraz se calienta más allá de su punto de ebullición, se convierte en gas y expulsa el aire del matraz. A <m:math><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mi>l</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mi>g</m:mi></m:mrow></m:msub><m:mo>,</m:mo></m:mrow></m:math> el matraz se llena de gas líquido volátil a la misma presión que la atmósfera. Si a continuación se enfría el matraz a temperatura ambiente, el gas se condensa y se puede medir la masa del gas que llenaba el matraz y que ahora es líquido. (Crédito: modificación del trabajo de Mark Ott).</caption>
+</figure>
+<para id="fs-idm10831984">Mediante este procedimiento, se recoge una muestra de gas cloroformo de 0,494 g en un matraz de 129 cm<sup>3</sup> de volumen a 99,6 °C cuando la presión atmosférica es de 742,1 mm Hg. ¿Cuál es la masa molar aproximada del cloroformo?</para>
+<para id="fs-idp60723232"><title>Solución</title>
+Ya que <m:math><m:mrow><m:mtext>ℳ</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mi>m</m:mi><m:mi>n</m:mi></m:mfrac></m:mrow></m:math> y <m:math><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mi>P</m:mi><m:mi>V</m:mi></m:mrow><m:mrow><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> al sustituir y reordenar da como resultado <m:math><m:mrow><m:mtext>ℳ</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mrow><m:mi>P</m:mi><m:mi>V</m:mi></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math></para>
+<para id="fs-idp43964944">entonces</para>
+<equation id="fs-idm11022240" class="unnumbered"><m:math><m:mrow><m:mtext>ℳ</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mrow><m:mi>P</m:mi><m:mi>V</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>0,494 g</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>0,08206 L-atm/mol K</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>372,8 K</m:mtext></m:mrow><m:mrow><m:mtext>0,976 atm</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>0,129 L</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>120</m:mn><m:mspace width="0.2em"/><m:mtext>g/mol</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp146723968"><title>Compruebe lo aprendido</title>
+Una muestra de fósforo que pesa 3,243 <m:math><m:mo>×</m:mo></m:math> 10<sup>−2</sup> g ejerce una presión de 31,89 kPa en un bulbo de 56,0 mL a 550 °C. ¿Cuáles son la masa molar y la fórmula molecular del vapor de fósforo?</para>
+<note id="fs-idp108389616">
+<title>Respuesta:</title>
+<para id="fs-idm20201792">124 g/mol P<sub>4</sub></para>
+</note>
+</example>
+</section>
+<section id="fs-idp148167024">
+<title>La presión de una mezcla de gases: ley de Dalton</title>
+<para id="fs-idp70155072">A menos que reaccionen químicamente entre sí, los gases individuales de una mezcla de gases no afectan a la presión de los demás. Cada gas individual de una mezcla ejerce la misma presión que ejercería si estuviera solo en el recipiente (<link target-id="CNX_Chem_09_03_DaltonLaw1"/>). La presión ejercida por cada gas individual en una mezcla se denomina <term>presión parcial</term>. Esta observación se resume en <term>ley de presiones parciales de Dalton</term>: <emphasis effect="italics">La presión total de una mezcla de gases ideales es igual a la suma de las presiones parciales de los gases componentes</emphasis>:</para><equation id="fs-idp65742144" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mi>T</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mi>A</m:mi></m:msub><m:mo>+</m:mo><m:msub><m:mi>P</m:mi><m:mi>B</m:mi></m:msub><m:mo>+</m:mo><m:msub><m:mi>P</m:mi><m:mi>C</m:mi></m:msub><m:mo>+</m:mo><m:mn>...</m:mn><m:mo>=</m:mo><m:msub><m:mtext>Σ</m:mtext><m:mtext>i</m:mtext></m:msub><m:msub><m:mi>P</m:mi><m:mtext>i</m:mtext></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp97232880">En la ecuación <emphasis effect="italics">P<sub>Total</sub></emphasis> es la presión total de una mezcla de gases, <emphasis effect="italics">P<sub>A</sub></emphasis> es la presión parcial del gas A; <emphasis effect="italics">P<sub>B</sub></emphasis> es la presión parcial del gas B; <emphasis effect="italics">P<sub>C</sub></emphasis> es la presión parcial del gas C; y así sucesivamente.</para>
+<figure id="CNX_Chem_09_03_DaltonLaw1"><media id="fs-idp114351776" alt="Esta figura incluye imágenes de cuatro cilindros o tanques llenos de gas. Cada uno tiene una válvula en la parte superior. El interior del primer cilindro está sombreado en azul. Esta región contiene 5 pequeños círculos azules distribuidos uniformemente. La marca &quot;300 k P a&quot; está en el cilindro. El segundo cilindro es de color lavanda. Esta región contiene 8 pequeños círculos morados distribuidos uniformemente. La marcación &quot;450 k P a&quot; está en el cilindro. A la derecha de estos cilindros hay un tercer cilindro. Su interior es de color amarillo pálido. Esta región contiene 12 pequeños círculos amarillos distribuidos uniformemente. La marcación &quot;6000 k P a&quot; está en esta región del cilindro. A la derecha de estos tres cilindros aparece una flecha con la leyenda &quot;Presión total combinada&quot;. Esta flecha señala un cuarto cilindro. El interior de este cilindro está sombreado de color verde pálido. Contiene pequeños círculos distribuidos uniformemente en las siguientes cantidades y colores: 5 azules, 8 morados y 12 amarillos. Este cilindro lleva la marca &quot;1350 k P a&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_03_DaltonLaw1-f981.jpg"/>
+</media>
+
+<caption>Si se combinan cilindros de igual volumen que contienen gases a una presión de 300 kPa, 450 kPa y 600 kPa en un cilindro del mismo tamaño, la presión total de la mezcla es de 1350 kPa.</caption></figure><para id="fs-idp110759216">La presión parcial del gas A está relacionada con la presión total de la mezcla de gases a través de su <term>fracción molar (<emphasis effect="italics">X</emphasis>)</term>, una unidad de concentración definida como el número de moles de un componente de una solución dividido entre el número total de moles de todos los componentes:</para><equation id="fs-idp18188304" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mi>A</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mi>A</m:mi></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:mi>T</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub><m:mspace width="2em"/><m:mtext>donde</m:mtext><m:mspace width="2em"/><m:msub><m:mi>X</m:mi><m:mi>A</m:mi></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>n</m:mi><m:mi>A</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mi>n</m:mi><m:mrow><m:mi>T</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp75739968">donde <emphasis effect="italics">P<sub>A</sub></emphasis>, <emphasis effect="italics">X<sub>A</sub></emphasis>, y <emphasis effect="italics">n<sub>A</sub></emphasis> son la presión parcial, la fracción molar y el número de moles del gas A, respectivamente, y <emphasis effect="italics">n<sub>Total</sub></emphasis> es el número de moles de todos los componentes de la mezcla.</para>
+<example id="fs-idp143452448">
+<para id="fs-idp147731856"><title>La presión de una mezcla de gases</title>
+Un recipiente de 10,0 L contiene 2,50 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup> mol de H<sub>2</sub>, 1,00 <m:math><m:mo>×</m:mo></m:math> 10<sup>−3</sup> mol de He, y 3,00 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup> mol de Ne a 35 °C.</para>
+<para id="fs-idp100506960">(a) ¿Cuál es la presión parcial de cada uno de los gases?</para>
+<para id="fs-idp147676624">(b) ¿Cuál es la presión total en atmósferas?</para>
+<para id="fs-idp17315648"><title>Solución</title>Los gases se comportan de forma independiente, por lo que la presión parcial de cada gas se puede determinar a partir de la ecuación de los gases ideales, utilizando <m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mi>V</m:mi></m:mfrac></m:mrow></m:math>:</para><equation id="fs-idp201684064" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2 </m:mn></m:msub></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2,50</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-3</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:menclose></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,08206</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>308</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>K</m:mtext></m:menclose></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>10,0</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>6,32</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-3</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mrow></m:math></equation><equation id="fs-idp100280736" class="unnumbered">Los términos <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>He</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-3</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:menclose></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,08206</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>308</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>K</m:mtext></m:menclose></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>10,0</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2,53</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-3</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mrow></m:math></equation><equation id="fs-idp36264816" class="unnumbered">Los términos <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>Ne</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3,00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-4</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:menclose></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,08206</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose></m:mrow><m:mo>).</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>308</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>K</m:mtext></m:menclose></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>10,0</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mtext>L</m:mtext></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>7,58</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-4</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mrow></m:math></equation><para id="fs-idp49915536">La presión total viene dada por la suma de las presiones parciales:</para>
+<equation id="fs-idp207663808" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>T</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>He</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>Ne</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0,00632</m:mn><m:mo>+</m:mo><m:mn>0,00253</m:mn><m:mo>+</m:mo><m:mn>0,00076</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mo>=</m:mo><m:mn>9,61</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>-3</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>atm</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp1986144"><title>Compruebe lo aprendido</title>
+Un matraz de 5,73 L a 25 °C contiene 0,0388 mol de N<sub>2</sub>, 0,147 mol de CO y 0,0803 mol de H<sub>2</sub>. ¿Cuál es la presión total en el matraz en atmósferas?</para>
+<note id="fs-idm10367824">
+<title>Respuesta:</title>
+<para id="fs-idp101724928">1,137 atm</para>
+</note>
+</example>
+<para id="fs-idp107652512">He aquí otro ejemplo de este concepto, pero relacionado con el cálculo de fracciones molares.</para>
+<example id="fs-idp107854880">
+<para id="fs-idp279668416"><title>La presión de una mezcla de gases</title>
+Una mezcla de gases utilizada para la anestesia contiene 2,83 mol de oxígeno, O<sub>2</sub>, y 8,41 mol de óxido nitroso, N<sub>2</sub>O. La presión total de la mezcla es de 192 kPa.</para>
+<para id="fs-idp41662496">(a) ¿Cuáles son las fracciones molares de O<sub>2</sub> y N<sub>2</sub>O?</para>
+<para id="fs-idp132439904">(b) ¿Cuáles son las presiones parciales de O<sub>2</sub> y N<sub>2</sub>O?</para>
+<para id="fs-idp86077792"><title>Solución</title>
+La fracción molar viene dada por <m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mi>A</m:mi></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>n</m:mi><m:mi>A</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mi>n</m:mi><m:mrow><m:mi>T</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow></m:math> y la presión parcial es <emphasis effect="italics">P<sub>A</sub></emphasis> = <emphasis effect="italics">X<sub>A</sub></emphasis> <m:math><m:mo>×</m:mo></m:math> <emphasis effect="italics">P<sub>Total</sub></emphasis>.</para>
+<para id="fs-idm32258688">En el O<sub>2</sub>,</para>
+<equation id="fs-idm52855552" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>n</m:mi><m:mrow><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>n</m:mi><m:mrow><m:mi>T</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>2,83 mol</m:mtext></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2,83</m:mn><m:mo>+</m:mo><m:mn>8,41</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,252</m:mn></m:mrow></m:math></equation>
+<para id="fs-idp192169392">y <m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:mi>T</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,252</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>192 kPa</m:mtext><m:mo>=</m:mo><m:mtext>48,4 kPa</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp263870464">En el N<sub>2</sub>O,<newline/>
+<equation id="fs-idp202334992" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>n</m:mi><m:mrow><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>n</m:mi><m:mrow><m:mi>Total</m:mi></m:mrow></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>8,41 mol</m:mtext></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2,83</m:mn><m:mo>+</m:mo><m:mn>8,41</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mtext>mol</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,748</m:mn></m:mrow></m:math></equation></para>
+<para id="fs-idp259944368">y<newline/></para><para id="fs-idp66867744"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>X</m:mi><m:mrow><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msub><m:mi>P</m:mi><m:mrow><m:mi>Número</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0,748</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>192 kPa</m:mtext><m:mo>=</m:mo><m:mtext>144 kPa</m:mtext></m:mrow></m:math></para><para id="fs-idm31767024"><title>Compruebe lo aprendido</title>
+¿Cuál es la presión de una mezcla de 0,200 g de H<sub>2</sub>, 1,00 g de N<sub>2</sub> y 0,820 g de Ar en un recipiente con un volumen de 2,00 L a 20 °C?</para>
+<note id="fs-idp69846704">
+<title>Respuesta:</title>
+<para id="fs-idp231949376">1,87 atm</para>
+</note>
+</example>
+</section>
+<section id="fs-idp221977104">
+<title>Recolección de gases sobre el agua</title>
+<para id="fs-idp264029648">Una forma sencilla de recolectar los gases que no reaccionan con el agua es capturarlos en una botella llena de agua e invertida en un plato lleno de agua. La presión del gas dentro de la botella puede igualarse a la presión del aire en el exterior subiendo o bajando la botella. Cuando el nivel del agua es el mismo tanto dentro como fuera de la botella (<link target-id="CNX_Chem_09_03_WaterVapor"/>), la presión del gas es igual a la presión atmosférica, que se puede medir con un barómetro.</para>
+<figure id="CNX_Chem_09_03_WaterVapor" class="scaled-down">
+<media id="fs-idm14272784" alt="Esta figura muestra un diagrama del equipo utilizado para recoger un gas sobre el agua. A la izquierda hay un matraz Erlenmeyer. Tiene aproximadamente dos tercios de un líquido de color lavanda. Se ven burbujas en el líquido. Debajo del matraz aparece la marca &quot;Gas productor de la reacción&quot;. Un segmento de línea conecta esta marca con el líquido del matraz. El matraz tiene un tapón a través del cual pasa un único tubo de vidrio desde la región abierta por encima del líquido en el matraz hacia arriba a la derecha, y luego hace un ángulo hacia abajo en un recipiente que está casi lleno de agua azul claro. Este tubo se extiende de nuevo a la derecha una vez que se encuentra bien debajo de la superficie del agua. A continuación, se dobla hacia arriba en un matraz invertido que se marca como &quot;Matraz de recolección&quot;. La boca de este frasco de recolección está colocada por debajo de la superficie del agua azul claro y el frasco parece estar lleno casi hasta la mitad. Se ven burbujas en el agua del matraz invertido. El espacio abierto por encima del agua en el matraz invertido está marcado como &quot;gas recogido&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_03_WaterVapor.jpg"/>
+</media>
+<caption>Cuando una reacción produce un gas que se recolecta sobre el agua, el gas atrapado es una mezcla del gas producido por la reacción y el vapor de agua. Si el matraz de recolección se coloca adecuadamente para igualar los niveles de agua tanto dentro como fuera del matraz, la presión de la mezcla de gas atrapada será igual a la presión atmosférica fuera del matraz (véase la discusión anterior sobre los manómetros).</caption>
+</figure>
+<para id="fs-idp221722032">Sin embargo, hay otro factor que debemos considerar cuando medimos la presión del gas por este método. El agua se evapora y siempre hay agua gaseosa (vapor de agua) sobre una muestra de agua líquida. Cuando un gas se recolecta sobre el agua, se satura con vapor de agua y la presión total de la mezcla es igual a la presión parcial del gas más la presión parcial del vapor de agua. La presión del gas puro es, por tanto, igual a la presión total menos la presión del vapor de agua, lo que se denomina presión "seca" del gas, es decir, la presión del gas solo, sin vapor de agua. La <term>presión de vapor del agua</term>, que es la presión que ejerce el vapor de agua en equilibrio con el agua líquida en un recipiente cerrado y depende de la temperatura (<link target-id="CNX_Chem_09_03_WaterVapor2"/>); se puede encontrar información más detallada sobre la dependencia de la temperatura del vapor de agua en la <link target-id="fs-idm68841392"/>, y la presión de vapor se tratará con más detalle en el próximo capítulo sobre líquidos.</para>
+<figure id="CNX_Chem_09_03_WaterVapor2" class="scaled-down">
+<media id="fs-idp38546432" alt="Se muestra un gráfico. El eje horizontal está marcado como &quot;Temperatura ( grados C )&quot; con marcas y etiquetas previstas para los múltiplos de 20, comenzando en 0 y terminando en 100. El eje vertical está marcado como &quot;Presión de vapor ( torr )&quot; con marcas y etiquetas previstas para múltiplos de 200, comenzando en 0 y terminando en 800. Una curva sólida y suave de color negro se extiende desde el origen hacia arriba y hacia la derecha a través del gráfico. El gráfico muestra una tendencia positiva con una tasa de cambio creciente. En el eje vertical aparece ( 7 60) y una flecha que lo señala. La flecha está marcada como &quot;Presión de vapor a ( 100 grados C )&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_03_WaterVapor2.jpg"/>
+</media>
+<caption>Este gráfico muestra la presión de vapor del agua a nivel del mar en función de la temperatura.</caption>
+</figure>
+<table id="fs-idm68841392" class="top-titled" summary="Esta tabla tiene seis columnas y 13 filas. La primera fila es un encabezado y marca cada columna, &quot;Temperatura (signo de grado C)&quot;, &quot;Presión (torr)&quot;, &quot;Temperatura (signo de grado C)&quot;, &quot;Presión (torr)&quot;, &quot;Temperatura (signo de grado C)&quot; y &quot;Presión (torr)&quot;. En la primera columna están los siguientes: 10 negativo, 5 negativo, 2 negativo, 0, 2, 4, 6, 8, 10, 12, 14 y 16. En la segunda columna se encuentran los siguientes: 1,95, 3,0, 3,9, 4,6, 5,3, 6,1, 7,0, 8,0, 9,2, 10,5, 12,0 y 13,6. En la tercera columna se encuentran los siguientes: 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28 y 29. En la cuarta columna se encuentran los siguientes: 15,5, 16,5, 17,5, 18,7, 19,8, 21,1, 22,4, 23,8, 25,2, 26,7, 28,3 y 30,0. En la quinta columna se encuentran los siguientes: 30, 35, 40, 50, 60, 70, 80, 90, 95, 99, 100,0, y 101,0. En la sexta columna se encuentran los siguientes: 31,8, 42,2, 55,3, 92,5, 149,4, 233,7, 355,1, 525,8, 633,9, 733,2, 760,0 y 787,6."><tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+
+<thead>
+<row valign="top">
+<entry namest="c1" nameend="c6" align="center">Presión de vapor del hielo y del agua a distintas temperaturas a nivel del mar</entry>
+</row>
+<row valign="top">
+<entry align="left">Temperatura (°C)</entry>
+<entry align="left">Presión (torr)</entry>
+<entry align="left">Temperatura (°C)</entry>
+<entry align="left">Presión (torr)</entry>
+<entry align="left">Temperatura (°C)</entry>
+<entry align="left">Presión (torr)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">-10</entry>
+<entry align="left">1,95</entry>
+<entry align="left">18</entry>
+<entry align="left">15,5</entry>
+<entry align="left">30</entry>
+<entry align="left">31,8</entry>
+</row>
+<row valign="top">
+<entry align="left">–5</entry>
+<entry align="left">3,0</entry>
+<entry align="left">19</entry>
+<entry align="left">16,5</entry>
+<entry align="left">35</entry>
+<entry align="left">42,2</entry>
+</row>
+<row valign="top">
+<entry align="left">-2</entry>
+<entry align="left">3,9</entry>
+<entry align="left">20</entry>
+<entry align="left">17,5</entry>
+<entry align="left">40</entry>
+<entry align="left">55,3</entry>
+</row>
+<row valign="top">
+<entry align="left">0</entry>
+<entry align="left">4,6</entry>
+<entry align="left">21</entry>
+<entry align="left">18,7</entry>
+<entry align="left">50</entry>
+<entry align="left">92,5</entry>
+</row>
+<row valign="top">
+<entry align="left">2</entry>
+<entry align="left">5,3</entry>
+<entry align="left">22</entry>
+<entry align="left">19,8</entry>
+<entry align="left">60</entry>
+<entry align="left">149,4</entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">6,1</entry>
+<entry align="left">23</entry>
+<entry align="left">21,1</entry>
+<entry align="left">70</entry>
+<entry align="left">233,7</entry>
+</row>
+<row valign="top">
+<entry align="left">6</entry>
+<entry align="left">7,0</entry>
+<entry align="left">24</entry>
+<entry align="left">22,4</entry>
+<entry align="left">80</entry>
+<entry align="left">355,1</entry>
+</row>
+<row valign="top">
+<entry align="left">8</entry>
+<entry align="left">8,0</entry>
+<entry align="left">25</entry>
+<entry align="left">23,8</entry>
+<entry align="left">90</entry>
+<entry align="left">525,8</entry>
+</row>
+<row valign="top">
+<entry align="left">10</entry>
+<entry align="left">9,2</entry>
+<entry align="left">26</entry>
+<entry align="left">25,2</entry>
+<entry align="left">95</entry>
+<entry align="left">633,9</entry>
+</row>
+<row valign="top">
+<entry align="left">12</entry>
+<entry align="left">10,5</entry>
+<entry align="left">27</entry>
+<entry align="left">26,7</entry>
+<entry align="left">99</entry>
+<entry align="left">733,2</entry>
+</row>
+<row valign="top">
+<entry align="left">14</entry>
+<entry align="left">12,0</entry>
+<entry align="left">28</entry>
+<entry align="left">28,3</entry>
+<entry align="left">100,0</entry>
+<entry align="left">760,0</entry>
+</row>
+<row valign="top">
+<entry align="left">16</entry>
+<entry align="left">13,6</entry>
+<entry align="left">29</entry>
+<entry align="left">30,0</entry>
+<entry align="left">101,0</entry>
+<entry align="left">787,6</entry>
+</row>
+</tbody>
+</tgroup>
+</table><example id="fs-idp46681200">
+<para id="fs-idp35760544"><title>Presión de un gas recogido sobre el agua</title>
+Si se recogen 0,200 L de argón sobre agua a una temperatura de 26 °C y una presión de 750 torr en un sistema como el que se muestra en la <link target-id="CNX_Chem_09_03_WaterVapor"/>, ¿cuál es la presión parcial de argón?</para>
+<para id="fs-idp18515888"><title>Solución</title>
+Según la ley de Dalton, la presión total en la botella (750 torr) es la suma de la presión parcial del argón y la presión parcial del agua gaseosa:</para>
+<equation id="fs-idp297283264" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>T</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>Ar</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp135677552">Reordenando esta ecuación para resolver la presión del argón se obtiene:</para>
+<equation id="fs-idp33156768" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>Ar</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mtext>T</m:mtext></m:msub><m:mo>-</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp144314112">La presión del vapor de agua sobre una muestra de agua líquida a 26 °C es de 25,2 torr (<link document="m68863">Apéndice E</link>), por lo que:</para>
+<equation id="fs-idm40258608" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>Ar</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>750</m:mn><m:mspace width="0.2em"/><m:mtext>torr</m:mtext><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mn>25,2</m:mn><m:mspace width="0.2em"/><m:mtext>torr</m:mtext><m:mo>=</m:mo><m:mn>725</m:mn><m:mspace width="0.2em"/><m:mtext>torr</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp98186880"><title>Compruebe lo aprendido</title>Una muestra de oxígeno recogida sobre agua a una temperatura de 29,0 °C y una presión de 764 torr tiene un volumen de 0,560 L. ¿Qué volumen tendría el oxígeno seco de esta muestra en las mismas condiciones de temperatura y presión?</para><note id="fs-idp98213776">
+<title>Respuesta:</title>
+<para id="fs-idm32818672">0,537 L</para></note>
+</example>
+</section>
+<section id="fs-idp132626656">
+<title>Estequiometría química y gases</title>
+<para id="fs-idp137887648">La estequiometría química describe las relaciones cuantitativas entre reactivos y productos en las reacciones químicas.</para>
+<para id="fs-idp221629776">Anteriormente medimos las cantidades de reactivos y productos utilizando masas para los sólidos y volúmenes junto con la molaridad para las soluciones; ahora también podemos utilizar los volúmenes de los gases para indicar las cantidades. Si conocemos el volumen, la presión y la temperatura de un gas, podemos utilizar la ecuación de los gases ideales para calcular cuántos moles del gas hay. Si sabemos cuántos moles de un gas hay, podemos calcular el volumen de un gas a cualquier temperatura y presión.</para>
+</section>
+<section id="fs-idp45488016">
+<title>La ley de Avogadro revisada</title>
+<para id="fs-idm7424624">A veces podemos aprovechar una característica simplificadora de la estequiometría de los gases que los sólidos y las soluciones no presentan: Todos los gases que muestran un comportamiento ideal contienen el mismo número de moléculas en el mismo volumen (a la misma temperatura y presión). Así, las relaciones de los volúmenes de los gases que intervienen en una reacción química vienen dadas por los coeficientes de la ecuación de la reacción, siempre que los volúmenes de los gases se midan a la misma temperatura y presión.</para>
+<para id="fs-idp21344160">Podemos extender la ley de Avogadro (que el volumen de un gas es directamente proporcional al número de moles del mismo) a las reacciones químicas con gases: Los gases se combinan, o reaccionan, en proporciones definidas y simples por volumen, siempre que todos los volúmenes de gas se midan a la misma temperatura y presión. Por ejemplo, como los gases nitrógeno e hidrógeno reaccionan para producir gas amoníaco según <m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.4em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.4em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow></m:math> un volumen determinado de gas nitrógeno reacciona con tres veces ese volumen de gas hidrógeno para producir dos veces ese volumen de gas amoníaco, si la presión y la temperatura permanecen constantes.</para>
+<para id="fs-idp16937680">La explicación de esto se ilustra en la <link target-id="CNX_Chem_09_03_Ammonia"/>. Según la ley de Avogadro, volúmenes iguales de N<sub>2</sub>, H<sub>2</sub> y NH<sub>3</sub> gaseosos a la misma temperatura y presión, contienen el mismo número de moléculas. Como una molécula de N<sub>2</sub> reacciona con tres moléculas de H<sub>2</sub> para producir dos moléculas de NH<sub>3</sub>, el volumen de H<sub>2</sub> necesario es tres veces el volumen de N<sub>2</sub>, y el volumen de NH<sub>3</sub> producido es dos veces el volumen de N<sub>2</sub>.<sub/></para>
+<figure id="CNX_Chem_09_03_Ammonia">
+<media id="fs-idm7395552" alt="Este diagrama ofrecía modelos de la reacción química escritos con fórmulas en la parte inferior de la imagen. La reacción se escribe; N subíndice 2 signo positivo 3H subíndice 2 seguido de una flecha que apunta a la derecha hacia el NH subíndice 3. Justo encima de las fórmulas, se ofrecen modelos de llenado de espacio. Por encima del subíndice 2 de NH, se unen dos esferas azules. Por encima del 3H subíndice 2, se unen tres pares de dos esferas blancas ligeramente más pequeñas. Por encima de NH subíndice 3, se muestran dos moléculas compuestas cada una de ellas por una esfera azul central a la que se unen tres esferas blancas ligeramente más pequeñas. En la parte superior del diagrama, la reacción se ilustra con globos. A la izquierda hay un globo azul claro, que lleva la marca &quot;N subíndice 2&quot;. Este globo contiene un único modelo de relleno espacial compuesto por dos esferas azules unidas. A este globo le sigue un signo positivo, y luego tres globos grises que llevan la marca &quot;H subíndice 2&quot;. Cada uno de estos globos contiene igualmente un único modelo de llenado de espacio compuesto por dos esferas blancas unidas. Estas esferas blancas son ligeramente más pequeñas que las azules. Le sigue una flecha que señala a la derecha dos globos de color verde claro, cada uno de los cuales lleva la marca &quot;2 NH subíndice 3&quot; Cada globo verde claro contiene un modelo de relleno espacial compuesto por una única esfera azul central a la que se adhieren tres esferas blancas ligeramente más pequeñas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_03_Ammonia.jpg"/>
+</media>
+<caption>Un volumen de N<sub>2</sub> se combina con tres volúmenes de H<sub>2</sub> para formar dos volúmenes de NH<sub>3</sub>.</caption>
+</figure>
+<example id="fs-idp89809920">
+<para id="fs-idp31720640"><title>Reacción de los gases</title>
+El propano, C<sub>3</sub>H<sub>8</sub>(<emphasis effect="italics">g</emphasis>), se utiliza en las parrillas de gas para proporcionar el calor para cocinar. ¿Qué volumen de O<sub>2</sub>(<emphasis effect="italics">g</emphasis>) medido a 25 °C y 760 torr es necesario para reaccionar con 2,7 L de propano medidos en las mismas condiciones de temperatura y presión? Supongamos que el propano sufre una combustión completa.</para>
+<para id="fs-idp137922560"><title>Solución</title>
+La relación de los volúmenes de C<sub>3</sub>H<sub>8</sub> y O<sub>2</sub> será igual a la relación de sus coeficientes en la ecuación balanceada para la reacción:</para>
+<equation id="fs-idp57291280" class="unnumbered"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mo stretchy="false">⟶</m:mo><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mn>3</m:mn><m:msub><m:mtext>CO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>1 volumen</m:mtext><m:mo>+</m:mo><m:mtext>5 volúmenes</m:mtext><m:mspace width="3.5em"/><m:mtext>3 volúmenes</m:mtext><m:mo>+</m:mo><m:mtext>4 volúmenes</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp90728656">A partir de la ecuación, vemos que un volumen de C<sub>3</sub>H<sub>8</sub> reaccionará con cinco volúmenes de O<sub>2</sub>:</para>
+<equation id="fs-idp8505312" class="unnumbered"><m:math><m:mrow><m:mn>2,7</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>L</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>5 L</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>L</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>13,5 L</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp78474976">Se necesitará un volumen de 13,5 L de O<sub>2</sub> para reaccionar con 2,7 L de C<sub>3</sub>H<sub>8</sub>.</para>
+<para id="fs-idp109294464"><title>Compruebe lo aprendido</title>
+Un depósito de acetileno para un soplete oxiacetilénico proporciona 9340 L de gas acetileno, C<sub>2</sub>H<sub>2</sub>, a 0 °C y 1 atm. ¿Cuántos tanques de oxígeno, cada uno de los cuales proporciona 7,00 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> L de O<sub>2</sub> a 0 °C y 1 atm, serán necesarios para quemar el acetileno?</para>
+<equation id="fs-idp172649872" class="unnumbered"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<note id="fs-idm19557184">
+<title>Respuesta:</title>
+<para id="fs-idm79476592">3,34 tanques (2,34 <m:math><m:mo>×</m:mo></m:math> 10<sup>4</sup> L)</para>
+</note>
+</example>
+<example id="fs-idp240638800">
+<para id="fs-idp19707328"><title>Volúmenes de gases que reaccionan</title>
+El amoníaco es un importante fertilizante y producto químico industrial. Supongamos que se fabrica un volumen de 683 mil millones de pies cúbicos de amoníaco gaseoso, medido a 25 °C y 1 atm. ¿Qué volumen de H<sub>2</sub>(<emphasis effect="italics">g</emphasis>), medido en las mismas condiciones, fue necesario para preparar esta cantidad de amoníaco por reacción con N<sub>2</sub>?</para>
+<equation id="fs-idp109603280" class="unnumbered"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp212669488"><title>Solución</title>
+Puesto que volúmenes iguales de H<sub>2</sub> y NH<sub>3</sub> contienen igual número de moléculas y cada tres moléculas de H<sub>2</sub> que reaccionan producen dos moléculas de NH<sub>3</sub>, la relación de los volúmenes de H<sub>2</sub> y NH<sub>3</sub> será igual a 3:2. A partir de tres volúmenes de H<sub>2</sub> se formarán dos volúmenes de NH<sup>3</sup>, en este caso en unidades de mil millones de pies<sub>3</sub>:</para>
+<equation id="fs-idp171418912" class="unnumbered"><m:math><m:mrow><m:mn>683</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mil millones</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>ft</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>3000 millones</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>pies</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2 </m:mn></m:msub></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mil millones</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>ft</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1,02</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>mil millones</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>ft</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp138098944">La fabricación de 683 mil millones de pies<sup>3</sup> de NH<sub>3</sub> requirió 1020 mil millones de pies<sup>3</sup> de H<sub>2</sub>. (A 25 °C y 1 atm, este es el volumen de un cubo con una longitud de arista de aproximadamente 1,9 millas).</para>
+<para id="fs-idp37301360"><title>Compruebe lo aprendido</title>
+¿Qué volumen de O<sub>2</sub>(<emphasis effect="italics">g</emphasis>) medido a 25 °C y 760 torr es necesario para reaccionar con 17,0 L de etileno, C<sub>2</sub>H<sub>4</sub>(<emphasis effect="italics">g</emphasis>) medido en las mismas condiciones de temperatura y presión? Los productos son CO<sub>2</sub> y vapor de agua.</para>
+<note id="fs-idp105257584">
+<title>Respuesta:</title>
+<para id="fs-idm7381904">51,0 L</para>
+</note>
+</example>
+<example id="fs-idp13049024">
+<para id="fs-idm2007840"><title>Volumen de producto gaseoso</title>
+¿Qué volumen de hidrógeno a 27 °C y 723 torr se puede preparar por la reacción de 8,88 g de galio con un exceso de ácido clorhídrico?</para>
+<equation id="fs-idm20890912" class="unnumbered"><m:math><m:mrow><m:mn>2</m:mn><m:mtext>Ga</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>).</m:mo></m:mrow><m:mo>+</m:mo><m:mn>6</m:mn><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>GaCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp98177696"><title>Solución</title>
+Convierta la masa proporcionada del reactivo limitante, Ga, en moles de hidrógeno producido:</para>
+<equation id="fs-idm46693760" class="unnumbered"><m:math><m:mrow><m:mn>8,88</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Ga</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Ga</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>69,723</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Ga</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2 </m:mn></m:msub></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Ga</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,191</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>mol H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp35037744">Convierta los valores de temperatura y presión proporcionados a las unidades apropiadas (K y atm, respectivamente) y, a continuación utilice la cantidad molar de gas hidrógeno y la ecuación de los gases ideales para calcular el volumen de gas:</para>
+<equation id="fs-idp48121168" class="unnumbered"><m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mi>P</m:mi></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,191</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>0,08206 L</m:mtext><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>atm</m:mtext><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>mol</m:mtext></m:mrow><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>K</m:mtext><m:mrow><m:mtext>-1</m:mtext></m:mrow></m:msup></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>300 K</m:mtext></m:mrow><m:mrow><m:mn>0,951</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>atm</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>4,94 L</m:mtext></m:math></equation>
+<para id="fs-idm17626704"><title>Compruebe lo aprendido</title>
+El dióxido de azufre es un producto intermedio en la preparación del ácido sulfúrico. ¿Qué volumen de SO<sub>2</sub> a 343 °C y 1,21 atm se produce al quemar 1,00 kg de azufre en exceso de oxígeno?</para>
+<note id="fs-idp30333040">
+<title>Respuesta:</title>
+<para id="fs-idm23787120">1,30 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> L</para>
+</note>
+</example>
+<note id="fs-idm13395728" class="chemistry sciences-interconnect">
+<title>Gases de efecto invernadero y cambio climático</title>
+<para id="fs-idp143406944">La fina piel de nuestra atmósfera evita que la Tierra sea un planeta de hielo y la hace habitable. De hecho, esto se debe a menos del 0,5 % de las moléculas de aire. De la energía del sol que llega a la tierra, casi <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math> se refleja en el espacio, y el resto es absorbido por la atmósfera y la superficie de la tierra. Parte de la energía que absorbe la Tierra se reemite en forma de radiación infrarroja (infrared radiation, IR), una parte de la cual vuelve a salir al espacio a través de la atmósfera. Sin embargo, la mayor parte de esta IR es absorbida por ciertos gases atmosféricos, atrapando el calor en la atmósfera en un fenómeno conocido como <emphasis effect="italics">efecto invernadero</emphasis>. Este efecto mantiene las temperaturas globales dentro del rango necesario para sostener la vida en la Tierra. Sin nuestra atmósfera, la temperatura media de la Tierra sería inferior en más de 30 °C (casi 60 °F). Los principales gases de efecto invernadero (GEI) son el vapor de agua, el dióxido de carbono, el metano y el ozono. Desde la Revolución Industrial, la actividad humana ha aumentado las concentraciones de GEI, que han modificado el balance energético y están alterando significativamente el clima de la Tierra (<link target-id="CNX_Chem_09_03_GlobalWarming"/>).</para>
+<figure id="CNX_Chem_09_03_GlobalWarming" class="scaled-down">
+<media id="fs-idp86921200" alt="Este diagrama muestra la mitad de una vista bidimensional de la Tierra en azul y verde a la izquierda de la imagen. A una corta distancia fuera del hemisferio hay un arco gris. Un segmento de línea conecta la marca &quot;Atmósfera&quot; con la región entre el hemisferio y el arco gris. En esta región, cerca de la superficie de la tierra aparecen las fórmulas químicas C O subíndice 2, C H subíndice 3 y N subíndice 2 O. Cinco flechas rojas formadas por líneas onduladas se extienden desde las regiones verdes de la Tierra hasta la región marcada como &quot;Atmósfera&quot; y un poco más allá La marca &quot;Radiación infrarroja&quot; señala una de estas flechas rojas. A bastante distancia fuera del arco gris aparece un círculo amarillo con un límite irregular. Este círculo está marcado como &quot;Sol&quot;. De ella parten flechas amarillas con líneas onduladas que se extienden hacia la tierra. Tres de las flechas se extienden hasta la región verde de la tierra. Una de las flechas parece reflejarse en el arco gris, haciendo que su trayectoria se aleje de la tierra.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_03_GlobalWarming-b740.jpg"/>
+</media>
+<caption>Los gases de efecto invernadero atrapan suficiente energía solar para que el planeta sea habitable, lo que se conoce como efecto invernadero. Las actividades humanas están aumentando los niveles de gases de efecto invernadero, calentando el planeta y provocando más fenómenos meteorológicos extremos.</caption>
+</figure>
+<para id="fs-idm12984240">Hay pruebas sólidas de múltiples fuentes de que los niveles atmosféricos más altos de CO<sub>2</sub> son causados por la actividad humana, con la quema de combustibles fósiles que representa alrededor de <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> del reciente aumento del CO<sub>2</sub>. Los datos fiables de los núcleos de hielo revelan que la concentración de CO<sub>2</sub> en la atmósfera se halle en el nivel más alto de los últimos 800.000 años; otras pruebas indican que puede estar en su nivel más alto en 20 millones de años. En los últimos años, la concentración de CO<sub>2</sub> ha aumentado de los niveles preindustriales de ~280 ppm a más de 400 ppm en la actualidad (<link target-id="CNX_Chem_09_03_GlobalWarming2"/>).</para>
+<figure id="CNX_Chem_09_03_GlobalWarming2">
+<media id="fs-idp99125712" alt="Esta figura tiene el título &quot;Dióxido de carbono en la atmósfera&quot;. El primer gráfico tiene una marca de eje horizontal &quot;Año ( B C )&quot; y una marca de eje vertical &quot;Concentración de dióxido de carbono ( p p m )&quot;. Las etiquetas del eje horizontal comienzan en 700.000 a la izquierda y aumentan en múltiplos de 100.000 hasta 0 a la derecha. El eje vertical comienza en 0 y aumenta en múltiplos de 50 hasta 400. Se muestra un patrón cíclico irregular que comienza antes de los 600.000 años B C a menos de 200 p p m. Los valores de 0 B C parecen variar cíclicamente hasta un máximo de unos 300 p p m. Extendiéndose más allá de 0 B C a la derecha, la concentración de dióxido de carbono parece estar en constante aumento, alcanzando casi 400 p p m en los últimos años. El segundo gráfico se muestra para ampliar la parte del gráfico más reciente. Este gráfico comienza justo antes del año 1960 y tiene marcas para múltiplos de 10 hasta el año 2010. El eje vertical comienza justo por debajo de 320 p p m e incluye marcas para todos los múltiplos de 20 hasta 400 p p m. Se muestra una línea negra suave que se extiende a través de un patrón de datos rojo irregular. La tendencia es un aumento constante y casi lineal desde la parte inferior izquierda hasta la superior derecha del gráfico.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_03_GlobalWarming2.jpg"/>
+</media>
+<caption>Los niveles de CO<sub>2</sub> en los últimos 700.000 años han sido típicamente de 200-300 ppm, con un aumento pronunciado y sin precedentes en los últimos 50 años.</caption>
+</figure>
+</note>
+<note id="fs-idm33251312" class="chemistry link-to-learning">
+<para id="fs-idp85689376">Haga clic <link url="http://openstax.org/l/16GlobalWarming">aquí</link> para ver un video de 2 minutos que explica los gases de efecto invernadero y el calentamiento global.</para>
+</note>
+<note id="fs-idp18054480" class="chemistry chemist-portrait">
+<title>Susan Solomon</title>
+<para id="fs-idp97050544">La científica atmosférica y climática Susan <term class="no-emphasis">Solomon</term> (<link target-id="CNX_Chem_09_03_SusanSolom"/>) es la autora de uno de los libros del año de <emphasis effect="italics">The New York Times</emphasis> (<emphasis effect="italics">The Coldest March</emphasis>, 2001), una de las 100 personas más influyentes del mundo de la revista Time (2008) y líder del grupo de trabajo del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC), que recibió el Premio Nobel de la Paz en 2007. Ayudó a determinar y explicar la causa de la formación del agujero de la capa de ozono sobre la Antártida y es autora de numerosos e importantes trabajos sobre el cambio climático. Ha recibido las máximas distinciones científicas en Estados Unidos y Francia (la Medalla Nacional de la Ciencia y la Gran Medalla, respectivamente), y es miembro de la Academia Nacional de Ciencias, la Royal Society, la Academia Francesa de Ciencias y la Academia Europea de Ciencias. Anteriormente profesora de la Universidad de Colorado, ahora está en el Instituto de Tecnología de Massachusetts (Massachusetts Institute of Technology, MIT) y sigue trabajando en la Administración Nacional Oceánica y Atmosférica (National Oceanic and Atmospheric Administration, NOAA).</para>
+<para id="fs-idp221818192">Para más información, vea este <link url="http://openstax.org/l/16SusanSolomon">video</link> sobre Susan Solomon.</para>
+<figure id="CNX_Chem_09_03_SusanSolom" class="scaled-down">
+<media id="fs-idp104021664" alt="Se muestra una fotografía de Susan Solomon sentada junto a un globo terráqueo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_09_03_SusanSolom.jpg"/>
+</media>
+<caption>Las investigaciones de Solomon se centran en el cambio climático y han sido fundamentales para determinar la causa del agujero de ozono sobre la Antártida (crédito: Administración Nacional Oceánica y Atmosférica).</caption>
+</figure>
+</note>
+</section>
+<section id="fs-idp102169424" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp71854032">La ley de los gases ideales puede utilizarse para derivar una serie de ecuaciones convenientes que relacionan las cantidades medidas directamente con las propiedades de interés para las sustancias gaseosas y las mezclas. Se puede realizar una reordenación adecuada de la ecuación de los gases ideales para permitir el cálculo de las densidades de los gases y las masas molares. La ley de presiones parciales de Dalton puede utilizarse para relacionar las presiones de gas medidas para las mezclas gaseosas con sus composiciones. La ley de Avogadro puede utilizarse en los cálculos estequiométricos de las reacciones químicas en las que intervienen reactivos o productos gaseosos.</para>
+</section>
+<section id="fs-idp7509520" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><emphasis effect="italics">P<sub>Total</sub></emphasis> = <emphasis effect="italics">P<sub>A</sub></emphasis> + <emphasis effect="italics">P<sub>B</sub></emphasis> + <emphasis effect="italics">P<sub>C</sub></emphasis> + … = Ʃ<sub>i</sub><emphasis effect="italics">P</emphasis><sub>i</sub></entry>
+</row>
+<row><entry><emphasis effect="italics">P<sub>A</sub></emphasis> = <emphasis effect="italics">X<sub>A</sub> P<sub>Total</sub></emphasis></entry>
+</row>
+<row><entry><m:math><m:mrow><m:msub><m:mi>X</m:mi><m:mi>A</m:mi></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>n</m:mi><m:mi>A</m:mi></m:msub></m:mrow><m:mrow><m:msub><m:mi>n</m:mi><m:mrow><m:mi>T</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row><entry/>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idp118960256" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idp231956592">
+<problem id="fs-idp8716432">
+<para id="fs-idp5305888">¿Cuál es la densidad del gas de la risa, monóxido de dinitrógeno, N<sub>2</sub>O, a una temperatura de 325 K y una presión de 113,0 kPa?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp64305520">
+<problem id="fs-idp232411056">
+<para id="fs-idp65538752">Calcule la densidad del freón 12, CF<sub>2</sub>Cl<sub>2</sub>, a 30,0 °C y 0,954 atm.</para>
+</problem>
+<solution id="fs-idp667024">
+<para id="fs-idp37436384">4.64 g L<sup>−1</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp50300640">
+<problem id="fs-idp256429264">
+<para id="fs-idp101996016">¿Qué es más denso a la misma temperatura y presión, el aire seco o el aire saturado de vapor de agua? Explique.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm31331424">
+<problem id="fs-idp98108704">
+<para id="fs-idp212774384">Un cilindro de O<sub>2</sub>(<emphasis effect="italics">g</emphasis>) utilizado en la respiración de pacientes con enfisema tiene un volumen de 3,00 L a una presión de 10,0 atm. Si la temperatura del cilindro es de 28,0 °C, ¿qué masa de oxígeno hay en la botella?</para></problem>
+<solution id="fs-idp72547568">
+<para id="fs-idp72246304">38,8 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20795744">
+<problem id="fs-idp47024752">
+<para id="fs-idm32935856">¿Cuál es la masa molar de un gas si 0,0494 g del mismo ocupan un volumen de 0,100 L a una temperatura de 26 °C y una presión de 307 torr?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp19006560">
+<problem id="fs-idp149442448">
+<para id="fs-idp49541504">¿Cuál es la masa molar de un gas si 0,281 g del mismo ocupan un volumen de 125 mL a una temperatura de 126 °C y una presión de 777 torr?</para>
+</problem>
+<solution id="fs-idp90399712">
+<para id="fs-idm11097808">72,0 g mol<sup>−1</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idp39361600">
+<problem id="fs-idp65471504">
+<para id="fs-idm25604064">¿Cómo podrías demostrar experimentalmente que la fórmula molecular del propeno es C<sub>3</sub>H<sub>6</sub> y no CH<sub>2</sub>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp37043264">
+<problem id="fs-idp86685088">
+<para id="fs-idp36886592">La densidad de un determinado fluoruro de fósforo gaseoso es de 3,93 g/L a STP. Calcula la masa molar de este fluoruro y determina su fórmula molecular.</para>
+</problem>
+<solution id="fs-idp75742256">
+<para id="fs-idp56724176">88,1 g mol<sup>−1</sup>; PF<sub>3</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idm10841488">
+<problem id="fs-idp20304688">
+<para id="fs-idp118959200">Considere esta pregunta: ¿Cuál es la fórmula molecular de un compuesto que contiene 39 % de C, 45 % de N y 16 % de H si 0,157 g del compuesto ocupan l25 mL con una presión de 99,5 kPa a 22 °C?</para>
+<para id="fs-idp31689456">(a) Describa los pasos necesarios para responder a la pregunta.</para>
+<para id="fs-idm7368784">(b) Responda a la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp13701424">
+<problem id="fs-idp13701680">
+<para id="fs-idp96863072">Un cilindro de 36,0 L de un gas utilizado para la calibración de los analizadores de gases sanguíneos en los laboratorios médicos contiene 350 g de CO<sub>2</sub>, 805 g de O<sub>2</sub> y 4.880 g de N<sub>2</sub>. A 25 grados C, ¿cuál es la presión del cilindro en atmósferas?</para></problem>
+<solution id="fs-idp132323280">
+<para id="fs-idm1704032">141 atm, 107.000 torr, 14.300 kPa</para></solution>
+</exercise>
+<exercise id="fs-idp106657088">
+<problem id="fs-idp198510832">
+<para id="fs-idp198511088">Un cilindro de una mezcla de gases utilizado para la calibración de los analizadores de gases sanguíneos en los laboratorios médicos contiene 5,0 % de CO<sub>2</sub>, 12,0 % de O<sub>2</sub> y el resto de N<sub>2</sub> a una presión total de 146 atm. ¿Cuál es la presión parcial de cada componente de este gas? (Los porcentajes dados indican el porcentaje de la presión total que se debe a cada componente).</para>
+</problem>
+</exercise>
+<exercise id="fs-idp207682832">
+<problem id="fs-idp207683088">
+<para id="fs-idp1788992">Una muestra de gas aislado del petróleo no refinado contiene un 90,0 % de CH<sub>4</sub>, un 8,9 % de C<sub>2</sub>H<sub>6</sub> y un 1,1 % de C<sub>3</sub>H<sub>8</sub> a una presión total de 307,2 kPa. ¿Cuál es la presión parcial de cada componente de este gas? (Los porcentajes dados indican el porcentaje de la presión total que se debe a cada componente).</para>
+</problem>
+<solution id="fs-idm99835968">
+<para id="fs-idm99835712">CH<sub>4</sub>: 276 kPa; C<sub>2</sub>H<sub>6</sub>: 27 kPa; C<sub>3</sub>H<sub>8</sub>: 3,4 kPa</para>
+</solution>
+</exercise>
+<exercise id="fs-idp19919472">
+<problem id="fs-idp108398688">
+<para id="fs-idp108398944">Una mezcla de 0,200 g de H<sub>2</sub>, 1,00 g de N<sub>2</sub> y 0,820 g de Ar se almacena en un recipiente cerrado a STP. Halle el volumen del recipiente, suponiendo que los gases tienen un comportamiento ideal.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp86142480">
+<problem id="fs-idp164624896">
+<para id="fs-idp164625152">La mayoría de las mezclas de gas hidrógeno con gas oxígeno son explosivas. Sin embargo, una mezcla que contiene menos del 3,0 % de O<sub>2</sub> no lo es. Si se añade suficiente O<sub>2</sub> a un cilindro de H<sub>2</sub> a 33,2 atm para que la presión total sea de 34,5 atm, ¿la mezcla es explosiva?</para>
+</problem>
+<solution id="fs-idp18559504">
+<para id="fs-idp18559760">Sí</para>
+</solution>
+</exercise>
+<exercise id="fs-idp100299232">
+<problem id="fs-idp48834848">
+<para id="fs-idp48835104">Un analizador comercial de vapores de mercurio puede detectar, en el aire, concentraciones de átomos de Hg gaseosos (que son venenosos) tan bajas como 2 <m:math><m:mo>×</m:mo></m:math> 10<sup>−6</sup> mg/L de aire. A esta concentración, ¿cuál es la presión parcial del mercurio gaseoso si la presión atmosférica es de 733 torr a 26 °C?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm12594800">
+<problem id="fs-idm12594544">
+<para id="fs-idp69022144">Se recolectó una muestra de monóxido de carbono sobre agua a una presión total de 756 torr y una temperatura de 18 °C. ¿Cuál es la presión del monóxido de carbono? (Vea la <link target-id="fs-idm68841392"/> para conocer la presión de vapor del agua).</para>
+</problem>
+<solution id="fs-idp34955840">
+<para id="fs-idp34956096">740 torr</para>
+</solution>
+</exercise>
+<exercise id="fs-idp38931136">
+<problem id="fs-idp29952">
+<para id="fs-idp30208">En un experimento en un laboratorio de química general, un estudiante recolectó una muestra de un gas sobre el agua. El volumen del gas era de 265 mL a una presión de 753 torr y una temperatura de 27 °C. La masa del gas era de 0,472 g. ¿Cuál era la masa molar del gas?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp211830176">
+<problem id="fs-idp144350864">
+<para id="fs-idp144351120">Joseph Priestley preparó por primera vez oxígeno puro calentando óxido de mercurio, HgO:<newline/> <m:math><m:mrow><m:mn>2</m:mn><m:mtext>HgO</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Hg</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp73629408">(a) Describa los pasos necesarios para responder a la siguiente pregunta: ¿Qué volumen de O<sub>2</sub> a 23 °C y 0,975 atm se produce por la descomposición de 5,36 g de HgO?</para>
+<para id="fs-idm98106000">(b) Responda la pregunta.</para>
+</problem>
+<solution id="fs-idp156140288">
+<para id="fs-idm479696">(a) Determine los moles de HgO que se descomponen; utilizando la ecuación química, determine los moles de O<sub>2</sub> producidos por la descomposición de esta cantidad de HgO; y determine el volumen de O<sub>2</sub> a partir de los moles de O<sub>2</sub>, la temperatura y la presión. (b) 0,308 L</para>
+</solution>
+</exercise>
+<exercise id="fs-idp46179152">
+<problem id="fs-idp40636416">
+<para id="fs-idp40636672">Cavendish preparó el hidrógeno en 1766 mediante el novedoso método de hacer pasar vapor a través de un cañón al rojo vivo:<newline/> <m:math><m:mrow><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mtext>Fe</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+<para id="fs-idp86341120">(a) Describa los pasos necesarios para responder a la siguiente pregunta: ¿Qué volumen de H<sub>2</sub> a una presión de 745 torr y una temperatura de 20 °C puede prepararse a partir de la reacción de 15,O g de H<sub>2</sub>O?</para>
+<para id="fs-idp45810384">(b) Responda a la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp39473616">
+<problem id="fs-idp98992032">
+<para id="fs-idp98992288">El clorofluorocarbono CCl<sub>2</sub>F<sub>2</sub> puede reciclarse en un compuesto diferente por reacción con hidrógeno para producir CH<sub>2</sub>F<sub>2</sub>(<emphasis effect="italics">g</emphasis>), un compuesto útil en la fabricación de productos químicos<newline/> <m:math><m:mrow><m:msub><m:mrow><m:mtext>CCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>F</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>HCl</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para><para id="fs-idp144355856">(a) Describa los pasos necesarios para responder a la siguiente pregunta: ¿Qué volumen de hidrógeno a 225 atm y 35,5 °C sería necesario para reaccionar con 1 tonelada (1.000 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> kg) de CCl<sub>2</sub>F<sub>2</sub>?</para>
+<para id="fs-idp69374608">(b) Responda la pregunta.</para>
+</problem>
+<solution id="fs-idp75359296">
+<para id="fs-idp75561072">(a) Determine la masa molar del CCl<sub>2</sub>F<sub>2</sub>. A partir de la ecuación balanceada, calcule los moles de H<sub>2</sub> necesarios para la reacción completa. A partir de la ley de los gases ideales, convierta los moles de H<sub>2</sub> en volumen. (b) 3,72 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> L</para>
+</solution>
+</exercise>
+<exercise id="fs-idp152416544">
+<problem id="fs-idp203755840">
+<para id="fs-idp203756096">Las bolsas de aire de los automóviles se inflan con gas nitrógeno, que se forma por la descomposición de la azida sódica sólida (NaN<sub>3</sub>). El otro producto es el sodio metálico. Calcule el volumen de gas nitrógeno a 27 °C y 756 torr formado por la descomposición de 125 g de azida sódica.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp169761136">
+<problem id="fs-idp169761392">
+<para id="fs-idp56791712">La cal, CaO, se produce al calentar el carbonato de calcio, CaCO<sub>3</sub>; el dióxido de carbono es el otro producto.</para>
+<para id="fs-idp114235888">(a) Describa los pasos necesarios para responder a la siguiente pregunta: ¿Qué volumen de dióxido de carbono a 875 K y 0,966 atm se produce por la descomposición de 1 tonelada (1000 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> kg) de carbonato de calcio?</para><para id="fs-idm7280816">(b) Responda a la pregunta.</para>
+</problem>
+<solution id="fs-idp105094464">
+<para id="fs-idp105094720">(a) Balancee la ecuación. Determine los gramos de CO<sub>2</sub> producidos y el número de moles. A partir de la ley de los gases ideales, determine el volumen del gas. (b) 7,43 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup> L</para>
+</solution>
+</exercise>
+<exercise id="fs-idp228232112">
+<problem id="fs-idp228232368">
+<para id="fs-idp228232624">Antes de que existieran las pilas pequeñas, las lámparas de carburo se utilizaban para iluminar las bicicletas. El gas acetileno, C<sub>2</sub>H<sub>2</sub>, y el hidróxido de calcio sólido se formaron por la reacción del carburo de calcio, CaC<sub>2</sub>, con el agua. La ignición del gas acetileno proporcionó la luz. En la actualidad, algunos espeleólogos utilizan las mismas lámparas y el carburo de calcio se emplea para producir acetileno para los cañones de carburo.</para>
+<para id="fs-idp156883024">(a) Describa los pasos necesarios para responder a la siguiente pregunta: ¿Qué volumen de C<sub>2</sub>H<sub>2</sub> a 1,005 atm y 12,2 °C se forma por la reacción de 15,48 g de CaC<sub>2</sub> con agua?</para>
+<para id="fs-idm16186128">(b) Responda a la pregunta.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp197293648">
+<problem id="fs-idp197293904">
+<para id="fs-idp197294160">Calcule el volumen de oxígeno necesario para quemar 12,00 L de gas etano, C<sub>2</sub>H<sub>6</sub>, para producir dióxido de carbono y agua, si los volúmenes de C<sub>2</sub>H<sub>6</sub> y O<sub>2</sub> se miden en las mismas condiciones de temperatura y presión.</para>
+</problem>
+<solution id="fs-idp279660320">
+<para id="fs-idp279660576">42,00 L</para>
+</solution>
+</exercise>
+<exercise id="fs-idp88428400">
+<problem id="fs-idp88428656">
+<para id="fs-idp85524496">¿Qué volumen de O<sub>2</sub> a STP se requiere para oxidar 8,0 L de NO a STP a NO<sub>2</sub>? ¿Qué volumen de NO<sub>2</sub> se produce en STP?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp259668928">
+<problem id="fs-idp259669184">
+<para id="fs-idp259669440">Considere las siguientes preguntas:</para>
+<para id="fs-idm79444368">(a) ¿Cuál es el volumen total de CO<sub>2</sub>(<emphasis effect="italics">g</emphasis>) y H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>) a 600 °C y 0,888 atm producido por la combustión de 1,00 L de C<sub>2</sub>H<sub>6</sub>(<emphasis effect="italics">g</emphasis>) medido a STP?</para>
+<para id="fs-idp143036432">(b) ¿Cuál es la presión parcial de H<sub>2</sub>O en los gases del producto?</para>
+</problem>
+<solution id="fs-idp21110512">
+<para id="fs-idp21110768">(a) 18,0 L; (b) 0,533 atm</para>
+</solution>
+</exercise>
+<exercise id="fs-idp68901248">
+<problem id="fs-idp224793920">
+<para id="fs-idp224794176">El metanol, CH<sub>3</sub>OH, se produce industrialmente mediante la siguiente reacción<newline/> <m:math><m:mrow><m:mtext>CO</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mover><m:mo>→</m:mo><m:mrow><m:mspace width="2em"/><m:mtext>catalizador de cobre 300 °C, 300 atm</m:mtext><m:mspace width="2em"/></m:mrow></m:mover><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>OH</m:mtext><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+<para id="fs-idp107257056">Suponiendo que los gases se comportan como gases ideales, halle la relación entre el volumen total de los reactivos y el volumen final.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp41440272">
+<problem id="fs-idp41440528">
+<para id="fs-idp41440784">¿Qué volumen de oxígeno a 423,0 K y una presión de 127,4 kPa se produce por la descomposición de 129,7 g de BaO<sub>2</sub> en BaO y O<sub>2</sub>?</para>
+</problem>
+<solution id="fs-idp78204896">
+<para id="fs-idp78205152">10,57 L O<sub>2</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp86448160">
+<problem id="fs-idp86448416">
+<para id="fs-idp39928096">Una muestra de 2,50 L de un gas incoloro a STP se descompone para dar 2,50 L de N<sub>2</sub> y 1,25 L de O<sub>2</sub> a STP. ¿Qué es el gas incoloro?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm29455728">
+<problem id="fs-idm29455472">
+<para id="fs-idm29455216">El etanol, C<sub>2</sub>H<sub>5</sub>OH, se produce industrialmente a partir del etileno, C<sub>2</sub>H<sub>4</sub>, mediante la siguiente secuencia de reacciones<newline/> <m:math><m:mrow><m:mn>3</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>HSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:math><newline/> <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>HSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:math></para>
+<para id="fs-idp77265168">¿Qué volumen de etileno a STP se necesita para producir 1000 toneladas métricas (1000 kg) de etanol si el rendimiento global del etanol es del 90,1 %?</para>
+</problem>
+<solution id="fs-idp64802096">
+<para id="fs-idp64802352">5,40 <m:math><m:mo>×</m:mo></m:math> 10<sup>5</sup> L</para>
+</solution>
+</exercise>
+<exercise id="fs-idp55931680">
+<problem id="fs-idp61931504">
+<para id="fs-idp61931760">Una molécula de hemoglobina se combinará con cuatro moléculas de oxígeno. Si 1,0 g de hemoglobina se combina con 1,53 mL de oxígeno a temperatura corporal (37 °C) y a una presión de 743 torr, ¿cuál es la masa molar de la hemoglobina?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp69237328">
+<problem id="fs-idp69237584">
+<para id="fs-idp69237840">Una muestra de un compuesto de xenón y flúor se encerró en un bulbo con una presión de 18 torr. Se añadió hidrógeno al bulbo hasta que la presión fue de 72 torr. El paso de una chispa eléctrica a través de la mezcla produjo Xe y HF. Después de eliminar el HF por reacción con KOH sólido, la presión final de xenón e hidrógeno sin reaccionar en el bulbo era de 36 torr. ¿Cuál es la fórmula empírica del fluoruro de xenón en la muestra original? (Nota: Los fluoruros de xenón solo contienen un átomo de xenón por molécula).</para>
+</problem>
+<solution id="fs-idp156247952">
+<para id="fs-idp86394000">XeF<sub>4</sub></para></solution>
+</exercise>
+<exercise id="fs-idp224745536">
+<problem id="fs-idp224745792">
+<para id="fs-idp224746048">Un método para analizar los aminoácidos es el método de van Slyke. Los grupos aminos característicos (−NH<sub>2</sub>) del material proteico se dejan reaccionar con el ácido nitroso, HNO<sub>2</sub>, para formar gas N<sub>2</sub>. A partir del volumen del gas, se puede determinar la cantidad de aminoácido. Una muestra de 0,0604 g de una muestra biológica que contiene glicina, CH<sub>2</sub>(NH<sub>2</sub>)COOH, se analizó por el método de van Slyke y dio 3,70 mL de N<sub>2</sub> recogido sobre agua a una presión de 735 torr y 29 °C. ¿Cuál fue el porcentaje de glicina en la muestra?<newline/> <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>HNO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+</problem>
+</exercise>
+</section>
+  </content>
+<glossary>
+<definition id="fs-idp142977184"><term>ley de presiones parciales de Dalton</term><meaning id="fs-idp1131824">la presión total de una mezcla de gases ideales es igual a la suma de las presiones parciales de los gases componentes.</meaning></definition>
+<definition id="fs-idp1132336"><term>fracción molar (<emphasis effect="italics">X</emphasis>)</term><meaning id="fs-idp104769344">unidad de concentración que se define como la relación entre la cantidad molar de un componente de la mezcla y el número total de moles de todos los componentes de la mezcla.</meaning></definition>
+<definition id="fs-idp104769888"><term>presión parcial</term><meaning id="fs-idp57901136">presión ejercida por un gas individual en una mezcla.</meaning></definition>
+<definition id="fs-idp57901520"><term>presión de vapor del agua</term><meaning id="fs-idp57901904">presión ejercida por el vapor de agua en equilibrio con el agua líquida en un recipiente cerrado a una temperatura determinada.</meaning></definition>
+</glossary>
+</document>

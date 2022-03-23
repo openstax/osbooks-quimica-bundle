@@ -1,0 +1,279 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Estequiometría de la reacción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68713</md:content-id>
+  <md:title>Estequiometría de la reacción</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Explicar el concepto de estequiometría en relación con las reacciones químicas</item>
+<item>Utilizar ecuaciones químicas balanceadas para obtener factores estequiométricos que relacionen las cantidades de reactivos y productos</item>
+<item>Realizar cálculos estequiométricos con masa, moles y molaridad de la solución</item>
+</list></md:abstract>
+  <md:uuid>23c22d4a-5468-45b5-a3ee-616ae2549e96</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp65325120">Una ecuación química balanceada proporciona una gran cantidad de información en un formato muy sucinto. Las fórmulas químicas proporcionan las identidades de los reactivos y los productos que intervienen en el cambio químico, lo que permite clasificar la reacción. Los coeficientes proporcionan los números relativos de estas especies químicas, permitiendo una evaluación cuantitativa de las relaciones entre las cantidades de sustancias consumidas y producidas por la reacción. Estas relaciones cuantitativas se conocen como <term>estequiometría</term> de la reacción, término derivado de las palabras griegas <emphasis effect="italics">stoicheion</emphasis> (que significa "elemento") y <emphasis effect="italics">metron</emphasis> (que significa "medida"). En este módulo se explora el uso de ecuaciones químicas balanceadas para diversas aplicaciones estequiométricas.</para>
+<para id="fs-idp92593072">El enfoque general para utilizar las relaciones estequiométricas es similar en concepto a la forma en que la gente realiza muchas actividades comunes. La preparación de alimentos, por ejemplo, ofrece una comparación adecuada. Una receta para hacer ocho panqueques requiere 1 taza de mezcla para panqueques, <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> taza de leche, y un huevo. La "ecuación" que representa la preparación de los panqueques según esta receta es</para>
+<equation class="unnumbered" id="fs-idp116126928"><m:math><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>taza de mezcla</m:mtext><m:mo>+</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>taza de leche</m:mtext><m:mo>+</m:mo><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>huevo</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mtext>panqueques</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp78338704">Si se necesitan dos docenas de panqueques para un desayuno familiar numeroso, las cantidades de ingredientes deben aumentarse proporcionalmente según las cantidades indicadas en la receta. Por ejemplo, el número de huevos necesarios para hacer 24 panqueques es</para>
+<equation class="unnumbered" id="fs-idp58586688"><m:math><m:mrow><m:mn>24</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>panqueques</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>huevo</m:mtext></m:mrow><m:mrow><m:mn>8</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>panqueques</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>huevos</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp98270672">Las ecuaciones químicas balanceadas se utilizan de forma muy similar para determinar la cantidad de un reactivo necesaria para reaccionar con una cantidad determinada de otro reactivo, o para obtener una cantidad determinada de producto, etc. Los coeficientes de la ecuación balanceada se utilizan para obtener los <term>factores estequiométricos</term> que permiten calcular la cantidad deseada. Para ilustrar esta idea, consideremos la producción de amoníaco por reacción de hidrógeno y nitrógeno:</para>
+<equation class="unnumbered" id="fs-idp124603552"><m:math><m:mrow><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp124955072">Esta ecuación muestra que las moléculas de amoníaco se producen a partir de moléculas de hidrógeno en un cociente de 2:3 y los factores estequiométricos pueden derivarse utilizando cualquier unidad de cantidad (número):</para>
+<equation class="unnumbered" id="fs-idp64965808"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:msub><m:mtext>NH</m:mtext><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mtext>o</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>2 doz</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>NH</m:mtext><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext></m:mrow><m:mrow><m:mtext>3 doz</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext></m:mrow></m:mfrac><m:mspace width="0.4em"/><m:mtext>o</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mtext>2 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext></m:mrow><m:mrow><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp56404080">Estos factores estequiométricos pueden utilizarse para calcular el número de moléculas de amoníaco producidas a partir de un número determinado de moléculas de hidrógeno, o el número de moléculas de hidrógeno necesarias para producir un número determinado de moléculas de amoníaco. Se pueden derivar factores similares para cualquier par de sustancias en cualquier ecuación química.</para>
+<example id="fs-idp48900096">
+<para id="fs-idp77269456"><title>Moles de reactivo necesarios en una reacción</title>
+¿Cuántos moles de I<sub>2</sub> son necesarios para reaccionar con 0,429 mol de Al según la siguiente ecuación (vea la <link target-id="CNX_Chem_04_03_iodine"/>)?</para>
+<equation class="unnumbered" id="fs-idp147980704"><m:math><m:mrow><m:mn>2</m:mn><m:mtext>Al</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>AlI</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></equation>
+<figure id="CNX_Chem_04_03_iodine" class="scaled-down">
+<media id="fs-idp52310320" alt="Esta figura muestra tres fotos con una flecha que va de una a otra. La primera foto muestra un pequeño montón de yodo y aluminio sobre una superficie blanca. La segunda foto muestra una pequeña cantidad de humo púrpura que sale de la pila. La tercera foto muestra una gran cantidad de humo púrpura y gris que sale de la pila.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_iodine.jpg"/>
+</media>
+<caption>El aluminio y el yodo reaccionan para producir yoduro de aluminio. El calor de la reacción vaporiza parte del yodo sólido en forma de vapor de color púrpura. (Crédito: modificación del trabajo de Mark Ott)</caption>
+</figure>
+<para id="fs-idm34598272"><title>Solución</title>
+Refiriéndose a la ecuación química balanceada, el factor estequiométrico que relaciona las dos sustancias de interés es <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mtext>2 mol de Al</m:mtext></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> La cantidad molar de yodo se obtiene multiplicando la cantidad molar de aluminio proporcionada por este factor:</para>
+<media id="fs-idp136092800" alt="Esta figura muestra dos rectángulos rosas. El primero está etiquetado como “Moles de A l”. A este rectángulo le sigue una flecha que apunta a la derecha hacia un segundo rectángulo etiquetado como “Moles de I subíndice 2”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_moleratio1_img.jpg"/>
+</media>
+<equation class="unnumbered" id="fs-idp102857120"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd columnalign="right"><m:msub><m:mtext>mol I</m:mtext><m:mn>2</m:mn></m:msub></m:mtd><m:mtd><m:mo>=</m:mo><m:mn>0,429</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Al</m:mtext></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol Al</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo><m:mtext>0,644 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp30742160"><title>Compruebe lo aprendido</title>
+¿Cuántos moles de Ca(OH)<sub>2</sub> son necesarios para reaccionar con 1,36 mol de H<sub>3</sub>PO<sub>4</sub> para producir Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> según la ecuación <m:math><m:mrow><m:mn>3</m:mn><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Ca</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo stretchy="false">).</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O?</m:mtext></m:mrow></m:math></para>
+<note id="fs-idp5038208">
+<title>Respuesta:</title>
+<para id="fs-idp115249152">2,04 mol</para>
+</note>
+</example>
+<example id="fs-idp9124448">
+<para id="fs-idp157170976"><title>Número de moléculas de producto generadas por una reacción</title>
+¿Cuántas moléculas de dióxido de carbono se producen cuando se queman 0,75 mol de propano según esta ecuación?</para>
+<equation class="unnumbered" id="fs-idp116053696"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp121952928"><title>Solución</title>
+El enfoque aquí es el mismo que para la <link target-id="fs-idp48900096"/>, aunque se pide el número absoluto de moléculas, no el número de moles de moléculas. Para ello, basta con utilizar el factor de conversión de moles a números, el número de Avogadro.</para>
+<para id="fs-idp229756528">La ecuación balanceada muestra que el dióxido de carbono se produce a partir del propano en un cociente de 3:1:</para>
+<equation class="unnumbered" id="fs-idp114307520"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>3 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mtext>1 mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idp83056800">Utilizando este factor estequiométrico, la cantidad molar de propano proporcionada y el número de Avogadro,</para>
+<media id="fs-idp94375456" alt="Esta figura muestra dos rectángulos rosas. El primero está etiquetado como “Moles de C subíndice 3 H subíndice 8”. A este rectángulo le sigue una flecha que apunta a la derecha hacia un segundo rectángulo etiquetado como “Moles de C O subíndice 2”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_moleratio2_img.jpg"/>
+</media>
+<equation class="unnumbered" id="fs-idp52373104"><m:math><m:mrow><m:mn>0,75</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>8</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>6,022</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext></m:mrow><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1,4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>24</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>moléculas</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm14771264"><title>Compruebe lo aprendido</title>
+Cuántas moléculas de NH<sub>3</sub> se producen por la reacción de 4,0 mol de Ca(OH)<sub>2</sub> según la siguiente ecuación:</para>
+<equation class="unnumbered" id="fs-idp166213360"><m:math><m:mrow><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow><m:mo stretchy="false">).</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CaSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<note id="fs-idp15879648">
+<title>Respuesta:</title>
+<para id="fs-idp160971824">4,8 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>24</sup> moléculas de NH<sub>3</sub></para>
+</note>
+</example>
+<para id="fs-idp222914448">Estos ejemplos ilustran la facilidad con la que se pueden relacionar las cantidades de sustancias que intervienen en una reacción química de estequiometría conocida. Sin embargo, medir directamente el número de átomos y moléculas no es una tarea fácil, y la aplicación práctica de la estequiometría requiere que utilicemos la propiedad de la masa, más fácil de medir.</para>
+<example id="fs-idp113495744">
+<para id="fs-idp56844080"><title>Relacionar las masas de los reactivos y los productos</title>
+¿Qué masa de hidróxido de sodio, NaOH, sería necesaria para producir 16 g del antiácido leche de magnesia [hidróxido de magnesio, Mg(OH)<sub>2</sub>] mediante la siguiente reacción?</para>
+<equation class="unnumbered" id="fs-idp158099664"><m:math><m:mrow><m:msub><m:mrow><m:mtext>MgCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>NaOH</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Mg</m:mtext><m:msub><m:mtext>(OH)</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>NaCl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm3520480"><title>Solución</title>
+El enfoque utilizado anteriormente en la <link target-id="fs-idp48900096"/> y la <link target-id="fs-idp9124448"/> también se utiliza aquí; es decir, debemos derivar un factor estequiométrico apropiado a partir de la ecuación química balanceada y utilizarlo para relacionar las cantidades de las dos sustancias de interés. En este caso, sin embargo, se proporcionan y piden masas (no cantidades molares), por lo que se requieren pasos adicionales del tipo aprendido en el capítulo anterior. Los cálculos necesarios se describen en este diagrama de flujo:</para>
+<media id="fs-idp38697232" alt="Esta figura muestra cuatro rectángulos. El primero está sombreado en amarillo y lleva la etiqueta “Masa de M g ( O H ) subíndice 2”. A este rectángulo le sigue una flecha que apunta a la derecha hacia un segundo rectángulo sombreado en rosa y etiquetado como “Moles de M g ( O H ) subíndice 2”. A este rectángulo le sigue una flecha que apunta a la derecha hacia un tercer rectángulo sombreado en rosa y etiquetado como “Moles de N a O H”. A este rectángulo le sigue una flecha que apunta a la derecha hacia un cuarto rectángulo sombreado en amarillo y etiquetado como “Masa de N a O H”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_map2_img.jpg"/>
+</media>
+<equation class="unnumbered" id="fs-idp122145840"><m:math><m:mrow><m:mn>16</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Mg</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol de Mg</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>58,3</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g Mg</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol de NaOH</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol de Mg</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>40,0 g de NaOH</m:mtext></m:mrow><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol de NaOH</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>22 g de NaOH</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp52759328"><title>Compruebe lo aprendido</title>
+¿Qué masa de óxido de galio, Ga<sub>2</sub>O<sub>3</sub>, puede prepararse a partir de 29,0 g de galio metálico? La ecuación de la reacción es <m:math><m:mrow><m:mn>4</m:mn><m:mtext>Ga</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>Ga</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<note id="fs-idp214975456">
+<title>Respuesta:</title>
+<para id="fs-idp3589264">39,0 g</para>
+</note>
+</example>
+<example id="fs-idp274853984">
+<para id="fs-idp64260528"><title>Relacionar las masas de los reactivos</title>
+¿Qué masa de gas oxígeno, O<sub>2</sub> del aire se consume en la combustión de 702 g de octano, C<sub>8</sub>H<sub>18</sub>, uno de los principales componentes de la gasolina?</para>
+<equation class="unnumbered" id="fs-idp87206624"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub><m:mo>+</m:mo><m:mn>25</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>16</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>18</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idp35508016"><title>Solución</title>
+El enfoque requerido aquí es el mismo que para el <link target-id="fs-idp113495744"/>, diferenciándose solo en que las masas proporcionadas y pedidas son ambas para especies reactivas.</para>
+<media id="fs-idp56087040" alt="Esta figura muestra cuatro rectángulos. La primera está sombreada en amarillo y está etiquetada como “Masa de C subíndice 8 H subíndice 18”. A este rectángulo le sigue una flecha que apunta a la derecha hacia un segundo rectángulo sombreado en rosa y etiquetado como “Moles de C subíndice 8 H subíndice 18”. A este rectángulo le sigue una flecha que apunta a la derecha hacia un tercer rectángulo sombreado en rosa y etiquetado como “Moles de O subíndice 2”. A este rectángulo le sigue una flecha que apunta a la derecha hacia un cuarto rectángulo sombreado en amarillo y etiquetado como “Masa de O subíndice 2”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_map3_img.jpg"/>
+</media>
+<equation class="unnumbered" id="fs-idm56417376"><m:math><m:mrow><m:mn>702</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>114,23</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>25</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>8</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>18</m:mn></m:mrow></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>32,00 g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:menclose notation="horizontalstrike"><m:mrow><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:menclose></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2,46</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp24638432"><title>Compruebe lo aprendido</title>
+¿Qué masa de CO es necesaria para reaccionar con 25,13 g de Fe<sub>2</sub>O<sub>3</sub> según la ecuación <m:math><m:mrow><m:msub><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:mtext>CO</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Fe</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>con dígito d?</m:mo></m:mrow></m:math></para>
+<note id="fs-idp58164000">
+<title>Respuesta:</title>
+<para id="fs-idp38243856">13,22 g</para>
+</note>
+</example>
+<para id="fs-idp90689472">Estos ejemplos ilustran solo algunos casos de cálculos de estequiometría de reacción. Son posibles numerosas variaciones en los pasos computacionales iniciales y finales, dependiendo de las cantidades particulares que se proporcionen y busquen (volúmenes, concentraciones de la solución, etc.). Independientemente de los detalles, todos estos cálculos comparten un componente esencial común: el uso de factores estequiométricos derivados de ecuaciones químicas balanceadas. La <link target-id="CNX_Chem_04_03_flowchart"/> proporciona un esquema general de los diversos pasos computacionales asociados a muchos cálculos de estequiometría de reacciones.</para>
+<figure id="CNX_Chem_04_03_flowchart">
+<media id="fs-idp53443040" alt="Este diagrama de flujo muestra 10 rectángulos conectados por flechas de doble cabeza. En la parte superior izquierda, un rectángulo está sombreado en color lavanda y está etiquetado como “Volumen de sustancia pura A”. A este rectángulo le sigue una flecha horizontal de doble punta etiquetada como “Densidad”. Se conecta a un segundo rectángulo que está sombreado en amarillo y está etiquetado como “Masa de A”. A este rectángulo le sigue una flecha de doble punta etiquetada como “Masa Molar”, que conecta con un tercer rectángulo sombreado en rosa y etiquetado como “Moles de A”. A la izquierda de este rectángulo hay una flecha horizontal de doble punta etiquetada como “Molaridad”, que conecta con un rectángulo de color lavanda etiquetado como “Volumen de la solución A”. El rectángulo rosa, “Moles de A”, también está conectado con una flecha de doble punta debajo y a la izquierda. Esta flecha está etiquetada como “Número de Avogadro”. Se conecta con un rectángulo sombreado en verde que se etiqueta como “Número de partículas de A”. A la derecha del rectángulo rosa “Moles de A”, hay una flecha horizontal de doble punta que está etiquetada como “Factor estequiométrico”. Se conecta a un segundo rectángulo rosa que está etiquetado como “Moles de B”. Una flecha de doble punta etiquetada como “Masa molar” se extiende desde la parte superior de este rectángulo por encima y a la derecha hasta un rectángulo sombreado en amarillo etiquetado como “Masa de B”. Una flecha horizontal de doble punta que lleva la etiqueta “Densidad” enlaza con un rectángulo de color lavanda que lleva la etiqueta “Volumen de la sustancia B” a la derecha. Una flecha horizontal de doble punta etiquetada como “Molaridad” se extiende a la derecha del rectángulo rosa “Moles de B”. Esta flecha conecta con un rectángulo de color lavanda que está etiquetado como “Volumen de sustancia B”. Otra flecha de doble punta se extiende por debajo y a la derecha del rectángulo rosa “Moles de B”. Esta flecha está etiquetada como “Número de Avogadro” y se extiende hasta un rectángulo verde que está etiquetado como “Número de partículas de B”.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_flowchart.jpg"/>
+</media>
+<caption>El diagrama de flujo representa los distintos pasos computacionales que intervienen en la mayoría de los cálculos de estequiometría de las reacciones.</caption>
+</figure>
+<note id="fs-idp84121360" class="chemistry everyday-life">
+<title>Bolsa de aire</title>
+<para id="fs-idp124943600">Las bolsas de aire, o airbags (<link target-id="CNX_Chem_04_03_airbag"/>), son un elemento de seguridad presente en la mayoría de los automóviles desde la década de 1990. El funcionamiento eficaz de un airbag requiere que se infle rápidamente con una cantidad (volumen) adecuada de gas cuando el vehículo se ve implicado en una colisión. Este requisito se satisface en muchos sistemas de airbag para automóviles mediante el uso de reacciones químicas explosivas, siendo una opción común la descomposición de la azida sódica, NaN<sub>3</sub>. Cuando los sensores del vehículo detectan una colisión, se hace pasar una corriente eléctrica a través de una cantidad cuidadosamente medida de NaN<sub>3</sub> para iniciar su descomposición:</para>
+<equation class="unnumbered" id="fs-idp113504400"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NaN</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>Na</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp9645888">Esta reacción es muy rápida, generando nitrógeno gaseoso que puede desplegar e inflar completamente un airbag típico en una fracción de segundo (~0,03-0,1 s). Entre muchas consideraciones de ingeniería, la cantidad de azida sódica utilizada debe ser la adecuada para generar suficiente gas nitrógeno para inflar completamente la bolsa de aire y garantizar su correcto funcionamiento. Por ejemplo, una pequeña masa (~100 g) de NaN<sub>3</sub> generará aproximadamente 50 L de N<sub>2</sub>.</para>
+<figure id="CNX_Chem_04_03_airbag" class="scaled-down">
+<media id="fs-idp103197840" alt="Esta fotografía muestra el interior de un automóvil desde la zona del conductor. La imagen muestra airbags inflados colocados justo delante de los asientos del conductor y del pasajero y a lo largo del lado del pasajero sobre las ventanillas. Un gran airbag redondo cubre el volante.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_airbag.jpg"/>
+</media>
+<caption>Los airbags se despliegan en el momento del impacto para minimizar las lesiones graves de los pasajeros. (Crédito: Jon Seidman)</caption>
+</figure>
+</note>
+<section id="fs-idp102563712" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm3728016">Una ecuación química balanceada puede utilizarse para describir la estequiometría de una reacción (las relaciones entre las cantidades de reactivos y productos). Los coeficientes de la ecuación se utilizan para derivar los factores estequiométricos que posteriormente pueden utilizarse para los cálculos que relacionan las masas de los reactivos y los productos, las cantidades molares y otras propiedades cuantitativas.</para>
+</section>
+<section id="fs-idm1445952" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idp166618800">
+<problem id="fs-idp148234256">
+<para id="fs-idp87549088">Escriba la ecuación balanceada y, a continuación, esboce los pasos necesarios para determinar la información solicitada en cada uno de los siguientes puntos:</para>
+<para id="fs-idp84195488">(a) El número de moles y la masa de cloro, Cl<sub>2</sub>, necesarios para reaccionar con 10,0 g de sodio metálico, Na, para producir cloruro de sodio, NaCl.</para>
+<para id="fs-idp186895920">b) El número de moles y la masa de oxígeno formados por la descomposición de 1,252 g de óxido de mercurio(II).</para>
+<para id="fs-idp92843168">c) El número de moles y la masa de nitrato de sodio, NaNO<sub>3</sub>, necesarios para producir 128 g de oxígeno. (El NaNO<sub>2</sub> es el otro producto)</para>
+<para id="fs-idp8293632">d) El número de moles y la masa de dióxido de carbono formados por la combustión de 20,0 kg de carbono en un exceso de oxígeno.</para>
+<para id="fs-idp56955104">e) El número de moles y la masa de carbonato de cobre(II) necesarios para producir 1,500 kg de óxido de cobre(II). (El CO<sub>2</sub> es el otro producto)</para>
+<para id="fs-idp241908400">(f) <media id="fs-idp8901744" alt="Esta figura incluye dos fórmulas estructurales. Dice: &quot;El número de moles y la masa de&quot;, a lo que sigue una estructura con dos átomos de C unidos con una sola horizontal en el centro. Ambos átomos de C tienen átomos de H unidos por encima y por debajo. El átomo C de la izquierda tiene un átomo B r unido a su izquierda. El átomo C de la derecha tiene un átomo B r unido a su derecha. Tras esta estructura, la figura dice: &quot;formado por la reacción de 12,85 g de&quot;, a lo que sigue una estructura con dos átomos de C conectados con un doble enlace horizontal. El átomo de C de la izquierda tiene átomos de H unidos por encima y a la izquierda y por debajo y a la izquierda. El átomo de C de la derecha tiene átomos de H unidos por encima y a la derecha y por debajo y a la derecha. La figura termina con &quot;con un exceso de B r subíndice 2&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_etheneBr_img.jpg"/>
+</media>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-idp147780304">
+<problem id="fs-idp16567136">
+<para id="fs-idp53786208">Determine el número de moles y la masa pedida para cada reacción en el <link target-id="fs-idp166618800"/>.</para></problem>
+<solution id="fs-idp9596224">
+<para id="fs-idp75003744">(a) 0,435 mol de Na, 0,217 mol de Cl<sub>2</sub>, 15,4 g de Cl<sub>2</sub>; (b) 0,005780 mol de HgO, 2,890 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup> mol O<sub>2</sub>, 9,248 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−2</sup> g O<sub>2</sub>; (c) 8,00 mol de NaNO<sub>3</sub>, 6,8 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>2</sup> g NaNO<sub>3</sub>; (d) 1665 mol de CO<sub>2</sub>, 73,3 kg CO<sub>2</sub>; (e) 18,86 mol de CuO, 2,330 kg CuCO<sub>3</sub>; (f) 0,4580 mol de C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>, 86,05 g C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub></para></solution>
+</exercise>
+<exercise id="fs-idp16477696">
+<problem id="fs-idp8833552">
+<para id="fs-idp38571984">Escriba la ecuación balanceada y, a continuación, esboce los pasos necesarios para determinar la información solicitada en cada uno de los siguientes puntos:</para>
+<para id="fs-idp124413456">(a) El número de moles y la masa de Mg necesarios para reaccionar con 5,00 g de HCl y producir MgCl<sub>2</sub> y H<sub>2</sub>.</para>
+<para id="fs-idp27637888">b) El número de moles y la masa de oxígeno formados por la descomposición de 1,252 g de óxido de plata(I).</para>
+<para id="fs-idp38709616">c) El número de moles y la masa de carbonato de magnesio, MgCO<sub>3</sub>, necesarios para producir 283 g de dióxido de carbono. (El MgO es el otro producto)</para>
+<para id="fs-idp56997136">d) El número de moles y la masa de agua formados por la combustión de 20,0 kg de acetileno, C<sub>2</sub>H<sub>2</sub>, en un exceso de oxígeno.</para>
+<para id="fs-idp149673136">e) El número de moles y la masa de peróxido de bario, BaO<sub>2</sub>, necesarios para producir 2,500 kg de óxido de bario, BaO (el O<sub>2</sub> es el otro producto).</para>
+<para id="fs-idp83999440">(f) <media id="fs-idp272578432" alt="Esta figura comprende dos fórmulas estructurales. Dice: &quot;El número de moles y la masa de&quot;, a lo que sigue una estructura con dos átomos de C conectados con un doble enlace horizontal en el centro. El átomo de C de la izquierda tiene átomos de H unidos por encima y a la izquierda y por debajo y a la izquierda. El átomo de C de la derecha tiene átomos de H unidos por encima y a la derecha y por debajo y a la derecha. Después de esta estructura, la figura dice: &quot;necesario para reaccionar con H subíndice 2 O para producir 9,55 g de&quot;, a lo que sigue una estructura con dos átomos de C conectados con un enlace simple horizontal. El átomo de C de la izquierda tiene átomos de H unidos por encima, a la izquierda y por debajo. El átomo de C de la derecha tiene átomos de H unidos por encima y por debajo. A la derecha, un átomo de O forma un enlace simple con el átomo de C. Un solo átomo de H está unido al lado derecho del átomo de O.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_04_03_ethene_img.jpg"/>
+</media>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-idp61309952">
+<problem id="fs-idp89348144">
+<para id="fs-idm1240512">Determine el número de moles y la masa pedida para cada reacción en el <link target-id="fs-idp16477696"/>.</para></problem>
+<solution id="fs-idp74968768">
+<para id="fs-idp103920384">(a) 0,0686 mol de Mg, 1,67 g de Mg; (b) 2,701 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>-3</sup> mol de O<sub>2</sub>, 0,08644 g de O<sub>2</sub>; (c) 6,43 mol de MgCO<sub>3</sub>, 542 g de MgCO<sub>3</sub> (d) 768 mol de H<sub>2</sub>O, 13,8 kg de H<sub>2</sub>O; (e) 16,31 mol de BaO<sub>2</sub>, 2762 g de BaO<sub>2</sub>; (f) 0,207 mol de C<sub>2</sub>H<sub>4</sub>, 5,81 g de C<sub>2</sub>H<sub>4</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp33547424">
+<problem id="fs-idp34976624">
+<para id="fs-idp57351920">El H<sub>2</sub> se produce por la reacción de 118,5 mL de una solución 0,8775-M de H<sub>3</sub>PO<sub>4</sub> según la siguiente ecuación: <m:math><m:mrow><m:mn>2</m:mn><m:mtext>Cr</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CrPO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idp52496304">(a) Esboce los pasos necesarios para determinar el número de moles y la masa de H<sub>2</sub>.</para>
+<para id="fs-idp157608384">b) Realice los cálculos indicados.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp272460112">
+<problem id="fs-idp54862096">
+<para id="fs-idp134804848">El cloruro de galio se forma por la reacción de 2,6 L de una solución 1,44 M de HCl según la siguiente ecuación: <m:math><m:mrow><m:mn>2</m:mn><m:mtext>Ga</m:mtext><m:mo>+</m:mo><m:mn>6</m:mn><m:mtext>HCl</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>GaCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idp7152848">(a) Esboce los pasos necesarios para determinar el número de moles y la masa del cloruro de galio.</para>
+<para id="fs-idp58298672">b) Realice los cálculos indicados.</para>
+</problem>
+<solution id="fs-idp216262688">
+<para id="fs-idp32310528">(a) <m:math><m:mrow><m:mtext>volumen de solución de HCl</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>mol de HCl</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>mol de GaCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>;</m:mo></m:mrow></m:math> (b) 1,25 mol de GaCl<sub>3</sub>, 2,2 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>2</sup> g de GaCl<sub>3</sub></para></solution>
+</exercise>
+<exercise id="fs-idp102353344">
+<problem id="fs-idp102353600">
+<para id="fs-idp102353856">El I<sub>2</sub> se produce por la reacción de 0,4235 mol de CuCl<sub>2</sub> según la siguiente ecuación: <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CuCl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>KI</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>CuI</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>KCl</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idp81485088">(a) ¿Cuántas moléculas de I<sub>2</sub> se producen?</para>
+<para id="fs-idp4075872">(b) ¿Qué masa de I<sub>2</sub> se produce?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp172099056">
+<problem id="fs-idp172099312">
+<para id="fs-idp172099568">La plata suele extraerse de minerales como el K[Ag(CN)<sub>2</sub>] y luego se recupera mediante la reacción<newline/> <m:math><m:mrow><m:mn>2</m:mn><m:mtext>K</m:mtext><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Zn</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>2Ag</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow><m:mo>+</m:mo><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>KCN</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>a</m:mi><m:mi>q</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para><para id="fs-idp124132784">(a) ¿Cuántas moléculas de Zn(CN)<sub>2</sub> se producen por la reacción de 35,27 g de K[Ag(CN)<sub>2</sub>]?</para>
+<para id="fs-idp25006640">(b) ¿Qué masa de Zn(CN)<sub>2</sub> se produce?</para>
+</problem>
+<solution id="fs-idp25007536">
+<para id="fs-idp18257312">(a) 5,337 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>22</sup> moléculas; (b) 10,41 g de Zn(CN)<sub>2</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp216213984">
+<problem id="fs-idp216214240">
+<para id="fs-idp216214496">¿Qué masa de óxido de plata, Ag<sub>2</sub>O, se necesita para producir 25,0 g de sulfadiazina de plata, AgC<sub>10</sub>H<sub>9</sub>N<sub>4</sub>SO<sub>2</sub>, a partir de la reacción del óxido de plata y la sulfadiazina?<newline/> <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>C</m:mtext><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>AgC</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>9</m:mn></m:msub><m:msub><m:mtext>N</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp65199360">
+<problem id="fs-idp65199616">
+<para id="fs-idp65199872">El carborundo es carburo de silicio, SiC, un material muy duro que se utiliza como abrasivo en el papel de lija y en otras aplicaciones. Se prepara por la reacción de la arena pura, SiO<sub>2</sub>, con el carbono a alta temperatura. El monóxido de carbono, CO, es el otro producto de esta reacción. Escriba la ecuación balanceada de la reacción y calcule la cantidad de SiO<sub>2</sub> necesaria para producir 3,00 kg de SiC.</para>
+</problem>
+<solution id="fs-idp53851712">
+<para id="fs-idp53851968"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:mtext>C</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>SiC</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:mtext>CO,</m:mtext></m:mrow></m:math> 4,50 kg de SiO<sub>2</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp9841552">
+<problem id="fs-idp9841808">
+<para id="fs-idp92390640">Las bolsas de aire de los automóviles se inflan cuando una muestra de azida sódica, NaN<sub>3</sub>, se descompone muy rápidamente.<newline/> <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NaN</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Na</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>N</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math><newline/> ¿Qué masa de azida sódica se necesita para producir 2,6 pies<sup>3</sup> (73,6 L) de gas nitrógeno con una densidad de 1,25 g/L?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp220471472">
+<problem id="fs-idp220471728">
+<para id="fs-idp220471984">La urea, CO(NH<sub>2</sub>)<sub>2</sub>, se fabrica a gran escala para su uso en la producción de plásticos de urea-formaldehído y como fertilizante. ¿Cuál es la masa máxima de urea que se puede fabricar a partir del CO<sub>2</sub> producido por la combustión de <m:math><m:mrow><m:mn>1,00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow></m:math> de carbono seguido de la reacción?<newline/> <m:math><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CO</m:mtext><m:mspace width="0.2em"/><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="false">).</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp125512720">
+<para id="fs-idp125512976">5,00 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>3</sup> kg</para>
+</solution>
+</exercise>
+<exercise id="fs-idp89497728">
+<problem id="fs-idp47779136">
+<para id="fs-idp47779392">En un accidente, se derramó una solución que contenía 2,5 kg de ácido nítrico. Se esparcieron rápidamente dos kilogramos de Na<sub>2</sub>CO<sub>3</sub> en la zona y se liberó CO<sub>2</sub> por la reacción. ¿Se ha utilizado suficiente Na<sub>2</sub>CO<sub>3</sub> para neutralizar todo el ácido?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp82714064">
+<problem id="fs-idp82714320">
+<para id="fs-idp82714576">Un automóvil compacto consigue 37,5 millas por galón en la carretera. Si la gasolina contiene un 84,2% de carbono en masa y tiene una densidad de 0,8205 g/mL, determine la masa de dióxido de carbono producida durante un viaje de 500 millas (3,785 litros por galón).</para>
+</problem>
+<solution id="fs-idp10692944">
+<para id="fs-idp10693200">1,28 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>5</sup> g de CO<sub>2</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp10650096">
+<problem id="fs-idp10650352">
+<para id="fs-idp10650608">¿Qué volumen de solución de ácido clorhídrico 0,750 M puede prepararse a partir del HCl producido por la reacción de 25,0 g de NaCl con exceso de ácido sulfúrico?<newline/> <m:math><m:mrow><m:mtext>NaCl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>HCl</m:mtext><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NaHSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-idp8090960">
+<problem id="fs-idp52899056">
+<para id="fs-idp52899312">¿Qué volumen de una solución 0,2089 <emphasis effect="italics">M</emphasis> de KI contiene suficiente KI para reaccionar exactamente con el Cu(NO<sub>3</sub>)<sub>2</sub> en 43,88 mL de una solución de 0,3842 <emphasis effect="italics">M</emphasis> de Cu(NO<sub>3</sub>)<sub>2</sub>?<newline/> <m:math><m:mrow><m:mn>2</m:mn><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo stretchy="false">).</m:mo></m:mrow></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>KI</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>CuI</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>KNO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp74229920">
+<para id="fs-idp74230176">161,4 mL de solución de KI</para></solution>
+</exercise>
+<exercise id="fs-idp158165536">
+<problem id="fs-idp158165792">
+<para id="fs-idp120503856">Un mordiente es una sustancia que se combina con un tinte para producir un color fijo y estable en un tejido teñido. El acetato de calcio se utiliza como mordiente. Se prepara mediante la reacción del ácido acético con el hidróxido de calcio.<newline/> <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo>+</m:mo><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mtext>(OH)</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ca</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp222482608">¿Qué masa de Ca(OH)<sub>2</sub> es necesaria para reaccionar con el ácido acético en 25,0 mL de una solución que tiene una densidad de 1,065 g/mL y que contiene 58,0% de ácido acético en masa?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp149769296">
+<problem id="fs-idp149769552">
+<para id="fs-idp160104288">El pigmento tóxico llamado plomo blanco, Pb<sub>3</sub>(OH)<sub>2</sub>(CO<sub>3</sub>)<sub>2</sub>, ha sido sustituido en las pinturas blancas por el rutilo, TiO<sub>2</sub>. ¿Qué cantidad de rutilo (g) puede prepararse a partir de 379 g de un mineral que contiene un 88,3% de ilmenita (FeTiO<sub>3</sub>) en masa?<newline/> <m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>FeTiO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:mtext>HCl</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>FeCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>TiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp100940224">
+<para id="fs-idp100940480">176 g de TiO<sub>2</sub></para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp127461392">
+<term>factor estequiométrico</term>
+<meaning id="fs-idp127462032">cociente de coeficientes en una ecuación química balanceada, utilizada en los cálculos que relacionan las cantidades de reactivos y productos</meaning>
+</definition>
+<definition id="fs-idp127462672">
+<term>estequiometría</term>
+<meaning id="fs-idp117365328">relaciones entre las cantidades de reactivos y productos de una reacción química</meaning>
+</definition>
+</glossary>
+</document>

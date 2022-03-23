@@ -1,0 +1,172 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>La química en su contexto</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68664</md:content-id>
+  <md:title>La química en su contexto</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Resumir el desarrollo histórico de la química.</item>
+<item>Dar ejemplos de la importancia de la química en la vida cotidiana.</item>
+<item>Describir el método científico.</item>
+<item>Diferenciar entre hipótesis, teorías y leyes.</item>
+<item>Proporcionar ejemplos que ilustren los dominios macroscópico, microscópico y simbólico.</item>
+</list></md:abstract>
+  <md:uuid>e4d0a888-2602-4b89-ae08-c1abd498a239</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp77567568">A lo largo de la historia de la humanidad, la gente ha intentado convertir la materia en formas más útiles. Nuestros antepasados de la Edad de Piedra tallaban trozos de sílex para convertirlos en herramientas útiles y tallaban madera para hacer estatuas y juguetes. Estos esfuerzos implicaban cambiar la forma de una sustancia sin cambiar la propia sustancia. Pero a medida que aumentaban nuestros conocimientos, los humanos empezaron a cambiar también la composición de las sustancias: la arcilla se convirtió en cerámica, las pieles se curaron para hacer prendas de vestir, los minerales de cobre se transformaron en herramientas y armas de cobre, y el grano se convirtió en pan.</para>
+<para id="fs-idp55245024">Los seres humanos comenzaron a practicar la química cuando aprendieron a controlar el fuego y a utilizarlo para cocinar, fabricar cerámica y fundir metales. Posteriormente, comenzaron a separar y utilizar componentes específicos de la materia. De las plantas se aislaron diversas drogas, como el aloe, la mirra y el opio. Los tintes, como el índigo y la púrpura de Tiro, se extraían de la materia vegetal y animal. Los metales se combinaban para formar aleaciones (por ejemplo, el cobre y el estaño se mezclaban para hacer bronce) y las técnicas de fundición más elaboradas producían hierro. Los álcalis se extraían de las cenizas y los jabones se preparaban combinando estos álcalis con grasas. El alcohol se producía por fermentación y se purificaba por destilación.</para><para id="fs-idp128238864">Los intentos de comprender el comportamiento de la materia se remontan a más de 2500 años. Ya en el siglo VI a.C., los filósofos griegos discutían un sistema en el que el agua era la base de todas las cosas. Quizás haya oído hablar del postulado griego de que la materia está formada por cuatro elementos: tierra, aire, fuego y agua. Posteriormente, los alquimistas difundieron una amalgama de tecnologías químicas y especulaciones filosóficas desde Egipto, China y el Mediterráneo oriental, que se esforzaron por transformar "metales básicos" como el plomo en "metales nobles" como el oro, y por crear elíxires para curar enfermedades y alargar la vida (<link target-id="CNX_Chem_01_01_Alchemist"/>).</para>
+<figure id="CNX_Chem_01_01_Alchemist" class="scaled-down"><media id="fs-idp165285520" alt="En un boceto se muestra a 4 personas removiendo y manipulando productos químicos. Los productos químicos se guardan en diversos barriles y grandes cilindros. Varios de los contenedores se están calentando sobre brasas ardientes. Una gran estufa en el laboratorio está llena de brasas. También hay un gran cofre en la esquina que produce vapor.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_01_Alchemist.jpg"/>
+</media>
+
+  
+
+
+
+
+<caption>(a) Este retrato muestra el taller de un alquimista alrededor de 1580. Aunque la alquimia hizo algunas contribuciones útiles sobre cómo manipular la materia, no era científica según los estándares modernos. (b) Aunque el equipo utilizado por Alma Levant Hayden en esta foto de 1952 puede no parecer tan elegante como el que se puede encontrar en un laboratorio hoy en día, su enfoque era muy metódico y estaba cuidadosamente registrado. Hayden, un jefe de departamento en la Administración de Alimentos y Medicamentos (Food and Drug Administration, FDA), es más famoso por exponer que un fármaco anticanceroso comercializado de forma agresiva no era más que una solución inútil de sustancias comunes. (Créditos a: Chemical Heritage Foundation; b: Oficina de Historia de los Institutos Nacionales de Salud [National Institutes of Health, NIH])</caption></figure><para id="fs-idp139124096">De la alquimia surgieron los avances históricos que condujeron a la química moderna: el aislamiento de fármacos a partir de fuentes naturales, como plantas y animales. Aunque muchas de las sustancias extraídas o procesadas de esas fuentes naturales eran fundamentales en el tratamiento de las enfermedades, muchas eran escasas. Por ejemplo, la progesterona, que es fundamental para la salud de las mujeres, empezó a estar disponible como medicamento en 1935, pero sus fuentes animales producían cantidades extremadamente pequeñas, lo que limitaba su disponibilidad y aumentaba su costo. Asimismo, en la década de 1940 se empezó a utilizar la cortisona para tratar la artritis y otros trastornos y lesiones, pero su síntesis requirió un proceso de 36 pasos. El químico Percy Lavon Julian recurrió a una fuente más abundante: la soja. Anteriormente, Julian desarrolló un laboratorio para aislar la proteína de la soja, que se utilizaba en la extinción de incendios, entre otras aplicaciones. Se centró en el uso de los esteroles de la soja (sustancias que se utilizan principalmente en las membranas de las plantas) y fue capaz de producir rápidamente progesterona y más tarde testosterona y otras hormonas. Posteriormente desarrolló un proceso para hacer lo mismo con la cortisona y sentó las bases del diseño moderno de fármacos. Dado que la soja y otras fuentes vegetales similares eran extremadamente abundantes, los fármacos pronto estuvieron se masificaron para salvar muchas vidas.</para><section id="fs-idp71946416">
+<title>Química: La ciencia central</title>
+<para id="fs-idm166568720">La química se conoce a veces como "la ciencia central" debido a su interconexión con una amplia gama de otras disciplinas STEM (STEM significa áreas de estudio en los campos de la ciencia, la tecnología, la ingeniería y las matemáticas[Science, Technology, Engineering, and Math]). La química y el lenguaje de los químicos desempeñan papeles vitales en la biología, la medicina, la ciencia de los materiales, la ciencia forense, la ciencia ambiental y muchos otros campos (<link target-id="CNX_Chem_01_01_ChemWeb"/>). Los principios básicos de la física son esenciales para entender muchos aspectos de la química, y existe una amplia superposición entre muchas subdisciplinas de ambos campos, como la física química y la química nuclear. Las matemáticas, la informática y la teoría de la información proporcionan importantes herramientas que nos ayudan a calcular, interpretar, describir y, en general, dar sentido al mundo químico. La biología y la química convergen en la bioquímica, que es crucial para comprender los numerosos y complejos factores y procesos que mantienen vivos a los seres vivos (como nosotros). La ingeniería química, la ciencia de los materiales y la nanotecnología combinan los principios químicos y los hallazgos empíricos para producir sustancias útiles, desde la gasolina hasta los tejidos o la electrónica. La agricultura, la ciencia de los alimentos, la veterinaria y la elaboración de cerveza y vino contribuyen a proporcionar el sustento en forma de alimentos y bebidas a la población mundial. La medicina, la farmacología, la biotecnología y la botánica identifican y producen sustancias que nos ayudan a mantenernos sanos. Las ciencias medioambientales, la geología, la oceanografía y las ciencias atmosféricas incorporan muchas ideas químicas para ayudarnos a comprender y proteger mejor nuestro mundo físico. Las ideas químicas se utilizan para ayudar a entender el universo en astronomía y cosmología.</para>
+<figure id="CNX_Chem_01_01_ChemWeb">
+<media id="fs-idm72326528" alt="Un diagrama de flujo muestra una caja que contiene química en su centro. La química está relacionada con la geoquímica, la química nuclear, la física química, la nanociencia y la nanotecnología, la ciencia de los materiales, la ingeniería química, la bioquímica y la biología molecular, la ciencia medioambiental, la agricultura y las matemáticas. Cada una de estas disciplinas está conectada además con otros campos relacionados, como la medicina, la biología, la ciencia de los alimentos, la geología, las ciencias de la tierra, la toxicología, la física y la informática.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_01_ChemWeb.jpg"/>
+</media>
+
+<caption>El conocimiento de la química es fundamental para comprender una amplia gama de disciplinas científicas. Este diagrama muestra algunas de las interrelaciones entre la química y otros campos.</caption>
+</figure>
+<para id="fs-idm183676832">¿Cuáles son algunos de los cambios en la materia que son esenciales para la vida diaria? Digerir y asimilar los alimentos, sintetizar los polímeros que se utilizan para fabricar ropa, envases, utensilios de cocina y tarjetas de crédito, y refinar el petróleo crudo para convertirlo en gasolina y otros productos son solo algunos ejemplos. A medida que avance en este curso, descubrirá muchos ejemplos diferentes de cambios en la composición y la estructura de la materia, cómo clasificar estos cambios y cómo se producen, sus causas, los cambios de energía que los acompañan y los principios y las leyes implicados. Mientras aprende sobre estas cosas, estará aprendiendo <term>química</term>, el estudio de la composición, las propiedades y las interacciones de la materia. La práctica de la química no se limita a los libros de química o a los laboratorios: Ocurre siempre que alguien se ve envuelto en cambios en la materia o en condiciones que pueden provocar dichos cambios.</para>
+</section>
+<section id="fs-idp132288224">
+<title>El método científico</title>
+<para id="fs-idm19494768">La química es una ciencia basada en la observación y la experimentación. Hacer química implica intentar responder a preguntas y explicar observaciones en términos de las leyes y teorías de la química, utilizando procedimientos aceptados por la comunidad científica. No existe una única vía para responder a una pregunta o explicar una observación, pero hay un aspecto común a todos los enfoques: Cada uno de ellos utiliza conocimientos basados en experimentos que se pueden reproducir para verificar los resultados. Algunas rutas implican una <term>hipótesis</term>, que es una explicación tentativa de las observaciones que actúa como guía para reunir y comprobar la información. Una hipótesis se pone a prueba mediante la experimentación, el cálculo o la comparación con los experimentos de otros y, a continuación, se perfecciona según sea necesario.</para>
+<para id="fs-idp4269776">Algunas hipótesis son intentos de explicar el comportamiento que se resume en leyes. Las <term>leyes</term> de la ciencia resumen un gran número de observaciones experimentales y describen o predicen alguna faceta del mundo natural. Si dicha hipótesis resulta ser capaz de explicar un gran número de datos experimentales, puede alcanzar el estado de teoría. Las <term>teorías</term> científicas son explicaciones bien fundamentadas, completas y comprobables de determinados aspectos de la naturaleza. Las teorías se aceptan porque proporcionan explicaciones satisfactorias, pero se pueden modificar si se dispone de nuevos datos. El camino del descubrimiento que lleva de la pregunta y la observación a la ley o la hipótesis a la teoría, combinado con la verificación experimental de la hipótesis y cualquier modificación necesaria de la teoría, se llama <term>método científico</term> (<link target-id="CNX_Chem_01_01_SciMethod"/>).</para>
+<figure id="CNX_Chem_01_01_SciMethod">
+<media id="fs-idp22634576" alt="En este diagrama de flujo, el recuadro de “observación y curiosidad” tiene una flecha que apunta a un recuadro marcado como formar hipótesis; hacer predicción. Una flecha curva marcada como siguiente conecta este recuadro con otro marcado como realizar el experimento; hacer más observaciones. Otra flecha apunta de nuevo al recuadro que dice formar hipótesis; hacer predicción. Esta flecha está marcada como resultados no coherentes con la predicción. Otra flecha, marcada como resultados son coherentes con la predicción, apunta desde el recuadro de realizar el experimento a un recuadro marcado como contribuye al cuerpo de conocimientos. Sin embargo, una flecha también apunta desde contribuye al cuerpo de conocimientos hasta el recuadro de formar hipótesis; hacer predicción. Esta flecha está marcada como prueba adicional no apoya la hipótesis. También hay otras dos flechas que salen de contribuye al cuerpo de conocimientos. Una flecha está marcada como muchas pruebas adicionales producen observaciones constantes. Esta lleva al recuadro la observación se convierte en ley. La otra flecha está marcada con muchas pruebas adicionales que apoyan la hipótesis. Esta flecha conduce al recuadro la hipótesis se convierte en teoría.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_01_SciMethod.jpg"/>
+</media>
+
+<caption>El método científico sigue un proceso similar al que se muestra en este diagrama. Se muestran todos los componentes clave, más o menos en el orden correcto. El progreso científico rara vez es ordenado y limpio: Requiere una investigación abierta y la reelaboración de preguntas e ideas en respuesta a los hallazgos.</caption>
+</figure>
+</section>
+<section id="fs-idm130146160">
+<title>Los dominios de la química</title>
+<para id="fs-idm148555376">Los químicos estudian y describen el comportamiento de la materia y la energía en tres dominios diferentes: macroscópico, microscópico y simbólico. Estos dominios proporcionan diferentes formas de considerar y describir el comportamiento químico.</para>
+<para id="fs-idm148595088">
+<emphasis effect="italics">Macro</emphasis> es una palabra griega que significa "grande". El <term>dominio macroscópico</term> nos resulta familiar: Es el reino de las cosas cotidianas que son lo suficientemente grandes como para ser percibidas directamente por la vista o el tacto humanos. En la vida cotidiana, esto incluye los alimentos que se comen y la brisa que se siente en la cara. El ámbito macroscópico incluye la química cotidiana y de laboratorio, donde observamos y medimos propiedades físicas y químicas como la densidad, la solubilidad y la inflamabilidad.</para>
+<para id="fs-idp130311264"><emphasis effect="italics">Micro</emphasis> viene del griego y significa "pequeño". El <term>dominio microscópico</term> de la química se visita a menudo en la imaginación. Algunos aspectos del dominio microscópico son visibles a través de microscopios ópticos estándar, por ejemplo, muchas células biológicas. Los instrumentos más sofisticados son capaces de obtener imágenes de entidades incluso más pequeñas, como moléculas y átomos (vea la <link target-id="CNX_Chem_01_01_WaterDom"/> (<emphasis>b</emphasis>)).</para><para id="fs-idp28442320">Sin embargo, la mayoría de los temas del dominio microscópico de la química son demasiado pequeños para ser vistos incluso con los microscopios más avanzados y solo pueden imaginarse en la mente. Otros componentes del dominio microscópico son los iones y los electrones, los protones y los neutrones, y los enlaces químicos, cada uno de los cuales es demasiado pequeño para ser visto.</para>
+<para id="fs-idm166065136">El <term>dominio simbólico</term> contiene el lenguaje especializado utilizado para representar los componentes de los dominios macroscópico y microscópico. Los símbolos químicos (como los utilizados en la tabla periódica), las fórmulas químicas y las ecuaciones químicas forman parte del dominio simbólico, al igual que los gráficos, los dibujos y los cálculos. Estos símbolos desempeñan un papel importante en la química porque ayudan a interpretar el comportamiento del dominio macroscópico en cuanto a los componentes del dominio microscópico. Uno de los retos para los estudiantes que aprenden química es reconocer que los mismos símbolos pueden representar cosas diferentes en los dominios macroscópico y microscópico, y una de las características que hace que la química sea fascinante es el uso de un dominio que debe imaginarse para explicar el comportamiento en un dominio que puede observarse.</para>
+<para id="fs-idm64529776">Una forma útil de entender los tres dominios es a través de la sustancia esencial y omnipresente del agua. Que el agua es un líquido a temperaturas moderadas, que se congela para formar un sólido a temperaturas más bajas y que hierve para formar un gas a temperaturas más altas (<link target-id="CNX_Chem_01_01_WaterDom"/>) son observaciones macroscópicas. Pero algunas propiedades del agua caen en el dominio microscópico, es decir, lo que no se puede observar a simple vista. La descripción del agua como compuesta por dos átomos de hidrógeno y un átomo de oxígeno, y la explicación de la congelación y la ebullición en términos de atracciones entre estas moléculas, está dentro del ámbito microscópico. La fórmula H<sub>2</sub>O, que puede describir el agua a nivel macroscópico o microscópico, es un ejemplo del dominio simbólico. Las abreviaturas<emphasis effect="italics">(g</emphasis>) para gas,<emphasis effect="italics">(s</emphasis>) para sólido y<emphasis effect="italics">(l</emphasis>) para líquido también son simbólicas.</para>
+<figure id="CNX_Chem_01_01_WaterDom"><media id="fs-idp68828304" alt="La figura A muestra una foto de un iceberg flotando en el mar con tres flechas. Cada flecha apunta a la figura B, que contiene tres diagramas que muestran cómo se organizan las moléculas de agua en el aire, el hielo y el mar. En el aire, que contiene la forma gaseosa del agua, H subíndice 2 O gaseoso, las moléculas de agua están desconectadas y muy espaciadas. En el hielo, que es la forma sólida del agua, H subíndice 2 O sólido, las moléculas de agua están enlazadas en anillos, y cada anillo contiene seis moléculas de agua. Tres de estos anillos están conectados entre sí. En el mar, que es la forma líquida del agua, H subíndice 2 O líquido, las moléculas de agua están muy densamente empaquetadas. Las moléculas no están enlazadas entre sí.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_01_01_WaterDom.jpg"/>
+</media>
+
+
+<caption>(a) La humedad del aire, los icebergs y el océano representan el agua en el ámbito macroscópico. (b) A nivel molecular (ámbito microscópico), las moléculas de gas están muy separadas y desorganizadas, las moléculas de agua sólida están muy juntas y organizadas, y las moléculas de líquido están muy juntas y desorganizadas. (c) La fórmula H<sub>2</sub>O simboliza el agua, y<emphasis effect="italics">(g</emphasis>),<emphasis effect="italics">(s</emphasis>) y<emphasis effect="italics">(l</emphasis>) simbolizan sus fases. Observe que las nubes se componen en realidad de pequeñísimas gotas de agua líquida o de cristales de agua sólida; el agua gaseosa de nuestra atmósfera no es visible a simple vista, aunque puede percibirse como humedad (créditos a: modificación de la obra de "Gorkaazk"/Wikimedia Commons).</caption></figure></section>
+<section id="fs-idm40478192" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm14698032">La química se ocupa de la composición, la estructura y las propiedades de la materia, así como de los modos de interconversión de las distintas formas de materia. Por ello, ocupa un lugar central en el estudio y la práctica de la ciencia y la tecnología. Los químicos utilizan el método científico para realizar experimentos, plantear hipótesis y formular leyes y desarrollar teorías, de modo que puedan comprender mejor el comportamiento del mundo natural. Para ello, operan en los ámbitos macroscópico, microscópico y simbólico. Los químicos miden, analizan, purifican y sintetizan una gran variedad de sustancias importantes para nuestra vida.</para>
+</section>
+<section id="fs-idp75215696" class="exercises">
+<title>Ejercicios de Química del final del capítulo</title>
+<exercise id="fs-idm34987968">
+<problem id="fs-idm4947040">
+<para id="fs-idm59206592">Explique cómo podría determinar experimentalmente si la temperatura exterior es superior o inferior a 0 °C (32 °F) sin utilizar un termómetro.</para>
+</problem>
+<solution id="fs-idp19762080">
+<para id="fs-idm40521792">Coloque un vaso de agua en el exterior. Se congelará si la temperatura es inferior a 0 °C.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp45595424">
+<problem id="fs-idp64708304">
+<para id="fs-idp42446672">Identifique cada una de las siguientes afirmaciones como la más parecida a una hipótesis, una ley o una teoría. Explique su razonamiento.</para>
+<para id="fs-idp109329824">(a) El descenso de la presión barométrica precede a la aparición del mal tiempo.</para>
+<para id="fs-idp71047280">(b) Toda la vida en la Tierra ha evolucionado a partir de un organismo común y primitivo mediante el proceso de selección natural.</para>
+<para id="fs-idp109280880">(c) El rendimiento de la gasolina de mi camión ha bajado considerablemente, probablemente porque le toca una puesta a punto.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp38309200">
+<problem id="fs-idp83503984">
+<para id="fs-idp4603232">Identifique cada una de las siguientes afirmaciones como la más parecida a una hipótesis, una ley o una teoría. Explique su razonamiento.</para>
+<para id="fs-idp30515744">(a) La presión de una muestra de gas es directamente proporcional a la temperatura del gas.</para>
+<para id="fs-idp71063392">(b) La materia está formada por pequeñas partículas que pueden combinarse en cocientes específicos para formar sustancias con propiedades concretas.</para>
+<para id="fs-idp23193248">(c) A mayor temperatura, los sólidos (como la sal o el azúcar) se disuelven mejor en el agua.</para>
+</problem>
+<solution id="fs-idp5011648">
+<para id="fs-idm53320912">(a) ley (establece un fenómeno observado de forma constante, puede utilizarse para la predicción); (b) teoría (una explicación ampliamente aceptada del comportamiento de la materia); (c) hipótesis (una explicación tentativa, puede investigarse mediante la experimentación)</para>
+</solution>
+</exercise>
+<exercise id="fs-idm58468592">
+<problem id="fs-idm2661072">
+<para id="fs-idm59152592">Identifique cada uno de los elementos subrayados como parte del dominio macroscópico, del dominio microscópico o del dominio simbólico de la química. Para cualquier elemento en el dominio simbólico, indique si son símbolos para una característica macroscópica o microscópica.</para>
+<para id="fs-idp94102864">(a) La masa de un <emphasis effect="underline">tubo de plomo</emphasis> es de 14 lb.</para>
+<para id="fs-idp77253536">(b) La masa de un determinado <emphasis effect="underline">átomo de cloro</emphasis> es de 35 u.</para>
+<para id="fs-idp71129152">(c) Una botella con una etiqueta que dice <emphasis effect="underline">Al</emphasis> contiene aluminio metálico.</para>
+<para id="fs-idp71050048">(d) <emphasis effect="underline">Al</emphasis> es el símbolo de un átomo de aluminio.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm67489232">
+<problem id="fs-idp67411776">
+<para id="fs-idp54908512">Identifique cada uno de los elementos subrayados como parte del dominio macroscópico, del dominio microscópico o del dominio simbólico de la química. Para los del dominio simbólico, indique si son símbolos de una característica macroscópica o microscópica.</para>
+<para id="fs-idp19466944">(a) Una determinada molécula contiene un átomo de <emphasis effect="underline">H</emphasis> y otro de Cl.</para>
+<para id="fs-idp55370768">(b) El <emphasis effect="underline">alambre de cobre</emphasis> tiene una densidad de unos 8 g/cm<sup>3</sup>.</para>
+<para id="fs-idp68623088">(c) La botella contiene 15 gramos de <emphasis effect="underline">polvo de Ni</emphasis>.</para>
+<para id="fs-idp23452688">(d) Una <emphasis effect="underline">molécula de azufre</emphasis> está compuesta por ocho átomos de azufre.</para>
+</problem>
+<solution id="fs-idp31026272">
+<para id="fs-idm56463840">(a) simbólico, microscópico; (b) macroscópico; (c) simbólico, (d) microscópico</para>
+</solution>
+</exercise>
+
+<exercise id="fs-idp6505632">
+<problem id="fs-idm59649392">
+<para id="fs-idp112708912">Según una teoría, la presión de un gas aumenta a medida que disminuye su volumen porque las moléculas del gas tienen que desplazarse una distancia más corta para chocar con las paredes del recipiente. ¿Sigue esta teoría una descripción macroscópica o microscópica del comportamiento químico? Explique su respuesta.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idp40361152">
+<problem id="fs-idp111357888">
+<para id="fs-idp72952208">La cantidad de calor necesaria para fundir 2 libras de hielo es el doble de la cantidad de calor necesaria para fundir 1 libra de hielo. ¿Es esta observación una descripción macroscópica o microscópica del comportamiento químico? Explique su respuesta.</para>
+</problem>
+<solution id="fs-idm17181616">
+<para id="fs-idm78140032">Macroscópica. El calor necesario se determina a partir de las propiedades macroscópicas.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm42704816">
+<term>química</term>
+<meaning id="fs-idm110254064">estudio de la composición, propiedades e interacciones de la materia</meaning>
+</definition>
+<definition id="fs-idm100774384">
+<term>hipótesis</term>
+<meaning id="fs-idm47698288">explicación tentativa de las observaciones que sirve de guía para recoger y comprobar la información</meaning>
+</definition>
+<definition id="fs-idp16592704">
+<term>ley</term>
+<meaning id="fs-idm54577088">declaración que resume un gran número de observaciones experimentales y describe o predice algún aspecto del mundo natural</meaning>
+</definition>
+<definition id="fs-idm41373200">
+<term>dominio macroscópico</term>
+<meaning id="fs-idp13019712">ámbito de las cosas cotidianas que son lo suficientemente grandes como para ser percibidas directamente por la vista y el tacto humanos</meaning>
+</definition>
+<definition id="fs-idm121167952">
+<term>dominio microscópico</term>
+<meaning id="fs-idp29262400">reino de las cosas que son demasiado pequeñas para ser percibidas directamente</meaning>
+</definition>
+<definition id="fs-idp132867984">
+<term>método científico</term>
+<meaning id="fs-idp147582592">camino del descubrimiento que lleva de la pregunta y la observación a la ley o hipótesis a la teoría, combinado con la verificación experimental de la hipótesis y cualquier modificación necesaria de la teoría</meaning>
+</definition>
+<definition id="fs-idm105060976">
+<term>dominio simbólico</term>
+<meaning id="fs-idp16316928">el lenguaje especializado utilizado para representar los componentes de los dominios macroscópico y microscópico, como los símbolos químicos, las fórmulas químicas, las ecuaciones químicas, los gráficos, los dibujos y los cálculos</meaning>
+</definition>
+<definition id="fs-idm134113488">
+<term>teoría</term>
+<meaning id="fs-idp360690992">explicación bien fundamentada, completa y comprobable de un aspecto concreto de la naturaleza</meaning>
+</definition>
+</glossary>
+</document>

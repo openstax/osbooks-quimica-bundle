@@ -1,0 +1,438 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Fuerzas intermoleculares</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68761</md:content-id>
+  <md:title>Fuerzas intermoleculares</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Describir los tipos de fuerzas intermoleculares posibles entre átomos o moléculas en fases condensadas (fuerzas de dispersión, atracciones dipolo-dipolo y enlace de hidrógeno).</item>
+<item>Identificar los tipos de fuerzas intermoleculares que experimentan determinadas moléculas en función de sus estructuras.</item>
+<item>Explicar la relación entre las fuerzas intermoleculares presentes en una sustancia y las temperaturas asociadas a los cambios de su estado físico.</item>
+</list></md:abstract>
+  <md:uuid>3bd0cfe0-4bfc-4a11-978a-eeacf9dc5c0b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp55691520">Al igual que en el caso de las sustancias gaseosas, la teoría cinética molecular puede utilizarse para explicar el comportamiento de los sólidos y los líquidos. En la siguiente descripción, el término <emphasis effect="italics">partícula</emphasis> se utilizará para referirse a un átomo, a una molécula o a un ion. Observe que utilizaremos la expresión popular "atracción intermolecular" para referirnos a las fuerzas de atracción entre las partículas de una sustancia, independientemente de que estas partículas sean moléculas, átomos o iones.</para>
+<para id="fs-idp57413920">Consideremos estos dos aspectos de los entornos a nivel molecular en la materia sólida, líquida y gaseosa:</para>
+<list id="fs-idm45003248" list-type="bulleted" bullet-style="bullet">
+<item>En un sólido, las partículas están muy juntas y a menudo dispuestas de forma regular; en un líquido, están muy juntas sin una disposición regular; en un gas, están muy separadas sin una disposición regular.</item>
+<item>Las partículas de un sólido vibran en torno a posiciones fijas y, por lo general, no se mueven entre sí; en un líquido, se mueven unas junto a otras pero permanecen en contacto esencialmente constante; en un gas, se mueven independientemente unas de otras, excepto cuando chocan.</item>
+</list>
+<para id="fs-idm53508384">Las diferencias en las propiedades de un sólido, un líquido o un gas reflejan la intensidad de las fuerzas de atracción entre los átomos, las moléculas o los iones que componen cada fase. La fase en la que se encuentra una sustancia depende de la extensión relativa de sus <term>fuerzas intermoleculares</term> (intermolecular forces, (IMF) y de las energías cinéticas (kinetic energy, KE) de sus moléculas. Las IMF son las distintas fuerzas de atracción que pueden existir entre los átomos y las moléculas de una sustancia debido a los fenómenos electrostáticos, como se detallará en este módulo. Estas fuerzas sirven para mantener a las partículas cerca unas de otras, mientras que la KE de las partículas proporciona la energía necesaria para superar las fuerzas de atracción y así aumentar la distancia entre las partículas. La <link target-id="CNX_Chem_10_01_KMTPhases1"/> ilustra cómo se pueden inducir cambios en el estado físico al cambiar la temperatura, y por tanto, la KE media, de una sustancia determinada.</para>
+<figure id="CNX_Chem_10_01_KMTPhases1" class="scaled-down">
+<media id="fs-idp1251008" alt="Tres frascos sellados están marcados, de izquierda a derecha como &quot;Sólido cristalino&quot;, &quot;Líquido&quot; y &quot;Gas&quot;. El primer frasco contiene un cubo compuesto por pequeñas esferas que se asientan en el fondo, mientras que el segundo frasco muestra un montón de pequeñas esferas en el fondo que están espaciadas a una pequeña distancia unas de otras y tienen líneas alrededor para indicar el movimiento. El tercer matraz muestra unas cuantas esferas separadas entre sí con líneas más grandes que indican el movimiento. Hay una flecha hacia la derecha que abarca la parte superior de los tres frascos. La flecha está marcada como &quot;Aumento de K E ( temperatura )&quot;. Hay una flecha orientada a la izquierda que abarca el fondo de los tres frascos. La flecha está marcada como &quot; I M F en aumento&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_KMTPhases1.jpg"/>
+</media>
+<caption>Las transiciones entre los estados sólido, líquido y gaseoso de una sustancia se producen cuando las condiciones de temperatura o presión favorecen los cambios asociados en las fuerzas intermoleculares. (Nota: El espacio entre las partículas en la fase gaseosa es mucho mayor que el de la ilustración).</caption>
+</figure>
+<para id="fs-idm190830512">Como ejemplo de los procesos representados en esta figura, consideremos una muestra de agua. Cuando el agua gaseosa se enfría lo suficiente, las atracciones entre las moléculas de H<sub>2</sub>O son capaces de mantenerlas unidas cuando entran en contacto entre sí; el gas se condensa, formando H<sub>2</sub>O líquido. Por ejemplo, el agua líquida se forma en el exterior de un vaso frío cuando el vapor de agua del aire se enfría gracias al vaso frío, como se ve en la <link target-id="CNX_Chem_10_01_WaterPhase"/>.</para>
+<figure id="CNX_Chem_10_01_WaterPhase" class="scaled-down">
+<media id="fs-idp51997104" alt="La imagen a muestra una bebida de color marrón en un vaso con condensación en el exterior. La imagen b muestra una masa de agua con niebla flotando sobre la superficie del agua.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_WaterPhase.jpg"/>
+</media>
+<caption>La condensación se forma cuando el vapor de agua en el aire se enfría lo suficiente como para formar agua líquida, como (a) en el exterior de un vaso de bebida fría o (b) en forma de niebla. (Crédito a: modificación del trabajo de Jenny Downing; crédito b: modificación del trabajo de Cory Zanker).</caption>
+</figure>
+<para id="fs-idm59044480">También podemos licuar muchos gases comprimiéndolos, si la temperatura no es demasiado alta. El aumento de la presión acerca las moléculas de un gas, de manera que las atracciones entre las moléculas se vuelven fuertes en relación con su KE. En consecuencia, forman líquidos. El butano, C<sub>4</sub>H<sub>10</sub>, es el combustible utilizado en los encendedores desechables y es un gas a temperatura y presión estándar. Dentro del compartimento de combustible del encendedor, el butano se comprime a una presión que provoca su condensación al estado líquido, como se muestra en la <link target-id="CNX_Chem_10_01_ButanePhase"/>.</para>
+<figure id="CNX_Chem_10_01_ButanePhase" class="scaled-down">
+<media id="fs-idp136258192" alt="Se muestra un encendedor de butano.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_ButanePhase.jpg"/>
+</media>
+<caption>El butano gaseoso se comprime dentro del compartimento de almacenamiento de un encendedor desechable, lo que provoca su condensación al estado líquido. (Crédito: modificación de la obra de "Sam-Cat"/Flickr).</caption>
+</figure>
+<para id="fs-idm68544288">Por último, si la temperatura de un líquido es lo suficientemente baja, o la presión sobre el líquido es lo suficientemente alta, las moléculas del líquido ya no tienen suficiente KE para superar la FMI entre ellas, y se forma un sólido. En un módulo posterior de este capítulo se ofrece un análisis más exhaustivo de estos y otros cambios de estado, o transiciones de fase.</para>
+<note id="fs-idp144602800" class="chemistry link-to-learning">
+<para id="fs-idp70176880">Acceda a esta <link url="http://openstax.org/l/16phetvisual">simulación interactiva</link> sobre estados de la materia, transiciones de fase y fuerzas intermoleculares. Esta simulación es útil para visualizar los conceptos introducidos a lo largo de este capítulo.</para>
+</note>
+<section id="fs-idp48705360">
+<title>Fuerzas entre moléculas</title>
+<para id="fs-idp15601504">En condiciones adecuadas, las atracciones entre todas las moléculas de los gases harán que formen líquidos o sólidos. Esto se debe a las fuerzas intermoleculares, no a las <emphasis effect="italics">intra</emphasis>moleculares. Las fuerzas<emphasis effect="italics">intra</emphasis>moleculares son las que, <emphasis effect="italics">dentro de</emphasis> la molécula, la mantienen unida, por ejemplo, los enlaces entre los átomos. Las fuerzas<emphasis effect="italics">inter</emphasis>moleculares son las atracciones <emphasis effect="italics">entre</emphasis> las moléculas, que determinan muchas de las propiedades físicas de una sustancia. La <link target-id="CNX_Chem_10_01_IntravInter"/> ilustra estas diferentes fuerzas moleculares. La fuerza de estas fuerzas atractivas varía mucho, aunque normalmente las IMF entre moléculas pequeñas son débiles en comparación con las fuerzas intramoleculares que unen los átomos dentro de una molécula. Por ejemplo, para superar las IMF de un mol de HCl líquido y convertirlo en HCl gaseoso solo se necesitan unos 17 kilojulios. Sin embargo, para romper los enlaces covalentes entre los átomos de hidrógeno y cloro de un mol de HCl se necesita unas 25 veces más energía: 430 kilojulios.</para>
+<figure id="CNX_Chem_10_01_IntravInter" class="scaled-down">
+<media id="fs-idm297424" alt="Se muestra una imagen en la que dos moléculas compuestas por una esfera verde marcada como &quot;C l&quot; conectada a la derecha con una esfera blanca marcada como &quot;H&quot; están cerca la una de la otra con una línea de puntos marcada como &quot;Fuerza intermolecular ( débil )&quot; dibujada entre ellas. Una línea conecta las dos esferas de cada molécula y la línea está marcada como &quot;Fuerza intramolecular ( fuerte )&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_IntravInter.jpg"/>
+</media>
+<caption>Las fuerzas <emphasis effect="italics">intra</emphasis>moleculares mantienen una molécula intacta. Las fuerzas<emphasis effect="italics">inter</emphasis>moleculares mantienen unidas varias moléculas y determinan muchas de las propiedades de una sustancia.</caption>
+</figure>
+<para id="fs-idm68677744">Todas las fuerzas de atracción entre átomos y moléculas neutras se conocen como <term>fuerzas de Van der Waals</term>, aunque suelen denominarse de manera más informal como atracción intermolecular. En las tres secciones siguientes de este módulo estudiaremos los distintos tipos de IMF.</para>
+</section>
+<section id="fs-idm146733840">
+<title>Fuerzas de dispersión</title>
+<para id="fs-idp26129792">Una de las tres fuerzas de Van der Waals está presente en todas las fases condensadas, independientemente de la naturaleza de los átomos o moléculas que componen la sustancia. Esta fuerza de atracción se denomina <term class="no-emphasis">fuerza de dispersión de London</term> en honor al físico estadounidense de origen alemán Fritz <term class="no-emphasis">London</term>, que la explicó por primera vez en 1928. Esta fuerza suele denominarse simplemente <term>fuerza de dispersión</term>. Dado que los electrones de un átomo o molécula están en constante movimiento (o, alternativamente, la ubicación del electrón está sujeta a la variabilidad mecánica cuántica), en cualquier momento, un átomo o molécula puede desarrollar un <term>dipolo instantáneo</term> y temporal si sus electrones están distribuidos asimétricamente. La presencia de este dipolo puede, a su vez, distorsionar los electrones de un átomo o molécula vecina, produciendo un <term>dipolo inducido</term>. Estos dos dipolos temporales que fluctúan rápidamente dan lugar a una atracción electrostática relativamente débil entre las especies, la llamada fuerza de dispersión, como la que se ilustra en la <link target-id="CNX_Chem_10_01_DispForces"/>.</para>
+<figure id="CNX_Chem_10_01_DispForces" class="scaled-down">
+<media id="fs-idp52348576" alt="Se muestran dos pares de moléculas en las que cada una tiene un lado azul más grande marcado como &quot;signo delta, signo negativo&quot; y un lado rojo más pequeño marcado como &quot;signo delta, signo positivo&quot;. Hacia el centro de ambas moléculas, pero todavía en cada lado distinto, hay un punto negro. Entre las dos imágenes hay una línea de puntos con la leyenda &quot;Fuerza de atracción&quot;. En la primera imagen, los lados rojo y azul están marcados como &quot;Distribución desigual de electrones&quot;. Debajo de ambas imágenes hay paréntesis. Los soportes están marcados como &quot;dipolos temporales&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_DispForces.jpg"/>
+</media>
+<caption>Las fuerzas de dispersión son el resultado de la formación de dipolos temporales, como se ilustra aquí en dos moléculas diatómicas no polares.</caption>
+</figure>
+<para id="fs-idm80968928">Las fuerzas de dispersión que se desarrollan entre los átomos de diferentes moléculas pueden atraer a las dos moléculas entre sí. Sin embargo, las fuerzas son relativamente débiles y solo adquieren importancia cuando las moléculas están muy cerca. Los átomos y moléculas más grandes y pesados presentan fuerzas de dispersión más fuertes que los átomos y moléculas más pequeños y ligeros. El F<sub>2</sub> y el Cl<sub>2</sub> son gases a temperatura ambiente (reflejando fuerzas de atracción más débiles); el Br<sub>2</sub> es un líquido y el I<sub>2</sub> es un sólido (reflejando fuerzas de atracción más fuertes). Las tendencias de los puntos de fusión y ebullición observados para los halógenos demuestran claramente este efecto, como se ve en la <link target-id="fs-idp55860464"/>.</para>
+<table id="fs-idp55860464" class="top-titled" summary="Esta tabla tiene seis filas y cinco columnas. La primera fila es la del encabezado y marca cada columna: &quot;Halógeno&quot;, &quot;Masa molar&quot;, &quot;Radio atómico&quot;, &quot;Punto de fusión&quot; y &quot;Punto de ebullición&quot;. En la columna &quot;Halógeno&quot; se encuentra lo siguiente: Flúor, F subíndice 2; cloro, C l subíndice 2; bromo, B r subíndice 2; yodo, I subíndice 2; astato, A t subíndice 2. En la columna &quot;Masa molar&quot; se encuentra lo siguiente: 38 g / mol; 71 g / mol; 160 g / mol; 254 g / mol; 420 g / mol. En la columna &quot;Radio atómico&quot; se encuentra lo siguiente: 72 p m; 99 p m; 114 p m; 133 p m; 150 p m. En la columna &quot;Punto de fusión&quot; se encuentra lo siguiente: 53 K, 172 K, 266 K, 387 K y 575 K. En la columna &quot;Punto de ebullición&quot; se encuentra lo siguiente: 85 K; 238 K; 332 K; 457 K; y 610 K.">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c5" align="center">Puntos de fusión y ebullición de los halógenos</entry>
+</row>
+<row valign="middle">
+<entry align="center">Halógeno</entry>
+<entry align="center">Masa Molar</entry>
+<entry align="center">Radio atómico</entry>
+<entry align="center">Punto de fusión</entry>
+<entry align="center">Punto de ebullición</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="center">flúor, F<sub>2</sub></entry>
+<entry align="center">38 g/mol</entry>
+<entry align="center">72 horas</entry>
+<entry align="center">53 K</entry>
+<entry align="center">85 K</entry>
+</row>
+<row valign="middle">
+<entry align="center">cloro, Cl<sub>2</sub></entry>
+<entry align="center">71 g/mol</entry>
+<entry align="center">99 pm</entry>
+<entry align="center">172 K</entry>
+<entry align="center">238 K</entry>
+</row>
+<row valign="middle">
+<entry align="center">bromo, Br<sub>2</sub></entry>
+<entry align="center">160 g/mol</entry>
+<entry align="center">114 pm</entry>
+<entry align="center">266 K</entry>
+<entry align="center">332 K</entry>
+</row>
+<row valign="middle">
+<entry align="center">yodo, I<sub>2</sub></entry>
+<entry align="center">254 g/mol</entry>
+<entry align="center">133 pm</entry>
+<entry align="center">387 K</entry>
+<entry align="center">457 K</entry>
+</row>
+<row valign="middle">
+<entry align="center">astatina, At<sub>2</sub></entry>
+<entry align="center">420 g/mol</entry>
+<entry align="center">150 pm</entry>
+<entry align="center">575 K</entry>
+<entry align="center">610 K</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm135149056">El aumento de los puntos de fusión y ebullición con el aumento del tamaño atómico/molecular puede racionalizarse considerando cómo la fuerza de las fuerzas de dispersión se ve afectada por la estructura electrónica de los átomos o moléculas de la sustancia. En un átomo más grande, los electrones de valencia están, por término medio, más lejos de los núcleos que en un átomo más pequeño. Así, están menos sujetos y pueden formar más fácilmente los dipolos temporales que producen la atracción. La medida de lo fácil o difícil que es para otra carga electrostática (por ejemplo, un ion cercano o una molécula polar) distorsionar la distribución de carga de una molécula (su nube de electrones) se conoce como <term>polarizabilidad</term>. Una molécula que tiene una nube de carga que se distorsiona fácilmente se dice que es muy polarizable y tendrá grandes fuerzas de dispersión; una con una nube de carga que es difícil de distorsionar no es muy polarizable y tendrá pequeñas fuerzas de dispersión.</para>
+<example id="fs-idm100317728">
+<para id="fs-idp26427152"><title>Las fuerzas de London y sus efectos</title>
+Ordena los siguientes compuestos de un elemento del grupo 14 e hidrógeno de menor a mayor punto de ebullición: CH<sub>4</sub>, SiH<sub>4</sub>, GeH<sub>4</sub>, y SnH<sub>4</sub>. Explique su razonamiento.</para>
+<para id="fs-idm106734480"><title>Solución</title>
+Aplicando los conocimientos adquiridos en el capítulo sobre enlace químico y geometría molecular, se predice que todos estos compuestos son no polares, por lo que solo pueden experimentar fuerzas de dispersión: cuanto más pequeña sea la molécula, menos polarizable y más débiles serán las fuerzas de dispersión; cuanto más grande sea la molécula, mayores serán las fuerzas de dispersión. Las masas molares de CH<sub>4</sub>, SiH<sub>4</sub>, GeH<sub>4</sub>, y SnH<sub>4</sub> son aproximadamente 16 g/mol, 32 g/mol, 77 g/mol y 123 g/mol, respectivamente. Por lo tanto, se espera que el CH<sub>4</sub> tenga el punto de ebullición más bajo y el SnH<sub>4</sub> el más alto. Se espera que el orden de menor a mayor punto de ebullición sea CH<sub>4</sub> &lt; SiH<sub>4</sub> &lt; GeH<sub>4</sub> &lt; SnH<sub>4</sub>.</para>
+<para id="fs-idp136003920">Un gráfico de los puntos de ebullición reales de estos compuestos frente al periodo del elemento del grupo 14 muestra que esta predicción es correcta:</para>
+<media id="fs-idp63841152" class="scaled-down" alt="Se muestra un gráfico de líneas, titulado &quot;Familia de carbono&quot;, en el que el eje y está marcado como &quot;Temperatura, ( signo de grado C )&quot; y tiene valores de &quot;200 negativo&quot; a &quot;40 negativo&quot; de abajo a arriba en incrementos de 20. El eje x se denomina &quot;Periodo&quot; y tiene valores de &quot;0&quot; a &quot;5&quot; en incrementos de 1. El primer punto del gráfico está marcado como &quot;C H subíndice 4&quot; y está en el punto &quot;2, negativo 160&quot;. El segundo punto del gráfico se denomina &quot;S i H subíndice 4&quot; y se halle en el punto &quot;3, negativo 120&quot;, mientras que el tercer punto del gráfico se denomina &quot;G e H subíndice 4&quot; y se encuentra en el punto &quot;4, negativo 100&quot;. El cuarto punto del gráfico está marcado como &quot;S n H subíndice 4&quot; y está en el punto &quot;5, negativo 60&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_BoilPoints_img.jpg"/>
+</media>
+<para id="fs-idp128687200"><title>Compruebe lo aprendido</title>
+Ordene los siguientes hidrocarburos de menor a mayor punto de ebullición: C<sub>2</sub>H<sub>6</sub>, C<sub>3</sub>H<sub>8</sub>, and C<sub>4</sub>H<sub>10</sub>.</para>
+<note id="fs-idm119929280">
+<title>Respuesta:</title>
+<para id="fs-idm93042944">C<sub>2</sub>H<sub>6</sub> &lt; C<sub>3</sub>H<sub>8</sub> &lt; C<sub>4</sub>H<sub>10</sub>. Todos estos compuestos son no polares y solo tienen fuerzas de dispersión de London: cuanto más grande es la molécula, mayores son las fuerzas de dispersión y mayor es el punto de ebullición. El orden de menor a mayor punto de ebullición es, por tanto, C<sub>2</sub>H<sub>6</sub> &lt; C<sub>3</sub>H<sub>8</sub> &lt; C<sub>4</sub>H<sub>10</sub>.</para>
+</note>
+</example>
+<para id="fs-idm93742928">Las formas de las moléculas también afectan a las magnitudes de las fuerzas de dispersión entre ellas. Por ejemplo, los puntos de ebullición de los isómeros <emphasis effect="italics">n-pentano</emphasis>, isopentano y neopentano (mostrados en <link target-id="CNX_Chem_10_01_PentIso"/>) son 36 °C, 27 °C y 9,5 °C, respectivamente. Aunque estos compuestos están formados por moléculas con la misma fórmula química, C<sub>5</sub>H<sub>12</sub>, la diferencia en los puntos de ebullición sugiere que las fuerzas de dispersión en la fase líquida son diferentes, siendo mayores para el <emphasis effect="italics">n</emphasis>-pentano y menores para el neopentano. La forma alargada <emphasis effect="italics">del n</emphasis>-pentano proporciona una mayor área superficial disponible para el contacto entre las moléculas, lo que da lugar a fuerzas de dispersión proporcionalmente más fuertes. La forma más compacta del isopentano ofrece una menor área superficial disponible para el contacto intermolecular y, por tanto, fuerzas de dispersión más débiles. Las moléculas de neopentano son las más compactas de las tres, ofreciendo la menor área superficial disponible para el contacto intermolecular y, por tanto, las fuerzas de dispersión más débiles. Este comportamiento es análogo al de las conexiones que pueden formarse entre las tiras de los cierres de la marca VELCRO: cuanto mayor sea el área de contacto de la tira, más fuerte será la conexión.</para>
+<figure id="CNX_Chem_10_01_PentIso" class="scaled-down">
+<media id="fs-idm29590512" alt="Se muestran tres imágenes de moléculas. La primera muestra un grupo de grandes esferas grises unidas entre sí y a varias esferas blancas más pequeñas. Hay una línea gris y dentada y luego se muestra la imagen especular del primer grupo de esferas. Encima de estos dos racimos está la marca &quot;Área de contacto pequeña, atracción más débil&quot; y debajo la marca &quot;Punto de ebullición del neopentano: 9,5 grados C&quot;. La segunda muestra una cadena de tres esferas grises unidas por la esfera del medio a una cuarta esfera gris. Cada esfera gris está unida a varias esferas blancas más pequeñas. Hay una línea gris irregular y luego aparece la imagen especular de la primera cadena. Encima de estas dos cadenas está la marca &quot;Menos área superficial, menos atracción&quot; y debajo la marca &quot;Punto de ebullición del isopentano: 27 grados C&quot;. La tercera imagen muestra una cadena de cinco esferas grises unidas entre sí y a varias esferas blancas más pequeñas. Hay una línea gris irregular y luego aparece la imagen especular de la primera cadena. Encima de estas cadenas está la marca &quot;Gran área de contacto, fuerte atracción&quot; y debajo la marca &quot;Punto de ebullición del n-pentano 36 grados C&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_PentIso.jpg"/>
+</media>
+<caption>La fuerza de las fuerzas de dispersión aumenta con el área de contacto entre las moléculas, como demuestran los puntos de ebullición de estos isómeros de pentano.</caption>
+</figure>
+<note id="fs-idp29280240" class="chemistry everyday-life">
+<title>Salamanquesas y fuerzas intermoleculares</title>
+<para id="fs-idm15049248">Las salamanquesas tienen una capacidad asombrosa para adherirse a la mayoría de las superficies. Pueden subir rápidamente por paredes lisas y por techos que no tienen punteras, y lo hacen sin tener ventosas o una sustancia pegajosa en los dedos. Y aunque una salamanquesa puede levantar sus patas con facilidad mientras camina por una superficie, si se intenta cogerlo, se queda pegado a la superficie. ¿Cómo pueden hacer esto, al igual que las arañas y algunos otros insectos? Aunque este fenómeno se lleva investigando desde hace cientos de años, los científicos no han descubierto hasta hace poco los detalles del proceso que permite a las patas de las salamanquesas funcionar de esa manera.</para>
+<para id="fs-idp29466368">Los dedos de las salamanquesas están cubiertos de cientos de miles de pelos diminutos conocidos como <emphasis effect="italics">setae</emphasis> (pelillos), y cada seta, a su vez, se ramifica en cientos de puntas diminutas, planas y triangulares llamadas <emphasis effect="italics">spatulae</emphasis> (espátulas). El gran número de espátulas en sus pelillos proporciona a la salamanquesa, que se muestra en la <link target-id="CNX_Chem_10_01_Geckos"/>, una gran área superficial total para adherirse a una superficie. En el año 2000, Kellar <term class="no-emphasis">Autumn</term>, que dirige un equipo de investigación multiinstitucional sobre la salamanquesa, descubrió que ésta se adhería igual de bien al dióxido de silicio polar y al arseniuro de galio no polar. Esto demostró que las salamanquesas se adhieren a las superficies debido a las fuerzas de dispersión, que son débiles atracciones intermoleculares que surgen de distribuciones de carga temporales y sincronizadas entre moléculas adyacentes. Aunque las fuerzas de dispersión son muy débiles, la atracción total sobre millones de espátulas es lo suficientemente grande como para soportar muchas veces el peso de la salamanquesa.</para>
+<para id="fs-idm74321904">En 2014, dos científicos desarrollaron un modelo para explicar cómo las salamanquesas pueden pasar rápidamente de "pegajosos" a "no pegajosos." Alex <term class="no-emphasis">Greaney</term> y Congcong <term class="no-emphasis">Hu</term>, de la Universidad Estatal de Oregón, describieron cómo las salamanquesas pueden conseguirlo cambiando el ángulo entre sus espátulas y la superficie. Las patas de las salamanquesas, que normalmente no son pegajosas, se vuelven pegajosas cuando se aplica una pequeña fuerza transversal. Al enroscar y desenroscar los dedos de los pies, las salamanquesas pueden alternar entre pegarse y despegarse de una superficie, y así desplazarse fácilmente por ella. Una investigación posterior dirigida por Alyssa Stark, de la Universidad de Akron, demostró que las lagartijas mantienen su agarre en superficies hidrofóbicas (similares a las hojas de sus hábitats) igual de bien si las superficies están húmedas o secas. En el experimento de Stark se utilizó una cinta para tirar suavemente de las lagartijas hasta que resbalaran, de modo que los investigadores pudieran determinar la capacidad de las lagartijas para agarrarse a diversas superficies en condiciones húmedas y secas. Otras investigaciones podrían conducir al desarrollo de mejores adhesivos y otras aplicaciones.</para><figure id="CNX_Chem_10_01_Geckos">
+<media id="fs-idp79180464" alt="Se muestran tres figuras. La primera es una foto de la parte inferior de la pata de una salamanquesa. La segunda es una versión más grande que muestra los pelillos. La tercera es una versión más grande de los pelillos que muestra las espátulas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_Geckos.jpg"/>
+</media>
+<caption>Los dedos de las salamanquesas contienen un gran número de pelos diminutos (setae), que se ramifican en muchas puntas triangulares (espátulas). Las salamanquesas se adhieren a las superficies debido a las atracciones de Van der Waals entre la superficie y los millones de espátulas que posee. Cambiando la forma en que las espátulas entran en contacto con la superficie, estos animales pueden activar y desactivar su adhesividad (foto de crédito: modificación de la obra de "JC*+A!»/Flickr).</caption>
+</figure>
+</note>
+<note id="fs-idp133005728" class="chemistry link-to-learning">
+<para id="fs-idm71587872">Vea este <link url="http://openstax.org/l/16kellaraut">video</link> para saber más sobre la investigación de Kellar Autumn, que determinó que las fuerzas de van der Waals son las responsables de la capacidad de la salamanquesa para aferrarse y trepar.</para>
+</note>
+</section>
+<section id="fs-idp3278832">
+<title>Atracciones dipolo-dipolo</title>
+<para id="fs-idm25328160">Recordemos del capítulo sobre enlace químico y geometría molecular que las moléculas <emphasis effect="italics">polares</emphasis> tienen una carga parcial positiva en un lado y una carga parcial negativa en el otro lado de la molécula, una separación de carga llamada <emphasis effect="italics">dipolo</emphasis>. Analicemos una molécula polar como el cloruro de hidrógeno, HCl. En la molécula de HCl, el átomo de Cl más electronegativo lleva la carga parcial negativa, mientras que el átomo de H menos electronegativo lleva la carga parcial positiva. Una fuerza de atracción entre moléculas de HCl resulta de la atracción entre el extremo positivo de una molécula de HCl y el extremo negativo de otra. Esta fuerza de atracción se denomina <term>atracción dipolo-dipolo</term>, que es la fuerza electrostática entre el extremo parcialmente positivo de una molécula polar y el extremo parcialmente negativo de otra, como se ilustra en la <link target-id="CNX_Chem_10_01_DipDip"/>.</para>
+<figure id="CNX_Chem_10_01_DipDip" class="scaled-down">
+<media id="fs-idp12575856" alt="Se muestran dos pares de moléculas en las que cada una tiene un lado azul más grande marcado como &quot;signo delta, signo negativo&quot; y un lado rojo más pequeño marcado como &quot;signo delta, signo positivo&quot;. En el primer par, los lados rojos de las dos moléculas están orientados hacia la izquierda y el lado azul hacia la derecha. Una línea horizontal de puntos se encuentra entre ambos. En el segundo par, las moléculas están orientadas hacia arriba y hacia abajo, con los extremos rojo y azul alineados. Entre los extremos rojo y azul se encuentra una línea de puntos horizontal orientada hacia arriba y otra entre los extremos rojo y azul orientada hacia abajo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_DipDip.jpg"/>
+</media>
+<caption>Esta imagen muestra dos disposiciones de moléculas polares, como el HCl, que permiten una atracción entre el extremo parcial negativo de una molécula y el extremo parcial positivo de otra.</caption>
+</figure>
+<para id="fs-idp108426992">El efecto de la atracción dipolo-dipolo es evidente cuando comparamos las propiedades de las moléculas de HCl con las moléculas no polares de F<sub>2</sub>. Tanto el HCl como el F<sub>2</sub> están formados por el mismo número de átomos y tienen aproximadamente la misma masa molecular. A una temperatura de 150 K, las moléculas de ambas sustancias tendrían la misma KE promedio. Sin embargo, las atracciones dipolo-dipolo entre las moléculas de HCl son suficientes para que se "peguen" y formen un líquido, mientras que las fuerzas de dispersión relativamente más débiles entre las moléculas de F<sub>2</sub> no polares no lo son, por lo que esta sustancia es gaseosa a esta temperatura. El mayor punto de ebullición normal del HCl (188 K) en comparación con el F<sub>2</sub> (85 K) es un reflejo de la mayor fuerza de las atracciones dipolo-dipolo entre las moléculas de HCl, en comparación con las atracciones entre las moléculas F<sub>2</sub> no polares. A menudo utilizaremos valores como los puntos de ebullición o de congelación, o las entalpías de vaporización o de fusión, como indicadores de las fuerzas relativas de las IMF de atracción presentes en diferentes sustancias.</para>
+<example id="fs-idm116129040">
+<para id="fs-idm21276784"><title>Fuerzas dipolo-dipolo y sus efectos</title>
+Prediga cuál tendrá el punto de ebullición más alto: N<sub>2</sub> o CO. Explique su razonamiento.</para>
+<para id="fs-idm69572480"><title>Solución</title>
+El CO y el N<sub>2</sub> son moléculas diatómicas con masas de aproximadamente 28 unidades de masa atómica unificada (u) por lo que experimentan fuerzas de dispersión similares a las de London. Como el CO es una molécula polar, experimenta atracciones dipolo-dipolo. Como el N<sub>2</sub> es apolar, sus moléculas no pueden presentar atracciones dipolo-dipolo. Las atracciones dipolo-dipolo entre las moléculas de CO son comparativamente más fuertes que las fuerzas de dispersión entre las moléculas no polares de N<sub>2</sub>, por lo que se espera que el CO tenga el punto de ebullición más alto.</para>
+<para id="fs-idp56618608"><title>Compruebe lo aprendido</title>
+Prediga cuál tendrá el punto de ebullición más alto: ICl o Br<sub>2</sub>. Explique su razonamiento.</para>
+<note id="fs-idm21037552">
+<title>Respuesta:</title>
+<para id="fs-idp57843568">ICl. El ICl y el Br<sub>2</sub> tienen masas similares (~160 u) y, por tanto, experimentan fuerzas de dispersión de London similares. El ICl es polar y, por tanto, también presenta atracciones dipolo-dipolo; el Br<sub>2</sub> es no polar y no lo hace. Las atracciones dipolo-dipolo relativamente más fuertes requieren más energía para superarlas, por lo que el ICl tendrá el punto de ebullición más alto.</para>
+</note>
+</example>
+</section>
+<section id="fs-idp42198272">
+<title>Enlace de hidrógeno</title>
+<para id="fs-idp18167328">El fluoruro de nitrosilo (ONF, masa molecular 49 u) es un gas a temperatura ambiente. El agua (H<sub>2</sub>O, masa molecular 18 u) es un líquido, aunque tenga una masa molecular menor. Está claro que no podemos atribuir esta diferencia entre los dos compuestos a las fuerzas de dispersión. Ambas moléculas tienen más o menos la misma forma y el ONF es la molécula más pesada y grande. Por lo tanto, se espera que experimente fuerzas de dispersión más significativas. Además, no podemos atribuir esta diferencia en los puntos de ebullición a las diferencias en los momentos dipolares de las moléculas. Ambas moléculas son polares y presentan momentos dipolares comparables. La gran diferencia entre los puntos de ebullición se debe a una atracción dipolar especialmente fuerte que puede producirse cuando una molécula contiene un átomo de hidrógeno unido a un átomo de flúor, oxígeno o nitrógeno (los tres elementos más electronegativos). La gran diferencia de electronegatividad entre el átomo de H (2,1) y el átomo al que está unido (4,0 para un átomo de F, 3,5 para un átomo de O o 3,0 para un átomo de N), combinada con el tamaño muy pequeño de un átomo de H y los tamaños relativamente pequeños de los átomos de F, O o N, conduce a <emphasis effect="italics">cargas parciales muy concentradas</emphasis> con estos átomos. Las moléculas con fracciones de F-H, O-H o N-H se sienten muy atraídas por fracciones similares de moléculas cercanas, un tipo de atracción dipolar especialmente fuerte que se denomina <term>enlace de hidrógeno</term>. Algunos ejemplos de enlaces de hidrógeno son HF⋯HF, H<sub>2</sub>O⋯HOH, y H<sub>3</sub>N⋯HNH<sub>2</sub>, en los que los enlaces de hidrógeno se indican con puntos. La <link target-id="CNX_Chem_10_01_HBonding"/> ilustra los enlaces de hidrógeno entre moléculas de agua.</para>
+<figure id="CNX_Chem_10_01_HBonding" class="scaled-down">
+<media id="fs-idp29073168" alt="Se muestran cinco moléculas de agua que están cerca unas de otras, pero que no se tocan. Una línea de puntos se encuentra entre muchos de los átomos de hidrógeno de una molécula y el átomo de oxígeno de otra.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_HBonding.jpg"/>
+</media>
+<caption>Las moléculas de agua participan en múltiples interacciones de enlace de hidrógeno con moléculas de agua cercanas.</caption>
+</figure>
+<para id="fs-idp128658848">A pesar del uso de la palabra "enlace", tenga en cuenta que los enlaces de hidrógeno son fuerzas de atracción <emphasis effect="italics">intermoleculares</emphasis>, no fuerzas de atracción <emphasis effect="italics">intramoleculares</emphasis> (enlaces covalentes). Los enlaces de hidrógeno son mucho más débiles que los enlaces covalentes, solo entre un 5 y un 10 % más fuertes, pero en general son mucho más fuertes que otras atracciones dipolo-dipolo y fuerzas de dispersión.</para>
+<para id="fs-idp20088928">Los enlaces de hidrógeno tienen un efecto pronunciado en las propiedades de las fases condensadas (líquidos y sólidos). Por ejemplo, considere las tendencias de los puntos de ebullición de los hidruros binarios del grupo 15 (NH<sub>3</sub>, PH<sub>3</sub>, AsH<sub>3</sub>, y SbH<sub>3</sub>), de los hidruros del grupo 16 (H<sub>2</sub>O, H<sub>2</sub>S, H<sub>2</sub>Se, y H<sub>2</sub>Te) y los hidruros del grupo 17 (HF, HCl, HBr y HI). Los puntos de ebullición de los tres hidruros más pesados de cada grupo se representan en la <link target-id="CNX_Chem_10_01_HydrideBP1"/>. A medida que avanzamos por cualquiera de estos grupos, las polaridades de las moléculas disminuyen ligeramente, mientras que los tamaños de las moléculas aumentan sustancialmente. El efecto de las fuerzas de dispersión cada vez más fuertes domina al de las atracciones dipolo-dipolo cada vez más débiles, y se observa que los puntos de ebullición aumentan constantemente.</para>
+<figure id="CNX_Chem_10_01_HydrideBP1" class="scaled-down">
+<media id="fs-idm21286928" alt="Se muestra un gráfico de líneas en el que el eje y está marcado como &quot;Punto de ebullición (signo de grado, C)&quot; y tiene valores de &quot; negativo 150&quot; a &quot;150&quot; de abajo a arriba en incrementos de 50. El eje x se denomina &quot;Periodo&quot; y tiene valores de &quot;0&quot; a &quot;5&quot; en incrementos de 1. En el gráfico se muestran tres líneas, marcadas en la leyenda. La línea roja está marcada como &quot;familia de los halógenos&quot;, la azul como &quot;familia del oxígeno&quot; y la verde como &quot;familia del nitrógeno&quot;. El primer punto de la línea roja está marcado como &quot;signo de interrogación&quot; y se encuentra en el punto &quot;2, negativo 120&quot;. El segundo punto de la línea se denomina &quot;H C l&quot; y está en el punto &quot;3, negativo 80&quot;, mientras que el tercer punto de la línea se denomina &quot;H B r&quot; y está en el punto &quot;4, negativo 60&quot;. El cuarto punto de la línea está marcado como &quot;H I&quot; y está en el punto &quot;5, negativo 40&quot;. El primer punto de la línea verde está marcado como &quot;signo de interrogación&quot; y se encuentra en el punto &quot;2, negativo 125&quot;. El segundo punto de la línea se denomina &quot;P H, subíndice 3&quot; y está en el punto &quot;3, negativo 80&quot;, mientras que el tercer punto de la línea se denomina &quot;A s H, subíndice 3&quot; y está en el punto &quot;4, negativo 55&quot;. El cuarto punto de la línea está marcado como &quot;S b H, subíndice 3&quot; y está en el punto &quot;5, negativo 10&quot;. El primer punto de la línea azul está marcado como &quot;signo de interrogación&quot; y se encuentra en el punto &quot;2, negativo 80&quot;. El segundo punto de la recta se denomina &quot;H, subíndice 2, S&quot; y está en el punto &quot;3, negativo 55&quot;, mientras que el tercer punto de la recta se denomina &quot;H, subíndice 2, S e&quot; y está en el punto &quot;4, negativo 45&quot;. El cuarto punto de la línea está marcado como &quot;H, subíndice 2, T e&quot; y está en el punto &quot;5, negativo 3&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_HydrideBP1.jpg"/>
+</media>
+<caption>En los hidruros de los grupos 15, 16 y 17, los puntos de ebullición de cada clase de compuestos aumentan con el incremento de la masa molecular de los elementos de los períodos 3, 4 y 5.</caption>
+</figure>
+<para id="fs-idp26510624">Si utilizamos esta tendencia para predecir los puntos de ebullición del hidruro más ligero de cada grupo, esperaríamos que el NH<sub>3</sub> hirviera a unos -120 °C, el H<sub>2</sub>O a unos -80 °C y el HF a unos -110 °C. Sin embargo, cuando medimos los puntos de ebullición de estos compuestos, descubrimos que son drásticamente más altos de lo que predecían las tendencias, como se muestra en la <link target-id="CNX_Chem_10_01_HydrideBP2"/>. El marcado contraste entre nuestras predicciones ingenuas y la realidad proporciona una prueba convincente de la fuerza del enlace de hidrógeno.</para>
+<figure id="CNX_Chem_10_01_HydrideBP2" class="scaled-down">
+<media id="fs-idp79204320" alt="Se muestra un gráfico de líneas en el que el eje y está marcado como &quot;Punto de ebullición, (signo de grado, C)&quot; y tiene valores de &quot;negativo 150&quot; a &quot;150&quot; de abajo a arriba en incrementos de 50. El eje x se denomina &quot;Periodo&quot; y tiene valores de &quot;0&quot; a &quot;5&quot; en incrementos de 1. En el gráfico se muestran tres líneas, marcadas en la leyenda. La línea roja está marcada como &quot;familia de los halógenos&quot;, la azul como &quot;familia del oxígeno&quot; y la verde como &quot;familia del nitrógeno&quot;. El primer punto de la línea roja está marcado como &quot;H F&quot; y está en el punto &quot;2, 25&quot;. El segundo punto de la recta se denomina &quot;H C l&quot; y está en el punto &quot;3, negativo 80&quot; mientras que el tercer punto de la recta se denomina &quot;H B r&quot; y está en el punto &quot;4, negativo 60&quot;. El cuarto punto de la línea está marcado como &quot;H I&quot; y está en el punto &quot;5, negativo 40&quot;. El primer punto de la línea verde está marcado como &quot;N H, subíndice 3&quot; y se encuentra en el punto &quot;2, negativo 40&quot;. El segundo punto de la línea se denomina &quot;P H, subíndice 3&quot; y está en el punto &quot;3, negativo 80&quot;, mientras que el tercer punto de la línea se denomina &quot;A s H, subíndice 3&quot; y está en el punto &quot;4, negativo 55&quot;. El cuarto punto de la línea está marcado como &quot;S b H, subíndice 3&quot; y está en el punto &quot;5, negativo 10&quot;. El primer punto de la línea azul está marcado como &quot;H, subíndice 2, O&quot; y está en el punto &quot;2, 100&quot;. El segundo punto de la recta se denomina &quot;H, subíndice 2, S&quot; y está en el punto &quot;3, negativo 55&quot;, mientras que el tercer punto de la recta se denomina &quot;H, subíndice 2, S e&quot; y está en el punto &quot;4, negativo 45&quot;. El cuarto punto de la línea está marcado como &quot;H, subíndice 2, T e&quot; y está en el punto &quot;5, negativo 3&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_HydrideBP2.jpg"/>
+</media>
+<caption>En comparación con los periodos 3 - 5, los hidruros binarios de los elementos del periodo 2 de los grupos 17, 16 y 15 (F, O y N, respectivamente) presentan puntos de ebullición anómalamente altos debido al enlace de hidrógeno.</caption>
+</figure>
+<example id="fs-idm118983568">
+<para id="fs-idp138845584"><title>Efecto del enlace de hidrógeno en los puntos de ebullición</title>
+Consideremos los compuestos dimetiléter (CH<sub>3</sub>OCH<sub>3</sub>), etanol (CH<sub>3</sub>CH<sub>2</sub>OH) y propano (CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub>). Sus puntos de ebullición, no necesariamente en orden, son -42,1 °C, -24,8 °C y 78,4 °C. Empareje cada compuesto con su punto de ebullición. Explique su razonamiento.</para>
+<para id="fs-idm50766656"><title>Solución</title>
+Las formas predichas por la VSEPR deCH<sub>3</sub>OCH<sub>3</sub>, CH<sub>3</sub>CH<sub>2</sub>OH, and CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub> son similares, al igual que sus masas molares (46 g/mol, 46 g/mol y 44 g/mol, respectivamente), por lo que presentarán fuerzas de dispersión similares. Ya que el CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub> es no polar, puede presentar <emphasis effect="italics">solo</emphasis> fuerzas de dispersión. Como el CH<sub>3</sub>OCH<sub>3</sub> es polar, también experimentará atracciones dipolo-dipolo. Por último, el CH<sub>3</sub>CH<sub>2</sub>OH tiene un grupo -OH, por lo que experimentará la atracción dipolo-dipolo excepcionalmente fuerte conocida como enlace de hidrógeno. Por lo tanto, la ordenación en términos de fuerza de las IMF, y por tanto de los puntos de ebullición, es CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub> &lt; CH<sub>3</sub>OCH<sub>3</sub> &lt; CH<sub>3</sub>CH<sub>2</sub>OH. El punto de ebullición del propano es de −42,1 °C el punto de ebullición del dimetiléter es de −24,8 °C y el punto de ebullición del etanol es de 78,5 °C.</para>
+<para id="fs-idm47706096"><title>Compruebe lo aprendido</title>
+El etano (CH<sub>3</sub>CH<sub>3</sub>) tiene un punto de fusión de -183 °C y un punto de ebullición de -89 °C. Prediga los puntos de fusión y ebullición de la metilamina (CH<sub>3</sub>NH<sub>2</sub>). Explique su razonamiento.</para>
+<note id="fs-idm67186592">
+<title>Respuesta:</title>
+<para id="fs-idm91556848">Se prevé que el punto de fusión y el punto de ebullición de la metilamina sean significativamente mayores que los del etano. CH<sub>3</sub>CH<sub>3</sub> y CH<sub>3</sub>NH<sub>2</sub> son similares en tamaño y masa, pero la metilamina posee un grupo -NH y, por tanto, puede presentar enlaces de hidrógeno. Esto aumenta en gran medida sus IMF y, por tanto, sus puntos de fusión y ebullición. Es difícil predecir los valores, pero los valores conocidos son un punto de fusión de −93 °C y un punto de ebullición de −6 °C.</para>
+</note>
+</example>
+<note id="fs-idm44601856" class="chemistry sciences-interconnect">
+<title>Enlace de hidrógeno y ADN</title>
+<para id="fs-idm79852624">El ácido desoxirribonucleico (ADN) se encuentra en todos los organismos vivos y contiene la información genética que determina las características del organismo, proporciona el modelo para fabricar las proteínas necesarias para la vida y sirve de plantilla para transmitir esta información a la descendencia del organismo. Una molécula de ADN está formada por dos cadenas (anti)paralelas de nucleótidos repetidos, que forman su conocida estructura de doble hélice, como se muestra en la <link target-id="CNX_Chem_10_01_DNA"/>.</para>
+<figure id="CNX_Chem_10_01_DNA" class="scaled-down">
+<media id="fs-idm97606608" alt="Se muestran dos imágenes. La primera se encuentra en la parte izquierda de la página y muestra una estructura helicoidal como una escalera de caracol en la que los peldaños de la escalera, marcados como &quot;Par de bases&quot;, son barras emparejadas de color rojo, amarillo, verde y azul. Las barras rojas y amarillas, que siempre están emparejadas, están marcadas en la leyenda, titulada &quot;Bases nitrogenadas&quot;, como &quot;adenina&quot; y &quot;timina&quot;, respectivamente. Las barras azul y verde, que siempre están emparejadas, están marcadas en la leyenda como &quot;guanina&quot; y &quot;citosina&quot;, respectivamente. En la parte superior de la estructura helicoidal, el carril de la izquierda, o &quot;Azúcar, guion, columna vertebral de fosfato&quot;, está marcado como &quot;3, primo&quot;, mientras que el de la derecha está marcado como &quot;5, primo&quot;. Estas marcas se invierten en la parte inferior de la hélice. A la derecha de la página hay una gran estructura de Lewis. La esquina superior izquierda de esta estructura, marcada como &quot;5, primo&quot;, muestra un átomo de fósforo con un enlace simple a tres átomos de oxígeno, uno de los cuales tiene una carga negativa en superíndice, y un doble enlace con un cuarto átomo de oxígeno. Uno de los átomos de oxígeno con enlace simple está unido a la esquina izquierda de un anillo de cinco miembros con un átomo de oxígeno en su punto superior y que está unido a un átomo de oxígeno en la parte inferior izquierda. Este átomo de oxígeno está unido de forma simple a un átomo de fósforo que tiene un enlace simple con otros dos átomos de hidrógeno y un doble enlace con un cuarto átomo de oxígeno. El inferior izquierdo de estos átomos de oxígeno tiene un enlace simple con otro átomo de oxígeno que tiene un enlace simple con un anillo de cinco miembros con un oxígeno en el sitio de unión superior. La parte inferior izquierda de este anillo lleva unido un grupo hidroxilo, mientras que el carbono superior derecho tiene un enlace simple con un átomo de nitrógeno que forma parte de un anillo de cinco miembros, enlazado a otro de seis. Ambos anillos tienen puntos de insaturación y átomos de nitrógeno unidos en sus estructuras. En el lado derecho del anillo de seis miembros hay dos grupos aminos de enlace simple y un oxígeno de doble enlace. Tres líneas punteadas separadas se extienden desde estos sitios hasta los sitios correspondientes en un segundo anillo de seis miembros. Este anillo tiene puntos de insaturación y un átomo de nitrógeno en la posición de enlace inferior derecha que tiene un enlace simple con un anillo de cinco miembros en el lado derecho de la imagen. Este anillo está unido a un carbono a su vez unido con enlace simple a un oxígeno que a su vez tiene un enlace simple con un fósforo. El fósforo tiene un enlace simple con otros dos átomos de oxígeno y un doble enlace con un cuarto átomo de oxígeno. Este grupo está marcado como &quot;5, primo&quot;. El anillo de cinco miembros también está enlazado en la parte superior a un oxígeno a su vez enlazado con un fósforo que tiene un enlace simple con otros dos átomos de oxígeno y un doble enlace con un cuarto átomo de oxígeno. El oxígeno superior izquierdo de este grupo tiene un enlace simple con un carbono que a su vez tiene un enlace simple con un anillo de cinco miembros con un oxígeno en la posición de enlace inferior. Este anillo tiene un grupo hidroxilo en su parte superior derecha que está marcado como &quot;3, primo&quot; y está enlazado por el lado izquierdo a un nitrógeno que es miembro de un anillo de cinco miembros. Este anillo está unido a un anillo de seis miembros y ambos tienen puntos de insaturación. Este anillo tiene un nitrógeno en el lado izquierdo, así como un grupo amina, que tienen dos líneas de puntos que van desde ellos a un oxígeno y un grupo amina en un anillo de seis miembros. Estas líneas punteadas se denominan &quot;Enlaces de hidrógeno&quot;. El anillo de seis miembros también tiene un oxígeno de doble enlace en su lado inferior y un átomo de nitrógeno en su lado izquierdo que tiene un enlace simple con un anillo de cinco miembros. Este anillo se conecta a los dos grupos de fosfato mencionados al principio para formar un gran círculo. El nombre &quot;guanina&quot; está escrito en la parte inferior izquierda de esta imagen, mientras que el nombre &quot;citosina&quot; está escrito en la parte inferior derecha. El nombre &quot;timina&quot; está escrito encima de la parte derecha de la imagen y &quot;adenina&quot; está escrito en la parte superior derecha. Debajo de las imágenes se indican tres secciones en las que la izquierda está marcada como &quot;Azúcar, guion, columna vertebral de fosfato&quot;, la del medio como &quot;Bases&quot; y la de la derecha como &quot;Azúcar, guion, columna vertebral de fosfato&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_DNA.jpg"/>
+</media>
+<caption>Dos moléculas de ADN separadas forman una hélice de doble cadena en la que las moléculas se mantienen unidas mediante enlaces de hidrógeno (crédito: modificación del trabajo de Jerome Walker, Dennis Myts).</caption>
+</figure>
+<para id="fs-idp113560512">Cada nucleótido contiene un azúcar (desoxirribosa) unido a un grupo fosfato en un lado, y una de las cuatro bases nitrogenadas en el otro. Dos de las bases, la citosina (C) y la timina (T), son estructuras de un solo anillo conocidas como pirimidinas. Las otras dos, la adenina (A) y la guanina (G), son estructuras de doble anillo llamadas purinas. Estas bases forman pares de bases complementarias compuestas por una purina y una pirimidina, donde la adenina se empareja con la timina y la citosina con la guanina. Cada par de bases se mantiene unido por enlaces de hidrógeno. A y T comparten dos enlaces de hidrógeno, C y G comparten tres, y ambos emparejamientos tienen una forma y estructura similares como muestra la <link target-id="CNX_Chem_10_01_DNA2"/>.</para>
+<figure id="CNX_Chem_10_01_DNA2">
+<media id="fs-idm64449536" alt="Se muestra una gran estructura de Lewis. La esquina superior izquierda de esta estructura, marcada como &quot;5, primo&quot;, muestra un átomo de fósforo con un enlace simple a tres átomos de oxígeno, uno de los cuales tiene una carga negativa en superíndice, y un doble enlace con un cuarto átomo de oxígeno. Uno de los átomos de oxígeno con enlace simple está unido a la esquina izquierda de un anillo de cinco miembros con un átomo de oxígeno en su punto superior y que está unido a un átomo de oxígeno en la parte inferior izquierda. Este átomo de oxígeno está unido de forma simple a un átomo de fósforo que tiene un enlace simple con otros dos átomos de hidrógeno y un doble enlace con un cuarto átomo de oxígeno. El inferior izquierdo de estos átomos de oxígeno tiene un enlace simple con otro átomo de oxígeno que tiene un enlace simple con un anillo de cinco miembros con un oxígeno en el sitio de unión superior. La parte inferior izquierda de este anillo lleva unido un grupo hidroxilo, mientras que el carbono superior derecho tiene un enlace simple con un átomo de nitrógeno que forma parte de un anillo de cinco miembros, enlazado a otro de seis. Ambos anillos tienen puntos de insaturación y átomos de nitrógeno unidos en sus estructuras. En el lado derecho del anillo de seis miembros hay dos grupos aminos de enlace simple y un oxígeno de doble enlace. Tres líneas punteadas separadas se extienden desde estos sitios hasta los sitios correspondientes en un segundo anillo de seis miembros. Este anillo tiene puntos de insaturación y un átomo de nitrógeno en la posición de enlace inferior derecha que tiene un enlace simple con un anillo de cinco miembros en el lado derecho de la imagen. Este anillo está unido a un carbono a su vez unido con enlace simple a un oxígeno que a su vez tiene un enlace simple con un fósforo. El fósforo tiene un enlace simple con otros dos átomos de oxígeno y un doble enlace con un cuarto átomo de oxígeno. Este grupo está marcado como &quot;5, primo&quot;. El anillo de cinco miembros también está enlazado en la parte superior a un oxígeno a su vez enlazado con un fósforo que tiene un enlace simple con otros dos átomos de oxígeno y un doble enlace con un cuarto átomo de oxígeno. El oxígeno superior izquierdo de este grupo tiene un enlace simple con un carbono que a su vez tiene un enlace simple con un anillo de cinco miembros con un oxígeno en la posición de enlace inferior. Este anillo tiene un grupo hidroxilo en su parte superior derecha que está marcado como &quot;3, primo&quot; y está enlazado por el lado izquierdo a un nitrógeno que es miembro de un anillo de cinco miembros. Este anillo está unido a un anillo de seis miembros y ambos tienen puntos de insaturación. Este anillo tiene un nitrógeno en el lado izquierdo, así como un grupo amina, que tienen dos líneas de puntos que van desde ellos a un oxígeno y un grupo amina en un anillo de seis miembros. Estas líneas punteadas se denominan &quot;Enlaces de hidrógeno&quot;. El anillo de seis miembros también tiene un oxígeno de doble enlace en su lado inferior y un átomo de nitrógeno en su lado izquierdo que tiene un enlace simple con un anillo de cinco miembros. Este anillo se conecta a los dos grupos de fosfato mencionados al principio para formar un gran círculo. El nombre &quot;guanina&quot; está escrito en la parte inferior izquierda de esta imagen, mientras que el nombre &quot;citosina&quot; está escrito en la parte inferior derecha. El nombre &quot;timina&quot; está escrito encima de la parte derecha de la imagen y &quot;adenina&quot; está escrito en la parte superior derecha. Debajo de las imágenes se indican tres secciones en las que la izquierda está marcada como &quot;Azúcar, guion, columna vertebral de fosfato&quot;, la del medio como &quot;Bases&quot; y la de la derecha como &quot;Azúcar, guion, columna vertebral de fosfato&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_DNA2.jpg"/>
+</media>
+<caption>Las geometrías de las moléculas de las bases forman un enlace de hidrógeno máximo entre la adenina y la timina (AT) y entre la guanina y la citosina (GC), los llamados "pares de bases complementarias".</caption>
+</figure>
+<para id="fs-idp108968272">El efecto acumulativo de millones de enlaces de hidrógeno mantiene unidas las dos cadenas de ADN. Es importante destacar que las dos cadenas de ADN pueden "desprenderse" con relativa facilidad por el centro, ya que los enlaces de hidrógeno son relativamente débiles en comparación con los enlaces covalentes que mantienen unidos los átomos de las moléculas individuales de ADN. Esto permite que ambas hebras funcionen como una plantilla para la replicación.</para>
+</note>
+</section>
+<section id="fs-idm78986320" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp42400528">Las propiedades físicas de la materia condensada (líquidos y sólidos) pueden explicarse en términos de la teoría cinética molecular. En un líquido, las fuerzas de atracción intermoleculares mantienen a las moléculas en contacto, aunque siguen teniendo suficiente KE para moverse entre ellas.</para>
+<para id="fs-idp113514832">Las fuerzas de atracción intermoleculares, denominadas colectivamente fuerzas de van der Waals, son responsables del comportamiento de los líquidos y los sólidos y son de naturaleza electrostática. Las atracciones dipolo-dipolo resultan de la atracción electrostática del extremo parcial negativo de una molécula polar por el extremo parcial positivo de otra. El dipolo temporal que resulta del movimiento de los electrones de un átomo puede inducir un dipolo en un átomo adyacente y dar lugar a la fuerza de dispersión de London. Las fuerzas de London aumentan con el incremento del tamaño molecular. Los enlaces de hidrógeno son un tipo especial de atracción dipolo-dipolo que se produce cuando el hidrógeno se une a uno de los tres elementos más electronegativos: F, O o N.</para></section>
+<section id="fs-idp29893056" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idp113763312">
+<problem id="fs-idp26515120">
+<para id="fs-idm51965232">¿En qué se diferencian los líquidos y los sólidos en cuanto a sus propiedades de volumen? ¿En qué se parecen?</para>
+</problem>
+<solution id="fs-idp28518832">
+<para id="fs-idp139010576">Los líquidos y los sólidos se parecen en que son materia compuesta por átomos, iones o moléculas. Son incompresibles y tienen densidades similares, ambas mucho mayores que las de los gases. Se diferencian en que los líquidos no tienen forma fija y los sólidos son rígidos.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp56789136">
+<problem id="fs-idm24701936">
+<para id="fs-idp57923840">Desde el punto de vista de la teoría cinética molecular, ¿en qué se parecen los líquidos a los sólidos? ¿En qué se diferencian los líquidos de los sólidos?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm25346224">
+<problem id="fs-idp29743712">
+<para id="fs-idm23990224">Desde el punto de vista de la teoría cinética molecular, ¿en qué se parecen los líquidos a los gases? ¿En qué se diferencian los líquidos de los gases?</para>
+</problem>
+<solution id="fs-idm71693776">
+<para id="fs-idm7102688">Se parecen en que los átomos o moléculas son libres de moverse de una posición a otra. Se diferencian en que las partículas de un líquido están confinadas a la forma del recipiente en el que se encuentran. Por el contrario, un gas se expandirá sin límite para llenar el espacio en el que se coloca.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp137732064">
+<problem id="fs-idm69470800">
+<para id="fs-idp31602624">Explica por qué los líquidos adoptan la forma de cualquier recipiente en el que se vierten, mientras que los sólidos son rígidos y conservan su forma.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm121006064">
+<problem id="fs-idp56804208">
+<para id="fs-idm81119408">¿Cuál es la prueba de que todos los átomos y moléculas neutros ejercen fuerzas de atracción entre sí?</para>
+</problem>
+<solution id="fs-idm46614256">
+<para id="fs-idp29862000">Todos los átomos y moléculas se condensarán en un líquido o sólido en el que las fuerzas de atracción superen la energía cinética de las moléculas, a una temperatura suficientemente baja.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm78391360">
+<problem id="fs-idm25533008">
+<para id="fs-idm43475520">Abra la <link url="http://openstax.org/l/16phetvisual">simulación de los estados de la materia de PhET</link> para responder a las siguientes preguntas:</para>
+<para id="fs-idp109107952">(a) Seleccione la pestaña Sólido, Líquido o Gas. Explore seleccionando diferentes sustancias, calentando y enfriando los sistemas, y cambiando el estado. ¿Qué similitudes observa entre las cuatro sustancias de cada fase (sólido, líquido, gas)? ¿Qué diferencias nota?</para>
+<para id="fs-idm85993136">(b) En cada sustancia, seleccione cada uno de los estados y registre las temperaturas dadas. ¿Cómo se correlacionan las temperaturas dadas para cada estado con las fuerzas de sus atracciones intermoleculares? Explique.</para>
+<para id="fs-idm21107584">(c) Seleccione la pestaña de Potencial de Interacción, y utilice los átomos de neón por defecto. Mueve el átomo de Ne a la derecha y observe cómo cambia la energía potencial. Seleccione el botón de Fuerza Total, y mueva el átomo de Ne como antes. ¿Cuándo la fuerza total sobre cada átomo es atractiva y lo suficientemente grande como para importar? A continuación, seleccione el botón Fuerzas de los componentes y mueva el átomo de Ne. ¿Cuándo se equilibran las fuerzas de atracción (Van der Waals) y de repulsión (solapamiento de electrones)? ¿Cómo se relaciona esto con el gráfico de energía potencial frente a la distancia entre átomos? Explique.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm20127408">
+<problem id="fs-idp85934960">
+<para id="fs-idm25029376">Defina lo siguiente y dé un ejemplo de cada uno:</para>
+<para id="fs-idm100134528">(a) fuerza de dispersión</para>
+<para id="fs-idm21005296">b) atracción dipolo-dipolo</para>
+<para id="fs-idp63702416">(c) enlace de hidrógeno</para>
+</problem>
+<solution id="fs-idp11683248">
+<para id="fs-idp21304816">(a) Las fuerzas de dispersión se producen cuando un átomo desarrolla un momento dipolar temporal en el momento en que sus electrones se distribuyen asimétricamente alrededor del núcleo. Esta estructura es más frecuente en átomos grandes como el argón o el radón. Un segundo átomo puede entonces distorsionarse por la aparición del dipolo en el primer átomo. Los electrones del segundo átomo son atraídos hacia el extremo positivo del primer átomo, lo que establece un dipolo en el segundo átomo. El resultado neto son dipolos temporales que fluctúan rápidamente y que se atraen entre sí (por ejemplo, el Ar). (b) Una atracción dipolo-dipolo es una fuerza que resulta de una atracción electrostática del extremo positivo de una molécula polar por el extremo negativo de otra molécula polar (por ejemplo, las moléculas de ICI se atraen entre sí por interacción dipolo-dipolo). (c) Los enlaces de hidrógeno se forman siempre que un átomo de hidrógeno se une a uno de los átomos más electronegativos, como un átomo de flúor, oxígeno o nitrógeno. La atracción electrostática entre el átomo de hidrógeno parcialmente positivo de una molécula y el átomo parcialmente negativo de otra molécula da lugar a una fuerte interacción dipolo-dipolo denominada enlace de hidrógeno (por ejemplo, <m:math><m:mrow><m:mtext>HF</m:mtext><m:mtext>⋯</m:mtext><m:mtext>HF</m:mtext><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-idm102175568">
+<problem id="fs-idm25514736">
+<para id="fs-idp49852720">Los tipos de fuerzas intermoleculares en una sustancia son idénticos tanto si se trata de un sólido como de un líquido o un gas. ¿Por qué entonces una sustancia cambia de fase de gas a líquido o a sólido?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp44839120">
+<problem id="fs-idm47881840">
+<para id="fs-idm22512640">¿Por qué los puntos de ebullición de los gases nobles aumentan en el orden He &lt; Ne &lt; Ar &lt; Kr &lt; Xe?</para>
+</problem>
+<solution id="fs-idp30382960">
+<para id="fs-idm25298384">Las fuerzas de London suelen aumentar a medida que aumenta el número de electrones.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm75414800">
+<problem id="fs-idm100090192">
+<para id="fs-idp51988048">El neón y el HF tienen aproximadamente las mismas masas moleculares.</para>
+<para id="fs-idp121594368">(a) Explique por qué los puntos de ebullición del Neón y del HF son diferentes.</para>
+<para id="fs-idm66649536">(b) Compare el cambio en los puntos de ebullición de Ne, Ar, Kr y Xe con el cambio de los puntos de ebullición de HF, HCl, HBr y HI, y explique la diferencia entre los cambios con el aumento de la masa atómica o molecular.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm50276560">
+<problem id="fs-idp50859072">
+<para id="fs-idp26157888">Ordene cada uno de los siguientes conjuntos de compuestos en orden de aumento de la temperatura del punto de ebullición:</para>
+<para id="fs-idm20036768">(a) HCl, H<sub>2</sub>O, SiH<sub>4</sub></para>
+<para id="fs-idp48439216">(b) F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub></para>
+<para id="fs-idp120551472">(c) CH<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, C<sub>3</sub>H<sub>8</sub></para>
+<para id="fs-idp129330880">(d) O<sub>2</sub>, NO, N<sub>2</sub></para>
+</problem>
+<solution id="fs-idm21900608">
+<para id="fs-idm37393520">(a) SiH<sub>4</sub> &lt; HCl &lt; H<sub>2</sub>O; (b) F<sub>2</sub> &lt; Cl<sub>2</sub> &lt; Br<sub>2</sub>; (c) CH<sub>4</sub> &lt; C<sub>2</sub>H<sub>6</sub> &lt; C<sub>3</sub>H<sub>8</sub>; (d) N<sub>2</sub> &lt; O<sub>2</sub> &lt; NO</para>
+</solution>
+</exercise>
+<exercise id="fs-idp70845808">
+<problem id="fs-idm12315280">
+<para id="fs-idm79746160">La masa molecular del butanol, C<sub>4</sub>H<sub>9</sub>OH, es de 74,14; la del etilenglicol, CH<sub>2</sub>(OH)CH<sub>2</sub>OH, es de 62,08, pero sus puntos de ebullición son de 117,2 °C y 174 °C, respectivamente. Explique el motivo de la diferencia.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp19547744">
+<problem id="fs-idp126486864">
+<para id="fs-idp109056416">Con base en las atracciones intermoleculares, explique las diferencias en los puntos de ebullición <emphasis effect="italics">del n-butano</emphasis>(-1 °C) y del cloroetano (12 °C), que tienen masas molares similares.</para>
+</problem>
+<solution id="fs-idp15727248">
+<para id="fs-idp4184176">Solo se dispone de interacciones dipolo-dipolo bastante pequeñas de los enlaces C-H para mantener el <emphasis effect="italics">n-butano</emphasis> en estado líquido. El cloroetano, sin embargo, tiene interacciones dipolares bastante grandes debido al enlace Cl-C; la interacción, por tanto, es más fuerte, lo que conduce a un punto de ebullición más alto.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp59807680">
+<problem id="fs-idp57832128">
+<para id="fs-idp35994128">Con base en los momentos dipolares o en los enlaces de hidrógeno, explique de forma cualitativa las diferencias en los puntos de ebullición de la acetona (56,2 °C) y del 1-propanol (97,4 °C), que tienen masas molares similares.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp12526608">
+<problem id="fs-idm49462672">
+<para id="fs-idp127159520">El punto de fusión del H<sub>2</sub>O(<emphasis effect="italics">s</emphasis>) es 0 °C. ¿Esperaría que el punto de fusión del H<sub>2</sub>S(<emphasis effect="italics">s</emphasis>) fuera -85 °C, 0 °C o 185 °C? Explique su respuesta.</para>
+</problem>
+<solution id="fs-idp21983008">
+<para id="fs-idm51916288">−85 °C. El agua tiene enlaces de hidrógeno más fuertes, por lo que se funde a una temperatura más alta.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp11327328">
+<problem id="fs-idm24212288">
+<para id="fs-idp57555904">El silano (SiH<sub>4</sub>), la fosfina (PH<sub>3</sub>) y el sulfuro de hidrógeno (H<sub>2</sub>S) se funden a -185 °C, -133 °C y −85 °C, respectivamente. ¿Qué sugiere esto sobre el carácter polar y las atracciones intermoleculares de los tres compuestos?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm54846080">
+<problem id="fs-idp21978720">
+<para id="fs-idm54619600">Explique por qué un enlace de hidrógeno entre dos moléculas de agua es más débil que un enlace de hidrógeno entre dos moléculas de fluoruro de hidrógeno.</para>
+</problem>
+<solution id="fs-idm97670080">
+<para id="fs-idm97717504">El enlace de hidrógeno entre dos moléculas de fluoruro de hidrógeno es más fuerte que el de dos moléculas de agua porque la electronegatividad del F es mayor que la del O. En consecuencia, la carga parcial negativa del F es mayor que la del O. El enlace de hidrógeno entre el H parcialmente positivo y el F parcialmente negativo más grande será más fuerte que el que se forma entre el H y el O.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm24391648"><problem id="fs-idm24643008">
+<para id="fs-idp136021104">En determinadas condiciones, las moléculas de ácido acético, CH<sub>3</sub>COOH, forman "dímeros", pares de moléculas de ácido acético que se mantienen unidas por fuertes atracciones intermoleculares:</para>
+<media id="fs-idp16845232" class="scaled-down-30" alt="Una estructura de Lewis muestra un átomo de carbono con enlace simple a tres átomos de hidrógeno y otro átomo de carbono, que a su vez tiene un doble enlace con un átomo de oxígeno y un enlace simple con otro átomo de oxígeno que tiene un enlace simple con un átomo de hidrógeno. Las líneas de puntos conectan los átomos terminales de oxígeno e hidrógeno con una estructura de Lewis recíproca a la derecha, con rotación de 180 grados. Cada línea de puntos está marcada como &quot;enlace de hidrógeno&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_AceticAcid_img.jpg"/>
+</media>
+<para id="fs-idm44711088">Dibuje un dímero de ácido acético, mostrando cómo se mantienen unidas dos moléculas de CH<sub>3</sub>COOH, e indicando el tipo de IMF responsable.</para>
+</problem>
+</exercise><exercise id="fs-idp57460448"><problem id="fs-idm59215888">
+<para id="fs-idm50037824">Las proteínas son cadenas de aminoácidos que pueden formarse en diversas disposiciones, una de las cuales es la hélice. ¿Qué tipo de IMF es responsable de mantener la hebra de proteína en esta forma? En la imagen de la proteína, muestre las ubicaciones de las IMF que mantienen la proteína unida:</para>
+<media id="fs-idp27423728" class="scaled-down-30" alt="Se muestran dos vueltas de una estructura helicoidal en horizontal. Tres estructuras de Lewis se superponen a la hélice. La primera muestra guiones apilados horizontalmente junto a un átomo de oxígeno, con tres puntos que conectan con un átomo de hidrógeno, y un único guion que conecta el átomo de hidrógeno con un átomo de nitrógeno. El segundo muestra un átomo de carbono con doble enlace a un átomo de oxígeno, y luego tres puntos que conectan con un átomo de hidrógeno enlazado a un átomo de nitrógeno. La tercera muestra un átomo de carbono que tiene doble enlace con un átomo de oxígeno con tres puntos que se extienden a la derecha del átomo de oxígeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_10_01_Aminacidch_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-idp31448880">
+<para id="fs-idp49715040">El enlace H es el principio de las IMF que mantiene unidas las hebras de las proteínas. El enlace H es entre el <m:math><m:mrow><m:mtext>N</m:mtext><m:mo>-</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> y <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext><m:mo>.</m:mo></m:mrow></m:math></para></solution>
+</exercise><exercise id="fs-idp83473328">
+<problem id="fs-idp129267136">
+<para id="fs-idp1692320">La densidad del NH<sub>3</sub> líquido es de 0,64 g/mL; la densidad del NH<sub>3</sub> gaseoso a condiciones estándar de temperatura y presión (STP) es de 0,0007 g/mL. Explique la diferencia entre las densidades de estas dos fases.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp18248944">
+<problem id="fs-idm49251200">
+<para id="fs-idm20889568">Identifique las fuerzas intermoleculares presentes en los siguientes sólidos:</para>
+<para id="fs-idp135291680">(a) CH<sub>3</sub>CH<sub>2</sub>OH</para>
+<para id="fs-idm50855840">(b) CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub></para>
+<para id="fs-idm37174096">(c) CH<sub>3</sub>CH<sub>2</sub>Cl</para>
+</problem>
+<solution id="fs-idp1597760">
+<para id="fs-idm63875504">(a) enlaces de hidrógeno, atracción dipolo-dipolo y fuerzas de dispersión; (b) fuerzas de dispersión; (c) fuerzas de atracción y dispersión dipolo-dipolo.</para></solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp127496336">
+<term>atracción dipolo-dipolo</term>
+<meaning id="fs-idm18049984">atracción intermolecular entre dos dipolos permanentes.</meaning>
+</definition>
+<definition id="fs-idm16566240">
+<term>fuerza de dispersión</term>
+<meaning id="fs-idm58382832">(también, fuerza de dispersión de London) atracción entre dos dipolos temporales que fluctúan rápidamente; solo es significativa cuando las partículas están muy próximas.</meaning>
+</definition>
+<definition id="fs-idp18243872">
+<term>enlace de hidrógeno</term>
+<meaning id="fs-idm24342960">se produce cuando los dipolos excepcionalmente fuertes se atraen; unión que existe cuando el hidrógeno se une a uno de los tres elementos más electronegativos: F, O o N</meaning>
+</definition>
+<definition id="fs-idm31438528">
+<term>dipolo inducido</term>
+<meaning id="fs-idm98054496">dipolo temporal que se forma cuando los electrones de un átomo o molécula son distorsionados por el dipolo instantáneo de un átomo o molécula vecino.</meaning>
+</definition>
+<definition id="fs-idp127211536">
+<term>dipolo instantáneo</term>
+<meaning id="fs-idm23826208">dipolo temporal que se produce durante un breve momento en el tiempo cuando los electrones de un átomo o molécula se distribuyen asimétricamente.</meaning>
+</definition>
+<definition id="fs-idm66585952">
+<term>fuerza intermolecular</term>
+<meaning id="fs-idp135842976">fuerza de atracción no covalente entre átomos, moléculas o iones.</meaning>
+</definition>
+<definition id="fs-idp128571888">
+<term>polarizabilidad</term>
+<meaning id="fs-idm53459296">medida de la capacidad de una carga para distorsionar la distribución de carga de una molécula (nube de electrones).</meaning>
+</definition>
+<definition id="fs-idm134093104">
+<term>fuerza de van der Waals</term>
+<meaning id="fs-idm67077760">fuerza de atracción o repulsión entre moléculas, incluidas las fuerzas dipolo-dipolo, dipolo inducido y de dispersión de London; no incluye las fuerzas debidas al enlace covalente o iónico, ni la atracción entre iones y moléculas.</meaning>
+</definition>
+</glossary>
+</document>

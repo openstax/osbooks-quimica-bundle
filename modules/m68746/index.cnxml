@@ -1,0 +1,162 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Enlaces múltiples</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68746</md:content-id>
+  <md:title>Enlaces múltiples</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list><item>Describir el enlace covalente múltiple en términos de superposición de orbitales atómicos.</item>
+<item>Relacionar el concepto de resonancia con el enlace π y la deslocalización de electrones.</item></list></md:abstract>
+  <md:uuid>51189d7f-2047-4987-aa94-7b8edd91e13d</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp109649680">El modelo de orbitales híbridos parece explicar la geometría de las moléculas con enlaces covalentes simples. ¿Es capaz también de describir moléculas que contienen dobles y triples enlaces? Ya comentamos que los enlaces múltiples están formados por enlaces σ y π. A continuación consideraremos cómo visualizar estos componentes y cómo se relacionan con los orbitales híbridos. La estructura de Lewis del eteno, C<sub>2</sub>H<sub>4</sub>, nos muestra que cada átomo de carbono está rodeado por otro átomo de carbono y dos átomos de hidrógeno.</para>
+<media id="fs-idp35800208" class="scaled-down" alt="Se muestra una estructura de Lewis en la que dos átomos de carbono están unidos por un doble enlace. Cada átomo de carbono está unido a dos átomos de hidrógeno por un enlace simple.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_C4H4Lewis_img.jpg"/>
+</media>
+<para id="fs-idp40201472">Las tres regiones de enlace forman una geometría trigonal plana de pares de electrones. Así, esperamos que los enlaces σ de cada átomo de carbono se formen utilizando un conjunto de orbitales híbridos <emphasis effect="italics">sp</emphasis><sup>2</sup> que resultan de la hibridación de dos de los orbitales 2<emphasis effect="italics">p</emphasis> y el orbital 2<emphasis effect="italics">s</emphasis> (<link target-id="CNX_Chem_08_03_sp3config"/>). Estos orbitales forman los enlaces simples C-H y el enlace σ en el <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> doble enlace (<link target-id="CNX_Chem_08_03_C2H4orbit"/>)<emphasis effect="italics">.</emphasis> El enlace π en el doble enlace <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> resulta de la superposición del tercer orbital 2<emphasis effect="italics">p</emphasis> (restante) en cada átomo de carbono que no participa en la hibridación. Este orbital <emphasis effect="italics">p</emphasis> no hibridado (lóbulos en rojo y azul en la <link target-id="CNX_Chem_08_03_C2H4orbit"/>) es perpendicular al plano de los orbitales híbridos <emphasis effect="italics">sp</emphasis><sup>2</sup>. Así, los orbitales 2<emphasis effect="italics">p</emphasis> no hibridados se superponen de forma lateral, por encima y por debajo del eje internuclear (<link target-id="CNX_Chem_08_03_C2H4orbit"/>) y forman un enlace π<emphasis effect="italics">.</emphasis></para><figure id="CNX_Chem_08_03_sp3config" class="scaled-down">
+<media id="fs-idp21744512" alt="Se muestra un diagrama en dos partes, conectadas por una flecha hacia la derecha marcada como &quot;Hibridación&quot;. El diagrama de la izquierda muestra una flecha hacia arriba marcada como &quot;E&quot;. En la parte inferior derecha de la flecha hay una línea corta y horizontal marcada como &quot;2 s&quot;, que tiene dos medias flechas verticales orientadas hacia arriba y hacia abajo. En la parte superior derecha de la flecha hay una serie de tres líneas horizontales cortas marcadas como &quot;2 p&quot;. Sobre ambos conjuntos de líneas aparece la frase &quot;Orbitales en un átomo de C aislado&quot;. Dos de las líneas tienen dibujadas flechas verticales hacia arriba. El lado derecho del diagrama muestra tres líneas cortas y horizontales colocadas a mitad del espacio y cada una marcada como &quot;s p superíndice 2&quot;. En cada línea se dibuja verticalmente una media flecha hacia arriba. Encima de estas líneas hay otra línea corta y horizontal, marcada como &quot;p&quot;. Encima de ambos conjuntos de líneas aparece la frase: &quot;Orbitales en el átomo de C hibridado s p superíndice 2 en C subíndice 2 H subíndice 4&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_sp3config.jpg"/>
+</media>
+<caption>En el eteno, cada átomo de carbono está hibridado <emphasis effect="italics">sp</emphasis><sup>2</sup>, y los orbitales <emphasis effect="italics">sp</emphasis><sup>2</sup> y el orbital <emphasis effect="italics">p</emphasis> están ocupados individualmente. Los orbitales híbridos se superponen para formar enlaces σ, mientras que los orbitales <emphasis effect="italics">p</emphasis> de cada átomo de carbono se superponen para formar un enlace π.</caption>
+</figure>
+<figure id="CNX_Chem_08_03_C2H4orbit" class="scaled-down"><media id="fs-idp201403520" alt="Se muestran dos diagramas marcados como &quot;a&quot; y &quot;b&quot;. El diagrama a muestra dos átomos de carbono con tres orbitales púrpura en forma de globo dispuestos en un plano alrededor de ellos y dos orbitales rojos en forma de globo dispuestos vertical y perpendicularmente al plano. Hay una superposición de dos de los orbitales púrpura entre los dos átomos de carbono, y los otros cuatro orbitales púrpura que miran hacia el exterior de la molécula se muestran interactuando con orbitales azules esféricos de cuatro átomos de hidrógeno. El diagrama b representa una imagen similar al diagrama a, pero los orbitales rojos y verticales están interactuando por encima y por debajo del plano de la molécula para formar dos áreas marcadas como &quot;Un enlace pi&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_C2H4orbit.jpg"/>
+</media>
+
+<caption>En la molécula de eteno, C<sub>2</sub>H<sub>4,</sub> hay (a) cinco enlaces σ. Un enlace C-C σ resulta de la superposición de orbitales híbridos <emphasis effect="italics">sp</emphasis><sup>2</sup> en el átomo de carbono con un orbital híbrido <emphasis effect="italics">sp</emphasis><sup>2</sup> en el otro átomo de carbono. Cuatro enlaces C-H resultan de la superposición entre los orbitales <emphasis effect="italics">sp</emphasis><sup>2</sup> de los átomos de C con los orbitales <emphasis effect="italics">s</emphasis> de los átomos de hidrógeno. (b) El enlace π se forma por la superposición lado a lado de los dos orbitales <emphasis effect="italics">p</emphasis> no hibridados en los dos átomos de carbono. Los dos lóbulos del enlace π están por encima y por debajo del plano del sistema σ.</caption></figure><para id="fs-idp52367024">En una molécula de eteno, los cuatro átomos de hidrógeno y los dos átomos de carbono están todos en el mismo plano. Si los dos planos de los orbitales híbridos <emphasis effect="italics">sp</emphasis><sup>2</sup> estuvieran inclinados uno respecto al otro, los orbitales <emphasis effect="italics">p</emphasis> no estarían orientados para superponerse eficazmente y crear el enlace π. La configuración planar de la molécula de eteno se produce porque es la disposición de enlace más estable. Esta es una diferencia significativa entre los enlaces σ y π; la rotación alrededor de los enlaces simples (σ) se produce fácilmente porque la superposición orbital de extremo a extremo no depende de la orientación relativa de los orbitales de cada átomo del enlace. En otras palabras, la rotación alrededor del eje internuclear no cambia el grado de superposición de los orbitales de enlace σ porque la densidad de electrones de enlace es simétrica respecto al eje. La rotación alrededor del eje internuclear es mucho más difícil para los enlaces múltiples; sin embargo, esto alteraría drásticamente la superposición fuera del eje de los orbitales de enlace π, rompiendo esencialmente el enlace π.</para>
+<para id="fs-idp40636368">En las moléculas con orbitales híbridos <emphasis effect="italics">sp</emphasis>, quedan dos orbitales <emphasis effect="italics">p</emphasis> no hibridados en el átomo (<link target-id="CNX_Chem_08_03_spC"/>). Esta situación la encontramos en el acetileno, <m:math><m:mrow><m:mtext>H-C≡C-H</m:mtext><m:mo>,</m:mo></m:mrow></m:math> que es una molécula lineal. Los orbitales híbridos <emphasis effect="italics">sp</emphasis> de los dos átomos de carbono se superponen de extremo a extremo para formar un enlace σ entre los átomos de carbono (<link target-id="CNX_Chem_08_03_C2H2"/>). Los orbitales <emphasis effect="italics">sp</emphasis> restantes forman enlaces σ con átomos de hidrógeno. Los dos orbitales <emphasis effect="italics">p</emphasis> no hibridados por carbono están colocados de tal manera que se superponen uno al lado del otro y, por tanto, forman dos enlaces π. Así, los dos átomos de carbono del acetileno están unidos por un enlace σ y dos enlaces π, dando lugar a un triple enlace.</para><figure id="CNX_Chem_08_03_spC" class="scaled-down">
+<media id="fs-idp46978352" alt="Se muestra un diagrama de un átomo de carbono con dos orbitales púrpura en forma de globo marcados como &quot;sp&quot; dispuestos de forma lineal a su alrededor. Cuatro orbitales rojos en forma de globo están alineados en pares en los ejes y y z alrededor del carbono y están marcados como &quot;orbital p no hibridado&quot; y &quot;segundo orbital p no hibridado&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_spC.jpg"/>
+</media>
+<caption>Diagrama de los dos orbitales híbridos <emphasis effect="italics">sp</emphasis> lineales de un átomo de carbono, que se encuentran en línea recta, y los dos orbitales <emphasis effect="italics">p</emphasis> no hibridados en ángulos perpendiculares.</caption>
+</figure>
+<figure id="CNX_Chem_08_03_C2H2" class="scaled-down">
+<media id="fs-idp112665792" alt="Se muestran dos diagramas marcados, &quot;a&quot; y &quot;b&quot;. El diagrama a muestra dos átomos de carbono con dos orbitales tipo globo de color púrpura dispuestos en un plano alrededor de cada uno de ellos, y cuatro orbitales tipo globo de color rojo dispuestos a lo largo de los ejes y y z perpendiculares al plano de la molécula. Hay una superposición de dos de los orbitales púrpura entre los dos átomos de carbono. Los otros dos orbitales púrpuras que miran hacia el exterior de la molécula se muestran interactuando con los orbitales azules esféricos de dos átomos de hidrógeno. El diagrama b representa una imagen similar a la del diagrama a, pero los orbitales rojos y verticales están interactuando por encima y por debajo y por delante y por detrás del plano de la molécula para formar dos áreas marcadas como &quot;Un enlace pi&quot; y &quot;Segundo enlace pi&quot;, respectivamente.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_C2H2.jpg"/>
+</media>
+<caption>(a) En la molécula de acetileno, C<sub>2</sub>H<sub>2,</sub> hay dos enlaces C-H σ y un triple enlace <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> que implica un enlace C-C σ y dos enlaces C-C π. Las líneas discontinuas, cada una de las cuales conecta dos lóbulos, indican la superposición lado a lado de los cuatro orbitales <emphasis effect="italics">p</emphasis> no hibridados. (b) Esto muestra el esquema general de los enlaces en el C<sub>2</sub>H<sub>2</sub>. Los dos lóbulos de cada uno de los enlaces π se sitúan uno frente al otro alrededor de la línea del enlace C-C σ.</caption>
+</figure>
+<para id="fs-idp135325968">En la hibridación solo intervienen los enlaces σ, los pares de electrones solitarios y los electrones simples no apareados (radicales). Las estructuras exhiben estas características describen la correcta hibridación de los átomos. Sin embargo, muchas estructuras también incluyen formas de resonancia. Recuerde que las formas de resonancia se producen cuando son posibles varias disposiciones de los enlaces π. Dado que la disposición de los enlaces π implica solo los orbitales no hibridados, la resonancia no influye en la asignación de la hibridación.</para>
+<para id="fs-idp155207440">Por ejemplo, la molécula de benceno tiene dos formas de resonancia (<link target-id="CNX_Chem_08_03_C6H6"/>). Podemos utilizar cualquiera de estas formas para determinar que cada uno de los átomos de carbono está unido a otros tres átomos sin pares solitarios, por lo que la hibridación correcta es <emphasis effect="italics">sp</emphasis><sup>2</sup>. Los electrones de los orbitales <emphasis effect="italics">p</emphasis> no hibridados forman enlaces π. Ninguna de las dos estructuras de resonancia describe completamente los electrones de los enlaces π. No están localizados en una posición u otra, sino que en realidad están deslocalizados por todo el anillo. La teoría de enlace de valencia no aborda fácilmente la deslocalización. El enlace en las moléculas con formas de resonancia se describe mejor mediante la teoría de los orbitales moleculares. (Véase el siguiente módulo).</para>
+<figure id="CNX_Chem_08_03_C6H6" class="scaled-down">
+<media id="fs-idp4433648" alt="Se muestra un diagrama formado por dos estructuras de Lewis conectadas por una flecha de doble punta. La imagen de la izquierda muestra seis átomos de carbono unidos con enlaces dobles y simples alternativamente para formar un anillo de seis lados. Cada carbono también está unido con un enlace simple a un átomo de hidrógeno. La imagen de la derecha muestra la misma estructura, pero los enlaces dobles y simples entre los átomos de carbono cambiaron de posición.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_C6H6.jpg"/>
+</media>
+<caption>Cada átomo de carbono del benceno, C<sub>6</sub>H<sub>6</sub>, está hibridado <emphasis effect="italics">sp</emphasis><sup>2</sup>, independientemente de la forma de resonancia que se considere. Los electrones de los enlaces π no están localizados en un conjunto de orbitales <emphasis effect="italics">p</emphasis> o en otro, sino deslocalizados en toda la molécula.</caption>
+</figure>
+<example id="fs-idp109093216">
+<para id="fs-idm123905056"><title>Asignación de la hibridación que implica la resonancia</title>
+Algunas lluvias ácidas son el resultado de la reacción del dióxido de azufre con el vapor de agua atmosférico, seguida de la formación de ácido sulfúrico. El dióxido de azufre, SO<sub>2</sub>, es un componente principal de los gases volcánicos, así como un producto de la combustión del carbón que contiene azufre. ¿Cuál es la hibridación del átomo de S en el SO<sub>2</sub>?</para>
+<para id="fs-idm9390272"><title>Solución</title>
+Las estructuras de resonancia del SO<sub>2</sub> son</para>
+<media id="fs-idp71841872" class="scaled-down" alt="Se muestran dos estructuras de Lewis conectadas por una flecha de doble punta. La estructura de la izquierda muestra un átomo de azufre con un par solitario de electrones y signo positivo que está unido con enlace simple por un lado a un átomo de oxígeno con tres pares solitarios de electrones y signo negativo. El átomo de azufre tiene un doble enlace por el otro lado con otro átomo de oxígeno con dos pares solitarios de electrones. La estructura de la derecha es la misma que la de la izquierda, salvo que se ha cambiado la posición del átomo de oxígeno de doble enlace. En ambas estructuras los átomos de oxígeno unidos forman un ángulo agudo con respecto al átomo de azufre.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_SO2_img.jpg"/>
+</media>
+<para id="fs-idp103363168">El átomo de azufre está rodeado por dos enlaces y un par solitario de electrones en cualquier estructura de resonancia. Por lo tanto, la geometría del par de electrones es trigonal plana, y la hibridación del átomo de azufre es <emphasis effect="italics">sp</emphasis><sup>2</sup>.</para>
+<para id="fs-idp41312960"><title>Compruebe lo aprendido</title>
+Otro ácido de la lluvia ácida es el ácido nítrico, HNO<sub>3</sub>, que se produce por la reacción del dióxido de nitrógeno, NO<sub>2</sub>, con el vapor de agua atmosférico. ¿Cuál es la hibridación del átomo de nitrógeno en el NO<sub>2</sub>? (Nota: el electrón solitario del nitrógeno ocupa un orbital hibridado como lo haría un par solitario).</para>
+<note id="fs-idm1257648">
+<title>Respuesta:</title>
+<para id="fs-idp224648848"><emphasis effect="italics">sp</emphasis><sup>2</sup></para>
+</note>
+</example>
+<section id="fs-idp38327968" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp78398192">Los enlaces múltiples consisten en un enlace σ situado a lo largo del eje entre dos átomos y uno o dos enlaces π. Los enlaces σ suelen formarse por la superposición de orbitales atómicos hibridados, mientras que los enlaces π se forman por la superposición lateral de orbitales no hibridados. La resonancia se produce cuando hay múltiples orbitales no hibridados con la alineación adecuada para superponerse, por lo que la colocación de los enlaces π puede variar.</para>
+</section>
+<section id="fs-idp19779216" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idp80061792">
+<problem id="fs-idm17509584">
+<para id="fs-idp46472192">La energía de enlace de un enlace simple C-C tiene una media de 347 kJ mol<sup>−1</sup>; la de un triple enlace <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> tiene una media de 839 kJ mol<sup>−1</sup>. Explique por qué el triple enlace no es tres veces más fuerte que un enlace simple.</para>
+</problem>
+<solution id="fs-idp249598544">
+<para id="fs-idp112782976">Un triple enlace está formado por un enlace σ y dos enlaces π. Un enlace σ es más fuerte que un enlace π debido a una mayor superposición.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp200563984">
+<problem id="fs-idp112429456">
+<para id="fs-idp44411520">En el ion carbonato, <m:math><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mn>2−</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> dibuje todas las estructuras de resonancia. Identifique qué orbitales se superponen para crear cada enlace.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp37364832">
+<problem id="fs-idp47614000">
+<para id="fs-idp48359904">Un disolvente útil que disuelve tanto las sales como los compuestos orgánicos es el compuesto acetonitrilo, H<sub>3</sub>CCN. Está presente en los decapantes de pintura.</para>
+<para id="fs-idp75120144">(a) Escriba la estructura de Lewis para el acetonitrilo, e indique la dirección del momento dipolar en la molécula.</para>
+<para id="fs-idp146009072">(b) Identifique los orbitales híbridos utilizados por los átomos de carbono de la molécula para formar enlaces σ.</para>
+<para id="fs-idp146093984">(c) Describa los orbitales atómicos que forman los enlaces π en la molécula. Note que no es necesario hibridar el átomo de nitrógeno.</para>
+</problem>
+<solution id="fs-idp146234848">
+<para id="fs-idp100065568">(a)<newline/>
+<media id="fs-idp73575216" alt="Se muestra una estructura de Lewis en la que un átomo de carbono está unido por enlaces simples a tres átomos de hidrógeno. También está unido por un enlace simple a un átomo de carbono que tiene un triple enlace con un átomo de nitrógeno con un par solitario de electrones. Debajo de la estructura hay una flecha orientada hacia la derecha con su cabeza cerca del nitrógeno y su cola, que parece un signo de suma, situada cerca de los átomos de carbono. La flecha está marcada como &quot;momento dipolar&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_Acetonitri_img.jpg"/>
+</media><newline/> (b) El átomo de carbono terminal utiliza orbitales híbridos <emphasis effect="italics">sp</emphasis><sup>3</sup>, mientras que el átomo de carbono central está hibridado <emphasis effect="italics">sp</emphasis>. (c) Cada uno de los dos enlaces π está formado por la superposición de un orbital 2<emphasis effect="italics">p</emphasis> del carbono y un orbital 2<emphasis effect="italics">p</emphasis> del nitrógeno.</para></solution>
+</exercise>
+<exercise id="fs-idm1022320">
+<problem id="fs-idp19757232">
+<para id="fs-idm15581520">Para la molécula aleno, <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>,</m:mo></m:mrow></m:math> dan la hibridación de cada átomo de carbono. ¿Los átomos de hidrógeno estarán en el mismo plano o en planos perpendiculares?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm15473712">
+<problem id="fs-idp44503888">
+<para id="fs-idp36864432">Identifique la hibridación del átomo central en cada una de las siguientes moléculas e iones que contienen enlaces múltiples:</para>
+<para id="fs-idp105038896">(a) ClNO (N es el átomo central)</para>
+<para id="fs-idp67673424">(b) CS<sub>2</sub></para>
+<para id="fs-idp113106080">(c) Cl<sub>2</sub>CO (el C es el átomo central)</para>
+<para id="fs-idp23214784">(d) Cl<sub>2</sub>SO (S es el átomo central)</para>
+<para id="fs-idm10107008">(e) SO<sub>2</sub>F<sub>2</sub> (el S es el átomo central)</para>
+<para id="fs-idp75157792">f) XeO<sub>2</sub>F<sub>2</sub> (el Xe es el átomo central)</para>
+<para id="fs-idp225274016">(g) <m:math><m:mrow><m:msub><m:mtext>ClOF</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math> (el Cl es el átomo central)</para>
+</problem>
+<solution id="fs-idp204564144">
+<para id="fs-idp37493536">(a) <emphasis effect="italics">sp</emphasis><sup>2</sup>; (b) <emphasis effect="italics">sp</emphasis>; (c) <emphasis effect="italics">sp</emphasis><sup>2</sup>; (d) <emphasis effect="italics">sp</emphasis><sup>3</sup>; (e) <emphasis effect="italics">sp</emphasis><sup>3</sup>; (f) <emphasis effect="italics">sp</emphasis><sup>3</sup><emphasis effect="italics">d</emphasis>; (g) <emphasis effect="italics">sp</emphasis><sup>3</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm16504096">
+<problem id="fs-idp145791168">
+<para id="fs-idp48603152">Describa la geometría molecular y la hibridación de los átomos de N, P o S en cada uno de los siguientes compuestos.</para>
+<para id="fs-idp224611632">(a) H<sub>3</sub>PO<sub>4</sub>, ácido fosfórico, utilizado en los refrescos de cola.</para>
+<para id="fs-idp78666752">(b) NH<sub>4</sub>NO<sub>3</sub>, nitrato de amonio, un fertilizante y explosivo.</para>
+<para id="fs-idp257337360">(c) S<sub>2</sub>Cl<sub>2</sub>, dicloruro de disulfuro, utilizado en la vulcanización del caucho.</para>
+<para id="fs-idp89217728">d) K<sub>4</sub>[O<sub>3</sub>POPO<sub>3</sub>], pirofosfato de potasio, ingrediente de algunos dentífricos.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp118104208">
+<problem id="fs-idp87965872">
+<para id="fs-idp37679152">En cada una de las siguientes moléculas, indique la hibridación solicitada y si los electrones estarán deslocalizados o no:</para>
+<para id="fs-idm9243232">(a) hibridación del ozono (O<sub>3</sub>) central.</para>
+<para id="fs-idm7121456">(b) hibridación central C del dióxido de carbono (CO<sub>2</sub>).</para>
+<para id="fs-idp46475424">(c) dióxido de nitrógeno (NO<sub>2</sub>) hibridación central del N.</para>
+<para id="fs-idp24218096">(d) ion fosfato <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>PO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mn>3−</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math> hibridación central P</para>
+</problem>
+<solution id="fs-idp86136560">
+<para id="fs-idp257551776">(a) <emphasis effect="italics">sp</emphasis><sup>2</sup>, deslocalizado; (b) <emphasis effect="italics">sp</emphasis>, localizado; (c) <emphasis effect="italics">sp</emphasis><sup>2</sup>, deslocalizado; (d) <emphasis effect="italics">sp</emphasis><sup>3</sup>, deslocalizado.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp140570640"><problem id="fs-idm3532128">
+<para id="fs-idp78053152">En cada una de las siguientes estructuras, determine la hibridación solicitada y si los electrones estarán deslocalizados:</para>
+<para id="fs-idp208621408">(a) Hibridación de cada carbono</para>
+<media id="fs-idm5983024" class="scaled-down-30" alt="Se muestra una estructura de Lewis en la que un átomo de carbono está unido con enlace simple a tres átomos de hidrógeno y a un segundo átomo de carbono. Este segundo átomo de carbono tiene a su vez un doble enlace con un átomo de oxígeno que tiene dos pares solitarios de electrones. El segundo átomo de carbono también está unido con enlace simple a otro átomo de carbono que está unido con enlace simple a tres átomos de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_HybridCarb_img.jpg"/>
+</media>
+<para id="fs-idp81536672">(b) Hibridación del azufre</para>
+<media id="fs-idm13440432" class="scaled-down-30" alt="Se muestra una estructura de Lewis en la que un átomo de azufre con dos pares solitarios de electrones y signo positivo está unido con doble enlace a un oxígeno con dos pares solitarios de electrones. El átomo de azufre también está unido con enlace simple a un oxígeno con tres pares solitarios de electrones de signo negativo. Se dibuja con forma angular.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_HybridSulf_img.jpg"/>
+</media>
+<para id="fs-idp40676640">(c) Todos los átomos</para>
+<media id="fs-idp64002112" class="scaled-down-30" alt="Se muestra una estructura de Lewis en la que una estructura de anillo hexagonal está formada por cinco átomos de carbono y un átomo de nitrógeno con un par solitario de electrones. Entre cada átomo de carbono se alternan enlaces dobles y simples. Cada átomo de carbono está unido con enlace simple a un átomo de hidrógeno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_03_HybridAll_img.jpg"/>
+</media>
+</problem>
+</exercise><exercise id="fs-idp47770992"><problem id="fs-idp34450048">
+<para id="fs-idp228409648">Dibuje el diagrama orbital del carbono en el CO<sub>2</sub> mostrando cuántos electrones del átomo de carbono hay en cada orbital.</para>
+</problem>
+<solution id="fs-idp197400320">
+<media id="fs-idp20471104" alt="Se muestra un diagrama en dos partes, conectadas por una flecha hacia la derecha marcada como &quot;Hibridación&quot;. El diagrama de la izquierda muestra una flecha hacia arriba marcada como &quot;E&quot;. En la parte inferior derecha de la flecha hay una línea corta y horizontal marcada como &quot;2 s&quot;, que tiene dos medias flechas verticales orientadas hacia arriba y hacia abajo. En la parte superior derecha de la flecha hay una serie de tres líneas horizontales cortas marcadas como &quot;2 p&quot;. Sobre ambos conjuntos de líneas aparece la frase &quot;Orbitales en un átomo de C aislado&quot;. En dos de estas líneas hay dos flechas hacia arriba. El lado derecho del diagrama muestra dos líneas horizontales cortas colocadas a mitad de camino en el espacio y cada una marcada como &quot;s p&quot;. En cada línea se dibuja verticalmente una media flecha hacia arriba. Por encima de estas líneas hay otras dos cortas y horizontales, cada una de ellas marcada como &quot;2 p&quot;, y que tienen dos flechas orientadas hacia arriba. Sobre ambos conjuntos de líneas se encuentra la frase: &quot;Orbitales en el s p hibridado C en C O subíndice 2&quot;">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_08_02_CO2Diag.jpg"/>
+</media>
+<para id="fs-idp72644016">Cada uno de los cuatro electrones está en un orbital separado y se superpone con un electrón de un átomo de oxígeno.</para></solution>
+</exercise></section>
+   </content>
+</document>

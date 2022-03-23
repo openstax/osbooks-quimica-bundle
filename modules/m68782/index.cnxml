@@ -1,0 +1,263 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Solubilidad</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68782</md:content-id>
+  <md:title>Solubilidad</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Describir los efectos de la temperatura y la presión en la solubilidad.</item>
+<item>Enunciar la ley de Henry y utilizarla en los cálculos de solubilidad de un gas en un líquido.</item>
+<item>Explicar los grados de solubilidad posibles para las soluciones líquido-líquido.</item>
+</list></md:abstract>
+  <md:uuid>92f7d520-699c-4ac6-8fc7-8f99c4aaee33</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp45815680">Imagine que añade una pequeña cantidad de azúcar a un vaso de agua, revuelve hasta que todo el azúcar se haya disuelto y luego añade un poco más. Puedes repetir este proceso hasta que la concentración de azúcar de la solución alcance su límite natural, un límite determinado principalmente por las fuerzas relativas de atracción soluto-soluto, soluto-disolvente y solvente-solvente que se estudiaron en los dos módulos anteriores de este capítulo. Puede estar seguro de que ha alcanzado este límite porque, por mucho tiempo que remueva la solución, sigue habiendo azúcar sin disolver. La concentración de azúcar en la solución en este punto se conoce como su solubilidad.</para>
+<para id="fs-idp110015984">La <term>solubilidad</term> de un soluto en un determinado solvente es la concentración máxima que puede alcanzarse en unas condiciones determinadas cuando el proceso de disolución está <emphasis effect="italics">en equilibrio</emphasis>.</para>
+<para id="fs-idp30743824">Cuando la concentración de un soluto es igual a su solubilidad, se dice que la solución está <term>saturada</term> de ese soluto. Si la concentración del soluto es inferior a su solubilidad, se dice que la solución es <term>insaturada</term>. Una solución que contiene una concentración relativamente baja de soluto se llama diluida, y una con una concentración relativamente alta se llama concentrada.</para>
+<note id="fs-idp37372608" class="chemistry link-to-learning">
+<para id="fs-idp75533376">Utilice esta <link url="http://openstax.org/l/16Phetsoluble">simulación interactiva</link> para preparar varias soluciones saturadas.</para>
+</note><para id="fs-idp69648624">Se pueden preparar soluciones en las que la concentración de un soluto <emphasis effect="italics">supere</emphasis> su solubilidad. Se dice que tales soluciones están <term>sobresaturadas</term>, y son ejemplos interesantes de estados de <emphasis effect="italics">no-equilibrio</emphasis> (un tratamiento detallado de este importante concepto se proporciona en los capítulos del texto sobre el equilibrio). Por ejemplo, la bebida carbonatada en un recipiente abierto que aún no se ha "desinflado" está sobresaturada de gas carbónico; con el tiempo, la concentración de CO<sub>2</sub> disminuirá hasta alcanzar su solubilidad.</para>
+<note id="fs-idp38905248" class="chemistry link-to-learning">
+<para id="fs-idp34793776">Vea este <link url="http://openstax.org/l/16NaAcetate">impresionante video</link> que muestra la precipitación de acetato de sodio a partir de una solución sobresaturada.</para>
+</note><section id="fs-idp106949904">
+<title>Soluciones de gases en líquidos</title>
+<para id="fs-idp65103440">Como para cualquier solución, la solubilidad de un gas en un líquido se ve afectada por las fuerzas de atracción intermoleculares entre las especies del soluto y del solvente. Sin embargo, a diferencia de los solutos sólidos y líquidos, cuando un soluto gaseoso se disuelve en un solvente líquido no hay que superar ninguna atracción intermolecular (vea la <link document="m68778" target-id="CNX_Chem_11_01_solusolv"/>) , ya que los átomos o moléculas que componen un gas están muy separados y experimentan interacciones insignificantes. En consecuencia, las interacciones soluto-disolvente son el único factor energético que afecta a la solubilidad. Por ejemplo, la solubilidad en agua del oxígeno es aproximadamente tres veces mayor que la del helio (hay mayores fuerzas de dispersión entre el agua y las moléculas de oxígeno más grandes), pero 100 veces menor que la solubilidad del clorometano, CHCl<sub>3</sub> (las moléculas polares de clorometano experimentan una atracción dipolar hacia las moléculas polares de agua). Asimismo, cabe destacar que la solubilidad del oxígeno en el hexano, C<sub>6</sub>H<sub>14</sub>, es aproximadamente 20 veces mayor que en el agua, ya que existen mayores fuerzas de dispersión entre el oxígeno y las moléculas más grandes del hexano.</para>
+<para id="fs-idp39461568">La temperatura es otro factor que afecta a la solubilidad, ya que la solubilidad del gas suele disminuir a medida que aumenta la temperatura (<link target-id="CNX_Chem_11_03_gasdissolv"/>). Esta relación inversa entre la temperatura y la concentración de gases disueltos es la responsable de uno de los mayores impactos de la contaminación térmica en las aguas naturales.</para>
+<figure id="CNX_Chem_11_03_gasdissolv" class="scaled-down">
+<media id="fs-idp17757392" alt="Este gráfico muestra las solubilidades del metano, el oxígeno, el monóxido de carbono, el nitrógeno y el helio en 10 superíndice negativo 3 mol L superíndice negativo 1 a temperaturas que van de 0 a 30 grados Celsius. Las solubilidades indicadas en el gráfico en orden decreciente son metano, oxígeno, monóxido de carbono, nitrógeno y helio. A diez grados, las solubilidades en 10 superíndice negativo 3mol L superíndice negativo 1 son aproximadamente las siguientes: metano 1,9, oxígeno 1,8, monóxido de carbono 1,2, nitrógeno 0,7 y helio 0,4. A veinte grados, las solubilidades en 10 superíndice negativo 3 mol L superíndice negativo 1 son aproximadamente las siguientes: metano 1,2, oxígeno 1,1, monóxido de carbono 0,9, nitrógeno 0,5 y helio 0,35.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_gasdissolv.jpg"/>
+</media>
+<caption>Las solubilidades de estos gases en el agua disminuyen al aumentar la temperatura. Todas las solubilidades se midieron con una presión constante de 101,3 kPa (1 atm) de gas sobre las soluciones.</caption>
+</figure>
+<para id="fs-idp14325648">Cuando la temperatura de un río, lago o arroyo aumenta, la solubilidad del oxígeno en el agua disminuye. La disminución de los niveles de oxígeno disuelto puede tener graves consecuencias para la salud de los ecosistemas acuáticos y, en casos graves, puede provocar la muerte de peces a gran escala (<link target-id="CNX_Chem_11_03_O2dissolv"/>).</para>
+<figure id="CNX_Chem_11_03_O2dissolv">
+<media id="fs-idp18668432" alt="Se muestran dos fotos. La primera muestra la parte superior de un vaso transparente incoloro de un líquido incoloro claro con pequeñas burbujas cerca de la interfaz del líquido con el recipiente. La segunda foto muestra una parte de una masa de agua parcialmente congelada con peces muertos que aparecen en el agua y en una superficie helada.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_O2dissolv.jpg"/>
+</media>
+<caption>(a) Las pequeñas burbujas de aire en este vaso de agua enfriada se formaron cuando el agua se calentó a temperatura ambiente y la solubilidad de su aire disuelto disminuyó. (b) La disminución de la solubilidad del oxígeno en las aguas naturales sometidas a contaminación térmica puede provocar la muerte de peces a gran escala. (Crédito a: modificación del trabajo de Liz West; crédito b: modificación del trabajo del Servicio de Pesca y Vida Silvestre de EE.UU.).</caption>
+</figure>
+<para id="fs-idp30867024">La solubilidad de un soluto gaseoso también se ve afectada por la presión parcial del soluto en el gas al que se expone la solución. La solubilidad del gas aumenta a medida que aumenta la presión del mismo. Las bebidas carbonatadas son un buen ejemplo de esta relación. El proceso de carbonatación consiste en exponer la bebida a una presión relativamente alta de gas de dióxido de carbono y luego sellar el envase de la bebida, saturando así la bebida con CO<sub>2</sub> a esta presión. Cuando se abre el envase de la bebida, se oye el conocido silbido al liberarse la presión del gas de dióxido de carbono, y suele verse parte del dióxido de carbono disuelto abandonando la solución en forma de pequeñas burbujas (<link target-id="CNX_Chem_11_03_beverage"/>). En este punto, la bebida está <emphasis effect="italics">sobresaturada</emphasis> de dióxido de carbono y, con el tiempo, la concentración de dióxido de carbono disuelto disminuirá hasta su valor de equilibrio y la bebida se volverá "plana".</para>
+<figure id="CNX_Chem_11_03_beverage" class="scaled-down">
+<media id="fs-idp66125536" alt="Se muestra un líquido marrón oscuro en un recipiente transparente e incoloro. En la superficie del líquido aparece una gruesa capa de burbujas de color beige. En el líquido aparecen trece pequeños grupos de esferas negras individuales con dos esferas rojas pegadas a la izquierda y a la derecha. Las esferas rojas representan los átomos de oxígeno y las negras los de carbono. Siete flechas blancas apuntan hacia arriba en el recipiente desde estos racimos hasta la capa de burbujas en la parte superior del líquido.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_beverage.jpg"/>
+</media>
+<caption>Al abrir la botella de bebida carbonatada se reduce la presión del dióxido de carbono <emphasis effect="italics">gaseoso</emphasis> sobre la bebida. La solubilidad del CO<sub>2</sub> se reduce así, y puede verse que parte del dióxido de carbono <emphasis effect="italics">disuelto</emphasis> sale de la solución en forma de pequeñas burbujas de gas. (Crédito: modificación del trabajo de Derrick Coetzee).</caption>
+</figure>
+<para id="fs-idp86085408">Para muchos solutos gaseosos, la relación entre la solubilidad, <emphasis effect="italics">C</emphasis><sub>g</sub>, y la presión parcial, <emphasis effect="italics">P</emphasis><sub>g</sub>, es proporcional:</para>
+<equation id="fs-idm57709472" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mtext>g</m:mtext></m:msub><m:mo>=</m:mo><m:mi>k</m:mi><m:msub><m:mi>P</m:mi><m:mtext>g</m:mtext></m:msub></m:mrow></m:math></equation>
+<para id="fs-idp72770704">donde <emphasis effect="italics">k</emphasis> es una constante de proporcionalidad que depende de las identidades del soluto gaseoso y del solvente así como de la temperatura de la solución. Esta es una proposición matemática de la <term>ley de Henry</term>: <emphasis effect="italics">La cantidad de un gas ideal que se disuelve en un volumen definido de líquido es directamente proporcional a la presión del gas.</emphasis></para>
+<example id="fs-idp3359488">
+<para id="fs-idm1765696"><title>Aplicación de la ley de Henry</title>
+A 20 °C, la concentración de oxígeno disuelto en el agua expuesta al oxígeno gaseoso a una presión parcial de 101,3 kPa es de 1,38 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup> mol L<sup>−1</sup>. Utilice la ley de Henry para determinar la solubilidad del oxígeno cuando su presión parcial es de 20,7 kPa, la presión aproximada del oxígeno en la atmósfera terrestre.</para>
+<para id="fs-idp69198064"><title>Solución</title>
+Según la ley de Henry, para una solución ideal la solubilidad, <emphasis effect="italics">C</emphasis><sub>g</sub>, de un gas (1,38 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup> mol L<sup>−1</sup>, en este caso) es directamente proporcional a la presión, <emphasis effect="italics">P</emphasis><sub>g</sub>, del gas no disuelto sobre la solución (101,3 kPa en este caso). Dado que se conocen tanto <emphasis effect="italics">C</emphasis><sub>g</sub> como <emphasis effect="italics">P</emphasis><sub>g</sub>, esta relación se puede reagrupar y utilizar para resolver <emphasis effect="italics">k</emphasis>.</para>
+<equation id="fs-idm48683328" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>C</m:mi><m:mtext>g</m:mtext></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>k</m:mi><m:msub><m:mi>P</m:mi><m:mtext>g</m:mtext></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mi>k</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mtext>g</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>g</m:mtext></m:msub></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1,38</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>101,3</m:mn><m:mspace width="0.2em"/><m:mtext>kPa</m:mtext></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>1,36</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-5</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>kPa</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp69566528">Ahora, use <emphasis effect="italics">k</emphasis> para encontrar la solubilidad a la presión más baja.</para>
+<equation id="fs-idp38123664" class="unnumbered"><m:math><m:mtable><m:mtr><m:mtd/><m:mtd columnalign="right"><m:msub><m:mi>C</m:mi><m:mtext>g</m:mtext></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>k</m:mi><m:msub><m:mi>P</m:mi><m:mtext>g</m:mtext></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>1,36</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-5</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>kPa</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>20,7</m:mn><m:mspace width="0.2em"/><m:mtext>kPa</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>2,82</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>L</m:mtext><m:mrow><m:mn>-1</m:mn></m:mrow></m:msup></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-idp14065136">Tenga en cuenta que se pueden utilizar varias unidades para expresar las cantidades que intervienen en este tipo de cálculos. Se acepta cualquier combinación de unidades que se ajuste a las limitaciones del análisis dimensional.</para>
+<para id="fs-idp911728"><title>Compruebe lo aprendido</title>
+La exposición de una muestra de 100,0 mL de agua a 0 °C a una atmósfera que contiene un soluto gaseoso a 152 torr produjo una disolución de 1,45 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup> g del soluto. Utilice la ley de Henry para determinar la solubilidad de este soluto gaseoso cuando su presión es de 760 torr.</para>
+<note id="fs-idm23741504"><title>Respuesta:</title>
+<para id="fs-idp7203840">7,25 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup> en 100,0 mL o 0,0725 g/L</para></note>
+</example>
+<example id="fs-idm260338832">
+<para id="fs-idm246086304"><title>Contaminación térmica y solubilidad del oxígeno</title>Una determinada especie de trucha de agua dulce requiere una concentración de oxígeno disuelto de 7,5 mg/L. ¿Podrían estos peces prosperar en un arroyo de montaña contaminado térmicamente (la temperatura del agua es de 30,0 °C, la presión parcial del oxígeno atmosférico es de 0,17 atm)? Utilice los datos de la <link target-id="CNX_Chem_11_03_gasdissolv"/> para estimar un valor de la constante de la ley de Henry a esta temperatura.</para><para id="fs-idm252501088"><title>Solución</title>En primer lugar, estime la constante de la ley de Henry para el oxígeno en el agua a la temperatura especificada de 30,0 °C (la <link target-id="CNX_Chem_11_03_gasdissolv"/> indica que la solubilidad a esta temperatura es de aproximadamente ~1,2 mol/L).).</para><equation id="fs-idm262307104" class="unnumbered">
+  <m:math><m:mrow><m:mi>k</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mtext>g</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mtext>g</m:mtext></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol/L/1,00 atm</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol/L atm </m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm246607712">A continuación, utilice el valor de <emphasis effect="italics">k</emphasis> para calcular la solubilidad del oxígeno a la presión parcial de oxígeno especificada, 0,17 atm.</para>
+<equation id="fs-idm270799504" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mi>g</m:mi></m:msub><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mi>k</m:mi><m:mi>P</m:mi></m:mrow><m:mrow><m:mi>g</m:mi></m:mrow></m:msub><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>1,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol/L atm</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>0,17</m:mn><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/>
+<m:mn>2,0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol/L</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm243822832">Finalmente, convierta esta concentración de oxígeno disuelto de mol/L a mg/L.</para>
+<equation id="fs-idm269049024" class="unnumbered"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2,0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>mol/L</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>32,0</m:mn><m:mspace width="0.2em"/><m:mtext>g/1 mol</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>1.000</m:mn><m:mspace width="0.2em"/><m:mtext>mg/g</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/>
+<m:mn>6,4</m:mn><m:mspace width="0.2em"/><m:mtext>mg/L</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation>
+<para id="fs-idm330843216">Esta concentración es inferior al valor mínimo requerido de 7,5 mg/L, por lo que estas truchas probablemente no prosperarían en el arroyo contaminado.</para>
+<para id="fs-idm251562192"><title>Compruebe lo aprendido</title>
+¿Qué concentración de oxígeno disuelto se espera para el arroyo de arriba cuando vuelva a tener una temperatura normal en verano de 15 °C?</para>
+<note id="fs-idm252531248"><title>Respuesta:</title>
+<para id="fs-idm245998528">8,2 mg/L</para></note>
+</example>
+<note id="fs-idp99321632" class="chemistry everyday-life">
+<title>Enfermedad por descompresión o "The Bends"</title>
+<para id="fs-idp40268320">La enfermedad de descompresión (DCS), o "The Bends" (el malestar), es un efecto del aumento de la presión del aire inhalado por los buceadores cuando nadan bajo el agua a profundidades considerables. Además de la presión ejercida por la atmósfera, los buceadores están sometidos a una presión adicional debida al agua que tienen encima, experimentando un aumento de aproximadamente 1 atm por cada 10 m de profundidad. Por lo tanto, el aire inhalado por un buceador mientras está sumergido contiene gases a la correspondiente presión ambiental más alta, y las concentraciones de los gases disueltos en la sangre del buceador son proporcionalmente más altas según la ley de Henry.</para>
+<para id="fs-idm1466432">A medida que el buceador asciende a la superficie del agua, la presión ambiental disminuye y los gases disueltos se vuelven menos solubles. Si el ascenso es demasiado rápido, los gases que se escapan de la sangre del buceador pueden formar burbujas que pueden causar una serie de síntomas que van desde sarpullidos y dolor en las articulaciones hasta la parálisis y la muerte. Para evitar el DCS, los buceadores deben ascender desde las profundidades a velocidades relativamente lentas (10 o 20 m/min) o, de lo contrario, realizar varias paradas de descompresión, haciendo una pausa de varios minutos a determinadas profundidades durante el ascenso. Cuando estas medidas preventivas no funcionan, los buceadores con DCS suelen recibir terapia de oxígeno hiperbárico en recipientes presurizados llamados cámaras de descompresión (o recompresión) (<link target-id="CNX_Chem_11_03_recompress"/>). Los investigadores también estudian las reacciones y defensas corporales relacionadas para desarrollar mejores pruebas y tratamientos para la enfermedad por descompresión. Por ejemplo, Ingrid Eftedal, barofisióloga especializada en las reacciones corporales al buceo, demostró que los glóbulos blancos sufren cambios químicos y genéticos como consecuencia de la enfermedad; estos pueden utilizarse potencialmente para crear pruebas de biomarcadores y otros métodos para tratar la enfermedad por descompresión. </para><figure id="CNX_Chem_11_03_recompress" class="scaled-down"><media id="fs-idm21151808" alt="Se muestran dos fotos. La primera muestra a dos personas sentadas en una cámara de acero sobre bancos que están a cada lado de aquella. La cámara tiene un par de pequeñas ventanas circulares y una puerta abierta tipo escotilla. Una de las dos personas hace un gesto de pulgar hacia arriba. La segunda imagen ofrece una vista a través de una pequeña ventana circular. En el interior se puede ver a las dos personas con máscaras sobre su boca y nariz. Parecen estar leyendo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_recompress.jpg"/>
+</media>
+<caption>(a) Los buzos de la Marina estadounidense se entrenan en una cámara de recompresión. (b) Los buzos reciben oxigenoterapia hiperbárica.</caption></figure></note>
+<para id="fs-idm18427536">Las desviaciones de la <term class="no-emphasis">ley de Henry</term> se observan cuando se produce una reacción química entre el soluto gaseoso y el solvente. Así, por ejemplo, la solubilidad del amoníaco en el agua aumenta más rápidamente con el aumento de la presión de lo que predice la ley, porque el amoníaco, al ser una base, reacciona en cierta medida con el agua para formar iones de amonio e iones de hidróxido.</para>
+<media id="fs-idp36245120" class="scaled-down" alt="Este diagrama de reacción muestra tres átomos de H unidos a un átomo de N por encima, por debajo y dos a la izquierda del N. Un par de puntos está presente en el lado derecho del N. A esto le sigue un signo positivo, y luego dos átomos de H unidos a un átomo de O a la izquierda y por debajo del O. Dos pares de puntos están presentes en el O, uno por encima y otro a la derecha del O. Sigue una flecha doble, con la punta superior apuntando a la derecha y la inferior apuntando a la izquierda. A la derecha de la flecha doble, se muestran cuatro átomos de H unidos a un átomo de N central. Estos 5 átomos están encerrados entre paréntesis con un superíndice positivo fuera. Le sigue un signo positivo, luego un átomo de O unido por un enlace a un átomo de H a su derecha. El átomo de O tiene pares de puntos encima, a la izquierda y debajo del átomo. El O y el H enlazados van entre paréntesis con el superíndice signo negativo fuera.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_02_ammonia1_img.jpg"/>
+</media>
+<para id="fs-idm48937408">Los gases pueden formar soluciones sobresaturadas. Si una solución de un gas en un líquido se prepara a baja temperatura o bajo presión (o ambas), a medida que la solución se calienta o se reduce la presión del gas, puede sobresaturarse. En 1986, más de 1.700 personas murieron en Camerún cuando una nube de gas, casi seguro dióxido de carbono, brotó del lago Nyos (<link target-id="CNX_Chem_11_03_LakeNyos"/>), un lago profundo en un cráter volcánico. El agua del fondo del lago Nyos está saturada de dióxido de carbono por la actividad volcánica que hay debajo. Se cree que el lago sufrió un recambio debido al calentamiento gradual desde abajo del lago, y el agua más caliente y menos densa saturada de dióxido de carbono llegó a la superficie. En consecuencia, se liberaron enormes cantidades de CO<sub>2</sub> disuelto, y el gas incoloro, más denso que el aire, fluyó por el valle debajo del lago y asfixió a los seres humanos y a los animales que vivían en el valle.</para>
+<figure id="CNX_Chem_11_03_LakeNyos">
+<media id="fs-idp108534848" alt="Se muestran dos fotos. La primera es una vista aérea de un lago rodeado de verdes colinas. La segunda muestra una gran masa de agua con una fuente que lanza líquido al aire a varios metros de la superficie del agua.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_LakeNyos.jpg"/>
+</media>
+<caption>(a) Se cree que la catástrofe de 1986 en la que murieron más de 1.700 personas cerca del lago Nyos, en Camerún, se produjo cuando se liberó un gran volumen de gas de dióxido de carbono del lago. (b) Desde entonces se instaló un respiradero de CO<sub>2</sub> que ayuda a desgasificar el lago de forma lenta y controlada y a evitar una catástrofe similar en el futuro. (Crédito a: modificación del trabajo de Jack Lockwood; crédito b: modificación del trabajo de Bill Evans).</caption>
+</figure>
+</section>
+<section id="fs-idp64799168">
+<title>Soluciones de líquidos en líquidos</title>
+<para id="fs-idm22997312">Algunos líquidos pueden mezclarse en cualquier proporción para dar lugar a soluciones; es decir, tienen una solubilidad mutua infinita y se dice que son <term>miscibles</term>. El etanol, el ácido sulfúrico y el etilenglicol (popular por su uso como anticongelante, que aparece en la <link target-id="CNX_Chem_11_03_antifreeze"/>) son ejemplos de líquidos que son completamente miscibles con el agua. El aceite de motor de dos tiempos es miscible con la gasolina, cuyas mezclas se utilizan como combustible lubricante para varios tipos de equipos eléctricos de exterior (motosierras, sopladores de hojas, etc.).</para>
+<figure id="CNX_Chem_11_03_antifreeze" class="scaled-down">
+<media id="fs-idp105848592" alt="Foto de una jarra de plástico amarilla de 1 galón de anticongelante/refrigerante prediluido Preston 50/50.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_antifreeze.jpg"/>
+</media>
+<caption>El agua y el anticongelante son miscibles; las mezclas de ambos son homogéneas en todas las proporciones. (Crédito: "dno1967"/Wikimedia commons).</caption>
+</figure>
+<para id="fs-idp48405280">Los líquidos miscibles son típicamente aquellos con polaridades muy similares. Pensemos, por ejemplo, en los líquidos polares o con capacidad de enlace de hidrógeno. En estos líquidos, las atracciones dipolo-dipolo (o enlace de hidrógeno) de las moléculas del soluto con las del solvente son al menos tan fuertes como las que existen entre las moléculas del soluto puro o del solvente puro. Por lo tanto, los dos tipos de moléculas se mezclan fácilmente. Del mismo modo, los líquidos no polares son miscibles entre sí porque no hay una diferencia apreciable en las fuerzas de atracción intermolecular soluto-soluto, solvente-solvente y soluto-solvente. La solubilidad de las moléculas polares en solventes polares y de las moléculas no polares en solventes no polares es, de nuevo, una ilustración del axioma químico "lo semejante se disuelve en lo semejante".</para>
+<para id="fs-idp37300448">Dos líquidos que no se mezclan de forma apreciable se denominan <term>inmiscibles</term>. Se forman capas separadas cuando se vierten líquidos inmiscibles en el mismo recipiente. La gasolina, el aceite (<link target-id="CNX_Chem_11_03_oilwater2"/>), el benceno, el tetracloruro de carbono, algunas pinturas y muchos otros líquidos no polares son inmiscibles con el agua. Las fuerzas de atracción relativamente débiles entre las moléculas de agua polares y las moléculas de líquido no polares no son adecuadas para superar los enlaces de hidrógeno mucho más fuertes entre las moléculas de agua. La distinción entre inmiscibilidad y miscibilidad es, en realidad, una cuestión de extensión, de modo que los líquidos miscibles son de solubilidad mutua infinita, mientras que los líquidos que se dicen inmiscibles son de solubilidad mutua muy baja (aunque no nula).</para>
+<figure id="CNX_Chem_11_03_oilwater2" class="scaled-down">
+<media id="fs-idp48883952" alt="Esta es una foto de una copa de martini transparente e incolora que contiene una capa de líquido de color dorado que descansa sobre un líquido transparente e incoloro.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_oilwater2.jpg"/>
+</media>
+<caption>El agua y el aceite son inmiscibles. Las mezclas de estas dos sustancias formarán dos capas separadas, con el aceite menos denso flotando sobre el agua. (Crédito: "Yortw"/Flickr).</caption>
+</figure>
+<para id="fs-idp49738352">Se dice que dos líquidos, como el bromo y el agua, que tienen una solubilidad mutua <emphasis effect="italics">moderada</emphasis> son <term>parcialmente miscibles</term>. Dos líquidos parcialmente miscibles suelen formar dos capas al mezclarse. En el caso de la mezcla de bromo y agua, la capa superior es agua, saturada de bromo, y la capa inferior es bromo saturado de agua. Dado que el bromo no es polar y, por tanto, no es muy soluble en agua, la capa de agua sólo se decolora ligeramente por el bromo naranja brillante disuelto en ella. Dado que la solubilidad del agua en el bromo es muy baja, no hay ningún efecto notable en el color oscuro de la capa de bromo (<link target-id="CNX_Chem_11_03_bromine"/>).</para>
+<figure id="CNX_Chem_11_03_bromine" class="scaled-down">
+<media id="fs-idp40449744" alt="Esta figura muestra tres tubos de ensayo. El primer tubo de ensayo contiene una sustancia de color marrón anaranjado oscuro. El segundo tubo de ensayo contiene una sustancia clara. La cantidad de sustancia en ambos tubos de ensayo es la misma. El tercer tubo de ensayo contiene una sustancia marrón anaranjada oscura en el fondo y una sustancia naranja más clara en la parte superior. La cantidad de sustancia en el tercer tubo de ensayo es casi el doble que en los dos primeros.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_bromine.jpg"/>
+</media>
+<caption>El bromo (el líquido naranja intenso de la izquierda) y el agua (el líquido claro del centro) son parcialmente miscibles. La capa superior de la mezcla de la derecha es una solución saturada de bromo en agua; la capa inferior es una solución saturada de agua en bromo. (Crédito: Paul Flowers).</caption>
+</figure>
+</section>
+<section id="fs-idp38976176">
+<title>Soluciones de sólidos en líquidos</title>
+<para id="fs-idp49095104">La dependencia de la solubilidad en función de la temperatura para una serie de sólidos en agua se muestra en las curvas de solubilidad en la <link target-id="CNX_Chem_11_03_solubility"/>. La revisión de estos datos indica una tendencia general de aumento de la solubilidad con la temperatura, aunque hay excepciones, como ilustra el compuesto iónico sulfato de cerio.</para>
+<figure id="CNX_Chem_11_03_solubility" class="scaled-down">
+<media id="fs-idp19558160" alt="Esto muestra un gráfico de la solubilidad del azúcar C subíndice 12 H subíndice 22 O subíndice 11, K N O subíndice 3, N a N O subíndice 3, N a B r, K B r, N a subíndice 2 S O subíndice 4, K C l, y C e subíndice 2 paréntesis izquierdo S O subíndice 4 paréntesis derecho subíndice 3 en g de soluto por 100 g de H subíndice 2 O a temperaturas que van de 0 grados Celsius a 100 grados Celsius. A 0 grados Celsius, las solubilidades son aproximadamente 180 para el azúcar C subíndice 12 H subíndice 22 O subíndice 11, 115 para K N O subíndice 3, 75 para N a N O subíndice 3, 115 para N a B r, 55 para K B r, 7 para N a subíndice 2 S O subíndice 4, 25 para K C l, y 20 para C e subíndice 2 paréntesis izquierdo S O subíndice 4 paréntesis derecho subíndice 3. A 0 grados Celsius, las solubilidades son aproximadamente 180 para el azúcar C subíndice 12 H subíndice 22 O subíndice 11, 115 para K N O subíndice 3, 75 para N a N O subíndice 3, 115 para N a B r, 55 para K B r, 7 para N a subíndice 2 S O subíndice 4, 25 para K C l, y 20 para C e subíndice 2 paréntesis izquierdo S O subíndice 4 paréntesis derecho subíndice 3. A 100 grados Celsius, el azúcar C subíndice 12 H subíndice 22 O subíndice 11 ha superado el límite superior de solubilidad indicado en el gráfico, 240 para K N O subíndice 3, 178 para N a N O subíndice 3, 123 para N a B r, 105 para K B r, 52 para N a subíndice 2 S O subíndice 4, 58 para K C l, y el gráfico para C e subíndice 2 paréntesis izquierdo S O subíndice 4 paréntesis derecho subíndice 3 se detiene a unos 92 grados Celsius donde la solubilidad es casi cero. El gráfico para N a subíndice 2 S O subíndice 4 se muestra en rojo. Todas las demás sustancias se muestran en azul. La solubilidad de esta sustancia aumenta hasta unos 30 grados Celsius y disminuye más allá de ese punto con el aumento de la temperatura.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_solubility.jpg"/>
+</media>
+<caption>Este gráfico muestra cómo cambia la solubilidad de varios sólidos con la temperatura.</caption>
+</figure>
+<para id="fs-idp72000144">La dependencia de la temperatura de la solubilidad puede aprovecharse para preparar soluciones sobresaturadas de ciertos compuestos. Una solución puede saturarse con el compuesto a una temperatura elevada (donde el soluto es más soluble) y posteriormente enfriarse a una temperatura más baja sin precipitar el soluto. La solución resultante contiene soluto a una concentración mayor que su solubilidad de equilibrio a la temperatura más baja (es decir, está sobresaturada) y es relativamente estable. La precipitación del exceso de soluto puede iniciarse añadiendo un cristal semilla (vea el vídeo en el Enlace al aprendizaje anterior de este módulo) o agitando mecánicamente la solución. Algunos calentadores de manos, como el que aparece en la <link target-id="CNX_Chem_11_03_handwarmer"/>, se aprovechan de este comportamiento.</para>
+<figure id="CNX_Chem_11_03_handwarmer" class="scaled-down">
+<media id="fs-idm20585264" alt="Se muestran tres fotos de calentadores de manos, una al lado de la otra, con una flecha que apunta de la primera foto a la segunda, y otra flecha que apunta de la segunda foto a la tercera. El primer paquete contiene un líquido incoloro claro y se puede ver un pequeño disco metálico. En el segundo paquete, el disco no se ve y comienza la dispersión de un líquido blanco. En el tercer paquete, todo el líquido es blanco.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_11_03_handwarmer.jpg"/>
+</media>
+<caption>Este calentador de manos produce calor cuando se precipita el acetato de sodio en una solución sobresaturada. La precipitación del soluto se inicia por una onda de choque mecánica generada al "chasquear" el disco metálico flexible dentro de la solución (crédito: modificación de la obra de "Velela"/Wikimedia Commons).</caption>
+</figure>
+<note id="fs-idp72233568" class="chemistry link-to-learning">
+<para id="fs-idp19123632">Este <link url="http://openstax.org/l/16handwarmer">video</link> muestra el proceso de cristalización que se produce en un calentador de manos.</para>
+</note>
+</section>
+<section id="fs-idp9146256" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp47489632">El grado de disolución de una sustancia en otra viene determinado por varios factores, entre los que se encuentran los tipos y la fuerza relativa de las fuerzas de atracción intermoleculares que puedan existir entre los átomos, iones o moléculas de las sustancias. Esta tendencia a la disolución se cuantifica como la solubilidad de una sustancia, su concentración máxima en una solución en equilibrio bajo condiciones específicas. Una solución saturada contiene soluto a una concentración igual a su solubilidad. Una solución sobresaturada es aquella en la que la concentración de un soluto supera su solubilidad, una condición de no equilibrio (inestable) que dará lugar a la precipitación del soluto cuando la solución se perturbe adecuadamente. Los líquidos miscibles son solubles en todas las proporciones, y los líquidos inmiscibles presentan una solubilidad mutua muy baja. Las solubilidades de los solutos gaseosos disminuyen al aumentar la temperatura, mientras que las de la mayoría de los solutos sólidos, aunque no todos, aumentan con la temperatura. La concentración de un soluto gaseoso en una solución es proporcional a la presión parcial del gas al que está expuesta la solución, relación conocida como ley de Henry.</para></section>
+<section id="fs-idp44827264" class="key-equations">
+<title>Ecuaciones clave</title>
+<table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<tbody>
+<row><entry><m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mtext>g</m:mtext></m:msub><m:mo>=</m:mo><m:mi>k</m:mi><m:msub><m:mi>P</m:mi><m:mtext>g</m:mtext></m:msub></m:mrow></m:math></entry>
+</row>
+</tbody></tgroup></table>
+</section>
+<section id="fs-idm30288080" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idp15462384">
+<problem id="fs-idp84013888">
+<para id="fs-idp72058416">Suponga que se le presenta una solución clara de tiosulfato de sodio, Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>. ¿Cómo podría determinar si la solución es insaturada, saturada o sobresaturada?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp18282480">
+<problem id="fs-idp72426256">
+<para id="fs-idm71283280">Las soluciones sobresaturadas de la mayoría de los sólidos en agua se preparan enfriando las soluciones saturadas. Las soluciones sobresaturadas de la mayoría de los gases en agua se preparan calentando soluciones saturadas. Explique las razones de la diferencia entre ambos procedimientos.</para>
+</problem>
+<solution id="fs-idp17063488">
+<para id="fs-idp61469504">La solubilidad de los sólidos suele disminuir al enfriar una solución, mientras que la solubilidad de los gases suele disminuir al calentarse.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm29975600">
+<problem id="fs-idp37014624">
+<para id="fs-idp35536128">Sugiera una explicación para las observaciones de que el etanol, C<sub>2</sub>H<sub>5</sub>OH, es completamente miscible con el agua y que el etanotiol, C<sub>2</sub>H<sub>5</sub>SH, es soluble sólo hasta 1,5 g por 100 mL de agua.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp50664544">
+<problem id="fs-idp19644400">
+<para id="fs-idp86652032">Calcule el porcentaje en masa de KBr en una solución saturada de KBr en agua a 10 °C. Consulte la <link target-id="CNX_Chem_11_03_solubility"/> para obtener datos útiles, e informe del porcentaje calculado con un dígito significativo.</para>
+</problem>
+<solution id="fs-idp39077248">
+<para id="fs-idp43618784">40%</para>
+</solution>
+</exercise>
+<exercise id="fs-idm7358128">
+<problem id="fs-idp38951840">
+<para id="fs-idp76799712">¿Cuál de los siguientes gases es más soluble en agua? Explique su razonamiento.</para>
+<para id="fs-idp37987136">(a) CH<sub>4</sub></para>
+<para id="fs-idp75725552">(b) CCl<sub>4</sub></para>
+<para id="fs-idp100790624">(c) CHCl<sub>3</sub></para>
+</problem>
+</exercise>
+<exercise id="fs-idp47233328">
+<problem id="fs-idp47522688">
+<para id="fs-idp64913664">A 0 °C y 1,00 atm, hasta 0,70 g de O<sub>2</sub> pueden disolverse en 1 L de agua. A 0 °C y 4,00 atm, ¿cuántos gramos de O<sub>2</sub> se disuelven en 1 L de agua?</para>
+</problem>
+<solution id="fs-idp47242816">
+<para id="fs-idp34230848">2,8 g</para></solution>
+</exercise>
+<exercise id="fs-idp36424272">
+<problem id="fs-idp30479616">
+<para id="fs-idp43686960">Consulte la <link target-id="CNX_Chem_11_03_beverage"/>.</para>
+<para id="fs-idp48419760">(a) ¿Cómo ha cambiado la concentración de CO<sub>2</sub> disuelto en la bebida al abrir la botella?</para>
+<para id="fs-idp64805104">(b) ¿Qué provocó este cambio?</para>
+<para id="fs-idp75878336">c) ¿La bebida está insaturada, saturada o sobresaturada de CO<sub>2</sub>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp43619984">
+<problem id="fs-idp109298576">
+<para id="fs-idm15918912">La constante de la ley de Henry para el CO<sub>2</sub> es de 3,4 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−2</sup> <emphasis effect="italics">M</emphasis>/atm a 25 °C. Suponiendo un comportamiento de solución ideal, ¿qué presión de dióxido de carbono se necesita para mantener una concentración de CO<sub>2</sub> de 0,10 <emphasis effect="italics">M</emphasis> en una lata de refresco de lima limón?</para>
+</problem>
+<solution id="fs-idp32534352">
+<para id="fs-idm53295744">2,9 atm</para>
+</solution>
+</exercise>
+<exercise id="fs-idm19146000">
+<problem id="fs-idp38207200">
+<para id="fs-idp102425184">La constante de la ley de Henry para el O<sub>2</sub> es 1,3 <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math> 10<sup>−3</sup> <emphasis effect="italics">M</emphasis>/atm a 25 °C. Suponiendo un comportamiento de solución ideal, ¿qué masa de oxígeno se disolvería en un acuario de 40 L a 25 °C, suponiendo una presión atmosférica de 1,00 atm, y que la presión parcial de O<sub>2</sub> es de 0,21 atm?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm32553568">
+<problem id="fs-idp70394000">
+<para id="fs-idm20619264">Suponiendo un comportamiento de solución ideal, ¿cuántos litros de gas HCl, medidos a 30,0 °C y 745 torr, se necesitan para preparar 1,25 L de una solución de 3,20-<emphasis effect="italics">M</emphasis> de ácido clorhídrico?</para>
+</problem>
+<solution id="fs-idm18407824">
+<para id="fs-idp48226368">102 L HCl</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp6753792">
+<term>ley de Henry</term>
+<meaning id="fs-idp72085472">relación proporcional entre la concentración de gas disuelto en una solución y la presión parcial del gas en contacto con la solución.</meaning>
+</definition>
+<definition id="fs-idp30466624">
+<term>inmiscible</term>
+<meaning id="fs-idp8884560">de solubilidad mutua insignificante; normalmente se refiere a sustancias líquidas.</meaning>
+</definition>
+<definition id="fs-idp83966400">
+<term>miscible</term>
+<meaning id="fs-idp79004544">mutuamente soluble en todas las proporciones; normalmente se refiere a sustancias líquidas.</meaning>
+</definition>
+<definition id="fs-idp7162656">
+<term>parcialmente miscible</term>
+<meaning id="fs-idm26410912">de solubilidad mutua moderada; normalmente se refiere a sustancias líquidas.</meaning>
+</definition>
+<definition id="fs-idp18522912">
+<term>saturado</term>
+<meaning id="fs-idp16140672">de concentración igual a la solubilidad; contiene la máxima concentración de soluto posible para una temperatura y una presión determinadas.</meaning>
+</definition>
+<definition id="fs-idm7148400">
+<term>solubilidad</term>
+<meaning id="fs-idp46081456">grado en que un soluto puede disolverse en agua, o en cualquier solvente.</meaning>
+</definition>
+<definition id="fs-idp69776">
+<term>sobresaturado</term>
+<meaning id="fs-idp30893408">de concentración que supera la solubilidad; un estado de no equilibrio.</meaning>
+</definition>
+<definition id="fs-idm39109968">
+<term>insaturado</term>
+<meaning id="fs-idm22301968">de concentración inferior a la solubilidad.</meaning>
+</definition>
+</glossary>
+</document>
