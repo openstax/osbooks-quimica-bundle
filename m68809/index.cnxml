@@ -1,0 +1,311 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Titulaciones ácido-base</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68809</md:content-id>
+  <md:title>Valoraciones ácido-base</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para>
+<list>
+<item>Interpretar las curvas de titulación de los sistemas ácido-base fuertes y débiles</item>
+<item>Calcular el pH de la muestra en etapas importantes de una titulación</item>
+<item>Explicar la función de los indicadores ácido-base</item>
+</list></md:abstract>
+  <md:uuid>617eab8e-758e-4510-be4c-8d9252cf4632</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm43847120">Como se vio en el capítulo sobre la estequiometría de las reacciones químicas, las titulaciones pueden utilizarse para analizar cuantitativamente las soluciones en cuanto a sus concentraciones de ácidos o bases. En esta sección, exploraremos los equilibrios químicos subyacentes que hacen de la titulación ácido-base una técnica analítica útil.</para>
+<section id="fs-idm84795552">
+<title>Curvas de titulación</title>
+<para id="fs-idp135875056">Una <term>curva de titulación</term> es un gráfico de alguna propiedad de la solución versus la cantidad de titulante añadido. En el caso de las titulaciones ácido-base, el pH de la solución es una propiedad útil de controlar porque varía de forma predecible con la composición de la solución y, por tanto, se puede utilizar para controlar el progreso de la titulación y detectar su punto final. El siguiente ejercicio de ejemplo demuestra el cálculo del pH para una solución de titulación después de las adiciones de varios volúmenes especificados de titulante. El primer ejemplo consiste en una titulación de un ácido fuerte que solo requiere cálculos estequiométricos para deducir el pH de la solución. El segundo ejemplo aborda una titulación de un ácido débil que requiere cálculos de equilibrio.</para>
+<example id="fs-idm49336656">
+<para id="fs-idp245005248"><title>Cálculo del pH de las soluciones de titulación: Ácido fuerte/Base fuerte</title>
+Se realiza una titulación de 25,00 mL 0,100 <emphasis effect="italics">M</emphasis> de HCl (ácido fuerte) con 0,100 <emphasis effect="italics">M</emphasis> de una base fuerte NaOH (la curva de titulación se muestra en la <link target-id="CNX_Chem_14_07_titration"/>). Calcule el pH a estos volúmenes de solución de base añadida:</para>
+<para id="fs-idp67154976">(a) 0,00 mL</para>
+<para id="fs-idm80154320">(b) 12,50 mL</para>
+<para id="fs-idm39390080">(c) 25,00 mL</para>
+<para id="fs-idp81988928">(d) 37,50 mL</para>
+<para id="fs-idp22584832"><title>Solución</title>
+(a) Volumen de titulante = 0 mL. El pH de la solución se debe a la ionización ácida del HCl. Como se trata de un ácido fuerte, la ionización es completa y la molaridad del ion de hidronio es de 0,100 <emphasis effect="italics">M</emphasis>. El pH de la solución es entonces</para>
+<equation class="unnumbered" id="fs-idm213177360">
+<m:math>
+<m:mrow>
+<m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mo>-</m:mo><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo>
+<m:mrow>
+<m:mn>0,100</m:mn></m:mrow>
+<m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1,000</m:mn></m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm214456576">(b) Volumen de titulante = 12,50 mL. Dado que la muestra de ácido y el titulante de base son ambos monopróticos y de igual concentración, esta adición de titulante implica menos de una cantidad estequiométrica de base, por lo que se consume completamente por reacción con el exceso de ácido en la muestra. La concentración de ácido sobrante se calcula restando la cantidad consumida de la cantidad inicial y dividiendo entre el volumen de la solución:</para>
+<equation class="unnumbered" id="fs-idp80308976"><m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>n</m:mtext><m:mo stretchy="false">(</m:mo><m:msup><m:mtext>H</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>V</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>0,002500 mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1000 mL</m:mtext></m:mrow><m:mrow><m:mtext>1 L</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow><m:mo>-</m:mo><m:mn>0,100</m:mn><m:mspace width="0.4em"/><m:mi>M</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>12,50 mL</m:mtext></m:mrow><m:mrow><m:mtext>25,00 mL</m:mtext><m:mo>+</m:mo><m:mtext>12,50 mL</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,0333</m:mn><m:mspace width="0.4em"/><m:mi>M</m:mi></m:mrow></m:math></equation>
+<para id="fs-idm197032080">(c) Volumen de titulante = 25,00 mL. Esta adición de titulante implica una cantidad estequiométrica de base (el <emphasis effect="italics">punto de equivalencia</emphasis>), por lo que solo los productos de la reacción de neutralización están en solución (agua y NaCl). Ni el catión ni el anión de esta sal sufren una ionización ácido-base; el único proceso que genera iones de hidronio es la autoprotólisis del agua. La solución es neutra, con un pH = 7,00.</para>
+<para id="fs-idm173154048">(d) Volumen de titulante = 37,50 mL. Esto implica la adición de titulante por encima del punto de equivalencia. A continuación, se calcula el pH de la solución mediante la concentración de iones de hidróxido:</para>
+<equation class="unnumbered" id="fs-idp66422816"><m:math><m:mrow><m:mtext>n</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>0</m:mn></m:msub><m:mo>&gt;</m:mo><m:mtext>n</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mtext>H</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>0</m:mn></m:msub></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idm15386080">Los términos <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>n</m:mtext><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>V</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,100</m:mn><m:mspace width="0.4em"/><m:mi>M</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>37,50 mL</m:mtext><m:mo>-</m:mo><m:mtext>0,002500 mol</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>1000 mL</m:mtext></m:mrow><m:mrow><m:mtext>1 L</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo><m:mspace width="0.2em"/></m:mrow></m:mrow><m:mrow><m:mtext>25,00 mL</m:mtext><m:mo>+</m:mo><m:mtext>37,50 mL</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>0,0200</m:mn><m:mspace width="0.4em"/><m:mi>M</m:mi></m:mrow></m:math></equation><para id="fs-idm41259968">pH = 14 − pOH = 14 + log([OH<sup>−</sup>]) = 14 + log(0,0200) = 12,30</para>
+<para id="fs-idm15929056"><title>Compruebe lo aprendido</title>
+Calcule el pH para la titulación de ácido fuerte/base fuerte entre 50,0 mL de 0,100 <emphasis effect="italics">M</emphasis> de HNO<sub>3</sub>(<emphasis effect="italics">aq</emphasis>) y 0,200 <emphasis effect="italics">M</emphasis> de NaOH (titulante) a los volúmenes indicados de base añadida: 0,00 mL, 15,0 mL, 25,0 mL y 40,0 mL.</para>
+<note id="fs-idm44981872">
+<title>Respuesta:</title>
+<para id="fs-idm89702512">0,00: 1,000; 15,0: 1,5111; 25,0: 7; 40,0: 12,523</para>
+</note>
+</example>
+<example id="fs-idm99459616">
+<para id="fs-idp114806608"><title>Titulación de un ácido débil con una base fuerte</title>
+Considere la titulación de 25,00 mL de 0,100 <emphasis effect="italics">M</emphasis> de CH<sub>3</sub>CO<sub>2</sub>H con 0,100 <emphasis effect="italics">M</emphasis> de NaOH. La reacción puede representarse como:</para>
+<equation class="unnumbered" id="fs-idp77362464"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></equation>
+<para id="fs-idm41606112">Calcule el pH de la solución de titulación tras la adición de los siguientes volúmenes de titulante NaOH:</para>
+<para id="fs-idm192768656">(a) 0,00 mL</para>
+<para id="fs-idm178030592">b) 25,00 mL</para>
+<para id="fs-idm214305872">(c) 12,50 mL</para>
+<para id="fs-idm223741312">(d) 37,50 mL</para>
+<para id="fs-idp3678224"><title>Solución</title>
+(a) El pH inicial se calcula para la solución de ácido acético en el enfoque habitual de ICE:</para>
+<para id="fs-idp30610784"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>≈</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mtext>2</m:mtext></m:msup></m:mrow><m:mrow><m:msub><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>,</m:mo></m:mrow></m:math> y <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:msqrt><m:mrow><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:msqrt><m:mo>=</m:mo><m:msqrt><m:mrow><m:mn>1,8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-5</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0,100</m:mn></m:mrow></m:msqrt><m:mo>=</m:mo><m:mn>1,3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<equation class="unnumbered" id="fs-idm76922320"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>1,3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-3</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo><m:mo>=</m:mo><m:mn>2,87</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm935760">(b) Tanto el ácido como el titulante son monopróticos y las soluciones de la muestra y del titulante tienen igual concentración; por lo tanto, este volumen de titulante representa el punto de equivalencia. Sin embargo, a diferencia del ejemplo del ácido fuerte anterior, la mezcla de reacción en este caso contiene una base débil conjugada (ion de acetato). El pH de la solución se calcula considerando la ionización de la base del acetato, que está presente en una concentración de</para>
+<equation class="unnumbered" id="fs-idm33154592"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>0,00250 mol</m:mtext></m:mrow><m:mrow><m:mtext>0,0500 L</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>0,0500 M</m:mtext><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm2004176">La ionización de la base del acetato viene representada por la ecuación</para>
+<equation class="unnumbered" id="fs-idp77139280"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math> grandes.</equation>
+<equation class="unnumbered" id="fs-idp75313664">Los términos <m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mtext>H</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>w</m:mtext></m:msub></m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>1,0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-14</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>1,8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-5</m:mn></m:mrow></m:msup></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>5,6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-10</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idp58734736">Suponiendo que <emphasis effect="italics">x</emphasis> &lt;&lt; 0,0500, el pH se puede calcular mediante el enfoque habitual de ICE: <m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>b</m:mtext></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mtext>2</m:mtext></m:msup></m:mrow><m:mrow><m:mn>0,0500</m:mn><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+<equation class="unnumbered" id="fs-idm58971824">Los términos <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>5,3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>–</m:mo><m:mn>6</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idp1478112"><m:math><m:mrow><m:mtext>pOH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>5,3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>–</m:mo><m:mn>6</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo><m:mo>=</m:mo><m:mn>5,28</m:mn></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idm54099632"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mn>14,00</m:mn><m:mo>-</m:mo><m:mn>5,28</m:mn><m:mo>=</m:mo><m:mn>8,72</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm40620912">Observe que el pH en el punto de equivalencia de esta titulación es significativamente mayor que 7, como se espera cuando se titula un ácido débil con una base fuerte.</para>
+<para id="fs-idm15954576">(c) Volumen de titulante = 12,50 mL. Este volumen representa la mitad de la cantidad estequiométrica de titulante, por lo que se ha neutralizado la mitad del ácido acético para obtener una cantidad equivalente de ion de acetato. Por lo tanto, las concentraciones de estas parejas ácido-base conjugadas son iguales. Un enfoque conveniente para calcular el pH es el uso de la ecuación de Henderson-Hasselbalch:</para>
+<equation class="unnumbered" id="fs-idp121571008"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mi>p</m:mi><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>+</m:mo><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Base</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ácido</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo stretchy="false">).</m:mo><m:mo>+</m:mo><m:mtext>log</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>1,8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-5</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>log</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo stretchy="false">).</m:mo></m:mrow></m:math> grandes.</equation>
+<equation class="unnumbered" id="fs-idp163867552"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>1,8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>–</m:mo><m:mn>5</m:mn></m:mrow></m:msup><m:mo stretchy="false">).</m:mo><m:mo>=</m:mo><m:mn>4,74</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm42058672">(pH = p<emphasis effect="italics">K</emphasis><sub>a</sub> en el punto medio de equivalencia en una titulación de un ácido débil)</para>
+<para id="fs-idp85997072">(d) Volumen de titulante = 37,50 mL. Este volumen representa un exceso estequiométrico de titulante, y una solución de reacción que contiene tanto el producto de la titulación, el ion de acetato, como el exceso de titulante fuerte. En este tipo de soluciones, el pH de la solución viene determinado principalmente por la cantidad de base fuerte en exceso:</para>
+<equation class="unnumbered" id="fs-idm52967552"><m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>0,003750 mol</m:mtext><m:mo>-</m:mo><m:mtext>0,00250 mol</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>0,06250 L</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>2,00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-2</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idm21431696"><m:math><m:mrow><m:mtext>pOH</m:mtext><m:mo>=</m:mo><m:mtext>−log</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2,00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-2</m:mn></m:mrow></m:msup></m:mrow><m:mo>).</m:mo></m:mrow><m:mo>=</m:mo><m:mtext>1,70 y pH</m:mtext><m:mo>=</m:mo><m:mn>14,00</m:mn><m:mo>-</m:mo><m:mn>1,70</m:mn><m:mo>=</m:mo><m:mn>12,30</m:mn></m:mrow></m:math></equation>
+<para id="fs-idm41682336"><title>Compruebe lo aprendido</title>
+Calcule el pH para la titulación de ácido débil/base fuerte entre 50,0 mL de 0,100 <emphasis effect="italics">M</emphasis> de HCOOH<emphasis effect="italics">(aq</emphasis>) (ácido fórmico) y 0,200 <emphasis effect="italics">M</emphasis> de NaOH (titulante) a los volúmenes indicados de base añadida: 0,00 mL, 15,0 mL, 25,0 mL y 30,0 mL.</para>
+<note id="fs-idp68668928">
+<title>Respuesta:</title>
+<para id="fs-idm37877472">0,00 mL: 2,37; 15,0 mL: 3,92; 25,00 mL: 8,29; 30,0 mL: 12,097</para>
+</note>
+</example>
+<para id="fs-idm198420960">La realización de cálculos adicionales similares a los del ejemplo anterior permite una evaluación más completa de las curvas de titulación. En la <link target-id="fs-idm87178400"/> se ofrece un resumen de los pares de datos de pH/volumen para las titulaciones de ácidos fuertes y débiles, y en la <link target-id="CNX_Chem_14_07_titration"/> se representan las curvas de titulación. La comparación de estas dos curvas ilustra varios conceptos importantes que se abordan mejor identificando las cuatro etapas de una titulación:</para>
+<para id="fs-idm201863856">Estado inicial (volumen de titulante añadido = 0 mL): el pH viene determinado por el ácido que se está titulando; como las dos muestras de ácido tienen igual concentración, el ácido débil mostrará un pH inicial mayor.</para>
+<para id="fs-idm444217232">Punto antes de la equivalencia (0 mL &lt; <emphasis effect="italics">V</emphasis> &lt; 25 mL): el pH de la solución aumenta gradualmente y el ácido se consume por reacción con el titulante añadido; la composición incluye el ácido sin reaccionar y el producto de la reacción, su base conjugada.</para>
+<para id="fs-idm183388016">Punto de equivalencia (<emphasis effect="italics">V</emphasis> = 25 mL): se observa un aumento drástico del pH cuando la composición de la solución pasa de ácida a neutra (para la muestra de ácido fuerte) o básica (para la muestra de ácido débil), con un pH determinado por la ionización de la base conjugada del ácido.</para>
+<para id="fs-idm183509856">Punto después de la equivalencia (<emphasis effect="italics">V</emphasis> &gt; 25 mL): el pH se determina por la cantidad de exceso de titulante de base fuerte añadido; como ambas muestras se titulan con el mismo titulante, ambas curvas de titulación parecen similares en esta etapa.</para>
+<table id="fs-idm87178400" class="top-titled" summary="Esta tabla tiene cuatro columnas y veinte filas. La primera fila es una fila de encabezado, y marca cada columna como &quot;Volumen de 0,100 M N a O H añadidos ( m L )&quot;, &quot;Moles de N a O H añadidos&quot;, &quot;Valores p H de 0,100 M H C l nota a pie de página uno&quot;, &quot;Valores p H de 0,100 M C H subíndice 3 C O subíndice 2 H nota a pie de página 2&quot;. En la columna &quot;Volumen de 0,100 M N a O H añadido ( m L )&quot; están los siguientes valores: 0,0, 5,0, 10,0, 15,0, 20,0, 22,0, 24,0, 24,5, 24,9, 25,0, 25,1, 25,5, 26,0, 28,0, 30,0, 35,0, 40,0, 45,0 y 50,0. En la columna &quot;Moles de N a O H añadidos&quot; están los siguientes valores: 0,0, 0,00050, 0,00100, 0,00150, 0,00200, 0,00220, 0,00240, 0,00245, 0,00249, 0,00250, 0,00251, 0,00255, 0,00260, 0,00280, 0,00300, 0,00350, 0,00400, 0,00450 y 0,00500. En la columna &quot;Valores p H 0,100 M H C l nota a pie de página uno&quot; se encuentran los siguientes valores: 1,00, 1,18, 1,37, 1,60, 1,95, 2,20, 2,69, 3,00, 3,70, 7,00, 10,30, 11,00, 11,29, 11,75, 11,96, 12,22, 12,36, 12,46 y 12,52. La nota a pie de página uno dice: &quot;Valoración de 25,00 m L de 0,100 M H C l ( 0,00250 mol de H C I ) con 0,100 M N a O H&quot;. En la columna &quot;Valores p H 0,100 M C H subíndice 3 C O subíndice 2 H nota a pie de página 2&quot; se encuentran los siguientes valores: 2,87, 4,14, 4,57, 4,92, 5,35, 5,61, 6,13, 6,44, 7,17, 8,72, 10,30, 11,00, 11,29, 11,75, 11,96, 12,22, 12,36, 12,46, y 12,52. La nota a pie de página dos dice: &quot;Valoración de 25,00 m L de 0,100 M C H subíndice 3 C O subíndice 2 H ( 0,00250 mol de C H subíndice 3C O subíndice 2 H) con 0,100 M N a O H&quot;.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">valores de pH en las titulaciones de un ácido fuerte y de un ácido débil</entry>
+</row>
+<row valign="top">
+<entry align="left">Volumen de 0,100 <emphasis effect="italics">M</emphasis> de NaOH añadido (mL)</entry>
+<entry align="left">Moles de NaOH añadidos</entry>
+<entry align="left">valores de pH de 0,100 <emphasis effect="italics">M</emphasis> de HCl<footnote id="fs-idm65556224">Titulación de 25,00 mL de 0,100 <emphasis effect="italics">M</emphasis> de HCl (0,00250 mol de HCI) con 0,100 <emphasis effect="italics">M</emphasis> de NaOH.</footnote></entry>
+<entry align="left">valores de pH de 0,100 <emphasis effect="italics">M</emphasis> de CH<sub>3</sub>CO<sub>2</sub>H<footnote id="fs-idp81690384">Titulación de 25,00 mL de 0,100 <emphasis effect="italics">M</emphasis> de CH<sub>3</sub>CO<sub>2</sub>H (0,00250 mol de CH<sub>3</sub>CO<sub>2</sub>H) con de 0,100 <emphasis effect="italics">M</emphasis> de NaOH.</footnote></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">0,0</entry>
+<entry align="left">0,0</entry>
+<entry align="left">1,00</entry>
+<entry align="left">2,87</entry>
+</row>
+<row valign="top">
+<entry align="left">5,0</entry>
+<entry align="left">0,00050</entry>
+<entry align="left">1,18</entry>
+<entry align="left">4,14</entry>
+</row>
+<row valign="top">
+<entry align="left">10,0</entry>
+<entry align="left">0,00100</entry>
+<entry align="left">1,37</entry>
+<entry align="left">4,57</entry>
+</row>
+<row valign="top">
+<entry align="left">15,0</entry>
+<entry align="left">0,00150</entry>
+<entry align="left">1,60</entry>
+<entry align="left">4,92</entry>
+</row>
+<row valign="top">
+<entry align="left">20,0</entry>
+<entry align="left">0,00200</entry>
+<entry align="left">1,95</entry>
+<entry align="left">5,35</entry>
+</row>
+<row valign="top">
+<entry align="left">22,0</entry>
+<entry align="left">0,00220</entry>
+<entry align="left">2,20</entry>
+<entry align="left">5,61</entry>
+</row>
+<row valign="top">
+<entry align="left">24,0</entry>
+<entry align="left">0,00240</entry>
+<entry align="left">2,69</entry>
+<entry align="left">6,13</entry>
+</row>
+<row valign="top">
+<entry align="left">24,5</entry>
+<entry align="left">0,00245</entry>
+<entry align="left">3,00</entry>
+<entry align="left">6,44</entry>
+</row>
+<row valign="top">
+<entry align="left">24,9</entry>
+<entry align="left">0,00249</entry>
+<entry align="left">3,70</entry>
+<entry align="left">7,14</entry>
+</row>
+<row valign="top">
+<entry align="left">25,0</entry>
+<entry align="left">0,00250</entry>
+<entry align="left">7,00</entry>
+<entry align="left">8,72</entry>
+</row>
+<row valign="top">
+<entry align="left">25,1</entry>
+<entry align="left">0,00251</entry>
+<entry align="left">10,30</entry>
+<entry align="left">10,30</entry>
+</row>
+<row valign="top">
+<entry align="left">25,5</entry>
+<entry align="left">0,00255</entry>
+<entry align="left">11,00</entry>
+<entry align="left">11,00</entry>
+</row>
+<row valign="top">
+<entry align="left">26,0</entry>
+<entry align="left">0,00260</entry>
+<entry align="left">11,29</entry>
+<entry align="left">11,29</entry>
+</row>
+<row valign="top">
+<entry align="left">28,0</entry>
+<entry align="left">0,00280</entry>
+<entry align="left">11,75</entry>
+<entry align="left">11,75</entry>
+</row>
+<row valign="top">
+<entry align="left">30,0</entry>
+<entry align="left">0,00300</entry>
+<entry align="left">11,96</entry>
+<entry align="left">11,96</entry>
+</row>
+<row valign="top">
+<entry align="left">35,0</entry>
+<entry align="left">0,00350</entry>
+<entry align="left">12,22</entry>
+<entry align="left">12,22</entry>
+</row>
+<row valign="top">
+<entry align="left">40,0</entry>
+<entry align="left">0,00400</entry>
+<entry align="left">12,36</entry>
+<entry align="left">12,36</entry>
+</row>
+<row valign="top">
+<entry align="left">45,0</entry>
+<entry align="left">0,00450</entry>
+<entry align="left">12,46</entry>
+<entry align="left">12,46</entry>
+</row>
+<row valign="top">
+<entry align="left">50,0</entry>
+<entry align="left">0,00500</entry>
+<entry align="left">12,52</entry>
+<entry align="left">12,52</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure id="CNX_Chem_14_07_titration"><media id="fs-idp134166880" alt="Se muestran dos gráficos. El primer gráfico de la izquierda se titula &quot;Titulación del ácido débil&quot;. El eje horizontal está etiquetado como &quot;Volumen de 0,100 M de N a O H añadido (m L)&quot;. Las marcas y las líneas verticales de la cuadrícula se proporcionan cada 5 unidades de 0 a 50. El eje vertical está etiquetado como &quot;p H&quot; y está marcado cada 1 unidad comenzando en 0 y extendiéndose hasta 14. En el gráfico se dibuja una curva roja que aumenta constantemente desde el punto (0, 3) hasta aproximadamente (20, 5,5), después de lo cual el gráfico tiene una sección vertical desde (25, 7) hasta (25, 11). A continuación, el gráfico se nivela hasta un valor de aproximadamente 12,5 desde unos 40 m L hasta 50 m L. El punto medio del segmento vertical de la curva etiquetado &quot;Punto de equivalencia p H, 8,72&quot;. El segundo gráfico de la derecha se titula &quot;Titulación del ácido fuerte&quot;. El eje horizontal está etiquetado como &quot;Volumen de 0,100 M de N a O H añadido (m L)&quot; Las marcas y las líneas verticales de la cuadrícula se proporcionan cada 5 unidades de 0 a 50. El eje vertical está etiquetado como &quot;p H&quot; y está marcado cada 1 unidad comenzando en 0 y extendiéndose hasta 14. En el gráfico se dibuja una curva roja que aumenta gradualmente desde el punto (0, 1) hasta aproximadamente (22,5, 2,2), tras lo cual el gráfico tiene una sección vertical desde (25, 4) hasta casi (25, 11). A continuación, el gráfico se nivela a un valor de aproximadamente 12,4 desde unos 40 m L hasta 50 m L. El punto medio del segmento vertical de la curva etiquetado como &quot;Punto de equivalencia p H, 7,00&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_07_titration.jpg"/>
+</media>
+
+<caption>(a) La curva de titulación para la titulación de 25,00 mL de 0,100 <emphasis effect="italics">M</emphasis> de HCl (ácido fuerte) con 0,100 <emphasis effect="italics">M</emphasis> de NaOH (base fuerte) tiene un punto de equivalencia de 7,00 pH. (b) La curva de titulación para la titulación de 25,00 mL de 0,100 <emphasis effect="italics">M</emphasis> de ácido acético (ácido débil) con 0,100 <emphasis effect="italics">M</emphasis> de NaOH (base fuerte) tiene un punto de equivalencia de 8,72 pH.</caption></figure>
+</section>
+<section id="fs-idp22610576">
+<title>Indicadores ácido-base</title>
+<para id="fs-idm39085312">Algunas sustancias orgánicas cambian de color en solución diluida cuando la concentración de iones de hidronio alcanza un valor determinado. Por ejemplo, la fenolftaleína es una sustancia incolora en cualquier solución acuosa con una concentración de iones de hidronio superior a 5,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup> <emphasis effect="italics">M</emphasis> (pH &lt; 8,3). En soluciones más básicas donde la concentración de iones de hidronio es inferior a 5,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−9</sup> <emphasis effect="italics">M</emphasis> (pH &gt; 8,3), es de color rojo o rosa. Las sustancias como la fenolftaleína, que pueden utilizarse para determinar el pH de una solución, se denominan <term>indicadores ácido-base</term>. Los indicadores ácido-base son ácidos orgánicos débiles o bases orgánicas débiles.</para>
+<para id="fs-idm28417392">El equilibrio en una solución del indicador ácido-base naranja de metilo, un ácido débil, puede representarse mediante una ecuación en la que utilizamos HIn como representación simple para la molécula compleja de naranja de metilo:</para>
+<equation class="unnumbered" id="fs-idp80468176"><m:math><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>HIn</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mtd><m:mtd><m:mspace width="0.2em"/><m:mo stretchy="false">⇌</m:mo><m:mspace width="0.2em"/></m:mtd><m:mtd><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>In</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mspace width="0.5em"/><m:mtext>rojo</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd columnalign="left"><m:mspace width="5.5em"/><m:mrow><m:mtext>amarillo</m:mtext></m:mrow></m:mtd><m:mtd><m:mrow/></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+<equation class="unnumbered" id="fs-idm87967824">Los términos <m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>In</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:mtext>HIn</m:mtext></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>4,0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-idm68547888">El anión del naranja de metilo, In<sup>−</sup>, es amarillo, y la forma no ionizada, HIn, es roja. Cuando añadimos ácido a una solución de naranja de metilo, el aumento de la concentración de iones de hidronio desplaza el equilibrio hacia la forma roja no ionizada, de acuerdo con el principio de Le Châtelier. Si añadimos base, desplazamos el equilibrio hacia la forma amarilla. Este comportamiento es completamente análogo a la acción de los tampones.</para>
+<para id="fs-idp64938256">El color percibido de una solución indicadora está determinado por el cociente de las concentraciones de las dos especies In<sup>−</sup> y HIn. Si la mayor parte del indicador (normalmente un 60−90% o más) está presente como In<sup>−</sup>, el color percibido de la solución es amarillo. Si la mayor parte está presente como HIn, el color de la solución es rojo. La ecuación de Henderson-Hasselbalch es útil para entender la relación entre el pH de una solución indicadora y su composición (por tanto, el color percibido):</para>
+<equation class="unnumbered" id="fs-idp80076272"><m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:mtext>p</m:mtext><m:mi>K</m:mi><m:mtext>a</m:mtext><m:mo>+</m:mo><m:mtext>log</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>In</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>HIn</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idm188576256">En las soluciones donde el pH &gt; p<emphasis effect="italics">K</emphasis><sub>a</sub>, el término logarítmico debe ser positivo, que indica un exceso de la forma de base conjugada del indicador (solución amarilla). Cuando el pH &lt; p<emphasis effect="italics">K</emphasis><sub>a</sub>, el término logarítmico debe ser negativo, que indica un exceso del ácido conjugado (solución roja). Cuando el pH de la solución está cerca del pKa del indicador, están presentes cantidades apreciables de ambos conjugados, y el color de la solución es el de una combinación aditiva de cada uno (amarillo y rojo, dando lugar al naranja). El <term>intervalo de cambio de color</term> (o <emphasis effect="italics">intervalo de pH</emphasis>) para un indicador ácido-base se define como el rango de valores de pH sobre el cual se observa un cambio de color, y para la mayoría de los indicadores este rango es aproximadamente p<emphasis effect="italics">K</emphasis><sub>a</sub> ± 1.</para>
+<para id="fs-idm92451888">Hay muchos indicadores ácido-base diferentes que cubren una amplia gama de valores de pH y pueden utilizarse para determinar el pH aproximado de una solución desconocida mediante un proceso de eliminación. Los indicadores universales y el papel de pH contienen una mezcla de indicadores y muestran diferentes colores a diferentes pH. La <link target-id="CNX_Chem_14_07_indicators"/> presenta varios indicadores, sus colores y sus intervalos de cambio de color.</para>
+<figure id="CNX_Chem_14_07_indicators">
+<media id="fs-idp112102048" alt="Esta figura ofrece una representación gráfica de los indicadores y las gamas de colores. Un eje horizontal está etiquetado como &quot;p H&quot;. Este eje comienza en cero y aumenta de a uno hasta 13. La parte izquierda del gráfico muestra una columna con los nombres de los indicadores. A la derecha de cada nombre de indicador hay una o dos barras de color que están sombreadas según el color del indicador en varios rangos de p H. Desde arriba, la primera fila está etiquetada como &quot;Cristal violeta&quot;. La barra de color asociada es amarilla en su extremo izquierdo a un p H de 0 y cambia a verde y azul a medida que se mueve hacia la derecha hasta su punto final a un p H de 1,8. La segunda fila está etiquetada como &quot;Rojo Cresol&quot;. La barra de color asociada es roja en su extremo izquierdo a un p H de 1 y cambia a naranja y amarillo a medida que se mueve hacia la derecha a su punto final a un p H de poco más de 2. Una segunda barra a su derecha es amarilla a un p H de aproximadamente 7 y cambia a naranja y luego a rojo a un p H de aproximadamente 9. La tercera fila está etiquetada como &quot;Azul de timol&quot;. La barra de color asociada es roja en su extremo izquierdo a un p H de casi 1,2 y cambia a naranja y rojo a medida que se mueve hacia la derecha hasta su punto final a un p H de 2,8. Una segunda barra comienza en amarillo a un p H de 8 y cambia a verde y a luego a azul hasta su punto final a un p H de alrededor de 9,1. La cuarta fila está etiquetada como &quot;Eritrosina B&quot;. La barra de color asociada es roja desde un p H de 2,2 hasta su punto final a un p H de 3,6. La quinta fila está etiquetada como &quot;2 coma 4 guion Dinitrofenol&quot;. La barra de color asociada es blanca en su extremo izquierdo a un p H de 2,6 y cambia a amarillo en su punto final a un p H de 4. La sexta fila está etiquetada como &quot;Azul de bromofenol&quot;. La barra de color asociada es amarilla en su extremo izquierdo a un p H de 3 y cambia a verde y azul a medida que se mueve hacia la derecha hasta su punto final a un p H de 4,5. La séptima fila está etiquetada como &quot;Naranja de metilo&quot;. La barra de color asociada es rojo-naranja en su extremo izquierdo a un p H de 4,2 y cambia a amarillo a medida que se mueve hacia la derecha hasta su punto final a un p H de 6,3. La octava fila está etiquetada como &quot;Verde de bromocresol&quot;. La barra de color asociada es amarilla en su extremo izquierdo a un p H de 3,8 y cambia a verde y azul a medida que se mueve hacia la derecha hasta su punto final a un p H de 5,4. La novena fila está etiquetada como &quot;Rojo de metilo&quot;. La barra de color asociada es naranja en su extremo izquierdo a un p H de 4,2 y cambia a amarillo a medida que se mueve hacia la derecha hasta su punto final a un p H de 6,3. La décima fila está etiquetada como &quot;Negro de eriocromo* T&quot;. La barra de color asociada es roja en su extremo izquierdo a un p H de 5 y cambia a púrpura y azul a medida que se mueve hacia la derecha hasta su punto final a un p H de 6,5. La undécima fila está etiquetada como &quot;Púrpura de bromocresol&quot;. La barra de color asociada es amarilla en su extremo izquierdo a un p H de 5,2 y cambia a púrpura a medida que se mueve hacia la derecha hasta su punto final a un p H de 6,8. La duodécima fila está etiquetada como &quot;Alizarina&quot;. La primera barra de color asociada es amarillo-naranja en su extremo izquierdo a un p H de 5,7 y cambia a rojo a medida que se mueve hacia la derecha hasta su punto final a un p H de 7,2. Una segunda barra comienza en rojo a un p H de 11 y cambia a púrpura, luego a azul oscuro en su extremo derecho a un p H de 12,4. La decimotercera fila está etiquetada como &quot;Azul de bromotimol&quot;. La barra de color asociada es amarilla en su extremo izquierdo a un p H de 6 y cambia a verde y azul a medida que se mueve hacia la derecha hasta su punto final a un p H de 7,6. La decimocuarta fila está etiquetada como &quot;Rojo fenol&quot;. La barra de color asociada es amarillo-naranja en su extremo izquierdo a un p H de 6,8 y cambia a naranja y rojo a medida que se mueve hacia la derecha hasta su punto final a un p H de 8,2. La decimoquinta fila está etiquetada como &quot;m guion nitrofenol&quot;. La barra de color asociada es blanca en su extremo izquierdo a un p H de 6,8 y cambia a amarillo a medida que se mueve hacia la derecha hasta su punto final a un p H de 8,6. La decimosexta fila está etiquetada como &quot;o guion cresolftaleína&quot;. La barra de color asociada es blanca en su extremo izquierdo a un p H de 8,3 y cambia a rojo a medida que se mueve hacia la derecha hasta su punto final a un p H de 9,8. La decimoséptima fila está etiquetada como &quot;Fenolftaleína&quot;. La barra de color asociada es blanca en su extremo izquierdo a un p H de 8 y cambia a rosa a medida que se mueve hacia la derecha hasta su punto final a un p H de 10. La decimoctava fila está etiquetada como &quot;Timolftaleína&quot;. La barra de color asociada es de color azul claro en su extremo izquierdo a un p H de 9,3 y cambia a un azul oscuro y profundo a medida que se mueve hacia la derecha hasta su punto final a un p H de 10,5. La decimonovena fila está etiquetada como &quot;Amarillo de alizarina R&quot;. La barra de color asociada es amarillo-naranja en su extremo izquierdo a un p H de 10 y cambia a rojo a medida que se mueve hacia la derecha hasta su punto final a un p H de 12.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_07_indicators.jpg"/>
+</media>
+<caption>Este gráfico ilustra los intervalos de cambio de color de varios indicadores ácido-base.</caption>
+</figure>
+<figure id="CNX_Chem_14_07_titration2">
+<media id="fs-idm5594336" alt="Se muestra un gráfica titulada &quot;Titulación del ácido débil&quot;. El eje horizontal está etiquetado como &quot;Volumen de 0,100 M de N a O H añadido (m L)&quot; y comienza en 0 con marcas cada 5 unidades hasta 50. El eje vertical está etiquetado como &quot;p H&quot; y comienza en 0 y aumenta en unidades hasta 14. En el gráfico se dibuja una curva roja. La curva comienza en (0, 3) y pasa por los puntos (5, 4,1), (10, 4,7), (15, 5), (20, 5,5) y (22,5, 6), tras lo cual aumenta rápidamente, formando una sección vertical centrada en el punto (25, 8,7). A continuación, el rápido aumento de la curva se nivela y esta pasa por los puntos (30, 12), (35, 12,4), (40, 12,5), (45, 12,6) y (50, 12,6). Un rectángulo marrón se extiende horizontalmente por el gráfico cubriendo el rango de p H de 3 a 4,2. A la derecha, este rectángulo está etiquetado como &quot;Rango de p H del metil-naranja&quot;. Un rectángulo azul se extiende horizontalmente por el gráfico cubriendo el rango de p H de 4,6 a 8. A la derecha, este rectángulo está etiquetado como &quot;Rango de p H del tornasol&quot;. Un rectángulo púrpura se extiende horizontalmente por el gráfico cubriendo el rango de p H de 8,4 a 10. A la derecha, este rectángulo está etiquetado como &quot;Rango de p H de la fenolftaleína&quot;. El punto medio del segmento vertical de la curva está etiquetado como &quot;Punto de equivalencia p H, 8,72&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_14_07_titration2.jpg"/>
+</media>
+<caption>Curvas de titulación de ácidos fuertes y débiles que ilustran la elección adecuada del indicador ácido-base. Cualquiera de los tres indicadores mostrará un cambio de color razonablemente agudo en el punto de equivalencia de la titulación del ácido fuerte, pero solo la fenolftaleína es adecuada para su uso en la titulación del ácido débil.</caption>
+</figure>
+<para id="fs-idm188916592">Las curvas de titulación mostradas en la <link target-id="CNX_Chem_14_07_titration2"/> ilustran la elección de un indicador adecuado para titulaciones específicas. En la titulación con ácido fuerte, el uso de cualquiera de los tres indicadores debería producir cambios de color razonablemente nítidos y determinaciones precisas del punto final. Para esta titulación, el pH de la solución alcanza el límite inferior del intervalo de cambio de color del naranja de metilo después de la adición de ~24 mL de titulante, momento en el que la solución inicialmente roja comenzaría a aparecer naranja. Cuando se han añadido 25 mL de titulante (el punto de equivalencia), el pH está muy por encima del límite superior y la solución aparecerá amarilla. El punto final de la titulación puede estimarse entonces como el volumen de titulante que produce un cambio de color distinto de naranja a amarillo. Sería un reto para la mayoría de los ojos humanos discernir con precisión este cambio de color. Es posible realizar estimaciones más precisas del punto final de la titulación utilizando tornasol o fenolftaleína, ya que ambos presentan intervalos de cambio de color que están englobados por el aumento pronunciado del pH que se produce alrededor del punto de equivalencia de 25,00 mL.</para>
+<para id="fs-idm224614176">La curva de titulación del ácido débil en la <link target-id="CNX_Chem_14_07_titration2"/> muestra que solo uno de los tres indicadores es adecuado para la detección del punto final. Si se utiliza naranja de metilo en esta titulación, la solución experimentará un cambio gradual de color rojo a naranja a amarillo en un intervalo de volumen relativamente grande (0–6 mL), completando el cambio de color mucho antes de que se haya alcanzado el punto de equivalencia (25 mL). El uso del tornasol mostraría un cambio de color que comienza después de añadir 7–8 mL de titulante y termina justo antes del punto de equivalencia. La fenolftaleína, por el contrario, presenta un intervalo de cambio de color que asocia perfectamente el cambio brusco de pH que se produce en el punto de equivalencia de la titulación. Se observará un cambio de color brusco de incoloro a rosa en un intervalo de volumen muy pequeño alrededor del punto de equivalencia.</para>
+</section>
+<section id="fs-idp81138704" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp77329840">La curva de titulación de una titulación ácido-base suele ser un gráfico del pH versus el volumen de titulante añadido. Estas curvas son útiles para seleccionar los indicadores ácido-base adecuados que permitirán determinar con precisión los puntos finales de la titulación.</para>
+</section>
+<section id="fs-idp63641264" class="exercises">
+<exercise id="fs-idm5595328">
+<problem id="fs-idp5936080">
+<para id="fs-idp67232528">Explique cómo elegir el indicador ácido-base adecuado para la titulación de una base débil con un ácido fuerte.</para>
+</problem>
+<solution id="fs-idp131233712">
+<para id="fs-idm66845488">En el punto de equivalencia en la titulación de una base débil con un ácido fuerte, la solución resultante es ligeramente ácida debido a la presencia del ácido conjugado. Por lo tanto, elija un indicador que cambie de color en el rango ácido y asocie el pH en el punto de equivalencia. El metil-naranja es un buen ejemplo.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm81056688">
+<problem id="fs-idm86623888">
+<para id="fs-idp73771216">Explique por qué un indicador ácido-base cambia de color a lo largo de un rango de valores de pH y no a un pH específico.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp255636208">
+<problem id="fs-idp255636464">
+<para id="fs-idp255636720">Calcule el pH en los siguientes puntos en una titulación de 40 mL (0,040 L) de 0,100 <emphasis effect="italics">M</emphasis> de ácido barbitúrico (<emphasis effect="italics">K</emphasis><sub>a</sub> = 9,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>−5</sup>) con 0,100 <emphasis effect="italics">M</emphasis> de KOH.</para>
+<para id="fs-idp164478416">(a) Sin añadir KOH</para>
+<para id="fs-idp164478800">(b) Se añaden 20 mL de solución de KOH</para>
+<para id="fs-idp164479184">(c) Se añaden 39 mL de solución de KOH</para>
+<para id="fs-idp164479568">(d) Se añaden 40 mL de solución de KOH</para>
+<para id="fs-idp177607408">(e) Se añaden 41 mL de solución de KOH</para>
+</problem>
+<solution id="fs-idp177607920">
+<para id="fs-idp177608176">(a) pH = 2,50; (b) pH = 4,01; (c) pH = 5,60; (d) pH = 8,35; (e) pH = 11,08</para></solution>
+</exercise>
+<exercise id="fs-idp105330480">
+<problem id="fs-idp105330736">
+<para id="fs-idp105330992">El indicador dinitrofenol es un ácido con una <emphasis effect="italics">K</emphasis><sub>a</sub> de 1,1 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup>. En una solución de 1,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>−4</sup>-<emphasis effect="italics">M</emphasis>, es incoloro en el ácido y amarillo en la base. Calcule el intervalo de pH en el que pasa del 10% de ionización (incoloro) al 90% de ionización (amarillo).</para>
+</problem>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp67176144">
+<term>indicador ácido-base</term>
+<meaning id="fs-idp67176784">ácido o base débil cuya pareja conjugada imparte un color diferente a la solución; se utiliza en las evaluaciones visuales del pH de la solución</meaning>
+</definition>
+<definition id="fs-idp67177296">
+<term>intervalo de cambio de color</term>
+<meaning id="fs-idp67177936">rango de pH en el que se observa el cambio de color de un indicador</meaning>
+</definition>
+<definition id="fs-idp67179744">
+<term>curva de titulación</term>
+<meaning id="fs-idp67180384">gráfico de alguna propiedad de la muestra (como el pH) versus el volumen de titulante añadido</meaning>
+</definition>
+</glossary>
+</document>

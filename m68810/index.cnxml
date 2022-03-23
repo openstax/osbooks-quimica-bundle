@@ -1,0 +1,20 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introducción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68810</md:content-id>
+  <md:title>Introducción</md:title>
+  <md:abstract><list><item>Precipitación y disolución</item>
+<item>Ácidos y Bases de Lewis</item>
+<item>Equilibrios múltiples</item></list></md:abstract>
+  <md:uuid>8d42ec0e-c529-4663-ac18-2f41a286c668</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_15_00_Fluorite" class="splash">
+<media id="fs-idm215823840" alt="Se presenta una imagen de un grupo de cristales transparentes, mostrando principalmente formas cúbicas y algunas octaédricas. Un gran cristal cúbico en el centro de la fotografía tiene un centro verde esmeralda profundo con esquinas de color púrpura intenso y una pequeña región azul real justo a la derecha del centro. Un cristal cúbico más pequeño a su izquierda muestra esquinas y bordes de color púrpura con una coloración azul real hacia el centro. Se observa una coloración similar en otros cristales de la estructura, aunque la mayoría de los cristales más pequeños son claros e incoloros.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_00_Fluorite.jpg"/>
+</media>
+<caption>El mineral fluorita (CaF<sub>2</sub>) se forma cuando los iones de calcio y fluoruro disueltos precipitan desde las aguas subterráneas dentro de la corteza terrestre. Observe que la fluorita pura es incolora, y que el color de esta muestra se debe a la presencia de otros iones metálicos en el cristal.</caption>
+</figure>
+<para id="fs-idm92459840">El mineral fluorita, CaF<sub>2</sub> <link target-id="CNX_Chem_15_00_Fluorite"/>, se utiliza habitualmente como piedra semipreciosa en muchos tipos de joyería por su aspecto llamativo. Los depósitos de fluorita se forman a través de un proceso llamado precipitación hidrotermal en el que los iones de calcio y fluoruro disueltos en el agua subterránea se combinan para producir CaF<sub>2</sub> insoluble en respuesta a algún cambio en las condiciones de la solución. Por ejemplo, una disminución de la temperatura puede desencadenar la precipitación de la fluorita si se supera su solubilidad a la temperatura más baja. Dado que el ion de fluoruro es una base débil, su solubilidad también se ve afectada por el pH de la solución, por lo que los procesos geológicos o de otro tipo que cambien el pH del agua subterránea también afectarán a la precipitación de la fluorita. Este capítulo amplía la discusión sobre el equilibrio de otros capítulos abordando algunas clases de reacciones adicionales (incluyendo la precipitación) y sistemas que implican reacciones de equilibrio acopladas.</para>
+   </content></document>

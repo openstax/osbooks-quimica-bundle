@@ -1,0 +1,563 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Química de coordinación de los metales de transición</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68843</md:content-id>
+  <md:title>Química de coordinación de los metales de transición</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list><item>Enumerar los rasgos que definen los compuestos de coordinación.</item>
+<item>Describir las estructuras de los complejos que contienen ligandos monodentados y polidentados.</item>
+<item>Utilizar las reglas básicas de nomenclatura para designar los compuestos de coordinación.</item>
+<item>Explicar y dar ejemplos de isomería geométrica y óptica.</item>
+<item>Identificar varios casos naturales y tecnológicos de compuestos de coordinación.</item></list></md:abstract>
+  <md:uuid>21374116-b20b-4092-8a9d-0a89dfc7920e</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp120146608">La hemoglobina, la clorofila, la vitamina B-12 y el catalizador que se utiliza en la fabricación del polietileno contienen compuestos de coordinación. Los iones de los metales, especialmente los de transición, son susceptibles de formar complejos. Muchos de estos compuestos son muy coloridos (<link target-id="CNX_Chem_19_02_Colors"/>). En lo que queda de este capítulo, estudiaremos la estructura y el enlace de estos notables compuestos.</para>
+<figure id="CNX_Chem_19_02_Colors" class="scaled-down">
+<media id="fs-idp7404384" alt="Esta figura muestra seis contenedores. Cada uno está lleno de un líquido de diferente color. El primero parece ser claro, el segundo parece ser púrpura, el tercero parece ser rojo, el cuarto parece ser cerceta, el quinto parece ser azul y el sexto también parece ser claro.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Colors.jpg"/>
+</media>
+<caption>Los iones metálicos que contienen una subcapa <emphasis effect="italics">d</emphasis> parcialmente llena forman iones complejos coloreados; los iones con subcapa <emphasis effect="italics">d</emphasis> (<emphasis effect="italics">d</emphasis><sup>0</sup>) vacía o con subcapas <emphasis effect="italics">d</emphasis> (<emphasis effect="italics">d</emphasis><sup>10</sup>) llenas forman complejos incoloros. Esta figura muestra, de izquierda a derecha, soluciones que contienen iones [<emphasis effect="italics">M</emphasis>(H<sub>2</sub>O)<sub>6</sub>]<sup>n+</sup> con <emphasis effect="italics">M</emphasis> = Sc<sup>3+</sup>(<emphasis effect="italics">d</emphasis><sup>0</sup>), Cr<sup>3+</sup>(<emphasis effect="italics">d</emphasis><sup>3</sup>), Co<sup>2+</sup>(<emphasis effect="italics">d</emphasis><sup>7</sup>), Ni<sup>2+</sup>(<emphasis effect="italics">d</emphasis><sup>8</sup>), Cu<sup>2+</sup>(<emphasis effect="italics">d</emphasis><sup>9</sup>) y Zn<sup>2+</sup>(<emphasis effect="italics">d</emphasis><sup>10</sup>) (créditos: Sahar Atwa).</caption>
+</figure>
+<para id="fs-idp92015616">Recuerde que, en la mayoría de los compuestos de elementos del grupo principal, los electrones de valencia de los átomos aislados se combinan para formar enlaces químicos que satisfacen la regla del octeto. Por ejemplo, los cuatro electrones de valencia del carbono se superponen con los electrones de cuatro átomos de hidrógeno para formar el CH<sub>4</sub>. El electrón de valencia del sodio se suma a los siete electrones de valencia del cloro para formar la unidad de fórmula iónica NaCl (<link target-id="CNX_Chem_19_02_BondType"/>). Los metales de transición no se unen de esta manera. Forman principalmente enlaces covalentes de coordinación, una forma de interacción ácido-base de Lewis en la que un donante (base de Lewis) aporta los dos electrones del enlace a un aceptor de electrones (ácido de Lewis). El ácido de Lewis en los complejos de coordinación, a menudo llamado ion (o átomo) <term>metálico central</term>, es un metal de transición o un metal de transición interna, aunque los elementos del grupo principal también pueden formar <term>compuestos de coordinación</term>. Los donantes de base de Lewis, llamados <term>ligandos</term>, abarcan una gran variedad de sustancias químicas: átomos, moléculas o iones. El único requisito es que tengan uno o más pares de electrones, que puedan donarse al metal central. En la mayoría de los casos, se trata de un <term>átomo donante</term> con un par solitario de electrones que forma un enlace de coordinación con el metal.</para>
+<figure id="CNX_Chem_19_02_BondType" class="scaled-down">
+<media id="fs-idp231200048" alt="Se muestran tres modelos de puntos de electrones. A la izquierda, se muestra un átomo de C central con átomos de H enlazados por encima, por debajo, a la izquierda y a la derecha. Entre el átomo C y cada átomo H hay dos puntos de electrones, uno rojo y otro negro, uno al lado del otro en pares entre los átomos. La segunda estructura de la derecha muestra N superíndice signo más, seguida de un átomo de C l entre corchetes. Este átomo de C l tiene pares de puntos de electrones por encima, por debajo, a la izquierda y a la derecha del símbolo del elemento. Un solo punto de electrón en el lado izquierdo del símbolo se muestra en rojo. Todos los demás son negros. Fuera de los corchetes de la derecha, aparece un signo menos como superíndice. La tercera estructura en el extremo derecho tiene un átomo central de S c. Este átomo está rodeado por seis pares de puntos de electrones espaciados uniformemente. Estos pares de puntos se sitúan entre el átomo de S c y cada uno de los átomos de O de seis moléculas de H subíndice 2 O. Toda esta estructura se encuentra entre corchetes, a cuya derecha se encuentra el superíndice 3 signo más.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_BondType.jpg"/>
+</media>
+<caption>(a) Los enlaces covalentes implican la compartición de electrones, y los enlaces iónicos implican la transferencia de electrones asociados a cada átomo de enlace, como lo indican los electrones coloreados. (b) Sin embargo, los enlaces covalentes de coordinación implican la donación de electrones de una base de Lewis a un centro metálico. Los pares solitarios de seis moléculas de agua forman enlaces con el ion de escandio para formar un complejo octaédrico. (Solo se muestran los pares donados).</caption>
+</figure>
+<para id="fs-idp151225552">La <term>esfera de coordinación</term> consta del ion o átomo metálico central más sus ligandos unidos. Los corchetes en una fórmula encierran la esfera de coordinación; los elementos fuera de los corchetes no forman parte de la esfera de coordinación. El <term>número de coordinación</term> del ion o átomo metálico central es el número de átomos donantes enlazados a este. El número de coordinación del ion de plata en [Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> es dos (<link target-id="CNX_Chem_19_02_CN"/>). Para el ion de cobre(II) en [CuCl<sub>4</sub>]<sup>2-</sup>, el número de coordinación es cuatro, mientras que para el ion de cobalto(II) en [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>, el número de coordinación es seis. Cada uno de estos ligandos es <term>monodentado</term>, del griego "un diente", lo que significa que se conectan con el metal central a través de un solo átomo. En este caso, el número de ligandos y el número de coordinación son iguales.</para>
+<figure id="CNX_Chem_19_02_CN" class="scaled-down">
+<media id="fs-idp225513984" alt="Se muestran tres estructuras. En a, un átomo central de A g tiene N átomos enlazados a la izquierda y a la derecha, como se indica en los segmentos de línea. Tres átomos de H están enlazados de forma similar a cada átomo de N, que se extiende hacia fuera y hacia arriba, hacia el lado y hacia fuera y hacia abajo de cada átomo de N. La estructura va entre corchetes con el signo más en superíndice a la derecha de los corchetes. En b, un átomo de C u está en el centro de la estructura. Los segmentos de línea indican los enlaces a dos átomos de C l, uno por encima y otro por debajo y a la izquierda del átomo central. A la derecha, se muestra una cuña discontinua, estrecha hacia el átomo de C u y que se ensancha hacia un átomo de C l, en el lado derecho del átomo central de C u. Una cuña sólida se dirige de forma similar hacia un átomo de C l por debajo y ligeramente a la derecha del átomo central de C u. Esta estructura está encerrada entre corchetes con superíndice 2 con signo menos a la derecha de los corchetes. En c, se muestra una estructura con un átomo central de C o. A partir del átomo de C o, los segmentos de línea indican los enlaces con moléculas de H subíndice 2 O por encima y por debajo de la estructura. Por encima y a la derecha y a la izquierda, las cuñas discontinuas indican enlaces a dos moléculas de H subíndice 2 O. Del mismo modo, las cuñas sólidas situadas debajo, tanto a la derecha como a la izquierda, indican enlaces con dos moléculas más de H subíndice 2 O. Cada enlace en esta estructura se dirige hacia el átomo O en cada estructura H subíndice 2 O. Esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, hay un superíndice 2 con el signo más.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_CN.jpg"/>
+</media>
+<caption>Los complejos (a) [Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup>, (b) [Cu(Cl)<sub>4</sub>]<sup>2-</sup>, y (c) [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> tienen números de coordinación de dos, cuatro y seis, respectivamente. Las geometrías de estos complejos son las mismas que hemos visto con la teoría de repulsión de pares de electrones de (la capa de) valencia (Valence Shell Electron Pair Repulsion, VSEPR) para los elementos del grupo principal: lineal, tetraédrica y octaédrica.</caption>
+</figure>
+<para id="fs-idp37282080">Muchos otros ligandos se coordinan con el metal de forma más compleja. Los<term>ligandos bidentados</term> son aquellos en los que dos átomos se coordinan con el centro metálico. Por ejemplo, la etilendiamina (en, H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>) contiene dos átomos de nitrógeno, cada uno de los cuales tiene un par solitario y sirve como base de Lewis (<link target-id="CNX_Chem_19_02_en"/>). Ambos átomos se coordinan con un solo centro metálico. En el complejo [Co(en<sub>)3</sub>]<sup>3+</sup>, hay tres ligandos bidentados en, y el número de coordinación del ion cobalto(III) es seis. Los números de coordinación más comunes son el dos, el cuatro y el seis, aunque se conocen ejemplos de todos los números de coordinación del 1 al 15.</para>
+<figure id="CNX_Chem_19_02_en" class="scaled-down">
+<media id="fs-idp39737888" alt="Se muestran dos estructuras. En a, aparece H subíndice 2 N en el extremo izquierdo de la estructura. Un segmento de línea se extiende hacia arriba y hacia la derecha desde el átomo de N hasta un átomo de C en un grupo de C H subíndice 2. Un segmento de línea se extiende hacia abajo y hacia la derecha hasta otro átomo de C en un grupo de C H subíndice 2. Un último segmento de línea se extiende desde este grupo C H subíndice 2 hacia arriba y hacia la derecha hasta el átomo N de un grupo N H subíndice 2. Cada átomo de N en la estructura tiene un par de puntos de electrones en su parte superior. En b, un átomo central de C o tiene seis grupos N H subíndice 2 unidos con enlaces simples. Estos enlaces se indican con segmentos de línea que se extienden por encima y por debajo, cuñas discontinuas que se extienden hacia arriba y hacia la izquierda y la derecha, y cuñas sólidas que se extienden por debajo y hacia la izquierda y la derecha. Los enlaces a estos grupos están todos dirigidos hacia los átomos de N. Los grupos N H subíndice 2 están cada uno conectados a átomos de C de grupos C H subíndice 2 que se extienden hacia fuera desde el átomo de C o central. Estos grupos C H subíndice 2 están conectados en pares con enlaces indicados por segmentos de línea, para formar 3 anillos en la estructura. Toda esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, hay un superíndice 3 con el signo más.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_en.jpg"/>
+</media>
+<caption>(a) El ligando etilendiamina (en) contiene dos átomos con pares solitarios que se coordinan con el centro metálico. (b) El complejo de cobalto(III) <m:math><m:mrow><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>en</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup></m:mrow></m:math> contiene tres de estos ligandos, cada uno de los cuales forma dos enlaces con el ion de cobalto.</caption>
+</figure>
+<para id="fs-idp32736688">Cualquier ligando que se una a un ion metálico central mediante más de un átomo donante es un <term>ligando polidentado</term> (o de "muchos dientes") porque puede morder el centro metálico con más de un enlace. El término <term>quelato</term>, del griego "garra", también se utiliza para describir este tipo de interacción. Muchos ligandos polidentados son <term>ligandos quelantes</term>; el complejo formado por uno o más de estos ligandos y un metal central es un quelato. El ligando quelante también se conoce como agente quelante. El ligando quelante sujeta el ion metálico como una pinza de cangrejo sujetaría una canica. La <link target-id="CNX_Chem_19_02_en"/> es un ejemplo de quelato. El complejo hemo de la hemoglobina es otro ejemplo importante (<link target-id="CNX_Chem_19_02_heme"/>). Contiene un ligando polidentado con cuatro átomos donantes que se coordinan con el hierro.</para>
+<figure id="CNX_Chem_19_02_heme" class="scaled-down">
+<media id="fs-idp57882256" alt="Se muestra una estructura para el ligando sencillo hemo. En el centro de esta estructura hay un átomo de F e. Desde este átomo, cuatro enlaces simples se extienden hacia arriba y hacia la derecha e izquierda y hacia abajo y hacia la derecha e izquierda hasta cuatro átomos de N que se muestran en rojo. Cada átomo de N es un componente de un anillo de 5 elementos con cuatro átomos de C. Cada uno de estos anillos tiene un doble enlace entre los átomos de C que no están unidos al átomo de N. Los átomos de C unidos a átomos de N están conectados a átomos de C que sirven de enlace entre los anillos de 5 elementos. El enlace al átomo de C en el sentido de las agujas del reloj desde el anillo de 5 elementos en cada caso es un doble enlace. El enlace al átomo de C en sentido contrario a las agujas del reloj desde el anillo de 5 elementos en cada caso es un enlace simple. A la izquierda de la estructura, dos de los átomos de C de los anillos de 5 elementos que no están unidos al N están unidos a grupos C H subíndice 3. Los demás carbonos de estos anillos que no están unidos a átomos de N están unidos a grupos superiores e inferiores. Arriba hay un grupo C H con doble enlace a un grupo C H subíndice 2. A continuación, hay un grupo C H subíndice 2 enlazado a otro grupo C H subíndice 2, que está enlazado a un grupo C O subíndice 2 H. En el lado derecho de la estructura, los átomos de C de los anillos de 5 elementos, que no están enlazados a átomos de N, están enlazados a estructuras adicionales. El átomo de C a la derecha en el anillo de 5 elementos en la parte superior derecha está enlazado a un grupo C H, que a su vez está doblemente enlazado a un grupo C H subíndice 2. Del mismo modo, el átomo de C más a la derecha del anillo de 5 elementos en la parte inferior derecha está enlazado a un grupo C H subíndice 3. El átomo de C del anillo de 5 elementos, que no está enlazado a un átomo de N en la región superior derecha de la estructura, está enlazado a un grupo de C H subíndice 3 arriba. Del mismo modo, el átomo de C del anillo de 5 elementos, que no está enlazado a un átomo de N en la región inferior derecha de la estructura, está enlazado a un grupo C H subíndice 2, que está enlazado a otro grupo C H subíndice 2, que está enlazado a un grupo C O subíndice 2 H por debajo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_heme.jpg"/>
+</media>
+<caption>El ligando sencillo hemo contiene cuatro átomos de nitrógeno que se coordinan con el hierro de la hemoglobina para formar un quelato.</caption>
+</figure>
+<para id="fs-idp106041024">Los ligandos polidentados se identifican a veces con prefijos que indican el número de átomos donantes en el ligando. Como hemos visto, los ligandos con un átomo donante, como NH<sub>3</sub>, Cl<sup>-</sup>, y H<sub>2</sub>O, son monodentados. Los ligandos con dos grupos donantes son bidentados. La etilendiamina, H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>, y el anión del ácido glicina, <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> (<link target-id="CNX_Chem_19_02_Gly"/>) son ejemplos de ligandos bidentados. Los ligandos tridentados, tetradentados, pentadentados y hexadentados contienen tres, cuatro, cinco y seis átomos donantes, respectivamente. El ligando en hemo (<link target-id="CNX_Chem_19_02_heme"/>) es tetradentado.</para>
+<figure id="CNX_Chem_19_02_Gly" class="scaled-down">
+<media id="fs-idp157070928" alt="Se muestra una estructura. En el centro de esta estructura hay un átomo de P t. Desde este átomo, dos enlaces simples se extienden hacia arriba y hacia la derecha y hacia abajo y hacia la izquierda hasta dos átomos de O que se muestran en rojo. Del mismo modo, dos enlaces se extienden hacia arriba y hacia la izquierda y hacia abajo y hacia la derecha a los átomos de N en los grupos N H subíndice 2. Los átomos de N de estos grupos están en rojo. Los átomos de N están enlazados a grupos C H subíndice 2, que a su vez están enlazados a átomos de C. Estos átomos de C tienen átomos de O doblemente enlazados y orientados hacia el exterior de la estructura. También tienen enlace simple a los átomos de O en la estructura, para formar dos anillos conectados por el átomo central de P t.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Gly.jpg"/>
+</media>
+<caption>Cada uno de los ligandos aniónicos se une de forma bidentada al platino(II), donde un átomo de nitrógeno y otro de oxígeno se coordinan con el metal.</caption>
+</figure>
+<section id="fs-idp9182928">
+<title>La designación de los complejos</title>
+<para id="fs-idp51192128">La nomenclatura de los complejos se basa en un sistema que sugirió Alfred Werner, químico suizo y premio Nobel, cuyo extraordinario trabajo de hace más de 100 años sentó las bases para comprender mejor estos compuestos. Las siguientes cinco reglas se utilizan para designar los complejos:</para>
+<list id="fs-idp7606384" list-type="enumerated" number-style="arabic"><item>Si un compuesto de coordinación es iónico, se nombra primero el catión y después el anión, de acuerdo con la nomenclatura habitual.</item>
+<item>Se nombran primero los ligandos y luego el metal central. Se nombran los ligandos en orden alfabético. Los ligandos negativos (aniones) tienen nombres que se forman al añadir -<emphasis effect="italics">o</emphasis> al nombre de la raíz del grupo. Para ver ejemplos, consulte la <link target-id="fs-idp115554880"/>. En la mayoría de los ligandos neutros, se utiliza el nombre de la molécula. Las cuatro excepciones comunes son <emphasis effect="italics">agua</emphasis> (H<sub>2</sub>O), <emphasis effect="italics">amino</emphasis> (NH<sub>3</sub>), <emphasis effect="italics">carbonilo</emphasis> (CO) y <emphasis effect="italics">nitrosilo</emphasis> (NO). Por ejemplo, se designa [Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>4</sub>] como diaminotetracloroplatino (IV).
+<table id="fs-idp115554880" class="top-titled" summary="Esta tabla tiene dos columnas y 11 filas. La primera fila es un encabezado y marca cada columna, &quot;Ligando aniónico&quot; y &quot;Nombre&quot;. Bajo la columna &quot;Ligando aniónico&quot; se encuentran los siguientes: F superíndice signo negativo, C l superíndice signo negativo, B r superíndice signo negativo, I superíndice signo negativo, C N superíndice signo negativo, N O subíndice 3 superíndice signo negativo, O H superíndice signo negativo, O a la segunda potencia superíndice signo negativo, C subíndice 2 O subíndice 4 a la segunda potencia superíndice signo negativo, C O subíndice 2 a la segunda potencia superíndice signo negativo. Bajo la columna &quot;Nombre&quot; se encuentra lo siguiente: fluoro, cloro, bromo, yodo, ciano, nitrato, hidroxo, oxo, oxalato, carbonato.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Ejemplos de ligandos aniónicos</entry>
+</row>
+<row valign="top">
+<entry align="left">Ligando aniónico</entry>
+<entry align="left">Nombre</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">F<sup>-</sup></entry>
+<entry align="left">fluoro</entry>
+</row>
+<row valign="top">
+<entry align="left">Cl<sup>-</sup></entry>
+<entry align="left">cloro</entry>
+</row>
+<row valign="top">
+<entry align="left">Br<sup>-</sup></entry>
+<entry align="left">bromo</entry>
+</row>
+<row valign="top">
+<entry align="left">I<sup>-</sup></entry>
+<entry align="left">yodo</entry>
+</row>
+<row valign="top">
+<entry align="left">CN<sup>-</sup></entry>
+<entry align="left">ciano</entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left">nitrato</entry>
+</row>
+<row valign="top">
+<entry align="left">OH<sup>-</sup></entry>
+<entry align="left">hidroxo</entry>
+</row>
+<row valign="top">
+<entry align="left">O<sup>2-</sup></entry>
+<entry align="left">oxo</entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">oxalato</entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left">carbonato</entry>
+</row>
+</tbody>
+</tgroup>
+</table></item>
+<item>Si hay más de un ligando de un tipo determinado, el número se indica con los prefijos <emphasis effect="italics">di</emphasis>-(para dos), <emphasis effect="italics">tri</emphasis>- (para tres), <emphasis effect="italics">tetra</emphasis>- (para cuatro), <emphasis effect="italics">penta</emphasis>- (para cinco) y <emphasis effect="italics">hexa</emphasis>- (para seis). A veces, los prefijos <emphasis effect="italics">bis</emphasis>- (para dos), <emphasis effect="italics">tris</emphasis>- (para tres) y <emphasis effect="italics">tetraquis</emphasis>- (para cuatro) se utilizan cuando el nombre del ligando ya incluye <emphasis effect="italics">di</emphasis>-, <emphasis effect="italics">tri</emphasis>- o <emphasis effect="italics">tetra</emphasis>-, o cuando el nombre del ligando comienza con una vocal. Por ejemplo, el ion bis(bipiridilo)osmio(II) utiliza bis- para significar que hay dos ligandos unidos al Os, y cada ligando bipiridilo contiene dos grupos piridina (C<sub>5</sub>H<sub>4</sub>N).</item>
+</list><para id="fs-idp261455600">Cuando el complejo es un catión o una molécula neutra, el nombre del átomo metálico central se escribe exactamente como el nombre del elemento y va seguido de un número romano entre paréntesis para indicar su estado de oxidación (<link target-id="fs-idp99540896"/> y <link target-id="fs-idp97436016"/>). Cuando el complejo es un anión, se añade el sufijo -ato a la raíz del nombre del metal, seguido de la designación en números romanos de su estado de oxidación (<link target-id="fs-idp240256816"/>). A veces, se utiliza el nombre latino del metal cuando el nombre inglés es inapropiado. Por ejemplo, se utiliza <emphasis effect="italics">ferrato</emphasis> en lugar de <emphasis effect="italics">ironato</emphasis>, <emphasis effect="italics">plumbato</emphasis> en lugar de <emphasis effect="italics">leadato</emphasis> y <emphasis effect="italics">estannato</emphasis> en lugar de <emphasis effect="italics">tinato</emphasis>. El estado de oxidación del metal se determina en función de las cargas de cada ligando y de la carga global del compuesto de coordinación. Por ejemplo, en [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]Br, la esfera de coordinación (entre corchetes) tiene una carga de 1+ para equilibrar el ion de bromuro. Los ligandos de agua son neutros y los de cloruro son aniónicos con una carga de 1- cada uno. Para determinar el estado de oxidación del metal, fijamos la carga global igual a la suma de los ligandos y el metal: +1 = -2 + <emphasis effect="italics">x</emphasis>, por lo que el estado de oxidación(<emphasis effect="italics">x</emphasis>) es igual a 3+.</para>
+<table id="fs-idp99540896" class="top-titled" summary="Esta tabla tiene dos columnas y cinco filas. En la primera columna están los siguientes: [ C o ( N H subíndice 3 ) subíndice 6 ] C l subíndice 3, [ P t ( N H subíndice 3 ) subíndice 4 C l subíndice 2 ] a la segunda potencia superíndice signo positivo, [ A g ( N H subíndice 3 ) subíndice 2 ] superíndice signo positivo, [ C r ( H subíndice 2 O ) subíndice 4 C l subíndice 2 ] C l, [ C o ( H subíndice 2 N C H subíndice 2 C H subíndice 2 N H subíndice 2 ) subíndice 3 ] subíndice 2 ( S O subíndice 4 ) subíndice 3. En la segunda columna están los siguientes: Cloruro de hexaaminocobalto ( I I I ), ion de tetraamino-dicloroplatino ( I V ), ion de diamina-plata ( I ), cloruro de tetraacuadriclorocromo ( I I I ), sulfato de tris ( etilendiamina ) cobalto ( I I I ).">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Ejemplos en los que el complejo es un catión</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">[Co(NH<sub>3</sub>)<sub>6</sub>]Cl<sub>3</sub></entry>
+<entry align="left">cloruro de hexaaminocobalto(III)</entry>
+</row>
+<row valign="top">
+<entry align="left">[Pt(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]<sup>2+</sup></entry>
+<entry align="left">ion de tetraaminodicloroplatino(IV)</entry>
+</row>
+<row valign="top">
+<entry align="left">[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup></entry>
+<entry align="left">ion de diaminoplata(I)</entry>
+</row>
+<row valign="top">
+<entry align="left">[Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]Cl</entry>
+<entry align="left">cloruro de tetraaquiclorocromo(III)</entry>
+</row>
+<row valign="top">
+<entry align="left">[Co(H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>)<sub>3</sub>]<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></entry>
+<entry align="left">sulfato de tris(etilendiamina)cobalto(III)</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><table id="fs-idp97436016" class="top-titled" summary="Esta tabla tiene dos columnas y dos filas. En la primera fila se encuentran los siguientes: [ P t ( N H subíndice 3 ) subíndice 2 C l subíndice 4 ], [ N i ( H subíndice 2 N C H subíndice 2 C H subíndice 2 N H subíndice 2 ) subíndice 2 C l subíndice 2 ]. En la segunda columna están los siguientes: Diaminotetracloroplatino ( I V ), diclorobis ( etilendiamina ) níquel ( I I ).">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Ejemplos en los que el complejo es neutro</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">[Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>4</sub>]</entry>
+<entry align="left">diaminotetracloroplatino(IV)</entry>
+</row>
+<row valign="top">
+<entry align="left">[Ni(H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>)<sub>2</sub>Cl<sub>2</sub>]</entry>
+<entry align="left">diclorobis(etilendiamina)níquel(II)</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><table id="fs-idp240256816" class="top-titled" summary="Esta tabla tiene dos columnas y dos filas. En la primera columna se encuentra lo siguiente: [ P t C l subíndice 6 ] a la segunda potencia superíndice signo negativo, N a subíndice 2 [ S n C l subíndice 6 ]. La segunda columna son los siguientes iones Hexacloroplatinato ( I V ), Hexaclorostanato de sodio ( I V ).">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">Ejemplos en los que el complejo es un anión</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">[PtCl<sub>6</sub>]<sup>2-</sup></entry>
+<entry align="left">ion de hexacloroplatinato(IV)</entry>
+</row>
+<row valign="top">
+<entry align="left">Na<sub>2</sub>[SnCl<sub>6</sub>]</entry>
+<entry align="left">hexaclorostanato(IV) sódico</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idp19588672" class="chemistry link-to-learning">
+<para id="fs-idp115410176">¿Cree que entiende la designación de los complejos de coordinación? Puede consultar más ejemplos y ponerse a prueba con <link url="http://openstax.org/l/16namingcomps">cuestionarios en línea</link> en el sitio web de la Universidad de Sídney.</para>
+</note>
+<example id="fs-idp246755792">
+<para id="fs-idp311893584"><title>Números de coordinación y estados de oxidación</title>
+Determine el nombre de los siguientes complejos e indique el número de coordinación del átomo de metal central.</para>
+<para id="fs-idp150844896">(a) Na<sub>2</sub>[PtCl<sub>6</sub>]</para>
+<para id="fs-idp67156976">(b) K<sub>3</sub>[Fe(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub>]</para>
+<para id="fs-idp76361984">(c) [Co(NH<sub>3</sub>)<sub>5</sub>Cl]Cl<sub>2</sub></para>
+<para id="fs-idp11270272"><title>Solución</title>(a) Hay dos iones de Na<sup>+</sup>, por lo que la esfera de coordinación tiene dos cargas negativas: [PtCl<sub>6</sub>]<sup>2-</sup>. Hay seis ligandos aniónicos de cloruro, por lo que -2 = -6 + <emphasis effect="italics">x</emphasis>, y el estado de oxidación del platino es 4+. El nombre del complejo es hexacloroplatinato(IV) sódico, y el número de coordinación es seis. (b) La esfera de coordinación tiene una carga de 3- (basada en el potasio) y los ligandos oxalato tienen cada uno una carga de 2-, por lo que el estado de oxidación del metal está dado por -3 = -6 + <emphasis effect="italics">x</emphasis>, y se trata de un complejo de hierro(III). El nombre es trisoxalatoferrato(III) de potasio (observe que se utiliza tris en lugar de tri porque el nombre del ligando comienza con una vocal). Dado que el oxalato es un ligando bidentado, este complejo tiene un número de coordinación de seis. (c) En este ejemplo, la esfera de coordinación tiene una carga catiónica de 2+. El ligando NH<sub>3</sub> es neutro, pero el ligando cloro tiene una carga de 1-. El estado de oxidación se halla mediante +2 = -1 + <emphasis effect="italics">x</emphasis> y es 3+, por lo que el complejo es cloruro de pentaaminoclorocobalto(III) y el número de coordinación es seis.</para><para id="fs-idp19652080"><title>Compruebe lo aprendido</title>
+El complejo dicianoargenato(I) de potasio se utiliza para fabricar compuestos antisépticos. Indique la fórmula y el número de coordinación.</para>
+<note id="fs-idp64014688"><title>Respuesta:</title>
+<para id="fs-idp49529584">K[Ag(CN<sub>)2</sub>]; número de coordinación dos</para>
+</note>
+</example>
+</section>
+<section id="fs-idp225700912">
+<title>Las estructuras de los complejos</title>
+<para id="fs-idp38320320">Las estructuras más comunes de los complejos en los compuestos de coordinación son la octaédrica, la tetraédrica y la cuadrada plana (vea la <link target-id="CNX_Chem_19_02_structures"/>). En los complejos de metales de transición, el número de coordinación determina la geometría alrededor del ion metálico central. En la <link target-id="fs-idp162520608"/> se comparan los números de coordinación con la geometría molecular:</para>
+<figure id="CNX_Chem_19_02_structures" class="scaled-down">
+<media id="fs-idp159515584" alt="Esta figura contiene tres diagramas en blanco y negro. El primero está marcado como &quot;bipirámide pentagonal&quot;. Tiene 10 caras de triángulo isósceles, cinco en la parte superior, unidas por un vértice, para formar un punto que se proyecta hacia arriba en la parte superior de la figura, y cinco abajo, unidas por un vértice, para formar un punto que se proyecta hacia abajo, en la base de la figura. El segundo está marcado como &quot;antiprisma cuadrado&quot;. Tiene superficies cuadradas superiores e inferiores planas y lados formados por 8 triángulos equiláteros. Los lados alternan su orientación entre los que apuntan hacia arriba y los que apuntan hacia abajo. El tercer diagrama está marcado como &quot;dodecaedro&quot;. Tiene doce caras de triángulo isósceles.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_structures.jpg"/>
+</media>
+<caption>Estas son las geometrías de algunos complejos con números de coordinación de siete y ocho.</caption>
+</figure>
+<table id="fs-idp162520608" class="top-titled" summary="Esta tabla tiene tres columnas y 12 filas. La primera fila es una fila de encabezado, y marca cada columna, &quot;Número de coordinación&quot;, &quot;Geometría molecular&quot; y &quot;Ejemplo&quot;. En la columna &quot;Número de coordinación&quot; se encuentra lo siguiente: 2, 3, 4, 4, 5, 5, 6, 7, 8, 8, 9 y superiores. En la columna &quot;Geometría molecular&quot; se encuentra lo siguiente: lineal, trigonal plana, tetraédrica ( d superíndice 0 o d superíndice 10 ) y estados de oxidación bajos para M, cuadrada plana ( d superíndice 8 ), trigonal bipiramidal, octaédrica, bipirámide pentagonal, antiprisma cuadrado, dodecaedro y estructuras más complicadas. En la columna &quot;Ejemplo&quot; se encuentra lo siguiente: [ A g ( N H subíndice 3 ) subíndice 2 ] superíndice signo positivo, [ C u ( C N ) subíndice 3 ] superíndice dos signo negativo, [ N I ( C O ) subíndice 4 ], [ N i C l subíndice 4 ] superíndice dos signo negativo, [ C o C l subíndice 5 ] superíndice dos signo negativo, [ V O ( C N ) subíndice 4 ] superíndice dos signo negativo, [ C o C l subíndice 6 ] superíndice tres signo negativo, [ Z r F subíndice 7 ] superíndice tres signo negativo, [ R e F subíndice 8 ] superíndice dos signo negativo, [ M o ( C N ) subíndice 8 ] superíndice cuatro signo negativo, [ R e H subíndice 9 ] superíndice dos signo negativo."><tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Números de coordinación y geometría molecular</entry>
+</row>
+<row valign="top">
+<entry align="left">Número de coordinación</entry>
+<entry align="left">Geometría molecular</entry>
+<entry align="left">Ejemplo</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">2</entry>
+<entry align="left">lineal</entry>
+<entry align="left">[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup></entry>
+</row>
+<row valign="top">
+<entry align="left">3</entry>
+<entry align="left">trigonal plana</entry>
+<entry align="left">[Cu(CN)<sub>3</sub>]<sup>2-</sup></entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">tetraédrica (<emphasis effect="italics">d</emphasis><sup>0</sup> o <emphasis effect="italics">d</emphasis><sup>10</sup>), estados de oxidación bajos para M</entry>
+<entry align="left">[Ni(CO<sub>)4</sub>]</entry>
+</row>
+<row valign="top">
+<entry align="left">4</entry>
+<entry align="left">cuadrada plana (<emphasis effect="italics">d</emphasis><sup>8</sup>)</entry>
+<entry align="left">[Ni(CN)<sub>4</sub>]<sup>2-</sup></entry>
+</row>
+<row valign="top">
+<entry align="left">5</entry>
+<entry align="left">bipiramidal trigonal</entry>
+<entry align="left">[CoCl<sub>5</sub>]<sup>2-</sup></entry>
+</row>
+<row valign="top">
+<entry align="left">5</entry>
+<entry align="left">piramidal cuadrada</entry>
+<entry align="left">[VO(CN)<sub>4</sub>]<sup>2-</sup></entry>
+</row>
+<row valign="top">
+<entry align="left">6</entry>
+<entry align="left">octaédrica</entry>
+<entry align="left">[CoCl<sub>6</sub>]<sup>3-</sup></entry>
+</row>
+<row valign="top">
+<entry align="left">7</entry>
+<entry align="left">bipiramidal pentagonal</entry>
+<entry align="left">[ZrF<sub>7</sub>]<sup>3-</sup></entry>
+</row>
+<row valign="top">
+<entry align="left">8</entry>
+<entry align="left">antiprisma cuadrado</entry>
+<entry align="left">[ReF<sub>8</sub>]<sup>2-</sup></entry>
+</row>
+<row valign="top">
+<entry align="left">8</entry>
+<entry align="left">dodecaedro</entry>
+<entry align="left">[Mo(CN)<sub>8</sub>]<sup>4-</sup></entry>
+</row>
+<row valign="top">
+<entry align="left">9 y más</entry>
+<entry align="left">estructuras más complicadas</entry>
+<entry align="left">[ReH<sub>9</sub>]<sup>2-</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table><para id="fs-idp57061536">A diferencia de los átomos del grupo principal, en los que tanto los electrones enlazantes como los no enlazantes determinan la forma molecular, los electrones <emphasis effect="italics">d</emphasis> no enlazantes no cambian la disposición de los ligandos. Los complejos octaédricos tienen un número de coordinación de seis, y los seis átomos donantes están dispuestos en las esquinas de un octaedro alrededor del ion metálico central. Los ejemplos se muestran en la <link target-id="CNX_Chem_19_02_oct"/>. Los aniones cloruro y nitrato en [Co(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>2</sub> y [Cr(en)<sub>3</sub>](NO<sub>3</sub>)<sub>3</sub>, y los cationes de potasio en K<sub>2</sub>[PtCl<sub>6</sub>], están fuera de los corchetes y no están unidos al ion metálico.</para>
+<figure id="CNX_Chem_19_02_oct">
+<media id="fs-idp127345808" alt="Se muestran tres estructuras. En a, se muestra una estructura con un átomo central de C o. A partir del átomo de C o, los segmentos de línea indican los enlaces con moléculas de H subíndice 2 O por encima y por debajo de la estructura. Por encima y a la derecha y a la izquierda, las cuñas discontinuas indican enlaces a dos moléculas de H subíndice 2 O. Del mismo modo, las cuñas sólidas situadas debajo, tanto a la derecha como a la izquierda, indican enlaces con dos moléculas más de H subíndice 2 O. Cada enlace en esta estructura se dirige hacia el átomo O en cada estructura H subíndice 2 O. Esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, está el superíndice 2 con el signo más. A continuación, a la derecha aparece C l superíndice 2 con el signo menos. En b, un átomo central de C r tiene seis grupos N H subíndice 2 unidos con enlaces simples. Estos enlaces se indican con segmentos de línea que se extienden por encima y por debajo, cuñas discontinuas que se extienden hacia arriba y hacia la izquierda y la derecha, y cuñas sólidas que se extienden por debajo y hacia la izquierda y la derecha. Los enlaces a estos grupos están todos dirigidos hacia los átomos de N. Los grupos N H subíndice 2 están cada uno conectados a átomos de C de grupos C H subíndice 2 que se extienden hacia fuera desde el átomo de C o central. Estos grupos de C H subíndice 2 están conectados en pares con enlaces indicados por segmentos de línea. Toda esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, está el superíndice 3 con el signo más. A continuación, a la derecha, 3 N O subíndice 3 superíndice signo menos. En c, 2 K superíndice signo más va seguido de una estructura entre corchetes. Dentro de los corchetes hay un átomo central de P t. Desde el átomo de P t, los segmentos de línea indican los enlaces con los átomos de C l por encima y por debajo de la estructura. Por encima y a la derecha y a la izquierda, las cuñas discontinuas indican los enlaces a los átomos de C l. Del mismo modo, las cuñas sólidas situadas debajo, tanto a la derecha como a la izquierda, indican enlaces con otros dos átomos de C l. Esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha. se encuentra el superíndice 2 con el signo menos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_oct.jpg"/>
+</media>
+<caption>Muchos complejos de metales de transición adoptan geometrías octaédricas, con seis átomos donantes que forman ángulos de enlace de 90° en torno al átomo central con los ligandos adyacentes. Observe que únicamente los ligandos dentro de la esfera de coordinación inciden en la geometría alrededor del centro metálico.</caption>
+</figure>
+<para id="fs-idp217009760">En los metales de transición con un número de coordinación de cuatro, son posibles dos geometrías diferentes: tetraédrica o cuadrada plana. A diferencia de los elementos del grupo principal, en los que estas geometrías se predicen a partir de la teoría VSEPR, se requiere un análisis más detallado de los orbitales de los metales de transición (que se trata en la sección sobre la Teoría del Campo Cristalino) para predecir qué complejos serán tetraédricos y cuáles serán cuadrangulares. En complejos tetraédricos como el [Zn(CN)<sub>4</sub>]<sup>2-</sup> (<link target-id="CNX_Chem_19_02_4geom"/>), cada uno de los pares de ligandos forma un ángulo de 109,5°. En los complejos cuadrados planos, como el [Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>], cada ligando tiene otros dos ligandos en ángulos de 90° (llamados posiciones <emphasis effect="italics">cis</emphasis>) y otro ligando en un ángulo de 180°, en la posición <emphasis effect="italics">trans</emphasis>.</para>
+<figure id="CNX_Chem_19_02_4geom" class="scaled-down">
+<media id="fs-idp42483712" alt="Se muestran dos estructuras. En a, entre corchetes, un átomo central de Z n está enlazado a 4 átomos de C en una disposición espacial tetraédrica. Se utilizan segmentos de línea para representar un enlace que se extiende por encima y por debajo y a la izquierda del átomo de Z n. Una cuña discontinua con el vértice en el átomo de Z n y el extremo ancho en el átomo de C se utiliza para representar un enlace hacia abajo y a la derecha del átomo de Z n. El enlace final se indica con una cuña sólida similar dirigida de nuevo hacia abajo y un poco a la derecha del centro debajo del átomo de Z n. Se muestran cuatro grupos de tres segmentos de línea en paralelo, que indican los triples enlaces que se extienden desde cada átomo de C opuesto al enlace con Z n hasta un átomo de N asociado. Fuera de los corchetes se muestra un superíndice 2 con signo menos. En b, en el centro de esta estructura hay un átomo de P t. A partir de este átomo, un enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo P t hacia arriba y hacia la derecha hasta el átomo N de un grupo N H subíndice 3. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la derecha hasta el átomo de N de un grupo N H subíndice 3. Otro enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y a la izquierda hasta un átomo de C l. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la izquierda hasta un átomo de C l.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_4geom.jpg"/>
+</media>
+<caption>Los metales de transición con un número de coordinación de cuatro pueden adoptar una geometría tetraédrica (a) como en K<sub>2</sub>[Zn(CN)<sub>4</sub>] o una geometría cuadrada plana (b) como se indica en [Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>].</caption>
+</figure>
+</section>
+<section id="fs-idp85285584">
+<title>Isomerismo en los complejos</title>
+<para id="fs-idp68367824">Los isómeros son especies químicas diferentes que tienen la misma fórmula química. Los complejos de metales de transición suelen existir como <emphasis effect="bold">isómeros geométricos</emphasis>, en los que los mismos átomos están conectados a través de los mismos tipos de enlaces pero con diferencias en su orientación en el espacio. Los complejos de coordinación con dos ligandos diferentes en las posiciones <emphasis effect="italics">cis</emphasis> y <emphasis effect="italics">trans</emphasis> de un ligando de interés forman isómeros. Por ejemplo, el ion octaédrico [Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]<sup>+</sup> tiene dos isómeros. En la <term>configuración <emphasis effect="italics">cis</emphasis></term>, los dos ligandos de cloruro son adyacentes entre sí (<link target-id="CNX_Chem_19_02_cistrans"/>). El otro isómero, la <term>configuración <emphasis effect="italics">trans</emphasis></term> tiene los dos ligandos de cloruro uno frente al otro.</para>
+<figure id="CNX_Chem_19_02_cistrans" class="scaled-down">
+<media id="fs-idp151577024" alt="Se muestran dos estructuras. La primera está marcada como &quot;violeta, forma cis&quot;. Debajo de esta marcación, entre corchetes, hay un átomo central de C o. Desde el átomo de C o, los segmentos de línea indican los enlaces con un átomo de C l por encima y el átomo de O de un grupo H subíndice 2 O por debajo de la estructura. Por encima y a la derecha y a la izquierda, las cuñas discontinuas con su vértice en el átomo de C o que se ensanchan a medida que se alejan del átomo indican enlaces con átomos de O de grupos H subíndice 2 O. Del mismo modo, las cuñas sólidas de abajo, tanto a la derecha como a la izquierda, indican enlaces a un átomo de C l a la derecha y al átomo de O de un grupo H subíndice 2 O a la izquierda. Esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, se encuentra el signo más en superíndice. La segunda está marcada como &quot;verde, forma trans&quot;. Debajo de esta marcación, entre corchetes, hay un átomo central de C o. A partir del átomo de C o, los segmentos de línea indican los enlaces con los átomos de C l por encima y por debajo de la estructura. Por encima y a la derecha y a la izquierda, las cuñas discontinuas indican los enlaces con átomos de O de los grupos H subíndice 2 O. Del mismo modo, las cuñas sólidas situadas debajo, tanto a la derecha como a la izquierda, indican los enlaces con los átomos de O de los grupos H subíndice 2 O. Esta estructura también está entre corchetes con un signo más en superíndice fuera de los corchetes, a la derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_cistrans.jpg"/>
+</media>
+<caption>Los isómeros <emphasis effect="italics">cis</emphasis> y <emphasis effect="italics">trans</emphasis> de [Co(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]<sup>+</sup> contienen los mismos ligandos unidos al mismo ion metálico, pero la disposición espacial hace que estos dos compuestos tengan propiedades muy diferentes.</caption>
+</figure>
+<para id="fs-idm258352">Los distintos isómeros geométricos de una sustancia son compuestos químicos diferentes. Presentan propiedades distintas, aunque tengan la misma fórmula. Por ejemplo, los dos isómeros de [Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]NO<sub>3</sub> difieren en el color: la forma <emphasis effect="italics">cis</emphasis> es violeta, y la forma <emphasis effect="italics">trans</emphasis> es verde. Además, estos isómeros tienen momentos dipolares, solubilidades y reactividades diferentes. A modo de ejemplo de cómo la disposición en el espacio influye en las propiedades moleculares, consideremos la polaridad de los dos isómeros de [Co(NH<sub>3</sub>)<sub>4</sub>Cl<sub>2</sub>]NO<sub>3</sub>. Recuerde que la polaridad de una molécula o un ion viene determinada por los dipolos de enlace (que se deben a la diferencia de electronegatividad de los átomos enlazados) y su disposición en el espacio. En un isómero, los ligandos de cloruro <emphasis effect="italics">cis</emphasis> provocan más densidad de electrones en un lado de la molécula que en el otro, lo que la hace polar. En el caso del isómero <emphasis effect="italics">trans</emphasis>, cada ligando está directamente enfrente de un ligando idéntico, por lo que los dipolos de enlace se anulan y la molécula es apolar.</para>
+<example id="fs-idp279300448">
+<para id="fs-idp162672064"><title>Isómeros geométricos</title>
+Identifique cuál isómero geométrico de [Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>] se muestra en la <link target-id="CNX_Chem_19_02_4geom"/>. Dibuje el otro isómero geométrico y dé su nombre completo.</para>
+<para id="fs-idp123193616"><title>Solución</title>En la <link target-id="CNX_Chem_19_02_4geom"/>, los dos ligandos de cloro ocupan posiciones <emphasis effect="italics">cis</emphasis>. La otra forma se muestra en la <link target-id="CNX_Chem_19_02_transplatin"/>. Cuando se designan determinados isómeros, el descriptor aparece delante del nombre. Por consiguiente, este complejo es <emphasis effect="italics">trans</emphasis>-diaminodicloroplatino(II).</para>
+<figure id="CNX_Chem_19_02_transplatin" class="scaled-down"><media id="fs-idp19204944" alt="Se muestra una estructura con un átomo central de P t. Desde este átomo, una cuña discontinua con su vértice en P t se extiende hacia arriba y a la izquierda hacia el átomo de C l, indicando un enlace, y ensanchándose a medida que se aleja. Otra cuña discontinua con su vértice en P t se extiende hacia arriba y a la derecha hacia el átomo de N H 3, indicando un enlace, y ensanchándose a medida que se aleja. Del mismo modo, una cuña sólida abajo y a la izquierda indica un enlace con un átomo de H 3 N y otra cuña sólida abajo y a la derecha indica un enlace con un átomo de C l.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_transplatin.jpg"/>
+</media>
+
+<caption>El isómero <emphasis effect="italics">trans</emphasis> de [Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>] tiene cada ligando directamente a través de un ligando adyacente.</caption></figure><para id="fs-idp290676064"><title>Compruebe lo aprendido</title>
+Dibuje el ion de <emphasis effect="italics">trans</emphasis>-diaqua-<emphasis effect="italics">trans</emphasis>-dibromo-<emphasis effect="italics">trans</emphasis>-diclorocobalto(II).</para>
+<note id="fs-idm14256976"><title>Respuesta:</title>
+<media id="fs-idp9187376" class="scaled-down" alt="Esta figura muestra una estructura entre corchetes. Se indica un átomo central de C o con segmentos de línea que señalan los enlaces con los átomos de C l por encima y por debajo de la estructura. Por encima y a la izquierda, una cuña discontinua con su vértice en el átomo de C o que se ensancha a medida que se aleja del átomo indica un enlace con el átomo de O de un grupo H subíndice 2 O. Una segunda cuña discontinua indica un enlace con el átomo central de C o con un átomo de B r arriba y a la derecha. Del mismo modo, una cuña sólida debajo y a la izquierda indica un enlace con un átomo de B r. Una segunda cuña sólida debajo y a la derecha indica un enlace con el átomo de O de un grupo H subíndice 2 O. Esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, se encuentra el superíndice 2 con el signo menos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_H2O2Br2.jpg"/>
+</media>
+</note>
+</example>
+<para id="fs-idp18845840">Otro tipo importante son los <term>isómeros ópticos</term> o <term>enantiómeros</term>, en los que dos objetos son imágenes especulares idénticas, pero no pueden alinearse para que todas las partes coincidan. Esto significa que los isómeros ópticos son imágenes especulares no superpuestas. Un ejemplo clásico son las manos, en el que la mano derecha y la izquierda son imágenes especulares la una de la otra, pero no se superponen. Los isómeros ópticos son muy importantes en la química orgánica y en la bioquímica porque los sistemas vivos suelen incorporar un determinado isómero óptico y no el otro. A diferencia de los isómeros geométricos, los pares de isómeros ópticos tienen propiedades idénticas (punto de ebullición, polaridad, solubilidad, etc.). Los isómeros ópticos apenas se diferencian en la forma en que inciden en la luz polarizada y en cómo reaccionan con otros isómeros ópticos. En el caso de los complejos de coordinación, muchos compuestos de coordinación como [M(en)<sub>3</sub>]<sup>n+</sup> [en el cual M<sup>n+</sup> es un ion metálico central como el hierro(III) o el cobalto(II)] forman enantiómeros, como se muestra en la <link target-id="CNX_Chem_19_02_enant"/>. Estos dos isómeros reaccionan de forma diferente con otros isómeros ópticos. Por ejemplo, las hélices de ADN son isómeros ópticos, y la forma que se da en la naturaleza (ADN diestro) se unirá solamente a un isómero de [M(en)<sub>3</sub>]<sup>n+</sup> y no al otro.</para>
+<figure id="CNX_Chem_19_02_enant" class="scaled-down">
+<media id="fs-idp148990176" alt="Se muestran dos estructuras con un segmento de línea discontinua vertical entre estas. La estructura a la izquierda de este segmento de línea tiene una M central que representa un átomo de metal. A este átomo se unen seis grupos N H subíndice 2 con enlaces simples. Estos enlaces se indican con segmentos de línea que se extienden por encima y por debajo, cuñas discontinuas que se extienden hacia arriba y hacia la izquierda y la derecha, y cuñas sólidas que se extienden por debajo y hacia la izquierda y la derecha. Los enlaces a estos grupos están todos dirigidos hacia los átomos de N. Los grupos N H subíndice 2 están cada uno conectados a átomos C de grupos C H subíndice 2 que se extienden hacia fuera desde el átomo M central. Estos grupos de C H subíndice 2 están conectados en pares con enlaces indicados por segmentos de línea. Esta estructura tiene el aspecto general de una flor con tres pétalos, dos de los cuales son equidistantes de la línea de puntos. Una imagen especular de esta estructura aparece a la derecha de la línea discontinua, de nuevo con dos de los &quot;pétalos&quot; equidistantes de la línea discontinua a su izquierda.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_enant.jpg"/>
+</media>
+<caption>El complejo [M(en)<sub>3</sub>]<sup>n+</sup> (M<sup>n+</sup> = un ion metálico, en = etilendiamina) tiene una imagen especular no superponible.</caption>
+</figure>
+<para id="fs-idp30489296">El ion de [Co(en)<sub>2</sub>Cl<sub>2</sub>]<sup>+</sup> presenta isomería geométrica (<emphasis effect="italics">cis</emphasis>/<emphasis effect="italics">trans</emphasis>), y su isómero <emphasis effect="italics">cis</emphasis> existe como un par de isómeros ópticos (<link target-id="CNX_Chem_19_02_Coen2Cl2"/>).</para>
+<figure id="CNX_Chem_19_02_Coen2Cl2">
+<media id="fs-idm2902000" alt="Esta figura consta de tres estructuras. Las dos primeras se denominan &quot;forma cis (isómeros ópticos)&quot;. A estas estructuras les sigue un segmento de línea discontinua vertical, a cuya derecha aparece una tercera estructura marcada como &quot;forma trans&quot;. La primera estructura consiste en un átomo central de C o que tiene cuatro grupos N H subíndice 2 y dos átomos de C l unidos con enlaces sencillos. Estos enlaces se indican con segmentos de línea que se extienden por encima y por debajo, cuñas discontinuas que se extienden hacia arriba y hacia la izquierda y la derecha, y cuñas sólidas que se extienden por debajo y hacia la izquierda y la derecha. Los átomos de C l se unen en la parte superior y en la parte superior izquierda de la estructura. Los cuatro enlaces restantes se extienden desde el átomo central de C o hasta los átomos de N de los grupos N H subíndice 2. Los grupos N H subíndice 2 están cada uno conectados a átomos de C de grupos C H subíndice 2 que se extienden hacia fuera desde el átomo de C o central. Estos grupos C H subíndice 2 están conectados en pares con enlaces indicados por segmentos de líneas cortas, para formar dos anillos en la estructura. Toda esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, está el superíndice con el signo más. La segunda estructura, que parece la imagen del espejo de la primera estructura, consta de un átomo central de C o que tiene cuatro grupos N H subíndice 2 y dos átomos de C l unidos con enlaces sencillos. Estos enlaces se indican con segmentos de línea que se extienden por encima y por debajo, cuñas discontinuas que se extienden hacia arriba y hacia la izquierda y la derecha, y cuñas sólidas que se extienden por debajo y hacia la izquierda y la derecha. Los átomos de C l se unen en la parte superior y en la parte superior derecha de la estructura. Los cuatro enlaces restantes se extienden desde el átomo central de C o hasta los átomos de N de los grupos N H subíndice 2. Los grupos N H subíndice 2 están cada uno conectados a átomos de C de grupos C H subíndice 2 que se extienden hacia fuera desde el átomo de C o central. Estos grupos C H subíndice 2 están conectados en pares con enlaces indicados por segmentos de líneas cortas, para formar dos anillos en la estructura. Toda esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, hay un signo más en superíndice. La tercera estructura trans consiste en un átomo central de C o que tiene cuatro grupos N H subíndice 2 y dos átomos de C l unidos con enlaces sencillos. Estos enlaces se indican con segmentos de línea que se extienden por encima y por debajo, cuñas discontinuas que se extienden hacia arriba y hacia la izquierda y la derecha, y cuñas sólidas que se extienden por debajo y hacia la izquierda y la derecha. Los átomos de C l se enlazan en la parte superior e inferior de la estructura. Los cuatro enlaces restantes se extienden desde el átomo central de C o hasta los átomos de N de los grupos N H subíndice 2. Los grupos N H subíndice 2 están cada uno conectados a átomos de C de grupos C H subíndice 2 que se extienden hacia fuera desde el átomo de C o central. Estos grupos C H subíndice 2 están conectados en pares con enlaces indicados por segmentos de líneas cortas, para formar dos anillos en la estructura. Toda esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, hay un signo más en superíndice. Hay anillos de átomos en lados opuestos de la estructura final.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Coen2Cl2.jpg"/>
+</media>
+<caption>Existen tres formas isoméricas de [Co(en)<sub>2</sub>Cl<sub>2</sub>]<sup>+</sup>. El isómero <emphasis effect="italics">trans</emphasis>, que se forma cuando los cloros se colocan en un ángulo de 180°, tiene propiedades muy distintas a las de los isómeros <emphasis effect="italics">cis</emphasis>. Las imágenes especulares del isómero <emphasis effect="italics">cis</emphasis> forman un par de isómeros ópticos, que tienen un comportamiento idéntico, excepto cuando reaccionan con otros enantiómeros.</caption>
+</figure>
+<para id="fs-idp79204432">Los <term>isómeros de enlace</term> se producen cuando el compuesto de coordinación contiene un ligando que se une al centro del metal de transición a través de dos átomos diferentes. Por ejemplo, el ligando CN puede unirse a través del átomo de carbono (ciano) o a través del átomo de nitrógeno (isociano). Del mismo modo, el SCN- se une a través del átomo de azufre o de nitrógeno, para dar lugar a dos compuestos distintos ([Co(NH<sub>3</sub>)<sub>5</sub>SCN]<sup>2+</sup> o [Co(NH<sub>3</sub>)<sub>5</sub>NCS]<sup>2+</sup>).</para>
+<para id="fs-idp58946640">Los <term>isómeros de ionización</term> (o <term>isómeros de coordinación</term>) se producen cuando un ligando aniónico de la esfera de coordinación interna se sustituye por el contraión de la esfera de coordinación externa. Un simple ejemplo de dos isómeros de ionización son [CoCl<sub>6</sub>][Br] y [CoCl<sub>5</sub>Br][Cl].</para>
+</section>
+<section id="fs-idp33494848">
+<title>Complejos de coordinación en la naturaleza y la tecnología</title>
+<para id="fs-idp217075840">La clorofila, el pigmento verde de las plantas, es un complejo que contiene magnesio (<link target-id="CNX_Chem_19_02_ChlorBlue"/>). Este es un ejemplo de un elemento del grupo principal en un complejo de coordinación. Las plantas parecen verdes porque la clorofila absorbe la luz roja y púrpura; la luz reflejada aparece, por tanto, verde. La energía resultante de la absorción de la luz se utiliza en la fotosíntesis.</para>
+</section>
+<figure id="CNX_Chem_19_02_ChlorBlue">
+<media id="fs-idp167959792" alt="Se muestran las fórmulas estructurales de dos moléculas complejas. La primera tiene un átomo central de M g, al que se enlazan átomos de N por encima, por debajo, a la izquierda y a la derecha. Cada átomo de N es un componente de un anillo de 5 elementos con cuatro átomos de C. Cada uno de estos anillos tiene un doble enlace entre los átomos de C que no están unidos al átomo de N. Los átomos de C unidos a átomos de N están conectados a átomos de C que sirven de enlace entre los anillos de 5 elementos. El enlace al átomo de C en el sentido de las agujas del reloj desde el anillo de 5 elementos en cada caso es un doble enlace. El enlace al átomo de C en sentido contrario a las agujas del reloj desde el anillo de 5 elementos en cada caso es un enlace simple. A la izquierda de la estructura, dos de los átomos de C de los anillos de 5 miembros que no están enlazados a átomos de N están enlazados a grupos C H subíndice 3. Los demás carbonos de estos anillos que no están enlazados a átomos de N están enlazados a grupos superiores e inferiores. Fuera de este sistema interconectado de anillos se unen diversos grupos, entre ellos cuatro grupos C H subíndice 3, un grupo C H subíndice 2 C H subíndice 2, C O O C subíndice 20, H subíndice 39, un grupo C H C H subíndice 2 con un doble enlace entre los átomos de C, una ramificación adicional para formar un anillo de carbono de cinco miembros al que se une un átomo de O y un grupo C O O C H subíndice 3. La segunda estructura tiene un átomo de C u central al que se unen cuatro átomos de N que participan en anillos de 5 elementos con átomos de C. A diferencia de la primera molécula, estos anillos de 5 elementos están unidos por átomos de N entre sí, con un doble enlace en el lado contrario a las agujas del reloj y un enlace simple en el lado de las agujas del reloj de cada uno de los cuatro átomos de N que unen los anillos. En el lado de cada anillo de 5 miembros opuesto a su átomo de N, se enlazan otros cuatro átomos de carbono, para formar anillos de carbono de 6 elementos con dobles enlaces alternos. Los dobles enlaces no están presentes en los que se comparten con los anillos de 5 elementos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_ChlorBlue.jpg"/>
+</media>
+<caption>(a) La clorofila se presenta en varias formas, todas ellas con la misma estructura básica en torno al centro de magnesio. (b) El azul de ftalocianina de cobre, un complejo cuadrado plano de cobre, está presente en algunos tintes azules.</caption>
+</figure>
+<note id="fs-idp34790896" class="chemistry everyday-life">
+<title>Catalizadores de metales de transición</title>
+<para id="fs-idp55376000">Una de las aplicaciones más importantes de los metales de transición es como catalizadores industriales. Como recordará del capítulo sobre cinética, un catalizador aumenta la velocidad de reacción al disminuir la energía de activación y se regenera en el ciclo catalítico. Más del 90 % de las manufacturas se elaboran con la ayuda de uno o varios catalizadores. La capacidad de unir ligandos y cambiar estados de oxidación hace que los catalizadores de metales de transición sean muy adecuados para aplicaciones catalíticas. El óxido de vanadio se utiliza para producir 230.000.000 de toneladas de ácido sulfúrico al año en todo el mundo, que a su vez se utiliza para fabricar todo tipo de productos: desde fertilizantes hasta latas para alimentos. Los plásticos se fabrican con la ayuda de catalizadores de metales de transición, junto con detergentes, fertilizantes, pinturas, etc. (vea la <link target-id="CNX_Chem_19_02_Cat"/>). Los productos farmacéuticos muy complicados se fabrican con catalizadores que son selectivos y reaccionan con un enlace específico de entre un gran número de posibilidades. Los catalizadores permiten que los procesos sean más económicos y ecológicos. El desarrollo de nuevos catalizadores y una mejor comprensión de los sistemas existentes son áreas importantes en la investigación actual.</para>
+<figure id="CNX_Chem_19_02_Cat">
+<media id="fs-idp96122704" alt="Esta figura comprende tres fotografías. La foto a muestra las estanterías de la tienda llenas de una variedad de marcas de detergente para la ropa. La foto b muestra una lata de pintura amarilla que está siendo agitada. La foto c muestra un saco de abono.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Cat.jpg"/>
+</media>
+<caption>(a) Los detergentes, (b) las pinturas y (c) los fertilizantes se fabrican utilizando catalizadores de metales de transición (crédito a: modificación de la obra de "Mr. Brian"/Flickr; crédito b: modificación de la obra de Ewen Roberts; crédito c: modificación de la obra de "osseous"/Flickr).</caption>
+</figure>
+</note>
+<note id="fs-idp5832384" class="chemistry chemist-portrait">
+<title>Deanna D'Alessandro</title>
+<para id="fs-idp93768928">La Dra. Deanna D'Alessandro desarrolla nuevos materiales con contenido metálico que exhiben propiedades electrónicas, ópticas y magnéticas únicas. Su investigación combina los campos de la química física e inorgánica fundamental con la ingeniería de materiales. Trabaja en muchos proyectos diferentes, que dependen de los metales de transición. Por ejemplo, un tipo de compuesto que desarrolla captura los residuos de dióxido de carbono de las centrales eléctricas y los convierte catalíticamente en productos útiles (vea la <link target-id="CNX_Chem_19_02_CatConvert"/>).</para>
+<figure id="CNX_Chem_19_02_CatConvert" class="scaled-down">
+<media id="fs-idp17428880" alt="Se muestra la imagen de un catalizador. En la parte superior izquierda, una flecha azul que apunta a una tubería que entra en una cámara más grande y ampliada lleva la etiqueta &quot;Emisiones sucias&quot;. Una pequeña flecha negra que apunta a la parte inferior derecha está colocada a lo largo de la parte superior izquierda de la región ampliada. Esta flecha está etiquetada como &quot;Oxígeno adicional de la bomba de aire&quot;. La imagen muestra el convertidor con la superficie superior retirada, y se deja al descubierto un interior de color marrón rojizo. La parte del convertidor que está cerca de la entrada de emisiones sucias muestra componentes pequeños y esféricos en una capa interior. Esta capa está marcada como &quot;catalizador de reducción de tres vías&quot;. La región central muestra pequeñas varillas marrones estrechamente empaquetadas, que están alineadas en paralelo al tubo de entrada de emisiones sucias. La última región, casi una cuarta parte del interior del catalizador, vuelve a mostrar una capa de pequeños círculos de color marrón rojizo muy juntos. Dos grandes flechas de color gris claro se extienden desde esta capa hasta la región abierta en la parte inferior derecha de la imagen hasta la marcación &quot;emisiones limpias&quot;. ">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_CatConvert.jpg"/>
+</media>
+<caption>Los catalizadores transforman las emisiones de dióxido de carbono de las centrales eléctricas en productos útiles y, como el que se muestra aquí, también se encuentran en los automóviles.</caption>
+</figure>
+<para id="fs-idp31297136">Otro proyecto consiste en el desarrollo de materiales porosos y esponjosos que son "fotoactivos". La absorción de la luz hace que los poros de la esponja cambien de tamaño, lo que permite controlar la difusión del gas. Esto tiene muchas posibles aplicaciones: desde la alimentación de automóviles con celdas de combustible de hidrógeno hasta la fabricación de mejores componentes electrónicos. Aunque no es un complejo, los lentes de sol fotosensibles son un ejemplo de sustancia fotoactiva.</para>
+<para id="fs-idp125612336">Vea este <link url="http://openstax.org/l/16DeannaD">video</link> para saber más sobre esta investigación y escuche a la Dra. D'Alessandro (que aparece en la <link target-id="CNX_Chem_19_02_chmprofile"/>) describir cómo es ser un químico investigador.</para>
+<figure id="CNX_Chem_19_02_chmprofile" class="scaled-down">
+<media id="fs-idp274883520" alt="Esta es una foto de la Dra. Deanna D'Alessandro.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_chmprofile.jpg"/>
+</media>
+<caption>La Dra. Deanna D'Alessandro es investigadora de materiales funcionales. En su labor combina los campos de la química inorgánica y física con la ingeniería. Ella trabaja con metales de transición para crear nuevos sistemas que impulsen los automóviles y conviertan la energía (créditos: imagen cortesía de Deanna D'Alessandro).</caption>
+</figure>
+</note>
+<para id="fs-idp54814592">Muchos otros complejos de coordinación también son de colores brillantes. El complejo cuadrado plano de cobre(II) azul de ftalocianina (de la <link target-id="CNX_Chem_19_02_ChlorBlue"/>) es uno de los muchos que se utilizan como pigmentos o colorantes. Este complejo se utiliza en la tinta azul, los jeans y ciertas pinturas azules.</para>
+<para id="fs-idp36165472">La estructura del hemo (<link target-id="CNX_Chem_19_02_heme2"/>), el complejo que contiene hierro en la hemoglobina, es muy similar a la de la clorofila. En la hemoglobina, el complejo rojo del hemo está unido a una gran molécula de proteína (globina) mediante la unión de la proteína al ligando del hemo. Las moléculas de oxígeno son transportadas por la hemoglobina en la sangre al estar unidas al centro de hierro. Cuando la hemoglobina pierde su oxígeno, el color cambia a un rojo azulado. La hemoglobina solo transporta oxígeno si el hierro es Fe<sup>2+</sup>; la oxidación del hierro a Fe<sup>3+</sup> impide el transporte de oxígeno.</para>
+<figure id="CNX_Chem_19_02_heme2" class="scaled-down">
+<media id="fs-idp69296" alt="Se muestra un modelo en color de una estructura de hemoglobina. La molécula tiene cuatro cuadrantes distintos que están llenos de regiones espirales en forma de cinta. El cuadrante superior derecho es de color lavanda, el inferior derecho es dorado, el inferior izquierdo es azul claro y el superior izquierdo es verde. En cada una de estas regiones, hay grupos de aproximadamente 25 puntos rojos en disposiciones casi lineales cerca del centro.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_heme2.jpg"/>
+</media>
+<caption>La hemoglobina contiene cuatro subunidades proteicas, cada una de las cuales tiene un centro de hierro unido a un ligando hemo (mostrado en rojo), que está coordinado a una proteína globina. Cada subunidad se muestra en un color diferente.</caption>
+</figure>
+<para id="fs-idp85288896">Los agentes complejantes se utilizan a menudo para ablandar el agua porque retienen iones como el Ca<sup>2+</sup>, Mg<sup>2+</sup> y el Fe<sup>2+</sup>, que endurecen el agua. Muchos iones metálicos tampoco son deseables en los productos alimentarios porque pueden catalizar reacciones que cambian el color de los alimentos. Los complejos de coordinación sirven como conservantes. Por ejemplo, el ligando EDTA, (HO<sub>2</sub>CCH<sub>2</sub>)<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>N(CH<sub>2</sub>CO<sub>2</sub>H)<sub>2</sub>, se coordina con los iones metálicos a través de seis átomos donantes e impide que los metales reaccionen (<link target-id="CNX_Chem_19_02_EDTA"/>). Este ligando también se utiliza para secuestrar iones metálicos en la producción de papel, textiles y detergentes, y tiene usos farmacéuticos.</para>
+<figure id="CNX_Chem_19_02_EDTA" class="scaled-down">
+<media id="fs-idp39831312" alt="Esta estructura muestra un átomo de metal, representado por M en rojo. Los enlaces sencillos que se extienden desde la M también se muestran en rojo. Los enlaces se indican con átomos de O mediante segmentos de línea que se extienden por encima y por debajo. Las cuñas discontinuas se extienden hacia arriba y a la izquierda hasta un átomo de N y hacia arriba y a la derecha hasta un átomo de O, y las cuñas sólidas se extienden por debajo y a la izquierda hasta un átomo de N y por debajo y a la derecha hasta un átomo de O. Los átomos de O enlazados al átomo M tienen cada uno un signo menos asociado y están enlazados a un átomo de C, que a su vez está doblemente enlazado a un átomo de O y con enlace simple a un átomo de C en un grupo C H subíndice 2. Este último átomo de C en cada caso está unido en un enlace simple a uno de los átomos de N, lo que da lugar a dos anillos de cinco elementos, de los que forma parte el átomo de M. A la izquierda de cada átomo de N, hay enlaces simples a los grupos C en C H subíndice 2, que a su vez están conectados con un enlace simple, para formar otro anillo de cinco elementos con los dos átomos de N y el átomo de M. Extendiéndose hacia arriba y a la izquierda del átomo de N superior hay un enlace con el átomo de C de otro grupo C H subíndice 2. Este grupo está a su vez enlazado a un átomo de C, que está doblemente enlazado a un átomo de O y a un átomo de O, que está enlazado al átomo de M en la parte superior de la estructura, para formar de nuevo un anillo de cinco elementos. La misma estructura de enlace se repite en su parte inferior, que se extiende desde el átomo N enlazado en la parte inferior izquierda del átomo M. Todos los átomos de O con enlace simple en esta estructura tienen cargas negativas asociadas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_EDTA.jpg"/>
+</media>
+<caption>El ligando EDTA se une fuertemente a una variedad de iones metálicos para formar complejos hexadentados.</caption>
+</figure>
+<para id="fs-idp158915696">Los agentes complejantes que fijan los iones metálicos también se utilizan como fármacos. El dimercaprol (British anti-Lewisite, BAL), HSCH<sub>2</sub>CH(SH)CH<sub>2</sub>OH, es un medicamento desarrollado durante la Primera Guerra Mundial como antídoto para la lewisita, un agente químico de guerra a base de arsénico. El BAL se utiliza actualmente para tratar la intoxicación por metales pesados, como el arsénico, el mercurio, el talio y el cromo. El fármaco es un ligando y funciona al hacer un quelato hidrosoluble del metal; los riñones eliminan este quelato metálico (<link target-id="CNX_Chem_19_02_BalEnt"/>). Otro ligando polidentado, la enterobactina, que se aísla de ciertas bacterias, se utiliza para formar complejos de hierro y, de este modo, controlar la grave acumulación de hierro que se da en pacientes que padecen hemopatías, como la anemia de Cooley, que requieren transfusiones frecuentes. A medida que la sangre transfundida se descompone, los procesos metabólicos habituales que eliminan el hierro se sobrecargan, y el exceso de hierro puede acumularse hasta niveles mortales. La enterobactina forma un complejo hidrosoluble con el exceso de hierro, y el organismo puede eliminar este complejo de forma segura.</para>
+<figure id="CNX_Chem_19_02_BalEnt" class="scaled-down">
+<media id="fs-idp10272368" alt="Esta figura consta de dos estructuras. En la a se muestra un anillo de cinco elementos con un átomo de S en la parte superior con otros átomos con enlace simple en el siguiente orden en el sentido de las agujas del reloj alrededor del anillo pentagonal: átomo de M, átomo de S, átomo de C de un grupo C H subíndice 2, seguido de un átomo de C de un grupo C H. El último átomo de C se enlaza al átomo de S original para cerrar el anillo. El C del grupo C H está en la parte superior izquierda de la estructura. Este C tiene un grupo C H subíndice 2 unido por encima al que se une un grupo O H a la derecha. En la b se muestra una estructura compleja. Tiene una región central abierta y múltiples estructuras anulares. Se incluye un átomo sencillo de F e, que parece estar enlazado a seis átomos de O. En la estructura se enlazan 15 átomos de O en total, junto con tres átomos de N y varios átomos de C y H. Nueve átomos de O tienen un enlace simple y están incorporados a los anillos y seis tienen un doble enlace, que se extiende hacia fuera de las estructuras anulares. ">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_BalEnt.jpg"/>
+</media>
+<caption>Los complejos de coordinación se utilizan como fármacos. (a) El dimercaprol se utiliza para tratar la intoxicación por metales pesados mediante metales (M) de coordinación, y la enterobactina (b) elimina el exceso de hierro en la sangre.</caption>
+</figure>
+<example id="fs-idp8695360">
+<para id="fs-idp2238224"><title>Terapia de quelación</title>
+Los ligandos como el dimercaprol y la enterobactina son importantes en el tratamiento médico para la intoxicación por metales pesados. Sin embargo, las terapias de quelación pueden alterar la concentración normal de iones en el organismo, lo que provoca graves efectos secundarios, por lo que los investigadores están buscando nuevos fármacos de quelación. Un fármaco que se ha desarrollado es el ácido dimercaptosuccínico (Dimercaptosuccinic Acid, DMSA), el cual se muestra en la <link target-id="CNX_Chem_19_02_DMSA"/>. Identifique qué átomos de esta molécula podrían actuar como donantes.</para>
+<figure id="CNX_Chem_19_02_DMSA" class="scaled-down">
+<media id="fs-idp97148096" alt="Se muestra una estructura que tiene un átomo de H en el extremo izquierdo que tiene un enlace simple a un átomo de O a su derecha. Este átomo está enlazado a un átomo de C justo debajo y a la derecha. Este átomo de C tiene un átomo de O de doble enlace por debajo y está enlazado al átomo de C de un grupo C H. Por encima de este átomo de C, una cuña sólida se extiende hacia arriba hasta el átomo de S de un grupo S H. Un enlace se extiende desde este último átomo de C a otro átomo de C de un segundo grupo de C H por debajo y a la derecha. Una cuña discontinua se extiende desde este átomo de C hasta el S de un grupo S H que se encuentra debajo. Un enlace simple se extiende hacia arriba y a la derecha del átomo de C hasta otro átomo de C. Este último átomo de C tiene un átomo de O de doble enlace por encima. Un enlace simple se extiende a un segundo átomo de O por debajo y a la derecha. A la derecha de este átomo de O, un átomo de H está conectado con un enlace simple. Todos los átomos de S y O de la estructura se muestran con dos pares de puntos de electrones no compartidos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_DMSA.jpg"/>
+</media>
+<caption>El ácido dimercaptosuccínico se utiliza para tratar la intoxicación por metales pesados.</caption>
+</figure>
+<para id="fs-idp35716832"><title>Solución</title>
+Todos los átomos de oxígeno y azufre tienen pares solitarios de electrones que se utilizan para coordinarse con un centro metálico, por lo que hay seis átomos donantes posibles. Geométricamente, apenas dos de estos átomos se coordinan con un metal a la vez. El modo de unión más común implica la coordinación de un átomo de azufre y uno de oxígeno, para formar un anillo de cinco elementos con el metal.</para>
+<para id="fs-idp59621280"><title>Compruebe lo aprendido</title>
+Algunos profesionales de la medicina alternativa recomiendan tratamientos de quelación para dolencias que no están claramente relacionadas con los metales pesados, como el cáncer y el autismo, si bien muchas organizaciones científicas desaconsejan esta práctica.<footnote id="fs-idp19722736">Consejo Nacional contra el Fraude en la Salud (National Council against Health Fraud, NCAHF), <emphasis effect="italics">Política sobre la Terapia de Quelación del NCAHF</emphasis>, (Peabody, MA, 2002).</footnote> Identifique al menos dos metales biológicamente importantes que podría alterar la terapia de quelación.</para>
+<note id="fs-idp9554032"><title>Respuesta:</title>
+<para id="fs-idp13836096">Ca, Fe, Zn y Cu</para>
+</note>
+</example>
+<para id="fs-idp58173136">Los ligandos también se utilizan en la industria de la galvanoplastia. Cuando los iones metálicos se reducen para producir revestimientos metálicos finos, los metales se agrupan para formar cúmulos y nanopartículas. Cuando se utilizan complejos de coordinación metálica, los ligandos mantienen los átomos metálicos aislados entre sí. Se ha comprobado que muchos metales presentan una superficie más lisa, uniforme, de mejor aspecto y más adherente cuando se recubren con un baño que contiene el metal como ion complejo. Por lo tanto, complejos como el [Ag(CN)<sub>2</sub>]<sup>-</sup> y el [Au(CN)<sub>2</sub>]<sup>-</sup> se utilizan ampliamente en la industria de la galvanoplastia.</para>
+<para id="fs-idp128300928">En 1965, científicos de la Universidad Estatal de Michigan descubrieron que había un complejo de platino que inhibe la división celular en ciertos microorganismos. Trabajos posteriores demostraron que se trataba del complejo <emphasis effect="italics">cis</emphasis>-diaminodicloroplatino(II), [Pt(NH<sub>3</sub>)<sub>2</sub>(Cl)<sub>2</sub>], y que el isómero <emphasis effect="italics">trans</emphasis> no era eficaz. La inhibición de la división celular indicó que este compuesto cuadrangular podría ser un agente anticanceroso. En 1978, la Administración de Alimentos y Medicamentos de los EE. UU. aprobó este compuesto, conocido como cisplatino, en el tratamiento de ciertas formas de cáncer. Desde entonces, se han desarrollado muchos compuestos semejantes de platino para el tratamiento del cáncer. En todos los casos, se trata de los isómeros <emphasis effect="italics">cis</emphasis> y nunca de los isómeros <emphasis effect="italics">trans</emphasis>. La porción de diamino (NH<sub>3</sub>)<sub>2</sub> se mantiene con otros grupos, al sustituir la porción de dicloro [(Cl<sub>)2</sub>]. Los fármacos más nuevos son el carboplatino, el oxaliplatino y el satraplatino.</para><section id="fs-idp136064256" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm3937184">Los elementos de transición y los elementos del grupo principal forman compuestos de coordinación, o complejos, en los que un átomo o ion metálico central está unido a uno o más ligandos mediante enlaces covalentes coordinados. Los ligandos con más de un átomo donante se denominan ligandos polidentados y forman quelatos. Las geometrías comunes que se encuentran en los complejos son la tetraédrica y la cuadrada plana (ambas con un número de coordinación de cuatro) y la octaédrica (con un número de coordinación de seis). Las configuraciones <emphasis effect="italics">cis</emphasis> y <emphasis effect="italics">trans</emphasis> son posibles en algunos complejos octaédricos y cuadrangulares. Además de estos isómeros geométricos, en ciertos complejos octaédricos son posibles los isómeros ópticos (moléculas o iones que son imágenes especulares pero no superpuestas). Los complejos de coordinación tienen una gran variedad de usos, como el transporte de oxígeno en la sangre, la purificación del agua y la industria farmacéutica.</para>
+</section>
+<section id="fs-idp99118624" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idp178303616">
+<problem id="fs-idp274048752">
+<para id="fs-idp137517056">Indique el número de coordinación del átomo de metal central en cada uno de los siguientes compuestos de coordinación:</para>
+<para id="fs-idp1254176">(a) [Pt(H<sub>2</sub>O)<sub>2</sub>Br<sub>2</sub>]</para>
+<para id="fs-idm202688">(b) [Pt(NH<sub>3</sub>)(py)(Cl)(Br)] (py = piridina, C<sub>5</sub>H<sub>5</sub>N)</para>
+<para id="fs-idp38349728">(c) [Zn(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>]</para>
+<para id="fs-idp104868400">(d) [Zn(NH<sub>3</sub>)(py)(Cl)(Br)]</para>
+<para id="fs-idp95037984">(e) [Ni(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]</para>
+<para id="fs-idp58691568">(f) [Fe(en)<sub>2</sub>(CN)<sub>2</sub>]<sup>+</sup> (en = etilenediamino, C<sub>2</sub>H<sub>8</sub>N<sub>2</sub>)</para>
+</problem>
+</exercise>
+<exercise id="fs-idp151424672">
+<problem id="fs-idp104672160">
+<para id="fs-idp1506880">Indique los números de coordinación y escriba las fórmulas de cada uno de los siguientes elementos, incluso todos los isómeros cuando corresponda:</para>
+<para id="fs-idm2144192">(a) ion de tetrahidroxozincato(II) (tetraédrico)</para>
+<para id="fs-idp49932096">(b) ion de hexacianopaladato(IV)</para>
+<para id="fs-idp188441376">(c) ion de dicloroaurato(I) (observe que <emphasis effect="italics">aurum</emphasis> es "oro" en latín)</para>
+<para id="fs-idp37713168">(d) diaminodicloroplatino(II)</para><para id="fs-idp91072960">(e) diametraclorocromato de potasio(III)</para><para id="fs-idp64176720">(f) hexacianocromato(III) de hexaaminecobalto(III)</para><para id="fs-idp59722176">(g) nitrato de dibromobis (etilendiamina) cobalto(III)</para>
+</problem>
+<solution id="fs-idp215212352">
+<para id="fs-idp288666720">(a) 4, [Zn(OH)<sub>4</sub>]<sup>2-</sup>; (b) 6, [Pd(CN)<sub>6</sub>]<sup>2-</sup>; (c) 2, [AuCl<sub>2</sub>]<sup>-</sup>; (d) 4, [Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>]; (e) 6, K[Cr(NH<sub>3</sub>)<sub>2</sub>Cl<sub>4</sub>]; (f) 6, [Co(NH<sub>3</sub>)<sub>6</sub>][Cr(CN)<sub>6</sub>]; (g) 6, [Co(en)<sub>2</sub>Br<sub>2</sub>]NO<sub>3</sub></para>
+</solution>
+</exercise>
+<exercise id="fs-idp104842000">
+<problem id="fs-idp39533248">
+<para id="fs-idp244069600">Indique el número de coordinación de cada ion metálico en los siguientes compuestos:</para>
+<para id="fs-idp66182016">(a) [Co(CO<sub>3</sub>)<sub>3</sub>]<sup>3-</sup> (observe que CO<sub>3</sub><sup>2-</sup> es bidentado en este complejo)</para><para id="fs-idp38453456">(b) [Cu(NH<sub>3</sub>)<sub>4</sub>]<sup>2+</sup></para>
+<para id="fs-idp72201152">(c) [Co(NH<sub>3</sub>)<sub>4</sub>Br<sub>2</sub>]<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></para>
+<para id="fs-idp88473488">(d) [Pt(NH<sub>3</sub>)<sub>4</sub>][PtCl<sub>4</sub>]</para>
+<para id="fs-idp74765776">(e) [Cr(en)<sub>3</sub>](NO<sub>3</sub>)<sub>3</sub></para>
+<para id="fs-idp53542624">(f) [Pd(NH<sub>3</sub>)<sub>2</sub>Br<sub>2</sub>] (cuadrado plano)</para>
+<para id="fs-idp75347168">(g) K<sub>3</sub>[Cu(Cl)<sub>5</sub>]</para>
+<para id="fs-idp20243712">(h) [Zn(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>]</para>
+</problem>
+</exercise>
+<exercise id="fs-idp5586896">
+<problem id="fs-idp90286032">
+<para id="fs-idp83328608">Esboce las estructuras de los siguientes complejos. Indique los isómeros <emphasis effect="italics">cis</emphasis>, <emphasis effect="italics">trans</emphasis> y ópticos.</para>
+<para id="fs-idp243193648">(a) [Pt(H<sub>2</sub>O)<sub>2</sub>Br<sub>2</sub>] (cuadrado plano)</para>
+<para id="fs-idp58068512">(b) [Pt(NH<sub>3</sub>)(py)(Cl)(Br)] (cuadrado plano, py = piridina, C<sub>5</sub>H<sub>5</sub>N)</para>
+<para id="fs-idp226786864">(c) [Zn(NH<sub>3</sub>)<sub>3</sub>Cl]<sup>+</sup> (tetraédrico)</para><para id="fs-idm14282624">(d) [Pt(NH<sub>3</sub>)<sub>3</sub>Cl]<sup>+</sup> (cuadrado plano)</para><para id="fs-idp68312320">(e) [Ni(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]</para>
+<para id="fs-idm1778016">(f) [Co(C<sub>2</sub>O<sub>4</sub>)<sub>2</sub>Cl<sub>2</sub>]<sup>3-</sup> (observe que <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math> es el ion oxalato bidentado, <m:math><m:mrow><m:mo>-</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CCO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-idp35988272">
+<para id="fs-idp93813424">(a) [Pt(H<sub>2</sub>O)<sub>2</sub>Br<sub>2</sub>]:<newline/>
+<media id="fs-idp9574672" alt="Se muestran dos estructuras. En el centro de cada uno hay un átomo de P t. La estructura de la izquierda está marcada como &quot;cis&quot;. A partir de este átomo, un enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y hacia la derecha hasta un átomo de B r. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la derecha hasta un segundo átomo de B r. Otro enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y hacia la izquierda hasta el átomo de O de un grupo H subíndice 2 O. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo P t hacia abajo y hacia la izquierda hasta un segundo átomo O de un grupo H subíndice 2 O. La estructura de la derecha está marcada como &quot;trans&quot;. Desde el átomo central de P t, un enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y hacia la derecha hasta un átomo de B r. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la derecha hasta el átomo de O de un grupo H subíndice 2 O. Otro enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y hacia la izquierda hasta el átomo de O de un segundo grupo H subíndice 2 O. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la izquierda hasta un segundo átomo de B r.;">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Answer4a_img.jpg"/>
+</media><newline/> (b) [Pt(NH<sub>3</sub>)(py)(Cl)(Br)]:<newline/>
+<media id="fs-idp90764336" alt="Se muestran tres estructuras. En el centro de cada uno hay un átomo de P t. Desde este átomo en la primera estructura de la izquierda, un enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y hacia la derecha hasta un átomo C l. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la derecha hasta el átomo de N de un grupo N H subíndice 3. Otro enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y a la izquierda hasta un átomo de B r. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la izquierda hasta p y. La estructura del medio muestra un enlace simple, representado por una cuña discontinua que se extiende desde un vértice en el átomo de P t hacia arriba y hacia la derecha hasta un átomo de B r. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la derecha hasta el átomo de N de un grupo N H subíndice 3. Otro enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y a la izquierda hasta p y. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y a la izquierda hasta un átomo de C l. La tercera estructura muestra un enlace simple, representado por una cuña discontinua, que se extiende desde un vértice en el átomo de P t hacia arriba y hacia la derecha hasta p y. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la derecha hasta el átomo de N de un grupo N H subíndice 3. Otro enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y a la izquierda hasta un átomo de C l. Del mismo modo, un enlace simple, representado por una cuña sólida, se extiende desde un vértice en el átomo de P t hacia abajo y hacia la izquierda hasta un átomo de B r.;">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Answer4b_img.jpg"/>
+</media><newline/> (c) [Zn(NH<sub>3</sub>)<sub>3</sub>Cl]<sup>+</sup> :<newline/>
+<media id="fs-idp126313472" alt="Dentro de los corchetes, un átomo central de Z n está enlazado a un átomo de C l y a tres átomos de N en grupos de subíndice 3 de N H en una disposición espacial tetraédrica. Se utilizan segmentos de líneas cortas para representar un enlace que se extiende por encima hasta el átomo de C l y hacia abajo y a la izquierda hasta el N del grupo N H subíndice 3 del átomo Z n. Se utiliza una cuña discontinua con el vértice en el átomo de Z n y el extremo ancho en el átomo de N de un grupo N H subíndice 3 para representar un enlace hacia abajo y a la derecha del átomo de Z n. El enlace final está indicado por una cuña sólida similar dirigida de nuevo hacia abajo y un poco a la derecha del centro por debajo del átomo de Z n al N de un grupo N H subíndice 3. Fuera de los corchetes se muestra un signo más en superíndice.;">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Answer4c_img.jpg"/>
+</media><newline/> (d) [Pt(NH<sub>3</sub>)<sub>3</sub>Cl]<sup>+</sup> :<newline/>
+<media id="fs-idp168038944" alt="Esta estructura muestra un enlace simple, representado por una cuña discontinua, que se extiende desde un vértice en el átomo de P t hacia arriba y hacia la derecha hasta el átomo de N de un grupo N H subíndice 3. Del mismo modo, dos enlaces simples, representados por cuñas sólidas, se extienden desde los vértices en el átomo de P t hacia abajo y hacia la derecha y hacia abajo y hacia la izquierda hasta los átomos de N de los grupos N H subíndice 3. Otro enlace simple, representado por una cuña discontinua, se extiende desde un vértice en el átomo de P t hacia arriba y a la izquierda hasta un átomo de C l. Esta estructura está encerrada entre corchetes con el signo más en superíndice que aparece a la derecha de los corchetes;">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Answer4d_img.jpg"/>
+</media><newline/> (e) [Ni(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]:<newline/>
+<media id="fs-idp48279792" alt="Se muestran dos estructuras. El primero está marcado como &quot;trans&quot;. Debajo de esta marcación, entre corchetes, hay un átomo central N i. Desde el átomo de N i, los segmentos de línea indican los enlaces con los átomos de C l por encima y por debajo. Por encima y a la derecha y a la izquierda, las cuñas discontinuas con su vértice en el átomo de N i que se ensanchan a medida que se alejan del átomo indican enlaces con átomos de O de grupos de H subíndice 2 O. Del mismo modo, las cuñas sólidas situadas debajo, tanto a la derecha como a la izquierda, indican los enlaces con los átomos de O de los grupos H subíndice 2 O. Esta estructura se encuentra entre corchetes. La segunda estructura está marcada como &quot;cis&quot;. Dentro de los corchetes hay un átomo central de N i. A partir del átomo de N i, los segmentos de línea indican enlaces con un átomo de C l por encima y con el átomo de O de un grupo de H subíndice 2 O por debajo. Por encima y a la derecha y a la izquierda, las cuñas discontinuas indican los enlaces con átomos de O de los grupos H subíndice 2 O. Del mismo modo, una cuña sólida abajo a la derecha indica un enlace con un átomo de C l y una cuña sólida abajo a la izquierda indica un enlace con los átomos de O de un grupo H subíndice 2 O. Esta estructura también está entre corchetes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Answer4e_img.jpg"/>
+</media><newline/> (f) [Co(C<sub>2</sub>O<sub>4</sub>)<sub>2</sub>Cl<sub>2</sub>]<sup>3-</sup>:<newline/>
+<media id="fs-idm29297584" alt="Esta figura consta de tres estructuras. La primera estructura consta de un átomo central de C o que tiene cuatro átomos de O y dos átomos de C l unidos con enlaces simples. Estos enlaces se indican con segmentos de línea que se extienden por encima y por debajo, cuñas discontinuas que se extienden hacia arriba y hacia la izquierda y la derecha, y cuñas sólidas que se extienden por debajo y hacia la izquierda y la derecha. Los átomos de C l se unen en la parte superior y en la parte superior izquierda de la estructura. Los cuatro enlaces restantes se extienden desde el átomo central de C o hasta los átomos de O. Cada uno de los átomos de O está conectado a los átomos de C, que a su vez están conectados con dobles enlaces a los átomos de O que se extienden hacia fuera desde el átomo central de C o. Estos átomos de C están conectados en pares con enlaces indicados por segmentos de línea, para formar dos anillos en la estructura. Toda esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, hay un superíndice 3 con el signo menos. La segunda estructura, que parece la imagen especular de la primera estructura, consta de un átomo central de C o que tiene cuatro átomos de O y dos átomos de C l unidos con enlaces simples. Estos enlaces se indican con segmentos de línea que se extienden por encima y por debajo, cuñas discontinuas que se extienden hacia arriba y hacia la izquierda y la derecha, y cuñas sólidas que se extienden por debajo y hacia la izquierda y la derecha. Los átomos de C l se unen en la parte superior y en la parte superior derecha de la estructura. Los cuatro enlaces restantes se extienden desde el átomo central de C o hasta los átomos de O. Cada uno de los átomos de O está conectado a los átomos de C, que a su vez están conectados con dobles enlaces a los átomos de O que se extienden hacia fuera desde el átomo central de C o. Estos átomos de C están conectados en pares con enlaces indicados por segmentos de línea, para formar dos anillos en la estructura. Toda esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, está el superíndice 3 con el signo menos. La tercera estructura consta de un átomo central de C o que tiene cuatro átomos de O y dos átomos de C l unidos con enlaces simples. Estos enlaces se indican con segmentos de línea que se extienden por encima y por debajo, cuñas discontinuas que se extienden hacia arriba y hacia la izquierda y la derecha, y cuñas sólidas que se extienden por debajo y hacia la izquierda y la derecha. Los átomos de C l se enlazan en la parte superior e inferior de la estructura. Los cuatro enlaces restantes se extienden desde el átomo central de C o hasta los átomos de O. Cada uno de los átomos de O está conectado a átomos de C que, a su vez, están doblemente enlazados a átomos de O que se extienden hacia fuera desde el átomo central de C o. Estos átomos de C están conectados en pares con enlaces indicados por segmentos de línea, para formar dos anillos en la estructura. Toda esta estructura se encuentra entre corchetes. Fuera de los corchetes, a la derecha, hay un superíndice 3 con el signo menos. Hay anillos de átomos en lados opuestos de la estructura final.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_Answer4f_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp55630960">
+<problem id="fs-idp227628256">
+<para id="fs-idm62688336">Dibuje los diagramas de los isómeros <emphasis effect="italics">cis</emphasis>, <emphasis effect="italics">trans</emphasis> y ópticos que podrían existir para lo siguiente (en es etilendiamina):</para>
+<para id="fs-idp278094160">(a) [Co(en)<sub>2</sub>(NO<sub>2</sub>)Cl]<sup>+</sup></para>
+<para id="fs-idm3473200">(b) [Co(en)<sub>2</sub>Cl<sub>2</sub>]<sup>+</sup></para>
+<para id="fs-idp240653552">(c) [Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>4</sub>]</para>
+<para id="fs-idp217660976">(d) [Cr(en)<sub>3</sub>]<sup>3+</sup></para>
+<para id="fs-idp129128096">(e) [Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>]</para>
+</problem>
+</exercise>
+<exercise id="fs-idp39161552">
+<problem id="fs-idp56403008">
+<para id="fs-idp174791264">Designe cada uno de los compuestos o iones que aparecen en la <link target-id="fs-idp104842000"/>, incluso el estado de oxidación del metal.</para></problem>
+<solution id="fs-idp50104672">
+<para id="fs-idp56287648">(a) ión de tricarbonatocobaltato(III); (b) ión de tetraaminecobre(II); (c) sulfato de tetraaminoibromocobalto(III); (d) tetraaminoplatino(II) tetracloroplatinato(II); (e) nitrato de <emphasis effect="italics">tris-</emphasis>(etilendiamina)cromo(III); (f) diaminoibromopaladio(II); (g) pentaclorocuprato(II) de potasio; (h) diaminoiclorozinc(II)</para>
+</solution>
+</exercise>
+<exercise id="fs-idp39687552">
+<problem id="fs-idp68940112">
+<para id="fs-idp57091024">Designe cada uno de los compuestos o iones que aparecen en la <link target-id="fs-idp55630960"/>.</para></problem>
+</exercise>
+<exercise id="fs-idp74861776">
+<problem id="fs-idp128290992">
+<para id="fs-idp108752272">Especifique si los siguientes complejos tienen isómeros.</para>
+<para id="fs-idp36945120">a) tetraédrico [Ni(CO<sub>)2</sub>(Cl<sub>)2</sub>]</para>
+<para id="fs-idp95290608">b) bipiramidal trigonal [Mn(CO)<sub>4</sub>NO]</para>
+<para id="fs-idp82903136">(c) [Pt(en)<sub>2</sub>Cl<sub>2</sub>]Cl<sub>2</sub></para>
+</problem>
+<solution id="fs-idp80290816">
+<para id="fs-idp117271104">(a) ninguno; (b) ninguno; (c) Los dos ligandos de Cl pueden ser <emphasis effect="italics">cis</emphasis> o <emphasis effect="italics">trans</emphasis>. Cuando son <emphasis effect="italics">cis</emphasis>, también habrá un isómero óptico.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp128328592">
+<problem id="fs-idp171762128">
+<para id="fs-idp7428240">Prediga si el ligando de carbonato <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math>se coordinará con un centro metálico como ligando monodentado, bidentado o tridentado.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp128328048">
+<problem id="fs-idp58805216">
+<para id="fs-idp9775424">Dibuje los isómeros geométricos, de enlace y de ionización para [CoCl<sub>5</sub>CN][CN].</para>
+</problem>
+<solution id="fs-idp5486896">
+<para id="fs-idm35199712"><media id="fs-idp225955008" alt="Esta figura muestra ocho estructuras, cada una entre corchetes en tres filas. La primera fila contiene tres estructuras, la segunda contiene tres estructuras y la tercera contiene dos estructuras. Estas se describen en orden creciente, de izquierda a derecha y de arriba a abajo en la figura. Cada una consta de un átomo central de C o con segmentos de línea que indican los enlaces por encima y por debajo de este. Arriba y a la izquierda y a la derecha, las cuñas discontinuas con vértices en el átomo de C o que se ensanchan a medida que se alejan del átomo indican enlaces simples. Del mismo modo, las cuñas sólidas situadas debajo y a la izquierda y a la derecha indican enlaces simples. Fuera de cada estructura entre corchetes, a la derecha, se identifica un elemento o grupo entre corchetes como superíndice. En la primera estructura, el átomo de C de un grupo C N está enlazado al átomo de C o. Los 5 enlaces restantes son con átomos de C l. C N aparece entre corchetes como superíndice fuera de la estructura. En la segunda estructura, el átomo N de un grupo C N está enlazado al átomo de C o. Los 5 enlaces restantes son con átomos de C l. C N aparece entre corchetes como superíndice fuera de la estructura. En la tercera estructura, el átomo de C de dos grupos C N está enlazado al átomo de C o en la parte superior e inferior de la estructura. Los 4 enlaces restantes son con átomos de C l. C l aparece entre corchetes como superíndice fuera de la estructura. En la cuarta estructura, el átomo C de un grupo C N está enlazado al átomo de C o en la parte superior y al átomo de N de un grupo C N que está unido en la parte inferior de la estructura. Los 4 enlaces restantes son con átomos de C l. C l aparece entre corchetes como superíndice fuera de la estructura. En la quinta estructura, el átomo de N de dos grupos C N está enlazado al átomo de C o en la parte superior e inferior de la estructura. Los 4 enlaces restantes son con átomos de C l. C l aparece entre corchetes como superíndice fuera de la estructura. En la sexta estructura, el átomo de C de dos grupos C N está enlazado al átomo de C o en la parte superior y superior derecha de la estructura. Los 4 enlaces restantes son con átomos de C l. C l aparece entre corchetes como superíndice fuera de la estructura. En la séptima estructura, el átomo de C de un grupo C N está unido al átomo de C o en la parte superior de la estructura y el átomo de N de un grupo C N está enlazado en la parte superior derecha de la estructura. Los 4 enlaces restantes son con átomos de C l. C l aparece entre corchetes como superíndice fuera de la estructura. En la octava estructura, el átomo de N de dos grupos C N está enlazado al átomo de C o en la parte superior y superior derecha de la estructura. Los 4 enlaces restantes son con átomos de C l. C l aparece entre corchetes como superíndice fuera de la estructura.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_19_02_ex10ans_img.jpg"/>
+</media></para></solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idp65460624"><term>ligando bidentado</term><meaning id="fs-idp20276000">ligando que se coordina con un metal central a través de enlaces de coordinación de dos átomos diferentes</meaning></definition>
+<definition id="fs-idp53705200"><term>metal central</term><meaning id="fs-idp60237728">ion o átomo al que se unen uno o más ligandos mediante enlaces covalentes coordinados</meaning></definition>
+<definition id="fs-idp64634960"><term>quelato</term><meaning id="fs-idp283217312">complejo formado por un ligando polidentado unido a un metal central</meaning></definition>
+<definition id="fs-idp51669120"><term>ligando quelante</term><meaning id="fs-idp54931488">ligando que se une a un ion metálico central mediante enlaces de dos o más átomos donantes</meaning></definition>
+<definition id="fs-idp15506400"><term>configuración <emphasis effect="italics">cis</emphasis></term><meaning id="fs-idp250459776">configuración de un isómero geométrico en el que dos grupos similares están en el mismo lado de una línea de referencia imaginaria en la molécula</meaning></definition>
+<definition id="fs-idp246761680"><term>compuesto de coordinación</term><meaning id="fs-idp248404560">sustancia formada por átomos, moléculas o iones unidos a un átomo central mediante interacciones ácido-base de Lewis</meaning></definition>
+<definition id="fs-idp55828544"><term>número de coordinación</term><meaning id="fs-idp273504160">número de enlaces covalentes coordinados con el átomo metálico central en un complejo o el número de contactos más cercanos a un átomo en una forma cristalina</meaning></definition>
+<definition id="fs-idp56324672"><term>esfera de coordinación</term><meaning id="fs-idm14085520">átomo o ion metálico central más los ligandos unidos de un complejo</meaning></definition>
+<definition id="fs-idp275481408"><term>átomo donante</term><meaning id="fs-idp9637984">átomo de un ligando con un par solitario de electrones que forma un enlace covalente coordinado con un metal central</meaning></definition>
+<definition id="fs-idp165361216"><term>isómero de ionización</term><meaning id="fs-idp167496896">(o isómero de coordinación) isómero en el que un ligando aniónico es sustituido por el contraión en la esfera de coordinación interna</meaning></definition>
+<definition id="fs-idp279277792"><term>ligando</term><meaning id="fs-idp126794000">ion o molécula neutra unida al ion metálico central en un compuesto de coordinación</meaning></definition>
+<definition id="fs-idp63930000"><term>isómero de enlace</term><meaning id="fs-idm281088">compuesto de coordinación que posee un ligando que puede unirse al metal de transición de dos maneras distintas (CN<sup>-</sup> vs. NC<sup>-</sup>)</meaning></definition>
+<definition id="fs-idp8060128"><term>monodentado</term><meaning id="fs-idp87635136">ligando que se une a un metal central a través de un solo enlace covalente coordinado</meaning></definition>
+<definition id="fs-idp216879616"><term>isómero óptico</term><meaning id="fs-idp273821392">(también llamado enantiómero) molécula que es una imagen especular no superpuesta con idénticas propiedades químicas y físicas, excepto cuando reacciona con otros isómeros ópticos</meaning></definition>
+<definition id="fs-idp158869120"><term>ligando polidentado</term><meaning id="fs-idp165398000">ligando que se une a un ion metálico central mediante enlaces de dos o más átomos donantes, denominados con prefijos que especifican cuántos donantes están presentes (por ejemplo, hexadentado = formado por seis enlaces coordinados)</meaning></definition>
+<definition id="fs-idp75431424"><term>configuración <emphasis effect="italics">trans</emphasis></term><meaning id="fs-idp97209216">configuración de un isómero geométrico en el que dos grupos similares están en lados opuestos de una línea de referencia imaginaria en la molécula</meaning></definition>
+</glossary>
+</document>

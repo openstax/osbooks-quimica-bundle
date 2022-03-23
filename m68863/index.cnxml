@@ -1,0 +1,379 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+
+<title>Propiedades del agua</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68863</md:content-id>
+  <md:title>Propiedades del agua</md:title>
+  <md:abstract/>
+  <md:uuid>99f9a1dc-5a53-4300-af88-5529ddcd7fd1</md:uuid>
+</metadata>
+
+<content class="appendix">
+<table class="top-titled" id="fs-idm240880336" summary="La tabla con dos columnas y 13 filas se titula &quot;Densidad del agua ( kilogramos por metro cúbico ) a diferentes temperaturas ( grados Celsius )&quot;. La primera fila se titula &quot;Temperatura&quot; en la columna izquierda y el título &quot;Densidad&quot; en la columna derecha. La siguiente fila contiene el número 0 en la columna de la izquierda y el número 999,8395 en la columna de la derecha. La siguiente fila contiene el número 4 en la columna de la izquierda y el número 999,9720 junto al texto &quot;( densidad máxima )&quot; en la columna de la derecha. La siguiente fila contiene el número 10 en la columna de la izquierda y el número 999,7026 en la columna de la derecha. La siguiente fila contiene el número 15 en la columna de la izquierda y el número 999,1026 en la columna de la derecha. La siguiente fila contiene el número 20 en la columna de la izquierda y el número 998,2071 en la columna de la derecha. La siguiente fila contiene el número 22 en la columna de la izquierda y el número 997,7735 en la columna de la derecha. La siguiente fila contiene el número 25 en la columna de la izquierda y el número 997,0479 en la columna de la derecha. La siguiente fila contiene el número 30 en la columna de la izquierda y el número 995,6502 en la columna de la derecha. La siguiente fila contiene el número 40 en la columna de la izquierda y el número 992,2 en la columna de la derecha. La siguiente fila contiene el número 60 en la columna de la izquierda y el número 983,2 en la columna de la derecha. La siguiente fila contiene el número 80 en la columna de la izquierda y el número 971,8 en la columna de la derecha. La siguiente fila contiene el número 100 en la columna de la izquierda y el número 958,4 en la columna de la derecha.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c2">Densidad del agua (g/mL) a diferentes temperaturas (°C)</entry>
+</row>
+<row valign="middle">
+<entry align="left">Temperatura</entry>
+<entry align="left">Densidad (g/mL)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">0</entry>
+<entry align="left">0,9998395</entry>
+</row>
+<row valign="middle">
+<entry align="left">4</entry>
+<entry align="left">0,9999720 (densidad máxima)</entry>
+</row>
+<row valign="middle">
+<entry align="left">10</entry>
+<entry align="left">0,9997026</entry>
+</row>
+<row valign="middle">
+<entry align="left">15</entry>
+<entry align="left">0,9991026</entry>
+</row>
+<row valign="middle">
+<entry align="left">20</entry>
+<entry align="left">0,9982071</entry>
+</row>
+<row valign="middle">
+<entry align="left">22</entry>
+<entry align="left">0,9977735</entry>
+</row>
+<row valign="middle">
+<entry align="left">25</entry>
+<entry align="left">0,9970479</entry>
+</row>
+<row valign="middle">
+<entry align="left">30</entry>
+<entry align="left">0,9956502</entry>
+</row>
+<row valign="middle">
+<entry align="left">40</entry>
+<entry align="left">0,9922</entry>
+</row>
+<row valign="middle">
+<entry align="left">60</entry>
+<entry align="left">0,9832</entry>
+</row>
+<row valign="middle">
+<entry align="left">80</entry>
+<entry align="left">0,9718</entry>
+</row>
+<row valign="middle">
+<entry align="left">100</entry>
+<entry align="left">0,9584</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<media id="fs-idm271037008" class="scaled-down" alt="Un gráfico linear se titula &quot;Densidad del agua en función de la temperatura&quot;. El eje x se titula &quot;Temperatura, grados Celsius&quot;; el eje y se titula &quot;Densidad, kilogramos por metro cúbico&quot;. Una línea une los puntos del gráfico en las coordenadas 0 y 999,8395, 4 y 999,9720, 10 y 999,7026, 15 y 999,1026, 20 y 998,2071, 22 y 997,7735, 25 y 997,0479, 30 y 995,6502, 40 y 992,2, 60 y 983,2, 80 y 971,8, y 100 y 958,4. ">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_00_EE_Density_img.jpg"/>
+</media>
+<table class="top-titled" id="fs-idm352250464" summary="La tabla con tres columnas y 23 filas se titula &quot;Presión de vapor de agua a diferentes temperaturas ( grados Celsius )&quot;. La primera fila se titula &quot;Temperatura&quot; en la columna de la izquierda, el título &quot;Presión de vapor ( torr )&quot; en la columna del medio y el título &quot;Presión de vapor ( pascales )&quot; en la columna de la derecha. La siguiente fila contiene el número 0 en la columna de la izquierda, el número 4,6 en la columna del medio y el número 613,2812 en la columna de la derecha. La siguiente fila contiene el número 4 en la columna de la izquierda, el número 6,1 en la columna del medio y el número 813,2642 en la columna de la derecha. La siguiente fila contiene el número 10 en la columna de la izquierda, el número 9,2 en la columna del medio y el número 1226,562 en la columna de la derecha. La siguiente fila contiene el número 15 en la columna de la izquierda, el número 12,8 en la columna del medio y el número 1706,522 en la columna de la derecha. La siguiente fila contiene el número 20 en la columna de la izquierda, el número 17,5 en la columna del medio y el número 2333,135 en la columna de la derecha. La siguiente fila contiene el número 22 en la columna de la izquierda, el número 19,8 en la columna del medio y el número 2639,776 en la columna de la derecha. La siguiente fila contiene el número 25 en la columna de la izquierda, el número 23,8 en la columna del medio y el número 3173,064 en la columna de la derecha. La siguiente fila contiene el número 30 en la columna de la izquierda, el número 31,8 en la columna del medio y el número 4239,64 en la columna de la derecha. La siguiente fila contiene el número 35 en la columna de la izquierda, el número 42,2 en la columna del medio y el número 5626,188 en la columna de la derecha. La siguiente fila contiene el número 40 en la columna de la izquierda, el número 55,3 en la columna del medio y el número 7372,707 en la columna de la derecha. La siguiente fila contiene el número 45 en la columna de la izquierda, el número 71,9 en la columna del medio y el número 9585,852 en la columna de la derecha. La siguiente fila contiene el número 50 en la columna de la izquierda, el número 92,5 en la columna del medio y el número 12332,29 en la columna de la derecha. La siguiente fila contiene el número 55 en la columna de la izquierda, el número 118,0 en la columna del medio y el número 15732 en la columna de la derecha. La siguiente fila contiene el número 60 en la columna de la izquierda, el número 149,4 en la columna del medio y el número 19918,31 en la columna de la derecha. La siguiente fila contiene el número 65 en la columna de la izquierda, el número 187,5 en la columna del medio y el número 24997,88 en la columna de la derecha. La siguiente fila contiene el número 70 en la columna de la izquierda, el número 233,7 en la columna del medio y el número 31157,35 en la columna de la derecha. La siguiente fila contiene el número 75 en la columna de la izquierda, el número 289,1 en la columna del medio y el número 38543,39 en la columna de la derecha. La siguiente fila contiene el número 80 en la columna de la izquierda, el número 355,1 en la columna del medio y el número 47342,64 en la columna de la derecha. La siguiente fila contiene el número 85 en la columna de la izquierda, el número 433,6 en la columna del medio y el número 57808,42 en la columna de la derecha. La siguiente fila contiene el número 90 en la columna de la izquierda, el número 525,8 en la columna del medio y el número 70100,71 en la columna de la derecha. La siguiente fila contiene el número 95 en la columna de la izquierda, el número 633,9 en la columna del medio y el número 84512,82 en la columna de la derecha. La siguiente fila contiene el número 100 en la columna de la izquierda, el número 760,0 en la columna del medio y el número 101324,7 en la columna de la derecha.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c3">Presión de vapor de agua a diferentes temperaturas (°C)</entry>
+</row>
+<row valign="middle">
+<entry align="left">Temperatura</entry>
+<entry align="left">Presión de vapor (torr)</entry>
+<entry align="left">Presión de vapor (Pa)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">0</entry>
+<entry align="left">4,6</entry>
+<entry align="left">613,2812</entry>
+</row>
+<row valign="middle">
+<entry align="left">4</entry>
+<entry align="left">6,1</entry>
+<entry align="left">813,2642</entry>
+</row>
+<row valign="middle">
+<entry align="left">10</entry>
+<entry align="left">9,2</entry>
+<entry align="left">1226,562</entry>
+</row>
+<row valign="middle">
+<entry align="left">15</entry>
+<entry align="left">12,8</entry>
+<entry align="left">1706,522</entry>
+</row>
+<row valign="middle">
+<entry align="left">20</entry>
+<entry align="left">17,5</entry>
+<entry align="left">2333,135</entry>
+</row>
+<row valign="middle">
+<entry align="left">22</entry>
+<entry align="left">19,8</entry>
+<entry align="left">2639,776</entry>
+</row>
+<row valign="middle">
+<entry align="left">25</entry>
+<entry align="left">23,8</entry>
+<entry align="left">3173,064</entry>
+</row>
+<row valign="middle">
+<entry align="left">30</entry>
+<entry align="left">31,8</entry>
+<entry align="left">4239,64</entry>
+</row>
+<row valign="middle">
+<entry align="left">35</entry>
+<entry align="left">42,2</entry>
+<entry align="left">5626,188</entry>
+</row>
+<row valign="middle">
+<entry align="left">40</entry>
+<entry align="left">55,3</entry>
+<entry align="left">7372,707</entry>
+</row>
+<row valign="middle">
+<entry align="left">45</entry>
+<entry align="left">71,9</entry>
+<entry align="left">9585,852</entry>
+</row>
+<row valign="middle">
+<entry align="left">50</entry>
+<entry align="left">92,5</entry>
+<entry align="left">12332,29</entry>
+</row>
+<row valign="middle">
+<entry align="left">55</entry>
+<entry align="left">118,0</entry>
+<entry align="left">15.732</entry>
+</row>
+<row valign="middle">
+<entry align="left">60</entry>
+<entry align="left">149,4</entry>
+<entry align="left">19918,31</entry>
+</row>
+<row valign="middle">
+<entry align="left">65</entry>
+<entry align="left">187,5</entry>
+<entry align="left">24997,88</entry>
+</row>
+<row valign="middle">
+<entry align="left">70</entry>
+<entry align="left">233,7</entry>
+<entry align="left">31157,35</entry>
+</row>
+<row valign="middle">
+<entry align="left">75</entry>
+<entry align="left">289,1</entry>
+<entry align="left">38543,39</entry>
+</row>
+<row valign="middle">
+<entry align="left">80</entry>
+<entry align="left">355,1</entry>
+<entry align="left">47342,64</entry>
+</row>
+<row valign="middle">
+<entry align="left">85</entry>
+<entry align="left">433,6</entry>
+<entry align="left">57808,42</entry>
+</row>
+<row valign="middle">
+<entry align="left">90</entry>
+<entry align="left">525,8</entry>
+<entry align="left">70100,71</entry>
+</row>
+<row valign="middle">
+<entry align="left">95</entry>
+<entry align="left">633,9</entry>
+<entry align="left">84512,82</entry>
+</row>
+<row valign="middle">
+<entry align="left">100</entry>
+<entry align="left">760,0</entry>
+<entry align="left">101324,7</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<media id="fs-idm60922784" class="scaled-down" alt="Un gráfico linear se titula &quot;Presión de vapor en función de la temperatura&quot;. El eje x se titula &quot;Temperatura, grados Celsius&quot;; el eje y se titula &quot;Presión de vapor, torr&quot;. Una línea une los puntos del gráfico en las coordenadas 0 y 4,6, 4 y 6,1, 10 y 9,2, 15 y 12,8, 20 y 17,5, 22 y 19,8, 25 y 23,8, 30 y 31,8, 35 y 42,2, 40 y 55,3, 45 y 71,9, 50 y 92,5, 55 y 118,0, 60 y 149,4, 65 y 187,5, 70 y 233,7, 75 y 289,1, 80 y 355,1, 85 y 433,6, 90 y 525,8, 95 y 633,9, y 100 y 760,0.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_00_EE_Vapor_img.jpg"/>
+</media>
+<table class="top-titled" id="fs-idm245013232" summary="La tabla con tres columnas y 16 filas se titula &quot;Agua K subíndice W y pK subíndice W a diferentes temperaturas ( grados Celsius )&quot;. La primera fila se titula &quot;Temperatura&quot; en la columna de la izquierda, el título &quot;K subíndice W, 10 superíndice 14 negativo&quot; en la columna del medio, y el título &quot;pK subíndice W superíndice 2&quot; en la columna de la derecha. La siguiente fila contiene el número 0 en la columna de la izquierda, el número 0,112 en la columna del medio y el número 14,95 en la columna de la derecha. La siguiente fila contiene el número 5 en la columna de la izquierda, el número 0,182 en la columna del medio y el número 14,74 en la columna de la derecha. La siguiente fila contiene el número 10 en la columna de la izquierda, el número 0,288 en la columna del medio y el número 14,54 en la columna de la derecha. La siguiente fila contiene el número 15 en la columna de la izquierda, el número 0,465 en la columna del medio y el número 14,33 en la columna de la derecha. La siguiente fila contiene el número 20 en la columna de la izquierda, el número 0,671 en la columna del medio y el número 14,17 en la columna de la derecha. La siguiente fila contiene el número 25 en la columna de la izquierda, el número 0,991 en la columna del medio y el número 14,00 en la columna de la derecha. La siguiente fila contiene el número 30 en la columna de la izquierda, el número 1,432 en la columna del medio y el número 13,84 en la columna de la derecha. La siguiente fila contiene el número 35 en la columna de la izquierda, el número 2,042 en la columna del medio y el número 13,69 en la columna de la derecha. La siguiente fila contiene el número 40 en la columna de la izquierda, el número 2,851 en la columna del medio y el número 13,55 en la columna de la derecha. La siguiente fila contiene el número 45 en la columna de la izquierda, el número 3,917 en la columna del medio y el número 13,41 en la columna de la derecha. La siguiente fila contiene el número 50 en la columna de la izquierda, el número 5,297 en la columna del medio y el número 13,28 en la columna de la derecha. La siguiente fila contiene el número 55 en la columna de la izquierda, el número 7,080 en la columna del medio y el número 13,15 en la columna de la derecha. La siguiente fila contiene el número 60 en la columna de la izquierda, el número 9,311 en la columna del medio y el número 13,03 en la columna de la derecha. La siguiente fila contiene el número 75 en la columna de la izquierda, el número 19,95 en la columna del medio y el número 12,70 en la columna de la derecha. La siguiente fila contiene el número 100 en la columna de la izquierda, el número 56,23 en la columna del medio y el número 12,25 en la columna de la derecha.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c3">K<sub>w</sub> y pK<sub>w</sub> del agua a diferentes temperaturas (°C).</entry>
+</row>
+<row valign="middle">
+<entry align="left">Temperatura</entry>
+<entry align="left">K<sub>w</sub> 10<sup>-14</sup></entry>
+<entry align="left">pK<sub>w</sub><footnote id="fs-idm106976512">pK<sub>w</sub> = -log<sub>10</sub>(K<sub>w</sub>)</footnote></entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">0</entry>
+<entry align="left">0,112</entry>
+<entry align="left">14,95</entry>
+</row>
+<row valign="middle">
+<entry align="left">5</entry>
+<entry align="left">0,182</entry>
+<entry align="left">14,74</entry>
+</row>
+<row valign="middle">
+<entry align="left">10</entry>
+<entry align="left">0,288</entry>
+<entry align="left">14,54</entry>
+</row>
+<row valign="middle">
+<entry align="left">15</entry>
+<entry align="left">0,465</entry>
+<entry align="left">14,33</entry>
+</row>
+<row valign="middle">
+<entry align="left">20</entry>
+<entry align="left">0,671</entry>
+<entry align="left">14,17</entry>
+</row>
+<row valign="middle">
+<entry align="left">25</entry>
+<entry align="left">0,991</entry>
+<entry align="left">14,00</entry>
+</row>
+<row valign="middle">
+<entry align="left">30</entry>
+<entry align="left">1,432</entry>
+<entry align="left">13,84</entry>
+</row>
+<row valign="middle">
+<entry align="left">35</entry>
+<entry align="left">2,042</entry>
+<entry align="left">13,69</entry>
+</row>
+<row valign="middle">
+<entry align="left">40</entry>
+<entry align="left">2,851</entry>
+<entry align="left">13,55</entry>
+</row>
+<row valign="middle">
+<entry align="left">45</entry>
+<entry align="left">3,917</entry>
+<entry align="left">13,41</entry>
+</row>
+<row valign="middle">
+<entry align="left">50</entry>
+<entry align="left">5,297</entry>
+<entry align="left">13,28</entry>
+</row>
+<row valign="middle">
+<entry align="left">55</entry>
+<entry align="left">7,080</entry>
+<entry align="left">13,15</entry>
+</row>
+<row valign="middle">
+<entry align="left">60</entry>
+<entry align="left">9,311</entry>
+<entry align="left">13,03</entry>
+</row>
+<row valign="middle">
+<entry align="left">75</entry>
+<entry align="left">19,95</entry>
+<entry align="left">12,70</entry>
+</row>
+<row valign="middle">
+<entry align="left">100</entry>
+<entry align="left">56,23</entry>
+<entry align="left">12,25</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><media id="fs-idm370140880" class="scaled-down" alt="Un gráfico linear se titula &quot;Agua pK subíndice W en función de la temperatura&quot;. El eje x se titula &quot;Temperatura, grados Celsius&quot;; el eje y se titula &quot;pK subíndice W&quot;. Una línea une los puntos del gráfico en las coordenadas 0 y 14,95, 5 y 14,74, 10 y 14,54, 15 y 14,33, 20 y 14,17, 25 y 14, 30 y 13,84, 35 y 13,69, 40 y 13,55, 45 y 13,41, 50 y 13,28, 55 y 13,15, 60 y 13,03, 75 y 12,7, y 100 y 12,25.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_00_EE_WaterpKw_img.jpg"/>
+</media>
+<table class="top-titled" id="fs-idm170933296" summary="La tabla con una columna y tres filas se titula &quot;Capacidad calorífica específica del agua&quot;. La primera fila contiene la ecuación &quot;C superíndice 0 ( H subíndice 2 O ( líquido ) ) igual a 4179 J por K superíndice uno negativo por kg superíndice uno negativo&quot;. La siguiente fila contiene la ecuación &quot;C superíndice 0 ( H subíndice 2 O ( sólido ) ) es igual a 1864 J por K superíndice negativo por kg superíndice negativo. La siguiente fila contiene la ecuación &quot;C superíndice 0 ( H subíndice 2 O ( gas ) ) es igual a 2093 J por K superíndice negativo por kg superíndice negativo.">
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<thead>
+<row valign="middle">
+<entry align="center">Capacidad calorífica específica del agua</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">C°(H<sub>2</sub>O(<emphasis effect="italics">l</emphasis>)) = 4,184 J∙g<sup>-1</sup>∙°C<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">C°(H<sub>2</sub>O(<emphasis effect="italics">s</emphasis>)) = 1,864 J∙K<sup>-1</sup>∙g<sup>-1</sup></entry>
+</row>
+<row valign="middle">
+<entry align="left">C°(H<sub>2</sub>O(<emphasis effect="italics">g</emphasis>)) = 2,093 J∙K<sup>-1</sup>∙g<sup>-1</sup></entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><table class="top-titled" id="fs-idm404907328" summary="La tabla con tres columnas y tres filas se titula &quot;Temperaturas estándar de fusión y ebullición del agua y entalpías de las transiciones&quot;. La primera fila se titula &quot;Temperatura ( Kelvin )&quot; en la columna central y el título &quot;Delta H ( Kilojulios por mol )&quot; en la columna derecha. La siguiente fila se titula &quot;fusión&quot; en la columna de la izquierda, el número 273,15 en la columna del medio y el número 6,088 en la columna de la derecha. La siguiente fila se titula &quot;ebullición&quot; en la columna de la izquierda, el número 373,15 en la columna del medio y el número 40,656 ( 44,016 a 298 Kelvin ) en la columna de la derecha.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="middle">
+<entry namest="c1" nameend="c3">Temperaturas estándar de fusión y ebullición del agua y entalpías de las transiciones</entry>
+</row>
+<row valign="middle">
+<entry align="left"/>
+<entry align="left">Temperatura (K)</entry>
+<entry align="left">Δ<emphasis effect="italics">H</emphasis> (kJ/mol)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">fusión</entry>
+<entry align="left">273,15</entry>
+<entry align="left">6,088</entry>
+</row>
+<row valign="middle">
+<entry align="left">ebullición</entry>
+<entry align="left">373,15</entry>
+<entry align="left">40,656 (44,016 a 298 K)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table class="top-titled" id="fs-idm315598976" summary="La tabla con una columna y dos filas se titula &quot;Constantes crioscópicas (descenso crioscópico) y ebullioscópicas (aumento del punto de ebullición) del agua&quot;. La primera fila contiene la ecuación &quot;K subíndice f es igual a 1,86 K mol superíndice uno negativo kg superíndice uno negativo&quot;, directamente a la izquierda del texto &quot;( constante crioscópica )&quot;. La siguiente fila contiene la ecuación &quot;K subíndice b es igual a 0,51 mol superíndice uno negativo kg superíndice uno negativo&quot;, directamente a la izquierda del texto &quot;( constante ebullioscópica )&quot;.">
+<tgroup cols="1"><colspec colnum="1" colname="c1"/>
+<thead>
+<row valign="middle">
+<entry align="center">Constantes crioscópicas (descenso crioscópico) y ebullioscópicas (aumento del punto de ebullición) del agua</entry>
+</row>
+</thead>
+<tbody>
+<row valign="middle">
+<entry align="left">K<sub>f</sub> = 1,86°C∙kg∙mol<sup>-1</sup> (constante crioscópica)</entry>
+</row>
+<row valign="middle">
+<entry align="left">K<sub>b</sub> = 0,51°C∙kg∙mol<sup>-1</sup> (constante ebullioscópica)</entry>
+</row>
+</tbody>
+</tgroup>
+</table><figure id="CNX_Chem_00_EE_LiqWatAbso"><media id="fs-idm364999968" alt="Un gráfico linear se titula &quot;Curva de absorción espectral del rango completo del agua&quot;. El eje x se titula &quot;Longitud de onda&quot; y el eje y se titula &quot;Absorción (1 por metro)&quot;. Las marcas espaciadas uniformemente en el eje x denotan 10 nanómetros, 100 nanómetros, 1 micrómetro, 10 micrómetros, 100 micrómetros, 1 milímetro y 10 milímetros. Las marcas de graduación uniformemente espaciadas en el eje y denotan 10 superíndice negativo dos, 10 superíndice negativo uno, 10 superíndice cero, 10 superíndice uno, 10 superíndice dos, 10 superíndice tres, 10 superíndice cuatro, 10 superíndice cinco, 10 superíndice seis, 10 superíndice siete y 10 superíndice ocho. Sobre el gráfico, las líneas horizontales indican el rango de longitudes de onda para U V, V I S, cerca de I R, a mitad de I R, lejos de I R y E H F. El gráfico contiene una línea que comienza en 10 nanómetros y un poco más de 10 superíndice seis. De izquierda a derecha, esta línea asciende gradualmente hasta alcanzar un punto cercano a los 100 nanómetros y 10 superíndice ocho. A partir de este punto, la línea desciende de forma pronunciada hasta un punto situado poco más de la mitad de la distancia entre 100 nanómetros y 1 micrómetro, y algo más de 10 superíndice dos. Este punto indica el final del rango marcado como &quot;U V&quot; y el comienzo del rango marcado como &quot;V I S&quot;. El rango marcado como &quot;V I S&quot; está sombreada con toda la gama de colores de Roy G Biv. Aquí, la línea desciende brevemente en la misma trayectoria que antes, y luego asciende abruptamente hasta un punto cercano a 1 micrómetro y 10 superíndice cero. Este punto indica el final del rango marcado como &quot;V I S&quot; y el comienzo del rango marcado como &quot;cerca de I R&quot;. La línea continúa su ascenso pronunciado, con breves y bruscos descensos intermedios, hasta alcanzar un punto a poco más de la mitad de la distancia entre 1 micrómetro y 10 micrómetros, y un poco más de 10 superíndices seis. Este punto indica el final del rango marcado como &quot;cerca de I R&quot; y el comienzo del rango marcado como &quot;a mitad de I R&quot;. En este caso, la línea se desplaza de forma abrupta y esporádica hacia arriba y hacia abajo hasta alcanzar un punto situado a poco más de la mitad de la distancia entre 10 micrómetros y 100 micrómetros, y algo más de 10 superíndice cinco. Este punto indica el final del rango marcado como &quot;a mitad de I R&quot; y el comienzo del rango marcado como &quot;lejos de I R&quot;. La línea desciende muy gradualmente hasta un punto de algo más de 1 milímetro y algo más de 10 superíndice cuatro. Este punto indica el final del rango marcado como &quot;lejos de I R&quot; y el comienzo del rango marcado como &quot;E H F&quot;. La línea continúa su descenso gradual hasta los 10 milímetros y algo más de 10 superíndice tres. Este punto indica el final del rango marcado como &quot;E H F&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_00_EE_LiqWatAbso.jpg"/>
+</media>
+<caption>El gráfico muestra el grado de absorción de la luz en función de la longitud de onda para el agua. La absorción se indica en metros recíprocos y corresponde a la inversa de la distancia que recorre la luz a través del agua antes de que su intensidad disminuya en 1/<emphasis effect="italics">e</emphasis> (~37 %).</caption></figure>   </content>
+</document>

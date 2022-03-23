@@ -1,0 +1,787 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Hidrocarburos</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68846</md:content-id>
+  <md:title>Hidrocarburos</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list>
+<item>Explicar la importancia de los hidrocarburos y la razón de su diversidad.</item>
+<item>Nombrar los hidrocarburos saturados e insaturados, y las moléculas derivadas.</item>
+<item>Describir las reacciones características de los hidrocarburos saturados e insaturados.</item>
+<item>Identificar los isómeros estructurales y geométricos de los hidrocarburos.</item>
+</list></md:abstract>
+  <md:uuid>20492b99-bcb4-4820-90e5-68b69b3cdb49</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp41557488">La mayor base de datos<footnote id="fs-idp69619904">Se trata de la base de datos Beilstein, disponible ahora a través del sitio web Reaxys (www.elsevier.com/online-tools/reaxys).</footnote> de compuestos orgánicos enumera unos 10 millones de sustancias, que incluyen compuestos procedentes de organismos vivos y los sintetizados por los químicos. El número de compuestos orgánicos potenciales se calcula<footnote id="fs-idp41278192">Peplow, Mark. “Organic Synthesis: The Robo-Chemist” ("Síntesis orgánica: el robot químico"), <emphasis effect="italics">Nature</emphasis> 512 (2014): 20–2.</footnote> en 10<sup>60</sup>, una cifra estratosférica. La existencia de tantas moléculas orgánicas es consecuencia de la capacidad de los átomos de carbono de formar hasta cuatro enlaces fuertes con otros átomos de carbono, lo que da lugar a cadenas y anillos de muy diversos tamaños, formas y complejidades.</para>
+<para id="fs-idp68083216">Los <term>compuestos orgánicos</term> más simples contienen únicamente los elementos carbono e hidrógeno, y se denominan hidrocarburos. Aunque están compuestos únicamente por dos tipos de átomos, existe una gran variedad de hidrocarburos porque pueden consistir en cadenas de distinta longitud, cadenas ramificadas y anillos de átomos de carbono o combinaciones de estas estructuras. Además, los hidrocarburos pueden diferir en los tipos de enlaces carbono-carbono que están presentes en sus moléculas. Muchos hidrocarburos se encuentran en las plantas, los animales y sus fósiles; otros se han preparado en el laboratorio. Todos los días utilizamos hidrocarburos, principalmente como combustible, tales como el gas natural, el acetileno, el propano, el butano y los principales componentes de la gasolina, el gasóleo y el gasóleo de calefacción. Los conocidos plásticos polietileno, polipropileno y poliestireno también son hidrocarburos. Podemos distinguir varios tipos de hidrocarburos por las diferencias en el enlace entre los átomos de carbono. Esto da lugar a diferencias en las geometrías y en la hibridación de los orbitales del carbono.</para>
+<section id="fs-idp53924736">
+<title>Alcanos</title>
+<para id="fs-idp68413472">Los <term>alcanos</term>, o <term>hidrocarburos saturados</term>, contienen solamente enlaces covalentes simples entre los átomos de carbono. Cada uno de los átomos de carbono de un alcano tiene orbitales híbridos <emphasis effect="italics">sp</emphasis><sup>3</sup> y está enlazado a otros cuatro átomos, cada uno de los cuales es carbono o hidrógeno. Las estructuras de Lewis y los modelos de metano, etano y pentano se ilustran en la <link target-id="CNX_Chem_20_01_alkanes"/>. Las cadenas de carbono suelen dibujarse como líneas rectas en las estructuras de Lewis, pero hay que recordar que estas no pretenden indicar la geometría de las moléculas. Observe que los átomos de carbono en los modelos estructurales (los modelos de barras y esferas, y de espacio lleno) de la molécula de pentano no se encuentran en línea recta. Debido a la hibridación <emphasis effect="italics">sp</emphasis><sup>3</sup>, los ángulos de enlace en las cadenas de carbono son cercanos a 109,5°, lo que da a dichas cadenas en un alcano una forma de zigzag.</para>
+<para id="fs-idp72306672">Las estructuras de los alcanos y otras moléculas orgánicas también pueden representarse de forma menos detallada mediante fórmulas estructurales condensadas (o simplemente, <emphasis effect="italics">fórmulas condensadas</emphasis>). En lugar del formato habitual de las fórmulas químicas, en el que cada símbolo de elemento aparece una sola vez, se escribe una fórmula condensada para sugerir el enlace en la molécula. Estas fórmulas tienen la apariencia de una estructura de Lewis de la que se han eliminado la mayoría o todos los símbolos de enlace. Las fórmulas estructurales condensadas del etano y el pentano se muestran en la parte inferior de la <link target-id="CNX_Chem_20_01_alkanes"/>, y en los ejercicios que se encuentran al final de este capítulo se ofrecen varios otros ejemplos.</para>
+<figure id="CNX_Chem_20_01_alkanes">
+<media id="fs-idp49734128" alt="La figura ilustra cuatro formas de representar las moléculas de metano, etano y pentano. En la primera fila de la figura, las fórmulas estructurales de Lewis muestran los símbolos de los elementos y los enlaces entre los átomos. El metano tiene un átomo central de C con cuatro átomos de H enlazados a él. El etano tiene un átomo de C con tres átomos de H enlazados a él. El átomo de C también está enlazado a otro átomo de C con tres átomos de H enlazados a él. El pentano tiene un átomo de C con tres átomos de H enlazados a él. El átomo de C está enlazado a otro átomo de C con dos átomos de H enlazados a él. El átomo de C está enlazado a otro átomo de C con dos átomos de H enlazados a él. El átomo de C está enlazado a otro átomo de C con dos átomos de H enlazados a él. El átomo de C está enlazado a otro átomo de C con tres átomos de H enlazados a él. En la segunda fila, se muestran los modelos de barras y esferas. En estas representaciones, los enlaces se representan con barras y los elementos con esferas. Los átomos de carbono son negros y los de hidrógeno son blancos en esta imagen. En la tercera fila, se muestran los modelos de espacio lleno. En estos modelos, los átomos se agrandan y se juntan, sin barras que representen enlaces. Los nombres de las moléculas y las fórmulas estructurales aparecen en la cuarta fila. El metano se denomina y se representa con una fórmula estructural condensada como C H subíndice 4. El etano se nombra y representa con dos fórmulas estructurales C H subíndice 3 C H subíndice 3 y C subíndice 2 H subíndice 6. El pentano se nombra y representa como C H subíndice 3 C H subíndice 2 C H subíndice 2 C H subíndice 2 C H subíndice 3, así como C subíndice 5 H subíndice 12.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_alkanes.jpg"/>
+</media>
+<caption>En la imagen se muestran las estructuras de Lewis, los modelos de barras y esferas, y los modelos de espacio lleno para las moléculas de metano, etano y pentano.</caption>
+</figure>
+<para id="fs-idp81678112">Un método que utilizan comúnmente los químicos orgánicos para simplificar los dibujos de moléculas más grandes es la <term>estructura esquelética</term> (también llamada estructura de ángulo de línea). En este tipo de estructura, los átomos de carbono no se simbolizan con una C, sino que se representan con cada extremo de una línea o curva en una línea. Los átomos de hidrógeno no se dibujan si están unidos a un carbono. Otros átomos, además del carbono y el hidrógeno, se representan con sus símbolos elementales. La <link target-id="CNX_Chem_20_01_LineStruct1"/> muestra tres formas diferentes de dibujar la misma estructura.</para>
+<figure id="CNX_Chem_20_01_LineStruct1">
+<media id="fs-idp49277072" alt="En esta figura se observa una molécula de hidrocarburo de tres formas. En primer lugar, una fórmula ampliada exhibe todos y cada uno de los átomos de carbono, los átomos de hidrógeno y los enlaces en una molécula ramificada de hidrocarburo. Un átomo de C inicial está enlazado a tres átomos de H. El átomo de C está enlazado a otro átomo de C en la cadena. Este segundo átomo de C está enlazado a un átomo de H y a otro átomo de C por encima de la cadena. El átomo de C enlazado por encima del segundo átomo de C de la cadena está enlazado a tres átomos de H. El segundo átomo de C de la cadena está enlazado a un tercer átomo de C de la cadena. Este tercer átomo de C está enlazado a un átomo de H y a otro átomo de C por debajo de la cadena. Este átomo de C está enlazado a dos átomos de H y a otro átomo de C por debajo de la cadena. Este segundo átomo de C por debajo de la cadena está enlazado a tres átomos de H. El tercer átomo de C de la cadena está enlazado a un cuarto átomo de C de la cadena. El cuarto átomo de C está enlazado a dos átomos de H y a un quinto átomo de C. El quinto átomo de C está enlazado a dos átomos de H y a un sexto átomo de C. El sexto átomo de C está enlazado a tres átomos de H. En segundo lugar, una fórmula condensada muestra cada átomo de carbono de la molécula en grupos con los átomos de hidrógeno enlazados a este, lo que da lugar a grupos C H, C H subíndice 2 y C H subíndice 3 con enlaces entre estos. La estructura muestra un grupo C H subíndice 3 enlazado a un grupo C H. El grupo C H está enlazado por encima a un grupo C H subíndice 3. El grupo C H también está enlazado a otro grupo C H. Este grupo C H está enlazado a un grupo C H subíndice 2 por debajo y a un grupo C H subíndice 3 por debajo. Este grupo C H también está enlazado a un grupo C H subíndice 2 que está enlazado a otro grupo C H subíndice 2. Este grupo C H subíndice 2 está enlazado a un grupo C H subíndice 2 final. La estructura final de la figura es una estructura esquelética que incluye solamente los segmentos de línea dispuestos para indicar la estructura de la molécula.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_LineStruct1.jpg"/>
+</media>
+<caption>La misma estructura puede representarse de tres maneras distintas: una fórmula expandida, una fórmula condensada y una estructura esquelética.</caption>
+</figure>
+
+<example id="fs-idp10059824">
+<para id="fs-idp72546688"><title>Dibujar estructuras esqueléticas</title>
+Dibuje las estructuras esqueléticas de estas dos moléculas:</para>
+<media id="fs-idp63318480" class="scaled-down" alt="La figura a muestra una molécula ramificada con C H subíndice 3 enlazado a C, con grupos C H subíndice 3 enlazados tanto por encima como por debajo. A la derecha del C central, está enlazado un C H que tiene un grupo C H subíndice 3 enlazado por encima y a la derecha y por debajo y a la derecha. La figura b muestra una molécula de cadena recta compuesta por C H subíndice 3 C H subíndice 2 C H subíndice 2 C H subíndice 2 C H subíndice 2 C H subíndice 2 C H subíndice 3.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_LineStruct2_img.jpg"/>
+</media>
+<para id="fs-idp2239744"><title>Solución</title>
+Cada átomo de carbono se convierte en el final de una línea o en el lugar donde se cruzan las líneas. Todos los átomos de hidrógeno unidos a los átomos de carbono quedan fuera de la estructura (aunque todavía tenemos que reconocer que están ahí):</para>
+<media id="fs-idp68332416" class="scaled-down" alt="La figura a muestra una estructura ramificada de esqueleto que parece un signo más con segmentos de línea que se extienden hacia arriba y a la derecha y hacia abajo y a la izquierda del punto más a la derecha del signo más. La figura b aparece en un patrón en zigzag, hecho con seis segmentos de línea. Los segmentos suben, bajan, suben, bajan, suben y bajan, y se desplazan de izquierda a derecha a través de la figura.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_LineStruct3_img.jpg"/>
+</media>
+<para id="fs-idp56819120"><title>Compruebe lo aprendido</title>
+Dibuje las estructuras esqueléticas de estas dos moléculas:</para>
+<media id="fs-idp52862288" class="scaled-down" alt="La figura a muestra cinco grupos C H subíndice 2 y un grupo C H enlazado en un anillo hexagonal. Por encima y a la derecha del anillo aparece un grupo C H subíndice 3, enlazado al anillo en el grupo C H que aparece en la parte superior derecha del anillo. En b, se muestra una molécula de cadena recta compuesta por C H subíndice 3 C H subíndice 2 C H subíndice 2 C H subíndice 2 C H subíndice 3.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_LineStruct4_img.jpg"/>
+</media>
+<note id="fs-idp70789264"><title>Respuesta:</title>
+<newline/>
+<media id="fs-idp37158144" class="scaled-down" alt="En a, se muestra un hexágono con un vértice en la parte superior. El vértice justo a la derecha tiene un segmento de línea unido que se extiende hacia arriba y hacia la derecha. En b, se muestra un patrón en zigzag en el que los segmentos de línea suben, bajan, suben, bajan y suben, y se desplazan de izquierda a derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_LineStruct5_img.jpg"/>
+</media>
+</note>
+</example>
+
+<example id="fs-idp73321504">
+<para id="fs-idp71314432"><title>Interpretación de las estructuras esqueléticas</title>
+Identifique la fórmula química de la molécula aquí representada:</para>
+<media id="fs-idp73780224" class="scaled-down" alt="Esta figura muestra un pentágono con un vértice que apunta a la derecha, desde el cual se extiende un segmento de línea que tiene dos segmentos de línea unidos en su extremo derecho: uno que se extiende hacia arriba y hacia la derecha, y el otro que se extiende hacia abajo y hacia la derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_LineStruct6_img.jpg"/>
+</media>
+<para id="fs-idp45678976"><title>Solución</title>
+Hay ocho lugares donde las líneas se cruzan o terminan, lo que significa que hay ocho átomos de carbono en la molécula. Ya que sabemos que los átomos de carbono tienden a hacer cuatro enlaces, cada átomo de carbono tendrá el número de átomos de hidrógeno que se requiere para cuatro enlaces. Este compuesto contiene 16 átomos de hidrógeno para una fórmula molecular de C<sub>8</sub>H<sub>16</sub>.</para>
+<para id="fs-idp82722672">Ubicación de los átomos de hidrógeno:</para>
+<media id="fs-idp77092912" class="scaled-down" alt="En esta figura se muestra un anillo compuesto por cuatro grupos C H subíndice 2 y un grupo C H de forma pentagonal. Desde el grupo C H, que está en el lado derecho del pentágono, se enlaza un C H. A partir de este C H, un grupo C H subíndice 3 se enlaza por encima y a la derecha y un segundo se enlaza por debajo y a la derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_LineStruct7_img.jpg"/>
+</media>
+<para id="fs-idp51233392"><title>Compruebe lo aprendido</title>
+Identifique la fórmula química de la molécula aquí representada:</para>
+<media id="fs-idp69279616" class="scaled-down" alt="Se muestra un modelo de estructura esquelética con un patrón en zigzag que sube, baja, sube y vuelve a bajar de izquierda a derecha por el centro de la molécula. Desde los dos puntos elevados, los segmentos de línea se extienden tanto hacia arriba como hacia abajo, para crear cuatro ramas.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_LineStruct8_img.jpg"/>
+</media>
+<note id="fs-idp65065984"><title>Respuesta:</title>
+<para id="fs-idp72233168">C<sub>9</sub>H<sub>20</sub></para>
+</note>
+</example>
+<para id="fs-idp72488416">Todos los alcanos están compuestos por átomos de carbono e hidrógeno, y tienen enlaces, estructuras y fórmulas similares; los alcanos no cíclicos tienen todos una fórmula de C<sub>n</sub>H<sub>2n+2</sub>. El número de átomos de carbono presentes en un alcano no tiene límite. Un mayor número de átomos en las moléculas dará lugar a atracciones intermoleculares más fuertes (fuerzas de dispersión) y a las correspondientes propiedades físicas distintas de las moléculas. Propiedades como el punto de fusión y el punto de ebullición (<link target-id="fs-idp53743808"/>) cambian de manera fluida y predecible al cambiar el número de átomos de carbono e hidrógeno en las moléculas.</para>
+<table id="fs-idp53743808" class="top-titled" summary="Esta tabla muestra las fórmulas moleculares, los puntos de fusión en grados Celsius, los puntos de ebullición en grados Celsius, las fases en S T P (temperatura y presión estándar) y los números de isómeros estructurales de doce alcanos. El metano, C H subíndice 4 tiene un punto de fusión de -182,5, un punto de ebullición de -161,5, es un gas a S T P, y tiene 1 isómero estructural. El etano, C subíndice 2 H subíndice 6, tiene un punto de fusión de -183,3, un punto de ebullición de -88,6, es un gas a S T P, y tiene 1 isómero estructural. El propano, C subíndice 3 H subíndice 8, tiene un punto de fusión de -187,7, un punto de ebullición de -42,1, es un gas a S T P, y tiene 1 isómero estructural. El butano, C subíndice 4 H subíndice 10, tiene un punto de fusión de -138,3, un punto de ebullición de -0,5, es un gas a S T P, y tiene 2 isómeros estructurales. El pentano, C subíndice 5 H subíndice 12, tiene un punto de fusión de -129,7, un punto de ebullición de 36,1, es un líquido a S T P, y tiene 3 isómeros estructurales. El hexano, C subíndice 6 H subíndice 14, tiene un punto de fusión de -95,3, un punto de ebullición de 68,7, es un líquido a S T P, y tiene 5 isómeros estructurales. El heptano, C subíndice 7 H subíndice 16, tiene un punto de fusión de -90,6, un punto de ebullición de 98,4, es un líquido a S T P, y tiene 9 isómeros estructurales. El octano, C subíndice 8 H subíndice 18, tiene un punto de fusión de -56,8, un punto de ebullición de 125,7, es un líquido a S T P, y tiene 18 isómeros estructurales. El nonano, C subíndice 9 H subíndice 20, tiene un punto de fusión de -53,6, un punto de ebullición de 150,8, es un líquido a S T P, y tiene 35 isómeros estructurales. El decano, C subíndice 10 H subíndice 22, tiene un punto de fusión de -29,7, un punto de ebullición de 174,0, es un líquido a S T P, y tiene 75 isómeros estructurales. El tetradecano, C subíndice 14 H subíndice 30, tiene un punto de fusión de 5,9, un punto de ebullición de 253,5, es un sólido a S T P, y tiene 1858 isómeros estructurales. El octadectano, C subíndice 18 H subíndice 38, tiene un punto de fusión de 28,2, un punto de ebullición de 316,1, es un sólido a S T P, y tiene 60.523 isómeros estructurales.">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<thead>
+<row valign="top">
+<entry namest="c1" nameend="c6">Propiedades de algunos alcanos<footnote id="fs-idp41358128">Las propiedades físicas del C<sub>4</sub>H<sub>10</sub> y de las moléculas más pesadas son las del <emphasis effect="italics">isómero normal</emphasis>, <emphasis effect="italics">n</emphasis>-butano, <emphasis effect="italics">n</emphasis>-pentano, etc.</footnote></entry>
+</row>
+<row valign="top">
+<entry align="left">Alcano</entry>
+<entry align="left">Fórmula molecular</entry>
+<entry align="left">Punto de fusión (°C)</entry>
+<entry align="left">Punto de ebullición (°C)</entry>
+<entry align="left">Fase en STP<footnote id="fs-idp74205008">STP indica una temperatura de 0 °C y una presión de 1 atm.</footnote></entry>
+<entry align="left">Número de isómeros estructurales</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">metano</entry>
+<entry align="left">CH<sub>4</sub></entry>
+<entry align="left">-182,5</entry>
+<entry align="left">-161,5</entry>
+<entry align="left">gas</entry>
+<entry align="left">1</entry>
+</row>
+<row valign="top">
+<entry align="left">etano</entry>
+<entry align="left">C<sub>2</sub>H<sub>6</sub></entry>
+<entry align="left">-183,3</entry>
+<entry align="left">-88,6</entry>
+<entry align="left">gas</entry>
+<entry align="left">1</entry>
+</row>
+<row valign="top">
+<entry align="left">propano</entry>
+<entry align="left">C<sub>3</sub>H<sub>8</sub></entry>
+<entry align="left">-187,7</entry>
+<entry align="left">-42,1</entry>
+<entry align="left">gas</entry>
+<entry align="left">1</entry>
+</row>
+<row valign="top">
+<entry align="left">butano</entry>
+<entry align="left">C<sub>4</sub>H<sub>10</sub></entry>
+<entry align="left">-138,3</entry>
+<entry align="left">-0,5</entry>
+<entry align="left">gas</entry>
+<entry align="left">2</entry>
+</row>
+<row valign="top">
+<entry align="left">pentano</entry>
+<entry align="left">C<sub>5</sub>H<sub>12</sub></entry>
+<entry align="left">-129,7</entry>
+<entry align="left">36,1</entry>
+<entry align="left">líquido</entry>
+<entry align="left">3</entry>
+</row>
+<row valign="top">
+<entry align="left">hexano</entry>
+<entry align="left">C<sub>6</sub>H<sub>14</sub></entry>
+<entry align="left">-95,3</entry>
+<entry align="left">68,7</entry>
+<entry align="left">líquido</entry>
+<entry align="left">5</entry>
+</row>
+<row valign="top">
+<entry align="left">heptano</entry>
+<entry align="left">C<sub>7</sub>H<sub>16</sub></entry>
+<entry align="left">-90,6</entry>
+<entry align="left">98,4</entry>
+<entry align="left">líquido</entry>
+<entry align="left">9</entry>
+</row>
+<row valign="top">
+<entry align="left">octano</entry>
+<entry align="left">C<sub>8</sub>H<sub>18</sub></entry>
+<entry align="left">-56,8</entry>
+<entry align="left">125,7</entry>
+<entry align="left">líquido</entry>
+<entry align="left">18</entry>
+</row>
+<row valign="top">
+<entry align="left">nonano</entry>
+<entry align="left">C<sub>9</sub>H<sub>20</sub></entry>
+<entry align="left">-53,6</entry>
+<entry align="left">150,8</entry>
+<entry align="left">líquido</entry>
+<entry align="left">35</entry>
+</row>
+<row valign="top">
+<entry align="left">decano</entry>
+<entry align="left">C<sub>10</sub>H<sub>22</sub></entry>
+<entry align="left">-29,7</entry>
+<entry align="left">174,0</entry>
+<entry align="left">líquido</entry>
+<entry align="left">75</entry>
+</row>
+<row valign="top">
+<entry align="left">tetradecano</entry>
+<entry align="left">C<sub>14</sub>H<sub>30</sub></entry>
+<entry align="left">5,9</entry>
+<entry align="left">253,5</entry>
+<entry align="left">sólido</entry>
+<entry align="left">1.858</entry>
+</row>
+<row valign="top">
+<entry align="left">octadecano</entry>
+<entry align="left">C<sub>18</sub>H<sub>38</sub></entry>
+<entry align="left">28,2</entry>
+<entry align="left">316,1</entry>
+<entry align="left">sólido</entry>
+<entry align="left">60.523</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idp14410464">Los hidrocarburos con la misma fórmula, incluso los alcanos, pueden tener estructuras diferentes. Por ejemplo, dos alcanos tienen la fórmula C<sub>4</sub>H<sub>10</sub>: Se llaman <emphasis effect="italics">n</emphasis>-butano y 2-metilpropano (o isobutano), y tienen las siguientes estructuras de Lewis:</para>
+<media id="fs-idp63810432" class="scaled-down" alt="La figura ilustra tres formas de representar moléculas de n-butano y 2-metilpropano. En la primera fila de la figura, las fórmulas estructurales de Lewis muestran los símbolos de los elementos y los enlaces entre los átomos. La molécula de n-butano muestra 4 átomos de carbono representados por la letra C, enlazados en una cadena recta horizontal con átomos de hidrógeno representados por la letra H, enlazados por encima y por debajo de todos los átomos de carbono. Los átomos de H se enlazan en los extremos a la izquierda y a la derecha de los átomos de C más a la izquierda y más a la derecha. En la segunda fila, se muestran los modelos de barras y esferas. En estas representaciones, los enlaces se representan con barras y los elementos con esferas. Los átomos de carbono son negros y los de hidrógeno son blancos en esta imagen. En la tercera fila, se muestran los modelos de espacio lleno. En estos modelos, los átomos se agrandan y se juntan, sin barras que representen enlaces. Los nombres de las moléculas aparecen en la cuarta fila.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_butaneIsom_img.jpg"/>
+</media>
+<para id="fs-idp73202432">Los compuestos <emphasis effect="italics">n</emphasis>-butano y 2-metilpropano son isómeros estructurales (también se utiliza el término isómeros constitucionales). Los isómeros constitucionales tienen la misma fórmula molecular, pero distintas disposiciones espaciales de los átomos en sus moléculas. La molécula <emphasis effect="italics">n</emphasis>-butano contiene una <emphasis effect="italics">cadena no ramificada</emphasis>, lo que significa que ningún átomo de carbono está unido a más de otros dos átomos de carbono. Utilizamos el término <emphasis effect="italics">normal</emphasis> o el prefijo <emphasis effect="italics">n</emphasis>, para referirnos a una cadena de átomos de carbono sin ramificaciones. El compuesto 2-metilpropano tiene una cadena ramificada (el átomo de carbono en el centro de la estructura de Lewis está unido a otros tres átomos de carbono).</para>
+<para id="fs-idp46763840">Identificar los isómeros a partir de las estructuras de Lewis no es tan fácil como parece. Las estructuras de Lewis que lucen diferentes pueden representar en realidad los mismos isómeros. Por ejemplo, las tres estructuras en la <link target-id="CNX_Chem_20_01_butane_img"/> representan la misma molécula, <emphasis effect="italics">n</emphasis>-butano, y por ende, no son isómeros diferentes. Son idénticos porque cada uno contiene una cadena no ramificada de cuatro átomos de carbono.</para>
+<figure id="CNX_Chem_20_01_butane_img" class="scaled-down">
+<media id="fs-idp66819072" alt="La figura ilustra tres formas de representar moléculas de n-butano. En la primera fila de la figura, las fórmulas estructurales de Lewis muestran los símbolos de los elementos carbono e hidrógeno y los enlaces entre los átomos. La primera estructura de esta fila muestra tres de los átomos de C enlazados en una fila horizontal con un único átomo de C enlazado por encima del carbono más a la izquierda. El átomo de C más a la izquierda tiene dos átomos de H enlazados a este. El átomo de C, enlazado por encima del átomo de C más a la izquierda tiene tres átomos de H enlazados a este. El átomo de C, enlazado a la derecha del átomo de C más a la izquierda tiene dos átomos de H enlazados a este. El átomo de C más a la derecha tiene tres átomos de H enlazados a este. Los átomos de C y los enlaces que conectan todos los átomos de C son de color rojo. La segunda estructura de la fila muestra de forma similar la fila de tres átomos de C enlazados con un único átomo de C e por debajo del átomo de C de la izquierda. El átomo de C más a la izquierda tiene dos átomos de H unidos a este. El átomo de C, unido debajo del átomo de C más a la izquierda tiene tres átomos de H unidos a este. El átomo de C, unido a la derecha del átomo de C más a la izquierda tiene dos átomos de H unidos a este. El átomo más a la derecha tiene tres átomos de H unidos a este. Todos los átomos de C y los enlaces entre estos son rojos. La tercera estructura tiene dos átomos de C unidos en una fila con un tercer átomo de C unido por encima del átomo de C izquierdo y el cuarto átomo de C unido por debajo del átomo de C derecho. El átomo de C enlazado por encima del átomo de C de la izquierda tiene tres átomos de H enlazados a este. El átomo de C de la izquierda tiene dos átomos de H enlazados a este. El átomo de C de la derecha tiene dos átomos de H enlazados a este. El átomo de C enlazado debajo del átomo de C de la derecha tiene tres átomos de H enlazados a este. Todos los átomos de C y los enlaces entre estos son rojos. En la segunda fila, se muestran los modelos de barras y esferas para las estructuras. En estas representaciones, los enlaces se representan con barras y los elementos con esferas. Los átomos de carbono son negros y los de hidrógeno son blancos en esta imagen. En la tercera fila, se muestran los modelos de espacio lleno. En estos modelos, los átomos se agrandan y se juntan, sin barras que representen enlaces.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_butane_img.jpg"/>
+</media>
+<caption>Estas tres representaciones de la estructura del n-butano no son isómeros porque todas contienen la misma disposición de átomos y enlaces.</caption>
+</figure>
+</section>
+<section id="fs-idp52681872">
+<title>Los fundamentos de la nomenclatura orgánica: Designación de los alcanos</title>
+<para id="fs-idp41465856">La Unión Internacional de Química Pura y Aplicada (International Union of Pure and Applied Chemistry, <term class="no-emphasis">IUPAC</term>) ha ideado un sistema de nomenclatura que comienza con los nombres de los alcanos y puede ajustarse a partir de ahí para tener en cuenta estructuras más complicadas. La nomenclatura de los alcanos se basa en dos reglas:</para>
+<list id="fs-idp9620576" list-type="enumerated" number-style="arabic">
+<item>Para designar un alcano, primero hay que identificar la cadena más larga de átomos de carbono en su estructura. La cadena de dos carbonos se denomina etano; la de tres, propano, y la de cuatro, butano. Las cadenas más largas se denominan así: pentano (cadena de cinco carbonos), hexano (6), heptano (7), octano (8), nonano (9) y decano (10). Estos prefijos se observan en los nombres de los alcanos que se describen en la <link target-id="fs-idp53743808"/>.</item>
+<item>Añada prefijos al nombre de la cadena más larga para indicar las posiciones y los nombres de los <term>sustituyentes</term>. Los sustituyentes son ramas o grupos funcionales que sustituyen a los átomos de hidrógeno de una cadena. La posición de un sustituyente o rama se identifica por el número del átomo de carbono al que está unido en la cadena. Numeramos los átomos de carbono de la cadena contando desde el extremo de la cadena más cercano a los sustituyentes. Los sustituyentes múltiples se nombran individualmente y se colocan en orden alfabético al principio del nombre.</item>
+</list>
+<media id="fs-idp15177792" alt="Esta figura muestra las fórmulas estructurales del propano, el 2-cloropropano, el 2-metilpropano, el 2,4-difluorohexano y el 1-bromo-3-clorohexano. En cada una de las estructuras, los átomos de carbono están en una fila con átomos de halógeno enlazados y un grupo metilo enlazado debajo de las figuras. El propano aparece simplemente como C H subíndice 3 C H subíndice 2 C H subíndice 3, con los números 1, 2 y 3 que aparecen sobre los átomos de carbono de izquierda a derecha. El 2-cloropropano muestra de forma similar C H subíndice 3 C H C H subíndice 3, con los números 1, 2 y 3 que aparecen sobre los átomos de carbono de izquierda a derecha. Un átomo de C l está enlazado por debajo del carbono 2. El átomo de C l es rojo. El 2-metilpropano muestra de forma similar el C H subíndice 3, con los números 3, 2 y 1 que aparecen sobre los átomos de carbono de izquierda a derecha. Un grupo C H subíndice 3 está enlazado debajo del carbono 2 y es de color rojo. El 2,4-difluorohexano muestra de forma similar C H subíndice 3 C H subíndice 2 C H subíndice 2 C H C H subíndice 3, con los números 6, 5, 4, 3, 2 y 1 que aparecen sobre los átomos de carbono de izquierda a derecha. Los átomos de F están enlazados a los carbonos 4 y 2 en la parte inferior de la estructura y son de color rojo. El 1-bromo-3-clorohexano muestra de forma similar C H subíndice 2 C H subíndice 2 C H subíndice 2 C H subíndice 3, con los números 1, 2, 3, 4, 5 y 6 que aparecen sobre los átomos de carbono de izquierda a derecha. B r está enlazado por debajo del carbono 1 y C l está enlazado por debajo del carbono 3. Tanto B r como C l son rojos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_substitu_img.jpg"/>
+</media>
+<para id="fs-idp51843168">Cuando hay más de un sustituyente, ya sea en el mismo átomo de carbono o en diferentes átomos de carbono, los sustituyentes se enumeran por orden alfabético. Dado que la numeración de los átomos de carbono comienza en el extremo más cercano a un sustituyente, la cadena más larga de átomos de carbono se numera de forma que se obtenga el número más bajo para los sustituyentes. La terminación <emphasis effect="italics">-o</emphasis> sustituye a <emphasis effect="italics">-uro</emphasis> al final del nombre de un sustituyente electronegativo (en los compuestos iónicos, el ion con carga negativa termina con <emphasis effect="italics">-uro</emphasis> como el cloruro; en los compuestos orgánicos, estos átomos se tratan como sustituyentes y se utiliza la terminación <emphasis effect="italics">-o</emphasis> ). El número de sustituyentes del mismo tipo se indica con los prefijos <emphasis effect="italics">di-</emphasis> (dos), <emphasis effect="italics">tri-</emphasis> (tres), <emphasis effect="italics">tetra-</emphasis> (cuatro), etc. (por ejemplo, <emphasis effect="italics">difluoro-</emphasis> indica dos sustituyentes del fluoruro).</para>
+<example id="fs-idp50667744">
+<para id="fs-idp11267072"><title>Designación de alcanos sustituidos por halógenos</title>
+Designe la molécula cuya estructura se muestra aquí:</para>
+<media id="fs-idp19146880" class="scaled-down" alt="Esta estructura muestra un átomo de C enlazado a los átomos de H y a otro átomo de C. Este segundo átomo de C está enlazado a dos átomos de H y a otro átomo de C. Este tercer átomo de C está enlazado a un átomo de B r y a otro átomo de C. Este cuarto átomo de C está enlazado a dos átomos de H y a un átomo de C l.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_HalAlkane_img.jpg"/>
+</media>
+<para id="fs-idp71560896"><title>Solución</title></para>
+<media id="fs-idp3065072" class="scaled-down" alt="Esta estructura muestra un átomo de C enlazado a los átomos de H y a otro átomo de C. Este segundo átomo de C está enlazado a dos átomos de H y a otro átomo de C. Este tercer átomo de C está enlazado a un átomo de H, a un átomo de B r y a otro átomo de C. Este cuarto átomo de C está enlazado a dos átomos de H y a un átomo de C l. Los átomos de C están numerados 4, 3, 2 y 1 de izquierda a derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_HalAlkane2_img.jpg"/>
+</media>
+<para id="fs-idp50344576">La cadena de cuatro carbonos está numerada desde el final con el átomo de cloro. Esto sitúa los sustituyentes en las posiciones 1 y 2 (la numeración desde el otro extremo situaría los sustituyentes en las posiciones 3 y 4). Cuatro átomos de carbono significa que el nombre base de este compuesto será butano. El bromo en la posición 2 se describirá al añadir 2-bromo-; este irá al principio del nombre, ya que el bromo- viene antes que el cloro- alfabéticamente. El cloro en la posición 1 se describirá al añadir 1-cloro-, con lo que el nombre de la molécula será 2-bromo-1-clorobutano.</para>
+<para id="fs-idp25676368"><title>Compruebe lo aprendido</title>
+Designe la siguiente molécula:</para>
+<media id="fs-idm66323184" class="scaled-down" alt="Esta figura muestra un átomo de C enlazado a tres átomos de H y a otro átomo de C. Este segundo átomo de C está enlazado a dos átomos de H y a un tercer átomo de C. El tercer átomo de C está enlazado a dos átomos de B r y a un cuarto átomo de C. Este átomo de C está enlazado a un átomo de H, a un átomo de I y a un quinto átomo de C. Este último átomo de C está enlazado a tres átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_HalAlkane3_img.jpg"/>
+</media>
+<note id="fs-idp13281248"><title>Respuesta:</title>
+<para id="fs-idp34528176">3,3-dibromo-2-yodopentano</para>
+</note>
+</example>
+<para id="fs-idp43562000">Llamamos grupo alquilo a un sustituyente que contiene un hidrógeno menos que el alcano correspondiente. El nombre del <term>grupo alquilo</term> se obtiene al suprimir el sufijo <emphasis effect="italics">-ano</emphasis> del nombre del alcano y añadir <emphasis effect="italics">-ilo</emphasis>:</para>
+<media id="fs-idp5811008" class="scaled-down" alt="En esta figura, el metano se nombra y se representa como C con cuatro átomos de H enlazados por encima, por debajo, a la izquierda y a la derecha del C. Se muestra el grupo metilo, que aparece como el metano sin el H más a la derecha. El guion se mantiene en el lugar donde estaba enlazado anteriormente el átomo de H. El etano se nombra y representa con dos átomos de C enlazados centralmente a los que se unen seis átomos de H; dos por encima y por debajo de cada uno de los dos átomos de C y a los extremos izquierdo y derecho de los átomos de C enlazados. El grupo etilo aparece como una estructura similar con el átomo de H más a la derecha eliminado. Se mantiene el guion en el lugar en el que estaba enlazado el átomo de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_alkyl_img.jpg"/>
+</media>
+<para id="fs-idp53101632">Los enlaces abiertos en los grupos metilo y etilo indican que estos grupos alquilo están enlazados a otro átomo.</para>
+<example id="fs-idp14108192">
+<para id="fs-idp50658752"><title>Designación de alcanos sustituidos</title>
+Designe la molécula cuya estructura se muestra aquí:</para>
+<media id="fs-idp69579584" class="scaled-down" alt="Se muestra una cadena de seis átomos de carbono, numerados 6, 5, 4, 3, 2 y 1. Enlazado sobre el carbono 3, se muestra una cadena de dos carbonos, numerados 1 y 2 que se mueven hacia arriba. Los átomos de H están presentes directamente por encima, por debajo, a la izquierda y a la derecha de todos los átomos de carbono en las posiciones que no están ya ocupadas en el enlace con otros átomos de carbono.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_octane1_img.jpg"/>
+</media>
+<para id="fs-idp58482112"><title>Solución</title>La cadena de carbono más larga corre horizontalmente a través de la página y contiene seis átomos de carbono (esto hace la base del nombre hexano, pero también tendremos que incorporar el nombre de la rama). En este caso, queremos numerar de derecha a izquierda (como muestran los números azules) para que la rama esté conectada al carbono 3 (imagine los números de izquierda a derecha: esto pondría la rama en el carbono 4, lo cual violaría nuestras reglas). La rama unida a la posición 3 de nuestra cadena contiene dos átomos de carbono (numerados en rojo), así que tomamos nuestro nombre para dos carbonos <emphasis effect="italics">et-</emphasis> y adjuntamos <emphasis effect="italics">-il</emphasis> al final para significar que estamos describiendo una rama. Uniendo todas las piezas, esta molécula es el 3-etilhexano.</para><para id="fs-idp30026640"><title>Compruebe lo aprendido</title>
+Designe la siguiente molécula:</para>
+<media id="fs-idp45701152" class="scaled-down" alt="Esta figura muestra un átomo de C enlazado a tres átomos de H y a otro átomo de C. Este átomo de C está enlazado a dos átomos de H y a un tercer átomo de C. El tercer átomo de C está enlazado a dos átomos de H y a un cuarto átomo de C. El cuarto átomo de C está enlazado a dos átomos de H y a un quinto átomo de C. Este átomo de C está enlazado a un átomo de H, a un sexto átomo de C en la cadena y a otro átomo de C que parece ramificarse en la cadena. El átomo de C de la rama está enlazado a dos átomos de H y a otro átomo de C. Este átomo de C está enlazado a dos átomos de H y a otro átomo de C. Este tercer átomo de C aparece a la izquierda del segundo y está enlazado a tres átomos de H. El sexto átomo de C de la cadena está enlazado a dos átomos de H y a un séptimo átomo de C. El séptimo átomo de C está enlazado a dos átomos de H y a un octavo átomo de C. El octavo átomo de C está enlazado a tres átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_octane2_img.jpg"/>
+</media>
+<note id="fs-idp5918672"><title>Respuesta:</title>
+<para id="fs-idp20723808">4-propiloctano</para>
+</note>
+</example>
+<para id="fs-idp69454848">Algunos hidrocarburos forman más de un tipo de grupo alquilo cuando los átomos de hidrógeno que se eliminarían tienen diferentes "ambientes" en la molécula. Esta diversidad de posibles grupos alquilos se identifica de la siguiente manera: Los cuatro átomos de hidrógeno de una molécula de metano son equivalentes; todos tienen el mismo ambiente. Son equivalentes porque cada uno está enlazado a un átomo de carbono (el mismo átomo de carbono), que está enlazado a tres átomos de hidrógeno. (Sería más fácil ver la equivalencia en los modelos de barras y esferas en la <link target-id="CNX_Chem_20_01_alkanes"/>. La eliminación de uno de los cuatro átomos de hidrógeno del metano forma un grupo metilo. Del mismo modo, los seis átomos de hidrógeno del etano son equivalentes (<link target-id="CNX_Chem_20_01_alkanes"/>) y la eliminación de cualquiera de estos átomos de hidrógeno produce un grupo etilo. Cada uno de los seis átomos de hidrógeno está enlazado a un átomo de carbono, que está enlazado a otros dos átomos de hidrógeno y a un átomo de carbono. Sin embargo, tanto en el propano como en el 2-metilpropano, hay átomos de hidrógeno en dos ambientes diferentes, que se distinguen por los átomos o grupos de átomos adyacentes:</para>
+<media id="fs-idp33535040" class="scaled-down" alt="En esta figura, el propano se muestra como una cadena de tres átomos de C enlazados. Se muestran ocho átomos de H con tres enlazados al primer átomo de C, dos al átomo de C del medio y tres al tercer átomo de C. Los átomos de H enlazados al átomo de C del medio son de color púrpura. También se muestra el 2-metilpropano, que igualmente tiene una cadena de tres átomos de C enlazados. En esta estructura, un átomo de C está enlazado por debajo del átomo de C central de la cadena. Se muestran diez átomos de H con tres enlazados al primer átomo de C, uno al átomo de C del medio, tres al tercer átomo de C y tres al átomo de C también enlazado al átomo de C del medio. El átomo de H enlazado al átomo de C del medio es verde.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_propane_img.jpg"/>
+</media>
+<para id="fs-idp49961376">Cada uno de los seis átomos de hidrógeno equivalentes del primer tipo en el propano y cada uno de los nueve átomos de hidrógeno equivalentes de ese tipo en el 2-metilpropano (todos mostrados en negro) están enlazados a un átomo de carbono que está enlazado a otro átomo de carbono. Los dos átomos de hidrógeno en púrpura del propano son de un segundo tipo. Se distinguen de los seis átomos de hidrógeno del primer tipo en que están enlazados a un átomo de carbono enlazado a otros dos átomos de carbono. El átomo de hidrógeno en verde del 2-metilpropano se distingue de los otros nueve átomos de hidrógeno de esa molécula y de los átomos de hidrógeno en púrpura del propano. El átomo de hidrógeno en verde del 2-metilpropano está enlazado a un átomo de carbono enlazado a otros tres átomos de carbono. A partir de cada una de estas moléculas se forman dos distintos grupos alquílicos, dependiendo del átomo de hidrógeno que se elimine. Los nombres y las estructuras de estos y otros grupos alquílicos se enumeran en la <link target-id="CNX_Chem_20_01_alkyls"/>.</para>
+<figure id="CNX_Chem_20_01_alkyls">
+<media id="fs-idp69955360" alt="Esta tabla proporciona un listado de grupos alquilos y sus correspondientes estructuras. El metilo se muestra como C H subíndice 3 seguido de un guion. El etilo se muestra como C H subíndice 3 C H subíndice 2 seguido de un guion. El n-propilo se muestra como C H subíndice 3 C H subíndice 2 C H subíndice 2 seguido de un guion. El isopropilo se muestra como C H subíndice 3 C H subíndice 3 con un guion que se extiende hacia arriba desde la C central. El n-butilo se muestra como C H subíndice 3 C H subíndice 2 C H subíndice 2 seguido de un guion. El sec-butilo se muestra como C H subíndice 3 C H subíndice 2 C H C H subíndice 3 con un guion que se extiende hacia arriba desde la tercera C contando de izquierda a derecha. El isobutilo se muestra como C H subíndice 3 C H C H subíndice 2 con un guion que se extiende a la derecha. Hay un C H subíndice 3 enlazado al C central. El terc-butilo se muestra como C H subíndice 3 C C H subíndice 3 con un grupo C H subíndice 3 enlazado debajo del C central y un guion que se extiende hacia arriba desde el C central.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_alkyls.jpg"/>
+</media>
+<caption>Este listado ofrece los nombres y las fórmulas de varios grupos alquilos formados por la eliminación de átomos de hidrógeno en diferentes lugares.</caption>
+</figure>
+<para id="fs-idp69552896">Observe que los grupos alquilos no existen como entidades estables independientes. Siempre forman parte de una molécula mayor. La ubicación de un grupo alquilo en una cadena de hidrocarburos se indica de la misma manera que cualquier otro sustituyente:</para>
+<media id="fs-idp13276960" alt="Esta figura muestra las estructuras del 3-etilheptano, del 2,2,4-trimetilpentano y del 4-isopropilheptano. La estructura del 3-etilheptano muestra C H subíndice 3 C H subíndice 2 C H subíndice 2 C H subíndice 2 C H C H subíndice 2 C H subíndice 3. Debajo del átomo de C, marcado como 3, hay un enlace a C H subíndice 2 C H subíndice 3 que aparece en rojo. Los átomos de C están marcados como 7, 6, 5, 4, 3, 2 y 1 de izquierda a derecha. La estructura del 2,2,4-trimetilpentano muestra el C H subíndice 3 C unido al C H subíndice 2 C H C H subíndice 3. Los átomos de C están marcados como 1, 2, 3, 4 y 5 de izquierda a derecha. El átomo de C, marcado como 2 tiene un subíndice 3 de C H enlazado por encima y por debajo. Los grupos C H subíndice 3 aparecen en rojo. El átomo de C marcado como 4 tiene un enlace por encima de él a C H subíndice 3. El grupo C H subíndice 3 aparece en rojo. La estructura del 4-isopropilheptano muestra C H subíndice 3 C H subíndice 2 C H subíndice 2 C H C H subíndice 2 C H subíndice 2 C H subíndice 3. A partir del cuarto C de izquierda a derecha, hay un grupo C H enlazado por encima. Los grupos C H subíndice 3 están enlazados hacia arriba y hacia la derecha y hacia la izquierda de este grupo C H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_alklnm_img.jpg"/>
+</media>
+<para id="fs-idp73077696">Los alcanos son moléculas relativamente estables, pero el calor o la luz activan reacciones que implican la ruptura de enlaces simples C-H o C-C. La combustión es una de estas reacciones:</para>
+<equation id="fs-idp37745984" class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mtext>g</m:mtext><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-idp10028464">Los alcanos arden en presencia de oxígeno, una reacción de oxidación-reducción altamente exotérmica que produce dióxido de carbono y agua. En consecuencia, los alcanos son excelentes combustibles. Por ejemplo, el metano, CH<sub>4</sub>, es el principal componente del gas natural. El butano, C<sub>4</sub>H<sub>10</sub>, utilizado en las estufas y encendedores de camping, es un alcano. La gasolina es una mezcla líquida de alcanos de cadena continua y ramificada, cada uno de los cuales contiene de cinco a nueve átomos de carbono, más diversos aditivos para mejorar su rendimiento como combustible. El queroseno, el gasóleo y el combustóleo son principalmente mezclas de alcanos con masas moleculares más altas. La principal fuente de estos combustibles alcalinos líquidos es el petróleo crudo, una mezcla compleja que se separa por destilación fraccionada. La destilación fraccionada aprovecha las diferencias en los puntos de ebullición de los componentes de la mezcla (vea la <link target-id="CNX_Chem_20_01_FracDistil"/>). Recordará que el punto de ebullición es una función de las interacciones intermoleculares, que se trató en el capítulo sobre soluciones y coloides.</para>
+<figure id="CNX_Chem_20_01_FracDistil">
+<media id="fs-idm28778688" alt="Esta figura contiene una foto de una refinería, que muestra grandes estructuras columnares. También se muestra un diagrama de una columna de destilación fraccionada. Cerca de la parte inferior de la columna, la flecha que apunta hacia el interior de la columna desde la izquierda muestra un punto de entrada de petróleo crudo calentado. La columna contiene varias capas en las que se eliminan diferentes componentes. En la parte inferior, los materiales residuales se eliminan a través de una tubería, como se indica con la flecha, fuera de la columna. En cada nivel sucesivo, se extraen diferentes materiales a través de tuberías que van de la parte inferior a la superior de la columna. En orden de abajo a arriba, estos materiales son el combustóleo, seguido del gasóleo, el queroseno, la nafta, la gasolina y el gas de refinería en la parte superior. A la derecha del diagrama de columnas, se muestra una flecha de dos lados que es azul en la parte superior y cambia gradualmente de color a rojo hacia abajo. La parte superior azul de la flecha está marcada como &quot;Moléculas pequeñas: punto de ebullición bajo, muy volátil, fluye fácilmente, se enciende fácilmente&quot;. La parte inferior roja de la flecha está marcada como &quot;Moléculas grandes: punto de ebullición alto, poco volátil, no fluye fácilmente, no se enciende fácilmente&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_FracDistil.jpg"/>
+</media>
+<caption>En una columna para la destilación fraccionada de petróleo crudo, el petróleo calentado a unos 425 °C en el horno se vaporiza al entrar en la base de la torre. Los vapores ascienden a través de tapones de burbujas en una serie de bandejas en la torre. A medida que los vapores se enfrían gradualmente, las fracciones de puntos de ebullición más altos, y luego más bajos, se condensan en líquidos y se extraen (créditos a la izquierda: modificación del trabajo de Luigi Chiesa).</caption>
+</figure>
+<para id="fs-idp66127008">En una <term>reacción de sustitución</term>, otra reacción típica de los alcanos, uno o varios de los átomos de hidrógeno del alcano se sustituyen por un átomo o grupo de átomos diferente. En estas reacciones no se rompen los enlaces carbono-carbono y la hibridación de los átomos de carbono no cambia. Por ejemplo, la reacción entre el etano y el cloro molecular representada aquí es una reacción de sustitución:</para>
+<media id="fs-idp67937424" class="scaled-down" alt="Este diagrama ilustra la reacción del etano y el C l subíndice 2 para formar cloroetano. En esta reacción, la fórmula estructural del etano se muestra con dos átomos de C enlazados entre sí y tres átomos de H enlazados a cada átomo de C. El átomo de H del extremo derecho es rojo. El etano se añade al C l enlazado al C l, seguido de una flecha que apunta a la derecha. La flecha está marcada como &quot;calor o luz&quot;. A la derecha, se muestra la molécula de cloroetano con dos átomos de C enlazados. El átomo de C de la izquierda tiene tres átomos de H enlazados a él, pero el átomo de C de la derecha tiene dos átomos de H enlazados por encima y por debajo de él junto con un átomo de C l. El átomo de Cl aparece en rojo con 3 pares de puntos de electrones en el extremo derecho de la molécula. A esto le sigue un signo más, que a su vez va seguido en rojo de H enlazado a C l. Hay tres pares de puntos de electrones por encima, a la derecha y por debajo del C l.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ethylChlor_img.jpg"/>
+</media>
+<para id="fs-idp5852528">La porción C-Cl de la molécula de cloroetano es un ejemplo de <term>grupo funcional</term>, la parte o fracción de una molécula que imparte una reactividad química específica. Los tipos de grupos funcionales presentes en una molécula orgánica son los principales determinantes de sus propiedades químicas y se utilizan como medio de clasificación de los compuestos orgánicos, tal y como se detalla en las restantes secciones de este capítulo.</para>
+<note id="fs-idp32763136" class="chemistry link-to-learning">
+<para id="fs-idp35377664">¿Quiere practicar más la designación de los alcanos? Vea este breve <link url="http://openstax.org/l/16alkanes">video tutorial</link> para repasar el proceso de nomenclatura.</para>
+</note>
+</section>
+<section id="fs-idp37086336">
+<title>Alquenos</title>
+<para id="fs-idp37633872">Los compuestos orgánicos que contienen uno o más enlaces dobles o triples entre los átomos de carbono se describen como insaturados. Es probable que haya oído hablar de las grasas insaturadas. Son moléculas orgánicas complejas con largas cadenas de átomos de carbono, que contienen al menos un doble enlace entre átomos de carbono. Las moléculas de hidrocarburos insaturados que contienen uno o más dobles enlaces se denominan <term>alquenos</term>. Los átomos de carbono con doble enlace están unidos por dos enlaces: σ y π. Los dobles y triples enlaces dan lugar a una geometría distinta alrededor del átomo de carbono que participa en ellos, lo que origina diferencias importantes en la forma y las propiedades moleculares. Las distintas geometrías son la causa de las diferentes propiedades de las grasas insaturadas frente a las saturadas.</para>
+<para id="fs-idp5664736">El eteno, C<sub>2</sub>H<sub>4</sub>, es el alqueno más simple. Cada átomo de carbono del eteno, denominado comúnmente etileno, tiene una estructura planar trigonal. El segundo integrante de la serie es el propeno (propileno) (<link target-id="CNX_Chem_20_01_Propene1"/>); los isómeros del buteno le siguen en la serie. Cuatro átomos de carbono en la cadena del buteno permiten la formación de isómeros basados en la posición del doble enlace, así como una nueva forma de isomerismo.</para>
+<figure id="CNX_Chem_20_01_Propene1">
+<media id="fs-idp28584192" alt="Las fórmulas estructurales de Lewis muestran los símbolos de los elementos de carbono e hidrógeno y los enlaces entre los átomos. La primera estructura de esta fila muestra dos átomos de C enlazados con un doble enlace entre ellos. Cada átomo de C tiene también dos átomos de H enlazados a este. La segunda estructura de la fila muestra tres átomos de C enlazados con un doble enlace arriba y a la derecha entre el primer y el segundo átomo de C que se mueve de izquierda a derecha a través de la cadena, y un enlace simple abajo y a la derecha entre el segundo y el tercer átomo de C. El primer átomo de C tiene dos átomos de H enlazados a este, el segundo átomo de C tiene un átomo de H enlazado a este, y el tercer átomo de C tiene tres átomos de H enlazados a este. La tercera estructura muestra cuatro átomos de C enlazados con uno hacia arriba y hacia la derecha a un átomo de C, hacia abajo y hacia la derecha a un átomo de C, y doblemente enlazado hacia arriba y hacia la derecha a un átomo de C. El primer átomo de C, de izquierda a derecha, tiene tres átomos de H enlazados a este. El segundo átomo de C tiene dos átomos de H enlazados a este. El tercer átomo de C tiene un átomo de H enlazado a este, y el cuarto átomo de C tiene dos átomos de H enlazados a este. En la segunda fila, se muestran los modelos de barras y esferas para las estructuras. En estas representaciones, los enlaces simples se representan con barras, los dobles con dos barras paralelas y los elementos con esferas. Los átomos de carbono son negros y los de hidrógeno son blancos en esta imagen. En la tercera fila, se muestran los modelos de espacio lleno. En estos modelos, los átomos se agrandan y se juntan, sin barras que representen enlaces. En la última fila, se proporcionan los nombres. La molécula con el doble enlace entre dos átomos de C se denomina eteno. La molécula con el doble enlace entre el primer y el segundo átomo de C en la cadena de tres recibe el nombre de propeno. La molécula con el doble enlace entre los átomos de carbono de la cadena de cuatro se denomina 1-buteno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_propene1.jpg"/>
+</media>
+<caption>Se muestran las estructuras ampliadas, las estructuras de barras y esferas y los modelos de espacio lleno con respecto a los alquenos eteno, propeno y 1-buteno.</caption>
+</figure>
+<para id="fs-idp69169072">El etileno (nombre industrial común del eteno) es una materia prima básica en la producción de polietileno y otros compuestos importantes. En 2010 se produjeron más de 135 millones de toneladas de etileno en todo el mundo para su uso en las industrias de polímeros, petroquímica y plásticos. El etileno se produce industrialmente en un proceso llamado craqueo, en el que las largas cadenas de hidrocarburos de una mezcla de petróleo se rompen en moléculas más pequeñas.</para>
+<note id="fs-idp67935232" class="chemistry everyday-life">
+<title>Reciclaje de plásticos</title>
+<para id="fs-idp73379088">Los polímeros (de las palabras griegas <emphasis effect="italics">poly</emphasis>, que significa "muchos", y <emphasis effect="italics">mer</emphasis>, que significa "partes") son grandes moléculas formadas por unidades repetitivas, denominadas monómeros. Los polímeros pueden ser naturales (el almidón es un polímero de residuos de azúcar y las proteínas son polímeros de aminoácidos) o sintéticos [como el polietileno, el cloruro de polivinilo (Polyvinyl Chloride, PVC) y el poliestireno]. La variedad de estructuras de los polímeros se traduce en una amplia gama de propiedades y usos que los convierten en parte integrante de nuestra vida cotidiana. La adición de grupos funcionales a la estructura de un polímero puede dar lugar a propiedades significativamente diferentes (vea el análisis sobre el Kevlar más adelante en este capítulo).</para>
+<para id="fs-idp45540352">Un ejemplo de reacción de polimerización se muestra en la <link target-id="CNX_Chem_20_01_Monomer"/>. El monómero etileno (C<sub>2</sub>H<sub>4</sub>) es un gas a temperatura ambiente, pero cuando se polimeriza con un catalizador de metales de transición, se transforma en un material sólido formado por largas cadenas de unidades –CH<sub>2</sub>– llamado polietileno. El polietileno es un plástico básico que se utiliza principalmente para el envasado (bolsas y películas).</para>
+<figure id="CNX_Chem_20_01_Monomer">
+<media id="fs-idp53238032" alt="Este diagrama tiene tres filas, que indican la reacción del etileno para formar el polietileno. En la primera fila, las fórmulas estructurales de Lewis muestran tres moléculas de etileno que se suman, cada una de las cuales está compuesta por dos átomos de C doblemente enlazados, cada uno con dos átomos de H enlazados. Antes y después de las estructuras de las moléculas hay elipses o tres puntos, que a su vez van seguidos de una flecha que apunta a la derecha. En el lado derecho de la flecha, las elipses o puntos vuelven a aparecer a la izquierda de un guion que conecta con una cadena de 7 átomos de C, cada uno con átomos de H conectados por encima y por debajo. Al final de la cadena aparece un guion, que a su vez va seguido de elipses o puntos. El diagrama de reacción se repite en la segunda fila con modelos de barras y esferas para las estructuras. En estas representaciones, los enlaces simples se representan con barras, los dobles enlaces con dos barras paralelas y los elementos con esferas. Los átomos de carbono son negros y los de hidrógeno son blancos en esta imagen. En la tercera fila, se muestran los modelos de espacio lleno. En estos modelos, los átomos son esferas agrandadas que se empujan entre sí, sin barras que representen enlaces.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_monomer.jpg"/>
+</media>
+<caption>Se muestra la reacción de polimerización del etileno en polietileno.</caption>
+</figure>
+<para id="fs-idm16451072">El polietileno pertenece a un subconjunto de polímeros sintéticos clasificados como plásticos. Los plásticos son sólidos orgánicos sintéticos que se pueden moldear; suelen ser polímeros orgánicos de gran masa molecular. La mayoría de los monómeros que forman parte de los plásticos comunes (etileno, propileno, cloruro de vinilo, estireno y tereftalato de etileno) se derivan de productos petroquímicos y son poco biodegradables, lo que los convierte en materiales candidatos para el reciclaje. El reciclaje de plásticos reduce la necesidad de utilizar más suministros petroquímicos y también amortigua el daño medioambiental causado por tirar estos materiales no biodegradables.</para>
+<para id="fs-idp49901792">El reciclaje de plásticos es el proceso de recuperación de residuos, desechos o plásticos usados, y su reprocesamiento para convertirlos en productos útiles. Por ejemplo, el tereftalato de polietileno (botellas de refrescos) puede fundirse y utilizarse para fabricar muebles de plástico, en alfombras o para otras aplicaciones. Otros plásticos, como el polietileno (bolsas) y el polipropileno (vasos, envases de plástico para alimentos), pueden reciclarse o reprocesarse para utilizarse de nuevo. Muchas áreas del país tienen programas de reciclaje que se centran en uno o más de los plásticos básicos a los que se ha asignado un código de reciclaje (vea la <link target-id="CNX_Chem_20_01_Recycle"/>). Estas operaciones están en vigor desde los años 1970 y han hecho que la producción de algunos plásticos se encuentre entre las operaciones industriales más eficientes en la actualidad.</para>
+<figure id="CNX_Chem_20_01_Recycle">
+<media id="fs-idp62611616" alt="Esta tabla muestra los símbolos de reciclaje, los nombres y los usos de varios tipos de plásticos. Los símbolos se señalan con tres flechas en forma de triángulo alrededor de un número. El número 1 está marcado como P E T E. El plástico relacionado, el tereftalato de polietileno (Polyethylene Terephthalate, P E T E), se utiliza en las botellas de refresco y en las bandejas de comida preparadas para el horno. El número 2 está marcado como H D P E. El plástico relacionado es el polietileno de alta densidad (High-Density Polyethylene, H D P E), que se utiliza en las botellas para la leche y los líquidos lavavajillas. El número 3 está marcado como V. El plástico relacionado es el cloruro de polivinilo o (P V C). Este plástico se utiliza en bandejas de comida, envoltorios de plástico y botellas de agua mineral y champú. El número 4 está marcado como L D P E. Este plástico es polietileno de baja densidad (Low Density Polyethylene, L D P E). Se utiliza en las bolsas de la compra y de la basura. El número 5 está marcado como P P. El plástico relacionado es el polipropileno (Polypropylene, P P). Se utiliza en las tarrinas de margarina y en las bandejas de comida para microondas. El número 6 está marcado como P S. El plástico relacionado es el poliestireno (Polystyrene, P S). Se utiliza en tarrinas de yogur, bandejas de gomaespuma para la carne, cartones para huevos, vasos expendedores, cubiertos de plástico y envases para productos electrónicos y juguetes. El número 7 está marcado como otro para cualquier otro plástico. Los artículos de esta categoría constan de aquellos materiales plásticos que no encajan en ninguna otra categoría. La melamina que se utiliza en los platos y vasos de plástico es un ejemplo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_recycle.jpg"/>
+</media>
+<caption>Cada tipo de plástico reciclable lleva impreso un código para facilitar su identificación.</caption>
+</figure>
+</note>
+<para id="fs-idp63319216">El nombre de un alqueno se deriva del nombre del alcano con el mismo número de átomos de carbono. La presencia del doble enlace se indica al sustituir el sufijo <emphasis effect="italics">-ano</emphasis> por el sufijo <emphasis effect="italics">-eno</emphasis>.<emphasis effect="italics"/> La ubicación del doble enlace<emphasis effect="italics"/> se identifica al designar el menor de los números de los átomos de carbono que participan en el doble enlace:</para>
+<media id="fs-idp9022464" alt="Se muestran cuatro fórmulas estructurales y nombres. La primera muestra dos átomos de C rojos conectados por un doble enlace rojo ilustrado con dos segmentos de línea paralelos. Los átomos de H están enlazados por encima y por debajo a la izquierda del átomo de C más a la izquierda. Otros dos átomos de H están enlazados de forma similar a la derecha del átomo de C de la derecha. Debajo de esta estructura se muestra el nombre de eteno y el nombre alternativo de etileno. La segunda muestra tres átomos de C enlazados entre sí con un doble enlace rojo entre el primer y el segundo átomo de C rojo que se mueve de izquierda a derecha a través de la cadena de tres carbonos. Los átomos de H están enlazados por encima y por debajo a la izquierda del átomo de C a la izquierda. Un solo H está enlazado por encima del átomo C del medio. Otros tres átomos de H están enlazados por encima, por debajo y a la derecha del tercer átomo de C. Debajo de esta estructura se muestra el nombre propeno y el nombre alternativo propileno. La tercera muestra cuatro átomos de C enlazados entre sí, numerados del uno al cuatro, moviéndose de izquierda a derecha, con un doble enlace rojo entre el primer y el segundo carbono de la cadena. Los átomos de H están enlazados por encima y por debajo a la izquierda del átomo de C a la izquierda. Un solo H está enlazado por encima del segundo átomo de C. Los átomos de H están enlazados por encima y por debajo del tercer átomo de C. Otros tres átomos de H están enlazados por encima, por debajo y a la derecha del cuarto átomo de C. Debajo de esta estructura aparece el nombre 1-buteno. La cuarta muestra cuatro átomos de C enlazados entre sí, numerados del uno al cuatro, de izquierda a derecha, con un doble enlace rojo entre el segundo y el tercer átomo de C de la cadena. Los átomos de H están enlazados por encima, por debajo y a la izquierda del átomo de C más a la izquierda. Un solo átomo de H está enlazado por encima del segundo átomo de C. Un solo átomo de H está enlazado por encima del tercer átomo de C. Otros tres átomos de H están enlazados por encima, por debajo y a la derecha del cuarto átomo de C. Debajo de esta estructura aparece el nombre 2-buteno.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_alkenes_img.jpg"/>
+</media>
+<section id="fs-idp26265856">
+<title>Isómeros de alquenos</title>
+<para id="fs-idm2630224">Las moléculas de 1-buteno y 2-buteno son isómeros estructurales; la disposición de los átomos en estas dos moléculas difiere. Como ejemplo de las diferencias de disposición, el primer átomo de carbono del 1-buteno está enlazado a dos átomos de hidrógeno; el primer átomo de carbono del 2-buteno está enlazado a tres átomos de hidrógeno.</para>
+<para id="fs-idp46334848">El compuesto 2-buteno y algunos otros alquenos también forman un segundo tipo de isómero llamado isómero geométrico. En un conjunto de isómeros geométricos, los mismos tipos de átomos están unidos entre sí en el mismo orden, pero las geometrías de las dos moléculas difieren. Los isómeros geométricos de los alquenos difieren en la orientación de los grupos a ambos lados de un enlace <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>enlace C</m:mtext></m:mrow></m:math>.</para>
+<para id="fs-idp47842704">Los átomos de carbono rotan libremente alrededor de un enlace simple, pero no alrededor de un doble enlace; el doble enlace es rígido. Esto permite tener dos isómeros del 2-buteno: uno con ambos grupos de metilo en el mismo lado del doble enlace y el otro con los grupos de metilo en lados opuestos. Cuando se dibujan estructuras de buteno con ángulos de enlace de 120°<sup/> alrededor de los átomos de carbono hibridados <emphasis effect="italics">sp</emphasis><sup>2</sup> que participan en el doble enlace, los isómeros son evidentes. El isómero de 2-buteno en el que los dos grupos metilo están en el mismo lado se denomina isómero <emphasis effect="italics">cis</emphasis>; el que tiene los dos grupos de metilo en lados opuestos se denomina isómero <emphasis effect="italics">trans</emphasis> (<link target-id="CNX_Chem_20_01_geoIsomers_img"/>). Las diferentes geometrías producen distintas propiedades físicas, como el punto de ebullición, que posibilitan la separación de los isómeros:</para>
+<figure id="CNX_Chem_20_01_geoIsomers_img" class="scaled-down">
+<media id="fs-idp52992128" alt="La figura ilustra tres maneras de representar los isómeros del buteno. En la primera fila de la figura, las fórmulas estructurales de Lewis muestran los símbolos de los elementos carbono e hidrógeno y los enlaces entre los átomos. La primera estructura de esta fila muestra un átomo de C con un doble enlace a otro átomo de C que está enlazado hacia abajo y a la derecha al C H subíndice 2 que, a su vez, está enlazado al C H subíndice 3. El primer átomo de C, de izquierda a derecha, tiene dos átomos de H enlazados a este; el segundo átomo de C tiene un átomo de H enlazado a este. La segunda estructura de la fila muestra un átomo de C con un doble enlace a otro átomo de C. El primer átomo de C está enlazado a un átomo de H arriba y a la izquierda y al C H subíndice 3 abajo y a la izquierda. El segundo átomo de C está enlazado a un átomo de H arriba y a la derecha y al C H subíndice 3 abajo y a la derecha. Las dos estructuras C H subíndice 3 aparecen en rojo. La tercera estructura muestra un átomo de C con un doble enlace a otro átomo de C. El primer átomo de C de la izquierda está enlazado hacia la izquierda a un C H subíndice 3 que aparece en rojo. También está enlazado hacia abajo y hacia la izquierda a un átomo de H. El segundo átomo de C está enlazado hacia arriba y hacia la derecha a un átomo de H y hacia abajo y hacia la izquierda al C H subíndice 3 que aparece en rojo. En la segunda fila, se muestran los modelos de barras y esferas para las estructuras. En estas representaciones, los enlaces simples se representan con barras, los dobles enlaces con dos barras paralelas y los elementos con esferas. Los átomos de C son negros y los de H son blancos en esta imagen. En la tercera fila, se muestran los modelos de espacio lleno. En estos modelos, los átomos se agrandan y se juntan, sin barras que representen enlaces. En la última fila, se proporcionan los nombres. La molécula con el doble enlace entre el primer y el segundo carbono se denomina 1-buteno. Las dos moléculas con el doble enlace entre el segundo y el tercer átomo de carbono se denominan 2-buteno. El primer modelo, que tiene ambos grupos C H subíndice 3 debajo del doble enlace, se denomina isómero cis. El segundo, que tiene los grupos C H subíndice 3 en lados opuestos del doble enlace, se denomina isómero trans.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_geoIsomers_img.jpg"/>
+</media>
+<caption>Estos modelos moleculares muestran los isómeros estructurales y geométricos del buteno.</caption>
+</figure>
+<para id="fs-idp51580832">Los alquenos son mucho más reactivos que los alcanos porque la fracción <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> es un grupo funcional reactivo. El enlace π, al ser más débil, se altera mucho más fácilmente que el enlace σ. Por lo tanto, los alquenos sufren una reacción característica en la que el enlace π se rompe y se sustituye por dos enlaces σ. Esta reacción se llama <term>reacción de adición</term>. La hibridación de los átomos de carbono en el doble enlace de un alqueno cambia de <emphasis effect="italics">sp</emphasis><sup>2</sup> a <emphasis effect="italics">sp</emphasis><sup>3</sup> durante una reacción de adición. Por ejemplo, los halógenos se suman al doble enlace en un alqueno en lugar de sustituir al hidrógeno, como ocurre en un alcano:</para>
+<media id="fs-idp71538720" alt="Este diagrama ilustra la reacción del eteno y el C l subíndice 2 para formar 1,2-dicloroetano. En esta reacción se muestra la fórmula estructural del etano. Tiene un doble enlace entre los dos átomos de C con dos átomos de H enlazados a cada átomo de C más C l enlazado al C l. Esto se muestra a la izquierda de una flecha. Los dos átomos de C y el doble enlace entre ellos se muestran en rojo. A la derecha de la flecha, se muestra la molécula de 1,2-dicloroetano. Solo tiene enlaces simples y cada átomo de C tiene un C l con tres pares de puntos de electrones enlazados debajo. Los átomos de C y C l, el enlace simple entre ellos y los pares de electrones se muestran en rojo. Cada átomo de C también tiene dos átomos de H enlazados a este." class="scaled-down">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_halogen_img.jpg"/>
+</media>
+<example id="fs-idp73227696">
+<para id="fs-idp57920"><title>Reactividad y designación de los alquenos</title>
+Proporcione los nombres de la IUPAC para el reactivo y el producto de la reacción de halogenación que se muestra aquí:</para>
+<media id="fs-idp31467664" class="scaled-down" alt="El lado izquierdo de una reacción y la flecha se muestran con el lado del producto vacío. A la izquierda, el C H subíndice 3 está enlazado hacia abajo y a la derecha con el C H que tiene un doble enlace con otro C H. El segundo C H está enlazado hacia arriba y a la derecha con el C H subíndice 2 que también está enlazado con el C H subíndice 3. Se muestra un signo más con un átomo de C l enlazado a un átomo de C l, a continuación. Esto también va seguido de una flecha de reacción.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_HaloReact_img.jpg"/>
+</media>
+<para id="fs-idp49994208"><title>Solución</title>
+El reactivo es una cadena de cinco carbonos que contiene un doble enlace carbono-carbono, por lo que el nombre de la base será penteno. Empezamos a contar por el extremo de la cadena más cercano al doble enlace (en este caso, desde la izquierda) el doble enlace abarca los carbonos 2 y 3, por lo que el nombre se convierte en 2-penteno. Dado que hay dos grupos que contienen carbono unidos a los dos átomos de carbono del doble enlace (y están en el mismo lado del doble enlace) esta molécula es el isómero <emphasis effect="italics">cis</emphasis>, por lo que el nombre del alqueno de partida es <emphasis effect="italics">cis</emphasis>-2-penteno. El producto de la reacción de halogenación tendrá dos átomos de cloro unidos a los átomos de carbono que formaban parte del doble enlace carbono-carbono:</para>
+<media id="fs-idp19259184" class="scaled-down" alt="El C H subíndice 3 está enlazado hacia abajo y a la derecha con C H, que está enlazado hacia abajo y a la izquierda con C l. El C H también está enlazado a otro C H que está enlazado hacia abajo y a la derecha al C l y hacia arriba y a la derecha al C H subíndice 2. El C H subíndice 2 también está enlazado al C H subíndice 3.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_HaloReact2_img.jpg"/>
+</media>
+<para id="fs-idp34054896">Esta molécula es ahora un alcano sustituido y se denominará como tal. La base del nombre será el pentano. Contaremos a partir del extremo que numera los átomos de carbono donde se unen los átomos de cloro como 2 y 3, haciendo que el nombre del producto sea 2,3-dicloropentano.</para>
+<para id="fs-idp53493472"><title>Compruebe lo aprendido</title>
+Indique los nombres del reactivo y del producto de la reacción indicada:</para>
+<media id="fs-idp11889184" class="scaled-down" alt="Esto muestra un átomo de C enlazado a tres átomos de H y a otro átomo de C. Este segundo átomo de C está enlazado a dos átomos de H y a un tercer átomo de C. Este tercer átomo de C está enlazado a un átomo de H y también forma un doble enlace con un cuarto átomo de C. Este cuarto átomo de C está enlazado a un átomo de H y a un quinto átomo de C. Este quinto átomo de C está enlazado a dos átomos de H y a un sexto átomo de C. Este sexto átomo de C está enlazado a tres átomos de H. Hay un signo más seguido de un átomo de C l enlazado a otro átomo de C l. Hay una flecha de reacción. No se muestran productos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ReactProd1_img.jpg"/>
+</media>
+<note id="fs-idp64218000"><title>Respuesta:</title>
+<para id="fs-idp53499344">reactivo: cis-3-hexeno producto: 3,4-diclorohexano</para></note>
+</example>
+</section>
+</section>
+<section id="fs-idp20128928">
+<title>Alquinos</title>
+<para id="fs-idp37965376">Las moléculas de hidrocarburos con uno o más triples enlaces se denominan <term>alquinos</term>; constituyen otra serie de hidrocarburos insaturados. Dos átomos de carbono unidos por un triple enlace están unidos por un enlace σ y dos enlaces π. Los carbonos <emphasis effect="italics">sp</emphasis>-hibridados que intervienen en el triple enlace tienen ángulos de enlace de 180°, lo que da a este tipo de enlaces una forma lineal, parecida a una varilla.</para>
+<para id="fs-idp40078048">El miembro más simple de la serie de alquinos es el etileno, C<sub>2</sub>H<sub>2</sub>, comúnmente llamado acetileno. La estructura de Lewis para el etileno, una molécula lineal, es:</para>
+<media id="fs-idp50929952" alt="Se muestra la fórmula estructural y el nombre del etileno, también conocido como acetileno. En rojo, se muestran dos átomos de C con un triple enlace ilustrado por tres segmentos de línea horizontal entre ellos. Mostrado en negro en cada extremo de la estructura, se enlaza un solo átomo de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_alkyne_img.jpg"/>
+</media>
+<para id="fs-idp43136928">La nomenclatura de la IUPAC para los alquinos es similar a la de los alquenos, salvo que el sufijo <emphasis effect="italics">-ino</emphasis> se utiliza para indicar un triple enlace en la cadena. Por ejemplo, <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>CH</m:mtext></m:mrow></m:math> se denomina 1-butino.</para>
+<example id="fs-idp19245952">
+<para id="fs-idp53182112"><title>Estructura de los alquinos</title>
+Describa la geometría y la hibridación de los átomos de carbono en la siguiente molécula:</para>
+<media id="fs-idp49788512" class="scaled-down" alt="Se muestra una fórmula estructural con C H subíndice 3 enlazado a un átomo de C que está triplemente enlazado a otro átomo de C que está enlazado a C H subíndice 3. Cada átomo de C está marcado como 1, 2, 3 y 4 de izquierda a derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_GeomHybr1_img.jpg"/>
+</media>
+<para id="fs-idp53801760"><title>Solución</title>
+Los átomos de carbono 1 y 4 tienen cuatro enlaces simples y, por ende, son tetraédricos con hibridación <emphasis effect="italics">sp</emphasis><sup>3</sup>. Los átomos de carbono 2 y 3 participan en el triple enlace, por lo que tienen geometrías lineales y se clasificarían como híbridos <emphasis effect="italics">sp</emphasis>.</para>
+<para id="fs-idp13418960"><title>Compruebe lo aprendido</title>
+Identifique la hibridación y los ángulos de enlace en los átomos de carbono de la molécula mostrada:</para>
+<media id="fs-idp81875424" class="scaled-down" alt="Se muestra una fórmula estructural con un átomo de H enlazado a un átomo de C. El átomo de C tiene un triple enlace con otro átomo de C que también está enlazado al C H. El C H tiene un doble enlace con otro C H que también está enlazado hacia arriba y a la derecha al C H subíndice 3. Cada átomo de C está marcado como 1, 2, 3, 4 o 5 de izquierda a derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_HybrBAngl_img.jpg"/>
+</media>
+<note id="fs-idp11395248"><title>Respuesta:</title>
+<para id="fs-idp81641696">carbono 1: <emphasis effect="italics">sp</emphasis>, 180°; carbono 2: <emphasis effect="italics">sp</emphasis>, 180°; carbono 3: <emphasis effect="italics">sp</emphasis><sup>2</sup>, 120°; carbono 4: <emphasis effect="italics">sp</emphasis><sup>2</sup>, 120°; carbono 5: <emphasis effect="italics">sp</emphasis><sup>3</sup>, 109,5°</para>
+</note>
+</example>
+<para id="fs-idp33513136">Químicamente, los alquinos se parecen a los alquenos. Dado que el grupo funcional <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> tiene dos enlaces π, los alquinos suelen reaccionar aún más fácilmente y reaccionan con el doble de reactivo en las reacciones de adición. La reacción del acetileno con el bromo es un ejemplo típico:</para>
+<media id="fs-idp47048832" alt="Este diagrama ilustra la reacción de etileno y dos moléculas de B r subíndice 2 para formar 1,1,2,2-tetrabromoetano. En esta reacción, la fórmula estructural del etileno, un átomo de H enlazado a un átomo de C rojo con un triple enlace rojo a otro átomo de C rojo enlazado a un átomo de H negro, más B r enlazado a B r más B r enlazado a B r se muestra a la izquierda de una flecha. A la derecha, se muestra la forma de la molécula de 1,1,2,2-tetrabromoetano. Tiene un átomo de H enlazado a un átomo de C que está enlazado a otro átomo de C que está enlazado a un átomo de H. Cada átomo de C está enlazado por encima y por debajo a un átomo de B r. Cada átomo de B r tiene tres pares de puntos de electrones. Los átomos C y B r, el enlace simple entre ellos y los pares de electrones se muestran en rojo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_acetylene_img.jpg"/>
+</media>
+<para id="fs-idp51529936">El acetileno y los demás alquinos también arden con facilidad. Un soplete de acetileno aprovecha el alto calor de combustión del acetileno.</para>
+</section>
+<section id="fs-idp47914064">
+<title>Hidrocarburos aromáticos</title>
+<para id="fs-idp68051312">El benceno, C<sub>6</sub>H<sub>6</sub>, es el miembro más simple de una gran familia de hidrocarburos, llamados <term>hidrocarburos aromáticos</term>. Estos compuestos contienen estructuras de anillo y presentan enlaces que deben describirse con el concepto de híbrido de resonancia de la teoría del enlace de valencia o el concepto de deslocalización de la teoría de orbitales moleculares. (Para repasar estos conceptos, consulte los capítulos anteriores sobre el enlace químico). Las estructuras de resonancia del benceno, C<sub>6</sub>H<sub>6</sub>, son:</para>
+<media id="fs-idp11273408" class="scaled-down" alt="Esta fórmula estructural muestra un anillo de hidrocarburos de seis carbonos. En el lado izquierdo hay seis átomos de C. El átomo de C que está arriba y a la izquierda forma un enlace simple con el átomo de C que está arriba y a la derecha. El átomo de C tiene un doble enlace con otro átomo de C que tiene un enlace simple con un átomo de C. Ese átomo de C tiene un doble enlace con otro átomo de C que tiene un enlace simple con un átomo de C. Ese átomo de C forma un doble enlace con otro átomo de C. Cada átomo de C tiene un enlace simple con un átomo de H. Hay una flecha de dos lados y la estructura de la derecha es casi idéntica a la de la izquierda. La estructura de la derecha muestra enlaces dobles mientras que la estructura de la izquierda mostraba enlaces simples. La estructura de la derecha muestra enlaces simples mientras que la estructura de la izquierda mostraba enlaces dobles.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_aromatic_img.jpg"/>
+</media>
+<para id="fs-idp10659184">La teoría del enlace de valencia describe la molécula de benceno y otras moléculas planas de hidrocarburos aromáticos como anillos hexagonales de átomos de carbono hibridados <emphasis effect="italics">sp</emphasis><sup>2</sup> con el orbital <emphasis effect="italics">p</emphasis> no hibridado de cada átomo de carbono perpendicular al plano del anillo. Tres electrones de valencia en los orbitales híbridos <emphasis effect="italics">sp</emphasis><sup>2</sup> de cada átomo de carbono y el electrón de valencia de cada átomo de hidrógeno forman el marco de los enlaces σ en la molécula de benceno. El cuarto electrón de valencia de cada átomo de carbono se comparte con un átomo de carbono adyacente en sus orbitales <emphasis effect="italics">p</emphasis> no hibridados para dar lugar a los enlaces π. Sin embargo, el benceno no presenta las características típicas de un alqueno. Cada uno de los seis enlaces entre sus átomos de carbono es equivalente y presenta propiedades intermedias entre las de un enlace simple C-C y un doble enlace <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math>. Para representar este enlace único, las fórmulas estructurales del benceno y sus derivados se dibujan con enlaces simples entre los átomos de carbono y un círculo dentro del anillo, como se muestra en la <link target-id="CNX_Chem_20_01_benzene"/>.</para>
+<figure id="CNX_Chem_20_01_benzene" class="scaled-down">
+<media id="fs-idp40273312" alt="Se indica la fórmula estructural de un anillo de hidrocarburos de seis carbonos. Cada átomo de C está enlazado a un solo átomo de H. Un círculo está en el centro del anillo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_benzene.jpg"/>
+</media>
+<caption>Esta fórmula condensada muestra la estructura de enlace única del benceno.</caption>
+</figure>
+<para id="fs-idp10607328">Hay muchos derivados del benceno. Los átomos de hidrógeno pueden sustituirse por muchos sustituyentes diferentes. Los compuestos aromáticos experimentan más fácilmente reacciones de sustitución que de adición; la sustitución de uno de los átomos de hidrógeno por otro sustituyente dejará intactos los dobles enlaces deslocalizados. Los siguientes son ejemplos típicos de derivados bencénicos sustituidos:</para>
+<media id="fs-idp272608" class="scaled-down" alt="Se muestran tres fórmulas estructurales. La primera está marcada como tolueno. Esta molécula tiene un anillo de hidrocarburos de seis carbonos en el que cinco de los átomos de C están enlazados a un solo átomo de H. En la parte superior derecha del anillo, el átomo de C que no tiene un átomo de H enlazado tiene un grupo C H subíndice 3 de color rojo. Un círculo está en el centro del anillo. El segundo está marcado como xileno. Esta molécula tiene un anillo de hidrocarburos de seis carbonos en el que cuatro de los átomos de C están enlazados a un solo átomo de H. En la parte superior derecha y en la derecha del anillo, los dos átomos de C que no tienen átomos de H enlazados tienen grupos C H subíndice 3 unidos. Estos grupos de C H subíndice 3 aparecen en rojo. Un círculo está en el centro del anillo. El tercero está marcado como estireno. Esta molécula tiene un anillo de hidrocarburos de seis carbonos en el que cinco de los átomos de carbono están enlazados a un solo átomo de H. En la parte superior derecha del anillo, el carbono que no tiene un átomo de H enlazado tiene un grupo rojo de doble enlace C H subíndice 2. Un círculo está en el centro del anillo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_subbenzene_img.jpg"/>
+</media>
+<para id="fs-idp73674736">El tolueno y el xileno son importantes disolventes y materias primas en la industria química. El estireno se utiliza para producir el polímero poliestireno.</para>
+<example id="fs-idp67295280">
+<para id="fs-idp53734816"><title>Estructura de los hidrocarburos aromáticos</title>
+Aquí se muestra un posible isómero creado por una reacción de sustitución que sustituye un átomo de hidrógeno unido al anillo aromático del tolueno por un átomo de cloro. Dibuje otros dos posibles isómeros en los que el átomo de cloro sustituye a otro átomo de hidrógeno unido al anillo aromático:</para>
+<media id="fs-idp34537552" class="scaled-down" alt="Se muestran dos fórmulas estructurales. El primero tiene un anillo de hidrocarburos de seis carbonos en el que cuatro de los átomos de carbono están enlazados a un solo átomo de H. En la parte superior derecha del anillo, el carbono que no tiene un átomo de H enlazado tiene un grupo C H subíndice 3 unido. El C de la parte inferior derecha tiene un átomo de C l unido. Un círculo está en el centro del anillo. La segunda molécula tiene un hexágono con un círculo en su interior. Desde un vértice del hexágono en la parte superior derecha se une un grupo C H subíndice 3. Desde el vértice de la parte inferior derecha se une un átomo de C l.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_AromatIso1_img.jpg"/>
+</media>
+<para id="fs-idp11250848"><title>Solución</title>
+Dado que el anillo de seis carbonos con dobles enlaces alternados es necesario para que la molécula se clasifique como aromática, los isómeros apropiados se producen únicamente al cambiar las posiciones del sustituyente cloro con respecto al sustituyente metilo:</para>
+<media id="fs-idp41418224" alt="Se muestran dos pares de fórmulas estructurales. El primero tiene un anillo de hidrocarburos de seis carbonos en el que cuatro de los átomos de C están enlazados a un solo átomo de H cada uno. En la parte superior derecha del anillo, el átomo de C que no tiene un átomo de H enlazado tiene un grupo C H subíndice 3 unido. El átomo de C a la derecha tiene un átomo de C l unido. Un círculo está en el centro del anillo. La segunda molécula del primer par tiene un hexágono con un círculo en su interior. Desde un vértice del hexágono en la parte superior derecha se une un grupo C H subíndice 3. Desde el vértice de la derecha se une un átomo de C l. El segundo par muestra primero un anillo de hidrocarburo de seis carbonos en el que cuatro de los átomos de C están enlazados a un solo átomo de H. Un átomo de C l está unido al átomo de C más a la izquierda y un grupo C H subíndice 3 está unido al átomo de C más a la derecha. Un círculo está en el centro del anillo. La segunda molécula del par tiene un hexágono con un círculo en su interior. A un vértice del lado derecho del hexágono se une un grupo C H subíndice 3 y a un vértice del lado izquierdo se enlaza un átomo de C l.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_AromatIso2_img.jpg"/>
+</media>
+<para id="fs-idm26759488"><title>Compruebe lo aprendido</title>
+Dibuje tres isómeros de un compuesto de anillo aromático de seis miembros sustituido con dos bromos.</para>
+<note id="fs-idp72044400"><title>Respuesta:</title>
+<media id="fs-idp64316608" class="scaled-down" alt="Se muestran tres pares de fórmulas estructurales. El primero tiene un anillo de hidrocarburos de seis carbonos en el que cuatro de los átomos de C están enlazados a un solo átomo de H cada uno. En la parte superior derecha y en la derecha del anillo, los dos átomos de C que no tienen átomos de H enlazados tienen un átomo de B r enlazado cada uno. Un círculo está en el centro del anillo. Debajo de esta estructura, se muestra una estructura similar que tiene un hexágono con un círculo en su interior. Desde los vértices del hexágono en la parte superior derecha y en la derecha se adhieren átomos de individuales B r. El segundo tiene un anillo de hidrocarburos de seis carbonos en el que cuatro de los átomos de C están enlazados a un solo átomo de H cada uno. En la parte superior derecha e inferior derecha del anillo, los dos átomos de C que no tienen átomos de H enlazados tienen un solo átomo de B r enlazado cada uno. Un círculo está en el centro del anillo. Debajo de esta estructura, se muestra una estructura similar que tiene un hexágono con un círculo en su interior. Desde los vértices del hexágono en la parte superior derecha y en la inferior derecha se adhieren átomos individuales de B r. El tercero tiene un anillo de hidrocarburos de seis carbonos en el que cuatro de los átomos de C están enlazados a un solo átomo de H cada uno. En la parte superior derecha e inferior izquierda del anillo, los dos átomos de C que no tienen átomos de H enlazados tienen átomos de B r enlazados. Un círculo está en el centro del anillo. Debajo de esta estructura, se muestra una estructura similar que tiene un hexágono con un círculo en su interior. Desde los vértices del hexágono en la parte superior derecha e inferior izquierda, se adhieren átomos individuales de B r.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_AromatIso3_img.jpg"/>
+</media>
+</note>
+</example>
+</section>
+<section id="fs-idm28708640" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idp39226944">Los enlaces fuertes y estables entre los átomos de carbono producen moléculas complejas que contienen cadenas, ramas y anillos. La química de estos compuestos se denomina química orgánica. Los hidrocarburos son compuestos orgánicos formados únicamente por carbono e hidrógeno. Los alcanos son hidrocarburos saturados, es decir, hidrocarburos que solo contienen enlaces simples. Los alquenos contienen uno o más dobles enlaces carbono-carbono. Los alquinos contienen uno o más triples enlaces carbono-carbono. Los hidrocarburos aromáticos contienen estructuras de anillo con sistemas de electrones π deslocalizados.</para>
+</section>
+<section id="fs-idp889008" class="exercises">
+<title>Ejercicios de química del final del capítulo</title>
+<exercise id="fs-idp73372304">
+<problem id="fs-idp40120176">
+<para id="fs-idp72985088">Escriba la fórmula química y la estructura de Lewis de los siguientes elementos, cada uno de los cuales contiene cinco átomos de carbono:</para>
+<para id="fs-idp10262992">a) un alcano</para>
+<para id="fs-idp65046000">b) un alqueno</para>
+<para id="fs-idp79637792">c) un alquino</para>
+</problem>
+<solution id="fs-idp65080656">
+<para id="fs-idp68623920">Hay varias series de respuestas; una es:<newline/> (a) C<sub>5</sub>H<sub>12</sub><newline/>
+<media id="fs-idp32194480" alt="Se muestra una cadena de cinco átomos de C con enlaces simples. Cada átomo de C tiene un átomo de H enlazado por encima y por debajo. Los átomos de C del extremo de la cadena tienen un tercer átomo de H enlazado a cada uno de ellos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_1a_img.jpg"/>
+</media><newline/> (b) C<sub>5</sub>H<sub>10</sub><newline/>
+<media id="fs-idp46515712" alt="Se muestra una cadena de cinco átomos de C. El primer átomo de C (de izquierda a derecha) forma un enlace simple con el segundo átomo de C. El segundo átomo de C forma un enlace simple con el tercer átomo de C. El tercer átomo de C forma un doble enlace con el cuarto átomo de C. El cuarto átomo de C forma un enlace simple con el quinto átomo de C. El primer átomo de C (de izquierda a derecha) tiene tres átomos de H enlazados. El segundo átomo de C tiene dos átomos de H enlazados a este. El tercer átomo de C tiene un átomo de H enlazado. El cuarto átomo de C tiene un átomo de H enlazado. El quinto átomo de C tiene tres átomos de H enlazados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_1b_img.jpg"/>
+</media><newline/> (c) C<sub>5</sub>H<sub>8</sub><newline/>
+<media id="fs-idp10643296" alt="Se muestra una cadena de cinco átomos de carbono. El primer átomo de C (de izquierda a derecha) forma un enlace simple con el segundo átomo de C. El segundo átomo de C forma un enlace simple con el tercer átomo de C. El tercer átomo de C forma un triple enlace con el cuarto átomo de C. El cuarto átomo de C forma un enlace simple con el quinto átomo de C. El primer átomo de C tiene tres átomos de H enlazad. El segundo átomo de C tiene dos átomos de H enlazados a este. El quinto átomo de C tiene tres átomos de H enlazados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_1c_img.jpg"/>
+</media>
+</para></solution>
+</exercise>
+<exercise id="fs-idp53479808">
+<problem id="fs-idp30021920">
+<para id="fs-idp16628320">¿Cuál es la diferencia entre la hibridación de los orbitales de valencia de los átomos de carbono en los hidrocarburos saturados e insaturados?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp46944768">
+<problem id="fs-idp21815488">
+<para id="fs-idp70007392">A nivel microscópico, ¿en qué se diferencia la reacción del bromo con un hidrocarburo saturado de su reacción con un hidrocarburo insaturado? ¿En qué se parecen?</para>
+</problem>
+<solution id="fs-idp10938368">
+<para id="fs-idp53766768">Ambas reacciones dan lugar a la incorporación de bromo en la estructura del producto. La diferencia es la forma en que se produce esa incorporación. En el hidrocarburo saturado, se rompe un enlace C-H existente y se puede formar un enlace entre el C y el Br. En el hidrocarburo insaturado, el único enlace roto en el hidrocarburo es el enlace π cuyos electrones pueden utilizarse para formar un enlace con uno de los átomos de bromo del Br<sub>2</sub> (los electrones del enlace Br-Br forman el otro enlace C-Br en el otro carbono que formaba parte del enlace π en el hidrocarburo insaturado de partida).</para>
+</solution>
+</exercise>
+<exercise id="fs-idp14199456">
+<problem id="fs-idp32033168">
+<para id="fs-idp49039376">A nivel microscópico, ¿en qué se diferencia la reacción del bromo con un alqueno de su reacción con un alquino? ¿En qué se parecen?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp53563584">
+<problem id="fs-idp49791424">
+<para id="fs-idp11481152">Explique por qué los alquenos no ramificados pueden formar isómeros geométricos, mientras que los alcanos no ramificados no. ¿Esta explicación se refiere al ámbito macroscópico o al microscópico?</para>
+</problem>
+<solution id="fs-idm46658976">
+<para id="fs-idm64600464">Los alcanos no ramificados tienen rotación libre sobre los enlaces C-C, lo que hace que todas las orientaciones de los sustituyentes sobre estos enlaces sean equivalentes, intercambiables por rotación. En los alquenos no ramificados, la incapacidad de rotar alrededor del enlace <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> da lugar a orientaciones fijas (invariables) de los sustituyentes, lo que permite la existencia de diferentes isómeros. Dado que estos conceptos se refieren a fenómenos a nivel molecular, esta explicación implica el ámbito microscópico.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp45666096">
+<problem id="fs-idp11358112">
+<para id="fs-idp15291776">Explique por qué estas dos moléculas no son isómeros:<newline/>
+<media id="fs-idp28942256" class="scaled-down" alt="Se muestran dos fórmulas estructurales. En la primera, se muestra una cadena de seis átomos de carbono con un único doble enlace entre los carbonos dos y tres contando de derecha a izquierda a través de la molécula, con doce átomos de H enlazados en total. Los átomos de H están enlazados en cada extremo de la molécula, así como en la parte superior. Los átomos de H también están enlazados por debajo de todos los átomos de C, excepto los que participan en el doble enlace. En la segunda estructura, se muestra una cadena de hidrocarburos de cinco átomos de C conectados por enlaces simples. Un único C con tres átomos de H unidos está enlazado por debajo del segundo carbono contando de derecha a izquierda a través de la molécula.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_notiso1_img.jpg"/>
+</media></para>
+</problem>
+</exercise>
+<exercise id="fs-idp68859088">
+<problem id="fs-idp49030496">
+<para id="fs-idp50199232">Explique por qué estas dos moléculas no son isómeros:<newline/>
+<media id="fs-idp8953232" class="scaled-down" alt="Se muestran dos fórmulas estructurales. En la primera, se muestra una cadena horizontal de hidrocarburos, formada por seis átomos de C unidos por enlaces simples. Cada átomo de C tiene un átomo de H enlazado por encima y por debajo. Los dos átomos de C en cada extremo de la cadena tienen un tercer átomo de H enlazado a ellos. En la segunda estructura, se muestra una cadena horizontal de hidrocarburos compuesta por cinco átomos de C conectados por enlaces simples, con un sexto átomo de C unido por enlace simple debajo del átomo de C más a la derecha. El primer átomo de C (de izquierda a derecha) tiene tres átomos de H enlazados. El segundo átomo de C tiene dos átomos de H enlazados a este. El tercer átomo de C tiene dos átomos de H enlazados. El cuarto átomo de C tiene dos átomos de H enlazados. El quinto átomo de C tiene dos átomos de H enlazados. El átomo de C enlazado por debajo del quinto átomo de C tiene tres átomos de H enlazados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_notiso2_img.jpg"/>
+</media></para>
+</problem>
+<solution id="fs-idp38099024">
+<para id="fs-idp36999856">Son el mismo compuesto porque cada uno es un hidrocarburo saturado que contiene una cadena no ramificada de seis átomos de carbono.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp52657872">
+<problem id="fs-idp69008992">
+<para id="fs-idp15552192">¿Cómo cambia la hibridación carbono-átomo cuando se prepara el polietileno a partir del etileno?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp15287488">
+<problem id="fs-idp71348272">
+<para id="fs-idp39727744">Escriba la estructura de Lewis y la fórmula molecular de cada uno de los siguientes hidrocarburos:</para>
+<para id="fs-idp4190704">(a) hexano</para>
+<para id="fs-idp11221776">(b) 3-metilpentano</para>
+<para id="fs-idp51087744">(c) <emphasis effect="italics">cis</emphasis>-3-hexeno</para>
+<para id="fs-idp51474464">d) 4-metil-1-penteno</para>
+<para id="fs-idp10176832">(e) 3-hexino</para>
+<para id="fs-idp39674272">f) 4-metil-2-pentino</para>
+</problem>
+<solution id="fs-idp19221920">
+<para id="fs-idp46339216">(a) C<sub>6</sub>H<sub>14</sub><newline/>
+<media id="fs-idp34632176" alt="Esta figura muestra una cadena horizontal de hidrocarburos formada por seis átomos de carbono unidos por enlaces simples. Cada átomo de C tiene un átomo de H enlazado por encima y por debajo. Los dos átomos de C de cada extremo de la cadena tienen un tercer átomo de H enlazado a ellos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_hexane_a_img.jpg"/>
+</media><newline/> (b) C<sub>6</sub>H<sub>14</sub><newline/>
+<media id="fs-idp49815392" alt="Esta figura muestra cinco átomos de C enlazados entre sí y un sexto átomo de C enlazado por debajo de la cadena. El primer átomo de C (de izquierda a derecha) tiene tres átomos de H enlazados y también está enlazado a otro átomo de C. El segundo átomo de C tiene dos átomos de H enlazados por encima y por debajo y también está enlazado a otro átomo de C. El tercer átomo de C tiene un átomo de H enlazado por encima y un átomo de C enlazado por debajo. El átomo de C enlazado por debajo del tercer átomo de C de la cadena tiene tres átomos de H enlazados. El tercer átomo de C también está enlazado a otro átomo de C. El cuarto átomo de C de la cadena tiene dos átomos de H enlazados por encima y por debajo y está enlazado a otro átomo de C. El quinto átomo de C tiene tres átomos de H enlazados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_hexane_b_img.jpg"/>
+</media><newline/> (c) C<sub>6</sub>H<sub>12</sub><newline/>
+<media id="fs-idp68094528" alt="Esta figura muestra un átomo de C con tres átomos de H enlazados. Este átomo de C está enlazado a otro átomo de C con dos átomos de H enlazados por encima y por debajo. El segundo átomo de C también está enlazado a otro átomo de C abajo y a la derecha. Este átomo de C está enlazado a un átomo de H y tiene un doble enlace con un cuarto átomo de C. El cuarto átomo de C también está enlazado a un átomo de H. El cuarto átomo de C tiene un enlace hacia arriba y hacia la derecha con otro átomo de C. Este átomo de C tiene dos átomos de H enlazados por encima y por debajo. Este átomo de C también se enlaza a otro átomo de C que está enlazado a tres átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_hexane_c_img.jpg"/>
+</media><newline/> (d) C<sub>6</sub>H<sub>12</sub><newline/>
+<media id="fs-idm5221232" alt="Esta figura muestra una cadena de hidrocarburos con una longitud de cinco átomos de C. El primer átomo de C (de izquierda a derecha) está enlazado a dos átomos de H y también forma un doble enlace con el segundo átomo de C. El segundo átomo de C está enlazado a un átomo de H por encima de él y también está enlazado a un tercer átomo de C. El tercer átomo de C está enlazado a dos átomos de H y también a un cuarto átomo de C. El cuarto átomo de C está enlazado a un átomo de H por encima y a un átomo de C por debajo. El átomo de C enlazado al cuarto átomo de C de la cadena tiene tres átomos de H enlazados. El cuarto átomo de C también está enlazado a un quinto átomo de C que está enlazado a tres átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_hexane_d_img.jpg"/>
+</media><newline/> (e) C<sub>6</sub>H<sub>10</sub><newline/>
+<media id="fs-idp41386272" alt="Esta figura muestra una cadena de hidrocarburos con una longitud de seis átomos de C. El primer átomo de C tiene tres átomos de H enlazados, y también está enlazado a un segundo átomo de C. El segundo átomo de C tiene un átomo de H enlazado por encima y por debajo. También está enlazado a un tercer átomo de C. El tercer átomo de C forma un triple enlace con un cuarto átomo de C. El cuarto átomo de C forma un enlace simple con un quinto átomo de C que tiene dos átomos de H enlazados por encima y por debajo. El sexto átomo de C tiene tres átomos de H enlazados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_hexane_e_img.jpg"/>
+</media><newline/> (f) C<sub>6</sub>H<sub>10</sub><newline/>
+<media id="fs-idp64181072" alt="Esta figura muestra una cadena de hidrocarburos con una longitud de cinco átomos de C. El primer átomo de C (de izquierda a derecha) tiene tres átomos de H enlazados. También está enlazado a un segundo átomo de C. El segundo átomo de C forma un triple enlace con un tercer átomo de C. El tercer átomo de C forma un enlace simple con un cuarto átomo de C. El cuarto átomo de C tiene un átomo de H enlazado por encima y un átomo de C enlazado por debajo. El átomo de C enlazado por debajo del cuarto átomo de C tiene tres átomos de H enlazados. El cuarto átomo de C está enlazado a un quinto átomo de C. El quinto átomo de C tiene tres átomos de H enlazados.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_hexane_f_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp6728112">
+<problem id="fs-idp20589296">
+<para id="fs-idp50445856">Escriba la fórmula química, la fórmula condensada y la estructura de Lewis de cada uno de los siguientes hidrocarburos:</para>
+<para id="fs-idp46618096">(a) heptano</para>
+<para id="fs-idp10027424">b) 3-metilhexano</para>
+<para id="fs-idm33761984">(c) <emphasis effect="italics">trans</emphasis>-3-hepteno</para>
+<para id="fs-idp2975600">d) 4-metil-1-hexeno</para>
+<para id="fs-idp52488112">(e) 2-heptino</para>
+<para id="fs-idp6722464">f) 3,4-dimetil-1-pentino</para>
+</problem>
+</exercise>
+<exercise id="fs-idp7100896">
+<problem id="fs-idp30838960">
+<para id="fs-idp12070000">Indique el nombre completo de la IUPAC para cada uno de los siguientes compuestos:</para>
+<para id="fs-idp91163600">(a) CH<sub>3</sub>CH<sub>2</sub>CBr<sub>2</sub>CH<sub>3</sub></para>
+<para id="fs-idp126521584">(b) (CH<sub>3</sub>)<sub>3</sub>CCl</para>
+<para id="fs-idm4418272">(c)<newline/><media id="fs-idp70528032" class="scaled-down" alt="Esta estructura muestra una cadena de hidrocarburos compuesta por C H subíndice 3 C H subíndice 2 C H subíndice 3 con un grupo C H subíndice 3 unido debajo del segundo átomo C contando de izquierda a derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_11_c_img.jpg"/>
+</media></para>
+<para id="fs-idm139885280">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:msub><m:mrow><m:mtext>CH CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>CH</m:mtext></m:mrow></m:math></para>
+<para id="fs-idp23116976">(e)<newline/><media id="fs-idp51903872" class="scaled-down" alt="Esta estructura muestra una cadena horizontal compuesta por C H subíndice 3 C F C H subíndice 2 C H subíndice 2 C H subíndice 2 C H subíndice 3 con un C H subíndice 2 C H triple enlace CH unido debajo del segundo átomo de C de izquierda a derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_11_e_img.jpg"/>
+</media></para>
+<para id="fs-idm137375152">(f)<newline/><media id="fs-idp62605952" class="scaled-down" alt="Esta estructura muestra dos átomos de C doblemente enlazados con C l unidos a la parte superior izquierda, C H subíndice 3 unido a la parte inferior derecha, y átomos de H unidos a la parte superior derecha e inferior izquierda de la estructura.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_11_f_img.jpg"/>
+</media></para>
+<para id="fs-idm72016624">(g) <m:math><m:mrow><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CHCH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>CH</m:mtext><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp54367104">
+<para id="fs-idp19284480">(a) 2,2-dibromobutano; (b) 2-cloro-2-metilpropano; (c) 2-metilbutano; (d) 1-buteno; (e) 4-fluoro-4-metil-1-octano; (f) <emphasis effect="italics">trans</emphasis>-1-cloropropeno; (g) 4-metil-1-penteno</para></solution>
+</exercise>
+<exercise id="fs-idp4501296">
+<problem id="fs-idp12531616">
+<para id="fs-idp1808144">Indique el nombre completo de la IUPAC para cada uno de los siguientes compuestos:</para>
+<para id="fs-idp37292016">(a) (CH<sub>3</sub>)<sub>2</sub>CHF</para>
+<para id="fs-idp41544208">(b) CH<sub>3</sub>CHClCHClCH<sub>3</sub></para>
+<para id="fs-idp51736608">(c)<newline/><media id="fs-idp12074768" class="scaled-down" alt="Esta estructura muestra una cadena de hidrocarburos compuesta por C H subíndice 3 C H CH subíndice 3 con un grupo C H subíndice 2 C H subíndice 3 unido debajo del segundo átomo C contando de izquierda a derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_12_c_img.jpg"/>
+</media>
+</para>
+<para id="fs-idp10831792">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>CH</m:mtext><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>CHCH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></para>
+<para id="fs-idp33438640">(e)<newline/><media id="fs-idp67456960" class="scaled-down" alt="Esta estructura muestra una cadena de hidrocarburos compuesta por un grupo C H subíndice 3 C H subíndice 2 C H subíndice 2 C H B r C H subíndice 2 C H subíndice 3 con un grupo C H subíndice 2 C H doble enlace C H subíndice 2 unido debajo del segundo átomo C de izquierda a derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_12_e_img.jpg"/>
+</media>
+</para>
+<para id="fs-idp37304912">(f) <m:math><m:mrow><m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>).</m:mo></m:mrow></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CCH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>CH</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp47819536"><problem id="fs-idp46538032">
+<para id="fs-idp33299328">El butano se utiliza como combustible en los encendedores desechables. Escriba la estructura de Lewis para cada isómero del butano.</para>
+</problem>
+<solution id="fs-idp10751600">
+<media id="fs-idp53900368" alt="Se muestran dos estructuras. El primero consiste en una cadena de cuatro átomos de C con enlaces simples. Cada átomo de C tiene dos átomos de H enlazados por encima y por debajo. Los dos átomos de C de cada extremo de la cadena tienen un tercer átomo de H enlazado. La molécula se denomina n-butano. El segundo consta de una cadena de tres átomos de C con enlaces simples con un átomo de C enlazado por encima del átomo de C del medio en la cadena. El primer átomo de C (de izquierda a derecha) tiene tres átomos de H enlazados. El segundo átomo de C tiene un átomo de H enlazado por debajo y un átomo de C enlazado por encima. El átomo de C enlazado por encima del átomo de C del medio tiene tres átomos de H enlazados. El tercer átomo de C de la cadena tiene tres átomos de H enlazados. Esta molécula se denomina 2-metilpropano.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_14_img.jpg"/>
+</media>
+</solution>
+</exercise><exercise id="fs-idp1311200">
+<problem id="fs-idp37081904">
+<para id="fs-idp7918672">Escriba las estructuras de Lewis y nombre los cinco isómeros estructurales del hexano.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp63809536"><problem id="fs-idp51475216">
+<para id="fs-idp46881904">Escriba las estructuras de Lewis para los isómeros <emphasis effect="italics">cis-trans</emphasis> de <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>CH</m:mtext><m:mo>=</m:mo><m:mtext>CHCl.</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp51118784">
+<media id="fs-idp51661648" alt="Esta figura comprende dos fórmulas estructurales. La primera estructura muestra dos átomos de C con doble enlace a C l enlazado a la parte superior derecha, C H subíndice 3 enlazado a la parte superior izquierda, y átomos de H unidos a la parte inferior derecha e inferior izquierda de la estructura. Esta estructura está marcada como cis-. La segunda estructura muestra dos átomos de carbono con doble enlace a C l unido a la parte inferior derecha, C H subíndice 3 unido a la parte superior izquierda, y átomos de H unidos a la parte superior derecha e inferior izquierda de la estructura. Esta estructura está marcada como trans-.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_16_img.jpg"/>
+</media>
+</solution>
+</exercise><exercise id="fs-idp65090000">
+<problem id="fs-idp70531584">
+<para id="fs-idp67926592">Escriba las estructuras de los tres isómeros del hidrocarburo aromático xileno, C<sub>6</sub>H<sub>4</sub>(CH<sub>3</sub>)<sub>2</sub>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp67272704">
+<problem id="fs-idp64696208">
+<para id="fs-idp63151248">Isooctano es el nombre común del isómero de C<sub>8</sub>H<sub>18</sub> utilizado como el patrón de 100 para el octanaje de la gasolina:<newline/>
+<media id="fs-idp72048064" class="scaled-down" alt="La estructura molecular que se muestra de los hidrocarburos comprende C H subíndice 3 C H C H subíndice 2 C C H subíndice 3. Hay un grupo C H subíndice 3 enlazado al segundo átomo de C de la cadena (de izquierda a derecha). Hay dos grupos C H subíndice 3 enlazados por encima y por debajo del cuarto átomo de C de la cadena.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_18a_img.jpg"/>
+</media></para>
+<para id="fs-idp72971504">(a) ¿Cuál es el nombre de la IUPAC del compuesto?</para>
+<para id="fs-idp67274192">(b) Designe los otros isómeros que contienen una cadena de cinco carbonos con tres sustituyentes de metilo.</para>
+</problem>
+<solution id="fs-idp63057776">
+<para id="fs-idp49684160">(a) 2,2,4-trimetilpentano; (b) 2,2,3-trimetilpentano, 2,3,4-trimetilpentano y 2,3,3-trimetilpentano:<newline/>
+<media id="fs-idp34730560" class="scaled-down" alt="Se muestran tres estructuras moleculares de hidrocarburos. La primera tiene el C H subíndice 3 enlazado hacia arriba y a la derecha a un átomo de C. El átomo de C está enlazado hacia abajo y a la derecha con el C H. El C H está enlazado hacia arriba y a la derecha con el C H subíndice 2. El C H subíndice 2 está enlazado hacia abajo y a la derecha el C H subíndice 3. El átomo solitario de C está enlazado a dos grupos C H subíndice 3. El C del grupo C H está enlazado a un grupo C H subíndice 3. La segunda estructura muestra C H subíndice 3 enlazado hacia arriba y hacia la derecha al C H que está enlazado hacia abajo y hacia la derecha al C H. El C H está enlazado hacia arriba y hacia la derecha a otro C H que está enlazado hacia abajo y hacia la derecha al C H subíndice 3. El átomo de C inicial está enlazado a un grupo C H subíndice 3. El segundo átomo de C está enlazado a un grupo C H subíndice 3. El tercer átomo de C está enlazado a un grupo C H subíndice 3. La tercera estructura muestra el C H subíndice 3 enlazado hacia arriba y hacia la derecha con el C H que está enlazado hacia abajo y hacia la derecha con el C. El C está enlazado hacia arriba y hacia la derecha con el C H subíndice 2 que está enlazado hacia abajo y hacia la derecha con el C H subíndice 3. El segundo átomo de C está enlazado a un grupo C H subíndice 3. El tercer átomo de C está enlazado a dos grupos C H subíndice 3.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_18b_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<exercise id="fs-idp53700896">
+<problem id="fs-idp71320944">
+<para id="fs-idp15007040">Escriba las estructuras de Lewis y los nombres de la IUPAC para los isómeros alquinos de C<sub>4</sub>H<sub>6</sub>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp51534160"><problem id="fs-idp49695936">
+<para id="fs-idp18569360">Escriba las estructuras de Lewis y los nombres de la IUPAC de todos los isómeros de C<sub>4</sub>H<sub>9</sub>Cl.</para>
+</problem>
+<solution id="fs-idp81610496">
+<media id="fs-idp78726288" alt="Se proporcionan cuatro fórmulas estructurales. La primera tiene una cadena de hidrocarburos con una longitud de cuatro átomos de C. Todos los enlaces son simples. Hay nueve átomos de H unidos y un único átomo de C l unido en el extremo derecho de la estructura que está marcada como 1-clorobutano. La segunda tiene una cadena de hidrocarburos con una longitud de cuatro átomos de C. Todos los enlaces son simples. Hay nueve átomos de H unidos y un único átomo de C l unido por encima del segundo carbono, contando de izquierda a derecha. Esta estructura está marcada como 2-clorobutano. La tercera tiene una cadena de hidrocarburos con una longitud de tres átomos de C. Todos los enlaces son simples. Un único átomo de C l está enlazado por debajo del átomo de C medio y un grupo de C H subíndice 3 también está enlazado por encima del átomo de C del medio. Hay seis átomos de H unidos, y la estructura está marcada como 2-cloro-2-metilpropano. La cuarta estructura tiene una cadena de hidrocarburos con una longitud de tres átomos de C. Todos los enlaces son simples. Debajo del primer átomo de C (de izquierda a derecha) se enlaza un único átomo de C l y encima del átomo de C del medio se enlaza un grupo de C H subíndice 3. Hay seis átomos de H unidos, y la estructura está marcada como 1-cloro-2-metilpropano.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_20_img.jpg"/>
+</media>
+</solution>
+</exercise><exercise id="fs-idp69267152">
+<problem id="fs-idp47737056">
+<para id="fs-idp63883280">Designe y escriba las estructuras de todos los isómeros de los grupos propilo, butilo y alquilo.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp51005312">
+<problem id="fs-idp73196672">
+<para id="fs-idp69104768">Escriba las estructuras de todos los isómeros del grupo alquilo –C<sub>5</sub>H<sub>11</sub>.</para>
+</problem>
+<solution id="fs-idm112967616">
+<para id="fs-idp51737984">A continuación, se muestra la columna vertebral del carbono y el número apropiado de átomos de hidrógeno en forma condensada:<newline/>
+<media id="fs-idp48071648" alt="Se muestran ocho estructuras. La primera comprende C H subíndice 3 enlazado a C H subíndice 2 enlazado a C H subíndice 2 enlazado a C H subíndice 2 enlazado a C H subíndice 2 con un enlace. La segunda muestra el C H subíndice 3 enlazado al C H subíndice 2 enlazado al C H subíndice 2 enlazado al C H subíndice 3. Hay un enlace por encima del cuarto átomo de C (de izquierda a derecha). La tercera muestra el C H subíndice 3 enlazado al C H subíndice 2 enlazado al C H subíndice 2 enlazado al C H subíndice 3. Hay un enlace por encima del tercer átomo de C (de izquierda a derecha). Los cinco ejemplos restantes implican una ramificación. La cuarta estructura muestra el C H subíndice 3 enlazado al C. El segundo átomo de C (de izquierda a derecha) tiene un enlace por encima y un enlace a un átomo de H por debajo. El tercer átomo de C está enlazado a dos grupos C H subíndice 3, así como a un átomo de H. La quinta indica un enlace que conduce a un grupo C H subíndice 2 que está enlazado a un átomo de C. Este átomo de C está enlazado a tres grupos C H subíndice 3. La sexta estructura muestra un enlace y luego C H subíndice 2 enlazado a C H subíndice 2 enlazado a C H. El C H está enlazado a dos grupos C H subíndice 3. La séptima muestra C H subíndice 3 enlazado a C H subíndice 2 enlazado a C con un enlace. El átomo de C también está enlazado a dos grupos C H subíndice 3. La estructura final muestra el C H subíndice 3 enlazado al C H subíndice 2 enlazado al C H. El C H está enlazado a un grupo C H subíndice 2 con un enlace y a un grupo C H subíndice 3.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_21_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp53031744">
+<problem id="fs-idp72788400">
+<para id="fs-idp51004560">Escriba las estructuras de Lewis y describa la geometría molecular en cada átomo de carbono de los siguientes compuestos:</para>
+<para id="fs-idp69608880">(a) <emphasis effect="italics">cis</emphasis>-3-hexeno</para>
+<para id="fs-idp69750928">(b) <emphasis effect="italics">cis</emphasis>-1-cloro-2-bromoeteno</para>
+<para id="fs-idp16523872">(c) 2-pentino</para>
+<para id="fs-idp508512">(d) <emphasis effect="italics">trans</emphasis>-<emphasis effect="italics">6</emphasis>-etil-7-metil-2-octeno</para>
+</problem>
+</exercise>
+<exercise id="fs-idp64361104"><problem id="fs-idp65059824">
+<para id="fs-idp65060080">El benceno es uno de los compuestos que se utilizan como potenciador del octanaje en la gasolina sin plomo. Se fabrica mediante la conversión catalítica del acetileno en benceno:<newline/> <m:math><m:mrow><m:mn>3</m:mn><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub></m:mrow></m:math></para>
+<para id="fs-idm41563024">Dibuje las estructuras de Lewis para estos compuestos, con estructuras de resonancia según corresponda, y determine la hibridación de los átomos de carbono en cada uno.</para>
+</problem>
+<solution id="fs-idp63197888">
+<media id="fs-idp81625744" alt="Se muestran dos fórmulas estructurales. La primera muestra dos átomos de C con un triple enlace entre ellos. En cada extremo de la estructura se enlaza un único átomo de H. La segunda estructura implica un anillo de hidrocarburos de 6 átomos de C con un círculo en el centro. Hay dobles enlaces alternos entre los átomos de C. Cada átomo de C está enlazado a un único átomo de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_ex1_23_img.jpg"/>
+</media>
+<para id="fs-idp77702704">En el acetileno, el enlace utiliza híbridos <emphasis effect="italics">sp</emphasis> en los átomos de carbono y orbitales <emphasis effect="italics">s</emphasis> en los átomos de hidrógeno. En el benceno, los átomos de carbono están hibridados <emphasis effect="italics">sp</emphasis><sup>2</sup>.</para>
+</solution>
+</exercise><exercise id="fs-idp68859968">
+<problem id="fs-idp68860224">
+<para id="fs-idp71606720">El teflón se prepara mediante la polimerización del tetrafluoroetileno. Escriba la ecuación que describe la polimerización mediante los símbolos de Lewis.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp68973952">
+<problem id="fs-idp68974208">
+<para id="fs-idp81683984">Escriba dos ecuaciones completas y balanceadas para cada una de las siguientes reacciones: una con fórmulas condensadas y la otra con estructuras de Lewis.</para>
+<para id="fs-idp67928272">(a) 1 mol de 1-buteno reacciona con 2 mol de yodo.</para>
+<para id="fs-idp72711936">(b) El pentano se quema en el aire.</para>
+</problem>
+<solution id="fs-idp49083504">
+<para id="fs-idp49083760">(a) <m:math><m:mrow><m:mtext>CH</m:mtext><m:mo>≡</m:mo><m:msub><m:mrow><m:mtext>CCH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CHI</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CI</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math><newline/>
+<media id="fs-idp19128832" alt="Se muestra una reacción. A la izquierda, se muestra una cadena de hidrocarburos de cuatro carbonos con un triple enlace entre los átomos de C 1 y 2 que se mueve de izquierda a derecha a través de la molécula. El primer átomo de C está enlazado a un átomo de H. El segundo átomo de C se enlaza al tercer átomo de C. El tercer átomo de C está enlazado a dos átomos de H y a un cuarto átomo de C. El cuarto átomo de C está enlazado a tres átomos de H. Se muestra un signo más seguido de 2 I-I, que le sigue una flecha de reacción, luego una cadena de hidrocarburos de cuatro átomos de C con átomos de I enlazados por encima y por debajo de los átomos de C 1 y 2 de izquierda a derecha. El primer átomo de C está enlazado a un H. El tercer átomo de C está enlazado a dos átomos de H. El cuarto átomo de C está enlazado a tres átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_04_reaction1b_img.jpg"/>
+</media><newline/> (b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>8</m:mn><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>5</m:mn><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>6H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math><newline/>
+<media id="fs-idp68295520" alt="Se muestra una reacción. A la izquierda, se muestra una cadena de hidrocarburos de cinco átomos C con todos los enlaces simples entre átomos de C. Cada átomo de C está enlazado a un átomo de H por encima y por debajo de este. Los dos átomos de C de cada extremo de la cadena tienen un tercer átomo de H enlazado. Se muestra un signo más seguido de 8 O doble enlace O. A la derecha de la flecha de reacción aparece 5 seguido de O doble enlace C doble enlace O más 6 O enlazado a dos átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_20_04_reaction1c_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp49893888">
+<problem id="fs-idp69398176">
+<para id="fs-idp69398432">Escriba dos ecuaciones completas y balanceadas para cada una de las siguientes reacciones: una con fórmulas condensadas y la otra con estructuras de Lewis.</para>
+<para id="fs-idp40102272">(a) El 2-buteno reacciona con el cloro.</para>
+<para id="fs-idp56817632">b) El benceno arde en el aire.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp81497952">
+<problem id="fs-idp81498208">
+<para id="fs-idp80809072">¿Qué masa de 2-bromopropano podría prepararse a partir de 25,5 g de propeno? Suponga un rendimiento del 100 % del producto.</para>
+</problem>
+<solution id="fs-idp68923952">
+<para id="fs-idp48579024">65,2 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idp80653232">
+<problem id="fs-idp71987392">
+<para id="fs-idp71987648">El acetileno es un ácido muy débil; sin embargo, reacciona con el óxido de plata(I) húmedo y forma agua y un compuesto de plata y carbono. La adición de una solución de HCl a una muestra de 0,2352 g del compuesto de plata y carbono produjo acetileno y 0,2822 g de AgCl.</para>
+<para id="fs-idp69631376">(a) ¿Cuál es la fórmula empírica del compuesto de plata y carbono?</para>
+<para id="fs-idp69631760">(b) La producción de acetileno al añadir HCl al compuesto de plata y carbono sugiere que el carbono está presente como ion de acetiluro, <m:math><m:mrow><m:msub><m:mrow><m:mtext>C</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math>. Escriba la fórmula del compuesto que muestra el ion de acetiluro.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp9096944">
+<problem id="fs-idp9097200">
+<para id="fs-idp9097456">El etileno se produce mediante la pirólisis del etano:<newline/> <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>6</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+<para id="fs-idp50322416">¿Cuántos kilogramos de etileno se producen por la pirólisis de 1,000 <m:math><m:mo>×</m:mo></m:math> 10<sup>3</sup> kg de etano, suponiendo un rendimiento del 100,0 %?</para>
+</problem>
+<solution id="fs-idp70540560">
+<para id="fs-idp48758592">9,328 <m:math><m:mo>×</m:mo></m:math> 10<sup>2</sup> kg</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-id1170893631592">
+<term>reacción de adición</term>
+<meaning id="fs-id1170899663089">reacción en la que un doble enlace carbono-carbono forma un enlace simple carbono-carbono por adición de un reactivo. Reacción típica de un alqueno.</meaning>
+</definition>
+<definition id="fs-idp52591280">
+<term>alcano</term>
+<meaning id="fs-idp51687488">molécula formada únicamente por átomos de carbono e hidrógeno, unidos por enlaces simples (σ)</meaning>
+</definition>
+<definition id="fs-idp77685456">
+<term>alqueno</term>
+<meaning id="fs-idp78269072">molécula formada por carbono e hidrógeno que contiene al menos un doble enlace carbono-carbono</meaning>
+</definition>
+<definition id="fs-idp64410384">
+<term>grupo alquilo</term>
+<meaning id="fs-idp64411024">sustituto, que consiste en un alcano al que le falta un átomo de hidrógeno, unido a una estructura mayor</meaning>
+</definition>
+<definition id="fs-idp70106672">
+<term>alquino</term>
+<meaning id="fs-idp46381616">molécula formada por carbono e hidrógeno que contiene al menos un triple enlace carbono-carbono</meaning>
+</definition>
+<definition id="fs-idp73021984">
+<term>hidrocarburo aromático</term>
+<meaning id="fs-idp73022624">molécula cíclica, formada por carbono e hidrógeno con enlaces simples y dobles carbono-carbono deslocalizados, lo que da lugar a una mayor estabilidad</meaning>
+</definition>
+<definition id="fs-idp68092560">
+<term>grupo funcional</term>
+<meaning id="fs-idp68424704">parte de una molécula orgánica que confiere una reactividad química específica a la molécula</meaning>
+</definition>
+<definition id="fs-idp68355136">
+<term>compuesto orgánico</term>
+<meaning id="fs-idp73075280">compuesto natural o sintético que contiene carbono</meaning>
+</definition>
+<definition id="fs-idp73075792">
+<term>hidrocarburo saturado</term>
+<meaning id="fs-idp56814576">molécula que contiene carbono e hidrógeno y que solo tiene enlaces simples entre los átomos de carbono</meaning>
+</definition>
+<definition id="fs-idp39277120">
+<term>estructura esquelética</term>
+<meaning id="fs-idm40987184">método abreviado para dibujar moléculas orgánicas en el que los átomos de carbono están representados por los extremos de las líneas y las curvas entre líneas, y los átomos de hidrógeno unidos a los átomos de carbono no se muestran (pero se entiende que están presentes por el contexto de la estructura)</meaning>
+</definition>
+<definition id="fs-idp68310656">
+<term>sustituto</term>
+<meaning id="fs-idp79626560">rama o grupo funcional que sustituye a los átomos de hidrógeno en una cadena de hidrocarburos mayor</meaning>
+</definition>
+<definition id="fs-idp79627072">
+<term>reacción de sustitución</term>
+<meaning id="fs-idp70042048">reacción en la que un átomo sustituye a otro en una molécula</meaning>
+</definition>
+</glossary>
+</document>

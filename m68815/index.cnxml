@@ -1,0 +1,24 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introducción</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68815</md:content-id>
+  <md:title>Introducción</md:title>
+  <md:abstract><list>
+<item>Espontaneidad</item>
+<item>Entropía</item>
+<item>La segunda y la tercera ley de la termodinámica</item>
+<item>Energía libre</item>
+</list></md:abstract>
+  <md:uuid>87dd32cb-8083-4283-9eb6-c6da06348095</md:uuid>
+</metadata>
+
+<content>
+<figure id="CNX_Chem_16_00_Geyser" class="splash">
+<media id="fs-idp257130400" alt="Una fotografía muestra una vista aérea de edificios, árboles y una amplia zona despejada de vegetación, sobre la que se eleva una columna de vapor.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_16_00_Geyser.jpg"/>
+</media>
+<caption>Los géiseres son una muestra dramática de los principios termodinámicos en la naturaleza. El agua que se encuentra en las profundidades de los canales subterráneos del géiser está sometida a alta presión y se calienta a alta temperatura por el magma. Cuando una bolsa de agua cercana a la superficie alcanza el punto de ebullición y es expulsada, la caída de presión resultante provoca la ebullición repentina de mayores volúmenes de agua, expulsando con fuerza vapor y agua en una erupción impresionante. (crédito: modificación del trabajo del Parque Nacional de Yellowstone).</caption>
+</figure>
+<para id="fs-idp234888272">Entre las muchas capacidades de la química está la de predecir si un proceso se producirá en unas condiciones determinadas. La termodinámica, el estudio de las relaciones entre la energía y el trabajo asociados a los procesos químicos y físicos, proporciona esta capacidad de predicción. En los capítulos anteriores de este texto se han descrito diversas aplicaciones de la termoquímica, un importante aspecto de la termodinámica que se ocupa del flujo de calor que acompaña a las reacciones químicas y a las transiciones de fase. Este capítulo introducirá conceptos termodinámicos adicionales, incluyendo aquellos que permiten la predicción de cualquier cambio químico o físico bajo un conjunto dado de condiciones.</para>
+   </content>
+</document>

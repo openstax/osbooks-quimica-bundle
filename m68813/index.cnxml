@@ -1,0 +1,476 @@
+﻿<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Ácidos y Bases de Lewis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68813</md:content-id>
+  <md:title>Ácidos y Bases de Lewis</md:title>
+  <md:abstract><para>Al final de esta sección, podrá:</para><list><item>Explicar el modelo de Lewis de la química ácido-base</item>
+<item>Escribir ecuaciones para la formación de aductos e iones complejos</item>
+<item>Realizar cálculos de equilibrio con constantes de formación</item></list></md:abstract>
+  <md:uuid>7ef9f54c-741b-4311-bbde-d1024521b771</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp51077712">En 1923, G. N. <term class="no-emphasis">Lewis</term> propuso una definición generalizada del comportamiento ácido-base en la que los ácidos y las bases se identifican por su capacidad de aceptar o donar un par de electrones y formar un enlace covalente de coordinación.</para>
+<para id="fs-idp107912128">Un <term>enlace covalente de coordinación</term> (o enlace dativo) se produce cuando uno de los átomos del enlace aporta los dos electrones de enlace. Por ejemplo, un enlace covalente de coordinación se produce cuando una molécula de agua se combina con un ion de hidrógeno para formar un ion de hidronio. También se produce un enlace covalente de coordinación cuando una molécula de amoníaco se combina con un ion de hidrógeno para formar un ion de amonio. Estas dos ecuaciones se muestran aquí.</para>
+<media id="fs-idm2583104" class="scaled-down" alt="Esta figura muestra dos reacciones representadas con estructuras de Lewis. La primera muestra un átomo de O unido a dos átomos de H. El átomo de O tiene dos pares de electrones solitarios. Hay un signo de suma y luego un átomo de H con un signo positivo en superíndice seguido de una flecha hacia la derecha. La siguiente estructura de Lewis está entre corchetes y muestra un átomo de O unido a tres átomos de H. Hay un par solitario de electrones en el átomo de O. Fuera de los corchetes hay un signo positivo en superíndice. La segunda reacción muestra un átomo de N unido a tres átomos de H. El átomo de N tiene un par solitario de electrones. Hay un signo de suma y luego un átomo de H con un signo positivo en superíndice. Después del átomo de H con signo positivo en superíndice, hay una flecha hacia la derecha. La siguiente estructura de Lewis está entre corchetes. Muestra un átomo de N unido a cuatro átomos de H. Hay un signo positivo en superíndice fuera de los corchetes.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_03_hydronium_img.jpg"/>
+</media>
+<para id="fs-idp133241888">Las reacciones que implican la formación de enlaces covalentes de coordinación se clasifican como <term>Teoría ácido-base de Lewis</term>. La especie que dona el par de electrones que compone el enlace es una <term>base de Lewis</term>, la especie que acepta el par de electrones es un <term>ácido de Lewis</term>, y el producto de la reacción es un <term>aducto ácido-base de Lewis</term>. Como ilustran los dos ejemplos anteriores, las reacciones ácido-base de Brønsted-Lowry representan una subcategoría de las reacciones de ácido de Lewis, concretamente, aquellas en las que la especie ácida es H<sup>+</sup>. A continuación se describen algunos ejemplos en los que intervienen otros ácidos y bases de Lewis.</para>
+<para id="fs-idm91313680">El átomo de boro del trifluoruro de boro, BF<sub>3</sub>, solo tiene seis electrones en su capa de valencia. Al ser corto del octeto preferido, el BF<sub>3</sub> es un muy buen ácido de Lewis y reacciona con muchas bases de Lewis; un ion de fluoruro es la base de Lewis en esta reacción, donando uno de sus pares solitarios:</para>
+<media id="fs-idp160186064" class="scaled-down" alt="Esta figura ilustra una reacción química utilizando fórmulas estructurales. A la izquierda, un átomo de F está rodeado por cuatro pares de puntos de electrones y tiene un símbolo negativo en superíndice. Esta estructura está etiquetada abajo como &quot;base de Lewis&quot;. Tras el signo de suma hay otra estructura que tiene un átomo de B en el centro unido a tres átomos de F con enlaces simples por encima, por la derecha y por debajo. Cada átomo de F tiene tres pares de puntos de electrones. Esta estructura está etiquetada abajo como &quot;ácido de Lewis&quot;. Tras una flecha que apunta a la derecha hay una estructura entre corchetes que tiene un átomo B central al que se conectan 4 átomos de F con enlaces simples por encima, por debajo, a la izquierda y a la derecha. Cada átomo de F en esta estructura tiene tres pares de puntos de electrones. Fuera de los corchetes hay un símbolo negativo en superíndice. Esta estructura está etiquetada abajo como &quot;Aducto ácido-base&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_BF3-LA_img.jpg"/>
+</media>
+<para id="fs-idp34388288">En la siguiente reacción, cada una de las dos moléculas de amoníaco, bases de Lewis, dona un par de electrones a un ion de plata, el ácido de Lewis:</para>
+<media id="fs-idp134365040" class="scaled-down" alt="Esta figura ilustra una reacción química utilizando fórmulas estructurales. En el lado izquierdo, un 2 precede a un átomo de N que tiene enlaces simples con átomos de H por encima, a la izquierda y por debajo. Un único par de puntos de electrones se encuentra en el lado derecho del átomo de N. Esta estructura está marcada a continuación como &quot;base de Lewis&quot;. Después de un signo de suma hay un átomo A g que tiene un símbolo más en superíndice. Tras la flecha que apunta a la derecha hay una estructura entre corchetes que tiene un átomo central A g al que los átomos de N están conectados con enlaces simples a la izquierda y a la derecha. Cada uno de estos átomos de N tiene enlaces simples con átomos de H por encima, por debajo y por fuera de la estructura. Fuera de los corchetes hay un signo positivo en superíndice. Esta estructura está marcada a continuación como &quot;Aducto ácido-base&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_NH3-LBase_img.jpg"/>
+</media>
+<para id="fs-idm82519616">Los óxidos no metálicos actúan como ácidos de Lewis y reaccionan con iones de óxido, bases de Lewis, para formar oxianiones:</para>
+<media id="fs-idm21887312" class="scaled-down" alt="Esta figura ilustra una reacción química utilizando fórmulas estructurales. A la izquierda, un átomo de O está rodeado por cuatro pares de puntos de electrones y tiene un superíndice 2 signo negativo. Esta estructura está marcada a continuación como &quot;Base de Lewis&quot;. Tras el signo de suma hay otra estructura que tiene un átomo de S en el centro. Este átomo tiene enlaces simples con átomos de O por encima y por debajo. Estos átomos de O tienen tres pares de puntos de electrones cada uno. A la derecha del átomo de S hay un doble enlace con un átomo de O que tiene dos pares de puntos de electrones. Esta estructura está marcada a continuación como &quot;Ácido de Lewis&quot;. Tras la flecha que apunta a la derecha hay una estructura entre corchetes que tiene un átomo de S central al que se conectan 4 átomos de O con enlaces simples por encima, por debajo, a la izquierda y a la derecha. Cada uno de los átomos de O tiene tres pares de puntos de electrones. Fuera de los corchetes hay un superíndice 2 signo negativo. Esta estructura está marcada a continuación como &quot;Aducto ácido-base&quot;.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_NonmetalOx_img.jpg"/>
+</media>
+<para id="fs-idm48299344">Muchas reacciones ácido-base de Lewis son reacciones de desplazamiento en las que una base de Lewis desplaza a otra base de Lewis de un aducto ácido-base, o en las que un ácido de Lewis desplaza a otro ácido de Lewis:</para>
+<media id="fs-idp125718384" alt="Dos reacciones químicas en dos filas utilizando fórmulas estructurales. La primera fila, a la izquierda, entre corchetes, es una estructura con un átomo central A g al que tiene enlaces simples con átomos N a la izquierda y a la derecha. Cada átomo de N tiene enlaces simples con átomos de H por encima, por debajo y por fuera. Fuera de los corchetes hay un signo positivo en superíndice. Esta estructura está etiquetada como &quot;Aducto ácido-base&quot;. Tras el signo de suma hay un 2 y otra estructura entre paréntesis que muestra un átomo de C que tiene un triple enlace con un átomo de N. El átomo de C tiene un par de electrones no compartido en su lado izquierdo y el átomo de N tiene un par no compartido en su lado derecho. Fuera de los corchetes a la derecha hay un símbolo negativo en superíndice. Esta estructura está etiquetada como &quot;Base&quot;. Tras la flecha que apunta a la derecha hay una estructura entre corchetes con un átomo central de A g al que se conectan 4 átomos de FC con enlaces simples a la izquierda y a la derecha. En cada uno de los dos extremos, los átomos de N tienen triples enlaces con los átomos de C. Los átomos de N tienen cada uno un par de electrones no compartidos al extremo de la estructura. Fuera de los corchetes hay un símbolo negativo en superíndice. Esta estructura está etiquetada como &quot;Nuevo aducto&quot;. Tras el signo de suma hay un átomo de N que tiene enlaces simples con átomos de H por encima, a la izquierda y por debajo. Un único par de puntos de electrones está en el lado izquierdo del átomo de N. Esta estructura está etiquetada como &quot;Nueva base&quot;. En la segunda fila, a la izquierda, entre corchetes, hay una estructura con un átomo de C central. Los átomos de O, cada uno con tres pares de electrones no compartidos, tienen un enlace simple arriba y abajo y un tercer átomo de O, con dos pares de electrones no compartidos, tiene un doble enlace a la derecha. Fuera de los corchetes hay un superíndice 2 signo negativo. Esta estructura está marcada como &quot;Aducto ácido-base&quot;. Tras el signo de suma hay otra estructura con un átomo de S en el centro. Este átomo tiene enlaces simples con átomos de O por encima y por debajo. Estos átomos de O tienen tres pares de puntos de electrones cada uno. A la derecha del átomo de S hay un doble enlace con un átomo de O que tiene dos pares de puntos de electrones. Esta estructura está etiquetada como &quot;Ácido&quot;. Tras la flecha que apunta a la derecha hay una estructura entre corchetes con un átomo de S central que tiene enlaces simples con 4 átomos de O por encima, por debajo, a la izquierda y a la derecha. Cada uno de los átomos de O tiene tres pares de puntos de electrones. Fuera de los corchetes hay un superíndice 2 signo negativo. Esta estructura está marcada como &quot;Nuevo aducto&quot;. A continuación del signo de suma hay una estructura con un átomo de C central que tiene dobles enlaces a la izquierda y a la derecha con dos átomos de O, cada uno con dos pares de electrones no compartidos.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Displace_img.jpg"/>
+</media>
+<para id="fs-idm28146992">Otro tipo de Teoría ácido-base de Lewis consiste en la formación de un ion complejo (o un complejo de coordinación) que consta de un átomo central, normalmente un catión de metal de transición, rodeado de iones o moléculas denominados <term>ligandos</term>. Estos ligandos pueden ser moléculas neutras como H<sub>2</sub>O o NH<sub>3</sub>, o iones como CN<sup>–</sup> u OH<sup>–</sup>. A menudo, los ligandos actúan como bases de Lewis, donando un par de electrones al átomo central. Estos tipos de reacciones ácido-base de Lewis son ejemplos de una amplia subdisciplina denominada <emphasis effect="italics">química de coordinación</emphasis>, tema de otro capítulo de este texto.</para><para id="fs-idm50768752">La constante de equilibrio para la reacción de un ion metálico con uno o más ligandos para formar un complejo de coordinación se denomina <term>constante de formación (<emphasis effect="italics">K</emphasis><sub>f</sub>)</term> (a veces llamada constante de estabilidad). Por ejemplo, el ion complejo <m:math><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<media id="fs-idm22905296" alt="Un átomo de Cu tiene enlaces simples con dos átomos de C. Cada uno de estos átomos de C tiene triples enlaces con un átomo de N. Cada átomo de N tiene dos puntos a su lado.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_CuCN2-_img.jpg"/>
+</media>
+<para id="fs-idm21686128">se produce mediante la reacción</para>
+<equation id="fs-idm51220672" class="unnumbered"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp27469600">La constante de formación para esta reacción es</para>
+<equation id="fs-idm86529488" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mn>+</m:mn></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow><m:msup><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mrow><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-idm80631152">De manera alternativa, se puede considerar la reacción inversa (descomposición del ion complejo), en cuyo caso la constante de equilibrio es una <term>constante de disociación (<emphasis effect="italics">K</emphasis><sub>d</sub>)</term>. Según la relación entre las constantes de equilibrio para las reacciones recíprocas descritas, la constante de disociación es la inversa matemática de la constante de formación, <emphasis effect="italics">K<sub>d</sub></emphasis> = K<sub>f</sub><sup>–1</sup>. En el <link document="m68869">Apéndice K</link> se presenta una tabulación de las constantes de formación.</para>
+<para id="fs-idp9510016">Como ejemplo de disolución por formación de iones complejos, consideremos lo que ocurre cuando añadimos amoníaco acuoso a una mezcla de cloruro de plata y agua. El cloruro de plata se disuelve ligeramente en el agua, dando una pequeña concentración de Ag<sup>+</sup> ([Ag<sup>+</sup>] = 1,3 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup> <emphasis effect="italics">M</emphasis>):</para>
+<equation id="fs-idm70908128" class="unnumbered"><m:math><m:mrow><m:mtext>AgCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⇌</m:mo><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<para id="fs-idp127318800">Sin embargo, si el NH<sub>3</sub> está presente en el agua, el ion complejo, <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> puede formarse según la ecuación:</para>
+<equation id="fs-idm30882864" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:msup>
+<m:mrow>
+<m:mtext>Ag</m:mtext>
+</m:mrow>
+<m:mtext>+</m:mtext>
+</m:msup>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">⇌</m:mo>
+<m:mtext>Ag</m:mtext>
+<m:msub>
+<m:mrow>
+<m:mo stretchy="false">(</m:mo>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">).</m:mo>
+</m:mrow>
+<m:mn>2 </m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mtext>+</m:mtext>
+</m:msup>
+<m:mo stretchy="false">(</m:mo>
+<m:mi>a</m:mi>
+<m:mi>q</m:mi>
+<m:mo stretchy="false">)</m:mo>
+</m:mrow>
+</m:math>
+</equation>
+<para id="fs-idp22810368">con</para>
+<equation id="fs-idp57055872" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:msub>
+<m:mi>K</m:mi>
+<m:mtext>f</m:mtext>
+</m:msub>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mo stretchy="false">[</m:mo>
+<m:mtext>Ag</m:mtext>
+<m:msub>
+<m:mrow>
+<m:mo stretchy="false">(</m:mo>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">).</m:mo>
+</m:mrow>
+<m:mn>2 </m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mn>+</m:mn>
+</m:msup>
+<m:mo stretchy="false">]</m:mo>
+</m:mrow>
+<m:mrow>
+<m:mo stretchy="false">[</m:mo>
+<m:msup>
+<m:mrow>
+<m:mtext>Ag</m:mtext>
+</m:mrow>
+<m:mn>+</m:mn>
+</m:msup>
+<m:mo stretchy="false">]</m:mo>
+<m:msup>
+<m:mrow>
+<m:mo stretchy="false">[</m:mo>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">]</m:mo>
+</m:mrow>
+<m:mn>2 </m:mn>
+</m:msup>
+</m:mrow>
+</m:mfrac>
+<m:mspace width="0.2em"/>
+<m:mo>=</m:mo>
+<m:mn>1,7</m:mn>
+<m:mspace width="0.2em"/>
+<m:mo>×</m:mo>
+<m:mspace width="0.2em"/>
+<m:msup>
+<m:mrow>
+<m:mn>10</m:mn>
+</m:mrow>
+<m:mn>7</m:mn>
+</m:msup>
+</m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm16226016">
+El gran tamaño de esta constante de formación indica que la mayoría de los iones de plata libres producidos por la disolución de AgCl se combinan con NH <sub>3</sub> para formar <m:math>
+<m:mrow>
+<m:mtext>Ag</m:mtext>
+<m:msub>
+<m:mrow>
+<m:mo stretchy="false">(</m:mo>
+<m:msub>
+<m:mrow>
+<m:mtext>NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:mo stretchy="false">).</m:mo>
+</m:mrow>
+<m:mn>2 </m:mn>
+</m:msub>
+<m:msup>
+<m:mrow/>
+<m:mn>+</m:mn>
+</m:msup>
+<m:mo>.</m:mo>
+</m:mrow>
+</m:math> En consecuencia, la concentración de iones de plata, [Ag <sup>+</sup>], se reduce, y el cociente de reacción para la disolución del cloruro de plata, [Ag <sup>+</sup>][Cl <sup>-</sup>], cae por debajo del producto de solubilidad del AgCl:
+</para>
+<equation id="fs-idm26618656" class="unnumbered">
+<m:math>
+<m:mrow>
+<m:mi>Q</m:mi>
+<m:mspace width="0.2em"/>
+<m:mo>=</m:mo>
+<m:mspace width="0.2em"/>
+<m:mrow>
+<m:mo stretchy="false">[</m:mo>
+<m:mrow>
+<m:msup>
+<m:mrow>
+<m:mtext>Ag</m:mtext>
+</m:mrow>
+<m:mn>+</m:mn>
+</m:msup>
+</m:mrow>
+<m:mo stretchy="false">]</m:mo>
+</m:mrow>
+<m:mrow>
+<m:mo>[</m:mo>
+<m:mrow>
+<m:msup>
+<m:mrow>
+<m:mtext>Cl</m:mtext>
+</m:mrow>
+<m:mtext>-</m:mtext>
+</m:msup>
+</m:mrow>
+<m:mo>]</m:mo>
+</m:mrow>
+<m:mspace width="0.2em"/>
+<m:mo>&lt;</m:mo>
+<m:mspace width="0.2em"/>
+<m:msub>
+<m:mi>K</m:mi>
+<m:mrow>
+<m:mtext>sp</m:mtext>
+</m:mrow>
+</m:msub>
+</m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm68296832">Entonces se disuelve más cloruro de plata. Si la concentración de amoníaco es lo suficientemente grande, todo el cloruro de plata se disuelve.</para>
+<example id="fs-idm87668752">
+<para id="fs-idm7205936">
+<title>Disociación de un ion complejo</title>
+Calcule la concentración del ion de plata en una solución que inicialmente es de 0,10 <emphasis effect="italics">M</emphasis> con respecto a <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idm75540624"><title>Solución</title>
+Aplicando el enfoque estándar ICE a esta reacción se obtiene lo siguiente:</para>
+<media id="fs-idm24529056" alt="Esta tabla tiene dos columnas principales y cuatro filas. La primera fila de la primera columna no tiene encabezamiento y luego contiene lo siguiente en la primera columna: Concentración inicial ( M ), Cambio ( M ) y Concentración en equilibrio ( M ). La segunda columna tiene el encabezado, &quot;A g superíndice signo positivo más 2 N H subíndice 3 signo de equilibrio A g ( N H subíndice 3 ) subíndice 2 superíndice signo positivo&quot;. Bajo la segunda columna hay un subgrupo de tres filas y tres columnas. La primera columna contiene: 0, positivo x, x. La segunda columna contiene: 0, 2 x positivo, 2 x. La tercera columna contiene 0,10, x negativo y 0,10 menos x.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_ICETable1_img.jpg"/>
+</media>
+<para id="fs-idp9002560">Sustituyendo estos términos de concentración de equilibrio en la expresión <emphasis effect="italics">K</emphasis><sub>f</sub> se obtiene</para>
+<equation id="fs-idp2484016" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mn>+</m:mn></m:msup><m:mo stretchy="false">]</m:mo><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<equation id="fs-idp40680272" class="unnumbered">Los términos <m:math><m:mrow><m:mn>1,7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>=</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>0,10</m:mn><m:mo>-</m:mo><m:mi>x</m:mi></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">).</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2 </m:mn><m:mi>x</m:mi><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation><para id="fs-idm192455888">La constante de equilibrio muy grande significa que la cantidad del ion complejo que se disociará, <emphasis effect="italics">x</emphasis>, será muy pequeña. Suponiendo que <emphasis effect="italics">x</emphasis> &lt;&lt; 0,1 permite simplificar la ecuación anterior:</para>
+<equation id="fs-idp73621072" class="unnumbered"><m:math><m:mrow><m:mn>1,7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>0,10</m:mn></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">).</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2 </m:mn><m:mi>x</m:mi><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></equation><equation id="fs-idm73139120" class="unnumbered">Los términos <m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>0,10</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mn>1,7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup><m:mo stretchy="false">).</m:mo></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>1,5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math></equation><equation id="fs-idm46937952" class="unnumbered">Los términos <m:math><m:mrow><m:mi>x</m:mi><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mroot><m:mrow><m:mn>1,5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow><m:mn>3</m:mn></m:mroot><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>1,1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>–</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow></m:math></equation><para id="fs-idm16239152">Porque solo el 1,1% de los <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup></m:mrow></m:math> se disocia en Ag<sup>+</sup> y NH<sub>3</sub>, la suposición de que el valor de <emphasis effect="italics">x</emphasis> es pequeño está justificada.</para><para id="fs-idp135771888">El uso de este valor de <emphasis effect="italics">x</emphasis> y las relaciones de la tabla ICE anterior permiten calcular las concentraciones de equilibrio de todas las especies:</para>
+<equation id="fs-idp47227680" class="unnumbered"><m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mn>+</m:mn></m:msup><m:mo stretchy="false">]</m:mo><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mn>0</m:mn><m:mo>+</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1,1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>–</m:mo><m:mn>3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation><equation id="fs-idm85370448" class="unnumbered">Los términos <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>+</m:mo><m:mn>2 </m:mn><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2,2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>–</m:mo><m:mn>3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mi>M</m:mi></m:mrow></m:math></equation><equation id="fs-idp15145408" class="unnumbered">Los términos <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:mn>0,10</m:mn><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0,10</m:mn><m:mo>-</m:mo><m:mn>0,0011</m:mn><m:mo>=</m:mo><m:mn>0,099</m:mn></m:mrow></m:math></equation><para id="fs-idm88908448">La concentración de ion de plata libre en la solución es de 0,0011 <emphasis effect="italics">M</emphasis>.</para>
+<para id="fs-idp125455664"><title>Compruebe su aprendizaje</title>
+Calcule la concentración de iones de plata, [Ag<sup>+</sup>], de una solución preparada disolviendo 1,00 g de AgNO<sub>3</sub> y 10,0 g de KCN en agua suficiente para hacer 1,00 L de solución. (Pista: Dado que <emphasis effect="italics">K</emphasis><sub>f</sub> es muy grande, suponga que la reacción llega a completarse y calcule la concentración de [Ag<sup>+</sup>] producida por la disociación del complejo).</para>
+<note id="fs-idp119941104"><title>Respuesta:</title>
+<para id="fs-idm70030480">2,9 <m:math><m:mo>×</m:mo></m:math> 10<sup>–22</sup> <emphasis effect="italics">M</emphasis></para></note>
+</example>
+<section id="fs-idp45945376" class="summary">
+<title>Conceptos clave y resumen</title>
+<para id="fs-idm14023472">Un ácido de Lewis es una especie que puede aceptar un par de electrones, mientras que una base de Lewis tiene un par de electrones disponible para ser donado a un ácido de Lewis. Los iones complejos son ejemplos de aductos ácido-base de Lewis y están compuestos por átomos o iones metálicos centrales que actúan como ácidos de Lewis unidos a moléculas o iones llamados ligandos que actúan como bases de Lewis. La constante de equilibrio para la reacción entre un ion metálico y los ligandos produce un ion complejo que se llama constante de formación; para la reacción inversa, se llama constante de disociación.</para>
+</section>
+<section id="fs-idp110000448" class="exercises">
+<title>Ejercicios de fin de capítulo de Química</title>
+<exercise id="fs-idm212489824">
+<problem id="fs-idm220716944">
+<para id="fs-idm188551216">Aunque el Ca(OH)<sub>2</sub> es una base barata, su solubilidad limitada restringe su uso. ¿Cuál es el pH de una solución saturada de Ca(OH)<sub>2</sub>?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp46388832">
+<problem id="fs-idm72588944">
+<para id="fs-idm2808944">¿En qué circunstancias, si las hay, se disuelve completamente una muestra de AgCl sólido en agua pura?</para>
+</problem>
+<solution id="fs-idm49259568">
+<para id="fs-idm85421440">cuando la cantidad de sólido es tan pequeña que no se produce una solución saturada</para>
+</solution>
+</exercise>
+<exercise id="fs-idm65484352">
+<problem id="fs-idp38665072">
+<para id="fs-idm68167024">Explique por qué la adición de NH<sub>3</sub> o HNO<sub>3</sub> a una solución saturada de Ag<sub>2</sub>CO<sub>3</sub> en contacto con el Ag<sub>2</sub>CO<sub>3</sub> sólido aumenta la solubilidad del sólido.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm55438304">
+<problem id="fs-idm65845264">
+<para id="fs-idm6072880">Calcule la concentración de iones de cadmio, [Cd<sup>2+</sup>], en una solución preparada mezclando 0,100 L de 0,0100 <emphasis effect="italics">M</emphasis> Cd(NO<sub>3</sub>)<sub>2</sub> con 0,150 L de 0,100 de NH<sub>3</sub>(<emphasis effect="italics">aq</emphasis>).</para></problem>
+<solution id="fs-idm93189648">
+<para id="fs-idm73920192">1,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup> <emphasis effect="italics">M</emphasis></para></solution>
+</exercise>
+<exercise id="fs-idm98555648">
+<problem id="fs-idp62094880">
+<para id="fs-idm21823296">Explique por qué la adición de NH<sub>3</sub> o HNO<sub>3</sub> a una solución saturada de Cu(OH)<sub>2</sub> en contacto con el Cu(OH)<sub>2</sub> sólido aumenta la solubilidad de este.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm72577424">
+<problem id="fs-idm51563936">
+<para id="fs-idp10055184">A veces, los equilibrios de los iones complejos se describen en términos de constantes de disociación, <emphasis effect="italics">K</emphasis><sub>d</sub>. Para el ion complejo <m:math><m:mrow><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup></m:mrow></m:math> la reacción de disociación es:</para>
+<para id="fs-idm68646192"><m:math><m:mrow><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">⇌</m:mo><m:msup><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mtext>F</m:mtext><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> y <m:math><m:mrow><m:msub><m:mi>K</m:mi><m:mtext>d</m:mtext></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo stretchy="false">]</m:mo><m:msup><m:mrow><m:mo stretchy="false">[</m:mo><m:msup><m:mtext>F</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo stretchy="false">]</m:mo></m:mrow><m:mn>6</m:mn></m:msup></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>24</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+<para id="fs-idp111955968">Calcule el valor de la constante de formación, <emphasis effect="italics">K</emphasis><sub>f</sub>, para <m:math><m:mrow><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mtext>6</m:mtext></m:msub><m:msup><m:mrow/><m:mtext>3−</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp49919888">
+<para id="fs-idp112133280">5 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup></para>
+</solution>
+</exercise>
+<exercise id="fs-idm50986272">
+<problem id="fs-idm24862320">
+<para id="fs-idm71133504">Utilizando el valor de la constante de formación del ion complejo <m:math><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2+</m:mtext></m:mrow></m:msup><m:mo>,</m:mo></m:mrow></m:math> calcule la constante de disociación.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp18623376">
+<problem id="fs-idm18189136">
+<para id="fs-idm101068320">Utilizando la constante de disociación, <emphasis effect="italics">K</emphasis><sub>d</sub> = 7,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>–18</sup>, calcule las concentraciones de equilibrio de Cd<sup>2+</sup> y CN<sup>–</sup> en una solución 0,250-<emphasis effect="italics">M</emphasis> de <m:math><m:mrow><m:mtext>Cd</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idp16533104">
+<para id="fs-idm262777264"><media id="fs-idm100408784" alt="Esta tabla tiene dos columnas principales y tres filas. La primera fila de la primera columna no tiene encabezamiento y luego contiene lo siguiente en la primera columna: Concentración inicial ( M ) y Equilibrio ( M ). La segunda columna tiene el encabezado, &quot;[ C d ( C N ) subíndice 4 a la segunda potencia superíndice signo negativo ] [ C N superíndice signo negativo ] [ C d a la segunda potencia superíndice signo positivo ]&quot;. Bajo la segunda columna hay un subgrupo de dos filas y tres columnas. La primera columna contiene lo siguiente: 0,250 y 0,250 menos x. La segunda columna contiene lo siguiente: 0 y 4 x. La tercera columna contiene lo siguiente: 0 y x.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_ICETable3_img.jpg"/>
+</media><newline/> [Cd<sup>2+</sup>] = 9,5 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup> <emphasis effect="italics">M</emphasis>; [CN<sup>–</sup>] = 3,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>–4</sup> <emphasis effect="italics">M</emphasis></para></solution>
+</exercise>
+<exercise id="fs-idm19606400">
+<problem id="fs-idm87841616">
+<para id="fs-idp57024384">Utilizando la constante de disociación, <emphasis effect="italics">K</emphasis><sub>d</sub> = 3,4 <m:math><m:mo>×</m:mo></m:math> 10<sup>–15</sup>, calcule las concentraciones de equilibrio de Zn<sup>2+</sup> y OH<sup>–</sup> en una solución de 0,0465-<emphasis effect="italics">M</emphasis> de <m:math><m:mrow><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm47233344">
+<problem id="fs-idp148370512">
+<para id="fs-idm73182032">Utilizando la constante de disociación, <emphasis effect="italics">K</emphasis><sub>d</sub> = 2,2 <m:math><m:mo>×</m:mo></m:math> 10<sup>–34</sup>, calcule las concentraciones de equilibrio de Co<sup>3+</sup> y NH<sub>3</sub> en una solución de 0,500-<emphasis effect="italics">M</emphasis> de <m:math><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3+</m:mtext></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm25437184">
+<para id="fs-idm47971424">[Co<sup>3+</sup>] = 3,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>–6</sup> <emphasis effect="italics">M</emphasis>; [NH<sub>3</sub>] = 1,8 <m:math><m:mo>×</m:mo></m:math> 10<sup>–5</sup> <emphasis effect="italics">M</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-idp18044656">
+<problem id="fs-idm44656832">
+<para id="fs-idm58110448">Utilizando la constante de disociación, <emphasis effect="italics">K</emphasis><sub>d</sub> = 1 <m:math><m:mo>×</m:mo></m:math> 10<sup>–44</sup>, calcule las concentraciones de equilibrio de Fe<sup>3+</sup> y CN<sup>–</sup> en una solución 0,333 M de <m:math><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idm73346208">
+<problem id="fs-idp50220640">
+<para id="fs-idm70882624">Calcule la masa de ion de cianuro de potasio que debe añadirse a 100 mL de solución para disolver 2,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>–2</sup> mol de cianuro de plata, AgCN.</para>
+</problem>
+<solution id="fs-idp50302192">
+<para id="fs-idm73037856">1,3 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idm65404096">
+<problem id="fs-idm82523536">
+<para id="fs-idm24986176">Calcule la concentración mínima de amoníaco necesaria en 1,0 L de solución para disolver 3,0 <m:math><m:mo>×</m:mo></m:math> 10<sup>–3</sup> mol de bromuro de plata.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm77437136">
+<problem id="fs-idm84914528">
+<para id="fs-idm48772160">Un rollo de película fotográfica de 35 mm en blanco y negro contiene unos 0,27 g de AgBr sin exponer antes del revelado. ¿Qué masa de Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>·5H<sub>2</sub>O (tiosulfato de sodio pentahidratado o hipo) en 1,0 L de revelador se necesita para disolver el AgBr como <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>3−</m:mtext></m:mrow></m:msup></m:mrow></m:math> (<emphasis effect="italics">K</emphasis><sub>f</sub> = 4,7 <m:math><m:mo>×</m:mo></m:math> 10<sup>13</sup>)?</para>
+</problem>
+<solution id="fs-idm91729088">
+<para id="fs-idp15978880">0,79 g</para></solution>
+</exercise>
+<exercise id="fs-idp28555376">
+<problem id="fs-idm25419968">
+<para id="fs-idm2622992">Hemos visto una definición introductoria de un ácido: Un ácido es un compuesto que reacciona con el agua y aumenta la cantidad de iones de hidronio presentes. En el capítulo sobre ácidos y bases, vimos dos definiciones más de ácidos: un compuesto que dona un protón (un ion de hidrógeno, H<sup>+</sup>) a otro compuesto se llama ácido de Brønsted-Lowry, y un ácido de Lewis es cualquier especie que puede aceptar un par de electrones. Explique por qué la definición introductoria es una definición macroscópica, mientras que la definición de Brønsted-Lowry y la definición de Lewis son definiciones microscópicas.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm105219776">
+<problem id="fs-idm45644976">
+<para id="fs-idp24853424">Escriba las estructuras de Lewis de los reactivos y del producto de cada una de las siguientes ecuaciones, e identifique el ácido de Lewis y la base de Lewis en cada una de ellas:</para>
+<para id="fs-idm84825872">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm45435856">(b) <m:math><m:mrow><m:mtext>B</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>B</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp131461312">(c) <m:math><m:mrow><m:msup><m:mtext>I</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo>+</m:mo><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>I</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm81484240">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>AlCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>AlCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> (utilice enlaces simples de Al-Cl)</para>
+<para id="fs-idm46864416">(e) <m:math><m:mrow><m:msup><m:mtext>O</m:mtext><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm24311696">
+<para id="fs-idm48324368">(a)<newline/>
+<media id="fs-idp8394208" alt="Esta figura muestra una reacción química modelada con fórmulas estructurales. En el lado izquierdo hay una estructura con un átomo de C central. Los átomos de O, cada uno con dos pares de electrones no compartidos, tienen dobles enlaces a los lados izquierdo y derecho del átomo de C. A continuación del signo de suma hay otra estructura entre corchetes que tiene un átomo de O con tres pares de puntos de electrones no compartidos y un enlace simple con un átomo de H a la derecha. Fuera de los corchetes está el signo negativo en superíndice. Tras la flecha que apunta a la derecha hay una estructura entre corchetes que tiene un átomo de C central al que se unen 3 átomos de O. Por encima y un poco a la derecha, uno de los átomos de O está conectado con un doble enlace. Este átomo de O tiene dos pares de electrones no compartidos. El segundo átomo de O tiene un enlace simple por debajo y un poco a la derecha. Este átomo de O tiene tres pares de electrones no compartidos. El tercer átomo de O está unido a la izquierda del átomo de C. Este átomo de O tiene dos pares de electrones no compartidos y un átomo de H con enlace simple a su izquierda. Fuera de los corchetes a la derecha hay un símbolo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18a_img.jpg"/>
+</media><newline/> (b)<newline/>
+<media id="fs-idm88262064" alt="Esta figura muestra una reacción química modelada con fórmulas estructurales. En el lado izquierdo hay una estructura que tiene un átomo de B central al que se unen 3 átomos de O. Los átomos de O situados por encima y por debajo del átomo de B tienen cada uno un enlace simple con un átomo de H a la derecha. El tercer átomo de O tiene un enlace simple con el lado izquierdo del átomo de B. Este átomo de O tiene un enlace simple con un átomo de H a su lado izquierdo. Todos los átomos de O de esta estructura tienen dos pares de electrones no compartidos. Tras el signo más hay otra estructura que tiene un átomo de O con un enlace simple con un átomo de H a su derecha. El átomo de O tiene tres pares de electrones no compartidos. La estructura aparece entre corchetes con un superíndice de signo negativo. Siguiendo una flecha que apunta a la derecha hay una estructura entre corchetes que tiene un átomo de B central al que se unen 4 átomos O. Los átomos de O por encima, por debajo y a la derecha del átomo de B tienen cada uno un enlace simple con un átomo de H a la derecha. El tercer átomo de O tiene un enlace simple con el lado izquierdo del átomo de B. Este átomo de O tiene un enlace simple con un átomo de H a su lado izquierdo. Todos los átomos de O de esta estructura tienen dos pares de electrones no compartidos. Fuera de los corchetes a la derecha hay un símbolo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18b_img.jpg"/>
+</media><newline/> (c)<newline/>
+<media id="fs-idp130807344" alt="Esta figura ilustra una reacción química utilizando fórmulas estructurales. A la izquierda, dos átomos de I, cada uno con 3 pares de electrones no compartidos, están unidos con un enlace simple. Tras el signo de suma hay otra estructura que tiene un átomo de I con cuatro pares de puntos de electrones y un superíndice de signo negativo. Tras una flecha que apunta a la derecha hay una estructura entre paréntesis que tiene tres átomos de I conectados en una línea con enlaces simples. Los dos átomos I de los extremos tienen tres pares de electrones no compartidos y el átomo I del centro tiene dos pares de electrones no compartidos. Fuera de los corchetes hay un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18c_img.jpg"/>
+</media><newline/> (d)<newline/>
+<media id="fs-idm24823408" alt="Esta figura ilustra una reacción química utilizando fórmulas estructurales. A la izquierda, un átomo de A l está situado en el centro de una estructura y tiene enlaces simples con tres átomos de Cl por encima, por la izquierda y por debajo. Cada átomo de C l tiene tres pares de puntos de electrones. Tras el signo de suma hay otra estructura que tiene un átomo de F rodeado por cuatro pares de puntos de electrones y un símbolo negativo en superíndice. Tras la flecha que apunta a la derecha hay una estructura entre corchetes que tiene un átomo central de A l con enlaces simples con 4 átomos de C l por encima, por debajo, a la izquierda y a la derecha. Cada átomo de C l en esta estructura tiene tres pares de puntos de electrones. Fuera de los corchetes hay un símbolo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18d_img.jpg"/>
+</media><newline/> (e)<newline/>
+<media id="fs-idm53758640" alt="Esta figura ilustra una reacción química utilizando fórmulas estructurales. A la izquierda hay una estructura que tiene un átomo de S en el centro. Este átomo tiene enlaces simples con átomos de O por encima y por debajo. Estos átomos de O tienen tres pares de puntos de electrones cada uno. A la derecha del átomo de S hay un doble enlace con un átomo de O que tiene dos pares de puntos de electrones. Tras el signo de suma hay un átomo de O que está rodeado por cuatro pares de puntos de electrones y tiene un superíndice 2 signo negativo. Tras la flecha que apunta a la derecha hay una estructura entre corchetes que tiene un átomo de S central al que se conectan 4 átomos de O con enlaces simples por encima, por debajo, a la izquierda y a la derecha. Cada uno de los átomos de O tiene tres pares de puntos de electrones. Fuera de los corchetes hay un superíndice 2 signo negativo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer18e_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp56004352">
+<problem id="fs-idm11309040">
+<para id="fs-idm77542368">Escriba las estructuras de Lewis de los reactivos y del producto de cada una de las siguientes ecuaciones, e identifique el ácido de Lewis y la base de Lewis en cada una de ellas:</para>
+<para id="fs-idm91791744">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>CS</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>SH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>HCS</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp119951776">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mtext>F</m:mtext><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm80113600">(c) <m:math><m:mrow><m:msup><m:mtext>I</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SnI</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>SnI</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp24904336">(d) <m:math><m:mrow><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Al</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm90012656">(e) <m:math><m:mrow><m:msup><m:mtext>F</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>OFS</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-idp26968080">
+<problem id="fs-idm51663840">
+<para id="fs-idm28745184">Utilizando las estructuras de Lewis, escriba ecuaciones balanceadas para las siguientes reacciones:</para>
+<para id="fs-idp107921152">(a) <m:math><m:mrow><m:mtext>HCl</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>PH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/></m:mrow></m:math></para>
+<para id="fs-idp137635328">(b) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/></m:mrow></m:math></para>
+<para id="fs-idp119859776">(c) <m:math><m:mrow><m:mtext>CaO</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/></m:mrow></m:math></para>
+<para id="fs-idm45460912">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/></m:mrow></m:math></para>
+</problem>
+<solution id="fs-idm2175696">
+<para id="fs-idm45427936">(a)<newline/>
+<media id="fs-idm45893936" alt="Esta figura representa una reacción química en dos filas. La fila superior muestra la reacción utilizando fórmulas químicas. La segunda fila utiliza fórmulas estructurales para representar la reacción. La primera fila contiene la ecuación H C l ( g ) más P H subíndice 3 ( g ) flecha que apunta a la derecha corchete izquierdo P H subíndice 4 corchete derecho superíndice signo positivo más corchete izquierdo C l con 4 pares de puntos de electrones corchete derecho superíndice signo negativo. La segunda fila comienza a la izquierda con H corchete izquierdo C l con cuatro pares de electrones no compartidos paréntesis derecho más una estructura entre corchetes con un átomo de P central que tiene enlaces simples con átomos H a la izquierda, arriba y a la derecha. Un único par de electrones no compartido está en el átomo central P. Fuera de los corchetes, a la derecha, hay un signo positivo en superíndice. Tras la flecha que apunta a la derecha hay una estructura entre corchetes con un átomo central de P que tiene enlaces simples con átomos de H a la izquierda, arriba, abajo y a la derecha. Fuera de los corchetes hay un signo positivo en superíndice. Esta estructura va seguida de un átomo de C l entre corchetes con cuatro pares de electrones no compartidos y un signo negativo en superíndice.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer24a_img.jpg"/>
+</media><newline/> (b) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math><newline/>
+<media id="fs-idm2136944" alt="Esta figura representa una reacción química utilizando fórmulas estructurales. A la izquierda se muestra entre corchetes una estructura compuesta por un átomo de O central con un par de electrones no compartidos y tiene enlaces simples con tres átomos de H a la izquierda, a la derecha y por encima del átomo. Fuera de los corchetes, a la derecha, hay un signo positivo en superíndice. Tras el signo de suma, hay otra estructura entre paréntesis compuesta por un átomo de C central con un par de electrones no compartidos y enlaces simples con tres átomos de H a la izquierda, a la derecha y por encima del átomo. Fuera de los corchetes a la derecha hay un signo negativo en superíndice. Siguiendo una flecha que apunta a la derecha se encuentra una estructura con un átomo de C central que tiene enlaces simples con átomos de H por encima, por debajo, a la izquierda y a la derecha. Tras el signo de suma hay una estructura con un átomo de O central con dos pares de electrones no compartidos que tiene enlaces simples con átomos de H.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer24b_img.jpg"/>
+</media><newline/> (c) <m:math><m:mrow><m:mtext>CaO</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>CaSO</m:mtext><m:mn>4</m:mn></m:mrow></m:math><newline/>
+<media id="fs-idp64857056" alt="Esta figura representa una reacción química utilizando fórmulas estructurales. A la izquierda, C a superíndice 2 signo positivo está justo a la izquierda del corchete O con cuatro pares de electrones no compartidos corchete derecho superíndice 2 signo negativo más una estructura con un átomo central de S que tiene enlaces simples con dos átomos de O a la izquierda y a la derecha, y un doble enlace con único átomo de O arriba. Los dos átomos de O con enlace simple tienen cada uno tres pares de electrones no compartidos y el átomo de O con doble enlace tiene dos pares de electrones no compartidos. Tras una flecha que apunta a la derecha se encuentra C a superíndice 2 signo positivo justo a la izquierda de una estructura entre corchetes con un átomo central de S que tiene enlaces simples con 4 átomos de O a la izquierda, arriba, abajo y a la derecha. Cada uno de los átomos de O tiene tres pares de electrones no compartidos. Fuera de los corchetes a la derecha hay un superíndice dos signo negativo.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer24c_img.jpg"/>
+</media><newline/> (d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mtext>-</m:mtext></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:mtext>OH</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math><newline/>
+<media id="fs-idp57321968" alt="Esta figura representa una reacción química utilizando fórmulas estructurales. A la izquierda se muestra entre corchetes una estructura compuesta por un átomo de N central que tiene enlaces simples con cuatro átomos de H a la izquierda, a la derecha, por encima y por debajo del átomo. Fuera de los corchetes, a la derecha, hay un signo positivo en superíndice. Tras el signo de suma, hay otra estructura entre corchetes compuesta por un átomo de C que tiene enlaces simples con tres átomos de H por encima, por debajo y a la izquierda. Un segundo átomo de C tiene un enlace simple a la derecha. Este átomo de C tiene enlaces simples con átomos de H por encima y por debajo. A la derecha del segundo átomo de C, hay un enlace simple con un átomo de O. Este átomo de O tiene tres pares de electrones no compartidos. Fuera de los corchetes a la derecha hay un superíndice negativo. Siguiendo una flecha que apunta a la derecha hay una estructura compuesta por un átomo de C que tiene enlaces simples con tres átomos de H por encima, por debajo y a la izquierda. Un segundo átomo de C tiene un enlace simple a la derecha. Este átomo de C tiene enlaces simples con átomos de H por encima y por debajo. A la derecha del segundo átomo de C, hay un enlace simple con un átomo de O. Este átomo de O tiene dos pares de electrones no compartidos y un enlace simple con un átomo de H a su derecha.">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_15_02_Answer24d_img.jpg"/>
+</media></para></solution>
+</exercise>
+<exercise id="fs-idp26835744">
+<problem id="fs-idm27390400">
+<para id="fs-idm2667904">Calcule <m:math><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mtext>HgCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math> en una solución preparada añadiendo 0,0200 mol de NaCl a 0,250 L de una solución 0,100-<emphasis effect="italics">M</emphasis> de HgCl<sub>2</sub>.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm44455728">
+<problem id="fs-idm44455472">
+<para id="fs-idm82529888">En una titulación del ion de cianuro, se añaden 28,72 mL de 0,0100 <emphasis effect="italics">M</emphasis> de AgNO<sub>3</sub> antes de que comience la precipitación [La reacción de Ag<sup>+</sup> con CN<sup>–</sup> llega a completarse, produciendo el complejo <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math>]. La precipitación de AgCN sólido tiene lugar cuando se añade un exceso de Ag<sup>+</sup> a la solución, por encima de la cantidad necesaria para completar la formación de <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math> ¿Cuántos gramos de NaCN había en la muestra original?</para>
+</problem>
+<solution id="fs-idp27818848">
+<para id="fs-idp27819104">0,0281 g</para>
+</solution>
+</exercise>
+<exercise id="fs-idm23888576">
+<problem id="fs-idm72627264">
+<para id="fs-idm72627008">¿Cuáles son las concentraciones de Ag<sup>+</sup>, CN<sup>–</sup> y <m:math><m:mrow><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> en una solución saturada de AgCN?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm47551360">
+<problem id="fs-idp137786432">
+<para id="fs-idp137786688">En solución acuosa diluida, el HF actúa como un ácido débil. Sin embargo, el HF líquido puro (punto de ebullición = 19,5 °C) es un ácido fuerte. En el HF líquido, el HNO<sub>3</sub> actúa como una base y acepta protones. La acidez del HF líquido puede aumentarse añadiendo uno de los diversos fluoruros inorgánicos que son ácidos de Lewis y aceptan el ion de F<sup>–</sup> (por ejemplo, BF<sub>3</sub> o SbF<sub>5</sub>). Escriba ecuaciones químicas balanceadas para la reacción del HNO<sub>3</sub> puro con el HF puro y del HF puro con el BF<sub>3</sub>.</para>
+</problem>
+<solution id="fs-idm87512000">
+<para id="fs-idm87511744"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HNO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mtext>F</m:mtext><m:mtext>-</m:mtext></m:msup><m:mo>;</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mtext>HF</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>g</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>H</m:mtext><m:mn>+</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>BF</m:mtext></m:mrow><m:mn>4</m:mn></m:msub></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-idp127234208">
+<problem id="fs-idm89680752">
+<para id="fs-idm89680496">El aminoácido más simple es la glicina, H<sub>2</sub>NCH<sub>2</sub>CO<sub>2</sub>H. La característica común de los aminoácidos es que contienen los grupos funcionales: un grupo amina, –NH<sub>2</sub>, y un grupo ácido carboxílico, –CO<sub>2</sub>H. Un aminoácido puede funcionar como ácido o como base. En el caso de la glicina, la fuerza ácida del grupo carboxilo es aproximadamente la misma que la del ácido acético, CH<sub>3</sub>CO<sub>2</sub>H, y la fuerza básica del grupo amino es ligeramente mayor que la del amoníaco, NH<sub>3</sub>.</para>
+<para id="fs-idp137523328">(a) Escriba las estructuras de Lewis de los iones que se forman cuando la glicina se disuelve en 1 <emphasis effect="italics">M</emphasis> de y en 1 <emphasis effect="italics">M</emphasis> de KOH.</para>
+<para id="fs-idp125358752">(b) Escriba la estructura de Lewis de la glicina cuando este aminoácido se disuelve en agua. (Pista: Considere la fuerza relativa de las bases del –NH<sub>2</sub> y los grupos <m:math><m:mrow><m:mo>-</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math>).</para>
+</problem>
+</exercise>
+<exercise id="fs-idm16601024">
+<problem id="fs-idm16600768">
+<para id="fs-idm1806144">El ácido bórico, H<sub>3</sub>BO<sub>3</sub>, no es un ácido de Brønsted-Lowry sino un ácido de Lewis.</para>
+<para id="fs-idp9486544">(a) Escriba una ecuación para su reacción con el agua.</para>
+<para id="fs-idp9486928">(b) Prediga la forma del anión formado de esta manera.</para>
+<para id="fs-idm86424864">(c) ¿Cuál es la hibridación en el boro consistente con la forma que ha predicho?</para>
+</problem>
+<solution id="fs-idm18233040">
+<para id="fs-idm18232784">(a) <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>BO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>4</m:mn></m:msub><m:msub><m:mrow><m:mtext>BO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mtext>H</m:mtext><m:mn>+</m:mn></m:msup><m:mo>;</m:mo></m:mrow></m:math> (b) Las formas electrónicas y moleculares son las mismas, ambas tetraédricas. (c) La estructura tetraédrica es consistente con la hibridación <emphasis effect="italics">sp</emphasis><sup>3</sup>.</para>
+</solution>
+</exercise>
+</section>
+   </content>
+<glossary>
+<definition id="fs-idm90510160"><term>ion complejo</term><meaning id="fs-idm90509776">ion formado por un átomo central que rodea moléculas o iones llamados ligandos mediante enlaces covalentes coordinados</meaning></definition>
+<definition id="fs-idp1460096"><term>enlace covalente de coordinación</term><meaning id="fs-idp143749120">(también, enlace dativo) enlace covalente en el que ambos electrones proceden del mismo átomo</meaning></definition>
+<definition id="fs-idm25500528"><term>constante de disociación</term><meaning id="fs-idm58234112">(<emphasis effect="bold"><emphasis effect="italics">K</emphasis><sub>d</sub></emphasis>) constante de equilibrio para la descomposición de un ion complejo en sus componentes</meaning></definition>
+<definition id="fs-idp120133664"><term>constante de formación</term><meaning id="fs-idp120134048">(<emphasis effect="bold"><emphasis effect="italics">K</emphasis><sub>f</sub></emphasis>) (también, constante de estabilidad) constante de equilibrio para la formación de un ion complejo a partir de sus componentes</meaning></definition>
+<definition id="fs-idp11302544"><term>ácido de Lewis</term><meaning id="fs-idp11302928">cualquier especie que pueda aceptar un par de electrones y formar un enlace covalente de coordinación</meaning></definition>
+<definition id="fs-idm26641568"><term>aducto ácido-base de Lewis</term><meaning id="fs-idm26641184">compuesto o ion que contiene un enlace covalente de coordinación entre un ácido de Lewis y una base de Lewis</meaning></definition>
+<definition id="fs-idm465112896"><term>teoría ácido-base de Lewis</term><meaning id="fs-idm101700960a">reacciones que implican la formación de enlaces covalentes de coordinación</meaning></definition>
+<definition id="fs-idp29842512"><term>base de Lewis</term><meaning id="fs-idm101700960">cualquier especie que pueda donar un par de electrones y formar un enlace covalente de coordinación</meaning></definition>
+<definition id="fs-idm101700576"><term>ligando</term><meaning id="fs-idp77291984">molécula o ion que actúa como base de Lewis en la formación de iones complejos; se une al átomo central del complejo</meaning></definition>
+</glossary>
+</document>
