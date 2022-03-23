@@ -1,0 +1,18 @@
+<col:collection 
+  xmlns:col="http://cnx.rice.edu/collxml"
+  xmlns:md="http://cnx.rice.edu/mdml"
+  xmlns:sys="http://cnx.rice.edu/system-info"
+  xmlns="http://cnx.rice.edu/collxml">
+
+  <col:metadata>
+    <md:uuid>9702782f-fd50-4310-92ac-d29d39065419</md:uuid>
+    <md:title>Química: Comenzando con los átomos 2ed</md:title>
+    <md:slug>química-comenzando-átomos-2ed</md:slug>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:content-id>col00010</md:content-id>
+    <md:language>es</md:language>
+  </col:metadata>
+  <col:content>
+
+  </col:content>
+</col:collection>
