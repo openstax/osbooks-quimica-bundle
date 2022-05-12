@@ -1,4 +1,4 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-   <book slug="química-2ed" href="../collections/química-2ed.collection.xml" />
-   <book slug="química-comenzando-átomos-2ed" href="../collections/química-comenzando-átomos-2ed.collection.xml" />
+   <book slug="química-2ed" href="../collections/química-2ed.collection.xml" style="chemistry"/>
+   <book slug="química-comenzando-átomos-2ed" href="../collections/química-comenzando-átomos-2ed.collection.xml" style="chemistry"/>
 </container>
