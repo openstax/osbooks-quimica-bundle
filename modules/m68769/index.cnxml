@@ -34,25 +34,25 @@
 <media id="fs-idm142599808" alt="Fotografía que muestra un paquete con un cohete en lanzamiento en la parte delantera y un bloque de sólido a rayas rosas, blancas y marrones en un envoltorio al lado.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_FreezeDry.jpg"/>
 </media>
-<caption>Los alimentos liofilizados, como este helado, se deshidratan por sublimación a presiones inferiores al punto triple del agua. (Crédito: ʺlwaoʺ/Flickr).</caption>
+<caption>Los alimentos liofilizados, como este helado, se deshidratan por sublimación a presiones inferiores al punto triple del agua (créditos: ʺlwaoʺ/Flickr).</caption>
 </figure>
 <para id="fs-idm92413200">La curva sólido-líquido marcada como BD muestra las temperaturas y presiones a las que el hielo y el agua líquida están en equilibrio, representando los puntos de fusión/congelación del agua. Observe que esta curva presenta una ligera pendiente negativa (muy exagerada para mayor claridad), lo que indica que el punto de fusión del agua disminuye ligeramente al aumentar la presión. El agua es una sustancia inusual en este sentido, ya que la mayoría de las sustancias presentan un aumento del punto de fusión al aumentar la presión. Este comportamiento es en parte responsable del movimiento de los glaciares, como el que se muestra en la <link target-id="CNX_Chem_10_04_IceMelt"/>. El fondo de un glaciar experimenta una inmensa presión debido a su peso que puede fundir parte del hielo, formando una capa de agua líquida sobre la que el glaciar puede deslizarse más fácilmente.</para>
 <figure id="CNX_Chem_10_04_IceMelt" class="scaled-down">
 <media id="fs-idp19576624" alt="Fotografía que muestra una vista aérea de una masa de tierra. La masa blanca de un glaciar se muestra cerca del cuadrante superior izquierdo de la foto y conduce a dos ríos azules ramificados. El terreno abierto se muestra en color marrón.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_IceMelt.jpg"/>
 </media>
-<caption>Las inmensas presiones existentes bajo los glaciares dan lugar a una fusión parcial que produce una capa de agua que proporciona lubricación para ayudar al movimiento de los glaciares. Fotografía de satélite que muestra el avance del glaciar Perito Moreno en Argentina. (Crédito: NASA).</caption>
+<caption>Las inmensas presiones existentes bajo los glaciares dan lugar a una fusión parcial que produce una capa de agua que proporciona lubricación para ayudar al movimiento de los glaciares. Fotografía de satélite que muestra el avance del glaciar Perito Moreno en Argentina (créditos: NASA).</caption>
 </figure>
 <para id="fs-idm105744432">El punto de intersección de las tres curvas está marcado como B en la <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>. A la presión y temperatura representadas por este punto, las tres fases del agua coexisten en equilibrio. Este par de datos temperatura-presión se denomina <term id="term-00002">punto triple</term>. A presiones inferiores al punto triple, el agua no puede existir como líquido, independientemente de la temperatura.</para>
 <example id="fs-idm211145632">
 <para id="fs-idm84608528"><title>Determinación del estado del agua</title>
 Utilizando el diagrama de fases del agua dado en la <link target-id="CNX_Chem_10_04_H2OPhasDi2"/>, determine el estado del agua a las siguientes temperaturas y presiones:</para>
 <para id="fs-idm168463184">(a) −10 °C y 50 kPa</para>
-<para id="fs-idm57178832">b) 25 °C y 90 kPa</para>
-<para id="fs-idm183935200">c) 50 °C y 40 kPa</para>
-<para id="fs-idm82705648">d) 80 °C y 5 kPa</para>
-<para id="fs-idp30582544">e) −10 °C y 0,3 kPa</para>
-<para id="fs-idm113072192">f) 50 °C y 0,3 kPa</para>
+<para id="fs-idm57178832">(b) 25 °C y 90 kPa</para>
+<para id="fs-idm183935200">(c) 50 °C y 40 kPa</para>
+<para id="fs-idm82705648">(d) 80 °C y 5 kPa</para>
+<para id="fs-idp30582544">(e) −10 °C y 0,3 kPa</para>
+<para id="fs-idm113072192">(f) 50 °C y 0,3 kPa</para>
 <para id="fs-idm114532848"><title>Solución</title>
 Utilizando el diagrama de fases del agua, podemos determinar que el estado del agua a cada temperatura y presión dadas son las siguientes: (a) sólido; (b) líquido; (c) líquido; (d) gas; (e) sólido; (f) gas.</para>
 <para id="fs-idm37551344"><title>Compruebe lo aprendido</title>
@@ -63,18 +63,18 @@ Utilizando el diagrama de fases del agua, podemos determinar que el estado del a
 </note>
 </example>
 <para id="fs-idm71881152">Consideremos el diagrama de fases del dióxido de carbono que se muestra en la <link target-id="CNX_Chem_10_04_CO2phasdi"/> como otro ejemplo. La curva sólido-líquido presenta una pendiente positiva, lo que indica que el punto de fusión del CO<sub>2</sub> aumenta con la presión, al igual que ocurre con la mayoría de las sustancias (el agua es una notable excepción, como se ha descrito anteriormente). Observe que el punto triple está muy por encima de 1 atm, lo que indica que el dióxido de carbono no puede existir como líquido en condiciones de presión ambiente. En cambio, el enfriamiento del dióxido de carbono gaseoso a 1 atm provoca su deposición en estado sólido. Asimismo, el dióxido de carbono sólido no se funde a 1 atm de presión, sino que se sublima para dar lugar a CO<sub>2</sub> gaseoso. Por último, observe que el punto crítico del dióxido de carbono se observa a una temperatura y presión relativamente modestas en comparación con el agua.</para>
-<figure id="CNX_Chem_10_04_CO2phasdi" class="scaled-down"><media id="fs-idm185557312" alt="Se muestra un gráfico donde el eje de la x está marcado como &quot;Temperatura ( signo de grado, C )&quot; y tiene valores de 100 negativos a 100 en incrementos de 25, mientras que el eje de la y está marcado como &quot;Presión ( k P a )&quot; y tiene valores de 10 a 1.000.000. Una línea se extiende desde la parte inferior izquierda del gráfico hacia arriba hasta un punto alrededor de &quot;27, 9000&quot;, donde termina. El espacio bajo esta curva está marcado como &quot;Gas&quot;. Una segunda línea se extiende en una curva desde el punto alrededor de &quot;-55, 500&quot; hasta &quot;27, 1.000.000&quot;. El área a la izquierda de esta línea y por encima de la primera línea está marcada como &quot;Sólido&quot; mientras que el área a la derecha está marcada como &quot;Líquido&quot;. Una sección del gráfico bajo la segunda línea y pasado el punto &quot;28&quot; en el eje x está marcada como &quot;S C F&quot;.">
+<figure id="CNX_Chem_10_04_CO2phasdi" class="scaled-down"><media id="fs-idm185557312" alt="Se muestra un gráfico donde el eje de la x está marcado como &quot;Temperatura ( signo de grado, C )&quot; y tiene valores de 100 negativos a 100 en incrementos de 25, mientras que el eje de la y está marcado como &quot;Presión ( k P a )&quot; y tiene valores de 10 a 1.000.000. Una línea se extiende desde la parte inferior izquierda del gráfico hacia arriba hasta un punto alrededor de &quot;27, 9.000&quot;, donde termina. El espacio bajo esta curva está marcado como &quot;Gas&quot;. Una segunda línea se extiende en una curva desde el punto alrededor de &quot;-55, 500&quot; hasta &quot;27, 1.000.000&quot;. El área a la izquierda de esta línea y por encima de la primera línea está marcada como &quot;Sólido&quot; mientras que el área a la derecha está marcada como &quot;Líquido&quot;. Una sección del gráfico bajo la segunda línea y pasado el punto &quot;28&quot; en el eje x está marcada como &quot;S C F&quot;.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_CO2PhasDi.jpg"/>
 </media>
 
 <caption>Se muestra un diagrama de fases para el dióxido de carbono. El eje de la presión se traza en una escala logarítmica para adaptarse al amplio rango de valores.</caption></figure><example id="fs-idm81431296">
 <para id="fs-idm184169664"><title>Determinación del estado del dióxido de carbono</title>
 Utilizando el diagrama de fases del dióxido de carbono que se muestra en la <link target-id="CNX_Chem_10_04_CO2phasdi"/>, determine el estado del CO<sub>2</sub> a las siguientes temperaturas y presiones:</para>
-<para id="fs-idm52543376">(a) −30 °C y 2000 kPa</para>
-<para id="fs-idm152653552">(b) −90 °C y 1000 kPa</para><para id="fs-idm133410832">c) −60 °C y 100 kPa</para>
-<para id="fs-idm19013760">d) −40 °C y 1500 kPa</para>
-<para id="fs-idm202256048">e) 0 °C y 100 kPa</para>
-<para id="fs-idm25749152">f) 20 °C y 100 kPa</para>
+<para id="fs-idm52543376">(a) −30 °C y 2.000 kPa</para>
+<para id="fs-idm152653552">(b) −90 °C y 1.000 kPa</para><para id="fs-idm133410832">(c) −60 °C y 100 kPa</para>
+<para id="fs-idm19013760">(d) −40 °C y 1500 kPa</para>
+<para id="fs-idm202256048">(e) 0 °C y 100 kPa</para>
+<para id="fs-idm25749152">(f) 20 °C y 100 kPa</para>
 <para id="fs-idm215910416"><title>Solución</title>
 Utilizando el diagrama de fases para el dióxido de carbono proporcionado, podemos determinar que el estado del CO<sub>2</sub> a cada temperatura y presión dadas son las siguientes: (a) líquido; (b) sólido; (c) gas; (d) líquido; (e) gas; (f) gas.</para>
 <para id="fs-idm66941424"><title>Compruebe lo aprendido</title>
@@ -143,7 +143,7 @@ Identifique los cambios de fase que sufrirá el dióxido de carbono al aumentar 
 <media id="fs-idm115619344" alt="Se muestran cuatro fotografías en las que cada una muestra un contenedor circular con un flotador verde y rojo en cada uno. En el diagrama de la izquierda, el recipiente está medio lleno de un líquido incoloro y los flotadores están en la superficie del líquido. En la segunda foto, el flotador verde está cerca de la parte superior y el flotador rojo se encuentra cerca del fondo del recipiente. En la tercera foto, el líquido es más oscuro y el flotador verde se encuentra a mitad de camino en el recipiente, mientras que el rojo está en el fondo. En la foto de la derecha, el líquido vuelve a ser incoloro y los dos flotadores están en la superficie.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_CritFluid.jpg"/>
 </media>
-<caption>(a) Se calienta un recipiente sellado de dióxido de carbono líquido ligeramente por debajo de su punto crítico, lo que da lugar a (b) la formación de la fase fluida supercrítica. El enfriamiento del fluido supercrítico reduce su temperatura y presión por debajo del punto crítico, lo que da lugar al restablecimiento de las fases líquida y gaseosa separadas (c y d). Los flotadores de colores ilustran las diferencias de densidad entre los estados líquido, gaseoso y supercrítico de los fluidos. (Crédito: modificación del trabajo de "mrmrobin»/YouTube).</caption>
+<caption>(a) Se calienta un recipiente sellado de dióxido de carbono líquido ligeramente por debajo de su punto crítico, lo que da lugar a (b) la formación de la fase fluida supercrítica. El enfriamiento del fluido supercrítico reduce su temperatura y presión por debajo del punto crítico, lo que da lugar al restablecimiento de las fases líquida y gaseosa separadas (c y d). Los flotadores de colores ilustran las diferencias de densidad entre los estados líquido, gaseoso y supercrítico de los fluidos (créditos: modificación del trabajo de “mrmrobin”/YouTube).</caption>
 </figure>
 <note id="fs-idm96917712" class="chemistry link-to-learning">
 <para id="fs-idm81770576">Observe la <link url="http://openstax.org/l/16supercrit">transición de líquido a fluido supercrítico</link> en el dióxido de carbono.</para>
@@ -183,10 +183,10 @@ El amoníaco puede licuarse por compresión a temperatura ambiente; el oxígeno 
 <para id="fs-idm39432752">A partir del diagrama de fases del agua (<link target-id="CNX_Chem_10_04_H2OPhasDi2"/>), determine el estado del agua en:</para>
 <para id="fs-idm134552448">(a) 35 °C y 85 kPa</para>
 <para id="fs-idm163033728">(b) −15 °C y 40 kPa</para>
-<para id="fs-idm172957072">c) −15 °C y 0,1 kPa</para>
-<para id="fs-idm231411984">d) 75 °C y 3 kPa</para>
-<para id="fs-idm66774336">e) 40 °C y 0,1 kPa</para>
-<para id="fs-idm185057600">f) 60 °C y 50 kPa</para>
+<para id="fs-idm172957072">(c) −15 °C y 0,1 kPa</para>
+<para id="fs-idm231411984">(d) 75 °C y 3 kPa</para>
+<para id="fs-idm66774336">(e) 40 °C y 0,1 kPa</para>
+<para id="fs-idm185057600">(f) 60 °C y 50 kPa</para>
 </problem>
 </exercise>
 <exercise id="fs-idm163161056">
@@ -205,19 +205,19 @@ El amoníaco puede licuarse por compresión a temperatura ambiente; el oxígeno 
 <exercise id="fs-idm79316176">
 <problem id="fs-idm134044560">
 <para id="fs-idm45352704">A partir del diagrama de fases del dióxido de carbono en la <link target-id="CNX_Chem_10_04_CO2phasdi"/>, determine el estado del CO<sub>2</sub> en:</para>
-<para id="fs-idp25830864">(a) 20 °C y 1000 kPa</para>
-<para id="fs-idm157071424">(b) 10 °C y 2000 kPa</para>
-<para id="fs-idm132072448">c) 10 °C y 100 kPa</para>
-<para id="fs-idp4587376">d) −40 °C y 500 kPa</para>
+<para id="fs-idp25830864">(a) 20 °C y 1.000 kPa</para>
+<para id="fs-idm157071424">(b) 10 °C y 2.000 kPa</para>
+<para id="fs-idm132072448">(c) 10 °C y 100 kPa</para>
+<para id="fs-idp4587376">(d) −40 °C y 500 kPa</para>
 <para id="fs-idm130055632">(e) −80 °C y 1500 kPa</para>
-<para id="fs-idp19689536">f) −80 °C y 10 kPa</para>
+<para id="fs-idp19689536">(f) −80 °C y 10 kPa</para>
 </problem>
 <solution id="fs-idm57541872">
 <para id="fs-idm300012672">(a) gas; (b) gas; (c) gas; (d) gas; (e) sólido; (f) gas</para></solution>
 </exercise>
 <exercise id="fs-idm31738208">
 <problem id="fs-idm156362256">
-<para id="fs-idm134708944">Determine los cambios de fase que experimenta el dióxido de carbono al aumentar la presión a una temperatura constante de (a) −50 °C y (b) 50 °C. ¿Si la temperatura se mantiene a −40 °C? ¿A 20 °C? (Véase el diagrama de fases en la <link target-id="CNX_Chem_10_04_CO2phasdi"/>.)</para>
+<para id="fs-idm134708944">Determine los cambios de fase que experimenta el dióxido de carbono al aumentar la presión a una temperatura constante de (a) −50 °C y (b) 50 °C. ¿Si la temperatura se mantiene a −40 °C? ¿A 20 °C? (consulte el diagrama de fases en la <link target-id="CNX_Chem_10_04_CO2phasdi"/>.)</para>
 </problem>
 </exercise>
 <exercise id="fs-idm184592816">
@@ -251,28 +251,28 @@ El amoníaco puede licuarse por compresión a temperatura ambiente; el oxígeno 
 </exercise>
 <exercise id="fs-idm135170880">
 <problem id="fs-idp7466256">
-<para id="fs-idm59313520">El carbono elemental tiene una fase gaseosa, una fase líquida y dos fases sólidas diferentes, como se muestra en el diagrama de fases:</para><media id="fs-idm159452496" class="scaled-down" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha.">
+<para id="fs-idm59313520">El carbono elemental tiene una fase gaseosa, una fase líquida y dos fases sólidas diferentes, como se muestra en el diagrama de fases:</para><media id="fs-idm159452496" class="scaled-down" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2.000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_CPhaseDi_img.jpg"/>
 </media>
 <para id="fs-idm196192784">(a) En el diagrama de fases, rotule las regiones de gas y líquido.</para>
 <para id="fs-idm229105216">(b) El grafito es la fase más estable del carbono en condiciones normales. En el diagrama de fases, rotule la fase de grafito.</para>
 <para id="fs-idm195445328">(c) Si el grafito en condiciones normales se calienta a 2500 K mientras se aumenta la presión a 10<sup>10</sup> Pa, se convierte en diamante. Etiquete la fase de diamante.</para>
 <para id="fs-idm202684832">(d) Encierre en un círculo cada punto triple del diagrama de fases.</para>
-<para id="fs-idm96211488">(e) ¿En qué fase existe el carbono a 5000 K y 10<sup>8</sup> Pa?</para>
-<para id="fs-idm61578832">f) Si la temperatura de una muestra de carbono aumenta de 3000 K a 5000 K a una presión constante de 10<sup>6</sup> Pa, ¿qué transición de fase se produce, si se produce?</para>
+<para id="fs-idm96211488">(e) ¿En qué fase existe el carbono a 5.000 K y 10<sup>8</sup> Pa?</para>
+<para id="fs-idm61578832">(f) Si la temperatura de una muestra de carbono aumenta de 3.000 K a 5.000 K a una presión constante de 10<sup>6</sup> Pa, ¿qué transición de fase se produce, si se produce?</para>
 </problem>
 <solution id="fs-idm278692800">
 <para id="fs-idm88428112">(a)<newline/>
-<media id="fs-idm121487888" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. Los dos cuadrantes de la derecha están marcados como &quot;Agua ( líquido )&quot; y &quot;Vapor de agua ( gas )&quot;.">
+<media id="fs-idm121487888" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2.000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. Los dos cuadrantes de la derecha están marcados como &quot;Agua ( líquido )&quot; y &quot;Vapor de agua ( gas )&quot;.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_Exercise10a_img.jpg"/>
 </media><newline/> (b)<newline/>
-<media id="fs-idm69191024" class="scaled-down-30" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. El cuadrante de la izquierda está marcado como &quot;Grafito&quot;.">
+<media id="fs-idm69191024" class="scaled-down-30" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2.000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. El cuadrante de la izquierda está marcado como &quot;Grafito&quot;.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_Exercise10b_img.jpg"/>
 </media><newline/> (c)<newline/>
-<media id="fs-idm81439280" class="scaled-down-30" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. El cuadrante superior está marcado como &quot;Diamante&quot;.">
+<media id="fs-idm81439280" class="scaled-down-30" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2.000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. El cuadrante superior está marcado como &quot;Diamante&quot;.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_Exercise10c_img.jpg"/>
 </media><newline/> (d)<newline/>
-<media id="fs-idm209382816" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. Los cuatro cuadrantes están marcados como &quot;Diamante&quot; en la parte superior, &quot;Grafito&quot;, a la izquierda, &quot;agua ( líquido )&quot; en la parte superior derecha, y &quot;vapor de agua ( gas )&quot;, en la parte inferior derecha. Hay un círculo rojo donde se cruzan las líneas de líquido, gas y grafito.">
+<media id="fs-idm209382816" alt="Esta figura muestra un eje x marcado como &quot;Temperatura ( K )&quot; y un eje y marcado como &quot;Presión ( P a )&quot;. El eje x está marcado en incrementos de 2.000 a partir de 0. El eje y está marcado en el 0, el 10 elevado a la 7, el 10 elevado a la 9 y el 10 elevado a la 11. Hay una línea con una ligera pendiente negativa que pasa por el eje x a unos 3800. A partir de esta línea hay una línea que se curva hacia arriba y luego hacia abajo a la izquierda para pasar por el eje y a las diez a las 9. Hay otra línea que va hacia arriba y hacia la derecha. Los cuatro cuadrantes están marcados como &quot;Diamante&quot; en la parte superior, &quot;Grafito&quot;, a la izquierda, &quot;agua ( líquido )&quot; en la parte superior derecha, y &quot;vapor de agua ( gas )&quot;, en la parte inferior derecha. Hay un círculo rojo donde se cruzan las líneas de líquido, gas y grafito.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_10_04_Exercise10d_img.jpg"/>
 </media><newline/> (e) fase líquida (f) sublimación</para></solution>
 </exercise>

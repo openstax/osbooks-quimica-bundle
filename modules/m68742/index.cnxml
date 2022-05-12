@@ -3,8 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68742</md:content-id>
   <md:title>Estructura molecular y polaridad</md:title>
-  <md:abstract><para id="para-00001">Al final de esta sección podrá:</para><list id="list-00001">
-<item>Predecir las estructuras de pequeñas moléculas utilizando la teoría de repulsión de pares de electrones de la capa de valencia (VSEPR).</item>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para><list id="list-00001">
+<item>Predecir las estructuras de pequeñas moléculas utilizando la teoría de repulsión de pares de electrones de la capa de valencia (valence shell electron pair repulsion, VSEPR).</item>
 <item>Explicar los conceptos de enlace covalente polar y polaridad molecular.</item>
 <item>Evaluar la polaridad de una molécula con base en su enlace y estructura.</item>
 </list></md:abstract>
@@ -22,15 +22,15 @@
 <section id="fs-idp391168">
 <title>Teoría VSEPR</title>
 <para id="fs-idp36050992">La <term id="term-00003">teoría de repulsión de pares de electrones de la capa de valencia (teoría VSEPR)</term> nos permite predecir la estructura molecular, lo que incluye los ángulos de enlace aproximados alrededor de un átomo central de una molécula a partir de un examen del número de enlaces y pares solitarios de electrones en su estructura de Lewis. El modelo VSEPR asume que los pares de electrones en la capa de valencia de un átomo central adoptarán una disposición que minimice las repulsiones entre estos pares de electrones maximizando la distancia entre ellos. Los electrones de la capa de valencia de un átomo central forman pares de electrones enlazados, situados principalmente entre átomos enlazados, o pares solitarios. La repulsión electrostática de estos electrones se reduce cuando las distintas regiones de alta densidad electrónica asumen posiciones lo más alejadas posible entre sí.</para>
-<para id="fs-idp46353584">La teoría VSEPR predice la disposición de los pares de electrones alrededor de cada átomo central y, normalmente, la disposición correcta de los átomos en una molécula. Sin embargo, debemos entender que la teoría sólo considera las repulsiones de pares de electrones. Otras interacciones, como las repulsiones nuclear-nuclear y las atracciones nuclear-electrónica, también intervienen en la disposición final que adoptan los átomos en una determinada estructura molecular.</para>
-<para id="fs-idp122770240">Como ejemplo sencillo de la teoría VSEPR, predigamos la estructura de una molécula gaseosa de BeF<sub>2</sub>. La estructura de Lewis del BeF<sub>2</sub> (<link target-id="CNX_Chem_07_06_BeF2"/>) muestra sólo dos pares de electrones alrededor del átomo central de berilio. Con dos enlaces y sin pares solitarios de electrones en el átomo central, los enlaces están lo más separados posible, y la repulsión electrostática entre estas regiones de alta densidad electrónica se reduce al mínimo cuando están en lados opuestos del átomo central. El ángulo de enlace es de 180° (<link target-id="CNX_Chem_07_06_BeF2"/>).</para>
+<para id="fs-idp46353584">La teoría VSEPR predice la disposición de los pares de electrones alrededor de cada átomo central y, normalmente, la disposición correcta de los átomos en una molécula. Sin embargo, debemos entender que la teoría solo considera las repulsiones de pares de electrones. Otras interacciones, como las repulsiones nuclear-nuclear y las atracciones nuclear-electrónica, también intervienen en la disposición final que adoptan los átomos en una determinada estructura molecular.</para>
+<para id="fs-idp122770240">Como ejemplo sencillo de la teoría VSEPR, predigamos la estructura de una molécula gaseosa de BeF<sub>2</sub>. La estructura de Lewis del BeF<sub>2</sub> (<link target-id="CNX_Chem_07_06_BeF2"/>) muestra solo dos pares de electrones alrededor del átomo central de berilio. Con dos enlaces y sin pares solitarios de electrones en el átomo central, los enlaces están lo más separados posible, y la repulsión electrostática entre estas regiones de alta densidad electrónica se reduce al mínimo cuando están en lados opuestos del átomo central. El ángulo de enlace es de 180° (<link target-id="CNX_Chem_07_06_BeF2"/>).</para>
 <figure id="CNX_Chem_07_06_BeF2">
 <media id="fs-idp229524848" alt="Se muestra una estructura de Lewis. Un átomo de flúor con tres pares solitarios de electrones está unido con enlace simple a un átomo de berilio que está unido con enlace simple a un átomo de flúor con tres pares solitarios de electrones. El ángulo de los enlaces entre los dos átomos de flúor y el átomo de berilio está marcado como &quot;180 grados&quot;." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_06_BeF2.jpg"/>
 </media>
 <caption>La molécula de BeF<sub>2</sub> adopta una estructura lineal en la que los dos enlaces están lo más separados posible, en lados opuestos del átomo de Be.</caption>
 </figure>
-<para id="fs-idp87297072">La <link target-id="CNX_Chem_07_06_Egeom"/> ilustra ésta y otras geometrías de pares de electrones que minimizan las repulsiones entre regiones de alta densidad de electrones (enlaces o pares solitarios). Dos regiones de densidad de electrones alrededor de un átomo central en una molécula forman una geometría <term id="term-00004">lineal</term>; tres regiones forman una geometría <term id="term-00005">trigonal plana</term>; cuatro regiones forman una geometría <term id="term-00006">tetraédrica</term>; cinco regiones forman una geometría <term id="term-00007">trigonal bipiramidal</term>; y seis regiones forman una geometría <term id="term-00008">octaédrica</term>.</para>
+<para id="fs-idp87297072">La <link target-id="CNX_Chem_07_06_Egeom"/> ilustra esta y otras geometrías de pares de electrones que minimizan las repulsiones entre regiones de alta densidad de electrones (enlaces o pares solitarios). Dos regiones de densidad de electrones alrededor de un átomo central en una molécula forman una geometría <term id="term-00004">lineal</term>; tres regiones forman una geometría <term id="term-00005">trigonal plana</term>; cuatro regiones forman una geometría <term id="term-00006">tetraédrica</term>; cinco regiones forman una geometría <term id="term-00007">trigonal bipiramidal</term>; y seis regiones forman una geometría <term id="term-00008">octaédrica</term>.</para>
 <figure id="CNX_Chem_07_06_Egeom"><media id="fs-idp73717728" alt="Se muestra una tabla con cuatro filas y seis columnas. La columna de la cabecera contiene las frases &quot;Número de regiones&quot;, &quot;Disposición espacial&quot;, &quot;Notación de cuña/guión&quot; y &quot;Geometría de la región de electrones&quot;. La primera fila dice: &quot;Dos regiones de alta densidad electrónica ( enlaces o pares no compartidos)&quot;, &quot;Tres regiones de alta densidad electrónica ( enlaces o pares no compartidos)&quot;, &quot;Cuatro regiones de alta densidad electrónica ( enlaces o pares no compartidos)&quot;, &quot;Cinco regiones de alta densidad electrónica ( enlaces o pares no compartidos)&quot; y &quot;Seis regiones de alta densidad electrónica ( enlaces o pares no compartidos)&quot;. La segunda fila muestra diagramas de orbitales. La primera imagen muestra dos orbes de forma ovalada con una flecha que indica un ángulo de 180 grados. La segunda imagen muestra tres orbes de forma ovalada con una flecha que indica un ángulo de 120 grados. La tercera imagen muestra cuatro orbes de forma ovalada con una flecha que indica un ángulo de 109,5 grados. La cuarta imagen muestra cinco orbes de forma ovalada con una flecha que indica un ángulo de 90 y 120 grados. La quinta imagen muestra seis orbes de forma ovalada con una flecha que indica un ángulo de 90 grados. La tercera fila contiene estructuras de Lewis. La primera estructura muestra un átomo de berilio unido con enlace simple a dos átomos de hidrógeno. La segunda estructura muestra un átomo de boro unido con enlace simple átomo de hidrógeno a tres átomos de hidrógeno. La tercera estructura muestra un átomo de carbono unido con enlace simple a cuatro átomos de hidrógeno. La cuarta estructura muestra un átomo de fósforo unido con enlace simple a cinco átomos de flúor. La quinta estructura muestra un átomo de azufre unido con enlace simple a seis átomos de flúor. La cuarta fila contiene las frases &quot;Lineal; ángulo de 180 grados&quot;, trigonal plana; todos los ángulos de 120 grados&quot;, &quot;Tetraédrica; todos los ángulos de 109,5 grados&quot;, &quot;Trigonal bipiramidal; ángulos de 90 grados y 120 grados&quot;. Un átomo unido puede ser ecuatorial, ( en el plano del triángulo ), o axial, ( por encima del plano del triángulo )&quot;, y &quot;Octaédrico; 90 grados o 180 grados&quot;.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_06_Egeom.jpg"/>
 </media>
@@ -38,13 +38,13 @@
 <caption>Las geometrías básicas de pares de electrones predichas por la teoría VSEPR maximizan el espacio alrededor de cualquier región de densidad de electrones (enlaces o pares solitarios).</caption></figure><section id="fs-idm5284928">
 <title>Geometría de pares de electrones frente a la estructura molecular</title>
 <para id="fs-idp238100128">Es importante señalar que la geometría de pares de electrones alrededor de un átomo central <emphasis effect="italics">no</emphasis> es lo mismo que su estructura molecular. Las geometrías de pares de electrones mostradas en la <link target-id="CNX_Chem_07_06_Egeom"/> describen todas las regiones donde se encuentran los electrones, tanto los enlaces como los pares solitarios. La estructura molecular describe la ubicación de los <emphasis effect="italics">átomos</emphasis>, no de los electrones.</para>
-<para id="fs-idm334496">Diferenciamos estas dos situaciones denominando la geometría que incluye <emphasis effect="italics">todos</emphasis> los pares de electrones como <term id="term-00009">geometría de pares de electrones</term>. La estructura que incluye sólo la colocación de los átomos en la molécula se llama <term id="term-00010">estructura molecular</term>. Las geometrías de los pares de electrones serán las mismas que las de las estructuras moleculares cuando no haya pares solitarios de electrones alrededor del átomo central, pero serán diferentes cuando haya pares solitarios presentes en el átomo central.</para>
+<para id="fs-idm334496">Diferenciamos estas dos situaciones denominando la geometría que incluye <emphasis effect="italics">todos</emphasis> los pares de electrones como <term id="term-00009">geometría de pares de electrones</term>. La estructura que incluye solo la colocación de los átomos en la molécula se llama <term id="term-00010">estructura molecular</term>. Las geometrías de los pares de electrones serán las mismas que las de las estructuras moleculares cuando no haya pares solitarios de electrones alrededor del átomo central, pero serán diferentes cuando haya pares solitarios presentes en el átomo central.</para>
 <para id="fs-idp48943296">Por ejemplo, la molécula de metano, CH<sub>4</sub>, que es el principal componente del gas natural, tiene cuatro pares de electrones de enlace alrededor del átomo central de carbono; la geometría de pares de electrones es tetraédrica, al igual que la estructura molecular (<link target-id="CNX_Chem_07_06_CH4"/>). Por otro lado, la molécula de amoníaco, NH<sub>3</sub>, también tiene cuatro pares de electrones asociados al átomo de nitrógeno, por lo que tiene una geometría tetraédrica de pares de electrones. Una de estas regiones, sin embargo, es un par solitario, que no está incluido en la estructura molecular, y este par solitario influye en la forma de la molécula (<link target-id="CNX_Chem_07_06_NH3"/>).</para>
 <figure id="CNX_Chem_07_06_CH4">
 <media id="fs-idp102024640" alt="Una estructura de Lewis muestra un átomo de carbono unido con enlace simple a cuatro átomos de hidrógeno. Esta estructura utiliza cuñas y guiones para darle un aspecto tridimensional." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_06_CH4.jpg"/>
 </media>
-<caption>La estructura molecular de la molécula de metano, CH<sub>4</sub>, se muestra con una disposición tetraédrica de los átomos de hidrógeno. Las estructuras VSEPR como ésta se suelen dibujar utilizando la notación de cuñas y guiones, en la que las líneas sólidas representan enlaces en el plano de la página, las cuñas sólidas representan enlaces que salen del plano y las líneas de guiones representan enlaces que bajan al plano.</caption>
+<caption>La estructura molecular de la molécula de metano, CH<sub>4</sub>, se muestra con una disposición tetraédrica de los átomos de hidrógeno. Las estructuras VSEPR como esta se suelen dibujar utilizando la notación de cuñas y guiones, en la que las líneas sólidas representan enlaces en el plano de la página, las cuñas sólidas representan enlaces que salen del plano y las líneas de guiones representan enlaces que bajan al plano.</caption>
 </figure>
 <figure id="CNX_Chem_07_06_NH3">
 <media id="fs-idp50682928" alt="Se muestran tres imágenes marcadas como &quot;a&quot;, &quot;b&quot; y &quot;c&quot;. La imagen a muestra un átomo de nitrógeno unido con enlace simple a tres átomos de hidrógeno. Hay cuatro orbes de forma ovalada que rodean a cada hidrógeno y uno se aleja del resto de la molécula. Estos orbes se encuentran en una disposición tetraédrica. La imagen b muestra un modelo de bola y palo del nitrógeno unido a los tres átomos de hidrógeno. La imagen c es la misma que la imagen a, pero hay cuatro flechas curvas de doble cabeza que rodean la molécula y están marcadas como &quot;106,8 grados&quot;." class="scaled-down">
@@ -86,7 +86,7 @@
 <para id="fs-idp238154208">
 <title>Predicción de la geometría de pares de electrones y de la estructura molecular: CO<sub>2</sub> y BCl<sub>3</sub></title>
 Prediga la geometría de pares de electrones y la estructura molecular de cada uno de los siguientes elementos:</para>
-<para id="fs-idp55144288">a) el dióxido de carbono, CO<sub>2</sub>, una molécula producida por la combustión de los combustibles fósiles</para>
+<para id="fs-idp55144288">(a) el dióxido de carbono, CO<sub>2</sub>, una molécula producida por la combustión de los combustibles fósiles</para>
 <para id="fs-idm8091088">(b) tricloruro de boro, BCl<sub>3</sub>, un importante producto químico industrial</para>
 <para id="fs-idp64872464"><title>Solución</title>
 (a) Escribimos la estructura de Lewis del CO<sub>2</sub> como:</para>
@@ -112,8 +112,8 @@ El carbonato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:m
 </note>
 </example>
 <example id="fs-idp17356704">
-<para id="fs-idp83628624"><title>Predicción de la geometría de los pares de electrones y de la estructura molecular: Amonio</title>
-Dos de los 50 principales productos químicos producidos en Estados Unidos, el nitrato de amonio y el sulfato de amonio, ambos utilizados como fertilizantes, contienen el ion amonio. Prediga la geometría de pares de electrones y la estructura molecular del catión <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math>.</para>
+<para id="fs-idp83628624"><title>Predicción de la geometría de los pares de electrones y de la estructura molecular: amonio</title>
+Dos de los 50 principales productos químicos producidos en los Estados Unidos, el nitrato de amonio y el sulfato de amonio, ambos utilizados como fertilizantes, contienen el ion amonio. Prediga la geometría de pares de electrones y la estructura molecular del catión <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math>.</para>
 <para id="fs-idp86467024"><title>Solución</title>
 Escribimos la estructura de Lewis de <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math> como:</para>
 <media id="fs-idp83671296" alt="Una estructura de Lewis representa un átomo de nitrógeno que está unido con enlace simple a cuatro átomos de hidrógeno. La estructura está rodeada de corchetes y tiene un signo positivo en superíndice." class="scaled-down">
@@ -133,7 +133,7 @@ Identifique una molécula con estructura molecular bipiramidal trigonal.</para>
 </example>
 <para id="fs-idm16091952">Los siguientes ejemplos ilustran el efecto de los pares solitarios de electrones en la estructura molecular.</para>
 <example id="fs-idm16663792">
-<para id="fs-idm10296544"><title>Predicción de la geometría de pares de electrones y de la estructura molecular: Pares solitarios en el átomo central</title>
+<para id="fs-idm10296544"><title>Predicción de la geometría de pares de electrones y de la estructura molecular: pares solitarios en el átomo central</title>
 Predecir la geometría de pares de electrones y la estructura molecular de una molécula de agua.</para>
 <para id="fs-idp10258608"><title>Solución</title>
 La estructura de Lewis del H<sub>2</sub>O indica que hay cuatro regiones de alta densidad electrónica alrededor del átomo de oxígeno: dos pares solitarios y dos enlaces químicos:</para>
@@ -148,7 +148,7 @@ La estructura de Lewis del H<sub>2</sub>O indica que hay cuatro regiones de alta
 <para id="fs-idp51567744"><title>Compruebe lo aprendido</title>
 El ion hidronio, H<sub>3</sub>O<sup>+</sup>, se forma cuando los ácidos se disuelven en agua. Predecir la geometría de pares de electrones y la estructura molecular de este catión.</para>
 <note id="fs-idp47211728"><title>Respuesta:</title>
-<para id="fs-idp103296688">geometría de pares de electrones: tetraédrica; estructura molecular: piramidal trigonal</para>
+<para id="fs-idp103296688">Geometría de pares de electrones: tetraédrica; estructura molecular: piramidal trigonal</para>
 </note>
 </example>
 <example id="fs-idp82124112">
@@ -158,7 +158,7 @@ El tetrafluoruro de azufre, SF<sub>4</sub>, es muy valioso para la preparación 
 La estructura de Lewis del SF<sub>4</sub> indica cinco regiones de densidad electrónica alrededor del átomo de azufre: un par solitario y cuatro pares de enlace:</para>
 <media id="fs-idp33968176" alt="Un diagrama de Lewis representa un átomo de azufre con un par solitario de electrones unido con enlace simple a cuatro átomos de flúor, cada uno con tres pares solitarios de electrones." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_06_SF4_img.jpg"/></media>
-<para id="fs-idp72937360">Esperamos que estas cinco regiones adopten una geometría de pares de electrones bipiramidal trigonal. Para minimizar las repulsiones del par solitario, éste ocupa una de las posiciones ecuatoriales. La estructura molecular (<link target-id="CNX_Chem_07_06_SF4mol"/>) es la de un balancín (<link target-id="CNX_Chem_07_06_molgeom"/>).</para>
+<para id="fs-idp72937360">Esperamos que estas cinco regiones adopten una geometría de pares de electrones bipiramidal trigonal. Para minimizar las repulsiones del par solitario, este ocupa una de las posiciones ecuatoriales. La estructura molecular (<link target-id="CNX_Chem_07_06_SF4mol"/>) es la de un balancín (<link target-id="CNX_Chem_07_06_molgeom"/>).</para>
 <figure id="CNX_Chem_07_06_SF4mol">
 <media id="fs-idp116937376" alt="Se muestran dos diagramas marcados, &quot;a&quot; y &quot;b&quot;. El diagrama a muestra un átomo de azufre en el centro de una forma bipiramidal de seis lados. El diagrama b muestra la misma imagen que el diagrama a, pero esta vez hay átomos de flúor situados en las cuatro esquinas de la forma piramidal y están conectados al átomo de azufre por líneas simples." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_06_SF4mol.jpg"/></media>
@@ -189,7 +189,7 @@ En una determinada molécula, el átomo central tiene tres pares solitarios y do
 </example>
 </section>
 <section id="fs-idp54051968"><title>Estructura molecular para moléculas multicéntricas</title>
-<para id="fs-idp78438784">Cuando una molécula o un ion poliatómico tiene un solo átomo central, la estructura molecular describe completamente la forma de la molécula. Las moléculas más grandes no tienen un único átomo central, sino que están conectadas por una cadena de átomos interiores que poseen cada uno una geometría "local". El modo en que estas estructuras locales se orientan entre sí también influye en la forma molecular, pero estas consideraciones están más allá del alcance de esta discusión introductoria. Para nuestros fines, sólo nos centraremos en determinar las estructuras locales.</para>
+<para id="fs-idp78438784">Cuando una molécula o un ion poliatómico tiene un solo átomo central, la estructura molecular describe completamente la forma de la molécula. Las moléculas más grandes no tienen un único átomo central, sino que están conectadas por una cadena de átomos interiores que poseen cada uno una geometría "local". El modo en que estas estructuras locales se orientan entre sí también influye en la forma molecular, pero estas consideraciones están más allá del alcance de esta discusión introductoria. Para nuestros fines, solo nos centraremos en determinar las estructuras locales.</para>
 <example id="fs-idp116942080"><para id="fs-idp73376736"><title>Predicción de la estructura en moléculas multicéntricas</title>
 Aquí se muestra la estructura de Lewis del aminoácido más simple, la glicina, H<sub>2</sub>NCH<sub>2</sub>CO<sub>2</sub>H. Prediga la geometría local del átomo de nitrógeno, los dos átomos de carbono y el átomo de oxígeno con un átomo de hidrógeno unido:</para>
 <media id="fs-idp113615744" alt="Una estructura de Lewis representa un átomo de nitrógeno con un par solitario de electrones unido con enlace simple a dos átomos de hidrógeno y a un átomo de carbono, a su vez unido con enlace simple de forma sencilla a dos átomos de hidrógeno y a otro átomo de carbono. Este átomo de carbono tiene un doble enlace con un átomo de oxígeno con dos pares solitarios de electrones y un enlace simple con un oxígeno que tiene dos pares solitarios de electrones y un enlace simple con un átomo de hidrógeno." class="scaled-down">
@@ -218,7 +218,7 @@ Otro aminoácido es la alanina, que tiene la estructura de Lewis que se muestra 
 <note id="fs-idm44767872"><title>Respuesta:</title><para id="fs-idp66198816">geometrías de pares de electrones: nitrógeno-tetraédrica; carbono (<emphasis effect="underline">C</emphasis>H)-tetraédrica; carbono(<emphasis effect="underline">C</emphasis>H<sub>3</sub>)-tetraédrica; carbono (<emphasis effect="underline">C</emphasis>O<sub>2</sub>)-trigonal plana; oxígeno(<emphasis effect="underline">O</emphasis>H)-tetraédrica; estructuras locales: nitrógeno-piramidal trigonal; carbono(<emphasis effect="underline">C</emphasis>H)-tetraédrica; carbono<emphasis effect="underline">(</emphasis>CH<sub>3</sub>)-tetraédrica; carbono(<emphasis effect="underline">C</emphasis>O<sub>2</sub>)-trigonal plana; oxígeno(<emphasis effect="underline">O</emphasis>H)-doblada (109°)</para>
 </note>
 </example><note id="fs-idp90797184" class="chemistry link-to-learning">
-<para id="fs-idp159959216">El <link url="http://openstax.org/l/16MolecShape">molecular shape simulator</link> (simulador de formas moleculares) le permite construir varias moléculas y practicar el nombre de sus geometrías de pares de electrones y estructuras moleculares.</para>
+<para id="fs-idp159959216">El <link url="http://openstax.org/l/16MolecShape">simulador de formas moleculares</link> le permite construir varias moléculas y practicar el nombre de sus geometrías de pares de electrones y estructuras moleculares.</para>
 </note>
 <example id="fs-idp54012352">
 <para id="fs-idp52927344"><title>Simulación molecular</title>
@@ -273,11 +273,11 @@ Construya una molécula más compleja en el simulador. Identifique la geometría
 <caption>(a) Las moléculas siempre se distribuyen aleatoriamente en el estado líquido en ausencia de un campo eléctrico. (b) Cuando se aplica un campo eléctrico, las moléculas polares como el HF se alinearán a los dipolos con la dirección del campo.</caption>
 </figure>
 <note id="fs-idp56552448" class="chemistry link-to-learning">
-<para id="fs-idp103820464">La <link url="http://openstax.org/l/16MolecPolarity">molecule polarity simulation</link> (simulación de la polaridad de la molécula) ofrece muchas formas de explorar los momentos dipolares de los enlaces y las moléculas.</para>
+<para id="fs-idp103820464">La <link url="http://openstax.org/l/16MolecPolarity">simulación de la polaridad de la molécula</link> ofrece muchas formas de explorar los momentos dipolares de los enlaces y las moléculas.</para>
 </note>
 <example id="fs-idm708128">
 <para id="fs-idp55551344"><title>Simulaciones de polaridad</title>
-Abra la <link url="http://openstax.org/l/16MolecPolarity">molecule polarity simulation</link> (simulación de la polaridad de la molécula) y seleccione la pestaña "Three Atoms" (tres átomos) en la parte superior. Esto debería mostrar una molécula ABC con tres ajustadores de electronegatividad. Puede mostrar u ocultar los momentos de enlace, los dipolos moleculares y las cargas parciales a la derecha. Si se activa el campo eléctrico se verá si la molécula se mueve cuando se expone a un campo, de forma similar a la <link target-id="CNX_Chem_07_06_Dipolfield"/>.</para>
+Abra la <link url="http://openstax.org/l/16MolecPolarity">simulación de la polaridad de la molécula</link> y seleccione la pestaña "Three Atoms" (Tres átomos) en la parte superior. Esto debería mostrar una molécula ABC con tres ajustadores de electronegatividad. Puede mostrar u ocultar los momentos de enlace, los dipolos moleculares y las cargas parciales a la derecha. Si se activa el campo eléctrico se verá si la molécula se mueve cuando se expone a un campo, de forma similar a la <link target-id="CNX_Chem_07_06_Dipolfield"/>.</para>
 <para id="fs-idp55109824">Utilice los controles de electronegatividad para determinar cómo será el dipolo molecular para la molécula doblada inicial si:</para>
 <para id="fs-idp21212352">(a) A y C son muy electronegativos y B está en el medio del rango.</para>
 <para id="fs-idp83795840">(b) A es muy electronegativo, y B y C no lo son.</para>
@@ -351,7 +351,7 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 <para id="fs-idp51210016">(a) <m:math><m:mrow><m:msub><m:mrow><m:mtext>IF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:mrow></m:math></para>
 <para id="fs-idp121685056">(b) CF<sub>4</sub></para>
 <para id="fs-idm5935968">(c) BF<sub>3</sub></para>
-<para id="fs-idp16517536">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>5</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp16517536">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>5</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idp6163344">(e) BeCl<sub>2</sub></para>
 </problem>
 </exercise>
@@ -359,13 +359,13 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 <problem id="fs-idp33527104">
 <para id="fs-idp124058640">¿Cuál es la geometría de pares de electrones y la estructura molecular de cada una de las siguientes moléculas o iones?</para>
 <para id="fs-idp5812400">(a) ClF<sub>5</sub></para>
-<para id="fs-idp243542528">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math>
+<para id="fs-idp243542528">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math>
 </para>
 <para id="fs-idp17458144">(c) <m:math><m:mrow><m:msub><m:mrow><m:mtext>TeCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msup></m:mrow></m:math>
 </para>
 <para id="fs-idp125667168">(d) PCl<sub>3</sub></para>
 <para id="fs-idm84300160">(e) SeF<sub>4</sub></para>
-<para id="fs-idp53810496">(f) <m:math><m:mrow><m:msub><m:mrow><m:mtext>PH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp53810496">(f) <m:math><m:mrow><m:msub><m:mrow><m:mtext>PH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 </problem>
 <solution id="fs-idp17066496">
 <para id="fs-idp29612832">(a) geometría de pares de electrones: octaédrica, estructura molecular: piramidal cuadrada; (b) geometría de pares de electrones: tetraédrica, estructura molecular: doblada; (c) geometría de pares de electrones: octaédrica, estructura molecular: cuadrada plana; (d) geometría de pares de electrones: tetraédrica, estructura molecular: trigonal piramidal; (e) geometría de pares de electrones: bipiramidal trigonal, estructura molecular: balancín; (f) geometría de pares de electrones: tetraédrica, estructura molecular: doblada (109°).</para></solution>
@@ -374,9 +374,9 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 <problem id="fs-idp271688496">
 <para id="fs-idp218150896">Prediga la geometría de pares de electrones y la estructura molecular de cada uno de los siguientes iones:</para>
 <para id="fs-idp102358528">(a) H<sub>3</sub>O<sup>+</sup></para>
-<para id="fs-idm12592304">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>PCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math>
+<para id="fs-idm12592304">(b) <m:math><m:mrow><m:msub><m:mrow><m:mtext>PCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math>
 </para>
-<para id="fs-idp36456848">(c) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SnCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math></para><para id="fs-idm2007648">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BrCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math>
+<para id="fs-idp36456848">(c) <m:math><m:mrow><m:msub><m:mrow><m:mtext>SnCl</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup></m:mrow></m:math></para><para id="fs-idm2007648">(d) <m:math><m:mrow><m:msub><m:mrow><m:mtext>BrCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math>
 </para>
 <para id="fs-idp86896256">(e) ICl<sub>3</sub></para>
 <para id="fs-idp3710000">(f) XeF<sub>4</sub></para>
@@ -391,7 +391,7 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 <para id="fs-idp12929104">(c) Cl<sub>2</sub>CO (el C es el átomo central)</para>
 <para id="fs-idp56511792">(d) Cl<sub>2</sub>SO (S es el átomo central)</para>
 <para id="fs-idp51595808">(e) SO<sub>2</sub>F<sub>2</sub> (el S es el átomo central)</para>
-<para id="fs-idp53734816">f) XeO<sub>2</sub>F<sub>2</sub> (el Xe es el átomo central)</para>
+<para id="fs-idp53734816">(f) XeO<sub>2</sub>F<sub>2</sub> (el Xe es el átomo central)</para>
 <para id="fs-idp156204096">(g) <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClOF</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:mrow></m:math> (Cl es el átomo central)</para>
 </problem>
 <solution id="fs-idp52524672">
@@ -406,7 +406,7 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 <para id="fs-idp3722176">(c) Cl<sub>2</sub>SeO (el Se es el átomo central)</para>
 <para id="fs-idp134228160">(d) ClSO<sup>+</sup> (S es el átomo central)</para>
 <para id="fs-idp61402064">(e) F<sub>2</sub>SO (S es el átomo central)</para>
-<para id="fs-idp239186240">(f) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp239186240">(f) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idp91952720">(g) <m:math><m:mrow><m:msub><m:mtext>SiO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>4−</m:mtext></m:msup></m:mrow></m:math></para>
 </problem>
 </exercise>
@@ -414,23 +414,23 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 <problem id="fs-idp51919216">
 <para id="fs-idp55226560">¿Cuáles de las siguientes moléculas e iones contienen enlaces polares? ¿Cuáles de estas moléculas e iones tienen momentos dipolares?</para>
 <para id="fs-idp126895904">(a) ClF<sub>5</sub></para>
-<para id="fs-idp53542704">(b) <m:math><m:mrow><m:msub><m:mtext>ClO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp53542704">(b) <m:math><m:mrow><m:msub><m:mtext>ClO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idp4015872">(c) <m:math><m:mrow><m:msub><m:mtext>TeCl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idp97706816">(d) PCl<sub>3</sub></para>
 <para id="fs-idp165680608">(e) SeF<sub>4</sub></para>
-<para id="fs-idp273207072">(f) <m:math><m:mrow><m:msub><m:mtext>PH</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp273207072">(f) <m:math><m:mrow><m:msub><m:mtext>PH</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idm15992272">(g) XeF<sub>2</sub></para>
 </problem>
 <solution id="fs-idp53801072">
-<para id="fs-idp118872384">Todas estas moléculas e iones contienen enlaces polares. Solo el ClF<sub>5</sub>, <m:math><m:mrow><m:msub><m:mtext>ClO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>- −</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> el PCl<sub>3</sub>, el SeF<sub>4</sub>, y <m:math><m:mrow><m:msub><m:mtext>el PH</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> tienen momentos dipolares.</para>
+<para id="fs-idp118872384">Todas estas moléculas e iones contienen enlaces polares. Solo el ClF<sub>5</sub>, <m:math><m:mrow><m:msub><m:mtext>ClO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> el PCl<sub>3</sub>, el SeF<sub>4</sub>, y <m:math><m:mrow><m:msub><m:mtext>el PH</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math> tienen momentos dipolares.</para>
 </solution>
 </exercise>
 <exercise id="fs-idp24689744">
 <problem id="fs-idp60505984">
 <para id="fs-idp63414272">¿Cuáles de estas moléculas e iones contienen enlaces polares? ¿Cuáles de estas moléculas e iones tienen momentos dipolares?</para><para id="fs-idp56929024">(a) H<sub>3</sub>O<sup>+</sup></para>
-<para id="fs-idp277459024">(b) <m:math><m:mrow><m:msub><m:mtext>PCl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
-<para id="fs-idp87186688">(c) <m:math><m:mrow><m:msub><m:mtext>SnCl</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
-<para id="fs-idp9124128">(d) <m:math><m:mrow><m:msub><m:mtext>BrCl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp277459024">(b) <m:math><m:mrow><m:msub><m:mtext>PCl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp87186688">(c) <m:math><m:mrow><m:msub><m:mtext>SnCl</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp9124128">(d) <m:math><m:mrow><m:msub><m:mtext>BrCl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idm5861184">(e) ICl<sub>3</sub></para>
 <para id="fs-idp57675856">(f) XeF<sub>4</sub></para>
 <para id="fs-idp87443872">(g) SF<sub>2</sub></para>
@@ -488,15 +488,15 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 <exercise id="fs-idp16503888">
 <problem id="fs-idp239171200">
 <para id="fs-idp119317296">Describa la estructura molecular en torno al átomo o átomos indicados:</para>
-<para id="fs-idp88439632">a) el átomo de azufre del ácido sulfúrico, H<sub>2</sub>SO<sub>4</sub> [(HO)<sub>2</sub>SO<sub>2</sub>]</para>
-<para id="fs-idp82125392">b) el átomo de cloro del ácido clórico, HClO<sub>3</sub> [HOClO<sub>2</sub>]</para>
-<para id="fs-idp83702064">c) el átomo de oxígeno del peróxido de hidrógeno, HOOH</para>
-<para id="fs-idp65337408">d) el átomo de nitrógeno del ácido nítrico, HNO<sub>3</sub> [HONO<sub>2</sub>]</para>
-<para id="fs-idp52188688">e) el átomo de oxígeno del grupo OH del ácido nítrico, HNO<sub>3</sub> [HONO<sub>2</sub>]</para>
-<para id="fs-idp60784320">f) el átomo de oxígeno central de la molécula de ozono, O<sub>3</sub></para>
-<para id="fs-idp95341616">g) cada uno de los átomos de carbono del propino, CH<sub>3</sub>CCH</para>
-<para id="fs-idp124220336">h) el átomo de carbono del freón, CCCl<sub>2</sub>F<sub>2</sub></para>
-<para id="fs-idp92064960">i) cada uno de los átomos de carbono del aleno, H<sub>2</sub>CCCH<sub>2</sub></para>
+<para id="fs-idp88439632">(a) el átomo de azufre del ácido sulfúrico, H<sub>2</sub>SO<sub>4</sub> [(HO)<sub>2</sub>SO<sub>2</sub>]</para>
+<para id="fs-idp82125392">(b) el átomo de cloro del ácido clórico, HClO<sub>3</sub> [HOClO<sub>2</sub>]</para>
+<para id="fs-idp83702064">(c) el átomo de oxígeno del peróxido de hidrógeno, HOOH</para>
+<para id="fs-idp65337408">(d) el átomo de nitrógeno del ácido nítrico, HNO<sub>3</sub> [HONO<sub>2</sub>]</para>
+<para id="fs-idp52188688">(e) el átomo de oxígeno del grupo OH del ácido nítrico, HNO<sub>3</sub> [HONO<sub>2</sub>]</para>
+<para id="fs-idp60784320">(f) el átomo de oxígeno central de la molécula de ozono, O<sub>3</sub></para>
+<para id="fs-idp95341616">(g) cada uno de los átomos de carbono del propino, CH<sub>3</sub>CCH</para>
+<para id="fs-idp124220336">(h) el átomo de carbono del freón, CCCl<sub>2</sub>F<sub>2</sub></para>
+<para id="fs-idp92064960">(i) cada uno de los átomos de carbono del aleno, H<sub>2</sub>CCCH<sub>2</sub></para>
 </problem>
 <solution id="fs-idp121709536">
 <para id="fs-idp164162368">(a) tetraédrica; (b) trigonal piramidal; (c) doblada (109°); (d) trigonal plana; (e) doblada (109°); (f) doblada (109°); (g) <emphasis effect="underline">C</emphasis>H<sub>3</sub>CCH tetraédrica, CH<sub>3</sub><emphasis effect="underline">CC</emphasis>H lineal; (h) tetraédrica; (i) H<sub>2</sub>C<emphasis effect="underline">C</emphasis>CH<sub>2</sub> lineal; H<sub>2</sub><emphasis effect="underline">C</emphasis>C<emphasis effect="underline">C</emphasis>H<sub>2</sub> trigonal plana</para>
@@ -506,7 +506,7 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 <problem id="fs-idp10303184">
 <para id="fs-idp10303440">Dibuje las estructuras de Lewis y prediga la forma de cada compuesto o ion:</para>
 <para id="fs-idp83673168">(a) CO<sub>2</sub></para>
-<para id="fs-idm12721344">(b) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm12721344">(b) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idm634736">(c) SO<sub>3</sub></para>
 <para id="fs-idp52514704">(d) <m:math><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
 </problem>
@@ -579,12 +579,12 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 </exercise>
 <exercise id="fs-idp46580240">
 <problem id="fs-idp46580496">
-<para id="fs-idp250860400">Utilice el <link url="http://openstax.org/l/16MolecShape">Molecule Shape simulator</link> (simulador de forma de molécula) para construir una molécula. Empezando por el átomo central, haga clic en el doble enlace para añadir un doble enlace. A continuación, añada un enlace simple y un par solitario. Gire la molécula para observar la geometría completa. Nombre la geometría del grupo de electrones y la estructura molecular y prediga el ángulo de enlace. A continuación, haga clic en las casillas de verificación situadas en la parte inferior y derecha del simulador para comprobar sus respuestas.</para>
+<para id="fs-idp250860400">Utilice el <link url="http://openstax.org/l/16MolecShape">Simulador de forma de molécula</link> para construir una molécula. Empezando por el átomo central, haga clic en el doble enlace para añadir un doble enlace. A continuación, añada un enlace simple y un par solitario. Gire la molécula para observar la geometría completa. Nombre la geometría del grupo de electrones y la estructura molecular y prediga el ángulo de enlace. A continuación, haga clic en las casillas de verificación situadas en la parte inferior y derecha del simulador para comprobar sus respuestas.</para>
 </problem>
 </exercise>
 <exercise id="fs-idp17379424">
 <problem id="fs-idp17379680">
-<para id="fs-idp25136064">Utilice el <link url="http://openstax.org/l/16MolecShape">Molecule Shape simulator</link> para explorar moléculas reales. En la pestaña "Real Molecules" (moléculas reales), seleccione H<sub>2</sub>O. Cambie entre los modos "real" (real) y "model" (modelo). Explique la diferencia observada.</para>
+<para id="fs-idp25136064">Utilice el <link url="http://openstax.org/l/16MolecShape">Simulador de forma de molécula</link> para explorar moléculas reales. En la pestaña "Real Molecules" (moléculas reales), seleccione H<sub>2</sub>O. Cambie entre los modos "real" (real) y "model" (modelo). Explique la diferencia observada.</para>
 </problem>
 <solution id="fs-idp147105408">
 <para id="fs-idp62144768">Las estructuras son muy similares. En el modo de modelo, cada grupo de electrones ocupa la misma cantidad de espacio, por lo que el ángulo de enlace se muestra como 109,5°. En el modo "real", los pares solitarios son mayores, lo que hace que los hidrógenos se compriman. Esto conduce a un ángulo menor de 104,5°.</para>
@@ -592,7 +592,7 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 </exercise>
 <exercise id="fs-idp37961056">
 <problem id="fs-idp37961312">
-<para id="fs-idm5201232">Utilice el <link url="http://openstax.org/l/16MolecShape">Molecule Shape simulator</link> para explorar moléculas reales. En la pestaña Moléculas reales, seleccione el modo "modelo" y S<sub>2</sub>O. ¿Cuál es el ángulo de enlace del modelo? Explique si el ángulo de enlace "real" debe ser mayor o menor que el ángulo del modelo ideal.</para>
+<para id="fs-idm5201232">Utilice el <link url="http://openstax.org/l/16MolecShape">Simulador de forma de molécula</link> para explorar moléculas reales. En la pestaña "Real Molecules", seleccione el modo "modelo" y S<sub>2</sub>O. ¿Cuál es el ángulo de enlace del modelo? Explique si el ángulo de enlace "real" debe ser mayor o menor que el ángulo del modelo ideal.</para>
 </problem>
 </exercise>
 </section>   </content>

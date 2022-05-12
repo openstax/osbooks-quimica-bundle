@@ -214,8 +214,8 @@ Identifique la fórmula química de la molécula aquí representada:</para>
 </figure>
 </section>
 <section id="fs-idp52681872">
-<title>Los fundamentos de la nomenclatura orgánica: Designación de los alcanos</title>
-<para id="fs-idp41465856">La Unión Internacional de Química Pura y Aplicada (International Union of Pure and Applied Chemistry, <term class="no-emphasis" id="term-00005">IUPAC</term>) ha ideado un sistema de nomenclatura que comienza con los nombres de los alcanos y puede ajustarse a partir de ahí para tener en cuenta estructuras más complicadas. La nomenclatura de los alcanos se basa en dos reglas:</para>
+<title>Los fundamentos de la nomenclatura orgánica: designación de los alcanos</title>
+<para id="fs-idp41465856">La Unión Internacional de Química Pura y Aplicada (<term class="no-emphasis" id="term-00005">IUPAC</term>) ha ideado un sistema de nomenclatura que comienza con los nombres de los alcanos y puede ajustarse a partir de ahí para tener en cuenta estructuras más complicadas. La nomenclatura de los alcanos se basa en dos reglas:</para>
 <list id="fs-idp9620576" list-type="enumerated" number-style="arabic">
 <item>Para designar un alcano, primero hay que identificar la cadena más larga de átomos de carbono en su estructura. La cadena de dos carbonos se denomina etano; la de tres, propano, y la de cuatro, butano. Las cadenas más largas se denominan así: pentano (cadena de cinco carbonos), hexano (6), heptano (7), octano (8), nonano (9) y decano (10). Estos prefijos se observan en los nombres de los alcanos que se describen en la <link target-id="fs-idp53743808"/>.</item>
 <item>Añada prefijos al nombre de la cadena más larga para indicar las posiciones y los nombres de los <term id="term-00006">sustituyentes</term>. Los sustituyentes son ramas o grupos funcionales que sustituyen a los átomos de hidrógeno de una cadena. La posición de un sustituyente o rama se identifica por el número del átomo de carbono al que está unido en la cadena. Numeramos los átomos de carbono de la cadena contando desde el extremo de la cadena más cercano a los sustituyentes. Los sustituyentes múltiples se nombran individualmente y se colocan en orden alfabético al principio del nombre.</item>
@@ -311,7 +311,7 @@ Designe la siguiente molécula:</para>
 <note id="fs-idp67935232" class="chemistry everyday-life">
 <title>Reciclaje de plásticos</title>
 <para id="fs-idp73379088">Los polímeros (de las palabras griegas <emphasis effect="italics">poly</emphasis>, que significa "muchos", y <emphasis effect="italics">mer</emphasis>, que significa "partes") son grandes moléculas formadas por unidades repetitivas, denominadas monómeros. Los polímeros pueden ser naturales (el almidón es un polímero de residuos de azúcar y las proteínas son polímeros de aminoácidos) o sintéticos [como el polietileno, el cloruro de polivinilo (Polyvinyl Chloride, PVC) y el poliestireno]. La variedad de estructuras de los polímeros se traduce en una amplia gama de propiedades y usos que los convierten en parte integrante de nuestra vida cotidiana. La adición de grupos funcionales a la estructura de un polímero puede dar lugar a propiedades significativamente diferentes (vea el análisis sobre el Kevlar más adelante en este capítulo).</para>
-<para id="fs-idp45540352">Un ejemplo de reacción de polimerización se muestra en la <link target-id="CNX_Chem_20_01_Monomer"/>. El monómero etileno (C<sub>2</sub>H<sub>4</sub>) es un gas a temperatura ambiente, pero cuando se polimeriza con un catalizador de metales de transición, se transforma en un material sólido formado por largas cadenas de unidades –CH<sub>2</sub>– llamado polietileno. El polietileno es un plástico básico que se utiliza principalmente para el envasado (bolsas y películas).</para>
+<para id="fs-idp45540352">Un ejemplo de reacción de polimerización se muestra en la <link target-id="CNX_Chem_20_01_Monomer"/>. El monómero etileno (C<sub>2</sub>H<sub>4</sub>) es un gas a temperatura ambiente, pero cuando se polimeriza con un catalizador de metales de transición se transforma en un material sólido formado por largas cadenas de unidades –CH<sub>2</sub>– llamado polietileno. El polietileno es un plástico básico que se utiliza principalmente para el envasado (bolsas y películas).</para>
 <figure id="CNX_Chem_20_01_Monomer">
 <media id="fs-idp53238032" alt="Este diagrama tiene tres filas, que indican la reacción del etileno para formar el polietileno. En la primera fila, las fórmulas estructurales de Lewis muestran tres moléculas de etileno que se suman, cada una de las cuales está compuesta por dos átomos de C doblemente enlazados, cada uno con dos átomos de H enlazados. Antes y después de las estructuras de las moléculas hay elipses o tres puntos, que a su vez van seguidos de una flecha que apunta a la derecha. En el lado derecho de la flecha, las elipses o puntos vuelven a aparecer a la izquierda de un guion que conecta con una cadena de 7 átomos de C, cada uno con átomos de H conectados por encima y por debajo. Al final de la cadena aparece un guion, que a su vez va seguido de elipses o puntos. El diagrama de reacción se repite en la segunda fila con modelos de barras y esferas para las estructuras. En estas representaciones, los enlaces simples se representan con barras, los dobles enlaces con dos barras paralelas y los elementos con esferas. Los átomos de carbono son negros y los de hidrógeno son blancos en esta imagen. En la tercera fila, se muestran los modelos de espacio lleno. En estos modelos, los átomos son esferas agrandadas que se empujan entre sí, sin barras que representen enlaces.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_monomer.jpg"/>
@@ -446,9 +446,9 @@ Dibuje tres isómeros de un compuesto de anillo aromático de seis miembros sust
 <exercise id="fs-idp73372304">
 <problem id="fs-idp40120176">
 <para id="fs-idp72985088">Escriba la fórmula química y la estructura de Lewis de los siguientes elementos, cada uno de los cuales contiene cinco átomos de carbono:</para>
-<para id="fs-idp10262992">a) un alcano</para>
-<para id="fs-idp65046000">b) un alqueno</para>
-<para id="fs-idp79637792">c) un alquino</para>
+<para id="fs-idp10262992">(a) un alcano</para>
+<para id="fs-idp65046000">(b) un alqueno</para>
+<para id="fs-idp79637792">(c) un alquino</para>
 </problem>
 <solution id="fs-idp65080656">
 <para id="fs-idp68623920">Hay varias series de respuestas; una es:<newline/> (a) C<sub>5</sub>H<sub>12</sub><newline/>
@@ -491,7 +491,7 @@ Dibuje tres isómeros de un compuesto de anillo aromático de seis miembros sust
 </exercise>
 <exercise id="fs-idp45666096">
 <problem id="fs-idp11358112">
-<para id="fs-idp15291776">Explique por qué estas dos moléculas no son isómeros:<newline/>
+<para id="fs-idp15291776">Explique por qué estas dos moléculas no son isómeras:<newline/>
 <media id="fs-idp28942256" class="scaled-down" alt="Se muestran dos fórmulas estructurales. En la primera, se muestra una cadena de seis átomos de carbono con un único doble enlace entre los carbonos dos y tres contando de derecha a izquierda a través de la molécula, con doce átomos de H enlazados en total. Los átomos de H están enlazados en cada extremo de la molécula, así como en la parte superior. Los átomos de H también están enlazados por debajo de todos los átomos de C, excepto los que participan en el doble enlace. En la segunda estructura, se muestra una cadena de hidrocarburos de cinco átomos de C conectados por enlaces simples. Un único C con tres átomos de H unidos está enlazado por debajo del segundo carbono contando de derecha a izquierda a través de la molécula.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_notiso1_img.jpg"/>
 </media></para>
@@ -499,7 +499,7 @@ Dibuje tres isómeros de un compuesto de anillo aromático de seis miembros sust
 </exercise>
 <exercise id="fs-idp68859088">
 <problem id="fs-idp49030496">
-<para id="fs-idp50199232">Explique por qué estas dos moléculas no son isómeros:<newline/>
+<para id="fs-idp50199232">Explique por qué estas dos moléculas no son isómeras:<newline/>
 <media id="fs-idp8953232" class="scaled-down" alt="Se muestran dos fórmulas estructurales. En la primera, se muestra una cadena horizontal de hidrocarburos, formada por seis átomos de C unidos por enlaces simples. Cada átomo de C tiene un átomo de H enlazado por encima y por debajo. Los dos átomos de C en cada extremo de la cadena tienen un tercer átomo de H enlazado a ellos. En la segunda estructura, se muestra una cadena horizontal de hidrocarburos compuesta por cinco átomos de C conectados por enlaces simples, con un sexto átomo de C unido por enlace simple debajo del átomo de C más a la derecha. El primer átomo de C (de izquierda a derecha) tiene tres átomos de H enlazados. El segundo átomo de C tiene dos átomos de H enlazados a este. El tercer átomo de C tiene dos átomos de H enlazados. El cuarto átomo de C tiene dos átomos de H enlazados. El quinto átomo de C tiene dos átomos de H enlazados. El átomo de C enlazado por debajo del quinto átomo de C tiene tres átomos de H enlazados.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_20_01_notiso2_img.jpg"/>
 </media></para>
@@ -519,9 +519,9 @@ Dibuje tres isómeros de un compuesto de anillo aromático de seis miembros sust
 <para id="fs-idp4190704">(a) hexano</para>
 <para id="fs-idp11221776">(b) 3-metilpentano</para>
 <para id="fs-idp51087744">(c) <emphasis effect="italics">cis</emphasis>-3-hexeno</para>
-<para id="fs-idp51474464">d) 4-metil-1-penteno</para>
+<para id="fs-idp51474464">(d) 4-metil-1-penteno</para>
 <para id="fs-idp10176832">(e) 3-hexino</para>
-<para id="fs-idp39674272">f) 4-metil-2-pentino</para>
+<para id="fs-idp39674272">(f) 4-metil-2-pentino</para>
 </problem>
 <solution id="fs-idp19221920">
 <para id="fs-idp46339216">(a) C<sub>6</sub>H<sub>14</sub><newline/>
@@ -548,11 +548,11 @@ Dibuje tres isómeros de un compuesto de anillo aromático de seis miembros sust
 <problem id="fs-idp20589296">
 <para id="fs-idp50445856">Escriba la fórmula química, la fórmula condensada y la estructura de Lewis de cada uno de los siguientes hidrocarburos:</para>
 <para id="fs-idp46618096">(a) heptano</para>
-<para id="fs-idp10027424">b) 3-metilhexano</para>
+<para id="fs-idp10027424">(b) 3-metilhexano</para>
 <para id="fs-idm33761984">(c) <emphasis effect="italics">trans</emphasis>-3-hepteno</para>
-<para id="fs-idp2975600">d) 4-metil-1-hexeno</para>
+<para id="fs-idp2975600">(d) 4-metil-1-hexeno</para>
 <para id="fs-idp52488112">(e) 2-heptino</para>
-<para id="fs-idp6722464">f) 3,4-dimetil-1-pentino</para>
+<para id="fs-idp6722464">(f) 3,4-dimetil-1-pentino</para>
 </problem>
 </exercise>
 <exercise id="fs-idp7100896">
@@ -705,7 +705,7 @@ Dibuje tres isómeros de un compuesto de anillo aromático de seis miembros sust
 <problem id="fs-idp69398176">
 <para id="fs-idp69398432">Escriba dos ecuaciones completas y balanceadas para cada una de las siguientes reacciones: una con fórmulas condensadas y la otra con estructuras de Lewis.</para>
 <para id="fs-idp40102272">(a) El 2-buteno reacciona con el cloro.</para>
-<para id="fs-idp56817632">b) El benceno arde en el aire.</para>
+<para id="fs-idp56817632">(b) El benceno arde en el aire.</para>
 </problem>
 </exercise>
 <exercise id="fs-idp81497952">

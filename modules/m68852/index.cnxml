@@ -23,7 +23,7 @@
 <equation id="fs-idm4841104" class="unnumbered"><m:math><m:mrow><m:msubsup><m:mrow/><m:mn>-1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext><m:mo>+</m:mo><m:msubsup><m:mrow/><m:mn>+1</m:mn><m:mrow><m:mspace width="0.5em"/><m:mn>0</m:mn></m:mrow></m:msubsup><m:mtext>e</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>γ</m:mtext><m:mo>+</m:mo><m:mtext>γ</m:mtext></m:mrow></m:math></equation><para id="fs-idp95362336">Como se ha visto en el capítulo dedicado a la luz y la radiación electromagnética, los rayos gama componen una radiación electromagnética de corta longitud de onda y alta energía y son (mucho) más energéticos que los más conocidos rayos X, que se comportan como partículas en el sentido de la dualidad onda-partícula. Los rayos gama son un tipo de radiación electromagnética de alta energía que se produce cuando un núcleo experimenta una transición de un estado energético superior a otro inferior, de forma similar a como se produce un fotón por una transición electrónica de un nivel energético superior a otro inferior. Debido a las diferencias energéticas mucho mayores entre las capas de energía nuclear, los rayos gama que emanan de un núcleo tienen energías millones de veces mayores que la radiación electromagnética que emana de las transiciones electrónicas.</para></section>
 <section id="fs-idp244461456">
 <title>Equilibrio de las reacciones nucleares</title>
-<para id="fs-idp1433408">La ecuación de reacción química equilibrada refleja el hecho de que, durante la reacción química, se rompen y se forman enlaces y se reordenan los átomos, pero el número total de átomos de cada elemento se conserva y no cambia. Una ecuación de reacción nuclear equilibrada indica que hay un reordenamiento durante una reacción nuclear, pero de nucleones (partículas subatómicas dentro de los núcleos de los átomos) en lugar de átomos. Las reacciones nucleares también siguen las leyes de conservación, y se equilibran de dos maneras:</para><list id="fs-idp258853168" list-type="enumerated" number-style="arabic">
+<para id="fs-idp1433408">La ecuación de reacción química balanceada refleja el hecho de que, durante la reacción química, se rompen y se forman enlaces y se reordenan los átomos, pero el número total de átomos de cada elemento se conserva y no cambia. Una ecuación de reacción nuclear balanceada indica que hay un reordenamiento durante una reacción nuclear, pero de nucleones (partículas subatómicas dentro de los núcleos de los átomos) en lugar de átomos. Las reacciones nucleares también siguen las leyes de conservación, y se equilibran de dos maneras:</para><list id="fs-idp258853168" list-type="enumerated" number-style="arabic">
 <item>La suma de los números de masa de los reactivos es igual a la suma de los números de masa de los productos.</item>
 <item>La suma de las cargas de los reactivos es igual a la suma de las cargas de los productos.</item>
 </list>
@@ -52,7 +52,7 @@ La reacción nuclear se escribe como:</para>
 </list></section>
 <section id="fs-idp161138832" class="summary">
 <title>Conceptos clave y resumen</title>
-<para id="fs-idp3176832">Los núcleos pueden sufrir reacciones que cambian su número de protones, su número de neutrones o su estado energético. En las reacciones nucleares intervienen muchas partículas diferentes. Las más comunes son los protones, los neutrones, los positrones (electrones con carga positiva), las partículas alfa (α) (núcleos de helio de alta energía), las partículas beta (β) (electrones de alta energía) y los rayos gama (γ) (que componen la radiación electromagnética de alta energía). Al igual que las reacciones químicas, las reacciones nucleares están siempre equilibradas. Cuando se produce una reacción nuclear, ni la masa total (número) ni la carga total cambian.</para>
+<para id="fs-idp3176832">Los núcleos pueden sufrir reacciones que cambian su número de protones, su número de neutrones o su estado energético. En las reacciones nucleares intervienen muchas partículas diferentes. Las más comunes son los protones, los neutrones, los positrones (electrones con carga positiva), las partículas alfa (α) (núcleos de helio de alta energía), las partículas beta (β) (electrones de alta energía) y los rayos gama (γ) (que componen la radiación electromagnética de alta energía). Al igual que las reacciones químicas, las reacciones nucleares están siempre balanceadas. Cuando se produce una reacción nuclear, ni la masa total (número) ni la carga total cambian.</para>
 </section>
 <section id="fs-idp77230864" class="exercises">
 <title>Ejercicios de química del final del capítulo</title>
@@ -62,11 +62,11 @@ La reacción nuclear se escribe como:</para>
 <para id="fs-idp82665216">(a) nucleón</para>
 <para id="fs-idp101713008">(b) partícula α</para>
 <para id="fs-idp15833856">(c) partícula β</para>
-<para id="fs-idm47984912">d) positrón</para>
+<para id="fs-idm47984912">(d) positrón</para>
 <para id="fs-idp7335552">(e) rayo γ</para>
 <para id="fs-idp710880">(f) nucleido</para>
 <para id="fs-idp51919152">(g) número de masa</para>
-<para id="fs-idp79754624">h) número atómico</para>
+<para id="fs-idp79754624">(h) número atómico</para>
 </problem>
 <solution id="fs-idp82822912">
 <para id="fs-idp227711248">(a) El nucleón es cualquier partícula contenida en el núcleo del átomo, por lo que puede referirse a protones y neutrones. (b) La partícula α es el producto de la radiactividad natural y es el núcleo de un átomo de helio. (c) La partícula β es el producto de la radiactividad natural y es un electrón de alta velocidad. (d) El positrón es una partícula con la misma masa que un electrón, pero con carga positiva. (e) Los rayos gama componen una radiación electromagnética de alta energía y corta longitud de onda. (f) Nucleido es un término que se utiliza para referirse a un solo tipo de núcleo. (g) El número de masa es la suma del número de protones y el número de neutrones de un elemento. (h) El número atómico es el número de protones en el núcleo de un elemento.</para>
@@ -95,10 +95,10 @@ La reacción nuclear se escribe como:</para>
 <exercise id="fs-idp225643904">
 <problem id="fs-idp4814048">
 <para id="fs-idp166353408">Escriba una ecuación balanceada para cada una de las siguientes reacciones nucleares:</para>
-<para id="fs-idp160023024">a) la producción de <sup>17</sup>O a partir de <sup>14</sup>N por bombardeo de partículas α</para>
+<para id="fs-idp160023024">(a) la producción de <sup>17</sup>O a partir de <sup>14</sup>N por bombardeo de partículas α</para>
 <para id="fs-idp167819312">(b) la producción de <sup>14</sup>C a partir de <sup>14</sup>N por bombardeo de neutrones</para>
-<para id="fs-idp163053056">c) la producción de <sup>233</sup>Th a partir de <sup>232</sup>Th por bombardeo de neutrones</para>
-<para id="fs-idp25746336">d) la producción de <sup>239</sup>U a partir de <sup>238</sup>U por bombardeo de <m:math><m:msubsup><m:mrow/><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>2</m:mn></m:msubsup><m:mtext>H</m:mtext></m:math></para></problem>
+<para id="fs-idp163053056">(c) la producción de <sup>233</sup>Th a partir de <sup>232</sup>Th por bombardeo de neutrones</para>
+<para id="fs-idp25746336">(d) la producción de <sup>239</sup>U a partir de <sup>238</sup>U por bombardeo de <m:math><m:msubsup><m:mrow/><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>2</m:mn></m:msubsup><m:mtext>H</m:mtext></m:math></para></problem>
 <solution id="fs-idp40755120">
 <para id="fs-idp233165328">(a) <m:math><m:mrow>
 <m:msubsup><m:mrow/><m:mrow><m:mspace width="0.5em"/><m:mn>7</m:mn></m:mrow><m:mn>14</m:mn></m:msubsup><m:mtext>N</m:mtext><m:mo>+</m:mo>

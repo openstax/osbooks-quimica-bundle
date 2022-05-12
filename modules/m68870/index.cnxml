@@ -23,540 +23,540 @@
 </thead>
 <tbody>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,7996</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>AgCl</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>AgCl</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,22233</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,31</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CrO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CrO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Ag</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CrO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>CrO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,45</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
 <entry align="left">+0,373</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>2S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Ag</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ag</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>2S</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,017</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Al</m:mtext><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mtext>F</m:mtext><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>AlF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Al</m:mtext><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mtext>F</m:mtext><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-2,07</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Al</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Al</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Al</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,662</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Am</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Am</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Am</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Am</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,048</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Au</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Au</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Au</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Au</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,498</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Au</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Au</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Au</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Au</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,692</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ba</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ba</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ba</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ba</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,912</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Be</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Be</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Be</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Be</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,847</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+1,0873</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ca</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ca</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ca</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ca</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,868</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ce</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ce</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ce</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ce</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,483</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ce</m:mtext></m:mrow><m:mrow><m:mn>4+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Ce</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ce</m:mtext></m:mrow><m:mrow><m:mn>4+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Ce</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">+1,61</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cd</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cd</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cd</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cd</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,4030</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Cd</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cd</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Cd</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cd</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,09</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Cd</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cd</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Cd</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cd</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
 <entry align="left">-0,61</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>CdS</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cd</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>CdS</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cd</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,17</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+1,35827</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,36</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,33</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,66</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,89</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,189</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>HClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>HClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,21</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>HClO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>HClO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,482</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>HClO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>HClO</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,611</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>HClO</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>HClO</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,628</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Co</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Co</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>//</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Co</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Co</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>mol</m:mtext><m:mspace width="0.2em"/><m:mtext>//</m:mtext><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow></m:math></entry>
 <entry align="left">+1,83</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Co</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Co</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Co</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Co</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,28</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,1</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Co</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,17</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cr</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cr</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,744</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,407</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cr</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cr</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,913</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Cu</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>CN</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,43</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CrO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mtext>Cr</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>5</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CrO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mtext>Cr</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>5</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,13</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>7</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>14</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>21</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>7</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>14</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Cr</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>21</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,232</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Cr</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cr</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Cr</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cr</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,2</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>Cr</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cr</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Cr</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cr</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,48</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mo>+</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mo>+</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,153</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,34</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,521</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>F</m:mtext><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msup><m:mtext>F</m:mtext><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>F</m:mtext><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msup><m:mtext>F</m:mtext><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+2,866</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Fe</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Fe</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,447</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>Fe</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,771</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>4−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>4−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,36</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Fe</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Fe</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Fe</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,88</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>FeS</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Fe</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>FeS</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Fe</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,01</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ga</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ga</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Ga</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ga</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,549</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Gd</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Gd</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Gd</m:mtext></m:mrow><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Gd</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,279</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>H</m:mtext><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>H</m:mtext><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-2,23</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,8277</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,776</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">0,00</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:msup><m:mrow><m:mtext>OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,878</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Hf</m:mtext></m:mrow><m:mrow><m:mn>4+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hf</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Hf</m:mtext></m:mrow><m:mrow><m:mn>4+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hf</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,55</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,851</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,92</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Hg</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Hg</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,7973</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>HgBr</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>HgBr</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mrow><m:mtext>Br</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,21</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>Hg</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,26808</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Hg</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>4CN</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Hg</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>4CN</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,37</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>HgI</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4I</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>HgI</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4I</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,04</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>HgS</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>HgS</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Hg</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,70</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>2I</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>I</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>2I</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,5355</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>In</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>In</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>In</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>In</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,3382</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>K</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>K</m:mtext><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,931</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>La</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>La</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>La</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>La</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,52</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Li</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Li</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Li</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Li</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-3,04</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Lu</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Lu</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Lu</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Lu</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,28</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Mg</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Mg</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Mg</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Mg</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,372</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Mn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Mn</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Mn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Mn</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,185</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Mn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Mn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,05</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>MnO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>MnO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,558</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msup><m:mtext>Mn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msup><m:mtext>Mn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,23</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>MnO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msup><m:mtext>Mn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>MnO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msup><m:mtext>Mn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,507</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Na</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Na</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,71</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Nd</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Nd</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Nd</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Nd</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,323</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Ni</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ni</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Ni</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ni</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,257</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Ni</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mrow><m:mn>6</m:mn></m:mrow></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ni</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>6NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Ni</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mrow><m:mn>6</m:mn></m:mrow></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ni</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>6NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
 <entry align="left">-0,49</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msup><m:mtext>Ni</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msup><m:mtext>Ni</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,593</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ni</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ni</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,49</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>NiS</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ni</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>NiS</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ni</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,76</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:mtext>NO</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,957</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mrow><m:mtext>HNO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mrow><m:mtext>HNO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,92</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,10</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Np</m:mtext></m:mrow><m:mn>3+</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Np</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Np</m:mtext></m:mrow><m:mn>3+</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Np</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,856</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>4e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>4OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>4e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>4OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,401</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub>
 </m:mrow></m:math></entry>
 <entry align="left">+0,695</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,229</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Pb</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pb</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Pb</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pb</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,1262</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>PbO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>SO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mrow><m:mtext>PbSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>PbO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mtext>SO</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mrow><m:mtext>PbSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,69</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>PbS</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pb</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>PbS</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pb</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,95</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>PbSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pb</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mn>2−</m:mn></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>PbSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pb</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mn>2−</m:mn></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,3505</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Pd</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pd</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Pd</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pd</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,987</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PdCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pd</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4Cl</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PdCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pd</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4Cl</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,591</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Pt</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mtext/><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pt</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Pt</m:mtext></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mtext/><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pt</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+1,20</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PtBr</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pt</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4Br</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PtBr</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pt</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4Br</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,58</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PtCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pt</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4Cl</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PtCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pt</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4Cl</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,755</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PtCl</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PtCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2Cl</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PtCl</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>PtCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2Cl</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,68</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Pu</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pu</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Pu</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Pu</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,03</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Ra</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ra</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Ra</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ra</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,92</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Rb</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Rb</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Rb</m:mtext></m:mrow><m:mtext>+</m:mtext></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Rb</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,98</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>RhCl</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>3e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Rh</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>6Cl</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>RhCl</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>3e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Rh</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>6Cl</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,44</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>S</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>S</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,47627</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>S</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>S</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>S</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>S</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,142</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sc</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sc</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sc</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sc</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,09</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>Se</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>Se</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Se</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2 </m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>Se</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,399</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Si</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>6F</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>SiF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Si</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>6F</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,2</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>SiO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup><m:mtext/><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Si</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>6OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>SiO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup><m:mtext/><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>3H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Si</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>6OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,697</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:mtext>Si</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SiO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:mtext>Si</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,86</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sm</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sm</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sm</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sm</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,304</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sn</m:mtext><m:mrow><m:mn>4+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>Sn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sn</m:mtext><m:mrow><m:mn>4+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msup><m:mtext>Sn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">+0,151</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sn</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sn</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,1375</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>SnF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sn</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>6F</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:msub><m:mrow><m:mtext>SnF</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sn</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>6F</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,25</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>SnS</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sn</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>SnS</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sn</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">-0,94</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sr</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sr</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Sr</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Sr</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,89</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>TeO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>-</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:mtext>Te</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>TeO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mtext>e</m:mtext><m:mo>–</m:mo></m:msup><m:mo stretchy="false">⟶</m:mo><m:mtext>Te</m:mtext><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:math></entry>
 <entry align="left">+0,593</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Th</m:mtext><m:mrow><m:mn>4+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Th</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Th</m:mtext><m:mrow><m:mn>4+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Th</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,90</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Ti</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ti</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Ti</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Ti</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,630</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>U</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>U</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>U</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>U</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,79</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>V</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>V</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,19</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Y</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Y</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Y</m:mtext><m:mrow><m:mn>3+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>3e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Y</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-2,37</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Zn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mtext>Zn</m:mtext><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-0,7618</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4CN</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>CN</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4CN</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,26</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>4NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">).</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mrow><m:mn>2+</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>4NH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
 <entry align="left">-1,04</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2 </m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,245</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mn>2 </m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4OH</m:mtext></m:mrow><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mo>[</m:mo><m:mtext>Zn</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>OH</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:msub><m:mo>]</m:mo></m:mrow><m:mn>2 </m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>2e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4OH</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,199</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:mtext>ZnS</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>-</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mtext>ZnS</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>2e</m:mtext><m:mrow><m:mo>–</m:mo></m:mrow></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zn</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>S</m:mtext><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup></m:mrow></m:math></entry>
 <entry align="left">-1,40</entry>
 </row>
 <row valign="middle">
-<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Zr</m:mtext></m:mrow><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>-</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zr</m:mtext></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msup><m:mrow><m:mtext>Zr</m:mtext></m:mrow><m:mn>4</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mtext>4e</m:mtext></m:mrow><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Zr</m:mtext></m:mrow></m:math></entry>
 <entry align="left">-1,539</entry>
 </row>
 </tbody>

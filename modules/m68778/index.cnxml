@@ -19,7 +19,7 @@
 <media id="fs-idm31373696" alt="La primera foto muestra un pequeño montículo de un sólido cristalino de color naranja. Hay una flecha hacia la derecha. La segunda foto muestra un líquido translúcido e incoloro en un recipiente transparente. Hay una flecha hacia la derecha. La tercera foto muestra un líquido anaranjado translúcido en un recipiente transparente con tapa.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_11_01_K2Cr2O7_1.jpg"/>
 </media>
-<caption>Cuando el dicromato de potasio (K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>) se mezcla con agua, forma una solución homogénea de color naranja. (Crédito: modificación del trabajo de Mark Ott).</caption>
+<caption>Cuando el dicromato de potasio (K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>) se mezcla con agua forma una solución homogénea de color naranja (créditos: modificación del trabajo de Mark Ott).</caption>
 </figure>
 <note id="fs-idm80955760" class="chemistry link-to-learning">
 <para id="fs-idm40076400">Visite este <link url="http://openstax.org/l/16Phetsugar">laboratorio virtual</link> para ver simulaciones de la disolución de sustancias covalentes e iónicas comunes (azúcar y sal) en agua.</para>
@@ -140,15 +140,15 @@
 <para id="fs-idm80982688">(c) ¿Es la solución resultante una solución ideal?</para>
 </problem>
 <solution id="fs-idm53013312">
-<para id="fs-idm55862704">(a) El proceso es endotérmico ya que la solución está consumiendo calor. (b) La atracción entre los iones K<sup>+</sup> y <m:math><m:mrow><m:mtext>N</m:mtext><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>- −</m:mtext></m:msup></m:mrow></m:math> es más fuerte que entre los iones y las moléculas de agua (las interacciones ion-ion tienen una energía más baja y negativa). Por lo tanto, el proceso de disolución aumenta la energía de las interacciones moleculares y consume la energía térmica de la solución para compensar la diferencia. c) No, se forma una solución ideal sin desprendimiento ni consumo de calor apreciable.</para>
+<para id="fs-idm55862704">(a) El proceso es endotérmico ya que la solución está consumiendo calor. (b) La atracción entre los iones K<sup>+</sup> y <m:math><m:mrow><m:mtext>N</m:mtext><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math> es más fuerte que entre los iones y las moléculas de agua (las interacciones ion-ion tienen una energía más baja y negativa). Por lo tanto, el proceso de disolución aumenta la energía de las interacciones moleculares y consume la energía térmica de la solución para compensar la diferencia. c) No, se forma una solución ideal sin desprendimiento ni consumo de calor apreciable.</para>
 </solution>
 </exercise>
 <exercise id="fs-idm33766240">
 <problem id="fs-idm36557168">
 <para id="fs-idm96684496">Dé un ejemplo de cada uno de los siguientes tipos de soluciones:</para>
-<para id="fs-idm82255936">a) un gas en un líquido</para>
-<para id="fs-idp3899904">b) un gas en un gas</para>
-<para id="fs-idp4106416">c) un sólido en un sólido</para>
+<para id="fs-idm82255936">(a) un gas en un líquido</para>
+<para id="fs-idp3899904">(b) un gas en un gas</para>
+<para id="fs-idp4106416">(c) un sólido en un sólido</para>
 </problem>
 </exercise>
 <exercise id="fs-idm6481344">
@@ -166,9 +166,9 @@
 <exercise id="fs-idm118513216">
 <problem id="fs-idm95538736">
 <para id="fs-idm3077840">Prediga si cada una de las siguientes sustancias sería más soluble en agua (solvente polar) o en un hidrocarburo como el heptano (C<sub>7</sub>H<sub>16</sub>, solvente no polar):</para>
-<para id="fs-idm72378352">a) aceite vegetal (no polar)</para>
-<para id="fs-idm39465280">b) alcohol isopropílico (polar)</para>
-<para id="fs-idm10471328">c) bromuro de potasio (iónico)</para>
+<para id="fs-idm72378352">(a) aceite vegetal (no polar)</para>
+<para id="fs-idm39465280">(b) alcohol isopropílico (polar)</para>
+<para id="fs-idm10471328">(c) bromuro de potasio (iónico)</para>
 </problem>
 </exercise>
 <exercise id="fs-idm95777520">
@@ -176,7 +176,7 @@
 <para id="fs-idm75932528">El calor se libera cuando se forman algunas soluciones; el calor se absorbe cuando se forman otras soluciones. Proporcione una explicación molecular de la diferencia entre estos dos tipos de procesos espontáneos.</para>
 </problem>
 <solution id="fs-idm21267712">
-<para id="fs-idp542224">El calor se libera cuando el total de las fuerzas intermoleculares (intermolecular forces, IMF) entre las moléculas del soluto y del solvente son más fuertes que el total de las IMF en el soluto puro y en el solvente puro: Romper las IMF más débiles y formar las más fuertes libera calor. El calor se absorbe cuando el total de las IMF en la solución es más débil que el total de las del soluto puro y del solvente puro: Romper las IMF más fuertes y formar las más débiles absorbe el calor.</para>
+<para id="fs-idp542224">El calor se libera cuando el total de las fuerzas intermoleculares (IMF) entre las moléculas del soluto y del solvente son más fuertes que el total de las IMF en el soluto puro y en el solvente puro: Romper las IMF más débiles y formar las más fuertes libera calor. El calor se absorbe cuando el total de las IMF en la solución es más débil que el total de las del soluto puro y del solvente puro: Romper las IMF más fuertes y formar las más débiles absorbe el calor.</para>
 </solution>
 </exercise>
 <exercise id="fs-idm30601328"><problem id="fs-idm1141728">

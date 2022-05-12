@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m68740</md:content-id>
   <md:title>Cargas formales y resonancia</md:title>
-  <md:abstract><para id="para-00001">Al final de esta sección podrá:</para><list id="list-00001"><item>Calcular las cargas formales de los átomos en cualquier estructura de Lewis.</item>
+  <md:abstract><para id="para-00001">Al final de esta sección, podrá:</para><list id="list-00001"><item>Calcular las cargas formales de los átomos en cualquier estructura de Lewis.</item>
 <item>Utilizar las cargas formales para identificar la estructura de Lewis más razonable para una molécula dada.</item>
 <item>Explicar el concepto de resonancia y dibujar estructuras de Lewis que representen las formas de resonancia de una molécula determinada.</item></list></md:abstract>
   <md:uuid>bdd8ac14-71e8-4a87-9cc7-361f0a3157c2</md:uuid>
@@ -15,13 +15,14 @@
 <title>Cálculo de la carga formal</title>
 <para id="fs-idm16217792">La <term id="term-00001">carga formal</term> de un átomo en una molécula es la carga <emphasis effect="italics">hipotética</emphasis> que tendría el átomo si pudiéramos redistribuir los electrones de los enlaces de manera uniforme entre los átomos. Otra forma de decir esto es que la carga formal es el resultado de tomar el número de electrones de valencia de un átomo neutro, restar los electrones no enlazantes y luego restar el número de enlaces conectados a ese átomo en la estructura de Lewis.</para>
 <para id="fs-idp126842624">Así, calculamos la carga formal de la siguiente manera:</para>
-<equation id="fs-idp90018832" class="unnumbered"><m:math><m:mrow><m:mtext>carga formal</m:mtext><m:mo>=</m:mo><m:mtext># electrones de la capa de valencia (átomo libre)</m:mtext><m:mo>-</m:mo><m:mtext># electrones de par solitario</m:mtext><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>número de electrones de enlace</m:mtext></m:mrow></m:math>
+<equation id="fs-idp90018832" class="unnumbered"><m:math><m:mrow><m:mtable><m:mtr><m:mtd><m:mtext>carga formal</m:mtext><m:mo>=</m:mo></m:mtd></m:mtr>
+<m:mtr><m:mtd>  <m:mtext># electrones de la capa de valencia (átomo libre)</m:mtext><m:mo>–</m:mo><m:mtext># electrones de par solitario</m:mtext><m:mspace width="0.2em"/><m:mo>–</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>número de electrones de enlace</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math>
 </equation>
 <para id="fs-idp88204016">Podemos volver a comprobar los cálculos de las cargas formales determinando la suma de las cargas formales de toda la estructura. La suma de las cargas formales de todos los átomos de una molécula debe ser cero; la suma de las cargas formales de un ion debe ser igual a la carga del ion.</para>
 <para id="fs-idp15200480">Debemos recordar que la carga formal calculada en un átomo no es la carga <emphasis effect="italics">real</emphasis> del átomo en la molécula. La carga formal es solo un procedimiento para contabilizar; no indica la presencia de cargas reales.</para>
 <example id="fs-idm21031296">
 <para id="fs-idp63607984"><title>Cálculo de la carga formal a partir de las estructuras de Lewis</title>
-Asignar cargas formales a cada átomo del ion interhalógeno <m:math><m:mrow><m:msub><m:mtext>ICl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+Asignar cargas formales a cada átomo del ion interhalógeno <m:math><m:mrow><m:msub><m:mtext>ICl</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-idp251046608"><title>Solución</title>
 </para>
 <list id="fs-idm30182496" list-type="enumerated" number-style="arabic" class="stepwise">
@@ -30,7 +31,7 @@ Asignar cargas formales a cada átomo del ion interhalógeno <m:math><m:mrow><m:
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_ICL4_img.jpg"/>
 </media></item>
 <item><emphasis effect="italics">Asignamos pares solitarios de electrones a sus átomos</emphasis>. Cada átomo de Cl tiene ahora siete electrones asignados, y el átomo de I tiene ocho.</item>
-<item><emphasis effect="italics">Resta este número del número de electrones de valencia del átomo neutro:</emphasis><newline/> I: 7 - 8 = -1<newline/> Cl: 7 - 7 = 0<newline/> La suma de las cargas formales de todos los átomos es igual a -1, que es idéntica a la carga del ion (–1).</item>
+<item><emphasis effect="italics">Resta este número del número de electrones de valencia del átomo neutro:</emphasis><newline/> I: 7 - 8 = -1<newline/> Cl: 7 – 7 = 0<newline/> La suma de las cargas formales de todos los átomos es igual a –1, que es idéntica a la carga del ion (–1).</item>
 </list>
 <para id="fs-idp65521520"><title>Compruebe sus conocimientos</title>
 Calcule la carga formal de cada átomo de la molécula de monóxido de carbono:</para>
@@ -95,7 +96,7 @@ Al determinar la carga formal se obtiene lo siguiente:</para>
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NNO_img.jpg"/>
 </media>
 <para id="fs-idp29868224">Se minimiza el número de átomos con cargas formales (directriz 2), no hay ninguna carga formal con una magnitud superior a uno (directriz 2), la carga formal negativa está en el elemento más electronegativo (directriz 4) y el átomo menos electronegativo está en la posición central.</para><para id="fs-idp67397856"><title>Compruebe lo aprendido</title>
-¿Cuál es la estructura molecular más probable para el ion de nitrito <m:math><m:mrow><m:mo>(</m:mo><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>)</m:mo></m:mrow></m:math>?</para>
+¿Cuál es la estructura molecular más probable para el ion de nitrito <m:math><m:mrow><m:mo>(</m:mo><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup><m:mo>)</m:mo></m:mrow></m:math>?</para>
 <media id="fs-idp250861152" alt="Se muestran dos estructuras de Lewis con la palabra &quot;o&quot; escrita entre ellas. La estructura de la izquierda muestra un átomo de nitrógeno con dos pares solitarios de electrones unido con doble enlace a un átomo de oxígeno con un par solitario de electrones que está unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. Los corchetes rodean esta estructura y esta tiene un signo negativo en superíndice. La estructura de la derecha muestra un átomo de oxígeno con dos pares solitarios de electrones unido con doble enlace a un átomo de nitrógeno con un par solitario de electrones que está unido con enlace simple a un oxígeno con tres pares solitarios de electrones. Los corchetes rodean esta estructura y esta tiene un signo negativo en superíndice." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NO2ion_img.jpg"/>
 </media>
@@ -107,8 +108,8 @@ Al determinar la carga formal se obtiene lo siguiente:</para>
 <media id="fs-idp25860608" alt="Se muestran dos estructuras de Lewis. La estructura de la izquierda muestra un átomo de oxígeno con tres pares solitarios de electrones unido con enlace simple a un átomo de nitrógeno con un par solitario de electrones unido con doble enlace a un oxígeno con dos pares solitarios de electrones. La estructura está entre corchetes y lleva un signo negativo en superíndice. La estructura de la derecha muestra un átomo de oxígeno con dos pares solitarios de electrones unido con doble enlace a un átomo de nitrógeno con un par solitario de electrones que está unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. La estructura está entre corchetes y lleva un signo negativo en superíndice." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NO2res_img.jpg"/>
 </media>
-<para id="fs-idm7645504">Si los iones de nitrito contienen efectivamente un enlace simple y uno doble, cabría esperar que las dos longitudes de enlace fueran diferentes. Un doble enlace entre dos átomos es más corto (y más fuerte) que un enlace simple entre los mismos dos átomos. Los experimentos muestran, sin embargo, que los dos enlaces N-O en <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> tienen la misma resistencia y longitud, y son idénticos en todas las demás propiedades.</para>
-<para id="fs-idp203952864">No es posible escribir una única estructura de Lewis para <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> en el que el nitrógeno tiene un octeto y ambos enlaces son equivalentes. En su lugar, utilizamos el concepto de <term id="term-00003">resonancia</term>: si se pueden escribir dos o más estructuras de Lewis con la misma disposición de los átomos en una molécula o un ion, la distribución real de los electrones es una <emphasis effect="italics">media</emphasis> de la que muestran las distintas estructuras de Lewis. La distribución real de electrones en cada uno de los enlaces nitrógeno-oxígeno en <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> es la media de un doble enlace y un enlace simple. Llamamos a las estructuras individuales de Lewis <term id="term-00004">formas de resonancia</term>. La estructura electrónica real de la molécula (la media de las formas de resonancia) se denomina <term id="term-00005">híbrido de resonancia</term> de las formas de resonancia individuales. Una flecha de doble punta entre las estructuras de Lewis indica que son formas de resonancia.</para>
+<para id="fs-idm7645504">Si los iones de nitrito contienen efectivamente un enlace simple y uno doble, cabría esperar que las dos longitudes de enlace fueran diferentes. Un doble enlace entre dos átomos es más corto (y más fuerte) que un enlace simple entre los mismos dos átomos. Los experimentos muestran, sin embargo, que los dos enlaces N-O en <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math> tienen la misma resistencia y longitud, y son idénticos en todas las demás propiedades.</para>
+<para id="fs-idp203952864">No es posible escribir una única estructura de Lewis para <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math> en el que el nitrógeno tiene un octeto y ambos enlaces son equivalentes. En su lugar, utilizamos el concepto de <term id="term-00003">resonancia</term>: si se pueden escribir dos o más estructuras de Lewis con la misma disposición de los átomos en una molécula o un ion, la distribución real de los electrones es una <emphasis effect="italics">media</emphasis> de la que muestran las distintas estructuras de Lewis. La distribución real de electrones en cada uno de los enlaces nitrógeno-oxígeno en <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math> es la media de un doble enlace y un enlace simple. Llamamos a las estructuras individuales de Lewis <term id="term-00004">formas de resonancia</term>. La estructura electrónica real de la molécula (la media de las formas de resonancia) se denomina <term id="term-00005">híbrido de resonancia</term> de las formas de resonancia individuales. Una flecha de doble punta entre las estructuras de Lewis indica que son formas de resonancia.</para>
 <media id="fs-idp40211808" alt="Se muestran dos estructuras de Lewis con una flecha de doble punta entre ellas. La estructura de la izquierda muestra un átomo de oxígeno con tres pares solitarios de electrones unido con enlace simple a un átomo de nitrógeno con un par solitario de electrones unido con doble enlace a un oxígeno con dos pares solitarios de electrones. La estructura está entre corchetes y lleva un signo negativo en superíndice. La estructura de la derecha muestra un átomo de oxígeno con dos pares solitarios de electrones unido con doble enlace a un átomo de nitrógeno con un par solitario de electrones que está unido con enlace simple a un átomo de oxígeno con tres pares solitarios de electrones. La estructura está entre corchetes y lleva un signo negativo en superíndice." class="scaled-down">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_NO2resarr_img.jpg"/>
 </media>
@@ -129,21 +130,22 @@ Al determinar la carga formal se obtiene lo siguiente:</para>
 <table id="key-equations-table" class="unnumbered unstyled" summary="tabla de ecuaciones clave"><label/>
 <tgroup cols="1"><colspec colnum="1" colname="c1"/>
 <tbody>
-<row><entry><m:math><m:mrow><m:mtext>carga formal</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mtext># electrones de la capa de valencia (átomo libre)</m:mtext><m:mspace width="0.1em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mtext># electrones de par solitario</m:mtext><m:mspace width="0.2em"/><m:mo>-</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.3em"/><m:mtext>número de electrones de enlace</m:mtext></m:mrow></m:math></entry>
+<row><entry><m:math><m:mrow><m:mtable><m:mtr><m:mtd><m:mtext>carga formal</m:mtext><m:mo>=</m:mo></m:mtd></m:mtr>
+  <m:mtr><m:mtd>  <m:mtext># electrones de la capa de valencia (átomo libre)</m:mtext><m:mo>–</m:mo><m:mtext># electrones de par solitario</m:mtext><m:mspace width="0.2em"/><m:mo>–</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>número de electrones de enlace</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></entry>
 </row>
 </tbody></tgroup></table>
 </section>
 <section id="fs-idp27655616" class="exercises"><title>Ejercicios de fin de capítulo de Química</title><exercise id="fs-idm30094208">
 <problem id="fs-idp135564336">
 <para id="fs-idm31598368">Escriba formas de resonancia que describan la distribución de electrones en cada una de estas moléculas o iones.</para>
-<para id="fs-idp23454288">a) dióxido de selenio, OSeO</para>
-<para id="fs-idp37794160">b) ion nitrato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp23454288">(a) dióxido de selenio, OSeO</para>
+<para id="fs-idp37794160">(b) ion nitrato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idp213179184">(c) ácido nítrico, HNO<sub>3</sub> (el N está unido a un grupo OH y a dos átomos de O)</para>
-<para id="fs-idp77939504">d) benceno, C<sub>6</sub>H<sub>6</sub>:</para>
+<para id="fs-idp77939504">(d) benceno, C<sub>6</sub>H<sub>6</sub>:</para>
 <media id="fs-idp6338064" alt="Una estructura de Lewis muestra un anillo hexagonal compuesto por seis átomos de carbono. Forman enlaces simples entre sí y enlaces simples con un átomo de hidrógeno cada uno.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_CHOOd_img.jpg"/>
 </media>
-<para id="fs-idp63312576">e) el ion formiato:</para>
+<para id="fs-idp63312576">(e) el ion formiato:</para>
 <media id="fs-idm22375248" alt="Una estructura de Lewis muestra un átomo de carbono unido con enlace simple a dos átomos de oxígeno y a un átomo de hidrógeno. La estructura está rodeada de corchetes y tiene un signo negativo en superíndice.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_CHOOe_img.jpg"/>
 </media>
@@ -153,13 +155,13 @@ Al determinar la carga formal se obtiene lo siguiente:</para>
 <problem id="fs-idm41485040">
 <para id="fs-idm26550544">Escriba formas de resonancia que describan la distribución de electrones en cada una de estas moléculas o iones.</para>
 <para id="fs-idm12563008">(a) dióxido de azufre, SO<sub>2</sub></para>
-<para id="fs-idm34089184">b) ion carbonato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
-<para id="fs-idp28289264">(c) ion hidrogenocarbonato, <m:math><m:mrow><m:msub><m:mtext>HCO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math> (el C está unido a un grupo OH y a dos átomos de O)</para>
-<para id="fs-idp4938192">d) piridina:</para>
+<para id="fs-idm34089184">(b) ion carbonato, <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp28289264">(c) ion hidrogenocarbonato, <m:math><m:mrow><m:msub><m:mtext>HCO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math> (el C está unido a un grupo OH y a dos átomos de O)</para>
+<para id="fs-idp4938192">(d) piridina:</para>
 <media id="fs-idp77072272" alt="Una estructura de Lewis representa un anillo hexagonal compuesto por cinco átomos de carbono y uno de nitrógeno. Cada átomo de carbono está unido con enlace simple a un átomo de hidrógeno.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_SO2resd_img.jpg"/>
 </media>
-<para id="fs-idp27230032">e) ion alilo:</para>
+<para id="fs-idp27230032">(e) ion alilo:</para>
 <media id="fs-idp30893072" alt="Una estructura de Lewis muestra un átomo de carbono unido con enlace simple a dos átomos de hidrógeno y a un segundo átomo de carbono. El segundo átomo de carbono está unido con enlace simple a un átomo de hidrógeno y a un tercer átomo de carbono. El tercer átomo de carbono está unido con enlace simple a dos átomos de hidrógeno. Toda la estructura está rodeada de corchetes y tiene un signo negativo en superíndice.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_04_SO2rese_img.jpg"/>
 </media>
@@ -262,8 +264,8 @@ Al determinar la carga formal se obtiene lo siguiente:</para>
 <para id="fs-idm242192">Calcule la carga formal de cada elemento en los siguientes compuestos e iones:</para>
 <para id="fs-idp61606880">(a) F<sub>2</sub>CO</para>
 <para id="fs-idp8204656">(b) NO<sup>–</sup></para>
-<para id="fs-idp135234752">(c) <m:math><m:mrow><m:msub><m:mtext>BF</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
-<para id="fs-idp93361152">(d) <m:math><m:mrow><m:msub><m:mtext>SnCl</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp135234752">(c) <m:math><m:mrow><m:msub><m:mtext>BF</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp93361152">(d) <m:math><m:mrow><m:msub><m:mtext>SnCl</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idp56044224">(e) H<sub>2</sub>CCH<sub>2</sub></para>
 <para id="fs-idp250816336">(f) ClF<sub>3</sub></para>
 <para id="fs-idm32764688">(g) SeF<sub>6</sub></para>
@@ -275,8 +277,8 @@ Al determinar la carga formal se obtiene lo siguiente:</para>
 <para id="fs-idp56625152">Dibuje todas las estructuras de resonancia posibles para cada uno de estos compuestos. Determine la carga formal de cada átomo en cada una de las estructuras de resonancia:</para>
 <para id="fs-idp131483136">(a) O<sub>3</sub></para>
 <para id="fs-idp134896400">(b) SO<sub>2</sub></para>
-<para id="fs-idp213461280">(c) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
-<para id="fs-idm63534048">(d) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp213461280">(c) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idm63534048">(d) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 </problem>
 <solution id="fs-idp32967664">
 <para id="fs-idp124490112">(a)<newline/>
@@ -350,7 +352,7 @@ Al determinar la carga formal se obtiene lo siguiente:</para>
 </exercise>
 <exercise id="fs-idm30783968">
 <problem id="fs-idm26287472">
-<para id="fs-idp101954928">El ácido sulfúrico es el producto químico industrial que se produce en mayor cantidad en todo el mundo. Tan solo en Estados Unidos se producen unos 90.000 millones de libras al año. Escriba la estructura de Lewis del ácido sulfúrico, H<sub>2</sub>SO<sub>4</sub>, que tiene dos átomos de oxígeno y dos grupos OH unidos al azufre.</para>
+<para id="fs-idp101954928">El ácido sulfúrico es el producto químico industrial que se produce en mayor cantidad en todo el mundo. Tan solo en los Estados Unidos se producen unos 90.000 millones de libras al año. Escriba la estructura de Lewis del ácido sulfúrico, H<sub>2</sub>SO<sub>4</sub>, que tiene dos átomos de oxígeno y dos grupos OH unidos al azufre.</para>
 </problem>
 <solution id="fs-idp189635616">
 <para id="fs-idm118650128"> <newline/><media id="fs-idp5472672" alt="Una estructura de Lewis muestra un átomo de hidrógeno unido con enlace simple a un átomo de oxígeno con dos pares solitarios de electrones. El átomo de oxígeno está unido con enlace simple a un átomo de azufre. El átomo de azufre está unido con doble enlace a dos átomos de oxígeno, cada uno de los cuales tiene tres pares solitarios de electrones, y está unido con enlace simple a un átomo de oxígeno con dos pares solitarios de electrones. Este átomo de oxígeno está unido con enlace simple a un átomo de hidrógeno.">

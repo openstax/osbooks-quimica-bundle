@@ -42,7 +42,7 @@
 <section id="fs-idp14008096">
 <title>Electronegatividad</title>
 <para id="fs-idm42504736">El hecho de que un enlace sea covalente no polar o polar viene determinado por una propiedad de los átomos enlazados llamada <term id="term-00005">electronegatividad</term>. La electronegatividad es una medida de la tendencia de un átomo a atraer electrones (o configuración electrónica) hacia sí mismo. Determina cómo se distribuyen los electrones compartidos entre los dos átomos de un enlace. Cuanto más fuertemente atraiga un átomo los electrones de sus enlaces, mayor será su electronegatividad. Los electrones de un enlace covalente polar se desplazan hacia el átomo más electronegativo; así, el átomo más electronegativo es el que tiene la carga negativa parcial. Cuanto mayor sea la diferencia de electronegatividad, más polarizada estará la distribución de electrones y mayores serán las cargas parciales de los átomos.</para>
-<para id="fs-idm49461456">La <link target-id="CNX_Chem_07_02_ENTable"/> muestra los valores de electronegatividad de los elementos según la propuesta de uno de los químicos más famosos del siglo XX: Linus Pauling (<link target-id="CNX_Chem_07_02_Pauling"/>). En general, la electronegatividad aumenta de izquierda a derecha a través de un período en la tabla periódica y disminuye hacia abajo en un grupo. Así, los no metales, que se encuentran en la parte superior derecha, tienden a tener las mayores electronegatividades, siendo el flúor el elemento más electronegativo de todos (EN = 4,0). Los metales tienden a ser elementos menos electronegativos, y los metales del grupo 1 tienen las electronegatividades más bajas. Note que los gases nobles están excluidos de esta figura porque estos átomos no suelen compartir electrones con otros átomos ya que tienen una capa de valencia completa. (Aunque existen compuestos de gases nobles como el XeO<sub>2</sub>, solo pueden formarse en condiciones extremas, por lo que no encajan perfectamente en el modelo general de electronegatividad).</para>
+<para id="fs-idm49461456">La <link target-id="CNX_Chem_07_02_ENTable"/> muestra los valores de electronegatividad de los elementos según la propuesta de uno de los químicos más famosos del siglo XX: Linus Pauling (<link target-id="CNX_Chem_07_02_Pauling"/>). En general, la electronegatividad aumenta de izquierda a derecha a través de un periodo en la tabla periódica y disminuye hacia abajo en un grupo. Así, los no metales, que se encuentran en la parte superior derecha, tienden a tener las mayores electronegatividades, siendo el flúor el elemento más electronegativo de todos (EN = 4,0). Los metales tienden a ser elementos menos electronegativos, y los metales del grupo 1 tienen las electronegatividades más bajas. Note que los gases nobles están excluidos de esta figura porque estos átomos no suelen compartir electrones con otros átomos ya que tienen una capa de valencia completa. (Aunque existen compuestos de gases nobles como el XeO<sub>2</sub>, solo pueden formarse en condiciones extremas, por lo que no encajan perfectamente en el modelo general de electronegatividad).</para>
 <figure id="CNX_Chem_07_02_ENTable">
 <media id="fs-idp15011408" alt="Se muestra parte de la tabla periódica. A la izquierda de la tabla se dibuja una flecha que mira hacia abajo y se etiqueta como &quot;Disminución de la electronegatividad&quot;, mientras que encima de la tabla se dibuja una flecha que mira hacia la derecha y se etiqueta como &quot;Aumento de la electronegatividad&quot;. Se muestra la electronegatividad de casi todos los elementos.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_02_ENTable.jpg"/>
@@ -59,7 +59,7 @@
 <media id="fs-idp80404176" alt="Se muestra una fotografía de Linus Pauling.">
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_07_02_Pauling.jpg"/>
 </media>
-<caption>Linus Pauling (1901–1994) hizo muchas e importantes contribuciones al campo de la química. También fue un destacado activista, dando a conocer temas relacionados con la salud y las armas nucleares.</caption>
+<caption>Linus Pauling (1901-1994) hizo muchas e importantes contribuciones al campo de la química. También fue un destacado activista, dando a conocer temas relacionados con la salud y las armas nucleares.</caption>
 </figure>
 <para id="fs-idp80917280">Pauling también contribuyó a muchos otros campos además de la química. Sus investigaciones sobre la anemia falciforme revelaron la causa de la enfermedad (la presencia de una proteína anormal heredada genéticamente en la sangre) y allanaron el camino para el campo de la genética molecular. Su trabajo también fue fundamental para frenar las pruebas de armas nucleares; demostró que la lluvia radioactiva de las pruebas nucleares suponía un riesgo para la salud pública.</para>
 </note>
@@ -75,7 +75,7 @@
 </figure>
 <para id="fs-idm32214656">Una aproximación a las diferencias de electronegatividad asociadas a los enlaces covalentes, covalentes polares e iónicos se muestra en la <link target-id="CNX_Chem_07_02_DeltaEN"/>. Sin embargo, esta tabla es solo una guía general, con muchas excepciones. Por ejemplo, los átomos de H y F en el HF tienen una diferencia de electronegatividad de 1,9, y los átomos de N y H en el NH<sub>3</sub> una diferencia de 0,9, y sin embargo ambos compuestos forman enlaces que se consideran covalentes polares. Así mismo, los átomos de Na y Cl en el NaCl tienen una diferencia de electronegatividad de 2,1, y los átomos de Mn e I en el MnI<sub>2</sub> tienen una diferencia de 1,0, y sin embargo ambas sustancias forman compuestos iónicos.</para>
 <para id="fs-idm28373728">La mejor guía para determinar el carácter covalente o iónico de un enlace es considerar los tipos de átomos implicados y sus posiciones relativas en la tabla periódica. Los enlaces entre dos no metales suelen ser covalentes; los enlaces entre un metal y un no metal suelen ser iónicos.</para>
-<para id="fs-idm38253568">Algunos compuestos contienen tanto enlaces covalentes como iónicos. Los átomos de los iones poliatómicos, como el OH<sup>-</sup>, <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> y <m:math><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> se mantienen unidos por enlaces covalentes polares. Sin embargo, estos iones poliatómicos forman compuestos iónicos al combinarse con iones de carga opuesta. Por ejemplo, el nitrato de potasio, KNO<sub>3</sub>, contiene el catión K<sup>+</sup> y el anión poliatómico <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math>. Por lo tanto, el enlace en el nitrato de potasio es iónico, resultado de la atracción electrostática entre los iones K<sup>+</sup> y <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> así como covalente entre los átomos de nitrógeno y oxígeno en <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-idm38253568">Algunos compuestos contienen tanto enlaces covalentes como iónicos. Los átomos de los iones poliatómicos, como el OH<sup>-</sup>, <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> y <m:math><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> se mantienen unidos por enlaces covalentes polares. Sin embargo, estos iones poliatómicos forman compuestos iónicos al combinarse con iones de carga opuesta. Por ejemplo, el nitrato de potasio, KNO<sub>3</sub>, contiene el catión K<sup>+</sup> y el anión poliatómico <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math>. Por lo tanto, el enlace en el nitrato de potasio es iónico, resultado de la atracción electrostática entre los iones K<sup>+</sup> y <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup><m:mo>,</m:mo></m:mrow></m:math> así como covalente entre los átomos de nitrógeno y oxígeno en <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
 <example id="fs-idm8119280">
 <para id="fs-idp117774608"><title>Electronegatividad y polaridad de los enlaces</title>
 Las polaridades de los enlaces desempeñan un papel importante en la determinación de la estructura de las proteínas. Utilizando los valores de electronegatividad en la <link target-id="CNX_Chem_07_02_ENTable"/>, ordene los siguientes enlaces covalentes (todos comúnmente encontrados en los aminoácidos) en orden de polaridad creciente. A continuación, designe los átomos positivos y negativos con los símbolos δ+ y δ-:</para>
@@ -101,32 +101,32 @@ La polaridad de estos enlaces aumenta a medida que aumenta el valor absoluto de 
 <row valign="top">
 <entry align="left">C–H</entry>
 <entry align="center">0,4</entry>
-<entry align="center"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>–</m:mtext></m:mrow></m:mover><m:mtext>–</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry align="left">S–H</entry>
 <entry align="center">0,4</entry>
-<entry align="center"><m:math><m:mrow><m:mover><m:mtext>S</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>S</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>–</m:mtext></m:mrow></m:mover><m:mtext>–</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry align="left">C–N</entry>
 <entry align="center">0,5</entry>
-<entry align="center"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>N</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>–</m:mtext><m:mover><m:mtext>N</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>–</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry align="left">N–H</entry>
 <entry align="center">0,9</entry>
-<entry align="center"><m:math><m:mrow><m:mover><m:mtext>N</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>N</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>–</m:mtext></m:mrow></m:mover><m:mtext>–</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry align="left">C–O</entry>
 <entry align="center">1,0</entry>
-<entry align="center"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>O</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>–</m:mtext><m:mover><m:mtext>O</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>–</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry align="left">O–H</entry>
 <entry align="center">1,4</entry>
-<entry align="center"><m:math><m:mrow><m:mover><m:mtext>O</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mover><m:mtext>O</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>–</m:mtext></m:mrow></m:mover><m:mtext>–</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
 </row>
 </tbody>
 </tgroup>
@@ -156,17 +156,17 @@ Las siliconas son compuestos poliméricos que contienen, entre otros, los siguie
 <row valign="top">
 <entry align="left">C–H</entry>
 <entry align="left">0,4</entry>
-<entry align="left"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>–</m:mtext></m:mrow></m:mover><m:mtext>–</m:mtext><m:mover><m:mtext>H</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry align="left">Si–C</entry>
 <entry align="left">0,7</entry>
-<entry align="left"><m:math><m:mrow><m:mover><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mover><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>–</m:mtext><m:mover><m:mtext>C</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>–</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry align="left">Si–O</entry>
 <entry align="left">1,7</entry>
-<entry align="left"><m:math><m:mrow><m:mover><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>-</m:mtext><m:mover><m:mtext>O</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>-</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:mover><m:mrow><m:mtext>Si</m:mtext></m:mrow><m:mrow><m:mi>δ</m:mi><m:mtext>+</m:mtext></m:mrow></m:mover><m:mtext>–</m:mtext><m:mover><m:mtext>O</m:mtext><m:mrow><m:mi>δ</m:mi><m:mtext>–</m:mtext></m:mrow></m:mover></m:mrow></m:math></entry>
 </row>
 </tbody>
 </tgroup>
@@ -307,10 +307,10 @@ Las siliconas son compuestos poliméricos que contienen, entre otros, los siguie
 <para id="fs-idp64798368">(a) O<sub>3</sub></para>
 <para id="fs-idp73172304">(b) S<sub>8</sub></para>
 <para id="fs-idp88939568">(c) <m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mtext>2−</m:mtext></m:msup></m:mrow></m:math></para>
-<para id="fs-idp4309200">(d) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp4309200">(d) <m:math><m:mrow><m:msub><m:mtext>NO</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 <para id="fs-idp253740944">(e) CO<sub>2</sub></para>
 <para id="fs-idp128497056">(f) H<sub>2</sub>S</para>
-<para id="fs-idp46941312">(g) <m:math><m:mrow><m:msub><m:mtext>BH</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>-</m:mtext></m:msup></m:mrow></m:math></para>
+<para id="fs-idp46941312">(g) <m:math><m:mrow><m:msub><m:mtext>BH</m:mtext><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mtext>–</m:mtext></m:msup></m:mrow></m:math></para>
 </problem>
 </exercise>
 </section>

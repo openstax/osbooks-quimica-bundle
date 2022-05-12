@@ -100,7 +100,7 @@ El aluminio y el carbono reaccionan para formar un compuesto iónico. Prediga cu
 
 <row>
 <entry align="left">acetato</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>COO</m:mtext><m:mn>-</m:mn></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>COO</m:mtext><m:mn>–</m:mn></m:msup></m:mrow></m:math></entry>
 <entry align="left">ácido acético</entry>
 <entry align="left">CH<sub>3</sub>COOH</entry>
 </row>
@@ -135,14 +135,14 @@ El aluminio y el carbono reaccionan para formar un compuesto iónico. Prediga cu
 
 <row>
 <entry align="left">nitrato</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">ácido nítrico</entry>
 <entry align="left">HNO<sub>3</sub></entry>
 </row>
 
 <row>
 <entry align="left">nitrito</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">ácido nitroso</entry>
 <entry align="left">HNO<sub>2</sub></entry>
 </row>
@@ -155,7 +155,7 @@ El aluminio y el carbono reaccionan para formar un compuesto iónico. Prediga cu
 
 <row>
 <entry align="left">sulfato de hidrógeno</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HSO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left"/>
 <entry align="left"/>
 </row>
@@ -169,7 +169,7 @@ El aluminio y el carbono reaccionan para formar un compuesto iónico. Prediga cu
 
 <row>
 <entry align="left">sulfito de hidrógeno</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HSO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HSO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left"/>
 <entry align="left"/>
 </row>
@@ -191,21 +191,21 @@ El aluminio y el carbono reaccionan para formar un compuesto iónico. Prediga cu
 
 <row>
 <entry align="left">fosfato de dihidrógeno</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left"/>
 <entry align="left"/>
 </row>
 
 <row>
 <entry align="left">perclorato</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math></entry>
 <entry align="left">ácido perclórico</entry>
 <entry align="left">HClO<sub>4</sub></entry>
 </row>
 
 <row>
 <entry align="left">clorato</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math>
 </entry>
 <entry align="left">ácido clórico</entry>
 <entry align="left">HClO<sub>3</sub></entry>
@@ -213,7 +213,7 @@ El aluminio y el carbono reaccionan para formar un compuesto iónico. Prediga cu
 
 <row>
 <entry align="left">clorito</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math>
 </entry>
 <entry align="left">ácido clorhídrico</entry>
 <entry align="left">HClO<sub>2</sub></entry>
@@ -244,7 +244,7 @@ El aluminio y el carbono reaccionan para formar un compuesto iónico. Prediga cu
 
 <row>
 <entry align="left">permanganato</entry>
-<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+<entry align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>MnO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math>
 </entry>
 <entry align="left">ácido permangánico</entry>
 <entry align="left">HMnO<sub>4</sub></entry>
@@ -252,7 +252,7 @@ El aluminio y el carbono reaccionan para formar un compuesto iónico. Prediga cu
 </tbody>
 
 
-</tgroup></table><para id="fs-idp210658336">Tenga en cuenta que existe un sistema para nombrar algunos iones poliatómicos; <emphasis effect="italics">-ato</emphasis> e <emphasis effect="italics">-ito</emphasis> son sufijos que designan iones poliatómicos que contienen más o menos átomos de oxígeno. <emphasis effect="italics">Per-</emphasis> (abreviatura de "hiper") e <emphasis effect="italics">hipo-</emphasis> (que significa "bajo") son prefijos que significan más átomos de oxígeno que <emphasis effect="italics">-ato</emphasis> y menos átomos de oxígeno que <emphasis effect="italics">-ito</emphasis>, respectivamente. Por ejemplo, el perclorato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> el clorato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> el clorito es <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math> y el hipoclorito es ClO<sup>-</sup>. Por desgracia, el número de átomos de oxígeno que corresponde a un sufijo o prefijo determinado no es coherente; por ejemplo, el nitrato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math> mientras que el sulfato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> Esto se tratará con más detalle más adelante en el módulo sobre nomenclatura.</para><para id="fs-idm10305952">La naturaleza de las fuerzas de atracción que mantienen unidos a los átomos o iones dentro de un compuesto es la base para clasificar el enlace químico. Cuando se transfieren electrones y se forman iones, se producen <term id="term-00004">enlaces iónicos</term>. Los enlaces iónicos son fuerzas electrostáticas de atracción, es decir, las fuerzas de atracción experimentadas entre objetos de carga eléctrica opuesta (en este caso, cationes y aniones). Cuando se "comparten" electrones y se forman moléculas, se producen <term id="term-00005">enlaces covalentes</term>. Los enlaces covalentes son las fuerzas de atracción entre los núcleos cargados positivamente de los átomos enlazados y uno o más pares de electrones que se encuentran entre los átomos. Los compuestos se clasifican como iónicos o moleculares (covalentes) en función de los enlaces presentes en ellos.</para>
+</tgroup></table><para id="fs-idp210658336">Tenga en cuenta que existe un sistema para nombrar algunos iones poliatómicos; <emphasis effect="italics">-ato</emphasis> e <emphasis effect="italics">-ito</emphasis> son sufijos que designan iones poliatómicos que contienen más o menos átomos de oxígeno. <emphasis effect="italics">Per-</emphasis> (abreviatura de "hiper") e <emphasis effect="italics">hipo-</emphasis> (que significa "bajo") son prefijos que significan más átomos de oxígeno que <emphasis effect="italics">-ato</emphasis> y menos átomos de oxígeno que <emphasis effect="italics">-ito</emphasis>, respectivamente. Por ejemplo, el perclorato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> el clorato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> el clorito es <m:math><m:mrow><m:msub><m:mrow><m:mtext>ClO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math> y el hipoclorito es ClO<sup>-</sup>. Por desgracia, el número de átomos de oxígeno que corresponde a un sufijo o prefijo determinado no es coherente; por ejemplo, el nitrato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math> mientras que el sulfato es <m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math> Esto se tratará con más detalle más adelante en el módulo sobre nomenclatura.</para><para id="fs-idm10305952">La naturaleza de las fuerzas de atracción que mantienen unidos a los átomos o iones dentro de un compuesto es la base para clasificar el enlace químico. Cuando se transfieren electrones y se forman iones, se producen <term id="term-00004">enlaces iónicos</term>. Los enlaces iónicos son fuerzas electrostáticas de atracción, es decir, las fuerzas de atracción experimentadas entre objetos de carga eléctrica opuesta (en este caso, cationes y aniones). Cuando se "comparten" electrones y se forman moléculas, se producen <term id="term-00005">enlaces covalentes</term>. Los enlaces covalentes son las fuerzas de atracción entre los núcleos cargados positivamente de los átomos enlazados y uno o más pares de electrones que se encuentran entre los átomos. Los compuestos se clasifican como iónicos o moleculares (covalentes) en función de los enlaces presentes en ellos.</para>
 <section id="fs-idp133128304" type="H2">
 <title>Compuestos iónicos</title>
 <para id="fs-idp15116752">Cuando un elemento compuesto por átomos que pierden fácilmente electrones (un metal) reacciona con un elemento compuesto por átomos que ganan fácilmente electrones (un no metal), suele producirse una transferencia de electrones que da lugar a iones. El compuesto formado por esta transferencia se estabiliza por las atracciones electrostáticas (enlaces iónicos) entre los iones de carga opuesta presentes en el compuesto. Por ejemplo, cuando cada átomo de sodio en una muestra de sodio metálico (grupo 1) cede un electrón para formar un catión de sodio, Na<sup>+</sup>, y cada átomo de cloro en una muestra de cloro gaseoso (grupo 17) acepta un electrón para formar un anión de cloruro, Cl<sup>-</sup>, el compuesto resultante, NaCl, está formado por iones de sodio e iones de cloruro en la proporción de un ion Na<sup>+</sup> por cada ion Cl<sup>-</sup>. Del mismo modo, cada átomo de calcio (grupo 2) puede ceder dos electrones y transferir uno a cada uno de los dos átomos de cloro para formar CaCl<sub>2</sub>, que está compuesto por iones Ca<sup>2+</sup> y Cl<sup>-</sup> en la proporción de un ion Ca<sup>2+</sup> por dos iones Cl<sup>-</sup>.</para>
@@ -288,8 +288,8 @@ Prediga la fórmula del compuesto iónico formado entre el catión sodio, Na<sup
 <para id="fs-idp270413408">Muchos compuestos iónicos contienen iones poliatómicos (<link target-id="fs-idp278664880"/>) como el catión, el anión o ambos. Al igual que los compuestos iónicos simples, estos compuestos también deben ser eléctricamente neutros, por lo que sus fórmulas pueden predecirse tratando los iones poliatómicos como unidades discretas. Utilizamos paréntesis en una fórmula para indicar un grupo de átomos que se comportan como una unidad. Por ejemplo, la fórmula del fosfato de calcio, uno de los minerales de nuestros huesos, es Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>. Esta fórmula indica que hay tres iones de calcio (Ca<sup>2+</sup>) por cada dos de grupos de fosfato <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:math>. Los grupos <m:math><m:mrow><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>3−</m:mn></m:mrow></m:msup></m:mrow></m:math> son unidades discretas, cada una de ellas formada por un átomo de fósforo y cuatro de oxígeno, y con una carga global de 3-. El compuesto es eléctricamente neutro, y su fórmula muestra un recuento total de tres átomos de Ca, dos de P y ocho de O.</para>
 <example id="fs-idp2219712">
 <para id="fs-idp179991104"><title>Predicción de la fórmula de un compuesto con un anión poliatómico</title>
-El polvo de hornear contiene dihidrógeno fosfato de calcio, un compuesto iónico formado por los iones Ca<sup>2+</sup> y <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>.</m:mo></m:mrow></m:math> ¿Cuál es la fórmula de este compuesto?</para><para id="fs-idm24805888"><title>Solución</title>
-Las cargas positivas y negativas deben balancearse, y este compuesto iónico debe ser eléctricamente neutro. Por lo tanto, debemos tener dos cargas negativas para balancear la carga 2+ del ion calcio. Esto requiere una proporción de un ion Ca<sup>2+</sup> por cada dos iones <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:mrow></m:math>. Para designarlo, encerramos la fórmula del ion fosfato dihidrógeno entre paréntesis y añadimos un subíndice 2. La fórmula es Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>.</para>
+El polvo de hornear contiene dihidrógeno fosfato de calcio, un compuesto iónico formado por los iones Ca<sup>2+</sup> y <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>.</m:mo></m:mrow></m:math> ¿Cuál es la fórmula de este compuesto?</para><para id="fs-idm24805888"><title>Solución</title>
+Las cargas positivas y negativas deben balancearse, y este compuesto iónico debe ser eléctricamente neutro. Por lo tanto, debemos tener dos cargas negativas para balancear la carga 2+ del ion calcio. Esto requiere una proporción de un ion Ca<sup>2+</sup> por cada dos iones <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math>. Para designarlo, encerramos la fórmula del ion fosfato dihidrógeno entre paréntesis y añadimos un subíndice 2. La fórmula es Ca(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>.</para>
 <para id="fs-idp187565648"><title>Compruebe lo aprendido</title>
 Prediga la fórmula del compuesto iónico formado entre el ion litio y el ion peróxido, <m:math><m:mrow><m:msub><m:mrow><m:mtext>O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>2−</m:mo></m:msup></m:mrow></m:math> (Pista: Utilice la tabla periódica para predecir el signo y la carga del ion litio).</para>
 <note id="fs-idp186698128"><title>Respuesta:</title>
@@ -318,7 +318,7 @@ Según la tabla periódica, prediga si los siguientes compuestos son iónicos o 
 <para id="fs-idp202359456">(c) N<sub>2</sub>H<sub>4</sub></para>
 <para id="fs-idp65172768">(d) Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></para>
 <note id="fs-idp102788640"><title>Respuesta:</title>
-<para id="fs-idm16446416">a) molecular; b) iónico; c) molecular; d) iónico</para>
+<para id="fs-idm16446416">(a) molecular; (b) iónico; (c) molecular; (d) iónico</para>
 </note>
 </example>
 </section>
@@ -350,7 +350,7 @@ Según la tabla periódica, prediga si los siguientes compuestos son iónicos o 
 <para id="fs-idp523680">(e) IBr</para>
 <para id="fs-idp18583904">(f) Na<sub>2</sub>O</para>
 </problem>
-<solution id="fs-idm3993968"><para id="fs-idp108175056">(a) covalente; (b) iónico, Ba<sup>2+</sup>, O<sup>2-</sup>; (c) iónico, <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>;</m:mo></m:mrow></m:math> (d) iónico, Sr<sup>2+</sup>, <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>-</m:mo></m:msup><m:mo>;</m:mo></m:mrow></m:math> (e) covalente; (f) iónico, Na<sup>+</sup>, O<sup>2-</sup></para>
+<solution id="fs-idm3993968"><para id="fs-idp108175056">(a) covalente; (b) iónico, Ba<sup>2+</sup>, O<sup>2-</sup>; (c) iónico, <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup><m:mtext>,</m:mtext></m:mrow></m:math> <m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mrow><m:mn>2−</m:mn></m:mrow></m:msup><m:mo>;</m:mo></m:mrow></m:math> (d) iónico, Sr<sup>2+</sup>, <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:mo>;</m:mo></m:mrow></m:math> (e) covalente; (f) iónico, Na<sup>+</sup>, O<sup>2-</sup></para>
 </solution>
 </exercise>
 <exercise id="fs-idp4856416">
