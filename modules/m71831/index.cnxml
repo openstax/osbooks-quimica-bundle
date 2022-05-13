@@ -143,7 +143,7 @@ El proceso de interés es el siguiente:</para>
 <m:mi>g</m:mi>
 <m:mo stretchy="false">)</m:mo>
 </m:mrow>
-<m:mo>).</m:mo>
+<m:mo>)</m:mo>
 </m:mrow>
 <m:mspace width="0.2em"/>
 <m:mo>–</m:mo>
@@ -165,7 +165,7 @@ El proceso de interés es el siguiente:</para>
 <m:mi>l</m:mi>
 <m:mo stretchy="false">)</m:mo>
 </m:mrow>
-<m:mo>).</m:mo>
+<m:mo>)</m:mo>
 </m:mrow>
 </m:mtd>
 </m:mtr>
@@ -224,7 +224,7 @@ El proceso de interés es el siguiente:</para>
 <m:mi>g</m:mi>
 <m:mo stretchy="false">)</m:mo>
 </m:mrow>
-<m:mo>).</m:mo>
+<m:mo>)</m:mo>
 </m:mrow>
 <m:mspace width="0.2em"/>
 <m:mo>–</m:mo>
@@ -247,7 +247,7 @@ El proceso de interés es el siguiente:</para>
 <m:mi>l</m:mi>
 <m:mo stretchy="false">)</m:mo>
 </m:mrow>
-<m:mo>).</m:mo>
+<m:mo>)</m:mo>
 </m:mrow>
 </m:mtd>
 </m:mtr>
@@ -704,7 +704,7 @@ Calcule Δ<emphasis effect="italics">G</emphasis>° utilizando (a) energías lib
 </exercise>
 <exercise id="fs-idm182364544">
 <problem id="fs-idm182364288">
-<para id="fs-idm182364032">Una fuente importante de cobre es el mineral de cobre, la calcocita, una forma de sulfuro de cobre(I). Cuando se calienta, el Cu<sub>2</sub>S se descompone para formar cobre y azufre descrito por la siguiente ecuación:<newline/> <m:math><m:mrow><m:msub><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">).</m:mo></m:mrow></m:math></para>
+<para id="fs-idm182364032">Una fuente importante de cobre es el mineral de cobre, la calcocita, una forma de sulfuro de cobre(I). Cuando se calienta, el Cu<sub>2</sub>S se descompone para formar cobre y azufre descrito por la siguiente ecuación:<newline/> <m:math><m:mrow><m:msub><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mtext>Cu</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mtext>S</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
 <para id="fs-idm121207872">(a) Determine <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext></m:mrow></m:math> para la descomposición del Cu<sub>2</sub>S(<emphasis effect="italics">s</emphasis>).</para>
 <para id="fs-idm121204816">(b) La reacción del azufre con el oxígeno produce dióxido de azufre como único producto. Escriba una ecuación que describa esta reacción y determine <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>G</m:mi><m:mtext>°</m:mtext></m:mrow></m:math> para el proceso.</para>
 <para id="fs-idp106153472">(c) La producción de cobre a partir de la calcosina se realiza mediante la tostación del Cu<sub>2</sub>S en aire para producir el Cu. Combinando las ecuaciones de las partes (a) y (b), escriba la ecuación que describe la tostación de la calcocita, y explique por qué el acoplamiento de estas reacciones permite un proceso más eficiente para la producción del cobre.</para>
