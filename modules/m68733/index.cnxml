@@ -37,7 +37,7 @@
 <caption>(a) El patrón de interferencia de los electrones que pasan a través de rendijas muy próximas demuestra que las partículas cuánticas, como los electrones, pueden tener un comportamiento ondulatorio. (b) Los resultados experimentales ilustrados aquí demuestran la dualidad onda-partícula en los electrones.</caption>
 </figure>
 <note id="fs-idm22236656" class="chemistry link-to-learning">
-<para id="fs-idp43121536">Vea el <link url="http://openstax.org/l/16duality">dibujo animado</link> del Dr. Quantum: Double Slit Experiment (Experimento de la doble rendija) para conocer una descripción fácil de entender de la dualidad onda-partícula y los experimentos asociados.</para>
+<para id="fs-idp43121536">Vea el <link url="https://openstax.org/l/16duality">dibujo animado</link> del Dr. Quantum: Double Slit Experiment (Experimento de la doble rendija) para conocer una descripción fácil de entender de la dualidad onda-partícula y los experimentos asociados.</para>
 </note>
 <example id="fs-idm90452432">
 <para id="fs-idm9842576"><title>Cálculo de la longitud de onda de una partícula</title>
@@ -61,7 +61,7 @@ Calcule la longitud de onda de una pelota de softball con una masa de 100 g que 
 <para id="fs-idm139875104">Cabe señalar que el principio de incertidumbre de Heisenberg no se limita a las incertidumbres de posición y momento, sino que también relaciona otras variables dinámicas. Por ejemplo, cuando un átomo absorbe un fotón y realiza una transición de un estado energético a otro, la incertidumbre en la energía y la incertidumbre en el tiempo requerido para la transición están relacionadas de forma similar, ya que Δ<emphasis effect="italics">E</emphasis> Δ<emphasis effect="italics">t</emphasis> ≥ <m:math><m:mrow><m:mfrac><m:mi>ℏ</m:mi><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-idp75105920">El principio de Heisenberg impone límites máximos a lo que se puede conocer en la ciencia. Se puede demostrar que el principio de incertidumbre es una consecuencia de la dualidad onda-partícula, que está en el centro de lo que distingue a la teoría cuántica moderna de la mecánica clásica.</para>
 <note id="fs-idp86836032" class="chemistry link-to-learning">
-<para id="fs-idm179040464">Lea este <link url="http://openstax.org/l/16uncertainty">artículo</link> que describe una reciente demostración macroscópica del principio de incertidumbre aplicado a objetos microscópicos.</para>
+<para id="fs-idm179040464">Lea este <link url="https://openstax.org/l/16uncertainty">artículo</link> que describe una reciente demostración macroscópica del principio de incertidumbre aplicado a objetos microscópicos.</para>
 </note>
 </section>
 <section id="fs-idm2526400"><title>El modelo mecánico-cuántico de un átomo</title>
@@ -70,7 +70,7 @@ Calcule la longitud de onda de una pelota de softball con una masa de 100 g que 
 <para id="fs-idm1012848"><m:math><m:mover accent="true"><m:mi>H</m:mi><m:mo>^</m:mo></m:mover></m:math> es el operador hamiltoniano, un conjunto de operaciones matemáticas que representan la energía total de la partícula cuántica (como un electrón en un átomo), <emphasis effect="italics">ψ</emphasis> es la función de onda de esta partícula que puede utilizarse para encontrar la distribución especial de la probabilidad de encontrar la partícula, y <m:math><m:mi>E</m:mi></m:math> es el valor real de la energía total de la partícula.</para>
 <para id="fs-idm134389936">El trabajo de Schrödinger, así como el de Heisenberg y muchos otros científicos que siguieron sus pasos, se conoce generalmente como <term id="term-00007">mecánica cuántica</term>.</para>
 <note id="fs-idm148452752" class="chemistry link-to-learning">
-<para id="fs-idp90020512">Es posible que también haya oído hablar de Schrödinger por su famoso experimento mental. <link url="http://openstax.org/l/16superpos">Esta historia</link> explica los conceptos de superposición y entrelazamiento en relación con un gato en una caja con veneno.</para>
+<para id="fs-idp90020512">Es posible que también haya oído hablar de Schrödinger por su famoso experimento mental. <link url="https://openstax.org/l/16superpos">Esta historia</link> explica los conceptos de superposición y entrelazamiento en relación con un gato en una caja con veneno.</para>
 </note>
 </section>
 <section id="fs-idp27284864"><title>Comprensión de la teoría cuántica de los electrones en los átomos</title>

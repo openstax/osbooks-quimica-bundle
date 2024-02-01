@@ -151,7 +151,7 @@ El yodo es un oligoelemento esencial en nuestra dieta; es necesario para produci
 </tgroup>
 </table>
 <para id="fs-idm105035264">Tradicionalmente, el descubridor (o los descubridores) de un nuevo elemento le da el nombre. Sin embargo, hasta que el nombre sea reconocido por la Unión Internacional de Química Pura y Aplicada (IUPAC), el nombre recomendado del nuevo elemento se basa en las palabras latinas de su número atómico. Por ejemplo, el elemento 106 se llamó unnilhexium (Unh), el elemento 107 se llamó unnilseptium (Uns) y el elemento 108 se llamó unniloctium (Uno) durante varios años. Estos elementos reciben ahora el nombre de los científicos (u ocasionalmente de los lugares), por ejemplo, el elemento 106 se conoce ahora como <emphasis effect="italics">seaborgio</emphasis> (Sg) en honor a Glenn Seaborg, un premio Nobel que participó en el descubrimiento de varios elementos pesados. El elemento 109 recibió su nombre en honor a Lise Meitner, que descubrió la fisión nuclear, un fenómeno que tendría repercusiones en todo el mundo. Meitner también contribuyó al descubrimiento de algunos isótopos importantes, que se comentan a continuación.</para><note id="fs-idm111013376" class="chemistry link-to-learning">
-<para id="fs-idm3892928">Visite este <link url="http://openstax.org/l/16IUPAC">sitio</link> para saber más sobre la IUPAC, la Unión Internacional de Química Pura y Aplicada, y revise su tabla periódica.</para>
+<para id="fs-idm3892928">Visite este <link url="https://openstax.org/l/16IUPAC">sitio</link> para saber más sobre la IUPAC, la Unión Internacional de Química Pura y Aplicada, y revise su tabla periódica.</para>
 </note>
 </section>
 <section id="fs-idp42149200">
@@ -381,7 +381,7 @@ El yodo es un oligoelemento esencial en nuestra dieta; es necesario para produci
 </tbody>
 </tgroup>
 </table><note id="fs-idm166072560" class="chemistry link-to-learning">
-<para id="fs-idm243168608">Utilice este <link url="http://openstax.org/l/16PhetAtomBld">simulador de construcción de átomos</link> para construir átomos de los 10 primeros elementos, verifique qué isótopos existen, compruebe la estabilidad nuclear y adquiera experiencia con los símbolos de los isótopos.</para>
+<para id="fs-idm243168608">Utilice este <link url="https://openstax.org/l/16PhetAtomBld">simulador de construcción de átomos</link> para construir átomos de los 10 primeros elementos, verifique qué isótopos existen, compruebe la estabilidad nuclear y adquiera experiencia con los símbolos de los isótopos.</para>
 </note>
 </section>
 <section id="fs-idm54315440">
@@ -433,7 +433,7 @@ El cobre natural se compone de <sup>63</sup>Cu (masa 62,9296 u) y <sup>65</sup>C
 </note>
 </example>
 <note id="fs-idm186474352" class="chemistry link-to-learning">
-<para id="fs-idp99251296">Visite este <link url="http://openstax.org/l/16PhetAtomMass">sitio</link> para hacer mezclas de los principales isótopos de los primeros 18 elementos, ganar experiencia con la masa atómica promedio y comprobar las proporciones de los isótopos naturales utilizando la simulación de Isótopos y masa atómica.</para>
+<para id="fs-idp99251296">Visite este <link url="https://openstax.org/l/16PhetAtomMass">sitio</link> para hacer mezclas de los principales isótopos de los primeros 18 elementos, ganar experiencia con la masa atómica promedio y comprobar las proporciones de los isótopos naturales utilizando la simulación de Isótopos y masa atómica.</para>
 </note>
 <para id="eip-837">Como podrá descubrir, los isótopos son importantes en la naturaleza y, sobre todo, en la comprensión humana de la ciencia y la medicina. Consideremos un solo isótopo natural y estable: el oxígeno-18, que aparece en la tabla anterior, es uno de los isótopos ambientales. Es importante en paleoclimatología, por ejemplo, porque los científicos pueden utilizar la relación entre el oxígeno-18 y el oxígeno-16 en un núcleo de hielo para determinar la temperatura de las precipitaciones a lo largo del tiempo. El oxígeno-18 también fue fundamental para descubrir las vías metabólicas y los mecanismos de las enzimas. Mildred Cohn fue pionera en el uso de estos isótopos para que actuaran como trazadores, de modo que los investigadores pudieran seguir su trayectoria a través de las reacciones y comprender mejor lo que ocurre. Uno de sus primeros descubrimientos permitió conocer la fosforilación de la glucosa que tiene lugar en las mitocondrias. Además, los métodos de utilización de los isótopos para esta investigación contribuyeron a campos de estudio enteros.</para><para id="fs-idp64386064">La presencia y la abundancia natural de los isótopos pueden determinarse experimentalmente mediante un instrumento llamado espectrómetro de masas. La espectrometría de masas (EM) se utiliza ampliamente en química, medicina forense, ciencias medioambientales y muchos otros campos para analizar y ayudar a identificar las sustancias de una muestra de material. En un espectrómetro de masas típico (<link target-id="CNX_Chem_02_03_MassSpec"/>), la muestra se vaporiza y se expone a un haz de electrones de alta energía que hace que los átomos (o moléculas) de la muestra se carguen eléctricamente, normalmente perdiendo uno o más electrones. A continuación, estos cationes atraviesan un campo eléctrico o magnético (variable) que desvía la trayectoria de cada catión en una medida que depende tanto de su masa como de su carga (de forma similar a como se desvía la trayectoria de una gran bola de acero que rueda junto a un imán en menor medida que la de una pequeña bola de acero). Los iones se detectan y se realiza un gráfico del número relativo de iones generados frente a sus relaciones masa/carga (un <emphasis effect="italics">espectro de masas</emphasis>). La altura de cada característica vertical o pico en un espectro de masas es proporcional a la fracción de cationes con la relación masa/carga especificada. Desde su uso inicial durante el desarrollo de la teoría atómica moderna, la EM ha evolucionado hasta convertirse en una potente herramienta de análisis químico en una amplia gama de aplicaciones.</para><figure id="CNX_Chem_02_03_MassSpec">
 <media id="fs-idp221044352" alt="El diagrama de la izquierda muestra cómo funciona un espectrómetro de masas, que es principalmente un gran tubo que se dobla hacia abajo en su punto medio. La muestra entra por el lado izquierdo del tubo. Un calentador calienta la muestra, provocando su vaporización. La muestra también recibe un haz de electrones mientras se vaporiza. Las partículas cargadas de la muestra, llamadas iones, se aceleran y pasan entre dos imanes. El campo magnético desvía más los iones más ligeros. La desviación de los iones se mide mediante un detector situado en el lado derecho del tubo. El gráfico de la derecha del espectrómetro muestra un espectro de masas del circonio. La abundancia relativa, como porcentaje de 0 a 100, se representa en el eje y, y la relación masa/carga se representa en el eje x. La muestra contiene cinco isómeros diferentes de circonio. Z R 90, que tiene una relación masa/carga de 90, es el isótopo más abundante, con un 51 % de abundancia relativa. Z R 91 tiene una relación masa/carga de 91 y una abundancia relativa de aproximadamente el 11 %. Z R 92 tiene una relación masa/carga de 92 y una abundancia relativa de aproximadamente el 18 %. Z R 94 tiene una relación masa/carga de 94 y una abundancia relativa de aproximadamente el 18 %. Z R 96, que tiene una relación masa/carga de 96, es el isótopo de circonio menos abundante, con una abundancia relativa de aproximadamente el 2 %.">
@@ -442,7 +442,7 @@ El cobre natural se compone de <sup>63</sup>Cu (masa 62,9296 u) y <sup>65</sup>C
 <caption>El análisis del circonio en un espectrómetro de masas produce un espectro de masas con picos que muestran los diferentes isótopos del Zr.</caption>
 </figure>
 <note id="fs-idm122264832" class="chemistry link-to-learning">
-<para id="fs-idm136290400">Vea una <link url="http://openstax.org/l/16MassSpec">animación</link> que explica la espectrometría de masas. Vea este <link url="http://openstax.org/l/16RSChemistry">video</link> de la Royal Society for Chemistry (Real Sociedad de Química) para obtener una breve descripción de los rudimentos de la espectrometría de masas.</para>
+<para id="fs-idm136290400">Vea una <link url="https://openstax.org/l/16MassSpec">animación</link> que explica la espectrometría de masas. Vea este <link url="https://openstax.org/l/16RSChemistry">video</link> de la Royal Society for Chemistry (Real Sociedad de Química) para obtener una breve descripción de los rudimentos de la espectrometría de masas.</para>
 </note>
 </section>
 <section id="fs-idm131201632" class="summary">
@@ -490,7 +490,7 @@ El cobre natural se compone de <sup>63</sup>Cu (masa 62,9296 u) y <sup>65</sup>C
 </exercise>
 <exercise id="fs-idm164758784">
 <problem id="fs-idp29245904">
-<para id="fs-idp112094752">Abra la <link url="http://openstax.org/l/16PhetAtomBld">simulación de Construir un átomo</link> y haga clic en el ícono del átomo.</para>
+<para id="fs-idp112094752">Abra la <link url="https://openstax.org/l/16PhetAtomBld">simulación de Construir un átomo</link> y haga clic en el ícono del átomo.</para>
 <para id="fs-idm134679936">(a) Escoja uno de los 10 primeros elementos que le gustaría construir e indique su símbolo.</para>
 <para id="fs-idm125643536">(b) Arrastre protones, neutrones y electrones a la plantilla del átomo para formar un átomo de su elemento.<newline/> Indique el número de protones, neutrones y electrones de su átomo, así como la carga neta y el número de masa.</para>
 <para id="fs-idm8547328">(c) Haga clic en "Carga neta" y "Número de masa", compruebe sus respuestas a la (b) y corríjalas, si es necesario.</para>
@@ -503,13 +503,13 @@ El cobre natural se compone de <sup>63</sup>Cu (masa 62,9296 u) y <sup>65</sup>C
 </exercise>
 <exercise id="fs-idp1819392">
 <problem id="fs-idm131114016">
-<para id="fs-idm65098400">Abra la <link url="http://openstax.org/l/16PhetAtomBld">simulación de Construir un átomo</link>.</para><para id="fs-idm148181728">(a) Arrastre protones, neutrones y electrones a la plantilla de átomos para hacer un átomo neutro de Oxígeno-16 y escriba el símbolo del isótopo para este átomo.</para>
+<para id="fs-idm65098400">Abra la <link url="https://openstax.org/l/16PhetAtomBld">simulación de Construir un átomo</link>.</para><para id="fs-idm148181728">(a) Arrastre protones, neutrones y electrones a la plantilla de átomos para hacer un átomo neutro de Oxígeno-16 y escriba el símbolo del isótopo para este átomo.</para>
 <para id="fs-idm95106464">(b) Añada ahora dos electrones más para formar un ion y escriba el símbolo del ion que ha creado.</para>
 </problem>
 </exercise>
 <exercise id="fs-idm103886288">
 <problem id="fs-idm165966032">
-<para id="fs-idm7673184">Abra la <link url="http://openstax.org/l/16PhetAtomBld">simulación de Construir un átomo</link>.</para><para id="fs-idm56609680">(a) Arrastre protones, neutrones y electrones a la plantilla del átomo para formar un átomo neutro de Litio-6 y escriba el símbolo del isótopo para este átomo.</para>
+<para id="fs-idm7673184">Abra la <link url="https://openstax.org/l/16PhetAtomBld">simulación de Construir un átomo</link>.</para><para id="fs-idm56609680">(a) Arrastre protones, neutrones y electrones a la plantilla del átomo para formar un átomo neutro de Litio-6 y escriba el símbolo del isótopo para este átomo.</para>
 <para id="fs-idm31990784">(b) Ahora elimine un electrón para formar un ion y escriba el símbolo del ion que ha creado.</para>
 </problem>
 <solution id="fs-idm89515952">
@@ -550,7 +550,7 @@ El cobre natural se compone de <sup>63</sup>Cu (masa 62,9296 u) y <sup>65</sup>C
 </exercise>
 <exercise id="fs-idm28786800">
 <problem id="fs-idm61696768">
-<para id="fs-idm93231328">Haga clic en el <link url="http://openstax.org/l/16PhetAtomMass">sitio</link> y seleccione la pestaña “Mix Isotopes” (Mezcla de isótopos), oculte las casillas “Percent Composition” (Composición porcentual) y “Average Atomic Mass” (Masa atómica promedio) y luego seleccione el elemento boro.</para>
+<para id="fs-idm93231328">Haga clic en el <link url="https://openstax.org/l/16PhetAtomMass">sitio</link> y seleccione la pestaña “Mix Isotopes” (Mezcla de isótopos), oculte las casillas “Percent Composition” (Composición porcentual) y “Average Atomic Mass” (Masa atómica promedio) y luego seleccione el elemento boro.</para>
 <para id="fs-idm84386240">(a) Escriba los símbolos de los isótopos del boro que se muestran como naturales en cantidades significativas.</para>
 <para id="fs-idm170152672">(b) Prediga las cantidades relativas (porcentajes) de estos isótopos de boro que se encuentran en la naturaleza. Explique los motivos de su elección.</para>
 <para id="fs-idm198099104">(c) Añada isótopos a la caja negra para hacer una mezcla que coincida con su predicción en (b). Puede arrastrar los isótopos desde sus bandejas o hacer clic en "Más" y luego mover los deslizadores a las cantidades adecuadas.</para>

@@ -218,11 +218,11 @@ Otro aminoácido es la alanina, que tiene la estructura de Lewis que se muestra 
 <note id="fs-idm44767872"><title>Respuesta:</title><para id="fs-idp66198816">geometrías de pares de electrones: nitrógeno-tetraédrica; carbono (<emphasis effect="underline">C</emphasis>H)-tetraédrica; carbono(<emphasis effect="underline">C</emphasis>H<sub>3</sub>)-tetraédrica; carbono (<emphasis effect="underline">C</emphasis>O<sub>2</sub>)-trigonal plana; oxígeno(<emphasis effect="underline">O</emphasis>H)-tetraédrica; estructuras locales: nitrógeno-piramidal trigonal; carbono(<emphasis effect="underline">C</emphasis>H)-tetraédrica; carbono<emphasis effect="underline">(</emphasis>CH<sub>3</sub>)-tetraédrica; carbono(<emphasis effect="underline">C</emphasis>O<sub>2</sub>)-trigonal plana; oxígeno(<emphasis effect="underline">O</emphasis>H)-doblada (109°)</para>
 </note>
 </example><note id="fs-idp90797184" class="chemistry link-to-learning">
-<para id="fs-idp159959216">El <link url="http://openstax.org/l/16MolecShape">simulador de formas moleculares</link> le permite construir varias moléculas y practicar el nombre de sus geometrías de pares de electrones y estructuras moleculares.</para>
+<para id="fs-idp159959216">El <link url="https://openstax.org/l/16MolecShape">simulador de formas moleculares</link> le permite construir varias moléculas y practicar el nombre de sus geometrías de pares de electrones y estructuras moleculares.</para>
 </note>
 <example id="fs-idp54012352">
 <para id="fs-idp52927344"><title>Simulación molecular</title>
-El <link url="http://openstax.org/l/16MolecShape">simulador de formas moleculares</link> nos permite controlar si se muestran los ángulos de enlace o los pares solitarios al marcar o desmarcar las casillas de "Options" (opciones) a la derecha. También podemos utilizar las casillas "Name" (nombre) de la parte inferior izquierda para mostrar u ocultar la geometría de pares de electrones (llamada "electron geometry" (geometría de electrones) en el simulador) o la estructura molecular (llamada "molecular shape" (forma molecular) en el simulador).</para>
+El <link url="https://openstax.org/l/16MolecShape">simulador de formas moleculares</link> nos permite controlar si se muestran los ángulos de enlace o los pares solitarios al marcar o desmarcar las casillas de "Options" (opciones) a la derecha. También podemos utilizar las casillas "Name" (nombre) de la parte inferior izquierda para mostrar u ocultar la geometría de pares de electrones (llamada "electron geometry" (geometría de electrones) en el simulador) o la estructura molecular (llamada "molecular shape" (forma molecular) en el simulador).</para>
 <para id="fs-idp224051488">Construya la molécula HCN en el simulador con base en la siguiente estructura de Lewis:</para>
 <equation id="fs-idp102593872" class="unnumbered"><m:math><m:mrow><m:mtext>H-C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math></equation>
 <para id="fs-idp88631840">Haga clic en cada tipo de enlace o par solitario de la derecha para añadir ese grupo al átomo central. Una vez que complete la molécula, gírela para examinar la estructura molecular predicha. ¿De qué estructura molecular se trata?</para>
@@ -273,11 +273,11 @@ Construya una molécula más compleja en el simulador. Identifique la geometría
 <caption>(a) Las moléculas siempre se distribuyen aleatoriamente en el estado líquido en ausencia de un campo eléctrico. (b) Cuando se aplica un campo eléctrico, las moléculas polares como el HF se alinearán a los dipolos con la dirección del campo.</caption>
 </figure>
 <note id="fs-idp56552448" class="chemistry link-to-learning">
-<para id="fs-idp103820464">La <link url="http://openstax.org/l/16MolecPolarity">simulación de la polaridad de la molécula</link> ofrece muchas formas de explorar los momentos dipolares de los enlaces y las moléculas.</para>
+<para id="fs-idp103820464">La <link url="https://openstax.org/l/16MolecPolarity">simulación de la polaridad de la molécula</link> ofrece muchas formas de explorar los momentos dipolares de los enlaces y las moléculas.</para>
 </note>
 <example id="fs-idm708128">
 <para id="fs-idp55551344"><title>Simulaciones de polaridad</title>
-Abra la <link url="http://openstax.org/l/16MolecPolarity">simulación de la polaridad de la molécula</link> y seleccione la pestaña "Three Atoms" (Tres átomos) en la parte superior. Esto debería mostrar una molécula ABC con tres ajustadores de electronegatividad. Puede mostrar u ocultar los momentos de enlace, los dipolos moleculares y las cargas parciales a la derecha. Si se activa el campo eléctrico se verá si la molécula se mueve cuando se expone a un campo, de forma similar a la <link target-id="CNX_Chem_07_06_Dipolfield"/>.</para>
+Abra la <link url="https://openstax.org/l/16MolecPolarity">simulación de la polaridad de la molécula</link> y seleccione la pestaña "Three Atoms" (Tres átomos) en la parte superior. Esto debería mostrar una molécula ABC con tres ajustadores de electronegatividad. Puede mostrar u ocultar los momentos de enlace, los dipolos moleculares y las cargas parciales a la derecha. Si se activa el campo eléctrico se verá si la molécula se mueve cuando se expone a un campo, de forma similar a la <link target-id="CNX_Chem_07_06_Dipolfield"/>.</para>
 <para id="fs-idp55109824">Utilice los controles de electronegatividad para determinar cómo será el dipolo molecular para la molécula doblada inicial si:</para>
 <para id="fs-idp21212352">(a) A y C son muy electronegativos y B está en el medio del rango.</para>
 <para id="fs-idp83795840">(b) A es muy electronegativo, y B y C no lo son.</para>
@@ -559,7 +559,7 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 </exercise>
 <exercise id="fs-idp67065360">
 <problem id="fs-idp67065616">
-<para id="fs-idp63767408">Utilice la <link url="http://openstax.org/l/16MolecPolarity">simulación</link> para realizar los siguientes ejercicios para una molécula de dos átomos:</para>
+<para id="fs-idp63767408">Utilice la <link url="https://openstax.org/l/16MolecPolarity">simulación</link> para realizar los siguientes ejercicios para una molécula de dos átomos:</para>
 <para id="fs-idp112678528">(a) Ajuste el valor de electronegatividad para que el dipolo de enlace apunte hacia B. Luego determine cuáles deben ser los valores de electronegatividad para cambiar el dipolo de modo que apunte hacia A.</para>
 <para id="fs-idp34175728">(b) Con una carga positiva parcial en A, encienda el campo eléctrico y describa lo que ocurre.</para>
 <para id="fs-idp34176112">(c) Con una pequeña carga parcial negativa en A, encienda el campo eléctrico y describa lo que ocurre.</para>
@@ -568,7 +568,7 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 </exercise>
 <exercise id="fs-idp56829344">
 <problem id="fs-idp56829600">
-<para id="fs-idp67165664">Utilice la <link url="http://openstax.org/l/16MolecPolarity">simulación</link> para realizar los siguientes ejercicios en una molécula real. Es posible que tenga que girar las moléculas en tres dimensiones para ver ciertos dipolos.</para>
+<para id="fs-idp67165664">Utilice la <link url="https://openstax.org/l/16MolecPolarity">simulación</link> para realizar los siguientes ejercicios en una molécula real. Es posible que tenga que girar las moléculas en tres dimensiones para ver ciertos dipolos.</para>
 <para id="fs-idp102821904">(a) Haga un esquema de los dipolos de enlace y de los dipolos moleculares (si los hay) del O<sub>3.</sub> Explique sus observaciones.</para>
 <para id="fs-idp81480992">(b) Observe los dipolos de enlace del NH<sub>3</sub>. Utilice estos dipolos para predecir si el N o el H es más electronegativo.</para>
 <para id="fs-idp213909024">(c) Prediga si debe haber un dipolo molecular para el NH<sub>3</sub> y, en caso afirmativo, en qué dirección apuntará. Compruebe el cuadro de dipolos moleculares para comprobar su hipótesis.</para>
@@ -579,12 +579,12 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 </exercise>
 <exercise id="fs-idp46580240">
 <problem id="fs-idp46580496">
-<para id="fs-idp250860400">Utilice el <link url="http://openstax.org/l/16MolecShape">Simulador de forma de molécula</link> para construir una molécula. Empezando por el átomo central, haga clic en el doble enlace para añadir un doble enlace. A continuación, añada un enlace simple y un par solitario. Gire la molécula para observar la geometría completa. Nombre la geometría del grupo de electrones y la estructura molecular y prediga el ángulo de enlace. A continuación, haga clic en las casillas de verificación situadas en la parte inferior y derecha del simulador para comprobar sus respuestas.</para>
+<para id="fs-idp250860400">Utilice el <link url="https://openstax.org/l/16MolecShape">Simulador de forma de molécula</link> para construir una molécula. Empezando por el átomo central, haga clic en el doble enlace para añadir un doble enlace. A continuación, añada un enlace simple y un par solitario. Gire la molécula para observar la geometría completa. Nombre la geometría del grupo de electrones y la estructura molecular y prediga el ángulo de enlace. A continuación, haga clic en las casillas de verificación situadas en la parte inferior y derecha del simulador para comprobar sus respuestas.</para>
 </problem>
 </exercise>
 <exercise id="fs-idp17379424">
 <problem id="fs-idp17379680">
-<para id="fs-idp25136064">Utilice el <link url="http://openstax.org/l/16MolecShape">Simulador de forma de molécula</link> para explorar moléculas reales. En la pestaña "Real Molecules" (moléculas reales), seleccione H<sub>2</sub>O. Cambie entre los modos "real" (real) y "model" (modelo). Explique la diferencia observada.</para>
+<para id="fs-idp25136064">Utilice el <link url="https://openstax.org/l/16MolecShape">Simulador de forma de molécula</link> para explorar moléculas reales. En la pestaña "Real Molecules" (moléculas reales), seleccione H<sub>2</sub>O. Cambie entre los modos "real" (real) y "model" (modelo). Explique la diferencia observada.</para>
 </problem>
 <solution id="fs-idp147105408">
 <para id="fs-idp62144768">Las estructuras son muy similares. En el modo de modelo, cada grupo de electrones ocupa la misma cantidad de espacio, por lo que el ángulo de enlace se muestra como 109,5°. En el modo "real", los pares solitarios son mayores, lo que hace que los hidrógenos se compriman. Esto conduce a un ángulo menor de 104,5°.</para>
@@ -592,7 +592,7 @@ Determine las cargas parciales que darán los mayores dipolos de enlace posibles
 </exercise>
 <exercise id="fs-idp37961056">
 <problem id="fs-idp37961312">
-<para id="fs-idm5201232">Utilice el <link url="http://openstax.org/l/16MolecShape">Simulador de forma de molécula</link> para explorar moléculas reales. En la pestaña "Real Molecules", seleccione el modo "modelo" y S<sub>2</sub>O. ¿Cuál es el ángulo de enlace del modelo? Explique si el ángulo de enlace "real" debe ser mayor o menor que el ángulo del modelo ideal.</para>
+<para id="fs-idm5201232">Utilice el <link url="https://openstax.org/l/16MolecShape">Simulador de forma de molécula</link> para explorar moléculas reales. En la pestaña "Real Molecules", seleccione el modo "modelo" y S<sub>2</sub>O. ¿Cuál es el ángulo de enlace del modelo? Explique si el ángulo de enlace "real" debe ser mayor o menor que el ángulo del modelo ideal.</para>
 </problem>
 </exercise>
 </section>   </content>

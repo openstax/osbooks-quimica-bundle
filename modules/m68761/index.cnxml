@@ -42,7 +42,7 @@
 </figure>
 <para id="fs-idm68544288">Por último, si la temperatura de un líquido es lo suficientemente baja, o la presión sobre el líquido es lo suficientemente alta, las moléculas del líquido ya no tienen suficiente KE para superar la FMI entre ellas, y se forma un sólido. En un módulo posterior de este capítulo se ofrece un análisis más exhaustivo de estos y otros cambios de estado, o transiciones de fase.</para>
 <note id="fs-idp144602800" class="chemistry link-to-learning">
-<para id="fs-idp70176880">Acceda a esta <link url="http://openstax.org/l/16phetvisual">simulación interactiva</link> sobre estados de la materia, transiciones de fase y fuerzas intermoleculares. Esta simulación es útil para visualizar los conceptos introducidos a lo largo de este capítulo.</para>
+<para id="fs-idp70176880">Acceda a esta <link url="https://openstax.org/l/16phetvisual">simulación interactiva</link> sobre estados de la materia, transiciones de fase y fuerzas intermoleculares. Esta simulación es útil para visualizar los conceptos introducidos a lo largo de este capítulo.</para>
 </note>
 <section id="fs-idp48705360">
 <title>Fuerzas entre moléculas</title>
@@ -159,7 +159,7 @@ Ordene los siguientes hidrocarburos de menor a mayor punto de ebullición: C<sub
 </figure>
 </note>
 <note id="fs-idp133005728" class="chemistry link-to-learning">
-<para id="fs-idm71587872">Vea este <link url="http://openstax.org/l/16kellaraut">video</link> para saber más sobre la investigación de Kellar Autumn, que determinó que las fuerzas de van der Waals son las responsables de la capacidad de la salamanquesa para aferrarse y trepar.</para>
+<para id="fs-idm71587872">Vea este <link url="https://openstax.org/l/16kellaraut">video</link> para saber más sobre la investigación de Kellar Autumn, que determinó que las fuerzas de van der Waals son las responsables de la capacidad de la salamanquesa para aferrarse y trepar.</para>
 </note>
 </section>
 <section id="fs-idp3278832">
@@ -282,7 +282,7 @@ El etano (CH<sub>3</sub>CH<sub>3</sub>) tiene un punto de fusión de -183 °C y 
 </exercise>
 <exercise id="fs-idm78391360">
 <problem id="fs-idm25533008">
-<para id="fs-idm43475520">Abra la <link url="http://openstax.org/l/16phetvisual">simulación de los estados de la materia de PhET</link> para responder las siguientes preguntas:</para>
+<para id="fs-idm43475520">Abra la <link url="https://openstax.org/l/16phetvisual">simulación de los estados de la materia de PhET</link> para responder las siguientes preguntas:</para>
 <para id="fs-idp109107952">(a) Seleccione la pestaña “Solid, Liquid, Gas” (Sólido, Líquido o Gas). Explore seleccionando diferentes sustancias, calentando y enfriando los sistemas, y cambiando el estado. ¿Qué similitudes observa entre las cuatro sustancias de cada fase (sólido, líquido, gas)? ¿Qué diferencias nota?</para>
 <para id="fs-idm85993136">(b) En cada sustancia, seleccione cada uno de los estados y registre las temperaturas dadas. ¿Cómo se correlacionan las temperaturas dadas para cada estado con las fuerzas de sus atracciones intermoleculares? Explique.</para>
 <para id="fs-idm21107584">(c) Seleccione la pestaña “Interaction Potential” (Potencial de Interacción) y utilice los átomos de neón por defecto. Mueve el átomo de Ne a la derecha y observe cómo cambia la energía potencial. Seleccione el botón de Fuerza Total, y mueva el átomo de Ne como antes. ¿Cuándo la fuerza total sobre cada átomo es atractiva y lo suficientemente grande como para importar? A continuación, seleccione el botón Fuerzas de los componentes y mueva el átomo de Ne. ¿Cuándo se equilibran las fuerzas de atracción (Van der Waals) y de repulsión (solapamiento de electrones)? ¿Cómo se relaciona esto con el gráfico de energía potencial frente a la distancia entre átomos? Explique.</para>

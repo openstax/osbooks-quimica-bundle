@@ -279,7 +279,7 @@ La longitud del borde de la celda unitaria de KCl (estructura tipo NaCl, FCC) es
 <caption>La difracción de los rayos X dispersados por los átomos dentro de un cristal permite determinar la distancia entre los átomos. La imagen superior muestra la interferencia constructiva entre dos ondas dispersas y una onda difractada resultante de alta intensidad. La imagen inferior muestra una interferencia destructiva y una onda difractada de baja intensidad.</caption>
 </figure>
 <note id="fs-idp27762640" class="chemistry link-to-learning">
-<para id="fs-idp26359616">Visite este <link url="http://openstax.org/l/16bragg">sitio</link> para obtener más detalles sobre la ecuación de Bragg y un simulador que le permite explorar el efecto de cada variable en la intensidad de la onda difractada.</para>
+<para id="fs-idp26359616">Visite este <link url="https://openstax.org/l/16bragg">sitio</link> para obtener más detalles sobre la ecuación de Bragg y un simulador que le permite explorar el efecto de cada variable en la intensidad de la onda difractada.</para>
 </note>
 <para id="fs-idp184548576">Un difractómetro de rayos X, como el que se ilustra en la <link target-id="CNX_Chem_10_07_XRyDiff2"/>, puede utilizarse para medir los ángulos a los que se difractan los rayos X al interactuar con un cristal, como se describió anteriormente. A partir de estas mediciones, se puede utilizar la ecuación de Bragg para calcular las distancias entre los átomos, como se demuestra en el siguiente ejercicio de ejemplo.</para>
 <figure id="CNX_Chem_10_07_XRyDiff2" class="scaled-down">

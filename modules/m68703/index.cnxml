@@ -101,7 +101,7 @@ En primer lugar, utilice la masa molar para calcular los moles de ácido acétic
 <equation id="fs-idm69146864" class="unnumbered"><m:math><m:mrow><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation>
 <para id="fs-idm81143040">donde <emphasis effect="italics">C</emphasis> y <emphasis effect="italics">V</emphasis> son la concentración y el volumen, respectivamente.</para>
 <note id="fs-idm98324208" class="chemistry link-to-learning">
-<para id="fs-idm105278864">Utilice la <link url="http://openstax.org/l/16Phetsolvents">simulación</link> para explorar las relaciones entre la cantidad de soluto, el volumen de la solución y la concentración y para confirmar la ecuación de dilución.</para>
+<para id="fs-idm105278864">Utilice la <link url="https://openstax.org/l/16Phetsolvents">simulación</link> para explorar las relaciones entre la cantidad de soluto, el volumen de la solución y la concentración y para confirmar la ecuación de dilución.</para>
 </note>
 <example id="fs-idm81737600">
 <para id="fs-idm65542512"><title>Determinar la concentración de una solución diluida</title>

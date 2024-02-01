@@ -165,7 +165,7 @@
 </tbody>
 </tgroup>
 </table><note id="fs-idp86805728" class="chemistry link-to-learning">
-<para id="fs-idm169361696">¿Necesita un repaso o más práctica con la notación científica? Visite este <link url="http://openstax.org/l/16notation">sitio</link> para repasar los fundamentos de la notación científica.</para>
+<para id="fs-idm169361696">¿Necesita un repaso o más práctica con la notación científica? Visite este <link url="https://openstax.org/l/16notation">sitio</link> para repasar los fundamentos de la notación científica.</para>
 </note>
 <section id="fs-idp25374912">
 <title>Unidades básicas del SI</title>
@@ -292,13 +292,13 @@ La densidad de una sustancia puede calcularse dividiendo su masa entre su volume
 </note>
 </example>
 <note id="fs-idm83823632" class="chemistry link-to-learning">
-<para id="fs-idm108028240">Para aprender más sobre la relación entre masa, volumen y densidad, utilice este <link url="http://openstax.org/l/16phetmasvolden">simulador interactivo</link> para explorar la densidad de diferentes materiales.
+<para id="fs-idm108028240">Para aprender más sobre la relación entre masa, volumen y densidad, utilice este <link url="https://openstax.org/l/16phetmasvolden">simulador interactivo</link> para explorar la densidad de diferentes materiales.
 </para>
 </note>
 <example id="Example_01_04_02">
 <para id="fs-idm108240880">
 <title>Usar el desplazamiento del agua para determinar la densidad</title>
-Este ejercicio utiliza una <link url="http://openstax.org/l/16phetmasvolden">simulación</link> para ilustrar un enfoque alternativo para la determinación de la densidad que implica la medición del volumen del objeto a través del desplazamiento del agua. Utilice el simulador para determinar las densidades del hierro y la madera.</para>
+Este ejercicio utiliza una <link url="https://openstax.org/l/16phetmasvolden">simulación</link> para ilustrar un enfoque alternativo para la determinación de la densidad que implica la medición del volumen del objeto a través del desplazamiento del agua. Utilice el simulador para determinar las densidades del hierro y la madera.</para>
 <para id="fs-idp206606992">
 <title>Solución</title>
 Haga clic en el botón “turn fluid into water” ("convertir el líquido en agua") en el simulador para ajustar la densidad del líquido en el vaso de precipitados a 1,00 g/mL. Retire el bloque rojo del vaso de precipitados y observe que el volumen de agua es de 25,5 mL. Seleccione la muestra de hierro haciendo clic en “iron” ("hierro") en la tabla de materiales de la parte inferior de la pantalla, coloque el bloque de hierro en el plato de la balanza y observe que su masa es de 31,48 g. Transfiera el bloque de hierro al vaso de precipitados y observe que se hunde, desplazando un volumen de agua igual a su propio volumen y haciendo que el nivel del agua suba a 29,5 mL. Por lo tanto, el volumen del bloque de hierro es:</para>
@@ -412,7 +412,7 @@ Siguiendo el método de desplazamiento del agua, utilice el simulador para medir
 </exercise>
 <exercise id="fs-idm165750544">
 <problem id="fs-idm233862592">
-<para id="fs-idm250881440">Visite esta <link url="http://openstax.org/l/16phetmasvolden">simulación de densidad</link> y pulse el botón "turn fluid into water" ("convertir el líquido en agua") para ajustar la densidad del líquido en el vaso de precipitados a 1,00 g/mL.</para>
+<para id="fs-idm250881440">Visite esta <link url="https://openstax.org/l/16phetmasvolden">simulación de densidad</link> y pulse el botón "turn fluid into water" ("convertir el líquido en agua") para ajustar la densidad del líquido en el vaso de precipitados a 1,00 g/mL.</para>
 <para id="fs-idm148389344">(a) Utilice el método de desplazamiento de agua para medir la masa y el volumen del material desconocido (seleccione el bloque verde con signos de interrogación).</para>
 <para id="fs-idm329801072">(b) Utilice los datos de masa y volumen medidos en el paso (a) para calcular la densidad del material desconocido.</para>
 <para id="fs-idm344699344">(c) Acceda al enlace proporcionado. </para>
@@ -424,7 +424,7 @@ Siguiendo el método de desplazamiento del agua, utilice el simulador para medir
 </exercise>
 <exercise id="fs-idm307823136">
 <problem id="fs-idm201651312">
-<para id="fs-idm366109136">Visite esta <link url="http://openstax.org/l/16phetmasvolden">simulación de densidad</link> y haga clic en el botón "reset" ("reiniciar") para asegurarse de que todos los parámetros del simulador están en sus valores por defecto.</para>
+<para id="fs-idm366109136">Visite esta <link url="https://openstax.org/l/16phetmasvolden">simulación de densidad</link> y haga clic en el botón "reset" ("reiniciar") para asegurarse de que todos los parámetros del simulador están en sus valores por defecto.</para>
 <para id="fs-idm59188672">(a) Utilice el método de desplazamiento de agua para medir la masa y el volumen del bloque rojo.</para>
 <para id="fs-idm317502864">(b) Utilice los datos de masa y volumen medidos en el paso (a) para calcular la densidad del bloque rojo.</para>
 <para id="fs-idm307356048">(c) Utilice el control deslizante verde vertical para ajustar la densidad del fluido a valores muy por encima, luego muy por debajo y finalmente casi iguales a la densidad del bloque rojo, anotando sus observaciones.</para>
@@ -432,7 +432,7 @@ Siguiendo el método de desplazamiento del agua, utilice el simulador para medir
 </exercise>
 <exercise id="fs-idm160286704">
 <problem id="fs-idm16668912">
-<para id="fs-idp8023104">Visite esta <link url="http://openstax.org/l/16phetmasvolden">simulación de densidad</link> y pulse el botón "turn fluid into water" ("convertir el líquido en agua") para ajustar la densidad del líquido en el vaso de precipitados a 1,00 g/mL. Cambie el material del bloque por espuma y espere pacientemente hasta que el bloque de espuma deje de subir y bajar en el agua. </para>
+<para id="fs-idp8023104">Visite esta <link url="https://openstax.org/l/16phetmasvolden">simulación de densidad</link> y pulse el botón "turn fluid into water" ("convertir el líquido en agua") para ajustar la densidad del líquido en el vaso de precipitados a 1,00 g/mL. Cambie el material del bloque por espuma y espere pacientemente hasta que el bloque de espuma deje de subir y bajar en el agua. </para>
 <para id="fs-idm153136896">(a) El bloque de espuma debe estar flotando en la superficie del agua (es decir, solo parcialmente sumergido). ¿Cuál es el volumen de agua desplazado?<newline/> (b) Utilice el volumen de agua de la parte (a) y la densidad del agua (1,00 g/mL) para calcular la masa de agua desplazada. <newline/> (c) Retire y pese el bloque de espuma. ¿Cómo se compara la masa del bloque con la masa de agua desplazada de la parte (b)?</para>
 </problem>
 <solution id="fs-idm296419808">

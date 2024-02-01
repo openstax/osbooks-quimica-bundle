@@ -23,7 +23,7 @@
 <image mime-type="image/jpeg" src="../../media/CNX_Chem_12_02_AcidDissol.jpg"/>
 </media>
 <caption>(a) El polvo de hierro reacciona rápidamente con el ácido clorhídrico diluido y produce burbujas de gas hidrógeno: 2Fe(<emphasis effect="italics">s</emphasis>) + 6HCl(<emphasis effect="italics">aq</emphasis>) <m:math><m:mo stretchy="false">⟶</m:mo></m:math> 2FeCl<sub>3</sub>(<emphasis effect="italics">aq</emphasis>) + 3H<sub>2</sub>(<emphasis effect="italics">g</emphasis>). Un clavo de hierro reacciona más lentamente porque la superficie expuesta al ácido es mucho menor.</caption></figure><note id="fs-idm104157008" class="chemistry link-to-learning">
-<para id="fs-idm33181984">Vea <link url="http://openstax.org/l/16cesium">este video</link> que muestra la reacción del cesio con el agua a cámara lenta y una discusión sobre cómo el estado de los reactivos y el tamaño de las partículas afectan la velocidad de reacción.</para>
+<para id="fs-idm33181984">Vea <link url="https://openstax.org/l/16cesium">este video</link> que muestra la reacción del cesio con el agua a cámara lenta y una discusión sobre cómo el estado de los reactivos y el tamaño de las partículas afectan la velocidad de reacción.</para>
 </note>
 </section>
 <section id="fs-idm100022464">
@@ -44,14 +44,14 @@
 <caption>Las estatuas fabricadas con compuestos de carbonato, como la piedra caliza y el mármol, suelen deteriorarse lentamente con el paso del tiempo debido a la acción del agua y a la dilatación y contracción térmica. Sin embargo, contaminantes como el dióxido de azufre pueden acelerar la desgaste. A medida que aumenta la concentración de contaminantes atmosféricos, el deterioro de la piedra caliza se produce con mayor rapidez (créditos: James P Fisher III).</caption>
 </figure>
 <note id="fs-idp91411184" class="chemistry link-to-learning">
-<para id="fs-idm30692176">El fósforo arde rápidamente en el aire, pero lo hará aún más rápido si la concentración de oxígeno es mayor. Consulte este <link url="http://openstax.org/l/16phosphor">video</link> que muestra un ejemplo.</para></note>
+<para id="fs-idm30692176">El fósforo arde rápidamente en el aire, pero lo hará aún más rápido si la concentración de oxígeno es mayor. Consulte este <link url="https://openstax.org/l/16phosphor">video</link> que muestra un ejemplo.</para></note>
 </section>
 <section id="fs-idm33945488">
 <title>Presencia de un catalizador</title>
 <para id="fs-idm99481872">Las soluciones acuosas relativamente diluidas de peróxido de hidrógeno, H<sub>2</sub>O<sub>2</sub>, se utilizan habitualmente como antisépticos tópicos. El peróxido de hidrógeno se descompone para producir agua y oxígeno gaseoso según la ecuación:</para>
 <equation id="fs-idm641705824" class="unnumbered"><m:math><m:mrow><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext fontstyle="italic">aq</m:mtext><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo stretchy="false">(</m:mo><m:mtext>g</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation><para id="fs-idm237313312">En condiciones normales, esta descomposición se produce muy lentamente. Sin embargo, cuando se vierte H<sub>2</sub>O<sub>2</sub>(aq) diluido sobre una herida abierta, la reacción se produce rápidamente y la solución hace espuma debido a la producción vigorosa de gas oxígeno. Esta drástica diferencia se debe a la presencia de sustancias en los tejidos expuestos de la herida que aceleran el proceso de descomposición. Las sustancias que funcionan para aumentar la velocidad de una reacción se denominan <term id="term-00001">catalizadores</term>, un tema que se trata con más detalle más adelante en este capítulo.</para>
 <note id="fs-idm166887552" class="chemistry link-to-learning">
-<para id="fs-idm89663808">Las reacciones químicas se producen cuando las moléculas chocan entre sí y sufren una transformación química. Antes de llevar a cabo físicamente una reacción en el laboratorio, los científicos pueden utilizar simulaciones de modelos moleculares para predecir cómo influirán los parámetros antes mencionados en la velocidad de una reacción. Utilice la simulación <link url="http://openstax.org/l/16PHETreaction">interactiva de velocidades y reacciones de PhET</link> para explorar cómo la temperatura, la concentración y la naturaleza de los reactivos afectan las velocidades de reacción.</para>
+<para id="fs-idm89663808">Las reacciones químicas se producen cuando las moléculas chocan entre sí y sufren una transformación química. Antes de llevar a cabo físicamente una reacción en el laboratorio, los científicos pueden utilizar simulaciones de modelos moleculares para predecir cómo influirán los parámetros antes mencionados en la velocidad de una reacción. Utilice la simulación <link url="https://openstax.org/l/16PHETreaction">interactiva de velocidades y reacciones de PhET</link> para explorar cómo la temperatura, la concentración y la naturaleza de los reactivos afectan las velocidades de reacción.</para>
 </note>
 </section>
 <section id="fs-idm70094032" class="summary">
@@ -75,7 +75,7 @@
 </exercise>
 <exercise id="fs-idm66513728">
 <problem id="fs-idm154819360">
-<para id="fs-idm176952992">Vaya a la simulación interactiva de <link url="http://openstax.org/l/16PHETreaction">velocidades y reacciones de PhET</link>. Utilice la pestaña Colisión única para representar cómo la colisión entre el oxígeno monatómico (O) y el monóxido de carbono (CO) resulta en la ruptura de un enlace y la formación de otro. Hale la perilla roja para liberar el átomo y observe los resultados. A continuación, presione en "Recargar lanzador" (Reload Launcher) y cambie a "Tiro oblicuo" (Angled shot) para ver la diferencia.</para>
+<para id="fs-idm176952992">Vaya a la simulación interactiva de <link url="https://openstax.org/l/16PHETreaction">velocidades y reacciones de PhET</link>. Utilice la pestaña Colisión única para representar cómo la colisión entre el oxígeno monatómico (O) y el monóxido de carbono (CO) resulta en la ruptura de un enlace y la formación de otro. Hale la perilla roja para liberar el átomo y observe los resultados. A continuación, presione en "Recargar lanzador" (Reload Launcher) y cambie a "Tiro oblicuo" (Angled shot) para ver la diferencia.</para>
 <para id="fs-idm60742624">(a) ¿Qué sucede cuando se cambia el ángulo de la colisión?</para>
 <para id="fs-idm63859552">(b) Explique la relevancia de este hecho para la velocidad de reacción.</para>
 </problem>
@@ -85,12 +85,12 @@
 </exercise>
 <exercise id="fs-idm66455280">
 <problem id="fs-idm85258160">
-<para id="fs-idm63416144">En la simulación interactiva <link url="http://openstax.org/l/16PHETreaction">velocidades y reacciones de PhET</link>, utilice la pestaña "Muchas colisiones" (Many Collisions) para observar cómo interactúan múltiples átomos y moléculas en diferentes condiciones. Seleccione una molécula para bombear en la cámara. Establezca la temperatura inicial y seleccione las cantidades presentes de cada reactivo. Seleccione “Show bonds” (Mostrar enlaces) en Options (Opciones). ¿Cómo afecta la concentración y la temperatura a la velocidad de la reacción?</para>
+<para id="fs-idm63416144">En la simulación interactiva <link url="https://openstax.org/l/16PHETreaction">velocidades y reacciones de PhET</link>, utilice la pestaña "Muchas colisiones" (Many Collisions) para observar cómo interactúan múltiples átomos y moléculas en diferentes condiciones. Seleccione una molécula para bombear en la cámara. Establezca la temperatura inicial y seleccione las cantidades presentes de cada reactivo. Seleccione “Show bonds” (Mostrar enlaces) en Options (Opciones). ¿Cómo afecta la concentración y la temperatura a la velocidad de la reacción?</para>
 </problem>
 </exercise>
 <exercise id="fs-idm49710224">
 <problem id="fs-idm118152512">
-<para id="fs-idm26937872">En la simulación interactiva <link url="http://openstax.org/l/16PHETreaction">velocidades y reacciones de PhET</link>, en la pestaña Muchas colisiones (Many collisions), configure una simulación con 15 moléculas de A y 10 moléculas de BC. Seleccione “Show bonds” (Mostrar enlaces) en Options (Opciones).</para>
+<para id="fs-idm26937872">En la simulación interactiva <link url="https://openstax.org/l/16PHETreaction">velocidades y reacciones de PhET</link>, en la pestaña Muchas colisiones (Many collisions), configure una simulación con 15 moléculas de A y 10 moléculas de BC. Seleccione “Show bonds” (Mostrar enlaces) en Options (Opciones).</para>
 <para id="fs-idm148287808">(a) Deje la temperatura inicial en el ajuste por defecto. Observe la reacción. ¿La velocidad de reacción es rápida o lenta?</para>
 <para id="fs-idm144569264">(b) Haga clic en “Pause” (Pausa) y luego en “Reset all” (Reiniciar todo) y a continuación introduzca de nuevo 15 moléculas de A y 10 moléculas de BC. Seleccione “Show bonds” (Mostrar enlaces) en Options (Opciones). Esta vez, aumente la temperatura inicial hasta que, en el gráfico, la línea de energía media total esté completamente por encima de la curva de energía potencial. Describa lo que ocurre con la reacción.</para>
 </problem>
