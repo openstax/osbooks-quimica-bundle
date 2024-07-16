@@ -40,13 +40,14 @@
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
 <colspec colnum="4" colname="c4"/>
-<tbody>
-<row valign="top">
+<thead><row valign="top">
 <entry valign="top" align="left"><emphasis effect="italics">K</emphasis></entry>
 <entry valign="top" align="left">Δ<emphasis effect="italics">G</emphasis>°</entry>
 <entry valign="top" align="left"><emphasis effect="italics">E</emphasis>°<sub>celda</sub></entry>
 <entry valign="top" align="left"> </entry>
-</row>
+</row></thead>
+<tbody>
+
 <row valign="top">
 <entry valign="top" align="left">> 1</entry>
 <entry valign="top" align="left">&lt; 0</entry>

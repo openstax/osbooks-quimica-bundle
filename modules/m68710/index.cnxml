@@ -371,11 +371,12 @@ Escriba una ecuación balanceada para la reacción entre el ion dicromato y el h
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
-<tbody>
-<row valign="top">
+<thead><row valign="top">
 <entry align="left"/>
 <entry align="left">Reactivos</entry>
-<entry align="left">Productos</entry></row>
+<entry align="left">Productos</entry></row></thead>
+<tbody>
+
 <row valign="top">
 <entry align="left">Fe</entry>
 <entry align="left">6</entry>
